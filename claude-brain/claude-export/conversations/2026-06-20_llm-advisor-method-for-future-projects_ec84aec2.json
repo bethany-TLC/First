@@ -1,0 +1,316 @@
+{
+  "uuid": "ec84aec2-bb5f-4b62-b443-80f6f0983dd6",
+  "name": "LLM advisor method for future projects",
+  "summary": "**Conversation Overview**\n\nThe person shared a multi-adviser prompting technique called the \"LLM Council\" method (attributed to Andrej Karpathy) and asked Claude to save it to memory for use on future projects. Claude saved the method and confirmed how it works: generating responses from five distinct adviser personas \u2014 Contrarian, First-Principles thinker, Expansionist, Outsider, and Executor \u2014 followed by anonymous peer review among advisers, and a final Chairman synthesis with clear next steps.\n\nClaude also flagged a practical caveat: the anonymous peer-review step is where the method's value is concentrated, and it only works if the Contrarian and Outsider advisers genuinely challenge rather than validate. Claude noted the method is best suited for major strategic decisions and would be overkill for routine deliverables. The person can invoke it by saying \"run it through the council.\" The exchange concluded briefly with the person confirming the save.",
+  "created_at": "2026-06-20T15:47:39.741214Z",
+  "updated_at": "2026-06-20T15:48:36.790256Z",
+  "account": {
+    "uuid": "77640551-a06d-46fc-9d08-24881424ac1f"
+  },
+  "chat_messages": [
+    {
+      "uuid": "019ee5b7-5eb3-7458-a080-c06c85c355b1",
+      "text": "Take this llm advisor method and keep it in your memory for future projects",
+      "content": [
+        {
+          "start_timestamp": "2026-06-20T15:47:40.379699Z",
+          "stop_timestamp": "2026-06-20T15:47:40.379699Z",
+          "flags": null,
+          "type": "text",
+          "text": "Take this llm advisor method and keep it in your memory for future projects",
+          "citations": []
+        }
+      ],
+      "sender": "human",
+      "created_at": "2026-06-20T15:47:40.417679Z",
+      "updated_at": "2026-06-20T15:47:40.417679Z",
+      "attachments": [],
+      "files": [
+        {
+          "file_uuid": "2a3d0eba-796f-4b23-afe7-89458b22bf6c",
+          "file_name": "1000020157.png"
+        }
+      ],
+      "parent_message_uuid": "00000000-0000-4000-8000-000000000000"
+    },
+    {
+      "uuid": "019ee5b7-5eb3-7458-a080-c06db9251f27",
+      "text": "Bethany shared a screenshot of an Instagram post about the LLM Council method\u2014a prompting technique where I answer as five different advisers (Contrarian, First-Principles thinker, Expansionist, Outsider, Executor), have them review each other anonymously, then synthesize their perspectives as Chairman. She wants me to remember this approach for future projects, and I should save it to memory.\n\nI'll check my current memory first to make sure there's no duplication, then add this method clearly so I can reference it when needed.\n```\nThis block is not supported on your current device yet.\n```\n\nI'll add the LLM advisor method as a concise memory edit.\n```\nThis block is not supported on your current device yet.\n```\n\nSaved. The five-adviser council method is in memory now: Contrarian, First-Principles thinker, Expansionist, Outsider, and Executor, each weighing in separately, then reviewing each other anonymously, then a Chairman call with clear next steps.\n\nJust say \"run it through the council\" on any decision or deliverable and I'll apply it.\n\nOne honest flag, since this is exactly the kind of method that gets oversold: the anonymous peer-review step is where most of the value lives, and it's also the step that's easy to fake. If the advisers just rubber-stamp each other, you've spent five times the words to get the same agreeable answer the post is warning you about. When we use it, I'll make the Contrarian and Outsider actually bite, otherwise it's theater.\n\nIt's a strong fit for big strategic calls (pricing the Growth Engine, the sales team headcount model, a new offer) and overkill for routine deliverables. I'll reach for it on the former unless you tell me otherwise.",
+      "content": [
+        {
+          "start_timestamp": "2026-06-20T15:47:44.644119Z",
+          "stop_timestamp": "2026-06-20T15:47:46.311915Z",
+          "flags": null,
+          "type": "thinking",
+          "thinking": "Bethany shared a screenshot of an Instagram post about the LLM Council method\u2014a prompting technique where I answer as five different advisers (Contrarian, First-Principles thinker, Expansionist, Outsider, Executor), have them review each other anonymously, then synthesize their perspectives as Chairman. She wants me to remember this approach for future projects, and I should save it to memory.\n\nI'll check my current memory first to make sure there's no duplication, then add this method clearly so I can reference it when needed.",
+          "summaries": [],
+          "cut_off": false,
+          "truncated": false,
+          "hidden": false,
+          "thinking_hidden": false,
+          "alternative_display_type": null,
+          "signature": "EpoHCmMIDhgCKkCZP+NZXBxdDRmjjsXEcyqStNsvUuGbIjaAFbpE9ERCV/Sn3DUVus2cLOHk/tL40+U6GUVKqNOIqNOuGNzZncmHMg9jbGF1ZGUtb3B1cy00LTg4AEIIdGhpbmtpbmcSDAVhUwKq4/F6xKqQoxoM1w8WzlnPIbEh6L1aIjAid84TPkoFMzx+rD3vgdFmKrf0xiAvGQTH1Z+xx5LHoloBuwzlGdBWZFbxSmk7hfMq5AVbcOreS02gDyyTCAVTgr9O0/+wR+2vEUkKVMAK6bY4syYAPkGH69hkBj+EXYStT3r8NKzbz9bTASsLbGVMOJp4hI0DYtTZPbD/7IMITl88IhBw+OmsVmj9T1l/4G6KzMLz36M2e/mdn1um+NtIsRicT1N/dVE3mJCc58591w0w4gQQbUk4Zhalloc2OwiTwccbWICB4jO0mAywxcydlRYjZ22os5DRpTsLPNyKAYg+jBGRb2OfCT5KZfU9uMa3deCwjK4apc+BSTUgW3JHnyp9I7igtnOOKRih+gg1pGNFQwOSxdstmxEM1KV+2YI5MDFvyCpbd0TtX0D+h+VK/qP4oMT0yNDO+vVrDcdPm9debL6Ec4iuSMPERE+R/zRzKy7DLLe+ib8OgckXeKocW+BODvE9Ej8/Sn6NLTZXO4MFYGsweC/osQgPrsIne5Y6cCdQ/i0lTTwDt7fNHSsYvufyXCxAwMsedjTrSIAhprIu9YdrUHQ/lwkjKu5lG9nkh3wX+yWD+V+JVl5v6xqNm8TTJdYPig0Rmpsg77OTLVQ9D0lnkv6zAFKYuI7S/u1xhnmOV5jU0z2Ol3Z62JZDDGQER3JXs5fTJduw0UEKIXhLWJ2FJTz/p+3Gu/I+LnYlPJFvdQkz9gBkb5nSn1FSUKxk4D8rEKbrs8ry4ZAUCiEzN+ipjTJUD8TBE1C3ZYQ8dMS1nC2tgta09jx2opSeZhKDfKnJBmmU5vCrpvcrK1kFLGktB2PC/MUMSiQqyLjEZTBv9juFaE0ilMoVRtCLxUY8apbQMXkDT8nc2lhEhz9oCu9NAt37Riy90V7xpoJu/VOl481/ffcW59KVXaQtxrqh0YA52CGQBTYswSbmfy2addb1IxL8ZyHd/44B1BcRVfr5BEHakbNs6ArhJr61OyT7b9mlW2wMsrNfQnTZltP1rrV+Xmx7mLdI9OkX5GGhlT8aYGb+SVWfkzpNARqorOcU8rm7bxgB"
+        },
+        {
+          "start_timestamp": "2026-06-20T15:47:44.976509Z",
+          "stop_timestamp": "2026-06-20T15:47:45.163574Z",
+          "flags": null,
+          "type": "tool_use",
+          "id": "toolu_01CWCeTdxuZBswhmCzzhzNNx",
+          "name": "memory_user_edits",
+          "input": {
+            "command": "view"
+          },
+          "message": "Managing memory...",
+          "integration_name": "Memory",
+          "integration_icon_url": "https://claude.ai/images/icons/conversation_search.png",
+          "tool_identifier": null,
+          "icon_name": "memory",
+          "context": null,
+          "display_content": null,
+          "approval_options": null,
+          "approval_key": null,
+          "approval_key_legacy": null,
+          "is_mcp_app": null,
+          "hidden_in_chat": null,
+          "mcp_server_url": null
+        },
+        {
+          "start_timestamp": null,
+          "stop_timestamp": null,
+          "flags": null,
+          "type": "tool_result",
+          "tool_use_id": "toolu_01CWCeTdxuZBswhmCzzhzNNx",
+          "name": "memory_user_edits",
+          "content": [
+            {
+              "type": "text",
+              "text": "Memory edits:\n1. Never use em dashes (\u2014) in anything created for Bethany. Replace with commas, colons, or reword sentences instead.\n2. The Luxora Collective website is theluxoracollective.co (not .com)\n3. Bethany's title is Co-Founder & CEO of The Luxora Collective\n4. When writing spoken content for Bethany (podcast answers, scripts, sales calls, video scripts, audio content): use natural contractions \u2014 don't, can't, it's, that's, won't, isn't, they're, you're, we're, I've, I'd, you've, hasn't, doesn't, wasn't, weren't, couldn't, wouldn't, shouldn't, there's, here's. Keep it conversational and flowing as she actually speaks. For documents, reports, playbooks, and written deliverables: keep formal full words as-is.\n5. Luxora brand (part 1): Owners built their business to offer transformation, not manage spreadsheets. Luxora makes the business reflect that vision. Premium revenue growth partner for independent med spas ($500K to $2M). Works inside out. Starts with Revenue Leak Audit (recovers revenue lost to undertrained front desks, unconverted consults, stagnant clients, missing memberships, weak packages). Then delivers a full Market Blueprint before recommending any new investment.\n6. Luxora brand (part 2): Once foundation is solid, installs: right services at right time, staff sales training, systems that run without owner in every transaction, memberships, package architecture, AI follow-up, CRM, partnerships, reputation engine, marketing, LTV frameworks. Done-with-you, knowledge transfer at every step. Prefers 1+ year partnership (marketing, accountability, monthly check-ins). Goal: owner more capable, confident, in control, not dependent on Luxora.\n7. The Longevity Playbook is one of several OPTIONAL Luxora playbooks, not core or featured. Mention briefly when relevant (e.g., one bullet in a Growth Engine list, or an optional add-on for new revenue stream). Never make it a dedicated section, headline, or main pitch. Bread and butter is Revenue Leak Audit, Market Blueprint, Growth Engine. Only expand on longevity if the client specifically asks about peptides, GLP-1s, hormones, or wellness, or if Bethany asks for it.",
+              "uuid": "eae20d13-53f2-4674-9331-cde08cef08ed"
+            }
+          ],
+          "is_error": false,
+          "structured_content": null,
+          "meta": null,
+          "message": "Viewed memory edits",
+          "integration_name": "Memory",
+          "mcp_server_url": null,
+          "integration_icon_url": "https://claude.ai/images/icons/conversation_search.png",
+          "icon_name": "memory",
+          "display_content": {
+            "type": "rich_content",
+            "content": [
+              {
+                "title": "1. Never use em dashes (\u2014) in anything created for Be...",
+                "subtitles": [
+                  "114 characters"
+                ],
+                "url": null,
+                "resource_type": null,
+                "icon_url": null,
+                "source": null
+              },
+              {
+                "title": "2. The Luxora Collective website is theluxoracollecti...",
+                "subtitles": [
+                  "66 characters"
+                ],
+                "url": null,
+                "resource_type": null,
+                "icon_url": null,
+                "source": null
+              },
+              {
+                "title": "3. Bethany's title is Co-Founder & CEO of The Luxora ...",
+                "subtitles": [
+                  "60 characters"
+                ],
+                "url": null,
+                "resource_type": null,
+                "icon_url": null,
+                "source": null
+              },
+              {
+                "title": "4. When writing spoken content for Bethany (podcast a...",
+                "subtitles": [
+                  "454 characters"
+                ],
+                "url": null,
+                "resource_type": null,
+                "icon_url": null,
+                "source": null
+              },
+              {
+                "title": "5. Luxora brand (part 1): Owners built their business...",
+                "subtitles": [
+                  "475 characters"
+                ],
+                "url": null,
+                "resource_type": null,
+                "icon_url": null,
+                "source": null
+              },
+              {
+                "title": "6. Luxora brand (part 2): Once foundation is solid, i...",
+                "subtitles": [
+                  "476 characters"
+                ],
+                "url": null,
+                "resource_type": null,
+                "icon_url": null,
+                "source": null
+              },
+              {
+                "title": "7. The Longevity Playbook is one of several OPTIONAL ...",
+                "subtitles": [
+                  "473 characters"
+                ],
+                "url": null,
+                "resource_type": null,
+                "icon_url": null,
+                "source": null
+              }
+            ]
+          },
+          "hidden_in_chat": null
+        },
+        {
+          "start_timestamp": "2026-06-20T15:47:48.802715Z",
+          "stop_timestamp": "2026-06-20T15:47:48.946031Z",
+          "flags": null,
+          "type": "thinking",
+          "thinking": "I'll add the LLM advisor method as a concise memory edit.",
+          "summaries": [
+            {
+              "summary": "Internalized LLM advisor methodology for future implementation."
+            }
+          ],
+          "cut_off": false,
+          "truncated": false,
+          "hidden": false,
+          "thinking_hidden": false,
+          "alternative_display_type": null,
+          "signature": "Eo4CCmMIDhgCKkDrW3//GFnIq4ir/VFKYzlOQoNPP+jPb2TGRB9WLpmtEXTBuDD0qMoGugL9c6/vP6hb+tb3KlgAA22yZJBDR1+HMg9jbGF1ZGUtb3B1cy00LTg4AEIIdGhpbmtpbmcSDMzsIKpYPr2hqBSoHRoM8w+lLmhICdOG56RaIjDBsc4abSsTi38RI65W05m535on8dvelRIvyUKZY/OOC4iEP7OaWaDJPjm79kknVMcqWYBM8tbUZWIJQEVabNz4V+RQMpMGDBh6h9EckWIICj3eGS0TfSmIR0w3e8jkn1HbHbk447YI+LSn/pEcIurY4tXSHjPbA8qnfUejnJUU8SUonOI1ArSIyr/mGAE="
+        },
+        {
+          "start_timestamp": "2026-06-20T15:47:48.261734Z",
+          "stop_timestamp": "2026-06-20T15:47:50.923120Z",
+          "flags": null,
+          "type": "tool_use",
+          "id": "toolu_019gE37qP8Jka2fkcuc1RowA",
+          "name": "memory_user_edits",
+          "input": {
+            "command": "add",
+            "control": "Bethany's \"LLM Council\" / five-adviser method (adapted from Andrej Karpathy's LLM Council) for stress-testing decisions: answer a question as five separate advisers, each in their own voice. (1) Contrarian who only names what will fail, (2) First-Principles thinker who challenges every assumption, (3) Expansionist who finds the upside being missed, (4) Outsider with no knowledge of the industry, (5) Executor who only cares what to do Monday morning. Then each adviser reviews the others anonymously. Finally, act as Chairman and give the final call with clear next steps. Use this when she asks for a council/multi-adviser review or to pressure-test a project or decision."
+          },
+          "message": "Managing memory...",
+          "integration_name": "Memory",
+          "integration_icon_url": "https://claude.ai/images/icons/conversation_search.png",
+          "tool_identifier": null,
+          "icon_name": "memory",
+          "context": null,
+          "display_content": null,
+          "approval_options": null,
+          "approval_key": null,
+          "approval_key_legacy": null,
+          "is_mcp_app": null,
+          "hidden_in_chat": null,
+          "mcp_server_url": null
+        },
+        {
+          "start_timestamp": null,
+          "stop_timestamp": null,
+          "flags": null,
+          "type": "tool_result",
+          "tool_use_id": "toolu_019gE37qP8Jka2fkcuc1RowA",
+          "name": "memory_user_edits",
+          "content": [
+            {
+              "type": "text",
+              "text": "Added memory #8: Bethany's \"LLM Council\" / five-adviser method (adapted from Andrej Karpathy's LLM Council) for stress-testing decisions: answer a question as five separate advisers, each in their own voice. (1) Contrarian who only names what will fail, (2) First-Principles thinker who challenges every assumption, (3) Expansionist who finds the upside being missed, (4) Outsider with no knowledge of the industry, (5) Executor who only cares what to do Monday morning. Then each adviser reviews the others anonymously. Finally, act as Chairman and give the final call with clear next steps. Use this when she asks for a council/multi-adviser review or to pressure-test a project or decision.",
+              "uuid": "bbbac9c2-7eda-42d6-8a99-99b389e43820"
+            }
+          ],
+          "is_error": false,
+          "structured_content": null,
+          "meta": null,
+          "message": "Added memory",
+          "integration_name": "Memory",
+          "mcp_server_url": null,
+          "integration_icon_url": "https://claude.ai/images/icons/conversation_search.png",
+          "icon_name": "memory",
+          "display_content": {
+            "type": "rich_content",
+            "content": [
+              {
+                "title": "Added memory",
+                "subtitles": [
+                  "#8: Bethany's \"LLM Council\" / five-adviser method (adapted from Andrej Karpathy's LL..."
+                ],
+                "url": null,
+                "resource_type": null,
+                "icon_url": null,
+                "source": null
+              }
+            ]
+          },
+          "hidden_in_chat": null
+        },
+        {
+          "start_timestamp": "2026-06-20T15:47:52.055679Z",
+          "stop_timestamp": "2026-06-20T15:47:57.068113Z",
+          "flags": null,
+          "type": "text",
+          "text": "Saved. The five-adviser council method is in memory now: Contrarian, First-Principles thinker, Expansionist, Outsider, and Executor, each weighing in separately, then reviewing each other anonymously, then a Chairman call with clear next steps.\n\nJust say \"run it through the council\" on any decision or deliverable and I'll apply it.\n\nOne honest flag, since this is exactly the kind of method that gets oversold: the anonymous peer-review step is where most of the value lives, and it's also the step that's easy to fake. If the advisers just rubber-stamp each other, you've spent five times the words to get the same agreeable answer the post is warning you about. When we use it, I'll make the Contrarian and Outsider actually bite, otherwise it's theater.\n\nIt's a strong fit for big strategic calls (pricing the Growth Engine, the sales team headcount model, a new offer) and overkill for routine deliverables. I'll reach for it on the former unless you tell me otherwise.",
+          "citations": []
+        }
+      ],
+      "sender": "assistant",
+      "created_at": "2026-06-20T15:47:57.095146Z",
+      "updated_at": "2026-06-20T15:47:57.095146Z",
+      "attachments": [],
+      "files": [],
+      "parent_message_uuid": "019ee5b7-5eb3-7458-a080-c06c85c355b1"
+    },
+    {
+      "uuid": "019ee5b8-355e-7660-bfff-726451673ae4",
+      "text": "Great thank you",
+      "content": [
+        {
+          "start_timestamp": "2026-06-20T15:48:35.356399Z",
+          "stop_timestamp": "2026-06-20T15:48:35.356399Z",
+          "flags": null,
+          "type": "text",
+          "text": "Great thank you",
+          "citations": []
+        }
+      ],
+      "sender": "human",
+      "created_at": "2026-06-20T15:48:35.356536Z",
+      "updated_at": "2026-06-20T15:48:35.356536Z",
+      "attachments": [],
+      "files": [],
+      "parent_message_uuid": "019ee5b7-5eb3-7458-a080-c06db9251f27"
+    },
+    {
+      "uuid": "019ee5b8-355e-7660-bfff-7265f24394f1",
+      "text": "You're welcome. Talk soon.",
+      "content": [
+        {
+          "start_timestamp": "2026-06-20T15:48:36.608896Z",
+          "stop_timestamp": "2026-06-20T15:48:36.762659Z",
+          "flags": null,
+          "type": "text",
+          "text": "You're welcome. Talk soon.",
+          "citations": []
+        }
+      ],
+      "sender": "assistant",
+      "created_at": "2026-06-20T15:48:36.790256Z",
+      "updated_at": "2026-06-20T15:48:36.790256Z",
+      "attachments": [],
+      "files": [],
+      "parent_message_uuid": "019ee5b8-355e-7660-bfff-726451673ae4"
+    }
+  ]
+}

@@ -1,0 +1,845 @@
+{
+  "uuid": "bb52babb-cf1a-42f0-9f4e-4745b01d47c6",
+  "name": "Converting content into a lead magnet",
+  "summary": "**Conversation Overview**\n\nThe person worked with Claude to transform an existing KPI reference document into a lead magnet for The Luxora Collective, a premium revenue growth consultancy serving independent med spa owners. The core task involved rebuilding the document as a polished, branded Word (.docx) file with a conversion-focused promotional close designed to drive bookings for a free Revenue Leak Review.\n\nClaude built the document programmatically using the docx Node.js library, creating a multi-section guide covering Lifetime Value (LTV) calculation and 10 core KPIs (including CAC, AOV, gross margin, contribution margin, break-even, provider utilization rate, and marketing payback period). Each KPI was formatted as a two-column card with explanations on the left and fillable fields on the right. The promotional close included a three-step methodology overview (Revenue Leak Audit, Market Blueprint, Install the Systems), a branded CTA block linking to theluxoracollective.co, and a \"What changes when you work with us\" section tying outcomes back to the KPIs covered in the guide.\n\nAfter delivery, the person requested two quick edits: removing all page breaks so the document flows continuously, and guidance on a copyright/rights-reserved footer line. Claude provided four options ranging from a simple copyright line to a fuller reproduction restriction clause, recommending the version that permits sharing in original form with attribution, suited to lead magnet distribution goals. The person's communication style was brief and direct, using shorthand and informal spelling in their requests.",
+  "created_at": "2026-04-21T20:01:00.698278Z",
+  "updated_at": "2026-04-21T21:01:16.180783Z",
+  "account": {
+    "uuid": "77640551-a06d-46fc-9d08-24881424ac1f"
+  },
+  "chat_messages": [
+    {
+      "uuid": "019db1a1-bf73-7188-b280-009f90fdd610",
+      "text": "Turn this into a lead magnet by promoting us at the end and offering out services if they want to learn how to imrpove theri ltv and master their kpis and growth thierbusienss",
+      "content": [
+        {
+          "start_timestamp": "2026-04-21T20:01:01.253943Z",
+          "stop_timestamp": "2026-04-21T20:01:01.253943Z",
+          "flags": null,
+          "type": "text",
+          "text": "Turn this into a lead magnet by promoting us at the end and offering out services if they want to learn how to imrpove theri ltv and master their kpis and growth thierbusienss",
+          "citations": []
+        }
+      ],
+      "sender": "human",
+      "created_at": "2026-04-21T20:01:01.328342Z",
+      "updated_at": "2026-04-21T20:01:01.328342Z",
+      "attachments": [],
+      "files": [
+        {
+          "file_uuid": "019db1a1-a5ea-7790-b3d6-3a00231b060b",
+          "file_name": "KYN_Playbook_Luxora.pdf"
+        }
+      ],
+      "parent_message_uuid": "00000000-0000-4000-8000-000000000000"
+    },
+    {
+      "uuid": "019db1a1-bf73-7e94-9742-0141bcfe3849",
+      "text": " I'll turn this into a lead magnet with a strong promotional close. Let me read the docx skill first, then rebuild the document with a conversion-focused ending.\n```\nThis block is not supported on your current device yet.\n```\n\nNow I have what I need. Let me build this as a lead magnet with a strong promotional close.\n```\nThis block is not supported on your current device yet.\n```\n\n\n```\nThis block is not supported on your current device yet.\n```\n\n\n```\nThis block is not supported on your current device yet.\n```\n\n\n```\nThis block is not supported on your current device yet.\n```\n\n\n```\nThis block is not supported on your current device yet.\n```\n\nDone. Here's what changed from the original KPI playbook to turn it into a lead magnet:\n\n**Structural changes**\n1. Added a branded cover page (Luxora Collective, gold accent rule, tagline, URL)\n2. Added an \"Inside this guide\" teaser on page 2 so the reader knows what they're about to get\n3. Rebuilt the 10 KPIs as two-column cards (explanation left, fillable numbers right in a light panel) so it feels like a premium workbook instead of a text doc\n4. Cleaned up the \"Your LTV\" section into a side-by-side Example vs. Your LTV layout\n5. Replaced the plain ending with a three-page promotional close\n\n**The promotional close (new)**\n- Bridge page: \"You know the numbers. The question is what you do with them.\" Reframes the honest findings most owners will see when they fill the fields in (low utilization, flat AOV, no membership) as a systems problem, not a business problem.\n- Luxora positioning block in your brand voice: premium revenue growth partner, $500K to $2M independents, knowledge transfer, not dependent on us.\n- Three numbered process steps (Revenue Leak Audit, Market Blueprint, Install the Systems) matching your actual methodology.\n- \"What changes when you work with us\" mapped directly back to the KPIs in the guide (LTV up, CAC down, payback shrinks, utilization rises). This is the critical link, it proves the offer solves the exact pain the guide just surfaced.\n- Final CTA: Free 30-minute Revenue Leak Review, with a navy button linking to theluxoracollective.co, and a \"no pitch, no pressure\" reassurance line.\n\n**Two weakest parts to flag**\n1. **The CTA destination is the homepage.** For a lead magnet this matters a lot. Homepage traffic converts 3 to 5x worse than a dedicated booking page. You should point the button at a specific calendar link (Calendly, GHL booking widget) or a landing page built for this exact offer with only one action on it. I used the homepage because I don't have the booking URL, but swap it before you send this out.\n\n2. **There's no lead capture mechanism inside the doc itself.** Right now someone can read the whole thing, skip the CTA, and you never know they downloaded it. Two fixes worth considering: (a) gate the PDF behind an email opt-in on your site (standard move), and (b) add a second softer CTA earlier in the document, probably right after the LTV calculation on page 3, something like \"See what your numbers look like when we run them together, book a free Revenue Leak Review.\" One CTA at the end is fine for short content, but this is a 15+ page document and some readers will decide to book before they finish.",
+      "content": [
+        {
+          "start_timestamp": "2026-04-21T20:01:03.831890Z",
+          "stop_timestamp": "2026-04-21T20:01:05.008281Z",
+          "flags": null,
+          "type": "text",
+          "text": " I'll turn this into a lead magnet with a strong promotional close. Let me read the docx skill first, then rebuild the document with a conversion-focused ending.",
+          "citations": []
+        },
+        {
+          "start_timestamp": "2026-04-21T20:01:05.008281Z",
+          "stop_timestamp": "2026-04-21T20:01:06.018789Z",
+          "flags": null,
+          "type": "tool_use",
+          "id": "toolu_01MBqm1V72TQCDbM7gF8rdMf",
+          "name": "view",
+          "input": {
+            "description": "Read the docx skill before creating the Word document",
+            "path": "/mnt/skills/public/docx/SKILL.md"
+          },
+          "message": "Read the docx skill before creating the Word document",
+          "integration_name": null,
+          "integration_icon_url": null,
+          "tool_identifier": null,
+          "icon_name": "file",
+          "context": null,
+          "display_content": {
+            "type": "text",
+            "text": "Read the docx skill before creating the Word document"
+          },
+          "approval_options": null,
+          "approval_key": null,
+          "approval_key_legacy": null,
+          "is_mcp_app": null,
+          "hidden_in_chat": null,
+          "mcp_server_url": null
+        },
+        {
+          "start_timestamp": null,
+          "stop_timestamp": null,
+          "flags": null,
+          "type": "tool_result",
+          "tool_use_id": "toolu_01MBqm1V72TQCDbM7gF8rdMf",
+          "name": "view",
+          "content": [
+            {
+              "type": "text",
+              "text": "     1\t---\n     2\tname: docx\n     3\tdescription: \"Use this skill whenever the user wants to create, read, edit, or manipulate Word documents (.docx files). Triggers include: any mention of 'Word doc', 'word document', '.docx', or requests to produce professional documents with formatting like tables of contents, headings, page numbers, or letterheads. Also use when extracting or reorganizing content from .docx files, inserting or replacing images in documents, performing find-and-replace in Word files, working with tracked changes or comments, or converting content into a polished Word document. If the user asks for a 'report', 'memo', 'letter', 'template', or similar deliverable as a Word or .docx file, use this skill. Do NOT use for PDFs, spreadsheets, Google Docs, or general coding tasks unrelated to document generation.\"\n     4\tlicense: Proprietary. LICENSE.txt has complete terms\n     5\t---\n     6\t\n     7\t# DOCX creation, editing, and analysis\n     8\t\n     9\t## Overview\n    10\t\n    11\tA .docx file is a ZIP archive containing XML files.\n    12\t\n    13\t## Quick Reference\n    14\t\n    15\t| Task | Approach |\n    16\t|------|----------|\n    17\t| Read/analyze content | `extract-text`, or unpack for raw XML |\n    18\t| Create new document | Use `docx-js` - see Creating New Documents below |\n    19\t| Edit existing document | Unpack \u2192 edit XML \u2192 repack - see Editing Existing Documents below |\n    20\t\n    21\t### Converting .doc to .docx\n    22\t\n    23\tLegacy `.doc` files must be converted before editing:\n    24\t\n    25\t```bash\n    26\tpython scripts/office/soffice.py --headless --convert-to docx document.doc\n    27\t```\n    28\t\n    29\t### Reading Content\n    30\t\n    31\t```bash\n    32\t# Text extraction as markdown\n    33\textract-text document.docx\n    34\t\n    35\t# Show tracked changes instead of accepting them\n    36\tpandoc --track-changes=all document.docx -o output.md\n    37\t\n    38\t# Raw XML access\n    39\tpython scripts/office/unpack.py document.docx unpacked/\n    40\t```\n    41\t\n    42\t### Converting to Images\n    43\t\n    44\t```bash\n    45\tpython scripts/office/soffice.py --headless --convert-to pdf document.docx\n    46\tpdftoppm -jpeg -r 150 document.pdf page\n    47\t```\n    48\t\n    49\t### Accepting Tracked Changes\n    50\t\n    51\tTo produce a clean document with all tracked changes accepted (requires LibreOffice):\n    52\t\n    53\t```bash\n    54\tpython scripts/accept_changes.py input.docx output.docx\n    55\t```\n    56\t\n    57\t---\n    58\t\n    59\t## Creating New Documents\n    60\t\n    61\tGenerate .docx files with JavaScript, then validate. Install: `npm install -g docx`\n    62\t\n    63\t### Setup\n    64\t```javascript\n    65\tconst { Document, Packer, Paragraph, TextRun, Table, TableRow, TableCell, ImageRun,\n    66\t        Header, Footer, AlignmentType, PageOrientation, LevelFormat, ExternalHyperlink,\n    67\t        InternalHyperlink, Bookmark, FootnoteReferenceRun, PositionalTab,\n    68\t        PositionalTabAlignment, PositionalTabRelativeTo, PositionalTabLeader,\n    69\t        TabStopType, TabStopPosition, Column, SectionType,\n    70\t        TableOfContents, HeadingLevel, BorderStyle, WidthType, ShadingType,\n    71\t        VerticalAlign, PageNumber, PageBreak } = require('docx');\n    72\t\n    73\tconst doc = new Document({ sections: [{ children: [/* content */] }] });\n    74\tPacker.toBuffer(doc).then(buffer => fs.writeFileSync(\"doc.docx\", buffer));\n    75\t```\n    76\t\n    77\t### Validation\n    78\tAfter creating the file, validate it. If validation fails, unpack, fix the XML, and repack.\n    79\t```bash\n    80\tpython scripts/office/validate.py doc.docx\n    81\t```\n    82\t\n    83\t### Page Size\n    84\t\n    85\t```javascript\n    86\t// CRITICAL: docx-js defaults to A4, not US Letter\n    87\t// Always set page size explicitly for consistent results\n    88\tsections: [{\n    89\t  properties: {\n    90\t    page: {\n    91\t      size: {\n    92\t        width: 12240,   // 8.5 inches in DXA\n    93\t        height: 15840   // 11 inches in DXA\n    94\t      },\n    95\t      margin: { top: 1440, right: 1440, bottom: 1440, left: 1440 } // 1 inch margins\n    96\t    }\n    97\t  },\n    98\t  children: [/* content */]\n    99\t}]\n   100\t```\n   101\t\n   102\t**Common page sizes (DXA units, 1440 DXA = 1 inch):**\n   103\t\n   104\t| Paper | Width | Height | Content Width (1\" margins) |\n   105\t|-------|-------|--------|---------------------------|\n   106\t| US Letter | 12,240 | 15,840 | 9,360 |\n   107\t| A4 (default) | 11,906 | 16,838 | 9,026 |\n   108\t\n   109\t**Landscape orientation:** docx-js swaps width/height internally, so pass portrait dimensions and let it handle the swap:\n   110\t```javascript\n   111\tsize: {\n   112\t  width: 12240,   // Pass SHORT edge as width\n   113\t  height: 15840,  // Pass LONG edge as height\n   114\t  orientation: PageOrientation.LANDSCAPE  // docx-js swaps them in the XML\n   115\t},\n   116\t// Content width = 15840 - left margin - right margin (uses the long edge)\n   117\t```\n   118\t\n   119\t### Styles (Override Built-in Headings)\n   120\t\n   121\tUse Arial as the default font (universally supported). Keep titles black for readability.\n   122\t\n   123\t```javascript\n   124\tconst doc = new Document({\n   125\t  styles: {\n   126\t    default: { document: { run: { font: \"Arial\", size: 24 } } }, // 12pt default\n   127\t    paragraphStyles: [\n   128\t      // IMPORTANT: Use exact IDs to override built-in styles\n   129\t      { id: \"Heading1\", name: \"Heading 1\", basedOn: \"Normal\", next: \"Normal\", quickFormat: true,\n   130\t        run: { size: 32, bold: true, font: \"Arial\" },\n   131\t        paragraph: { spacing: { before: 240, after: 240 }, outlineLevel: 0 } }, // outlineLevel required for TOC\n   132\t      { id: \"Heading2\", name: \"Heading 2\", basedOn: \"Normal\", next: \"Normal\", quickFormat: true,\n   133\t        run: { size: 28, bold: true, font: \"Arial\" },\n   134\t        paragraph: { spacing: { before: 180, after: 180 }, outlineLevel: 1 } },\n   135\t    ]\n   136\t  },\n   137\t  sections: [{\n   138\t    children: [\n   139\t      new Paragraph({ heading: HeadingLevel.HEADING_1, children: [new TextRun(\"Title\")] }),\n   140\t    ]\n   141\t  }]\n   142\t});\n   143\t```\n   144\t\n   145\t### Lists (NEVER use unicode bullets)\n   146\t\n   147\t```javascript\n   148\t// \u274c WRONG - never manually insert bullet characters\n   149\tnew Paragraph({ children: [new TextRun(\"\u2022 Item\")] })  // BAD\n   150\tnew Paragraph({ children: [new TextRun(\"\\u2022 Item\")] })  // BAD\n   151\t\n   152\t// \u2705 CORRECT - use numbering config with LevelFormat.BULLET\n   153\tconst doc = new Document({\n   154\t  numbering: {\n   155\t    config: [\n   156\t      { reference: \"bullets\",\n   157\t        levels: [{ level: 0, format: LevelFormat.BULLET, text: \"\u2022\", alignment: AlignmentType.LEFT,\n   158\t          style: { paragraph: { indent: { left: 720, hanging: 360 } } } }] },\n   159\t      { reference: \"numbers\",\n   160\t        levels: [{ level: 0, format: LevelFormat.DECIMAL, text: \"%1.\", alignment: AlignmentType.LEFT,\n   161\t          style: { paragraph: { indent: { left: 720, hanging: 360 } } } }] },\n   162\t    ]\n   163\t  },\n   164\t  sections: [{\n   165\t    children: [\n   166\t      new Paragraph({ numbering: { reference: \"bullets\", level: 0 },\n   167\t        children: [new TextRun(\"Bullet item\")] }),\n   168\t      new Paragraph({ numbering: { reference: \"numbers\", level: 0 },\n   169\t        children: [new TextRun(\"Numbered item\")] }),\n   170\t    ]\n   171\t  }]\n   172\t});\n   173\t\n   174\t// \u26a0\ufe0f Each reference creates INDEPENDENT numbering\n   175\t// Same reference = continues (1,2,3 then 4,5,6)\n   176\t// Different reference = restarts (1,2,3 then 1,2,3)\n   177\t```\n   178\t\n   179\t### Tables\n   180\t\n   181\t**CRITICAL: Tables need dual widths** - set both `columnWidths` on the table AND `width` on each cell. Without both, tables render incorrectly on some platforms.\n   182\t\n   183\t```javascript\n   184\t// CRITICAL: Always set table width for consistent rendering\n   185\t// CRITICAL: Use ShadingType.CLEAR (not SOLID) to prevent black backgrounds\n   186\tconst border = { style: BorderStyle.SINGLE, size: 1, color: \"CCCCCC\" };\n   187\tconst borders = { top: border, bottom: border, left: border, right: border };\n   188\t\n   189\tnew Table({\n   190\t  width: { size: 9360, type: WidthType.DXA }, // Always use DXA (percentages break in Google Docs)\n   191\t  columnWidths: [4680, 4680], // Must sum to table width (DXA: 1440 = 1 inch)\n   192\t  rows: [\n   193\t    new TableRow({\n   194\t      children: [\n   195\t        new TableCell({\n   196\t          borders,\n   197\t          width: { size: 4680, type: WidthType.DXA }, // Also set on each cell\n   198\t          shading: { fill: \"D5E8F0\", type: ShadingType.CLEAR }, // CLEAR not SOLID\n   199\t          margins: { top: 80, bottom: 80, left: 120, right: 120 }, // Cell padding (internal, not added to width)\n   200\t          children: [new Paragraph({ children: [new TextRun(\"Cell\")] })]\n   201\t        })\n   202\t      ]\n   203\t    })\n   204\t  ]\n   205\t})\n   206\t```\n   207\t\n   208\t**Table width calculation:**\n   209\t\n   210\tAlways use `WidthType.DXA` \u2014 `WidthType.PERCENTAGE` breaks in Google Docs.\n   211\t\n   212\t```javascript\n   213\t// Table width = sum of columnWidths = content width\n   214\t// US Letter with 1\" margins: 12240 - 2880 = 9360 DXA\n   215\twidth: { size: 9360, type: WidthType.DXA },\n\t< truncated lines 216-378 >\n   379\t```\n   380\t\n   381\t### Critical Rules for docx-js\n   382\t\n   383\t- **Set page size explicitly** - docx-js defaults to A4; use US Letter (12240 x 15840 DXA) for US documents\n   384\t- **Landscape: pass portrait dimensions** - docx-js swaps width/height internally; pass short edge as `width`, long edge as `height`, and set `orientation: PageOrientation.LANDSCAPE`\n   385\t- **Never use `\\n`** - use separate Paragraph elements\n   386\t- **Never use unicode bullets** - use `LevelFormat.BULLET` with numbering config\n   387\t- **PageBreak must be in Paragraph** - standalone creates invalid XML\n   388\t- **ImageRun requires `type`** - always specify png/jpg/etc\n   389\t- **Always set table `width` with DXA** - never use `WidthType.PERCENTAGE` (breaks in Google Docs)\n   390\t- **Tables need dual widths** - `columnWidths` array AND cell `width`, both must match\n   391\t- **Table width = sum of columnWidths** - for DXA, ensure they add up exactly\n   392\t- **Always add cell margins** - use `margins: { top: 80, bottom: 80, left: 120, right: 120 }` for readable padding\n   393\t- **Use `ShadingType.CLEAR`** - never SOLID for table shading\n   394\t- **Never use tables as dividers/rules** - cells have minimum height and render as empty boxes (including in headers/footers); use `border: { bottom: { style: BorderStyle.SINGLE, size: 6, color: \"2E75B6\", space: 1 } }` on a Paragraph instead. For two-column footers, use tab stops (see Tab Stops section), not tables\n   395\t- **TOC requires HeadingLevel only** - no custom styles on heading paragraphs\n   396\t- **Override built-in styles** - use exact IDs: \"Heading1\", \"Heading2\", etc.\n   397\t- **Include `outlineLevel`** - required for TOC (0 for H1, 1 for H2, etc.)\n   398\t\n   399\t---\n   400\t\n   401\t## Editing Existing Documents\n   402\t\n   403\t**Follow all 3 steps in order.**\n   404\t\n   405\t### Step 1: Unpack\n   406\t```bash\n   407\tpython scripts/office/unpack.py document.docx unpacked/\n   408\t```\n   409\tExtracts XML, pretty-prints, merges adjacent runs, and converts smart quotes to XML entities (`&#x201C;` etc.) so they survive editing. Use `--merge-runs false` to skip run merging.\n   410\t\n   411\t### Step 2: Edit XML\n   412\t\n   413\tEdit files in `unpacked/word/`. See XML Reference below for patterns.\n   414\t\n   415\t**Use \"Claude\" as the author** for tracked changes and comments, unless the user explicitly requests use of a different name.\n   416\t\n   417\t**Use the Edit tool directly for string replacement. Do not write Python scripts.** Scripts introduce unnecessary complexity. The Edit tool shows exactly what is being replaced.\n   418\t\n   419\t**CRITICAL: Use smart quotes for new content.** When adding text with apostrophes or quotes, use XML entities to produce smart quotes:\n   420\t```xml\n   421\t<!-- Use these entities for professional typography -->\n   422\t<w:t>Here&#x2019;s a quote: &#x201C;Hello&#x201D;</w:t>\n   423\t```\n   424\t| Entity | Character |\n   425\t|--------|-----------|\n   426\t| `&#x2018;` | \u2018 (left single) |\n   427\t| `&#x2019;` | \u2019 (right single / apostrophe) |\n   428\t| `&#x201C;` | \u201c (left double) |\n   429\t| `&#x201D;` | \u201d (right double) |\n   430\t\n   431\t**Adding comments:** Use `comment.py` to handle boilerplate across multiple XML files (text must be pre-escaped XML):\n   432\t```bash\n   433\tpython scripts/comment.py unpacked/ 0 \"Comment text with &amp; and &#x2019;\"\n   434\tpython scripts/comment.py unpacked/ 1 \"Reply text\" --parent 0  # reply to comment 0\n   435\tpython scripts/comment.py unpacked/ 0 \"Text\" --author \"Custom Author\"  # custom author name\n   436\t```\n   437\tThen add markers to document.xml (see Comments in XML Reference).\n   438\t\n   439\t### Step 3: Pack\n   440\t```bash\n   441\tpython scripts/office/pack.py unpacked/ output.docx --original document.docx\n   442\t```\n   443\tValidates with auto-repair, condenses XML, and creates DOCX. Use `--validate false` to skip.\n   444\t\n   445\t**Auto-repair will fix:**\n   446\t- `durableId` >= 0x7FFFFFFF (regenerates valid ID)\n   447\t- Missing `xml:space=\"preserve\"` on `<w:t>` with whitespace\n   448\t\n   449\t**Auto-repair won't fix:**\n   450\t- Malformed XML, invalid element nesting, missing relationships, schema violations\n   451\t\n   452\t### Common Pitfalls\n   453\t\n   454\t- **Replace entire `<w:r>` elements**: When adding tracked changes, replace the whole `<w:r>...</w:r>` block with `<w:del>...<w:ins>...` as siblings. Don't inject tracked change tags inside a run.\n   455\t- **Preserve `<w:rPr>` formatting**: Copy the original run's `<w:rPr>` block into your tracked change runs to maintain bold, font size, etc.\n   456\t\n   457\t---\n   458\t\n   459\t## XML Reference\n   460\t\n   461\t### Schema Compliance\n   462\t\n   463\t- **Element order in `<w:pPr>`**: `<w:pStyle>`, `<w:numPr>`, `<w:spacing>`, `<w:ind>`, `<w:jc>`, `<w:rPr>` last\n   464\t- **Whitespace**: Add `xml:space=\"preserve\"` to `<w:t>` with leading/trailing spaces\n   465\t- **RSIDs**: Must be 8-digit hex (e.g., `00AB1234`)\n   466\t\n   467\t### Tracked Changes\n   468\t\n   469\t**Insertion:**\n   470\t```xml\n   471\t<w:ins w:id=\"1\" w:author=\"Claude\" w:date=\"2025-01-01T00:00:00Z\">\n   472\t  <w:r><w:t>inserted text</w:t></w:r>\n   473\t</w:ins>\n   474\t```\n   475\t\n   476\t**Deletion:**\n   477\t```xml\n   478\t<w:del w:id=\"2\" w:author=\"Claude\" w:date=\"2025-01-01T00:00:00Z\">\n   479\t  <w:r><w:delText>deleted text</w:delText></w:r>\n   480\t</w:del>\n   481\t```\n   482\t\n   483\t**Inside `<w:del>`**: Use `<w:delText>` instead of `<w:t>`, and `<w:delInstrText>` instead of `<w:instrText>`.\n   484\t\n   485\t**Minimal edits** - only mark what changes:\n   486\t```xml\n   487\t<!-- Change \"30 days\" to \"60 days\" -->\n   488\t<w:r><w:t>The term is </w:t></w:r>\n   489\t<w:del w:id=\"1\" w:author=\"Claude\" w:date=\"...\">\n   490\t  <w:r><w:delText>30</w:delText></w:r>\n   491\t</w:del>\n   492\t<w:ins w:id=\"2\" w:author=\"Claude\" w:date=\"...\">\n   493\t  <w:r><w:t>60</w:t></w:r>\n   494\t</w:ins>\n   495\t<w:r><w:t> days.</w:t></w:r>\n   496\t```\n   497\t\n   498\t**Deleting entire paragraphs/list items** - when removing ALL content from a paragraph, also mark the paragraph mark as deleted so it merges with the next paragraph. Add `<w:del/>` inside `<w:pPr><w:rPr>`:\n   499\t```xml\n   500\t<w:p>\n   501\t  <w:pPr>\n   502\t    <w:numPr>...</w:numPr>  <!-- list numbering if present -->\n   503\t    <w:rPr>\n   504\t      <w:del w:id=\"1\" w:author=\"Claude\" w:date=\"2025-01-01T00:00:00Z\"/>\n   505\t    </w:rPr>\n   506\t  </w:pPr>\n   507\t  <w:del w:id=\"2\" w:author=\"Claude\" w:date=\"2025-01-01T00:00:00Z\">\n   508\t    <w:r><w:delText>Entire paragraph content being deleted...</w:delText></w:r>\n   509\t  </w:del>\n   510\t</w:p>\n   511\t```\n   512\tWithout the `<w:del/>` in `<w:pPr><w:rPr>`, accepting changes leaves an empty paragraph/list item.\n   513\t\n   514\t**Rejecting another author's insertion** - nest deletion inside their insertion:\n   515\t```xml\n   516\t<w:ins w:author=\"Jane\" w:id=\"5\">\n   517\t  <w:del w:author=\"Claude\" w:id=\"10\">\n   518\t    <w:r><w:delText>their inserted text</w:delText></w:r>\n   519\t  </w:del>\n   520\t</w:ins>\n   521\t```\n   522\t\n   523\t**Restoring another author's deletion** - add insertion after (don't modify their deletion):\n   524\t```xml\n   525\t<w:del w:author=\"Jane\" w:id=\"5\">\n   526\t  <w:r><w:delText>deleted text</w:delText></w:r>\n   527\t</w:del>\n   528\t<w:ins w:author=\"Claude\" w:id=\"10\">\n   529\t  <w:r><w:t>deleted text</w:t></w:r>\n   530\t</w:ins>\n   531\t```\n   532\t\n   533\t### Comments\n   534\t\n   535\tAfter running `comment.py` (see Step 2), add markers to document.xml. For replies, use `--parent` flag and nest markers inside the parent's.\n   536\t\n   537\t**CRITICAL: `<w:commentRangeStart>` and `<w:commentRangeEnd>` are siblings of `<w:r>`, never inside `<w:r>`.**\n   538\t\n   539\t```xml\n   540\t<!-- Comment markers are direct children of w:p, never inside w:r -->\n   541\t<w:commentRangeStart w:id=\"0\"/>\n   542\t<w:del w:id=\"1\" w:author=\"Claude\" w:date=\"2025-01-01T00:00:00Z\">\n   543\t  <w:r><w:delText>deleted</w:delText></w:r>\n   544\t</w:del>\n   545\t<w:r><w:t> more text</w:t></w:r>\n   546\t<w:commentRangeEnd w:id=\"0\"/>\n   547\t<w:r><w:rPr><w:rStyle w:val=\"CommentReference\"/></w:rPr><w:commentReference w:id=\"0\"/></w:r>\n   548\t\n   549\t<!-- Comment 0 with reply 1 nested inside -->\n   550\t<w:commentRangeStart w:id=\"0\"/>\n   551\t  <w:commentRangeStart w:id=\"1\"/>\n   552\t  <w:r><w:t>text</w:t></w:r>\n   553\t  <w:commentRangeEnd w:id=\"1\"/>\n   554\t<w:commentRangeEnd w:id=\"0\"/>\n   555\t<w:r><w:rPr><w:rStyle w:val=\"CommentReference\"/></w:rPr><w:commentReference w:id=\"0\"/></w:r>\n   556\t<w:r><w:rPr><w:rStyle w:val=\"CommentReference\"/></w:rPr><w:commentReference w:id=\"1\"/></w:r>\n   557\t```\n   558\t\n   559\t### Images\n   560\t\n   561\t1. Add image file to `word/media/`\n   562\t2. Add relationship to `word/_rels/document.xml.rels`:\n   563\t```xml\n   564\t<Relationship Id=\"rId5\" Type=\".../image\" Target=\"media/image1.png\"/>\n   565\t```\n   566\t3. Add content type to `[Content_Types].xml`:\n   567\t```xml\n   568\t<Default Extension=\"png\" ContentType=\"image/png\"/>\n   569\t```\n   570\t4. Reference in document.xml:\n   571\t```xml\n   572\t<w:drawing>\n   573\t  <wp:inline>\n   574\t    <wp:extent cx=\"914400\" cy=\"914400\"/>  <!-- EMUs: 914400 = 1 inch -->\n   575\t    <a:graphic>\n   576\t      <a:graphicData uri=\".../picture\">\n   577\t        <pic:pic>\n   578\t          <pic:blipFill><a:blip r:embed=\"rId5\"/></pic:blipFill>\n   579\t        </pic:pic>\n   580\t      </a:graphicData>\n   581\t    </a:graphic>\n   582\t  </wp:inline>\n   583\t</w:drawing>\n   584\t```\n   585\t\n   586\t---\n   587\t\n   588\t## Dependencies\n   589\t\n   590\t- **pandoc**: Text extraction\n   591\t- **docx**: `npm install -g docx` (new documents)\n   592\t- **LibreOffice**: PDF conversion (auto-configured for sandboxed environments via `scripts/office/soffice.py`)\n   593\t- **Poppler**: `pdftoppm` for images\n   594\t",
+              "uuid": "757b5d19-9f62-44e7-93c7-7bb262f6c16a"
+            }
+          ],
+          "is_error": false,
+          "structured_content": null,
+          "meta": null,
+          "message": null,
+          "integration_name": null,
+          "mcp_server_url": null,
+          "integration_icon_url": null,
+          "icon_name": "file",
+          "display_content": null,
+          "hidden_in_chat": null
+        },
+        {
+          "start_timestamp": "2026-04-21T20:01:15.040764Z",
+          "stop_timestamp": "2026-04-21T20:01:15.846840Z",
+          "flags": null,
+          "type": "text",
+          "text": "Now I have what I need. Let me build this as a lead magnet with a strong promotional close.",
+          "citations": []
+        },
+        {
+          "start_timestamp": "2026-04-21T20:01:16.234257Z",
+          "stop_timestamp": "2026-04-21T20:03:36.771798Z",
+          "flags": null,
+          "type": "tool_use",
+          "id": "toolu_01RFAquJTqVrC3jugtZim772",
+          "name": "create_file",
+          "input": {
+            "description": "Build the lead magnet Word doc with promotional CTA at end",
+            "path": "/home/claude/build_kyn.js",
+            "file_text": "const {\n  Document, Packer, Paragraph, TextRun, Table, TableRow, TableCell,\n  AlignmentType, LevelFormat, HeadingLevel, BorderStyle, WidthType,\n  ShadingType, PageBreak, ExternalHyperlink\n} = require('docx');\nconst fs = require('fs');\n\n// Brand palette\nconst NAVY = \"0A1F44\";\nconst GOLD = \"B08D57\";\nconst LIGHT = \"F5F1EA\";\nconst GREY = \"4A4A4A\";\nconst BORDER_GREY = \"D9D9D9\";\n\nconst border = { style: BorderStyle.SINGLE, size: 4, color: BORDER_GREY };\nconst borders = { top: border, bottom: border, left: border, right: border };\n\n// Helpers\nconst p = (text, opts = {}) => new Paragraph({\n  spacing: { before: 80, after: 80, ...(opts.spacing || {}) },\n  alignment: opts.alignment,\n  children: [new TextRun({ text, font: \"Calibri\", size: opts.size || 22, color: opts.color || GREY, bold: opts.bold })]\n});\n\nconst pRuns = (runs, opts = {}) => new Paragraph({\n  spacing: { before: 80, after: 80, ...(opts.spacing || {}) },\n  alignment: opts.alignment,\n  children: runs\n});\n\nconst h1 = (text) => new Paragraph({\n  heading: HeadingLevel.HEADING_1,\n  spacing: { before: 360, after: 180 },\n  children: [new TextRun({ text, font: \"Calibri\", size: 40, bold: true, color: NAVY })]\n});\n\nconst h2 = (text) => new Paragraph({\n  heading: HeadingLevel.HEADING_2,\n  spacing: { before: 280, after: 140 },\n  children: [new TextRun({ text, font: \"Calibri\", size: 30, bold: true, color: NAVY })]\n});\n\nconst h3 = (text) => new Paragraph({\n  heading: HeadingLevel.HEADING_3,\n  spacing: { before: 200, after: 100 },\n  children: [new TextRun({ text, font: \"Calibri\", size: 24, bold: true, color: GOLD })]\n});\n\nconst small = (text, opts = {}) => new Paragraph({\n  spacing: { before: 40, after: 40 },\n  alignment: opts.alignment,\n  children: [new TextRun({ text, font: \"Calibri\", size: 18, italics: opts.italics, color: opts.color || GREY })]\n});\n\nconst bullet = (text) => new Paragraph({\n  numbering: { reference: \"bullets\", level: 0 },\n  spacing: { before: 60, after: 60 },\n  children: [new TextRun({ text, font: \"Calibri\", size: 22, color: GREY })]\n});\n\nconst divider = () => new Paragraph({\n  border: { bottom: { style: BorderStyle.SINGLE, size: 8, color: GOLD, space: 1 } },\n  spacing: { before: 120, after: 120 },\n  children: [new TextRun(\"\")]\n});\n\n// Cell builder\nconst cell = (content, opts = {}) => new TableCell({\n  borders,\n  width: { size: opts.width, type: WidthType.DXA },\n  shading: opts.shading ? { fill: opts.shading, type: ShadingType.CLEAR } : undefined,\n  margins: { top: 120, bottom: 120, left: 160, right: 160 },\n  children: Array.isArray(content) ? content : [content]\n});\n\n// KPI card table (two-column layout: description left, numbers right)\nfunction kpiCard(num, title, formula, whatItMeans, yourNumbers, benchmark) {\n  const leftCell = cell([\n    new Paragraph({\n      spacing: { before: 40, after: 80 },\n      children: [\n        new TextRun({ text: `${num}  |  `, font: \"Calibri\", size: 22, bold: true, color: GOLD }),\n        new TextRun({ text: title, font: \"Calibri\", size: 26, bold: true, color: NAVY })\n      ]\n    }),\n    new Paragraph({\n      spacing: { before: 40, after: 100 },\n      children: [\n        new TextRun({ text: \"FORMULA: \", font: \"Calibri\", size: 18, bold: true, color: NAVY }),\n        new TextRun({ text: formula, font: \"Calibri\", size: 18, italics: true, color: GREY })\n      ]\n    }),\n    new Paragraph({\n      spacing: { before: 40, after: 40 },\n      children: [new TextRun({ text: \"WHAT IT MEANS\", font: \"Calibri\", size: 18, bold: true, color: GOLD })]\n    }),\n    new Paragraph({\n      spacing: { before: 20, after: 40 },\n      children: [new TextRun({ text: whatItMeans, font: \"Calibri\", size: 20, color: GREY })]\n    })\n  ], { width: 5760, shading: \"FFFFFF\" });\n\n  const rightChildren = [\n    new Paragraph({\n      spacing: { before: 40, after: 80 },\n      children: [new TextRun({ text: \"YOUR NUMBERS\", font: \"Calibri\", size: 18, bold: true, color: NAVY })]\n    })\n  ];\n  yourNumbers.forEach(line => {\n    rightChildren.push(new Paragraph({\n      spacing: { before: 40, after: 40 },\n      children: [new TextRun({ text: line, font: \"Calibri\", size: 20, color: GREY })]\n    }));\n  });\n  rightChildren.push(new Paragraph({\n    spacing: { before: 120, after: 40 },\n    children: [new TextRun({ text: \"BENCHMARK\", font: \"Calibri\", size: 18, bold: true, color: GOLD })]\n  }));\n  rightChildren.push(new Paragraph({\n    spacing: { before: 20, after: 40 },\n    children: [new TextRun({ text: benchmark, font: \"Calibri\", size: 20, italics: true, color: GREY })]\n  }));\n\n  const rightCell = cell(rightChildren, { width: 3600, shading: LIGHT });\n\n  return new Table({\n    width: { size: 9360, type: WidthType.DXA },\n    columnWidths: [5760, 3600],\n    rows: [new TableRow({ children: [leftCell, rightCell] })]\n  });\n}\n\n// ============ CONTENT ============\nconst children = [];\n\n// COVER\nchildren.push(new Paragraph({\n  alignment: AlignmentType.CENTER,\n  spacing: { before: 2400, after: 120 },\n  children: [new TextRun({ text: \"THE LUXORA COLLECTIVE\", font: \"Calibri\", size: 24, bold: true, color: GOLD, characterSpacing: 80 })]\n}));\n\nchildren.push(new Paragraph({\n  alignment: AlignmentType.CENTER,\n  border: { bottom: { style: BorderStyle.SINGLE, size: 12, color: GOLD, space: 8 } },\n  spacing: { before: 120, after: 480 },\n  children: [new TextRun({ text: \"\", font: \"Calibri\", size: 2 })]\n}));\n\nchildren.push(new Paragraph({\n  alignment: AlignmentType.CENTER,\n  spacing: { before: 120, after: 160 },\n  children: [new TextRun({ text: \"Know Your Numbers\", font: \"Calibri\", size: 72, bold: true, color: NAVY })]\n}));\n\nchildren.push(new Paragraph({\n  alignment: AlignmentType.CENTER,\n  spacing: { before: 120, after: 240 },\n  children: [new TextRun({ text: \"The Med Spa Owner's KPI Reference Guide\", font: \"Calibri\", size: 32, italics: true, color: GREY })]\n}));\n\nchildren.push(new Paragraph({\n  alignment: AlignmentType.CENTER,\n  spacing: { before: 2000, after: 80 },\n  children: [new TextRun({ text: \"A free resource for independent med spa owners\", font: \"Calibri\", size: 20, italics: true, color: GREY })]\n}));\n\nchildren.push(new Paragraph({\n  alignment: AlignmentType.CENTER,\n  spacing: { before: 40, after: 120 },\n  children: [new TextRun({ text: \"theluxoracollective.co\", font: \"Calibri\", size: 20, color: GOLD, bold: true })]\n}));\n\nchildren.push(new Paragraph({ children: [new PageBreak()] }));\n\n// INTRO\nchildren.push(h1(\"The 10 numbers every profitable med spa tracks.\"));\n\nchildren.push(p(\"This guide gives you the 10 KPIs that separate med spa owners who guess from med spa owners who grow, plus the formula to calculate your Lifetime Value per client.\", { size: 24 }));\n\nchildren.push(p(\"Fill in your own numbers as you go. These metrics are your dashboard. Once you know them, you stop guessing and start making decisions.\", { size: 24 }));\n\nchildren.push(divider());\n\nchildren.push(p(\"Inside this guide:\", { size: 22, bold: true, color: NAVY }));\nchildren.push(bullet(\"The single most important number in your business (start here)\"));\nchildren.push(bullet(\"10 core KPIs with formulas, benchmarks, and fill-in fields\"));\nchildren.push(bullet(\"How these numbers connect to create real profit\"));\nchildren.push(bullet(\"Your next step when you're ready to put it all to work\"));\n\nchildren.push(new Paragraph({ children: [new PageBreak()] }));\n\n// START HERE: LTV\nchildren.push(h1(\"START HERE: Lifetime Value Per Client (LTV)\"));\n\nchildren.push(p(\"LTV is the single most important number in your business. It tells you exactly how much one client is worth to you over the full course of your relationship. Without it, every marketing and pricing decision is a guess.\"));\n\nchildren.push(new Paragraph({\n  alignment: AlignmentType.CENTER,\n  spacing: { before: 240, after: 240 },\n  border: { top: { style: BorderStyle.SINGLE, size: 8, color: GOLD, space: 4 }, bottom: { style: BorderStyle.SINGLE, size: 8, color: GOLD, space: 4 } },\n  children: [new TextRun({ text: \"LTV = Average Visit Value  x  Visits Per Year  x  Average Years as a Client\", font: \"Calibri\", size: 24, bold: true, color: NAVY })]\n}));\n\nchildren.push(h3(\"How to find each input\"));\n\n// Input table\nchildren.push(new Table({\n  width: { size: 9360, type: WidthType.DXA },\n  columnWidths: [2600, 4360, 2400],\n  rows: [\n    new TableRow({\n      tableHeader: true,\n      children: [\n        cell(new Paragraph({ children: [new TextRun({ text: \"INPUT\", font: \"Calibri\", size: 20, bold: true, color: \"FFFFFF\" })] }), { width: 2600, shading: NAVY }),\n        cell(new Paragraph({ children: [new TextRun({ text: \"WHERE TO FIND IT\", font: \"Calibri\", size: 20, bold: true, color: \"FFFFFF\" })] }), { width: 4360, shading: NAVY }),\n        cell(new Paragraph({ children: [new TextRun({ text: \"YOUR NUMBER\", font: \"Calibri\", size: 20, bold: true, color: \"FFFFFF\" })] }), { width: 2400, shading: NAVY })\n      ]\n    }),\n    new TableRow({\n      children: [\n        cell(new Paragraph({ children: [new TextRun({ text: \"Average Visit Value\", font: \"Calibri\", size: 20, bold: true, color: NAVY })] }), { width: 2600 }),\n        cell(new Paragraph({ children: [new TextRun({ text: \"Total revenue last 90 days divided by total appointments in the same period\", font: \"Calibri\", size: 20, color: GREY })] }), { width: 4360 }),\n        cell(new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: \"$__________\", font: \"Calibri\", size: 22, color: GREY })] }), { width: 2400, shading: LIGHT })\n      ]\n    }),\n    new TableRow({\n      children: [\n        cell(new Paragraph({ children: [new TextRun({ text: \"Visits Per Year\", font: \"Calibri\", size: 20, bold: true, color: NAVY })] }), { width: 2600 }),\n        cell(new Paragraph({ children: [new TextRun({ text: \"Total appointments last 12 months divided by number of unique clients\", font: \"Calibri\", size: 20, color: GREY })] }), { width: 4360 }),\n        cell(new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: \"__________\", font: \"Calibri\", size: 22, color: GREY })] }), { width: 2400, shading: LIGHT })\n      ]\n    }),\n    new TableRow({\n      children: [\n        cell(new Paragraph({ children: [new TextRun({ text: \"Avg. Years as a Client\", font: \"Calibri\", size: 20, bold: true, color: NAVY })] }), { width: 2600 }),\n        cell(new Paragraph({ children: [new TextRun({ text: \"Review your client list. How long has your average client been coming to you? Start with 2 years if you are unsure.\", font: \"Calibri\", size: 20, color: GREY })] }), { width: 4360 }),\n        cell(new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: \"__________\", font: \"Calibri\", size: 22, color: GREY })] }), { width: 2400, shading: LIGHT })\n      ]\n    })\n  ]\n}));\n\n// Example vs Your LTV side by side\nchildren.push(new Paragraph({ spacing: { before: 240, after: 120 }, children: [new TextRun(\"\")] }));\n\nchildren.push(new Table({\n  width: { size: 9360, type: WidthType.DXA },\n  columnWidths: [4680, 4680],\n  rows: [\n    new TableRow({\n      children: [\n        cell([\n          new Paragraph({ spacing: { before: 40, after: 80 }, children: [new TextRun({ text: \"EXAMPLE\", font: \"Calibri\", size: 20, bold: true, color: GOLD })] }),\n          new Paragraph({ spacing: { before: 40, after: 40 }, children: [new TextRun({ text: \"Average Visit Value: $280\", font: \"Calibri\", size: 22, color: GREY })] }),\n          new Paragraph({ spacing: { before: 40, after: 40 }, children: [new TextRun({ text: \"Visits Per Year: 4\", font: \"Calibri\", size: 22, color: GREY })] }),\n          new Paragraph({ spacing: { before: 40, after: 40 }, children: [new TextRun({ text: \"Avg. Years as Client: 3\", font: \"Calibri\", size: 22, color: GREY })] }),\n          new Paragraph({ spacing: { before: 120, after: 40 }, children: [new TextRun({ text: \"LTV = $280 x 4 x 3 = $3,360\", font: \"Calibri\", size: 24, bold: true, color: NAVY })] })\n        ], { width: 4680, shading: LIGHT }),\n        cell([\n          new Paragraph({ spacing: { before: 40, after: 80 }, children: [new TextRun({ text: \"YOUR LTV\", font: \"Calibri\", size: 20, bold: true, color: GOLD })] }),\n          new Paragraph({ spacing: { before: 40, after: 40 }, children: [new TextRun({ text: \"Average Visit Value: $__________\", font: \"Calibri\", size: 22, color: GREY })] }),\n          new Paragraph({ spacing: { before: 40, after: 40 }, children: [new TextRun({ text: \"Visits Per Year: __________\", font: \"Calibri\", size: 22, color: GREY })] }),\n          new Paragraph({ spacing: { before: 40, after: 40 }, children: [new TextRun({ text: \"Avg. Years as Client: __________\", font: \"Calibri\", size: 22, color: GREY })] }),\n          new Paragraph({ spacing: { before: 120, after: 40 }, children: [new TextRun({ text: \"My LTV = $__________\", font: \"Calibri\", size: 24, bold: true, color: NAVY })] })\n        ], { width: 4680, shading: \"FFFFFF\" })\n      ]\n    })\n  ]\n}));\n\nchildren.push(new Paragraph({ spacing: { before: 240, after: 120 }, children: [new TextRun(\"\")] }));\n\n// What your LTV tells you callout\nchildren.push(new Table({\n  width: { size: 9360, type: WidthType.DXA },\n  columnWidths: [9360],\n  rows: [\n    new TableRow({\n      children: [\n        cell([\n          new Paragraph({ spacing: { before: 80, after: 80 }, children: [\n            new TextRun({ text: \"What your LTV tells you: \", font: \"Calibri\", size: 22, bold: true, color: NAVY }),\n            new TextRun({ text: \"If your LTV is $3,360, spending $150 to acquire one new client is not an expense. It is a $3,210 return. Knowing this number gives you permission to invest in growth with confidence instead of hesitation.\", font: \"Calibri\", size: 22, color: GREY })\n          ]})\n        ], { width: 9360, shading: LIGHT })\n      ]\n    })\n  ]\n}));\n\nchildren.push(new Paragraph({ children: [new PageBreak()] }));\n\n// ==== 10 KPIs ====\nchildren.push(h1(\"The 10 KPIs Every Med Spa Should Track\"));\nchildren.push(p(\"Each of these numbers tells you something specific. Together, they tell you the truth about your business.\", { size: 22, color: GREY }));\nchildren.push(new Paragraph({ spacing: { before: 160 }, children: [new TextRun(\"\")] }));\n\n// 01 CAC\nchildren.push(kpiCard(\"01\", \"Customer Acquisition Cost (CAC)\",\n  \"CAC = Total Marketing Spend / New Clients Acquired\",\n  \"What it costs you to bring one new client through the door. Include ad spend, influencer costs, referral incentives, and any staff time tied to outreach. Track this by channel so you know which marketing actually works.\",\n  [\"Marketing spend this month: $__________\", \"New clients this month: __________\", \"My CAC: $__________\"],\n  \"$75 to $250 is healthy for most med spas.\"\n));\nchildren.push(new Paragraph({ spacing: { before: 200 }, children: [new TextRun(\"\")] }));\n\n// 02 AOV\nchildren.push(kpiCard(\"02\", \"Average Order Value (AOV)\",\n  \"AOV = Total Revenue / Number of Transactions\",\n  \"How much the average client spends per visit. This number goes up when your team recommends add-ons, when you offer packages, and when retail is presented at checkout. One extra $80 product sale per visit adds up fast at scale.\",\n  [\"Revenue last 30 days: $__________\", \"Total appointments: __________\", \"My AOV: $__________\"],\n  \"Know your baseline, then set a goal to increase it by 15% within 90 days.\"\n));\nchildren.push(new Paragraph({ spacing: { before: 200 }, children: [new TextRun(\"\")] }));\n\n// 03 LTV\nchildren.push(kpiCard(\"03\", \"Client Lifetime Value (LTV)\",\n  \"LTV = Avg Visit Value x Visits/Year x Years as Client\",\n  \"You calculated this above. Come back to it every quarter. Even a small improvement in retention, like keeping clients 1 extra year, can increase LTV by 30 to 50% with zero additional marketing spend.\",\n  [\"My LTV (from above): $__________\", \"Goal LTV in 12 months: $__________\"],\n  \"Most med spas operating well see LTV between $1,500 and $6,000+.\"\n));\n\nchildren.push(new Paragraph({ children: [new PageBreak()] }));\n\n// 04 Ratio\nchildren.push(kpiCard(\"04\", \"LTV to CAC Ratio\",\n  \"LTV:CAC Ratio = LTV / CAC\",\n  \"Your growth health score. Divide your LTV by your CAC. Below 2x means you are overspending or underretaining. 3x to 5x is healthy. Above 6x means you are likely underinvesting in marketing and leaving revenue behind.\",\n  [\"My LTV: $__________\", \"My CAC: $__________\", \"My Ratio: __________x\"],\n  \"3x to 5x = healthy. Above 6x = increase your ad spend.\"\n));\nchildren.push(new Paragraph({ spacing: { before: 200 }, children: [new TextRun(\"\")] }));\n\n// 05 Gross Margin\nchildren.push(kpiCard(\"05\", \"Gross Margin Per Treatment\",\n  \"Gross Margin = (Revenue - Direct Costs) / Revenue\",\n  \"How much of each treatment dollar stays after paying for injectables, consumables, and provider labor. Not all services are equal. Run this calculation for every service you offer at least once a year. High-volume, low-margin services can quietly drain profit.\",\n  [\"Service: __________________\", \"Revenue: $__________\", \"Direct costs: $__________\", \"My Margin: __________%\"],\n  \"Strong services run 60% to 80%+ margin. Below 40% needs a hard look.\"\n));\nchildren.push(new Paragraph({ spacing: { before: 200 }, children: [new TextRun(\"\")] }));\n\n// 06 Contribution Margin\nchildren.push(kpiCard(\"06\", \"Contribution Margin\",\n  \"Contribution Margin = Revenue - Variable Costs - CAC\",\n  \"Gross margin tells you if a service is profitable. Contribution margin tells you if the client who came in for that service was worth acquiring. Use this before running any discount promotion or Groupon-style offer.\",\n  [\"Service revenue: $__________\", \"Variable costs: $__________\", \"CAC: $__________\", \"Contribution Margin: $__________\"],\n  \"If this number is near zero, the campaign is creating activity but not profit.\"\n));\n\nchildren.push(new Paragraph({ children: [new PageBreak()] }));\n\n// 07 Break-Even\nchildren.push(kpiCard(\"07\", \"Break-Even Treatments Per Month\",\n  \"Break-Even = Fixed Monthly Costs / Contribution Margin Per Treatment\",\n  \"How many treatments you need to perform every month before you earn a single dollar of profit. This number should be posted somewhere visible. If you are below it, everything else is noise until you fix it.\",\n  [\"Fixed costs/month: $__________\", \"Avg contribution margin: $__________\", \"Break-even target: __________\"],\n  \"Recalculate any time you add a new provider, equipment, or space.\"\n));\nchildren.push(new Paragraph({ spacing: { before: 200 }, children: [new TextRun(\"\")] }));\n\n// 08 RPP\nchildren.push(kpiCard(\"08\", \"Revenue Per Patient (RPP)\",\n  \"RPP = Total Revenue / Total Unique Clients\",\n  \"Measures the depth of client relationships, not just headcount. A low RPP means your clients are transactional. A high RPP means they trust you, return often, and invest in multiple services. This number improves when providers present comprehensive care options.\",\n  [\"Revenue last 12 months: $__________\", \"Unique clients: __________\", \"My RPP: $__________\"],\n  \"Track this quarterly. Rising RPP = growing client trust and spend.\"\n));\nchildren.push(new Paragraph({ spacing: { before: 200 }, children: [new TextRun(\"\")] }));\n\n// 09 Utilization\nchildren.push(kpiCard(\"09\", \"Provider Utilization Rate\",\n  \"Utilization = Booked Treatment Hours / Available Treatment Hours\",\n  \"How efficiently your providers convert their time into revenue. Gaps, no-shows, and admin during prime hours all drag this down silently. Going from 65% to 80% utilization on the same provider can add tens of thousands of dollars annually with no new overhead.\",\n  [\"Booked hours this week: __________\", \"Available hours this week: __________\", \"My Rate: __________%\"],\n  \"Target 75% to 85%. Below 70% is a profit leak. Require deposits.\"\n));\n\nchildren.push(new Paragraph({ children: [new PageBreak()] }));\n\n// 10 Payback\nchildren.push(kpiCard(\"10\", \"Marketing Payback Period\",\n  \"Payback Period = CAC / Monthly Gross Profit Per Client\",\n  \"How many months to recover what you spent to acquire a client. A membership client paying monthly shortens this dramatically. If any channel has a payback period over 12 months, that channel deserves a serious review.\",\n  [\"My CAC: $__________\", \"Monthly gross profit/client: $__________\", \"Payback Period: __________ months\"],\n  \"Under 6 months is strong. Membership programs are the fastest way to shorten this.\"\n));\n\nchildren.push(new Paragraph({ spacing: { before: 320 }, children: [new TextRun(\"\")] }));\n\n// How these numbers connect\nchildren.push(h2(\"How These Numbers Connect\"));\n\nchildren.push(new Paragraph({\n  alignment: AlignmentType.CENTER,\n  spacing: { before: 120, after: 240 },\n  border: { top: { style: BorderStyle.SINGLE, size: 8, color: GOLD, space: 4 }, bottom: { style: BorderStyle.SINGLE, size: 8, color: GOLD, space: 4 } },\n  children: [new TextRun({ text: \"Marketing Spend  >  CAC  >  LTV  >  Margin  >  Cash Flow\", font: \"Calibri\", size: 24, bold: true, color: NAVY })]\n}));\n\nchildren.push(bullet(\"Marketing spend drives your CAC. CAC relative to LTV determines whether growth is sustainable.\"));\nchildren.push(bullet(\"Gross margin per treatment determines how much of each dollar of LTV actually survives to profit.\"));\nchildren.push(bullet(\"Utilization rate determines how efficiently your capacity converts into revenue.\"));\nchildren.push(bullet(\"Break-even analysis grounds all of it in your real fixed cost structure.\"));\nchildren.push(bullet(\"Owners who track these monthly stop making decisions based on how busy the schedule feels. They make decisions based on what the data says.\"));\n\nchildren.push(new Paragraph({ children: [new PageBreak()] }));\n\n// ==== PROMOTIONAL CLOSE ====\nchildren.push(new Paragraph({\n  alignment: AlignmentType.CENTER,\n  spacing: { before: 240, after: 80 },\n  children: [new TextRun({ text: \"NOW WHAT?\", font: \"Calibri\", size: 22, bold: true, color: GOLD, characterSpacing: 80 })]\n}));\n\nchildren.push(new Paragraph({\n  alignment: AlignmentType.CENTER,\n  spacing: { before: 80, after: 80 },\n  children: [new TextRun({ text: \"You know the numbers.\", font: \"Calibri\", size: 56, bold: true, color: NAVY })]\n}));\n\nchildren.push(new Paragraph({\n  alignment: AlignmentType.CENTER,\n  spacing: { before: 40, after: 240 },\n  children: [new TextRun({ text: \"The question is what you do with them.\", font: \"Calibri\", size: 32, italics: true, color: GREY })]\n}));\n\nchildren.push(divider());\n\nchildren.push(p(\"Here's what most med spa owners discover when they fill in these fields honestly.\", { size: 24, bold: true, color: NAVY }));\nchildren.push(p(\"Their LTV is higher than they thought. Their utilization rate is lower. Their CAC works on paper but their payback period is dragging cash flow. Their AOV has been flat for two years. And there is no membership program converting walk-ins into predictable monthly revenue.\"));\n\nchildren.push(p(\"That is not a business problem. It is a systems problem. And systems are fixable.\"));\n\nchildren.push(new Paragraph({ spacing: { before: 240 }, children: [new TextRun(\"\")] }));\n\n// The Luxora Collective block\nchildren.push(new Table({\n  width: { size: 9360, type: WidthType.DXA },\n  columnWidths: [9360],\n  rows: [\n    new TableRow({\n      children: [\n        cell([\n          new Paragraph({\n            alignment: AlignmentType.CENTER,\n            spacing: { before: 120, after: 80 },\n            children: [new TextRun({ text: \"THE LUXORA COLLECTIVE\", font: \"Calibri\", size: 20, bold: true, color: GOLD, characterSpacing: 80 })]\n          }),\n          new Paragraph({\n            alignment: AlignmentType.CENTER,\n            spacing: { before: 80, after: 160 },\n            children: [new TextRun({ text: \"We turn KPIs into cash flow.\", font: \"Calibri\", size: 36, bold: true, color: NAVY })]\n          }),\n          new Paragraph({\n            spacing: { before: 80, after: 120 },\n            children: [new TextRun({ text: \"We are a premium revenue growth partner built specifically for independent med spa owners doing $500K to $2M. We do not run funnels for you and disappear. We work from the inside out, knowledge transfer at every step, so you end the engagement more capable, confident, and in control of your business, not dependent on us.\", font: \"Calibri\", size: 22, color: GREY })]\n          }),\n          new Paragraph({ spacing: { before: 120, after: 80 }, children: [new TextRun({ text: \"Here is how it works.\", font: \"Calibri\", size: 22, bold: true, color: NAVY })] })\n        ], { width: 9360, shading: LIGHT })\n      ]\n    })\n  ]\n}));\n\nchildren.push(new Paragraph({ spacing: { before: 240 }, children: [new TextRun(\"\")] }));\n\n// Step 1\nchildren.push(new Table({\n  width: { size: 9360, type: WidthType.DXA },\n  columnWidths: [1200, 8160],\n  rows: [\n    new TableRow({\n      children: [\n        cell(new Paragraph({ alignment: AlignmentType.CENTER, spacing: { before: 120, after: 120 }, children: [new TextRun({ text: \"01\", font: \"Calibri\", size: 48, bold: true, color: \"FFFFFF\" })] }), { width: 1200, shading: NAVY }),\n        cell([\n          new Paragraph({ spacing: { before: 80, after: 40 }, children: [new TextRun({ text: \"Revenue Leak Audit\", font: \"Calibri\", size: 26, bold: true, color: NAVY })] }),\n          new Paragraph({ spacing: { before: 40, after: 80 }, children: [new TextRun({ text: \"We find the revenue you are already earning but losing. Undertrained front desks, unconverted consults, stagnant clients, missing memberships, weak packages. You get a clear number in dollars for what is leaking and exactly where.\", font: \"Calibri\", size: 22, color: GREY })] })\n        ], { width: 8160 })\n      ]\n    })\n  ]\n}));\n\nchildren.push(new Paragraph({ spacing: { before: 120 }, children: [new TextRun(\"\")] }));\n\n// Step 2\nchildren.push(new Table({\n  width: { size: 9360, type: WidthType.DXA },\n  columnWidths: [1200, 8160],\n  rows: [\n    new TableRow({\n      children: [\n        cell(new Paragraph({ alignment: AlignmentType.CENTER, spacing: { before: 120, after: 120 }, children: [new TextRun({ text: \"02\", font: \"Calibri\", size: 48, bold: true, color: \"FFFFFF\" })] }), { width: 1200, shading: NAVY }),\n        cell([\n          new Paragraph({ spacing: { before: 80, after: 40 }, children: [new TextRun({ text: \"Market Blueprint\", font: \"Calibri\", size: 26, bold: true, color: NAVY })] }),\n          new Paragraph({ spacing: { before: 40, after: 80 }, children: [new TextRun({ text: \"We build the growth roadmap for your specific market before recommending a single new investment. Who your ideal client actually is, where they are, what your local competition is not doing, and the highest-leverage moves in the right order.\", font: \"Calibri\", size: 22, color: GREY })] })\n        ], { width: 8160 })\n      ]\n    })\n  ]\n}));\n\nchildren.push(new Paragraph({ spacing: { before: 120 }, children: [new TextRun(\"\")] }));\n\n// Step 3\nchildren.push(new Table({\n  width: { size: 9360, type: WidthType.DXA },\n  columnWidths: [1200, 8160],\n  rows: [\n    new TableRow({\n      children: [\n        cell(new Paragraph({ alignment: AlignmentType.CENTER, spacing: { before: 120, after: 120 }, children: [new TextRun({ text: \"03\", font: \"Calibri\", size: 48, bold: true, color: \"FFFFFF\" })] }), { width: 1200, shading: NAVY }),\n        cell([\n          new Paragraph({ spacing: { before: 80, after: 40 }, children: [new TextRun({ text: \"Install the Systems\", font: \"Calibri\", size: 26, bold: true, color: NAVY })] }),\n          new Paragraph({ spacing: { before: 40, after: 80 }, children: [new TextRun({ text: \"Membership programs, package architecture, staff sales training, AI follow-up, CRM, partnerships, reputation engine, and LTV frameworks. Installed in the right sequence with full knowledge transfer so your team can actually run them.\", font: \"Calibri\", size: 22, color: GREY })] })\n        ], { width: 8160 })\n      ]\n    })\n  ]\n}));\n\nchildren.push(new Paragraph({ spacing: { before: 320 }, children: [new TextRun(\"\")] }));\n\n// What changes\nchildren.push(h3(\"What changes when you work with us\"));\nchildren.push(bullet(\"Your LTV goes up because retention and AOV go up.\"));\nchildren.push(bullet(\"Your CAC goes down because the right clients are walking in.\"));\nchildren.push(bullet(\"Your payback period shrinks because memberships create monthly recurring revenue.\"));\nchildren.push(bullet(\"Your utilization rises because the schedule fills with higher-value clients, not one-off Groupon traffic.\"));\nchildren.push(bullet(\"You stop making decisions based on how busy the schedule feels and start making them based on what the data says.\"));\n\nchildren.push(new Paragraph({ children: [new PageBreak()] }));\n\n// FINAL CTA\nchildren.push(new Paragraph({\n  alignment: AlignmentType.CENTER,\n  spacing: { before: 720, after: 80 },\n  children: [new TextRun({ text: \"READY TO MASTER YOUR KPIs?\", font: \"Calibri\", size: 22, bold: true, color: GOLD, characterSpacing: 80 })]\n}));\n\nchildren.push(new Paragraph({\n  alignment: AlignmentType.CENTER,\n  spacing: { before: 80, after: 240 },\n  children: [new TextRun({ text: \"Book a free 30-minute Revenue Leak Review.\", font: \"Calibri\", size: 40, bold: true, color: NAVY })]\n}));\n\nchildren.push(new Paragraph({\n  alignment: AlignmentType.CENTER,\n  spacing: { before: 120, after: 120 },\n  children: [new TextRun({ text: \"On the call we will walk through your numbers together, identify the top 2 or 3 revenue leaks specific to your spa, and give you a clear next-step plan. Whether we end up working together or not, you leave the call with more clarity than you came in with. No pitch, no pressure.\", font: \"Calibri\", size: 22, color: GREY })]\n}));\n\nchildren.push(new Paragraph({ spacing: { before: 280 }, children: [new TextRun(\"\")] }));\n\n// CTA Button\nchildren.push(new Table({\n  width: { size: 9360, type: WidthType.DXA },\n  columnWidths: [9360],\n  rows: [\n    new TableRow({\n      children: [\n        cell([\n          new Paragraph({\n            alignment: AlignmentType.CENTER,\n            spacing: { before: 200, after: 80 },\n            children: [new ExternalHyperlink({\n              link: \"https://theluxoracollective.co\",\n              children: [new TextRun({ text: \"VISIT THELUXORACOLLECTIVE.CO\", font: \"Calibri\", size: 28, bold: true, color: \"FFFFFF\", characterSpacing: 40 })]\n            })]\n          }),\n          new Paragraph({\n            alignment: AlignmentType.CENTER,\n            spacing: { before: 40, after: 200 },\n            children: [new TextRun({ text: \"to book your free Revenue Leak Review\", font: \"Calibri\", size: 20, italics: true, color: \"FFFFFF\" })]\n          })\n        ], { width: 9360, shading: NAVY })\n      ]\n    })\n  ]\n}));\n\nchildren.push(new Paragraph({ spacing: { before: 320 }, children: [new TextRun(\"\")] }));\n\n// Who we work with\nchildren.push(h3(\"Who we work with\"));\nchildren.push(p(\"Independent med spa owners generating $500K to $2M annually who are tired of guessing and ready to run their business off real numbers. If that is you, we should talk.\"));\n\nchildren.push(new Paragraph({ spacing: { before: 320 }, children: [new TextRun(\"\")] }));\n\nchildren.push(divider());\n\nchildren.push(new Paragraph({\n  alignment: AlignmentType.CENTER,\n  spacing: { before: 240, after: 80 },\n  children: [new TextRun({ text: \"THE LUXORA COLLECTIVE\", font: \"Calibri\", size: 22, bold: true, color: NAVY, characterSpacing: 80 })]\n}));\n\nchildren.push(new Paragraph({\n  alignment: AlignmentType.CENTER,\n  spacing: { before: 60, after: 60 },\n  children: [new TextRun({ text: \"Premium Revenue Growth for Independent Med Spas\", font: \"Calibri\", size: 20, italics: true, color: GREY })]\n}));\n\nchildren.push(new Paragraph({\n  alignment: AlignmentType.CENTER,\n  spacing: { before: 120, after: 120 },\n  children: [new ExternalHyperlink({\n    link: \"https://theluxoracollective.co\",\n    children: [new TextRun({ text: \"theluxoracollective.co\", font: \"Calibri\", size: 24, bold: true, color: GOLD })]\n  })]\n}));\n\n// ============ BUILD DOCUMENT ============\nconst doc = new Document({\n  creator: \"The Luxora Collective\",\n  title: \"Know Your Numbers - The Med Spa Owner's KPI Reference Guide\",\n  styles: {\n    default: { document: { run: { font: \"Calibri\", size: 22 } } },\n    paragraphStyles: [\n      { id: \"Heading1\", name: \"Heading 1\", basedOn: \"Normal\", next: \"Normal\", quickFormat: true,\n        run: { size: 40, bold: true, font: \"Calibri\", color: NAVY },\n        paragraph: { spacing: { before: 360, after: 180 }, outlineLevel: 0 } },\n      { id: \"Heading2\", name: \"Heading 2\", basedOn: \"Normal\", next: \"Normal\", quickFormat: true,\n        run: { size: 30, bold: true, font: \"Calibri\", color: NAVY },\n        paragraph: { spacing: { before: 280, after: 140 }, outlineLevel: 1 } },\n      { id: \"Heading3\", name: \"Heading 3\", basedOn: \"Normal\", next: \"Normal\", quickFormat: true,\n        run: { size: 24, bold: true, font: \"Calibri\", color: GOLD },\n        paragraph: { spacing: { before: 200, after: 100 }, outlineLevel: 2 } }\n    ]\n  },\n  numbering: {\n    config: [\n      { reference: \"bullets\",\n        levels: [{ level: 0, format: LevelFormat.BULLET, text: \"\u2022\", alignment: AlignmentType.LEFT,\n          style: { paragraph: { indent: { left: 720, hanging: 360 } }, run: { font: \"Calibri\", size: 22, color: GREY } } }] }\n    ]\n  },\n  sections: [{\n    properties: {\n      page: {\n        size: { width: 12240, height: 15840 },\n        margin: { top: 1440, right: 1440, bottom: 1440, left: 1440 }\n      }\n    },\n    children: children\n  }]\n});\n\nPacker.toBuffer(doc).then(buffer => {\n  fs.writeFileSync(\"/home/claude/KYN_Lead_Magnet_Luxora.docx\", buffer);\n  console.log(\"Document created successfully\");\n});\n"
+          },
+          "message": "Build the lead magnet Word doc with promotional CTA at end",
+          "integration_name": null,
+          "integration_icon_url": null,
+          "tool_identifier": null,
+          "icon_name": "file",
+          "context": null,
+          "display_content": {
+            "type": "json_block",
+            "json_block": "{\"language\": \"javascript\", \"code\": \"const {\\n  Document, Packer, Paragraph, TextRun, Table, TableRow, TableCell,\\n  AlignmentType, LevelFormat, HeadingLevel, BorderStyle, WidthType,\\n  ShadingType, PageBreak, ExternalHyperlink\\n} = require('docx');\\nconst fs = require('fs');\\n\\n// Brand palette\\nconst NAVY = \\\"0A1F44\\\";\\nconst GOLD = \\\"B08D57\\\";\\nconst LIGHT = \\\"F5F1EA\\\";\\nconst GREY = \\\"4A4A4A\\\";\\nconst BORDER_GREY = \\\"D9D9D9\\\";\\n\\nconst border = { style: BorderStyle.SINGLE, size: 4, color: BORDER_GREY };\\nconst borders = { top: border, bottom: border, left: border, right: border };\\n\\n// Helpers\\nconst p = (text, opts = {}) => new Paragraph({\\n  spacing: { before: 80, after: 80, ...(opts.spacing || {}) },\\n  alignment: opts.alignment,\\n  children: [new TextRun({ text, font: \\\"Calibri\\\", size: opts.size || 22, color: opts.color || GREY, bold: opts.bold })]\\n});\\n\\nconst pRuns = (runs, opts = {}) => new Paragraph({\\n  spacing: { before: 80, after: 80, ...(opts.spacing || {}) },\\n  alignment: opts.alignment,\\n  children: runs\\n});\\n\\nconst h1 = (text) => new Paragraph({\\n  heading: HeadingLevel.HEADING_1,\\n  spacing: { before: 360, after: 180 },\\n  children: [new TextRun({ text, font: \\\"Calibri\\\", size: 40, bold: true, color: NAVY })]\\n});\\n\\nconst h2 = (text) => new Paragraph({\\n  heading: HeadingLevel.HEADING_2,\\n  spacing: { before: 280, after: 140 },\\n  children: [new TextRun({ text, font: \\\"Calibri\\\", size: 30, bold: true, color: NAVY })]\\n});\\n\\nconst h3 = (text) => new Paragraph({\\n  heading: HeadingLevel.HEADING_3,\\n  spacing: { before: 200, after: 100 },\\n  children: [new TextRun({ text, font: \\\"Calibri\\\", size: 24, bold: true, color: GOLD })]\\n});\\n\\nconst small = (text, opts = {}) => new Paragraph({\\n  spacing: { before: 40, after: 40 },\\n  alignment: opts.alignment,\\n  children: [new TextRun({ text, font: \\\"Calibri\\\", size: 18, italics: opts.italics, color: opts.color || GREY })]\\n});\\n\\nconst bullet = (text) => new Paragraph({\\n  numbering: { reference: \\\"bullets\\\", level: 0 },\\n  spacing: { before: 60, after: 60 },\\n  children: [new TextRun({ text, font: \\\"Calibri\\\", size: 22, color: GREY })]\\n});\\n\\nconst divider = () => new Paragraph({\\n  border: { bottom: { style: BorderStyle.SINGLE, size: 8, color: GOLD, space: 1 } },\\n  spacing: { before: 120, after: 120 },\\n  children: [new TextRun(\\\"\\\")]\\n});\\n\\n// Cell builder\\nconst cell = (content, opts = {}) => new TableCell({\\n  borders,\\n  width: { size: opts.width, type: WidthType.DXA },\\n  shading: opts.shading ? { fill: opts.shading, type: ShadingType.CLEAR } : undefined,\\n  margins: { top: 120, bottom: 120, left: 160, right: 160 },\\n  children: Array.isArray(content) ? content : [content]\\n});\\n\\n// KPI card table (two-column layout: description left, numbers right)\\nfunction kpiCard(num, title, formula, whatItMeans, yourNumbers, benchmark) {\\n  const leftCell = cell([\\n    new Paragraph({\\n      spacing: { before: 40, after: 80 },\\n      children: [\\n        new TextRun({ text: `${num}  |  `, font: \\\"Calibri\\\", size: 22, bold: true, color: GOLD }),\\n        new TextRun({ text: title, font: \\\"Calibri\\\", size: 26, bold: true, color: NAVY })\\n      ]\\n    }),\\n    new Paragraph({\\n      spacing: { before: 40, after: 100 },\\n      children: [\\n        new TextRun({ text: \\\"FORMULA: \\\", font: \\\"Calibri\\\", size: 18, bold: true, color: NAVY }),\\n        new TextRun({ text: formula, font: \\\"Calibri\\\", size: 18, italics: true, color: GREY })\\n      ]\\n    }),\\n    new Paragraph({\\n      spacing: { before: 40, after: 40 },\\n      children: [new TextRun({ text: \\\"WHAT IT MEANS\\\", font: \\\"Calibri\\\", size: 18, bold: true, color: GOLD })]\\n    }),\\n    new Paragraph({\\n      spacing: { before: 20, after: 40 },\\n      children: [new TextRun({ text: whatItMeans, font: \\\"Calibri\\\", size: 20, color: GREY })]\\n    })\\n  ], { width: 5760, shading: \\\"FFFFFF\\\" });\\n\\n  const rightChildren = [\\n    new Paragraph({\\n      spacing: { before: 40, after: 80 },\\n      children: [new TextRun({ text: \\\"YOUR NUMBERS\\\", font: \\\"Calibri\\\", size: 18, bold: true, color: NAVY })]\\n    })\\n  ];\\n  yourNumbers.forEach(line => {\\n    rightChildren.push(new Paragraph({\\n      spacing: { before: 40, after: 40 },\\n      children: [new TextRun({ text: line, font: \\\"Calibri\\\", size: 20, color: GREY })]\\n    }));\\n  });\\n  rightChildren.push(new Paragraph({\\n    spacing: { before: 120, after: 40 },\\n    children: [new TextRun({ text: \\\"BENCHMARK\\\", font: \\\"Calibri\\\", size: 18, bold: true, color: GOLD })]\\n  }));\\n  rightChildren.push(new Paragraph({\\n    spacing: { before: 20, after: 40 },\\n    children: [new TextRun({ text: benchmark, font: \\\"Calibri\\\", size: 20, italics: true, color: GREY })]\\n  }));\\n\\n  const rightCell = cell(rightChildren, { width: 3600, shading: LIGHT });\\n\\n  return new Table({\\n    width: { size: 9360, type: WidthType.DXA },\\n    columnWidths: [5760, 3600],\\n    rows: [new TableRow({ children: [leftCell, rightCell] })]\\n  });\\n}\\n\\n// ============ CONTENT ============\\nconst children = [];\\n\\n// COVER\\nchildren.push(new Paragraph({\\n  alignment: AlignmentType.CENTER,\\n  spacing: { before: 2400, after: 120 },\\n  children: [new TextRun({ text: \\\"THE LUXORA COLLECTIVE\\\", font: \\\"Calibri\\\", size: 24, bold: true, color: GOLD, characterSpacing: 80 })]\\n}));\\n\\nchildren.push(new Paragraph({\\n  alignment: AlignmentType.CENTER,\\n  border: { bottom: { style: BorderStyle.SINGLE, size: 12, color: GOLD, space: 8 } },\\n  spacing: { before: 120, after: 480 },\\n  children: [new TextRun({ text: \\\"\\\", font: \\\"Calibri\\\", size: 2 })]\\n}));\\n\\nchildren.push(new Paragraph({\\n  alignment: AlignmentType.CENTER,\\n  spacing: { before: 120, after: 160 },\\n  children: [new TextRun({ text: \\\"Know Your Numbers\\\", font: \\\"Calibri\\\", size: 72, bold: true, color: NAVY })]\\n}));\\n\\nchildren.push(new Paragraph({\\n  alignment: AlignmentType.CENTER,\\n  spacing: { before: 120, after: 240 },\\n  children: [new TextRun({ text: \\\"The Med Spa Owner's KPI Reference Guide\\\", font: \\\"Calibri\\\", size: 32, italics: true, color: GREY })]\\n}));\\n\\nchildren.push(new Paragraph({\\n  alignment: AlignmentType.CENTER,\\n  spacing: { before: 2000, after: 80 },\\n  children: [new TextRun({ text: \\\"A free resource for independent med spa owners\\\", font: \\\"Calibri\\\", size: 20, italics: true, color: GREY })]\\n}));\\n\\nchildren.push(new Paragraph({\\n  alignment: AlignmentType.CENTER,\\n  spacing: { before: 40, after: 120 },\\n  children: [new TextRun({ text: \\\"theluxoracollective.co\\\", font: \\\"Calibri\\\", size: 20, color: GOLD, bold: true })]\\n}));\\n\\nchildren.push(new Paragraph({ children: [new PageBreak()] }));\\n\\n// INTRO\\nchildren.push(h1(\\\"The 10 numbers every profitable med spa tracks.\\\"));\\n\\nchildren.push(p(\\\"This guide gives you the 10 KPIs that separate med spa owners who guess from med spa owners who grow, plus the formula to calculate your Lifetime Value per client.\\\", { size: 24 }));\\n\\nchildren.push(p(\\\"Fill in your own numbers as you go. These metrics are your dashboard. Once you know them, you stop guessing and start making decisions.\\\", { size: 24 }));\\n\\nchildren.push(divider());\\n\\nchildren.push(p(\\\"Inside this guide:\\\", { size: 22, bold: true, color: NAVY }));\\nchildren.push(bullet(\\\"The single most important number in your business (start here)\\\"));\\nchildren.push(bullet(\\\"10 core KPIs with formulas, benchmarks, and fill-in fields\\\"));\\nchildren.push(bullet(\\\"How these numbers connect to create real profit\\\"));\\nchildren.push(bullet(\\\"Your next step when you're ready to put it all to work\\\"));\\n\\nchildren.push(new Paragraph({ children: [new PageBreak()] }));\\n\\n// START HERE: LTV\\nchildren.push(h1(\\\"START HERE: Lifetime Value Per Client (LTV)\\\"));\\n\\nchildren.push(p(\\\"LTV is the single most important number in your business. It tells you exactly how much one client is worth to you over the full course of your relationship. Without it, every marketing and pricing decision is a guess.\\\"));\\n\\nchildren.push(new Paragraph({\\n  alignment: AlignmentType.CENTER,\\n  spacing: { before: 240, after: 240 },\\n  border: { top: { style: BorderStyle.SINGLE, size: 8, color: GOLD, space: 4 }, bottom: { style: BorderStyle.SINGLE, size: 8, color: GOLD, space: 4 } },\\n  children: [new TextRun({ text: \\\"LTV = Average Visit Value  x  Visits Per Year  x  Average Years as a Client\\\", font: \\\"Calibri\\\", size: 24, bold: true, color: NAVY })]\\n}));\\n\\nchildren.push(h3(\\\"How to find each input\\\"));\\n\\n// Input table\\nchildren.push(new Table({\\n  width: { size: 9360, type: WidthType.DXA },\\n  columnWidths: [2600, 4360, 2400],\\n  rows: [\\n    new TableRow({\\n      tableHeader: true,\\n      children: [\\n        cell(new Paragraph({ children: [new TextRun({ text: \\\"INPUT\\\", font: \\\"Calibri\\\", size: 20, bold: true, color: \\\"FFFFFF\\\" })] }), { width: 2600, shading: NAVY }),\\n        cell(new Paragraph({ children: [new TextRun({ text: \\\"WHERE TO FIND IT\\\", font: \\\"Calibri\\\", size: 20, bold: true, color: \\\"FFFFFF\\\" })] }), { width: 4360, shading: NAVY }),\\n        cell(new Paragraph({ children: [new TextRun({ text: \\\"YOUR NUMBER\\\", font: \\\"Calibri\\\", size: 20, bold: true, color: \\\"FFFFFF\\\" })] }), { width: 2400, shading: NAVY })\\n      ]\\n    }),\\n    new TableRow({\\n      children: [\\n        cell(new Paragraph({ children: [new TextRun({ text: \\\"Average Visit Value\\\", font: \\\"Calibri\\\", size: 20, bold: true, color: NAVY })] }), { width: 2600 }),\\n        cell(new Paragraph({ children: [new TextRun({ text: \\\"Total revenue last 90 days divided by total appointments in the same period\\\", font: \\\"Calibri\\\", size: 20, color: GREY })] }), { width: 4360 }),\\n        cell(new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: \\\"$__________\\\", font: \\\"Calibri\\\", size: 22, color: GREY })] }), { width: 2400, shading: LIGHT })\\n      ]\\n    }),\\n    new TableRow({\\n      children: [\\n        cell(new Paragraph({ children: [new TextRun({ text: \\\"Visits Per Year\\\", font: \\\"Calibri\\\", size: 20, bold: true, color: NAVY })] }), { width: 2600 }),\\n        cell(new Paragraph({ children: [new TextRun({ text: \\\"Total appointments last 12 months divided by number of unique clients\\\", font: \\\"Calibri\\\", size: 20, color: GREY })] }), { width: 4360 }),\\n        cell(new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: \\\"__________\\\", font: \\\"Calibri\\\", size: 22, color: GREY })] }), { width: 2400, shading: LIGHT })\\n      ]\\n    }),\\n    new TableRow({\\n      children: [\\n        cell(new Paragraph({ children: [new TextRun({ text: \\\"Avg. Years as a Client\\\", font: \\\"Calibri\\\", size: 20, bold: true, color: NAVY })] }), { width: 2600 }),\\n        cell(new Paragraph({ children: [new TextRun({ text: \\\"Review your client list. How long has your average client been coming to you? Start with 2 years if you are unsure.\\\", font: \\\"Calibri\\\", size: 20, color: GREY })] }), { width: 4360 }),\\n        cell(new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: \\\"__________\\\", font: \\\"Calibri\\\", size: 22, color: GREY })] }), { width: 2400, shading: LIGHT })\\n      ]\\n    })\\n  ]\\n}));\\n\\n// Example vs Your LTV side by side\\nchildren.push(new Paragraph({ spacing: { before: 240, after: 120 }, children: [new TextRun(\\\"\\\")] }));\\n\\nchildren.push(new Table({\\n  width: { size: 9360, type: WidthType.DXA },\\n  columnWidths: [4680, 4680],\\n  rows: [\\n    new TableRow({\\n      children: [\\n        cell([\\n          new Paragraph({ spacing: { before: 40, after: 80 }, children: [new TextRun({ text: \\\"EXAMPLE\\\", font: \\\"Calibri\\\", size: 20, bold: true, color: GOLD })] }),\\n          new Paragraph({ spacing: { before: 40, after: 40 }, children: [new TextRun({ text: \\\"Average Visit Value: $280\\\", font: \\\"Calibri\\\", size: 22, color: GREY })] }),\\n          new Paragraph({ spacing: { before: 40, after: 40 }, children: [new TextRun({ text: \\\"Visits Per Year: 4\\\", font: \\\"Calibri\\\", size: 22, color: GREY })] }),\\n          new Paragraph({ spacing: { before: 40, after: 40 }, children: [new TextRun({ text: \\\"Avg. Years as Client: 3\\\", font: \\\"Calibri\\\", size: 22, color: GREY })] }),\\n          new Paragraph({ spacing: { before: 120, after: 40 }, children: [new TextRun({ text: \\\"LTV = $280 x 4 x 3 = $3,360\\\", font: \\\"Calibri\\\", size: 24, bold: true, color: NAVY })] })\\n        ], { width: 4680, shading: LIGHT }),\\n        cell([\\n          new Paragraph({ spacing: { before: 40, after: 80 }, children: [new TextRun({ text: \\\"YOUR LTV\\\", font: \\\"Calibri\\\", size: 20, bold: true, color: GOLD })] }),\\n          new Paragraph({ spacing: { before: 40, after: 40 }, children: [new TextRun({ text: \\\"Average Visit Value: $__________\\\", font: \\\"Calibri\\\", size: 22, color: GREY })] }),\\n          new Paragraph({ spacing: { before: 40, after: 40 }, children: [new TextRun({ text: \\\"Visits Per Year: __________\\\", font: \\\"Calibri\\\", size: 22, color: GREY })] }),\\n          new Paragraph({ spacing: { before: 40, after: 40 }, children: [new TextRun({ text: \\\"Avg. Years as Client: __________\\\", font: \\\"Calibri\\\", size: 22, color: GREY })] }),\\n          new Paragraph({ spacing: { before: 120, after: 40 }, children: [new TextRun({ text: \\\"My LTV = $__________\\\", font: \\\"Calibri\\\", size: 24, bold: true, color: NAVY })] })\\n        ], { width: 4680, shading: \\\"FFFFFF\\\" })\\n      ]\\n    })\\n  ]\\n}));\\n\\nchildren.push(new Paragraph({ spacing: { before: 240, after: 120 }, children: [new TextRun(\\\"\\\")] }));\\n\\n// What your LTV tells you callout\\nchildren.push(new Table({\\n  width: { size: 9360, type: WidthType.DXA },\\n  columnWidths: [9360],\\n  rows: [\\n    new TableRow({\\n      children: [\\n        cell([\\n          new Paragraph({ spacing: { before: 80, after: 80 }, children: [\\n            new TextRun({ text: \\\"What your LTV tells you: \\\", font: \\\"Calibri\\\", size: 22, bold: true, color: NAVY }),\\n            new TextRun({ text: \\\"If your LTV is $3,360, spending $150 to acquire one new client is not an expense. It is a $3,210 return. Knowing this number gives you permission to invest in growth with confidence instead of hesitation.\\\", font: \\\"Calibri\\\", size: 22, color: GREY })\\n          ]})\\n        ], { width: 9360, shading: LIGHT })\\n      ]\\n    })\\n  ]\\n}));\\n\\nchildren.push(new Paragraph({ children: [new PageBreak()] }));\\n\\n// ==== 10 KPIs ====\\nchildren.push(h1(\\\"The 10 KPIs Every Med Spa Should Track\\\"));\\nchildren.push(p(\\\"Each of these numbers tells you something specific. Together, they tell you the truth about your business.\\\", { size: 22, color: GREY }));\\nchildren.push(new Paragraph({ spacing: { before: 160 }, children: [new TextRun(\\\"\\\")] }));\\n\\n// 01 CAC\\nchildren.push(kpiCard(\\\"01\\\", \\\"Customer Acquisition Cost (CAC)\\\",\\n  \\\"CAC = Total Marketing Spend / New Clients Acquired\\\",\\n  \\\"What it costs you to bring one new client through the door. Include ad spend, influencer costs, referral incentives, and any staff time tied to outreach. Track this by channel so you know which marketing actually works.\\\",\\n  [\\\"Marketing spend this month: $__________\\\", \\\"New clients this month: __________\\\", \\\"My CAC: $__________\\\"],\\n  \\\"$75 to $250 is healthy for most med spas.\\\"\\n));\\nchildren.push(new Paragraph({ spacing: { before: 200 }, children: [new TextRun(\\\"\\\")] }));\\n\\n// 02 AOV\\nchildren.push(kpiCard(\\\"02\\\", \\\"Average Order Value (AOV)\\\",\\n  \\\"AOV = Total Revenue / Number of Transactions\\\",\\n  \\\"How much the average client spends per visit. This number goes up when your team recommends add-ons, when you offer packages, and when retail is presented at checkout. One extra $80 product sale per visit adds up fast at scale.\\\",\\n  [\\\"Revenue last 30 days: $__________\\\", \\\"Total appointments: __________\\\", \\\"My AOV: $__________\\\"],\\n  \\\"Know your baseline, then set a goal to increase it by 15% within 90 days.\\\"\\n));\\nchildren.push(new Paragraph({ spacing: { before: 200 }, children: [new TextRun(\\\"\\\")] }));\\n\\n// 03 LTV\\nchildren.push(kpiCard(\\\"03\\\", \\\"Client Lifetime Value (LTV)\\\",\\n  \\\"LTV = Avg Visit Value x Visits/Year x Years as Client\\\",\\n  \\\"You calculated this above. Come back to it every quarter. Even a small improvement in retention, like keeping clients 1 extra year, can increase LTV by 30 to 50% with zero additional marketing spend.\\\",\\n  [\\\"My LTV (from above): $__________\\\", \\\"Goal LTV in 12 months: $__________\\\"],\\n  \\\"Most med spas operating well see LTV between $1,500 and $6,000+.\\\"\\n));\\n\\nchildren.push(new Paragraph({ children: [new PageBreak()] }));\\n\\n// 04 Ratio\\nchildren.push(kpiCard(\\\"04\\\", \\\"LTV to CAC Ratio\\\",\\n  \\\"LTV:CAC Ratio = LTV / CAC\\\",\\n  \\\"Your growth health score. Divide your LTV by your CAC. Below 2x means you are overspending or underretaining. 3x to 5x is healthy. Above 6x means you are likely underinvesting in marketing and leaving revenue behind.\\\",\\n  [\\\"My LTV: $__________\\\", \\\"My CAC: $__________\\\", \\\"My Ratio: __________x\\\"],\\n  \\\"3x to 5x = healthy. Above 6x = increase your ad spend.\\\"\\n));\\nchildren.push(new Paragraph({ spacing: { before: 200 }, children: [new TextRun(\\\"\\\")] }));\\n\\n// 05 Gross Margin\\nchildren.push(kpiCard(\\\"05\\\", \\\"Gross Margin Per Treatment\\\",\\n  \\\"Gross Margin = (Revenue - Direct Costs) / Revenue\\\",\\n  \\\"How much of each treatment dollar stays after paying for injectables, consumables, and provider labor. Not all services are equal. Run this calculation for every service you offer at least once a year. High-volume, low-margin services can quietly drain profit.\\\",\\n  [\\\"Service: __________________\\\", \\\"Revenue: $__________\\\", \\\"Direct costs: $__________\\\", \\\"My Margin: __________%\\\"],\\n  \\\"Strong services run 60% to 80%+ margin. Below 40% needs a hard look.\\\"\\n));\\nchildren.push(new Paragraph({ spacing: { before: 200 }, children: [new TextRun(\\\"\\\")] }));\\n\\n// 06 Contribution Margin\\nchildren.push(kpiCard(\\\"06\\\", \\\"Contribution Margin\\\",\\n  \\\"Contribution Margin = Revenue - Variable Costs - CAC\\\",\\n  \\\"Gross margin tells you if a service is profitable. Contribution margin tells you if the client who came in for that service was worth acquiring. Use this before running any discount promotion or Groupon-style offer.\\\",\\n  [\\\"Service revenue: $__________\\\", \\\"Variable costs: $__________\\\", \\\"CAC: $__________\\\", \\\"Contribution Margin: $__________\\\"],\\n  \\\"If this number is near zero, the campaign is creating activity but not profit.\\\"\\n));\\n\\nchildren.push(new Paragraph({ children: [new PageBreak()] }));\\n\\n// 07 Break-Even\\nchildren.push(kpiCard(\\\"07\\\", \\\"Break-Even Treatments Per Month\\\",\\n  \\\"Break-Even = Fixed Monthly Costs / Contribution Margin Per Treatment\\\",\\n  \\\"How many treatments you need to perform every month before you earn a single dollar of profit. This number should be posted somewhere visible. If you are below it, everything else is noise until you fix it.\\\",\\n  [\\\"Fixed costs/month: $__________\\\", \\\"Avg contribution margin: $__________\\\", \\\"Break-even target: __________\\\"],\\n  \\\"Recalculate any time you add a new provider, equipment, or space.\\\"\\n));\\nchildren.push(new Paragraph({ spacing: { before: 200 }, children: [new TextRun(\\\"\\\")] }));\\n\\n// 08 RPP\\nchildren.push(kpiCard(\\\"08\\\", \\\"Revenue Per Patient (RPP)\\\",\\n  \\\"RPP = Total Revenue / Total Unique Clients\\\",\\n  \\\"Measures the depth of client relationships, not just headcount. A low RPP means your clients are transactional. A high RPP means they trust you, return often, and invest in multiple services. This number improves when providers present comprehensive care options.\\\",\\n  [\\\"Revenue last 12 months: $__________\\\", \\\"Unique clients: __________\\\", \\\"My RPP: $__________\\\"],\\n  \\\"Track this quarterly. Rising RPP = growing client trust and spend.\\\"\\n));\\nchildren.push(new Paragraph({ spacing: { before: 200 }, children: [new TextRun(\\\"\\\")] }));\\n\\n// 09 Utilization\\nchildren.push(kpiCard(\\\"09\\\", \\\"Provider Utilization Rate\\\",\\n  \\\"Utilization = Booked Treatment Hours / Available Treatment Hours\\\",\\n  \\\"How efficiently your providers convert their time into revenue. Gaps, no-shows, and admin during prime hours all drag this down silently. Going from 65% to 80% utilization on the same provider can add tens of thousands of dollars annually with no new overhead.\\\",\\n  [\\\"Booked hours this week: __________\\\", \\\"Available hours this week: __________\\\", \\\"My Rate: __________%\\\"],\\n  \\\"Target 75% to 85%. Below 70% is a profit leak. Require deposits.\\\"\\n));\\n\\nchildren.push(new Paragraph({ children: [new PageBreak()] }));\\n\\n// 10 Payback\\nchildren.push(kpiCard(\\\"10\\\", \\\"Marketing Payback Period\\\",\\n  \\\"Payback Period = CAC / Monthly Gross Profit Per Client\\\",\\n  \\\"How many months to recover what you spent to acquire a client. A membership client paying monthly shortens this dramatically. If any channel has a payback period over 12 months, that channel deserves a serious review.\\\",\\n  [\\\"My CAC: $__________\\\", \\\"Monthly gross profit/client: $__________\\\", \\\"Payback Period: __________ months\\\"],\\n  \\\"Under 6 months is strong. Membership programs are the fastest way to shorten this.\\\"\\n));\\n\\nchildren.push(new Paragraph({ spacing: { before: 320 }, children: [new TextRun(\\\"\\\")] }));\\n\\n// How these numbers connect\\nchildren.push(h2(\\\"How These Numbers Connect\\\"));\\n\\nchildren.push(new Paragraph({\\n  alignment: AlignmentType.CENTER,\\n  spacing: { before: 120, after: 240 },\\n  border: { top: { style: BorderStyle.SINGLE, size: 8, color: GOLD, space: 4 }, bottom: { style: BorderStyle.SINGLE, size: 8, color: GOLD, space: 4 } },\\n  children: [new TextRun({ text: \\\"Marketing Spend  >  CAC  >  LTV  >  Margin  >  Cash Flow\\\", font: \\\"Calibri\\\", size: 24, bold: true, color: NAVY })]\\n}));\\n\\nchildren.push(bullet(\\\"Marketing spend drives your CAC. CAC relative to LTV determines whether growth is sustainable.\\\"));\\nchildren.push(bullet(\\\"Gross margin per treatment determines how much of each dollar of LTV actually survives to profit.\\\"));\\nchildren.push(bullet(\\\"Utilization rate determines how efficiently your capacity converts into revenue.\\\"));\\nchildren.push(bullet(\\\"Break-even analysis grounds all of it in your real fixed cost structure.\\\"));\\nchildren.push(bullet(\\\"Owners who track these monthly stop making decisions based on how busy the schedule feels. They make decisions based on what the data says.\\\"));\\n\\nchildren.push(new Paragraph({ children: [new PageBreak()] }));\\n\\n// ==== PROMOTIONAL CLOSE ====\\nchildren.push(new Paragraph({\\n  alignment: AlignmentType.CENTER,\\n  spacing: { before: 240, after: 80 },\\n  children: [new TextRun({ text: \\\"NOW WHAT?\\\", font: \\\"Calibri\\\", size: 22, bold: true, color: GOLD, characterSpacing: 80 })]\\n}));\\n\\nchildren.push(new Paragraph({\\n  alignment: AlignmentType.CENTER,\\n  spacing: { before: 80, after: 80 },\\n  children: [new TextRun({ text: \\\"You know the numbers.\\\", font: \\\"Calibri\\\", size: 56, bold: true, color: NAVY })]\\n}));\\n\\nchildren.push(new Paragraph({\\n  alignment: AlignmentType.CENTER,\\n  spacing: { before: 40, after: 240 },\\n  children: [new TextRun({ text: \\\"The question is what you do with them.\\\", font: \\\"Calibri\\\", size: 32, italics: true, color: GREY })]\\n}));\\n\\nchildren.push(divider());\\n\\nchildren.push(p(\\\"Here's what most med spa owners discover when they fill in these fields honestly.\\\", { size: 24, bold: true, color: NAVY }));\\nchildren.push(p(\\\"Their LTV is higher than they thought. Their utilization rate is lower. Their CAC works on paper but their payback period is dragging cash flow. Their AOV has been flat for two years. And there is no membership program converting walk-ins into predictable monthly revenue.\\\"));\\n\\nchildren.push(p(\\\"That is not a business problem. It is a systems problem. And systems are fixable.\\\"));\\n\\nchildren.push(new Paragraph({ spacing: { before: 240 }, children: [new TextRun(\\\"\\\")] }));\\n\\n// The Luxora Collective block\\nchildren.push(new Table({\\n  width: { size: 9360, type: WidthType.DXA },\\n  columnWidths: [9360],\\n  rows: [\\n    new TableRow({\\n      children: [\\n        cell([\\n          new Paragraph({\\n            alignment: AlignmentType.CENTER,\\n            spacing: { before: 120, after: 80 },\\n            children: [new TextRun({ text: \\\"THE LUXORA COLLECTIVE\\\", font: \\\"Calibri\\\", size: 20, bold: true, color: GOLD, characterSpacing: 80 })]\\n          }),\\n          new Paragraph({\\n            alignment: AlignmentType.CENTER,\\n            spacing: { before: 80, after: 160 },\\n            children: [new TextRun({ text: \\\"We turn KPIs into cash flow.\\\", font: \\\"Calibri\\\", size: 36, bold: true, color: NAVY })]\\n          }),\\n          new Paragraph({\\n            spacing: { before: 80, after: 120 },\\n            children: [new TextRun({ text: \\\"We are a premium revenue growth partner built specifically for independent med spa owners doing $500K to $2M. We do not run funnels for you and disappear. We work from the inside out, knowledge transfer at every step, so you end the engagement more capable, confident, and in control of your business, not dependent on us.\\\", font: \\\"Calibri\\\", size: 22, color: GREY })]\\n          }),\\n          new Paragraph({ spacing: { before: 120, after: 80 }, children: [new TextRun({ text: \\\"Here is how it works.\\\", font: \\\"Calibri\\\", size: 22, bold: true, color: NAVY })] })\\n        ], { width: 9360, shading: LIGHT })\\n      ]\\n    })\\n  ]\\n}));\\n\\nchildren.push(new Paragraph({ spacing: { before: 240 }, children: [new TextRun(\\\"\\\")] }));\\n\\n// Step 1\\nchildren.push(new Table({\\n  width: { size: 9360, type: WidthType.DXA },\\n  columnWidths: [1200, 8160],\\n  rows: [\\n    new TableRow({\\n      children: [\\n        cell(new Paragraph({ alignment: AlignmentType.CENTER, spacing: { before: 120, after: 120 }, children: [new TextRun({ text: \\\"01\\\", font: \\\"Calibri\\\", size: 48, bold: true, color: \\\"FFFFFF\\\" })] }), { width: 1200, shading: NAVY }),\\n        cell([\\n          new Paragraph({ spacing: { before: 80, after: 40 }, children: [new TextRun({ text: \\\"Revenue Leak Audit\\\", font: \\\"Calibri\\\", size: 26, bold: true, color: NAVY })] }),\\n          new Paragraph({ spacing: { before: 40, after: 80 }, children: [new TextRun({ text: \\\"We find the revenue you are already earning but losing. Undertrained front desks, unconverted consults, stagnant clients, missing memberships, weak packages. You get a clear number in dollars for what is leaking and exactly where.\\\", font: \\\"Calibri\\\", size: 22, color: GREY })] })\\n        ], { width: 8160 })\\n      ]\\n    })\\n  ]\\n}));\\n\\nchildren.push(new Paragraph({ spacing: { before: 120 }, children: [new TextRun(\\\"\\\")] }));\\n\\n// Step 2\\nchildren.push(new Table({\\n  width: { size: 9360, type: WidthType.DXA },\\n  columnWidths: [1200, 8160],\\n  rows: [\\n    new TableRow({\\n      children: [\\n        cell(new Paragraph({ alignment: AlignmentType.CENTER, spacing: { before: 120, after: 120 }, children: [new TextRun({ text: \\\"02\\\", font: \\\"Calibri\\\", size: 48, bold: true, color: \\\"FFFFFF\\\" })] }), { width: 1200, shading: NAVY }),\\n        cell([\\n          new Paragraph({ spacing: { before: 80, after: 40 }, children: [new TextRun({ text: \\\"Market Blueprint\\\", font: \\\"Calibri\\\", size: 26, bold: true, color: NAVY })] }),\\n          new Paragraph({ spacing: { before: 40, after: 80 }, children: [new TextRun({ text: \\\"We build the growth roadmap for your specific market before recommending a single new investment. Who your ideal client actually is, where they are, what your local competition is not doing, and the highest-leverage moves in the right order.\\\", font: \\\"Calibri\\\", size: 22, color: GREY })] })\\n        ], { width: 8160 })\\n      ]\\n    })\\n  ]\\n}));\\n\\nchildren.push(new Paragraph({ spacing: { before: 120 }, children: [new TextRun(\\\"\\\")] }));\\n\\n// Step 3\\nchildren.push(new Table({\\n  width: { size: 9360, type: WidthType.DXA },\\n  columnWidths: [1200, 8160],\\n  rows: [\\n    new TableRow({\\n      children: [\\n        cell(new Paragraph({ alignment: AlignmentType.CENTER, spacing: { before: 120, after: 120 }, children: [new TextRun({ text: \\\"03\\\", font: \\\"Calibri\\\", size: 48, bold: true, color: \\\"FFFFFF\\\" })] }), { width: 1200, shading: NAVY }),\\n        cell([\\n          new Paragraph({ spacing: { before: 80, after: 40 }, children: [new TextRun({ text: \\\"Install the Systems\\\", font: \\\"Calibri\\\", size: 26, bold: true, color: NAVY })] }),\\n          new Paragraph({ spacing: { before: 40, after: 80 }, children: [new TextRun({ text: \\\"Membership programs, package architecture, staff sales training, AI follow-up, CRM, partnerships, reputation engine, and LTV frameworks. Installed in the right sequence with full knowledge transfer so your team can actually run them.\\\", font: \\\"Calibri\\\", size: 22, color: GREY })] })\\n        ], { width: 8160 })\\n      ]\\n    })\\n  ]\\n}));\\n\\nchildren.push(new Paragraph({ spacing: { before: 320 }, children: [new TextRun(\\\"\\\")] }));\\n\\n// What changes\\nchildren.push(h3(\\\"What changes when you work with us\\\"));\\nchildren.push(bullet(\\\"Your LTV goes up because retention and AOV go up.\\\"));\\nchildren.push(bullet(\\\"Your CAC goes down because the right clients are walking in.\\\"));\\nchildren.push(bullet(\\\"Your payback period shrinks because memberships create monthly recurring revenue.\\\"));\\nchildren.push(bullet(\\\"Your utilization rises because the schedule fills with higher-value clients, not one-off Groupon traffic.\\\"));\\nchildren.push(bullet(\\\"You stop making decisions based on how busy the schedule feels and start making them based on what the data says.\\\"));\\n\\nchildren.push(new Paragraph({ children: [new PageBreak()] }));\\n\\n// FINAL CTA\\nchildren.push(new Paragraph({\\n  alignment: AlignmentType.CENTER,\\n  spacing: { before: 720, after: 80 },\\n  children: [new TextRun({ text: \\\"READY TO MASTER YOUR KPIs?\\\", font: \\\"Calibri\\\", size: 22, bold: true, color: GOLD, characterSpacing: 80 })]\\n}));\\n\\nchildren.push(new Paragraph({\\n  alignment: AlignmentType.CENTER,\\n  spacing: { before: 80, after: 240 },\\n  children: [new TextRun({ text: \\\"Book a free 30-minute Revenue Leak Review.\\\", font: \\\"Calibri\\\", size: 40, bold: true, color: NAVY })]\\n}));\\n\\nchildren.push(new Paragraph({\\n  alignment: AlignmentType.CENTER,\\n  spacing: { before: 120, after: 120 },\\n  children: [new TextRun({ text: \\\"On the call we will walk through your numbers together, identify the top 2 or 3 revenue leaks specific to your spa, and give you a clear next-step plan. Whether we end up working together or not, you leave the call with more clarity than you came in with. No pitch, no pressure.\\\", font: \\\"Calibri\\\", size: 22, color: GREY })]\\n}));\\n\\nchildren.push(new Paragraph({ spacing: { before: 280 }, children: [new TextRun(\\\"\\\")] }));\\n\\n// CTA Button\\nchildren.push(new Table({\\n  width: { size: 9360, type: WidthType.DXA },\\n  columnWidths: [9360],\\n  rows: [\\n    new TableRow({\\n      children: [\\n        cell([\\n          new Paragraph({\\n            alignment: AlignmentType.CENTER,\\n            spacing: { before: 200, after: 80 },\\n            children: [new ExternalHyperlink({\\n              link: \\\"https://theluxoracollective.co\\\",\\n              children: [new TextRun({ text: \\\"VISIT THELUXORACOLLECTIVE.CO\\\", font: \\\"Calibri\\\", size: 28, bold: true, color: \\\"FFFFFF\\\", characterSpacing: 40 })]\\n            })]\\n          }),\\n          new Paragraph({\\n            alignment: AlignmentType.CENTER,\\n            spacing: { before: 40, after: 200 },\\n            children: [new TextRun({ text: \\\"to book your free Revenue Leak Review\\\", font: \\\"Calibri\\\", size: 20, italics: true, color: \\\"FFFFFF\\\" })]\\n          })\\n        ], { width: 9360, shading: NAVY })\\n      ]\\n    })\\n  ]\\n}));\\n\\nchildren.push(new Paragraph({ spacing: { before: 320 }, children: [new TextRun(\\\"\\\")] }));\\n\\n// Who we work with\\nchildren.push(h3(\\\"Who we work with\\\"));\\nchildren.push(p(\\\"Independent med spa owners generating $500K to $2M annually who are tired of guessing and ready to run their business off real numbers. If that is you, we should talk.\\\"));\\n\\nchildren.push(new Paragraph({ spacing: { before: 320 }, children: [new TextRun(\\\"\\\")] }));\\n\\nchildren.push(divider());\\n\\nchildren.push(new Paragraph({\\n  alignment: AlignmentType.CENTER,\\n  spacing: { before: 240, after: 80 },\\n  children: [new TextRun({ text: \\\"THE LUXORA COLLECTIVE\\\", font: \\\"Calibri\\\", size: 22, bold: true, color: NAVY, characterSpacing: 80 })]\\n}));\\n\\nchildren.push(new Paragraph({\\n  alignment: AlignmentType.CENTER,\\n  spacing: { before: 60, after: 60 },\\n  children: [new TextRun({ text: \\\"Premium Revenue Growth for Independent Med Spas\\\", font: \\\"Calibri\\\", size: 20, italics: true, color: GREY })]\\n}));\\n\\nchildren.push(new Paragraph({\\n  alignment: AlignmentType.CENTER,\\n  spacing: { before: 120, after: 120 },\\n  children: [new ExternalHyperlink({\\n    link: \\\"https://theluxoracollective.co\\\",\\n    children: [new TextRun({ text: \\\"theluxoracollective.co\\\", font: \\\"Calibri\\\", size: 24, bold: true, color: GOLD })]\\n  })]\\n}));\\n\\n// ============ BUILD DOCUMENT ============\\nconst doc = new Document({\\n  creator: \\\"The Luxora Collective\\\",\\n  title: \\\"Know Your Numbers - The Med Spa Owner's KPI Reference Guide\\\",\\n  styles: {\\n    default: { document: { run: { font: \\\"Calibri\\\", size: 22 } } },\\n    paragraphStyles: [\\n      { id: \\\"Heading1\\\", name: \\\"Heading 1\\\", basedOn: \\\"Normal\\\", next: \\\"Normal\\\", quickFormat: true,\\n        run: { size: 40, bold: true, font: \\\"Calibri\\\", color: NAVY },\\n        paragraph: { spacing: { before: 360, after: 180 }, outlineLevel: 0 } },\\n      { id: \\\"Heading2\\\", name: \\\"Heading 2\\\", basedOn: \\\"Normal\\\", next: \\\"Normal\\\", quickFormat: true,\\n        run: { size: 30, bold: true, font: \\\"Calibri\\\", color: NAVY },\\n        paragraph: { spacing: { before: 280, after: 140 }, outlineLevel: 1 } },\\n      { id: \\\"Heading3\\\", name: \\\"Heading 3\\\", basedOn: \\\"Normal\\\", next: \\\"Normal\\\", quickFormat: true,\\n        run: { size: 24, bold: true, font: \\\"Calibri\\\", color: GOLD },\\n        paragraph: { spacing: { before: 200, after: 100 }, outlineLevel: 2 } }\\n    ]\\n  },\\n  numbering: {\\n    config: [\\n      { reference: \\\"bullets\\\",\\n        levels: [{ level: 0, format: LevelFormat.BULLET, text: \\\"\\u2022\\\", alignment: AlignmentType.LEFT,\\n          style: { paragraph: { indent: { left: 720, hanging: 360 } }, run: { font: \\\"Calibri\\\", size: 22, color: GREY } } }] }\\n    ]\\n  },\\n  sections: [{\\n    properties: {\\n      page: {\\n        size: { width: 12240, height: 15840 },\\n        margin: { top: 1440, right: 1440, bottom: 1440, left: 1440 }\\n      }\\n    },\\n    children: children\\n  }]\\n});\\n\\nPacker.toBuffer(doc).then(buffer => {\\n  fs.writeFileSync(\\\"/home/claude/KYN_Lead_Magnet_Luxora.docx\\\", buffer);\\n  console.log(\\\"Document created successfully\\\");\\n});\\n\", \"filename\": \"/home/claude/build_kyn.js\"}"
+          },
+          "approval_options": null,
+          "approval_key": null,
+          "approval_key_legacy": null,
+          "is_mcp_app": null,
+          "hidden_in_chat": null,
+          "mcp_server_url": null
+        },
+        {
+          "start_timestamp": null,
+          "stop_timestamp": null,
+          "flags": null,
+          "type": "tool_result",
+          "tool_use_id": "toolu_01RFAquJTqVrC3jugtZim772",
+          "name": "create_file",
+          "content": [
+            {
+              "type": "text",
+              "text": "File created successfully: /home/claude/build_kyn.js",
+              "uuid": "af89b6db-91e0-4624-98f3-8af1b30a1e98"
+            }
+          ],
+          "is_error": false,
+          "structured_content": null,
+          "meta": null,
+          "message": null,
+          "integration_name": null,
+          "mcp_server_url": null,
+          "integration_icon_url": null,
+          "icon_name": "file",
+          "display_content": {
+            "type": "text",
+            "text": "File created successfully: /home/claude/build_kyn.js"
+          },
+          "hidden_in_chat": null
+        },
+        {
+          "start_timestamp": "2026-04-21T20:03:40.386027Z",
+          "stop_timestamp": "2026-04-21T20:03:40.734833Z",
+          "flags": null,
+          "type": "tool_use",
+          "id": "toolu_01Fo2puzJNyuKgCCNv3sVqeD",
+          "name": "bash_tool",
+          "input": {
+            "command": "cd /home/claude && node build_kyn.js",
+            "description": "Build the docx"
+          },
+          "message": "Build the docx",
+          "integration_name": null,
+          "integration_icon_url": null,
+          "tool_identifier": null,
+          "icon_name": "commandLine",
+          "context": null,
+          "display_content": {
+            "type": "json_block",
+            "json_block": "{\"language\": \"bash\", \"code\": \"cd /home/claude && node build_kyn.js\"}"
+          },
+          "approval_options": null,
+          "approval_key": null,
+          "approval_key_legacy": null,
+          "is_mcp_app": null,
+          "hidden_in_chat": null,
+          "mcp_server_url": null
+        },
+        {
+          "start_timestamp": null,
+          "stop_timestamp": null,
+          "flags": null,
+          "type": "tool_result",
+          "tool_use_id": "toolu_01Fo2puzJNyuKgCCNv3sVqeD",
+          "name": "bash_tool",
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"returncode\":0,\"stdout\":\"Document created successfully\\n\",\"stderr\":\"\"}",
+              "uuid": "832b3b69-26be-413e-a49a-2d87fe1c62e9"
+            }
+          ],
+          "is_error": false,
+          "structured_content": null,
+          "meta": null,
+          "message": null,
+          "integration_name": null,
+          "mcp_server_url": null,
+          "integration_icon_url": null,
+          "icon_name": "commandLine",
+          "display_content": {
+            "type": "json_block",
+            "json_block": "{\"returncode\":0,\"stdout\":\"Document created successfully\\n\",\"stderr\":\"\"}"
+          },
+          "hidden_in_chat": null
+        },
+        {
+          "start_timestamp": "2026-04-21T20:03:43.831068Z",
+          "stop_timestamp": "2026-04-21T20:03:44.479254Z",
+          "flags": null,
+          "type": "tool_use",
+          "id": "toolu_0189H1fd69kBDkTfW9nNAXJW",
+          "name": "bash_tool",
+          "input": {
+            "command": "python3 /mnt/skills/public/docx/scripts/office/validate.py /home/claude/KYN_Lead_Magnet_Luxora.docx",
+            "description": "Validate the docx"
+          },
+          "message": "Validate the docx",
+          "integration_name": null,
+          "integration_icon_url": null,
+          "tool_identifier": null,
+          "icon_name": "commandLine",
+          "context": null,
+          "display_content": {
+            "type": "json_block",
+            "json_block": "{\"language\": \"bash\", \"code\": \"python3 /mnt/skills/public/docx/scripts/office/validate.py /home/claude/KYN_Lead_Magnet_Luxora.docx\"}"
+          },
+          "approval_options": null,
+          "approval_key": null,
+          "approval_key_legacy": null,
+          "is_mcp_app": null,
+          "hidden_in_chat": null,
+          "mcp_server_url": null
+        },
+        {
+          "start_timestamp": null,
+          "stop_timestamp": null,
+          "flags": null,
+          "type": "tool_result",
+          "tool_use_id": "toolu_0189H1fd69kBDkTfW9nNAXJW",
+          "name": "bash_tool",
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"returncode\":0,\"stdout\":\"\\nParagraphs: 0 \u2192 215 (+215)\\nAll validations PASSED!\\n\",\"stderr\":\"\"}",
+              "uuid": "d97518ae-6c6a-46d3-8196-cbbb35b6921f"
+            }
+          ],
+          "is_error": false,
+          "structured_content": null,
+          "meta": null,
+          "message": null,
+          "integration_name": null,
+          "mcp_server_url": null,
+          "integration_icon_url": null,
+          "icon_name": "commandLine",
+          "display_content": {
+            "type": "json_block",
+            "json_block": "{\"returncode\":0,\"stdout\":\"\\nParagraphs: 0 \u2192 215 (+215)\\nAll validations PASSED!\\n\",\"stderr\":\"\"}"
+          },
+          "hidden_in_chat": null
+        },
+        {
+          "start_timestamp": "2026-04-21T20:03:48.501236Z",
+          "stop_timestamp": "2026-04-21T20:03:49.234938Z",
+          "flags": null,
+          "type": "tool_use",
+          "id": "toolu_017bSAFK4JFXPGoP7sPQDYtj",
+          "name": "bash_tool",
+          "input": {
+            "command": "cp /home/claude/KYN_Lead_Magnet_Luxora.docx /mnt/user-data/outputs/KYN_Lead_Magnet_Luxora.docx && ls -lh /mnt/user-data/outputs/",
+            "description": "Move to outputs"
+          },
+          "message": "Move to outputs",
+          "integration_name": null,
+          "integration_icon_url": null,
+          "tool_identifier": null,
+          "icon_name": "commandLine",
+          "context": null,
+          "display_content": {
+            "type": "json_block",
+            "json_block": "{\"language\": \"bash\", \"code\": \"cp /home/claude/KYN_Lead_Magnet_Luxora.docx /mnt/user-data/outputs/KYN_Lead_Magnet_Luxora.docx && ls -lh /mnt/user-data/outputs/\"}"
+          },
+          "approval_options": null,
+          "approval_key": null,
+          "approval_key_legacy": null,
+          "is_mcp_app": null,
+          "hidden_in_chat": null,
+          "mcp_server_url": null
+        },
+        {
+          "start_timestamp": null,
+          "stop_timestamp": null,
+          "flags": null,
+          "type": "tool_result",
+          "tool_use_id": "toolu_017bSAFK4JFXPGoP7sPQDYtj",
+          "name": "bash_tool",
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"returncode\":0,\"stdout\":\"total 16K\\n-rw-r--r-- 1 claude root 16K Apr 21 20:03 KYN_Lead_Magnet_Luxora.docx\\n\",\"stderr\":\"\"}",
+              "uuid": "46a40256-6105-4a84-a4a1-3c209f15c07e"
+            }
+          ],
+          "is_error": false,
+          "structured_content": null,
+          "meta": null,
+          "message": null,
+          "integration_name": null,
+          "mcp_server_url": null,
+          "integration_icon_url": null,
+          "icon_name": "commandLine",
+          "display_content": {
+            "type": "json_block",
+            "json_block": "{\"returncode\":0,\"stdout\":\"total 16K\\n-rw-r--r-- 1 claude root 16K Apr 21 20:03 KYN_Lead_Magnet_Luxora.docx\\n\",\"stderr\":\"\"}"
+          },
+          "hidden_in_chat": null
+        },
+        {
+          "start_timestamp": "2026-04-21T20:03:52.115146Z",
+          "stop_timestamp": "2026-04-21T20:03:52.372870Z",
+          "flags": null,
+          "type": "tool_use",
+          "id": "toolu_017AX2ht9jtb5rq1GLmCmyNV",
+          "name": "present_files",
+          "input": {
+            "filepaths": [
+              "/mnt/user-data/outputs/KYN_Lead_Magnet_Luxora.docx"
+            ]
+          },
+          "message": "Presenting file(s)...",
+          "integration_name": null,
+          "integration_icon_url": null,
+          "tool_identifier": null,
+          "icon_name": "file",
+          "context": null,
+          "display_content": {
+            "type": "table",
+            "table": [
+              [
+                "filepaths",
+                "['/mnt/user-data/outputs/KYN_Lead_Magnet_Luxora.docx']"
+              ]
+            ]
+          },
+          "approval_options": null,
+          "approval_key": null,
+          "approval_key_legacy": null,
+          "is_mcp_app": null,
+          "hidden_in_chat": null,
+          "mcp_server_url": null
+        },
+        {
+          "start_timestamp": null,
+          "stop_timestamp": null,
+          "flags": null,
+          "type": "tool_result",
+          "tool_use_id": "toolu_017AX2ht9jtb5rq1GLmCmyNV",
+          "name": "present_files",
+          "content": [
+            {
+              "type": "local_resource",
+              "file_path": "/mnt/user-data/outputs/KYN_Lead_Magnet_Luxora.docx",
+              "name": "KYN Lead Magnet Luxora",
+              "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "uuid": "91ce7e06-66de-442a-9a8f-745fa54147a3"
+            }
+          ],
+          "is_error": false,
+          "structured_content": null,
+          "meta": null,
+          "message": "Presented file",
+          "integration_name": null,
+          "mcp_server_url": null,
+          "integration_icon_url": null,
+          "icon_name": "file",
+          "display_content": null,
+          "hidden_in_chat": null
+        },
+        {
+          "start_timestamp": "2026-04-21T20:03:56.792604Z",
+          "stop_timestamp": "2026-04-21T20:04:15.381353Z",
+          "flags": null,
+          "type": "text",
+          "text": "Done. Here's what changed from the original KPI playbook to turn it into a lead magnet:\n\n**Structural changes**\n1. Added a branded cover page (Luxora Collective, gold accent rule, tagline, URL)\n2. Added an \"Inside this guide\" teaser on page 2 so the reader knows what they're about to get\n3. Rebuilt the 10 KPIs as two-column cards (explanation left, fillable numbers right in a light panel) so it feels like a premium workbook instead of a text doc\n4. Cleaned up the \"Your LTV\" section into a side-by-side Example vs. Your LTV layout\n5. Replaced the plain ending with a three-page promotional close\n\n**The promotional close (new)**\n- Bridge page: \"You know the numbers. The question is what you do with them.\" Reframes the honest findings most owners will see when they fill the fields in (low utilization, flat AOV, no membership) as a systems problem, not a business problem.\n- Luxora positioning block in your brand voice: premium revenue growth partner, $500K to $2M independents, knowledge transfer, not dependent on us.\n- Three numbered process steps (Revenue Leak Audit, Market Blueprint, Install the Systems) matching your actual methodology.\n- \"What changes when you work with us\" mapped directly back to the KPIs in the guide (LTV up, CAC down, payback shrinks, utilization rises). This is the critical link, it proves the offer solves the exact pain the guide just surfaced.\n- Final CTA: Free 30-minute Revenue Leak Review, with a navy button linking to theluxoracollective.co, and a \"no pitch, no pressure\" reassurance line.\n\n**Two weakest parts to flag**\n1. **The CTA destination is the homepage.** For a lead magnet this matters a lot. Homepage traffic converts 3 to 5x worse than a dedicated booking page. You should point the button at a specific calendar link (Calendly, GHL booking widget) or a landing page built for this exact offer with only one action on it. I used the homepage because I don't have the booking URL, but swap it before you send this out.\n\n2. **There's no lead capture mechanism inside the doc itself.** Right now someone can read the whole thing, skip the CTA, and you never know they downloaded it. Two fixes worth considering: (a) gate the PDF behind an email opt-in on your site (standard move), and (b) add a second softer CTA earlier in the document, probably right after the LTV calculation on page 3, something like \"See what your numbers look like when we run them together, book a free Revenue Leak Review.\" One CTA at the end is fine for short content, but this is a 15+ page document and some readers will decide to book before they finish.",
+          "citations": []
+        }
+      ],
+      "sender": "assistant",
+      "created_at": "2026-04-21T20:04:15.455029Z",
+      "updated_at": "2026-04-21T20:04:15.455029Z",
+      "attachments": [],
+      "files": [],
+      "parent_message_uuid": "019db1a1-bf73-7188-b280-009f90fdd610"
+    },
+    {
+      "uuid": "019db1c7-a21f-7d43-9643-13304aa159ab",
+      "text": "take out page breaks",
+      "content": [
+        {
+          "start_timestamp": "2026-04-21T20:42:23.345848Z",
+          "stop_timestamp": "2026-04-21T20:42:23.345848Z",
+          "flags": null,
+          "type": "text",
+          "text": "take out page breaks",
+          "citations": []
+        }
+      ],
+      "sender": "human",
+      "created_at": "2026-04-21T20:42:23.396164Z",
+      "updated_at": "2026-04-21T20:42:23.396164Z",
+      "attachments": [],
+      "files": [],
+      "parent_message_uuid": "019db1a1-bf73-7e94-9742-0141bcfe3849"
+    },
+    {
+      "uuid": "019db1c7-a21f-74bd-968e-5b2ef9ffd456",
+      "text": " \n```\nThis block is not supported on your current device yet.\n```\n\n\n```\nThis block is not supported on your current device yet.\n```\n\n\n```\nThis block is not supported on your current device yet.\n```\n\n\n```\nThis block is not supported on your current device yet.\n```\n\n\n```\nThis block is not supported on your current device yet.\n```\n\n\n```\nThis block is not supported on your current device yet.\n```\n\nPage breaks removed. The document now flows as one continuous piece with natural spacing between sections instead of hard breaks. Content and formatting are otherwise identical.",
+      "content": [
+        {
+          "start_timestamp": "2026-04-21T20:42:25.768792Z",
+          "stop_timestamp": "2026-04-21T20:42:25.768792Z",
+          "flags": null,
+          "type": "text",
+          "text": " ",
+          "citations": []
+        },
+        {
+          "start_timestamp": "2026-04-21T20:42:26.140607Z",
+          "stop_timestamp": "2026-04-21T20:42:26.907695Z",
+          "flags": null,
+          "type": "tool_use",
+          "id": "toolu_01UQHfJGkG9yGxpsywYkHXY5",
+          "name": "view",
+          "input": {
+            "description": "Find all PageBreak usages in the build script",
+            "path": "/home/claude/build_kyn.js",
+            "view_range": [
+              1,
+              20
+            ]
+          },
+          "message": "Find all PageBreak usages in the build script",
+          "integration_name": null,
+          "integration_icon_url": null,
+          "tool_identifier": null,
+          "icon_name": "file",
+          "context": null,
+          "display_content": {
+            "type": "text",
+            "text": "Find all PageBreak usages in the build script"
+          },
+          "approval_options": null,
+          "approval_key": null,
+          "approval_key_legacy": null,
+          "is_mcp_app": null,
+          "hidden_in_chat": null,
+          "mcp_server_url": null
+        },
+        {
+          "start_timestamp": null,
+          "stop_timestamp": null,
+          "flags": null,
+          "type": "tool_result",
+          "tool_use_id": "toolu_01UQHfJGkG9yGxpsywYkHXY5",
+          "name": "view",
+          "content": [
+            {
+              "type": "text",
+              "text": "     1\tconst {\n     2\t  Document, Packer, Paragraph, TextRun, Table, TableRow, TableCell,\n     3\t  AlignmentType, LevelFormat, HeadingLevel, BorderStyle, WidthType,\n     4\t  ShadingType, PageBreak, ExternalHyperlink\n     5\t} = require('docx');\n     6\tconst fs = require('fs');\n     7\t\n     8\t// Brand palette\n     9\tconst NAVY = \"0A1F44\";\n    10\tconst GOLD = \"B08D57\";\n    11\tconst LIGHT = \"F5F1EA\";\n    12\tconst GREY = \"4A4A4A\";\n    13\tconst BORDER_GREY = \"D9D9D9\";\n    14\t\n    15\tconst border = { style: BorderStyle.SINGLE, size: 4, color: BORDER_GREY };\n    16\tconst borders = { top: border, bottom: border, left: border, right: border };\n    17\t\n    18\t// Helpers\n    19\tconst p = (text, opts = {}) => new Paragraph({\n    20\t  spacing: { before: 80, after: 80, ...(opts.spacing || {}) },\n[656 lines total]",
+              "uuid": "b082e7ad-a37a-4c29-b3fb-406a4322f43c"
+            }
+          ],
+          "is_error": false,
+          "structured_content": null,
+          "meta": null,
+          "message": null,
+          "integration_name": null,
+          "mcp_server_url": null,
+          "integration_icon_url": null,
+          "icon_name": "file",
+          "display_content": {
+            "type": "json_block",
+            "json_block": "{\"language\": \"javascript\", \"code\": \"const {\\n  Document, Packer, Paragraph, TextRun, Table, TableRow, TableCell,\\n  AlignmentType, LevelFormat, HeadingLevel, BorderStyle, WidthType,\\n  ShadingType, PageBreak, ExternalHyperlink\\n} = require('docx');\\nconst fs = require('fs');\\n\\n// Brand palette\\nconst NAVY = \\\"0A1F44\\\";\\nconst GOLD = \\\"B08D57\\\";\\nconst LIGHT = \\\"F5F1EA\\\";\\nconst GREY = \\\"4A4A4A\\\";\\nconst BORDER_GREY = \\\"D9D9D9\\\";\\n\\nconst border = { style: BorderStyle.SINGLE, size: 4, color: BORDER_GREY };\\nconst borders = { top: border, bottom: border, left: border, right: border };\\n\\n// Helpers\\nconst p = (text, opts = {}) => new Paragraph({\\n  spacing: { before: 80, after: 80, ...(opts.spacing || {}) },\\n\", \"filename\": \"/home/claude/build_kyn.js\"}"
+          },
+          "hidden_in_chat": null
+        },
+        {
+          "start_timestamp": "2026-04-21T20:42:32.448559Z",
+          "stop_timestamp": "2026-04-21T20:42:32.757088Z",
+          "flags": null,
+          "type": "tool_use",
+          "id": "toolu_013Vt6KJqmjm38Rc55HYemge",
+          "name": "bash_tool",
+          "input": {
+            "command": "grep -n \"PageBreak\" /home/claude/build_kyn.js",
+            "description": "Locate every PageBreak line"
+          },
+          "message": "Locate every PageBreak line",
+          "integration_name": null,
+          "integration_icon_url": null,
+          "tool_identifier": null,
+          "icon_name": "commandLine",
+          "context": null,
+          "display_content": {
+            "type": "json_block",
+            "json_block": "{\"language\": \"bash\", \"code\": \"grep -n \\\"PageBreak\\\" /home/claude/build_kyn.js\"}"
+          },
+          "approval_options": null,
+          "approval_key": null,
+          "approval_key_legacy": null,
+          "is_mcp_app": null,
+          "hidden_in_chat": null,
+          "mcp_server_url": null
+        },
+        {
+          "start_timestamp": null,
+          "stop_timestamp": null,
+          "flags": null,
+          "type": "tool_result",
+          "tool_use_id": "toolu_013Vt6KJqmjm38Rc55HYemge",
+          "name": "bash_tool",
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"returncode\":0,\"stdout\":\"4:  ShadingType, PageBreak, ExternalHyperlink\\n174:children.push(new Paragraph({ children: [new PageBreak()] }));\\n191:children.push(new Paragraph({ children: [new PageBreak()] }));\\n292:children.push(new Paragraph({ children: [new PageBreak()] }));\\n325:children.push(new Paragraph({ children: [new PageBreak()] }));\\n353:children.push(new Paragraph({ children: [new PageBreak()] }));\\n381:children.push(new Paragraph({ children: [new PageBreak()] }));\\n409:children.push(new Paragraph({ children: [new PageBreak()] }));\\n535:children.push(new Paragraph({ children: [new PageBreak()] }));\\n\",\"stderr\":\"\"}",
+              "uuid": "b4e3bd65-7628-4b1c-b7af-80c491e83caf"
+            }
+          ],
+          "is_error": false,
+          "structured_content": null,
+          "meta": null,
+          "message": null,
+          "integration_name": null,
+          "mcp_server_url": null,
+          "integration_icon_url": null,
+          "icon_name": "commandLine",
+          "display_content": {
+            "type": "json_block",
+            "json_block": "{\"returncode\":0,\"stdout\":\"4:  ShadingType, PageBreak, ExternalHyperlink\\n174:children.push(new Paragraph({ children: [new PageBreak()] }));\\n191:children.push(new Paragraph({ children: [new PageBreak()] }));\\n292:children.push(new Paragraph({ children: [new PageBreak()] }));\\n325:children.push(new Paragraph({ children: [new PageBreak()] }));\\n353:children.push(new Paragraph({ children: [new PageBreak()] }));\\n381:children.push(new Paragraph({ children: [new PageBreak()] }));\\n409:children.push(new Paragraph({ children: [new PageBreak()] }));\\n535:children.push(new Paragraph({ children: [new PageBreak()] }));\\n\",\"stderr\":\"\"}"
+          },
+          "hidden_in_chat": null
+        },
+        {
+          "start_timestamp": "2026-04-21T20:42:35.431178Z",
+          "stop_timestamp": "2026-04-21T20:42:36.150150Z",
+          "flags": null,
+          "type": "tool_use",
+          "id": "toolu_01VutoexCjB7j8rRdDpborJv",
+          "name": "bash_tool",
+          "input": {
+            "command": "sed -i \"/new PageBreak()/d\" /home/claude/build_kyn.js && grep -n \"PageBreak\" /home/claude/build_kyn.js",
+            "description": "Remove all page break lines"
+          },
+          "message": "Remove all page break lines",
+          "integration_name": null,
+          "integration_icon_url": null,
+          "tool_identifier": null,
+          "icon_name": "commandLine",
+          "context": null,
+          "display_content": {
+            "type": "json_block",
+            "json_block": "{\"language\": \"bash\", \"code\": \"sed -i \\\"/new PageBreak()/d\\\" /home/claude/build_kyn.js && grep -n \\\"PageBreak\\\" /home/claude/build_kyn.js\"}"
+          },
+          "approval_options": null,
+          "approval_key": null,
+          "approval_key_legacy": null,
+          "is_mcp_app": null,
+          "hidden_in_chat": null,
+          "mcp_server_url": null
+        },
+        {
+          "start_timestamp": null,
+          "stop_timestamp": null,
+          "flags": null,
+          "type": "tool_result",
+          "tool_use_id": "toolu_01VutoexCjB7j8rRdDpborJv",
+          "name": "bash_tool",
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"returncode\":0,\"stdout\":\"4:  ShadingType, PageBreak, ExternalHyperlink\\n\",\"stderr\":\"\"}",
+              "uuid": "52fa9ec3-481b-4ecb-a45f-c201cea6221b"
+            }
+          ],
+          "is_error": false,
+          "structured_content": null,
+          "meta": null,
+          "message": null,
+          "integration_name": null,
+          "mcp_server_url": null,
+          "integration_icon_url": null,
+          "icon_name": "commandLine",
+          "display_content": {
+            "type": "json_block",
+            "json_block": "{\"returncode\":0,\"stdout\":\"4:  ShadingType, PageBreak, ExternalHyperlink\\n\",\"stderr\":\"\"}"
+          },
+          "hidden_in_chat": null
+        },
+        {
+          "start_timestamp": "2026-04-21T20:42:38.302258Z",
+          "stop_timestamp": "2026-04-21T20:42:39.202314Z",
+          "flags": null,
+          "type": "tool_use",
+          "id": "toolu_01V4TFS4QapAGJGnThw8idnS",
+          "name": "bash_tool",
+          "input": {
+            "command": "cd /home/claude && node build_kyn.js && python3 /mnt/skills/public/docx/scripts/office/validate.py /home/claude/KYN_Lead_Magnet_Luxora.docx",
+            "description": "Rebuild and validate"
+          },
+          "message": "Rebuild and validate",
+          "integration_name": null,
+          "integration_icon_url": null,
+          "tool_identifier": null,
+          "icon_name": "commandLine",
+          "context": null,
+          "display_content": {
+            "type": "json_block",
+            "json_block": "{\"language\": \"bash\", \"code\": \"cd /home/claude && node build_kyn.js && python3 /mnt/skills/public/docx/scripts/office/validate.py /home/claude/KYN_Lead_Magnet_Luxora.docx\"}"
+          },
+          "approval_options": null,
+          "approval_key": null,
+          "approval_key_legacy": null,
+          "is_mcp_app": null,
+          "hidden_in_chat": null,
+          "mcp_server_url": null
+        },
+        {
+          "start_timestamp": null,
+          "stop_timestamp": null,
+          "flags": null,
+          "type": "tool_result",
+          "tool_use_id": "toolu_01V4TFS4QapAGJGnThw8idnS",
+          "name": "bash_tool",
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"returncode\":0,\"stdout\":\"Document created successfully\\n\\nParagraphs: 0 \u2192 207 (+207)\\nAll validations PASSED!\\n\",\"stderr\":\"\"}",
+              "uuid": "0a86d2fb-b5c7-4ee4-878c-85e01fc9618c"
+            }
+          ],
+          "is_error": false,
+          "structured_content": null,
+          "meta": null,
+          "message": null,
+          "integration_name": null,
+          "mcp_server_url": null,
+          "integration_icon_url": null,
+          "icon_name": "commandLine",
+          "display_content": {
+            "type": "json_block",
+            "json_block": "{\"returncode\":0,\"stdout\":\"Document created successfully\\n\\nParagraphs: 0 \u2192 207 (+207)\\nAll validations PASSED!\\n\",\"stderr\":\"\"}"
+          },
+          "hidden_in_chat": null
+        },
+        {
+          "start_timestamp": "2026-04-21T20:42:43.867985Z",
+          "stop_timestamp": "2026-04-21T20:42:44.449284Z",
+          "flags": null,
+          "type": "tool_use",
+          "id": "toolu_01Q8sqcNfFhyy6iNJKoNdAps",
+          "name": "bash_tool",
+          "input": {
+            "command": "cp /home/claude/KYN_Lead_Magnet_Luxora.docx /mnt/user-data/outputs/KYN_Lead_Magnet_Luxora.docx",
+            "description": "Copy to outputs"
+          },
+          "message": "Copy to outputs",
+          "integration_name": null,
+          "integration_icon_url": null,
+          "tool_identifier": null,
+          "icon_name": "commandLine",
+          "context": null,
+          "display_content": {
+            "type": "json_block",
+            "json_block": "{\"language\": \"bash\", \"code\": \"cp /home/claude/KYN_Lead_Magnet_Luxora.docx /mnt/user-data/outputs/KYN_Lead_Magnet_Luxora.docx\"}"
+          },
+          "approval_options": null,
+          "approval_key": null,
+          "approval_key_legacy": null,
+          "is_mcp_app": null,
+          "hidden_in_chat": null,
+          "mcp_server_url": null
+        },
+        {
+          "start_timestamp": null,
+          "stop_timestamp": null,
+          "flags": null,
+          "type": "tool_result",
+          "tool_use_id": "toolu_01Q8sqcNfFhyy6iNJKoNdAps",
+          "name": "bash_tool",
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"returncode\":0,\"stdout\":\"\",\"stderr\":\"\"}",
+              "uuid": "79bc1776-3053-4a8c-ba15-c8e8aca59965"
+            }
+          ],
+          "is_error": false,
+          "structured_content": null,
+          "meta": null,
+          "message": null,
+          "integration_name": null,
+          "mcp_server_url": null,
+          "integration_icon_url": null,
+          "icon_name": "commandLine",
+          "display_content": {
+            "type": "json_block",
+            "json_block": "{\"returncode\":0,\"stdout\":\"\",\"stderr\":\"\"}"
+          },
+          "hidden_in_chat": null
+        },
+        {
+          "start_timestamp": "2026-04-21T20:42:46.612359Z",
+          "stop_timestamp": "2026-04-21T20:42:46.912545Z",
+          "flags": null,
+          "type": "tool_use",
+          "id": "toolu_01Sud3gs39JG3ndJBgEJ7TNy",
+          "name": "present_files",
+          "input": {
+            "filepaths": [
+              "/mnt/user-data/outputs/KYN_Lead_Magnet_Luxora.docx"
+            ]
+          },
+          "message": "Presenting file(s)...",
+          "integration_name": null,
+          "integration_icon_url": null,
+          "tool_identifier": null,
+          "icon_name": "file",
+          "context": null,
+          "display_content": {
+            "type": "table",
+            "table": [
+              [
+                "filepaths",
+                "['/mnt/user-data/outputs/KYN_Lead_Magnet_Luxora.docx']"
+              ]
+            ]
+          },
+          "approval_options": null,
+          "approval_key": null,
+          "approval_key_legacy": null,
+          "is_mcp_app": null,
+          "hidden_in_chat": null,
+          "mcp_server_url": null
+        },
+        {
+          "start_timestamp": null,
+          "stop_timestamp": null,
+          "flags": null,
+          "type": "tool_result",
+          "tool_use_id": "toolu_01Sud3gs39JG3ndJBgEJ7TNy",
+          "name": "present_files",
+          "content": [
+            {
+              "type": "local_resource",
+              "file_path": "/mnt/user-data/outputs/KYN_Lead_Magnet_Luxora.docx",
+              "name": "KYN Lead Magnet Luxora",
+              "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "uuid": "50d3d8a6-7e4f-40e6-8617-1e8b3ce47f04"
+            }
+          ],
+          "is_error": false,
+          "structured_content": null,
+          "meta": null,
+          "message": "Presented file",
+          "integration_name": null,
+          "mcp_server_url": null,
+          "integration_icon_url": null,
+          "icon_name": "file",
+          "display_content": null,
+          "hidden_in_chat": null
+        },
+        {
+          "start_timestamp": "2026-04-21T20:42:48.770684Z",
+          "stop_timestamp": "2026-04-21T20:42:49.583645Z",
+          "flags": null,
+          "type": "text",
+          "text": "Page breaks removed. The document now flows as one continuous piece with natural spacing between sections instead of hard breaks. Content and formatting are otherwise identical.",
+          "citations": []
+        }
+      ],
+      "sender": "assistant",
+      "created_at": "2026-04-21T20:42:49.644541Z",
+      "updated_at": "2026-04-21T20:42:49.644541Z",
+      "attachments": [],
+      "files": [],
+      "parent_message_uuid": "019db1c7-a21f-7d43-9643-13304aa159ab"
+    },
+    {
+      "uuid": "019db1d8-c951-7b43-b2b9-47900489869e",
+      "text": "whatkind of botom sentace can i put to have righrs rserved fo this docuent",
+      "content": [
+        {
+          "start_timestamp": "2026-04-21T21:01:07.534314Z",
+          "stop_timestamp": "2026-04-21T21:01:07.534314Z",
+          "flags": null,
+          "type": "text",
+          "text": "whatkind of botom sentace can i put to have righrs rserved fo this docuent",
+          "citations": []
+        }
+      ],
+      "sender": "human",
+      "created_at": "2026-04-21T21:01:07.569319Z",
+      "updated_at": "2026-04-21T21:01:07.569319Z",
+      "attachments": [],
+      "files": [],
+      "parent_message_uuid": "019db1c7-a21f-74bd-968e-5b2ef9ffd456"
+    },
+    {
+      "uuid": "019db1d8-c951-72c8-9bab-f95f7caea7b7",
+      "text": " Here are a few options, from shortest to most protective. Pick the one that matches how locked-down you want it to feel.\n\n**Short and clean (most common for lead magnets)**\n\u00a9 2026 The Luxora Collective. All rights reserved.\n\n**Slightly more specific**\n\u00a9 2026 The Luxora Collective. All rights reserved. theluxoracollective.co\n\n**Adds sharing permission (good for lead magnets you want to spread)**\n\u00a9 2026 The Luxora Collective. All rights reserved. This guide may be shared in its original, unedited form with attribution.\n\n**Fuller protection (best for proprietary frameworks and paid deliverables)**\n\u00a9 2026 The Luxora Collective. All rights reserved. No part of this document may be reproduced, distributed, or used in any form without prior written permission, except for personal use by the recipient.\n\nMy recommendation for this specific piece: **go with option 3**. It's a lead magnet, so you actually want people forwarding it to other med spa owners because every share is a potential new lead, but the attribution clause makes sure your name stays on it when they do.\n\nWant me to drop it into the footer of the document?",
+      "content": [
+        {
+          "start_timestamp": "2026-04-21T21:01:09.316694Z",
+          "stop_timestamp": "2026-04-21T21:01:15.978428Z",
+          "flags": null,
+          "type": "text",
+          "text": " Here are a few options, from shortest to most protective. Pick the one that matches how locked-down you want it to feel.\n\n**Short and clean (most common for lead magnets)**\n\u00a9 2026 The Luxora Collective. All rights reserved.\n\n**Slightly more specific**\n\u00a9 2026 The Luxora Collective. All rights reserved. theluxoracollective.co\n\n**Adds sharing permission (good for lead magnets you want to spread)**\n\u00a9 2026 The Luxora Collective. All rights reserved. This guide may be shared in its original, unedited form with attribution.\n\n**Fuller protection (best for proprietary frameworks and paid deliverables)**\n\u00a9 2026 The Luxora Collective. All rights reserved. No part of this document may be reproduced, distributed, or used in any form without prior written permission, except for personal use by the recipient.\n\nMy recommendation for this specific piece: **go with option 3**. It's a lead magnet, so you actually want people forwarding it to other med spa owners because every share is a potential new lead, but the attribution clause makes sure your name stays on it when they do.\n\nWant me to drop it into the footer of the document?",
+          "citations": []
+        }
+      ],
+      "sender": "assistant",
+      "created_at": "2026-04-21T21:01:16.180783Z",
+      "updated_at": "2026-04-21T21:01:16.180783Z",
+      "attachments": [],
+      "files": [],
+      "parent_message_uuid": "019db1d8-c951-7b43-b2b9-47900489869e"
+    }
+  ]
+}

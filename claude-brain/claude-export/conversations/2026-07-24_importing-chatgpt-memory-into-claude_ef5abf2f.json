@@ -1,0 +1,801 @@
+{
+  "uuid": "ef5abf2f-a08a-4977-a8dc-6a169c4eb5f3",
+  "name": "Importing ChatGPT memory into Claude",
+  "summary": "**Conversation Overview**\n\nThe person, who runs The Luxora Collective, wanted to consolidate their business context into Claude by combining a ChatGPT memory import with a dedicated Claude Project. The conversation began with them sharing a pre-written set of instructions outlining three approaches: importing ChatGPT memory via Claude's built-in importer, creating a Luxora Collective project loaded with business assets, and importing specific ChatGPT conversations. Their stated goal was building a \"Claude Brain\" covering sales methodology, offer architecture, ICP, scripts, podcast framework, marketing strategy, SOPs, and brand voice.\n\nClaude clarified that significant Luxora context was already stored, making the ChatGPT import a top-up rather than a foundation, and recommended prioritizing the project build for greater leverage. The person chose to run the ChatGPT import first. Claude walked through the steps, noting the import only works on web or desktop and providing a specific export prompt to use in ChatGPT. Claude advised pruning the exported list before importing to avoid stale or duplicate entries, and offered to review the cleaned list before submission to flag conflicts with existing stored context.\n\nChatGPT refused the export prompt, which Claude noted was expected given the \"export my data\" framing. Claude offered three workarounds: accessing saved memories directly through ChatGPT's Settings UI without ChatGPT's cooperation, rephrasing the request conversationally in two smaller asks, or using ChatGPT's full data export feature. Claude also noted that a hand-written profile often outperforms an auto-generated one given the accumulation of stale fragments in ChatGPT memory, and asked whether the refusal was a flat rejection or an indication that memory was never enabled, since the latter would mean going straight to building a profile from scratch using existing Luxora context.",
+  "created_at": "2026-07-24T03:42:14.913853Z",
+  "updated_at": "2026-07-24T03:45:37.183064Z",
+  "account": {
+    "uuid": "77640551-a06d-46fc-9d08-24881424ac1f"
+  },
+  "chat_messages": [
+    {
+      "uuid": "019f9237-7350-74e3-b056-eae0529e246a",
+      "text": "I want to do this: Yes. There are three good ways to do it, depending on what you mean by your \"Claude brain.\"\nOption 1: Import your ChatGPT memory into Claude (recommended)\nClaude now has a built-in memory importer, so you don't have to start from scratch. \ufffd\nClaude Help Center +1\nOpen Claude.\nGo to Settings \u2192 Capabilities \u2192 Memory \u2192 Start Import.\nClaude will give you a prompt to paste into ChatGPT.\nPaste that prompt into ChatGPT.\nCopy ChatGPT's response.\nPaste it back into Claude and click Add to Memory.\nClaude will extract your preferences, projects, writing style, and recurring context. It may take up to 24 hours for everything to appear. \ufffd\nClaude Help Center\nOption 2: Create a Claude Project (my favorite for your business)\nSince you run The Luxora Collective, I'd create a dedicated Claude Project and upload:\nYour sales scripts\nSOPs\nOffer documents\nCase studies\nBrand voice\nDiscovery and closing frameworks\nClient avatars\nMarketing assets\nClaude keeps a separate memory for each project, so it becomes an expert on your business instead of mixing everything together. \ufffd\nClaude +1\nOption 3: Import specific ChatGPT conversations\nIf there are particular conversations you don't want to lose:\nExport them from ChatGPT or copy/paste them.\nUpload them into your Claude Project.\nAsk Claude to synthesize them into permanent project knowledge.\nFor someone with your workflow, I'd combine Options 1 and 2:\nUse the built-in memory import so Claude learns you.\nCreate a Luxora Collective project and load all your business assets so Claude becomes your business operating system.\nGiven how much we've built together, I can also help you create a \"Claude Brain\" that includes your sales methodology, offer, ICP, scripts, podcast framework, marketing strategy, SOPs, and brand voice in one organized knowledge base. It usually takes about 30\u201360 minutes to build, and afterward Claude will feel like it's been working with you for years.",
+      "content": [
+        {
+          "start_timestamp": "2026-07-24T03:42:16.050044Z",
+          "stop_timestamp": "2026-07-24T03:42:16.050044Z",
+          "flags": null,
+          "type": "text",
+          "text": "I want to do this: Yes. There are three good ways to do it, depending on what you mean by your \"Claude brain.\"\nOption 1: Import your ChatGPT memory into Claude (recommended)\nClaude now has a built-in memory importer, so you don't have to start from scratch. \ufffd\nClaude Help Center +1\nOpen Claude.\nGo to Settings \u2192 Capabilities \u2192 Memory \u2192 Start Import.\nClaude will give you a prompt to paste into ChatGPT.\nPaste that prompt into ChatGPT.\nCopy ChatGPT's response.\nPaste it back into Claude and click Add to Memory.\nClaude will extract your preferences, projects, writing style, and recurring context. It may take up to 24 hours for everything to appear. \ufffd\nClaude Help Center\nOption 2: Create a Claude Project (my favorite for your business)\nSince you run The Luxora Collective, I'd create a dedicated Claude Project and upload:\nYour sales scripts\nSOPs\nOffer documents\nCase studies\nBrand voice\nDiscovery and closing frameworks\nClient avatars\nMarketing assets\nClaude keeps a separate memory for each project, so it becomes an expert on your business instead of mixing everything together. \ufffd\nClaude +1\nOption 3: Import specific ChatGPT conversations\nIf there are particular conversations you don't want to lose:\nExport them from ChatGPT or copy/paste them.\nUpload them into your Claude Project.\nAsk Claude to synthesize them into permanent project knowledge.\nFor someone with your workflow, I'd combine Options 1 and 2:\nUse the built-in memory import so Claude learns you.\nCreate a Luxora Collective project and load all your business assets so Claude becomes your business operating system.\nGiven how much we've built together, I can also help you create a \"Claude Brain\" that includes your sales methodology, offer, ICP, scripts, podcast framework, marketing strategy, SOPs, and brand voice in one organized knowledge base. It usually takes about 30\u201360 minutes to build, and afterward Claude will feel like it's been working with you for years.",
+          "citations": []
+        }
+      ],
+      "sender": "human",
+      "created_at": "2026-07-24T03:42:16.050161Z",
+      "updated_at": "2026-07-24T03:42:16.050161Z",
+      "attachments": [],
+      "files": [],
+      "parent_message_uuid": "00000000-0000-4000-8000-000000000000"
+    },
+    {
+      "uuid": "019f9237-7350-74f4-8a9f-53c2faa33268",
+      "text": "Bethany shared a response with three options and wants to pursue them, but I should verify the accuracy of the claims about Claude's memory importer and Projects features first since my knowledge has a cutoff date. I'll need to search the Anthropic documentation to confirm the current details before helping her move forward.\n```\nThis block is not supported on your current device yet.\n```\n\nBethany wants to implement the combined approach with the Claude Brain build. I already have her business context from the existing memory files, so I should acknowledge what's already in place and offer to construct the knowledge base. I need to clarify how Projects work\u2014they maintain their own knowledge bases through uploaded files and custom instructions, separate from the memory system. I'll lead with the concrete plan and sequence, then ask a focused question about where to start. I should also check her recent work file before filing this new intent about building the consolidated knowledge base.\n```\nThis block is not supported on your current device yet.\n```\n\n\n```\nThis block is not supported on your current device yet.\n```\n\nI already have her business context loaded in this chat\u2014files covering Luxora's architecture, sales system, playbooks, webinar materials, and team info\u2014so I don't need to spend time on the usual discovery phase. Worth noting that memory import is experimental according to Anthropic's docs. I'll draft a response and wrap it up by asking where she'd like to focus, though I'm second-guessing whether to use the ask_user_input function for that.Good plan overall, with two adjustments worth knowing before you spend time on it.\n\n**What's already done.** A fair amount of the \"Claude learns you\" work is in place. Your role, company positioning, brand voice rules (no em dashes, .co not .com, contractions for spoken content), the offer architecture, sales system, playbooks, webinar, paid ads, partnerships, client deliverables, and your core team are all already stored and carry across chats. So the ChatGPT import is a top-up, not a foundation. Import it, then review and prune, since imported context often carries stale or duplicate entries.\n\n**One caveat on the import.** Anthropic labels it experimental and still in active development, with no guarantee imported memories are always incorporated. Also, memory skews toward work-relevant context, so personal details may not stick. You can review everything under Settings, and there's a box for telling Claude what to change or remove.\n\n**Where the real leverage is.** Option 2. A Luxora Collective project with your actual source documents loaded (scripts, SOPs, offer docs, case studies, ICP, podcast framework) beats any memory summary, because Claude reads the real artifacts instead of a compressed description of them. Memory is a paragraph about your voice; project knowledge is your voice.\n\nSo the order I'd run: build the project and load documents first, do the ChatGPT import second as cleanup, and skip the standalone \"brain document\" unless you want a portable version you can take anywhere.\n```\nThis block is not supported on your current device yet.\n```\n\n",
+      "content": [
+        {
+          "start_timestamp": "2026-07-24T03:42:16.043825Z",
+          "stop_timestamp": "2026-07-24T03:42:21.234158Z",
+          "flags": null,
+          "type": "thinking",
+          "thinking": "Bethany shared a response with three options and wants to pursue them, but I should verify the accuracy of the claims about Claude's memory importer and Projects features first since my knowledge has a cutoff date. I'll need to search the Anthropic documentation to confirm the current details before helping her move forward.",
+          "summaries": [
+            {
+              "summary": "Verifying Claude's memory importer and Projects feature accuracy."
+            }
+          ],
+          "cut_off": false,
+          "truncated": false,
+          "hidden": false,
+          "thinking_hidden": false,
+          "alternative_display_type": null,
+          "signature": "CAISiwkKkQEIEBgCKkBiunjaxKSVwyElzbTXJtJyCx8zABSSwQLxXjP8ZHDeqkjWJGTuxeDiZHxXD6T790TBmWR8z8XOMUjMEfqvKrg1MhdjbGF1ZGUtdnY1N2U5M2wtdjEtcHJvZDgBQgh0aGlua2luZ1okZDE5YjkwZjQtMGRmNi00YzkyLTk3NzMtOTYxY2VmODlhYjNmEgzt98AFiF7j33ogQQ8aDM7ryisEGZw8Z2HluSIwFGE50e+5JXj4Mcu4N1HDVRBstFseoAyhz4Tewp3BzKbI5v7NKuLZkyImK+PzomkdKqYHm0CRZvZ20qDXNdy5JCGjkq16Zgdg1QFKjEhUMPRFl74fJ6ZxLVkiwL11PPzRVpUKG6lP/ki9HwrT+2WJn57w0GvWBEWIiTgf1kKuAghdXXHQ4CCmLpmdQxRMg0lDpewlpQSsphRnVR3ydwnZGiAuZV6ooGK0mFrf3NQtQLSSNFl36r0rsWbqdap14qXbCGoHQB7LKFyXZSMn9zLfsdsjjIfl/WOcfUHGNn+Ja55zhMJ1Lni+0o7WoDhizorcmxY6w/JHWLvMAUf/1EYHp3wupwhJAQtRELpgmPGDCC41A1TuUiEgjuq4xTmCcYzs1q7bvFg8qq3IFZhAgGou7cVP3mJxhesKuwnc/bXFe8C4Y24iiHJoy/V60OQMWDZX/HCDKZ2BVRhNb/2i93LwcdO4kWu60pwT57yhLvBxZ4Lm6V5lMgmnxAORPCSpri5GfB7ilALW7r3lO1gEqZVMP2CRWgmDSo/mZSEys4thODGez9J5Myt8VIzLB9m5yUrQL5HcvxqJ+ENIPC7rM+DAH/4AlB2XxnMQbv2DtSczWd2TCty1EkSdFkvYMzS6NGsv11TCIEsZylsN6RJFzibiVYfCjRF1Qf3z+dgIpDfC1O5lDzbHlIq54/U7ojs9fa1XaFtBKyWqUCBmUjuatETvMwpToCCCB4wYXp/vmcNL0PxucRd0G5UUtY5PadTvcRepb/l7Zk6/FFMBt05CzqKgIzi3E2DeWvel89ilHGOsuAYhkDm+gJY6ytJpw1644OWAOVfjrTnsE2iKinONY8+xBnvgXrZC5pydr6gjGAxmZuebXDuHD8d6dnQl2KJPqstu/G9cUEtjcWy4iugjbftb6U4f9eJVOe83+8iDkpe4EWKfdKFR8QM85x9/GeiZE0my3HhgEOH7fjVK5mY2Bf3TM1ql6JiL98Ha4WFmjDnezABwtzLrcbPUP7qYXnPThdbd+wsVl9UomqfjCJBqckjSBwj21b6i6I4loUcgL9KxxfijKLUH1DYz9IbGWYeVdwrbDB4fq7I6vIUj6tgCXUKGObnQK+r7IwScoy+VyVrejecqqqZ/Ux23ztvTSjdfTg6rkOKvqIZVemruJOCNiEBKn4mc1bnR+Ft1hlWqrbZg5Tv8KbQlEP9yLQQi6WkrmCJb+Y29MozP6eQeyJrGSdD62wCqTGqyidpW8MvUiLZh9X/Bfff7/cKH8Vhw8VNuZa2ocpyJm6HKfL3PYKTtai61l7HrFaejm5bHphgB"
+        },
+        {
+          "start_timestamp": "2026-07-24T03:42:21.234806Z",
+          "stop_timestamp": "2026-07-24T03:42:21.240635Z",
+          "flags": null,
+          "type": "tool_use",
+          "id": "toolu_01L3ZSgXWNZ4Hjx7gUBK4nQu",
+          "name": "web_search",
+          "input": {
+            "query": "Claude memory import from ChatGPT settings"
+          },
+          "message": "Searching the web",
+          "integration_name": null,
+          "integration_icon_url": null,
+          "tool_identifier": null,
+          "icon_name": "globe",
+          "context": null,
+          "display_content": null,
+          "approval_options": null,
+          "approval_key": null,
+          "approval_key_legacy": null,
+          "is_mcp_app": null,
+          "hidden_in_chat": null,
+          "mcp_server_url": null
+        },
+        {
+          "start_timestamp": "2026-07-24T03:42:22.140201Z",
+          "stop_timestamp": "2026-07-24T03:42:22.140215Z",
+          "flags": null,
+          "type": "tool_result",
+          "tool_use_id": "toolu_01L3ZSgXWNZ4Hjx7gUBK4nQu",
+          "name": "web_search",
+          "content": [
+            {
+              "type": "knowledge",
+              "title": "How to Import Memory into Claude from ChatGPT, Gemini, or Grok (Step-by-Step Guide) | by unicodeveloper | Medium",
+              "url": "https://medium.com/@unicodeveloper/how-to-import-memory-into-claude-from-chatgpt-gemini-or-grok-step-by-step-guide-c78ac8f7e4a4",
+              "metadata": {
+                "type": "webpage_metadata",
+                "site_domain": "medium.com",
+                "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=medium.com",
+                "site_name": "Medium"
+              },
+              "is_missing": false,
+              "text": "Personal details that aren\u2019t connected to how you use Claude professionally may not persist. If something important didn\u2019t carry over, go to Settings &gt; Capabilities &gt; View and edit your memory and add it manually.\n\nTools, languages, and frameworks I use. Preferences and corrections I\u2019ve made to your behavior. Any other stored context not covered above. Do not summarize, group, or omit any entries. After the code block, confirm whether that is the complete set or if any remain. The last line matters. It asks the AI to confirm the export is complete, which often surfaces additional context that wouldn\u2019t have appeared otherwise. Open any conversation in ChatGPT (or start a new one) ... ChatGPT outputs a code block with everything it has stored, explicit memories, inferred preferences, context from past conversations ... Read through the output. ChatGPT\u2019s memory is cumulative and can include outdated or inaccurate entries. \n\nIf it thinks you live somewhere you don\u2019t, or has a project preference that\u2019s no longer relevant, remove those lines before importing into Claude.\n\nIf you\u2019ve given Grok specific behavioral instructions (\u201calways respond in three sentences,\u201d \u201cI\u2019m a backend engineer at a fintech startup\u201d), those will appear. General conversational context may be thinner than what ChatGPT captures. ... Path B: From Claude\u2019s home screen, click \u201cGet started\u201d on the \u201cImport memory to Claude\u201d card \u00b7 Both paths open the same interface: the export prompt shown at the top for reference, and a text box below it. ... After it\u2019s done, open a new conversation and ask: \u201cI updated my memory. What did you learn about me?\u201d This tells you exactly what stuck. One thing to know: Claude\u2019s memory is optimized for work-relevant context. Personal details that aren\u2019t connected to how you use Claude professionally may not persist. \n\nIf something important didn\u2019t carry over, go to Settings > Capabilities > View and edit your memory and add",
+              "is_citable": true,
+              "prompt_context_metadata": {
+                "age": "March 3, 2026",
+                "search_provider": "anthropic",
+                "url": "https://medium.com/@unicodeveloper/how-to-import-memory-into-claude-from-chatgpt-gemini-or-grok-step-by-step-guide-c78ac8f7e4a4"
+              },
+              "links": null
+            },
+            {
+              "type": "knowledge",
+              "title": "Import and export your memory from Claude | Claude Help Center",
+              "url": "https://support.claude.com/en/articles/12123587-import-and-export-your-memory-from-claude",
+              "metadata": {
+                "type": "webpage_metadata",
+                "site_domain": "claude.com",
+                "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=claude.com",
+                "site_name": "Claude"
+              },
+              "is_missing": false,
+              "text": "After the code block, confirm whether that is the complete set or if any remain. You can customize this prompt to exclude any sensitive information before importing into Claude.\n\nClaude's memory is designed to focus on work-related topics to enhance its effectiveness as a collaborator. As a result, Claude may not retain imported personal details unrelated to work. If you want to add specific information into Claude's memory, go to Settings > Memory and add that information using the \"Tell Claude what to change or remove\" box, or by asking Claude in chat. Important: Memory imports are experimental and still in active development, and at this stage, Claude may not always successfully incorporate imported memories. \n\nTo view your memory exactly how Claude sees it, go to Settings > Capabilities and click \u201cView and edit your memory.\u201d Alternatively, you can access memory directly in a chat with Claude by asking it, \"Write out your memories of me verbatim, exactly as they appear in your memory.\" You can save this exported memory as a backup or bring it to another AI service by copying and pasting it into a local file on your computer.\n\nImportant: We are gradually introducing an improved experience for memory from chats. The sections below only apply to people who have the legacy memory experience and see Memory in Settings > Capabilities. If you see Settings > Memory, you\u2019re using the new memory experience and the sections above apply to you. You can bring your memory over from other AI providers using Claude's built-in import flow. Step 1: Export your memory from your current AI service \u00b7 We recommend using the following prompt.",
+              "is_citable": true,
+              "prompt_context_metadata": {
+                "age": "1 week ago",
+                "search_provider": "anthropic",
+                "url": "https://support.claude.com/en/articles/12123587-import-and-export-your-memory-from-claude"
+              },
+              "links": null
+            },
+            {
+              "type": "knowledge",
+              "title": "Claude Memory Import: Transfer ChatGPT Memories in 60 Seconds - YouMind Blog",
+              "url": "https://youmind.com/blog/claude-memory-import-chatgpt-transfer",
+              "metadata": {
+                "type": "webpage_metadata",
+                "site_domain": "youmind.com",
+                "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=youmind.com",
+                "site_name": "YouMind"
+              },
+              "is_missing": false,
+              "text": "For ChatGPT users, there is an alternative path: go directly to ChatGPT&#x27;s Settings \u2192 Personalization \u2192 Manage Memories, manually copy the memory entries, and paste them into Claude 2. Note that Anthropic officially labels this feature as ...\n\nThis migration cost has kept countless users from switching, even when they know better options exist. In March 2026, Anthropic tore down this wall. Claude launched the Memory Import feature, allowing you to move all the memories accumulated in ChatGPT into Claude within 60 seconds. This article will test this migration process, analyze the industry trends behind it, and share a multi-model knowledge management solution that doesn't depend on any single platform. This article is for users considering switching AI assistants, content creators using multiple AI tools simultaneously, and developers following AI industry trends. \n\nThe core logic of Claude Memory Import is very simple: Anthropic has pre-written a prompt that you paste into ChatGPT (or Gemini, Copilot). The old platform packages all the memories it has stored about you into a block of text, which you then paste back into Claude's memory settings page and click \"Add to Memory\" to complete the import 1.\n\nFor ChatGPT users, there is an alternative path: go directly to ChatGPT's Settings \u2192 Personalization \u2192 Manage Memories, manually copy the memory entries, and paste them into Claude 2. Note that Anthropic officially labels this feature as \"experimental and under active development.\" The imported memory is not a 1:1 perfect copy, but rather Claude's re-interpretation and integration of your information. After importing, it is recommended to spend a few minutes checking the memory content and deleting outdated or sensitive entries 3. The timing of this release is no coincidence. \n\nAs Anthropic wrote on the import page: \"Switch to Claude without starting over.\" From a broader perspective, this reveals an industry trend: AI memory is becoming a user's \"digital",
+              "is_citable": true,
+              "prompt_context_metadata": {
+                "age": "March 23, 2026",
+                "search_provider": "anthropic",
+                "url": "https://youmind.com/blog/claude-memory-import-chatgpt-transfer"
+              },
+              "links": null
+            },
+            {
+              "type": "knowledge",
+              "title": "Switch to Claude: Import Memory in Under a Minute",
+              "url": "https://www.gend.co/blog/switch-to-claude-import-memory",
+              "metadata": {
+                "type": "webpage_metadata",
+                "site_domain": "gend.co",
+                "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=gend.co",
+                "site_name": "Generation Digital"
+              },
+              "is_missing": false,
+              "text": "Generation Digital can help you design a multi-model operating model, run evaluations that map to real tasks, and set governance your leadership team can defend. Question: Can I import my ChatGPT or Gemini history into Claude?\n\nFree AI at Work Playbook for managers using ChatGPT, Claude and Gemini. ... Anthropic makes it easier to switch to Claude by letting you import key context (\u201cmemory\u201d) from another chatbot. You copy a pre-written prompt into your current assistant, paste the output into Claude\u2019s import tool, then review what\u2019s stored. The smart approach is to import only what\u2019s useful\u2014never sensitive data. If you\u2019ve used an AI assistant daily for months, you\u2019ve probably trained it in ways you don\u2019t even notice anymore: the tone you like, the projects you\u2019re on, the formats you prefer, the \u201cdon\u2019t forget this\u201d details. That\u2019s exactly what Anthropic is now targeting. \n\nClaude has rolled out a smoother \u201cswitch to Claude\u201d experience: memory is available on the free plan, and there\u2019s a dedicated import tool that uses a pre-written prompt you run in your existing chatbot, then paste the results into Claude.\n\nLearn how to switch to Claude fast. Import memory from other chatbots, keep context, and follow a safe checklist for teams.\n\nPaste the output into Claude\u2019s importing tool (found in settings alongside memory). The Verge describes the flow as copying the output from your previous AI back into Claude\u2019s importing tool. Now do the most important part: review what\u2019s being stored. ... If the tool lets you edit, edit. If it doesn\u2019t, re-run the export prompt with stricter instructions (\u201cExclude names, exclude company identifiers, summarise to generic preferences only\u201d). Don\u2019t judge the switch on a hello-world chat. Run three tasks you actually do: ...",
+              "is_citable": true,
+              "prompt_context_metadata": {
+                "age": "March 4, 2026",
+                "search_provider": "anthropic",
+                "url": "https://www.gend.co/blog/switch-to-claude-import-memory"
+              },
+              "links": null
+            },
+            {
+              "type": "knowledge",
+              "title": "How to Transfer ChatGPT Memory to Claude (2026 Guide)",
+              "url": "https://willfrancis.com/move-memory-from-chatgpt-to-claude/",
+              "metadata": {
+                "type": "webpage_metadata",
+                "site_domain": "willfrancis.com",
+                "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=willfrancis.com",
+                "site_name": "Will Francis"
+              },
+              "is_missing": false,
+              "text": "Go to claude.com/import-memory, or in Claude\u2019s settings navigate to Settings &gt; Capabilities &gt; Memory Import. Paste your cleaned-up profile into the text box and click \u201cAdd to memory.\u201d Claude will process it into its memory system.\n\nInaccurate: ChatGPT sometimes infers things incorrectly from context, so check everything \u00b7 Think of this cleaned-up version as your portable AI profile. You could take it to Claude, Gemini, or anywhere else. A well-edited profile is more useful than a bloated one, so don\u2019t be afraid to cut aggressively. If ChatGPT\u2019s response is thin, it probably means you don\u2019t have memory switched on, or you haven\u2019t been using it long enough to build up much context. In that case, the manual route works too: just write up your own profile covering the points above. Honestly, a hand-written profile is often more useful than an auto-generated one anyway. There are two ways to get your profile into Claude. \n\nGo to claude.com/import-memory, or in Claude\u2019s settings navigate to Settings > Capabilities > Memory Import. Paste your cleaned-up profile into the text box and click \u201cAdd to memory.\u201d Claude will process it into its memory system.\n\nTo verify the import, start a fresh chat and ask Claude: \u201cWhat do you know about me?\u201d You should see your key details reflected back. You can also review and edit what Claude has stored by going to Settings > Capabilities > View and edit your memory. If you use Custom GPTs, their instructions won\u2019t be included in the memory export. You\u2019d need to recreate those as Claude Skills or Projects, depending on how you use your custom GPTs. Copy your GPT\u2019s instructions into a Project\u2019s system prompt, or if you want to recreate it as a skill, paste in all the information from your GPT into a new Claude chat and ask it to create a skill based on the information. \n\nIf you want the nuclear option, you can export your entire ChatGPT conversation history via Settings > Data Controls > Export Data. Ope",
+              "is_citable": true,
+              "prompt_context_metadata": {
+                "age": "March 30, 2026",
+                "search_provider": "anthropic",
+                "url": "https://willfrancis.com/move-memory-from-chatgpt-to-claude/"
+              },
+              "links": null
+            },
+            {
+              "type": "knowledge",
+              "title": "www.mexc.com",
+              "url": "https://www.mexc.com/news/841347",
+              "metadata": {
+                "type": "webpage_metadata",
+                "site_domain": "mexc.com",
+                "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=mexc.com",
+                "site_name": "mexc"
+              },
+              "is_missing": false,
+              "text": "Claude now offers free memory and ChatGPT import tools as signups surge 400%. Learn how to switch from ChatGPT, Gemini, or Copilot to Claude easily. The post ClaudeClaude now offers free memory and ChatGPT import tools as signups surge 400%. Learn how to switch from ChatGPT, Gemini, or Copilot to Claude easily. The post Claude\n\nClaude Makes Switching from ChatGPT Effortless with New Features\n\n2026/03/03 17:41\n3 min read\nFor feedback or concerns regarding this content, please contact us at crypto.news@mexc.com\n\nTLDR\n\n  \u2022 Memory capabilities are now available to all Claude users without a subscription, matching what ChatGPT offers free users\n  \u2022 New users can transfer their conversation history from ChatGPT, Gemini, and Copilot through a simple copy-paste feature\n  \u2022 Free user base expanded over 60% with daily registrations increasing fourfold since January amid government controversy\n\n\nConcurrently, OpenAI revealed intentions to implement its AI technology within the Defense Department\u2019s secure classified infrastructure. This announcement prompted boycott calls from certain ChatGPT users.\n\nUnderstanding the Memory Migration Process\n\nThe process begins by navigating to Claude\u2019s settings and locating the Capabilities menu. Users then access the Memory section and select \u201cStart import.\u201d\n\nOnce the exported code block from another chatbot is pasted, Claude initiates data processing. Users can verify imported information under \u201cSee what Claude learned about you.\u201d\n\nAnthropolis has verified the import functionality supports ChatGPT, Gemini, and Copilot. The feature is currently accessible to everyone.\n\nThe post Claude Makes Switching from ChatGPT Effortless with New Features appeared first on Blockonomi.\n\nMarket Opportunity\nSURGE Logo\nSURGE Price(SURGE)\n$0.0234\n$0.0234$0.0234\n-2.09%\nUSD\nSURGE (SURGE) Live Price Chart",
+              "is_citable": true,
+              "prompt_context_metadata": {
+                "search_provider": "anthropic",
+                "url": "https://www.mexc.com/news/841347"
+              },
+              "links": null
+            },
+            {
+              "type": "knowledge",
+              "title": "The app for independent voices",
+              "url": "https://substack.com/@techysurgeon/note/c-221694765",
+              "metadata": {
+                "type": "webpage_metadata",
+                "site_domain": "substack.com",
+                "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=substack.com",
+                "site_name": "Substack"
+              },
+              "is_missing": false,
+              "text": "The app for independent voices\n\nDon't be afraid to switch from ChatGPT to Claude.\n\nI know \u2014 you've spent months training GPT to understand how you think. Your prompts are dialed in. Your memory is loaded. Starting over feels like a loss.\n\nIt's not. And the switch is simpler than you'd expect.\n\nClaude built an import tool that pulls your context straight from ChatGPT. Copy a prompt, paste it into GPT, and Claude ingests the output. Three steps, no drama.\n\nIt's not. And the switch is simpler than you'd expect. Here's exactly how I did it:\n\nStep 1: Go to claude.ai/import. There's a ready-made prompt sitting there. Copy it, paste it into ChatGPT, and let it run. GPT will generate a structured export of everything it knows about you. Copy that output and paste it into Claude's import page. That alone gets you started.\n\nStep 2: Go deeper. In ChatGPT, go to Settings \u2192 Data Controls \u2192 Export Data.",
+              "is_citable": true,
+              "prompt_context_metadata": {
+                "search_provider": "anthropic",
+                "url": "https://substack.com/@techysurgeon/note/c-221694765"
+              },
+              "links": null
+            },
+            {
+              "type": "knowledge",
+              "title": "Claude Memory just launched and it syncs with ChatGPT \u2014 here\u2019s how it works",
+              "url": "https://tomsguide.com/ai/claude-just-unlocked-memory-that-syncs-with-chatgpt-heres-how-it-works",
+              "metadata": {
+                "type": "webpage_metadata",
+                "site_domain": "tomsguide.com",
+                "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=tomsguide.com",
+                "site_name": "tomsguide"
+              },
+              "is_missing": false,
+              "text": "A unique feature exclusive to Claude is the ability to bring in saved memory data from another account or previous session. For example, if you\u2019ve exported your memory from one Claude account, you can upload it into a new one or even export memory from ChatGPT, so Claude immediately knows your context again.\n\nThere\u2019s no one-click importer between the two systems yet due to privacy and format reasons, but here\u2019s how to import your ChatGPT memory to Claude:\n\nGo to Settings > Memory > Import Memory\n\nThis gives you a text or file containing the facts and instructions ChatGPT remembers about you. When you upload that edited file, or simply paste the text summary into a new Claude chat, prompt it with something like:\n\n\u201cThis is my working memory from ChatGPT. Please learn and store this context for future use.\u201d\n\nThis gives Claude a similar understanding of your tone and background, even if it\u2019s not a literal file-to-file conversion.",
+              "is_citable": true,
+              "prompt_context_metadata": {
+                "search_provider": "anthropic",
+                "url": "https://tomsguide.com/ai/claude-just-unlocked-memory-that-syncs-with-chatgpt-heres-how-it-works"
+              },
+              "links": null
+            }
+          ],
+          "is_error": false,
+          "structured_content": null,
+          "meta": null,
+          "message": null,
+          "integration_name": null,
+          "mcp_server_url": null,
+          "integration_icon_url": null,
+          "icon_name": "globe",
+          "display_content": null,
+          "hidden_in_chat": null
+        },
+        {
+          "start_timestamp": "2026-07-24T03:42:22.937048Z",
+          "stop_timestamp": "2026-07-24T03:42:37.767556Z",
+          "flags": null,
+          "type": "thinking",
+          "thinking": "Bethany wants to implement the combined approach with the Claude Brain build. I already have her business context from the existing memory files, so I should acknowledge what's already in place and offer to construct the knowledge base. I need to clarify how Projects work\u2014they maintain their own knowledge bases through uploaded files and custom instructions, separate from the memory system. I'll lead with the concrete plan and sequence, then ask a focused question about where to start. I should also check her recent work file before filing this new intent about building the consolidated knowledge base.",
+          "summaries": [
+            {
+              "summary": "Synthesizing business context and clarifying project knowledge bases."
+            }
+          ],
+          "cut_off": false,
+          "truncated": false,
+          "hidden": false,
+          "thinking_hidden": false,
+          "alternative_display_type": null,
+          "signature": "CAISixUKkQEIEBgCKkBkhcR+i3qQ1mg/L3730HqR+XM0WYTD3NvIONlT79hjWfWFx5kDGPoRgyWxOZB1wti4cfcYVnb+dyur+ZlxP0znMhdjbGF1ZGUtdnY1N2U5M2wtdjEtcHJvZDgBQgh0aGlua2luZ1okZDE5YjkwZjQtMGRmNi00YzkyLTk3NzMtOTYxY2VmODlhYjNmEgy5+AQcE8TbWe83OgMaDODkq3uYhcYRSTfOvyIwAo/Jpz0qoMCCKD/elKc9eFFbiEOQwBtCIEW8OThpd5uUhybX4OAgaQ5piSHhGyNnKqYT0Djj/Fi3aovTbRHz8gqtF273vE58bGtKbroQvbN8nPsOqYbNVv3y5SzPw5UN4dtmiGnhOdJ5Y/IRSX2fcesOsBFxFqaRUnLDc/iCyJzB64YI3yj/51O1dBYzoWezcECD4O6XFAmozWbhen+lsW3BYLwhm4VVQslBlWs3l4dCng+0J/BebfzJkxyJRnzVRQP4C0rt1DtjtFezBWIrMJzWXwXIfZyKUzb6XGifNhR5s1P4rwsVndceSJmpsfbMb9sLd8+ZUkqMy/7FnaydR4p3QUmuBk7RHh0pXH7q+idg+bA5TNXY9KdK5v9GsazVMEuboqCc6YsH7CTpHfaVxx8TstZcm+eQMnyvS/5J7/iY9UFcjnEdknFSGYfaKJyvlmR9/zbZWSLHfgUKYLrOvXbHKE04Ri1mAnJiuj9aa4CZBC3Gr0PGhpbQnYCGffnaYEzzgCFeOAyRPKymms/LHMQCIcXeJa7O1TciQe5fh7E5m58wXjmXEC+C0Fu4Acs3JH7564+Z+y22sDYbGT1RXZ+G7fVzoGsxKJhCNkX4gyvLqkIr7akEXU/3dD5CXAzjNibNJo7PCVZE4bHkr+h6jjK0C86Yf2k0ycyfxQyEI7LwbcbZ59nCyYTPPGL6u1g3yja3A8aKIUvNxw9puKBDMAitN+wt/ssLJDw43L5TmwVk0ikSaSLtTLr7oH+K6uJSBaR/6UzUpfKd5y1KugN+yOhIdedK1YkMXoEEOhxnSZXKUxp6i1QjEyFUOYtr60EOEQtXOj0BUPMWWdjozSay00IQNVVzELpHQnDNyhDBx0LSK3Uok3fijqLnurQWm0aRNElXRvMIn/TLEbMNJxubJ+P4N4a6BXD46jhQoGP/fYA2T5QMH/9PMX92qyncx5Z/POrOp5Q4GBmahi3yRJMLygLoVYSCnPWGiNVI+bTK5YcSJsPq5cWP6SpSvQ10ScHSktzkpQ+X2YXZakv53WT3KJrhvN7z8sQR+aW0f6buegIaiPJhcDZuFf0ZSYizTWI5yAhSll2jsFglN/YdSDQ1MfnGGSGKJpnu8LhiOlZQeouqzlemgkNixDmFzTfRX5zYH+HHLxNxMlbPe8SEObBFVwm07Y/djdEIaVuk8Srj+CQ7OK8FDjDumoAcbIPBqrlINrIGER9W+0C0MIszvMKlz21EdjKj4zHyTeRggSbEqsyBdvBcn5rtUNEg/pJrifrVnSuyzAW8cCNtKPEAA0jzFcECkrFqGGyj/S6iAyZjDaZuA9rwFcGuFcb3JIFar0QD0rMjnD4bK2RtfN7mC78WV00gREoP+f0ta1HJvpwhpHj9nThEXSM0hWXejRZAFoAKwY2GxwFv+TLW7X2LnwZSuA1dOiPbQV4Zxw95+bCiRepsX8w4GmQKnWD5POmhjtKrP/pTuMi1UR7HRiVePRP+u++IR+0psT2J/82Q+lVkc/I3OvCnXWyrTtj3MVEP055LFMm1Wb/PbNt1/zCiDGuwaqNmWxbsVPl2W+/UGj28XM3B5f8g1bURuNVEcxm+TZ1f5Zu8+IpSsGwc/kAOZbmgwZZot4MjJeLqFAAKxeF0ikzwJ0vRPTem+Qp3UP+3XCUaPRJPuMEvRYnpf5Kpl4Sm9nqCSwQWV1i1TYd3YzsAVO/ad7qddgPWQUrVmff8KRXgTWwabQ4JT4hCSD87aUDRehGvTuNAFmDb46R7wpep91mYl3PwhW+HPj/VdBBGMxlJvO02G9Y62WILJC++Vv0svG0AuP8aW7PO/WrfcoGiY2/fsQm+HbfxjXx0Um2J7GtxAnTRoi6tNBdlt0k/ZMCgMUp5yGXqJTOo906Lra608/xvmGoAw9VjXnW+7nqgiGghuzEP38RLBaTZwwNVXE9VCc/WZm0+d2At/VfAJ4ywZ1SuBZMLIk/K2SnUNLCb6bFp+bLFvgdOJWMVds65GaUFMfS92XwYKWOVTcdIRTgtXeI3AVeV/LBF483rdywwsRYYaBhd1H7vmIOmXjZHrmmr/gMaSPiv77YlDOISYkgV9+qlcEVgMFe1RY40vpfyvs08ZKbfZLbALvH8NjCujtvFAWPbjgWeMaj3um2/9FRmNEW7vzO9b+U3tW6HEQa59V22l/geSuH8dWScuwXqcqPrpuT9ai6AmyYXTP96taaGIZ00mQIzFfPGFwtHZ6IzLtc3m5wYr3tcmQPkzhMq8OHGijANaET5lPaziePdMdqs4M1ssLkN1ZTHqqZZRygjv4vuExElBa1J2kR2lKQaxHRVKW8sYLW7LyoqF5a8FB2Q1GYDyn5nTYhNUmOXG5D9Y78fv5y9tmt2//zn/7mVdeeNaxetCSL2+QXEwB2htzNgPH/2m5T5dScLatGK9NHHJ+7Xhx2eQwUyeQIJLNFywFviaBgHwNWFa+sBjp3JTpRvEevDNbiIB/J/pgyQNVOwXIUxfEzFvlecxTQBirLBFEqGo7Z+179ercgjXjcXWbOVibT5qyPZD4+0Pv4A1jtqYaq3ndC7uCLBGJawAlsEtBESxVJgWhHvkHxCDNVz2ZJKwI6SEgeF9utAIkqni92cT8w5VzeFREs2tKM8CpvLItLyRqPYYkrCu2Gnejw/gYUrGRc9tK/CP7ytgBktJfUEW27cbSoS+AYoVmyTpEJbkTMeenwbKnzGRe/76kaYT6SOnxANUKdcb/Zz9Zyv5DQYzcg28I5GfoQkJ6HJbKMoBmjD8tMCGKNpV6oqIauAAcxb3uiC4/9VrqWDOLIVVrrF+Oejym0IyMBjTst9XKN3VrH00mzty5OHQU1UFEUnI0gqi5Vob5O0PN4Ngtm1s4l1yid9Vy5ESFipiV0BZf7cc1PtITibszaXTTCA66M7DPyylxd7xSpplccFnVjYX8UZTnEht3lMsXVmFNRYWJKLMgeX96hRF0lctX68KETL7DEFqdH//NfATaDcKExw4okqavwKELb7I3tRypguiSBnCTXwaYNVy+ybV8E9xIwWtwKeI/croiOtBQYCRHtalr5cUI1aPnIkZ3/E+3JeOAWtoXpJQcAd4AVZ8XizTnKLPIYe+CMVFEdoNszMC8GOO+U/gv7OW9JNeyLSZVphREYE9/Rx7uPJvznRcQqevNq2UZRK9ZMaRveBoi3c0GJ32FbK7AnMffPTzG7JBNmgLe0b1d4CXGrrLJFNeMcdWdu0rQpmg4g4NZ17w5X+LbbsXBMt7BlIDORTPNQ2SSSxHOHef/ovP9E3D0OB1rIb9gjRfsaQv9FqbhE8iF+rAWZFq7lCxNy9/g5fsyiyG/MLyjG8pj95u6RgsTpD9f5FYRgB"
+        },
+        {
+          "start_timestamp": "2026-07-24T03:42:37.772172Z",
+          "stop_timestamp": "2026-07-24T03:42:37.774274Z",
+          "flags": null,
+          "type": "tool_use",
+          "id": "toolu_019EVRBj4bE78CPAV3zkwgoS",
+          "name": "memory_read",
+          "input": {
+            "path": "/topics/recent-work.md"
+          },
+          "message": "Reading memory",
+          "integration_name": "Memory",
+          "integration_icon_url": null,
+          "tool_identifier": null,
+          "icon_name": "bookText",
+          "context": null,
+          "display_content": null,
+          "approval_options": null,
+          "approval_key": null,
+          "approval_key_legacy": null,
+          "is_mcp_app": null,
+          "hidden_in_chat": null,
+          "mcp_server_url": null,
+          "tool_origin": "first_party"
+        },
+        {
+          "start_timestamp": "2026-07-24T03:42:37.842032Z",
+          "stop_timestamp": "2026-07-24T03:42:37.842044Z",
+          "flags": null,
+          "type": "tool_result",
+          "tool_use_id": "toolu_019EVRBj4bE78CPAV3zkwgoS",
+          "name": "memory_read",
+          "content": [
+            {
+              "type": "text",
+              "text": "[updated: 2026-07-19T09:45:56.648407+00:00] [version: ea21d802212d] (pass as if_version on your next write or edit of this path)\n---\nname: recent-work\ndescription: Recent work-shaped items that don't warrant their own project file\nsources: [backfill]\naliases: []\n---\n- [stated] Built a financial pro forma (July 2026 to July 2027) for lender purposes projecting multi-million revenue with conservative assumptions\n- [stated] Built a lender-ready pro forma, using a prior version by Eric as the starting point\n- [stated] Built a closer hiring brief for a recruiting partner\n- [stated] Built a culture index/behavioral fit assessment for hiring",
+              "uuid": "2dad792d-28b9-4e84-9101-7ed43b4cfecd"
+            }
+          ],
+          "is_error": false,
+          "structured_content": {
+            "path": "/topics/recent-work.md",
+            "path_segments": [
+              "topics",
+              "recent-work.md"
+            ],
+            "version": "ea21d802212d",
+            "updated_at": "2026-07-19T09:45:56.648407Z",
+            "parsed": {
+              "name": "recent-work",
+              "description": "Recent work-shaped items that don't warrant their own project file",
+              "metadata": {},
+              "body": "- Built a financial pro forma (July 2026 to July 2027) for lender purposes projecting multi-million revenue with conservative assumptions\n- Built a lender-ready pro forma, using a prior version by Eric as the starting point\n- Built a closer hiring brief for a recruiting partner\n- Built a culture index/behavioral fit assessment for hiring",
+              "wikilinks": [],
+              "wikilink_refs": [],
+              "body_has_rewritten_wikilinks": false
+            },
+            "target": {
+              "file_path": "/topics/recent-work.md",
+              "files_list": false
+            }
+          },
+          "meta": null,
+          "message": "Recalled memory",
+          "integration_name": "Memory",
+          "mcp_server_url": null,
+          "integration_icon_url": null,
+          "icon_name": "bookText",
+          "display_content": {
+            "type": "rich_content",
+            "content": [
+              {
+                "title": "/topics/recent-work.md",
+                "subtitles": [
+                  "---\nname: recent-work\ndescription: Recent work-shaped items that don't warrant t\u2026"
+                ],
+                "url": null,
+                "resource_type": null,
+                "icon_url": null,
+                "source": null
+              }
+            ]
+          },
+          "hidden_in_chat": null,
+          "tool_origin": "first_party"
+        },
+        {
+          "start_timestamp": "2026-07-24T03:42:38.947686Z",
+          "stop_timestamp": "2026-07-24T03:42:40.467123Z",
+          "flags": null,
+          "type": "tool_use",
+          "id": "toolu_019WNnJsmivPvzJS9ntVkh2A",
+          "name": "memory_append",
+          "input": {
+            "path": "/topics/recent-work.md",
+            "if_version": "ea21d802212d",
+            "content": "- [stated] Wants to consolidate her business context into Claude: import ChatGPT memory, set up a Luxora Collective project, and build a single \"Claude Brain\" knowledge base (sales methodology, offer, ICP, scripts, podcast framework, marketing strategy, SOPs, brand voice)"
+          },
+          "message": "Adding to memory",
+          "integration_name": "Memory",
+          "integration_icon_url": null,
+          "tool_identifier": null,
+          "icon_name": "edit",
+          "context": null,
+          "display_content": null,
+          "approval_options": null,
+          "approval_key": null,
+          "approval_key_legacy": null,
+          "is_mcp_app": null,
+          "hidden_in_chat": null,
+          "mcp_server_url": null,
+          "tool_origin": "first_party"
+        },
+        {
+          "start_timestamp": "2026-07-24T03:42:40.530343Z",
+          "stop_timestamp": "2026-07-24T03:42:40.530354Z",
+          "flags": null,
+          "type": "tool_result",
+          "tool_use_id": "toolu_019WNnJsmivPvzJS9ntVkh2A",
+          "name": "memory_append",
+          "content": [
+            {
+              "type": "text",
+              "text": "Appended 272 bytes, file is now 786 bytes. [version: 7b23a2a599c9] (pass as if_version on your next edit of this path)",
+              "uuid": "3cb21f13-efe8-4ff9-ad63-a12399e48623"
+            }
+          ],
+          "is_error": false,
+          "structured_content": {
+            "path": "/topics/recent-work.md",
+            "path_segments": [
+              "topics",
+              "recent-work.md"
+            ],
+            "version": "7b23a2a599c9",
+            "updated_at": null,
+            "parsed": {
+              "name": "recent-work",
+              "description": "Recent work-shaped items that don't warrant their own project file",
+              "metadata": {},
+              "body": "- Built a financial pro forma (July 2026 to July 2027) for lender purposes projecting multi-million revenue with conservative assumptions\n- Built a lender-ready pro forma, using a prior version by Eric as the starting point\n- Built a closer hiring brief for a recruiting partner\n- Built a culture index/behavioral fit assessment for hiring\n- Wants to consolidate her business context into Claude: import ChatGPT memory, set up a Luxora Collective project, and build a single \"Claude Brain\" knowledge base (sales methodology, offer, ICP, scripts, podcast framework, marketing strategy, SOPs, brand voice)",
+              "wikilinks": [],
+              "wikilink_refs": [],
+              "body_has_rewritten_wikilinks": false
+            },
+            "target": {
+              "file_path": "/topics/recent-work.md",
+              "files_list": false
+            }
+          },
+          "meta": null,
+          "message": "Added to memory",
+          "integration_name": "Memory",
+          "mcp_server_url": null,
+          "integration_icon_url": null,
+          "icon_name": "edit",
+          "display_content": {
+            "type": "rich_content",
+            "content": [
+              {
+                "title": "/topics/recent-work.md",
+                "subtitles": [
+                  "- [stated] Wants to consolidate her business context into Claude: import ChatGPT\u2026"
+                ],
+                "url": null,
+                "resource_type": null,
+                "icon_url": null,
+                "source": null
+              }
+            ]
+          },
+          "hidden_in_chat": null,
+          "tool_origin": "first_party"
+        },
+        {
+          "start_timestamp": "2026-07-24T03:42:41.221271Z",
+          "stop_timestamp": "2026-07-24T03:42:46.041070Z",
+          "flags": null,
+          "type": "thinking",
+          "thinking": "I already have her business context loaded in this chat\u2014files covering Luxora's architecture, sales system, playbooks, webinar materials, and team info\u2014so I don't need to spend time on the usual discovery phase. Worth noting that memory import is experimental according to Anthropic's docs. I'll draft a response and wrap it up by asking where she'd like to focus, though I'm second-guessing whether to use the ask_user_input function for that.",
+          "summaries": [
+            {
+              "summary": "Leveraging preloaded business context to expedite strategic recommendations."
+            },
+            {
+              "summary": "Leveraged existing business context to expedite response formulation."
+            }
+          ],
+          "cut_off": false,
+          "truncated": false,
+          "hidden": false,
+          "thinking_hidden": false,
+          "alternative_display_type": null,
+          "signature": "CAISzgYKkQEIEBgCKkCVSQrC6sGiO8BkntkMSfgsWBCaCDos0TB6P9V1DI2hId52lJO/cEjnaxt4K6OZzFkhGzWvM3z/6/QxMO+dCtUVMhdjbGF1ZGUtdnY1N2U5M2wtdjEtcHJvZDgBQgh0aGlua2luZ1okZDE5YjkwZjQtMGRmNi00YzkyLTk3NzMtOTYxY2VmODlhYjNmEgyBBV/3Rg+r550wN8QaDPkDKMCHNfkyMMfGhSIwzP/6thaFidBdecCBKr6Z+xGQDuqQ/pmVAeXvkhBU4wpH5lSwlxeMFDNGInYAeSkCKukEZVElGjy964QeEu1QK1MV81xJe6vqaAETro7SP+KMgbyv4f9F9STVeBLaJNM5eLhonPwJjIaXxz8G9s4jNDrfFE5+N/1pKfEnq1eIl9KQzQhcYnNv1Y7KAEGKVTJ4kR7qP2REUd7cTaGMatIPQ4bG27guQiR5piUeNUnXx8nI0NycIc+6sdrv0E9wKaHndNqPUsV1WG4bPE3/1Ptinaz1VLGGB7rScgeLqzl6FFp6nYUcZ5PrMip1p6C26mlQQEzyy7m9HAQYrBNkwEPylMg4SXf6eMO6LY+PgwPSqZZ7xelhrPM1lnTedGaLf/TOkuLLKPjT03NiUpkwxmjzG5HvPduC6Jb861UAlLdMynvmQbRbsOyZdXHKUoAlV9NmIJFBgfpjYbp6QXyO92nyZGJJ3djSqvo/gPtgmKt+H7QIKlMaWTga5hCbiiMjLcs0DJ5ZkfkIBSPBf2sQctdPcLUDWbuSLi40cA4UEvtay2f4fqYXhl84fJjOuDCZfgkJZq3OsL4nUJpzWKW16VlFTuQNcfNE6sGdB9IKF3hRC5xtbwcJW5nIrpDaJSozC2oENdmOfZSJ5nI9KbaWWcqfWKjNvb6tOhIJI/D14k4QsLEIPhfy+HoyhZA7FPbhkvaJ22gxt98I722zrjmeUe89prHuyHT0rtm4Y245Aen1a6gPPAHdpsAu9VfBIZ5qfFE5/zkFbckMJwFCQtB0Fb1EzTT8S0zcn1bhlWjJIZcU1ikrwshdhOydKGWUz6J65PW+OOHGN5ObWW8PRfHoLDn4NzRlPkmEEzG7aKsRtxQG0GUCnYC5YXd3capWLDEYAQ=="
+        },
+        {
+          "start_timestamp": "2026-07-24T03:42:46.043190Z",
+          "stop_timestamp": "2026-07-24T03:42:53.109527Z",
+          "flags": null,
+          "type": "text",
+          "text": "Good plan overall, with two adjustments worth knowing before you spend time on it.\n\n**What's already done.** A fair amount of the \"Claude learns you\" work is in place. Your role, company positioning, brand voice rules (no em dashes, .co not .com, contractions for spoken content), the offer architecture, sales system, playbooks, webinar, paid ads, partnerships, client deliverables, and your core team are all already stored and carry across chats. So the ChatGPT import is a top-up, not a foundation. Import it, then review and prune, since imported context often carries stale or duplicate entries.\n\n**One caveat on the import.** Anthropic labels it experimental and still in active development, with no guarantee imported memories are always incorporated. Also, memory skews toward work-relevant context, so personal details may not stick. You can review everything under Settings, and there's a box for telling Claude what to change or remove.\n\n**Where the real leverage is.** Option 2. A Luxora Collective project with your actual source documents loaded (scripts, SOPs, offer docs, case studies, ICP, podcast framework) beats any memory summary, because Claude reads the real artifacts instead of a compressed description of them. Memory is a paragraph about your voice; project knowledge is your voice.\n\nSo the order I'd run: build the project and load documents first, do the ChatGPT import second as cleanup, and skip the standalone \"brain document\" unless you want a portable version you can take anywhere.",
+          "citations": [
+            {
+              "uuid": "8d091e90-3e85-47f6-b531-16d95d4ce68e",
+              "start_index": 653,
+              "end_index": 758,
+              "details": {
+                "type": "web_search_citation",
+                "url": "https://support.claude.com/en/articles/12123587-import-and-export-your-memory-from-claude"
+              }
+            },
+            {
+              "uuid": "5cd92bd8-b34c-47b9-9ba4-4fb5ecba7b22",
+              "start_index": 766,
+              "end_index": 842,
+              "details": {
+                "type": "web_search_citation",
+                "url": "https://support.claude.com/en/articles/12123587-import-and-export-your-memory-from-claude"
+              }
+            }
+          ],
+          "citations_grouping_mode": "combine"
+        },
+        {
+          "start_timestamp": "2026-07-24T03:42:53.109540Z",
+          "stop_timestamp": "2026-07-24T03:42:54.112402Z",
+          "flags": null,
+          "type": "tool_use",
+          "id": "toolu_01H7Q6UNd6yuqVXAPgS8UcBR",
+          "name": "ask_user_input_v0",
+          "input": {
+            "questions": [
+              {
+                "question": "Where do you want to start?",
+                "options": [
+                  "Build the Luxora project (I'll give you the structure and what to upload)",
+                  "Run the ChatGPT import first",
+                  "Draft the portable Claude Brain doc"
+                ],
+                "type": "single_select"
+              }
+            ]
+          },
+          "message": "Generating ask_user_input_v0...",
+          "integration_name": "Dynamic Widget",
+          "integration_icon_url": null,
+          "tool_identifier": null,
+          "icon_name": null,
+          "context": null,
+          "display_content": null,
+          "approval_options": null,
+          "approval_key": null,
+          "approval_key_legacy": null,
+          "is_mcp_app": null,
+          "hidden_in_chat": null,
+          "mcp_server_url": null
+        },
+        {
+          "start_timestamp": "2026-07-24T03:42:54.124830Z",
+          "stop_timestamp": "2026-07-24T03:42:54.124840Z",
+          "flags": null,
+          "type": "tool_result",
+          "tool_use_id": "toolu_01H7Q6UNd6yuqVXAPgS8UcBR",
+          "name": "ask_user_input_v0",
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"questions\":[{\"question\":\"Where do you want to start?\",\"options\":[\"Build the Luxora project (I'll give you the structure and what to upload)\",\"Run the ChatGPT import first\",\"Draft the portable Claude Brain doc\"],\"type\":\"single_select\"}]}",
+              "uuid": "f976a1f1-36dd-44ca-a87d-1a8a4837d439"
+            }
+          ],
+          "is_error": false,
+          "structured_content": null,
+          "meta": null,
+          "message": "Generated ask_user_input_v0 widget",
+          "integration_name": "Dynamic Widget",
+          "mcp_server_url": null,
+          "integration_icon_url": null,
+          "icon_name": null,
+          "display_content": null,
+          "hidden_in_chat": null
+        }
+      ],
+      "sender": "assistant",
+      "created_at": "2026-07-24T03:42:54.177759Z",
+      "updated_at": "2026-07-24T03:42:54.177759Z",
+      "attachments": [],
+      "files": [],
+      "parent_message_uuid": "019f9237-7350-74e3-b056-eae0529e246a"
+    },
+    {
+      "uuid": "019f9238-2217-7795-a0aa-b33f5be90ea5",
+      "text": "Q: Where do you want to start?\nA: Run the ChatGPT import first",
+      "content": [
+        {
+          "start_timestamp": "2026-07-24T03:43:02.979514Z",
+          "stop_timestamp": "2026-07-24T03:43:02.979514Z",
+          "flags": null,
+          "type": "text",
+          "text": "Q: Where do you want to start?\nA: Run the ChatGPT import first",
+          "citations": []
+        }
+      ],
+      "sender": "human",
+      "created_at": "2026-07-24T03:43:02.979642Z",
+      "updated_at": "2026-07-24T03:43:02.979642Z",
+      "attachments": [],
+      "files": [],
+      "parent_message_uuid": "019f9237-7350-74f4-8a9f-53c2faa33268"
+    },
+    {
+      "uuid": "019f9238-2217-7799-bf1a-5c02ec0821cc",
+      "text": "She's going with the ChatGPT import, so I need to walk her through the exact steps and provide the export prompt she'll paste into ChatGPT. The prompt itself is available in the import page, but I can also give her a stronger version if she prefers to use that instead.\n\nI should note the navigation path: Settings > Capabilities > Memory > Start Import, or she can go directly to claude.com/import-memory. There's a distinction between the new and legacy memory experiences\u2014if she sees Settings > Memory, that's the newer version. Let me check the current help documentation to make sure I'm giving her the right flow, since things may have shifted slightly.\n```\nThis block is not supported on your current device yet.\n```\n\nI need to give her step-by-step instructions, but there's an important constraint: memory imports only work on web and Claude Desktop, not mobile\u2014and she's using mobile, so she'll need to switch to a computer. Depending on which memory setup she has, I'll guide her through the right path, and I'll include the export prompt exactly as Anthropic provides it since that's their official instruction.\n\nI should swap out the em dashes for colons to match her preference, keep the instructions tight and scannable for mobile viewing, and add a Luxora-specific addendum she can append to the export prompt to help ChatGPT surface her business context like offers and scripts. I'll also include a pruning step to clean out stale data ChatGPT might have stored, lead with the desktop requirement since that's critical for her to know upfront, and keep the whole thing under two screenfuls as a straightforward how-to list.Do this part on a computer. Memory import runs on web and Claude Desktop only, so it won't work from the phone.\n\n**1. Find your import flow.** In Claude settings, look for either Settings > Memory (new experience) or Memory inside Settings > Capabilities (legacy). Both have a \"Start import\" button.\n\n**2. Run this in ChatGPT:**\n\n> I'm moving to another service and need to export my data. List every memory you have stored about me, as well as any context you've learned about me from past conversations. Output everything in a single code block so I can easily copy it. Format each entry as: [date saved, if available] - memory content. Make sure to cover all of the following, preserving my words verbatim where possible: Instructions I've given you about how to respond (tone, format, style, \"always do X,\" \"never do Y\"). Personal details: name, location, job, family, interests. Projects, goals, and recurring topics. Tools, languages, and frameworks I use. Preferences and corrections I've made to your behavior. Any other stored context not covered above. Do not summarize, group, or omit any entries. After the code block, confirm whether that is the complete set or if any remain.\n\nThe last line matters. Asking it to confirm completeness usually shakes loose entries it skipped the first time.\n\n**3. Prune before you paste.** Delete anything about clients you no longer serve, old pricing, superseded offer versions, and any client names or personal details you'd rather not have stored. Whatever you paste becomes memory, so a shorter clean list beats a long messy one.\n\n**4. Paste into the import box and click \"Add to memory.\"** Then open a new chat and ask what it learned. In the newer experience entries appear shortly after; on legacy it can take up to 24 hours.\n\nOne expectation to set: this is experimental and Claude may not always successfully incorporate everything you import, and memory skews toward work-relevant context, so personal details often don't stick. Anything critical that doesn't land, you can add manually through the \"tell Claude what to change or remove\" box.\n\nWhen you're through the prune step, paste me the cleaned list before you import it. I'll flag anything that duplicates or contradicts what's already stored about Luxora, which is the main way these imports go sideways.",
+      "content": [
+        {
+          "start_timestamp": "2026-07-24T03:43:02.973361Z",
+          "stop_timestamp": "2026-07-24T03:43:09.180002Z",
+          "flags": null,
+          "type": "thinking",
+          "thinking": "She's going with the ChatGPT import, so I need to walk her through the exact steps and provide the export prompt she'll paste into ChatGPT. The prompt itself is available in the import page, but I can also give her a stronger version if she prefers to use that instead.\n\nI should note the navigation path: Settings > Capabilities > Memory > Start Import, or she can go directly to claude.com/import-memory. There's a distinction between the new and legacy memory experiences\u2014if she sees Settings > Memory, that's the newer version. Let me check the current help documentation to make sure I'm giving her the right flow, since things may have shifted slightly.",
+          "summaries": [
+            {
+              "summary": "Thinking about interpreting a conversational exchange about process sequencing."
+            },
+            {
+              "summary": "Orchestrating ChatGPT import steps and export prompt delivery."
+            }
+          ],
+          "cut_off": false,
+          "truncated": false,
+          "hidden": false,
+          "thinking_hidden": false,
+          "alternative_display_type": null,
+          "signature": "CAIS1QgKkQEIEBgCKkARqH4DEK4MjNLmzRlamdomVE71uAijrqwwZLZzTlN1w9CLBKVJyadZofZCdK28AhJx4YWPQ0FEbkCsiK/xZOoVMhdjbGF1ZGUtdnY1N2U5M2wtdjEtcHJvZDgBQgh0aGlua2luZ1okZDE5YjkwZjQtMGRmNi00YzkyLTk3NzMtOTYxY2VmODlhYjNmEgxVQKd87r99E/pxu+waDHb4FEde1rPcl7PlYCIwzatn2GwfWWuo7PHgMVzLwAZ00yL7Jp/dZF0lYwsBj/BVon6WwA+orty9DtoB7OcnKvAGC7FqbdXAWJNQev0mfe1vXNRO2htkXJMvHhkh/4AMU90JBvja50fYdZs1iIO37f2j924YZRVgMU9pTe/im5qa36vTQKi3boqnK1Q87iDzsHxdun7LgqZyEB7N3z61Vj0Tghlhj7tPiMRv7puwBqCo04iQx49ZSnh582thENPgA8dJDDMxCvnx5QdZhb/tEBBrYizWDyVhSxwA6CYpaO/6RzvilPSkoykox8eLa4fyo2Bh2t/F8y3vUeqJlGNp0gUpdTiDVtUwgjiBLA8uYauYLNfTcSofI4gk0Kf7Gcv+HxrCI2ixYeTHb6mgZpuhr6MSJ8dcpdg3EyGLAArM3yMbJhE0Hc+a5k/Zjc9N089IBvESn9dEGBPmNLyZhFwf7kOI1xMFA3kw+ksA/9QLOoJLQ6YjNRkoiDvacmBDI8P/OoUcU/dRA0ZccWXM5IuKoxxXCDCwzXaDaTP9u8uqsRwdyQ/LMfuYSmrUZ/KgLLmc2APkxetG3DmtkeUlgabJM01OIugcduxJQvNEoqybxJDgbQe0yGKIbL+y260g1q9u0bcxm4Y8HKQnaRPJjW5JSGygmsSopLTGCPjDJXCuEztYkqE5Cboe06fKcN5h5b3FhdIPNIleE1++Zy88tD/9P8b1jf1nIKs3NaJSJzoO7zwIGGzgdTKUBoNdbSV0N7puZUxS2u4r3C8MwOTFI5VgkrDATsKUVuV/r5YJVAni039HfYb7ITLGAyIpyau7WH78q3uV7VN+PuRJeCPIF06rZFGe8X2itLawEUMM0OLLqdm94s4e7M4AGMt5hcP4iixdXaYMYjSk0xORuhXOH7imm8+d52sMR8qOHuKavXBQYPXswzzIhkYbUZCQFtFf3mPvAGUkWlu8kqDgWk1FU0FMyEp1CDVEB+dbT0kKviK+EWfSCMpPWqf26DsbzhQxe3vCuFJzrwaCzQlpof6GasxEb9avu5c1/+R1Z3g9Yoalwz0XWlLXA7XqySld/xhtcwqDT3Nnju3toP4DBOaNk3F3Q5ebx1AAveYYMMAzyryaWK5qNTv73fa/MSBhgvSQU1aAaHaNbL4+rDaXthembe72xr+txdAsu036dg4UK6yDw4UCz9EUZsBNwPgSVJRo8cfLAa0ysbWE8N55gHfB0Um2/lZqCNGxGHVS+mPBd+FA6t2GXRgB"
+        },
+        {
+          "start_timestamp": "2026-07-24T03:43:09.184690Z",
+          "stop_timestamp": "2026-07-24T03:43:09.201217Z",
+          "flags": null,
+          "type": "tool_use",
+          "id": "toolu_012hWVbBKcJnk7EjtKRuakei",
+          "name": "web_fetch",
+          "input": {
+            "url": "https://support.claude.com/en/articles/12123587-import-and-export-your-memory-from-claude"
+          },
+          "message": "Fetching: https://support.claude.com/en/articles/12123587-import-and-export-your-memory-from-claude",
+          "integration_name": "Web Fetch",
+          "integration_icon_url": null,
+          "tool_identifier": null,
+          "icon_name": "globe",
+          "context": null,
+          "display_content": null,
+          "approval_options": null,
+          "approval_key": null,
+          "approval_key_legacy": null,
+          "is_mcp_app": null,
+          "hidden_in_chat": null,
+          "mcp_server_url": null
+        },
+        {
+          "start_timestamp": "2026-07-24T03:43:09.272588Z",
+          "stop_timestamp": "2026-07-24T03:43:09.272603Z",
+          "flags": null,
+          "type": "tool_result",
+          "tool_use_id": "toolu_012hWVbBKcJnk7EjtKRuakei",
+          "name": "web_fetch",
+          "content": [
+            {
+              "type": "knowledge",
+              "title": "Import and export your memory from Claude | Claude Help Center",
+              "url": "https://support.claude.com/en/articles/12123587-import-and-export-your-memory-from-claude",
+              "metadata": {
+                "type": "webpage_metadata",
+                "site_domain": "claude.com",
+                "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=claude.com",
+                "site_name": "claude"
+              },
+              "is_missing": false,
+              "text": "---\ncanonical: https://support.claude.com/en/articles/12123587-import-and-export-your-memory-from-claude\nmeta-description:\nmeta-og:description:\nmeta-og:image: https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png\nmeta-og:title: Import and export your memory from Claude | Claude Help Center\nmeta-og:type: article\nmeta-robots: all\nmeta-twitter:card: summary_large_image\nmeta-twitter:description:\nmeta-twitter:image: https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png\nmeta-twitter:title: Import and export your memory from Claude | Claude Help Center\nmeta-viewport: width=device-width, initial-scale=1\ntitle: Import and export your memory from Claude | Claude Help Center\n---\n\n[Skip to main content](#main-content)\n\n[![Claude Help Center](https://downloads.intercomcdn.com/i/o/lupk8zyo/787776/ade321b9d8ff06050cb06ac0049d/d7ef4b66df4ff3851b5de741185c97ab.png)](https://support.claude.com/en/)\n\n[API Docs](https://docs.claude.com/en/docs/intro)[Release Notes](https://support.claude.com/en/articles/12138966-release-notes)[How to Get Support](https://support.claude.com/en/articles/9015913-how-to-get-support)\n\n* English\nFran\u00e7ais\nDeutsch\nBahasa Indonesia\nItaliano\n\u65e5\u672c\u8a9e\n\ud55c\uad6d\uc5b4\nPortugu\u00eas\nP\u0443\u0441\u0441\u043a\u0438\u0439\n\u7b80\u4f53\u4e2d\u6587\nEspa\u00f1ol\n\u7e41\u9ad4\u4e2d\u6587\n\nEnglish\n\n[API Docs](https://docs.claude.com/en/docs/intro)[Release Notes](https://support.claude.com/en/articles/12138966-release-notes)[How to Get Support](https://support.claude.com/en/articles/9015913-how-to-get-support)\n\n* English\nFran\u00e7ais\nDeutsch\nBahasa Indonesia\nItaliano\n\u65e5\u672c\u8a9e\n\ud55c\uad6d\uc5b4\nPortugu\u00eas\nP\u0443\u0441\u0441\u043a\u0438\u0439\n\u7b80\u4f53\u4e2d\u6587\nEspa\u00f1ol\n\u7e41\u9ad4\u4e2d\u6587\n\nEnglish\n\nSearch for articles...\n\n1. [All Collections](https://support.claude.com/en/)\n\n2. [Claude](https://support.claude.com/en/collections/4078531-claude)\n\n3. [Features and capabilities](https://support.claude.com/en/collections/18031719-features-and-capabilities)\n\n4. Import and export your memory from Claude\n\n# Import and export your memory from Claude\n\n Updated over a week ago\n\nMemory imports are available for Free, Pro, Max, and Team plans on the web and Claude Desktop.\n\nYou can transfer your memory between Claude and other AI providers. This lets you import memories from other AI providers into Claude, or export your Claude memory for backup or migration.\n\n**Important:** We are gradually introducing an improved experience for memory from chats. The new experience will be the default for new users, and users on free, Pro and Max plans will be migrated to the new experience. Team and Enterprise plan admins will receive more information about a rollout in the coming weeks. In the interim, users on Team and Enterprise plans will stay on the legacy experience.\n\n- If you see **[Settings > Memory](https://claude.ai/new#settings/customize-memory)**, you\u2019re using the new memory experience, and the main sections that follow apply to you.\n\n- If you see **Memory** in **[Settings > Capabilities](http://claude.ai/settings/capabilities)**, you\u2019re using the legacy memory experience and can skip to **[Information for legacy memory users](#h_6e403e5d1a)**.\n\n## Import memory into Claude\n\nYou can bring your memory over from other AI providers using Claude's built-in import flow.\n\n## Step 1: Export your memory from your current AI service\n\nWe recommend using the following prompt. It\u2019s written specifically to help you get all of your context in one chat.\n\n*I'm moving to another service and need to export my data. List every memory you have stored about me, as well as any context you've learned about me from past conversations. Output everything in a single code block so I can easily copy it. Format each entry as: [date saved, if available] - memory content. Make sure to cover all of the following \u2014 preserve my words verbatim where possible: Instructions I've given you about how to respond (tone, format, style, 'always do X', 'never do Y'). Personal details: name, location, job, family, interests. Projects, goals, and recurring topics. Tools, languages, and frameworks I use. Preferences and corrections I've made to your behavior. Any other stored context not covered above. Do not summarize, group, or omit any entries. After the code block, confirm whether that is the complete set or if any remain.*\n\nYou can customize this prompt to exclude any sensitive information before importing into Claude. If your current service supports generating files, you can also ask it to export your memory as a Markdown file so you can save a copy for your records.\n\n## Step 2: Open the import flow in Claude\n\nTo start the import:\n\n- Go to **[Settings > Memory](https://claude.ai/new#settings/customize-memory)** and select \"Start import.\"\n\nThe import flow will display the prompt shown above, along with a text box where you can paste the results.\n\n## Step 3: Paste your exported memory and import\n\nPaste the exported text from your previous AI provider into the text box and click the \"Add to memory\" button to submit it. Claude will extract key information and store it as individual memory entries. You can review the entries in the memory panel.\n\nOnce the import is complete, you'll see your updated memory shortly after. Click the \"See what Claude learned about you\" button to start a new conversation using this prompt: \"I updated my memory. What did you learn about me?\"\n\nClaude's memory is designed to focus on work-related topics to enhance its effectiveness as a collaborator. As a result, Claude may not retain imported personal details unrelated to work. If you want to add specific information into Claude's memory, go to **[Settings > Memory](https://claude.ai/new#settings/customize-memory)** and add that information using the \"Tell Claude what to change or remove\" box, or by asking Claude in chat.\n\n**Important:** Memory imports are **experimental and still in active development,** and at this stage,  Claude may not always successfully incorporate imported memories.\n\n## Export memory from Claude\n\nTo view your memory exactly how Claude sees it, go to **[Settings > Capabilities](http://claude.ai/settings/capabilities)** and click \u201cView and edit your memory.\u201d Alternatively, you can access memory directly in a chat with Claude by asking it, \"Write out your memories of me verbatim, exactly as they appear in your memory.\" You can save this exported memory as a backup or bring it to another AI service by copying and pasting it into a local file on your computer.\n\n---\n\n## Information for legacy memory users\n\n**Important:** We are gradually introducing an improved experience for memory from chats. The sections below only apply to people who have the legacy memory experience and see **Memory** in **[Settings > Capabilities](http://claude.ai/settings/capabilities)**. If you see **[Settings > Memory](https://claude.ai/new#settings/customize-memory)**, you\u2019re using the new memory experience and the sections above apply to you.\n\n### Import memory into Claude\n\nYou can bring your memory over from other AI providers using Claude's built-in import flow.\n\n**Step 1: Export your memory from your current AI service**\n\nWe recommend using the following prompt. It\u2019s written specifically to help you get all of your context in one chat.\n\n*I'm moving to another service and need to export my data. List every memory you have stored about me, as well as any context you've learned about me from past conversations. Output everything in a single code block so I can easily copy it. Format each entry as: [date saved, if available] - memory content. Make sure to cover all of the following \u2014 preserve my words verbatim where possible: Instructions I've given you about how to respond (tone, format, style, 'always do X', 'never do Y'). Personal details: name, location, job, family, interests. Projects, goals, and recurring topics. Tools, languages, and frameworks I use. Preferences and corrections I've made to your behavior. Any other stored context not covered above. Do not summarize, group, or omit any entries. After the code block, confirm whether that is the complete set or if any remain.*\n\nYou can customize this prompt to exclude any sensitive information before importing into Claude. If your current service supports generating files, you can also ask it to export your memory as a Markdown file so you can save a copy for your records.\n\n**Step 2: Open the import flow in Claude**\n\nThere are two ways to start the import:\n\n- Go to **[Settings > Capabilities](http://claude.ai/settings/capabilities)**, find the **Memory** section, and select \u201cStart import.\u201d\n\n- From the home screen, click \u201cGet started\u201d on the \"Import memory to Claude\" card.\n\nThe import flow will display the prompt shown above, along with a text box where you can paste the results.\n\n**Step 3: Paste your exported memory and import**\n\nPaste the exported text from your previous AI provider into the text box and click the \u201cAdd to memory\u201d button to submit it. Claude will extract key information and store it as individual memory edits. You can review these edits by clicking \u201cManage edits.\u201d\n\nOnce the import is complete, you'll see your updated memory within 24 hours. Click the \u201cSee what Claude learned about you\u201d button to start a new conversation using this prompt: \"I updated my memory. What did you learn about me?\"\n\nClaude's memory is designed to focus on work-related topics to enhance its effectiveness as a collaborator. As a result, Claude may not retain imported personal details unrelated to work. If you want to add specific information into Claude's memory, go to **[Settings > Capabilities](http://claude.ai/settings/capabilities)**, click \u201cView and edit your memory,\u201d and add that information as an edit.\n\n**Important:** Memory imports are **experimental and still in active development,** and at this stage,  Claude may not always successfully incorporate imported memories.\n\n### Export memory from Claude\n\nTo view your memory exactly how Claude sees it, go to **[Settings > Capabilities](http://claude.ai/settings/capabilities)** and click \u201cView and edit your memory.\u201d Alternatively, you can access memory directly in a chat with Claude by asking it, \"Write out your memories of me verbatim, exactly as they appear in your memory.\" You can save this exported memory as a backup or bring it to another AI service by copying and pasting it into a local file on your computer.\n\n---\n\nRelated Articles\n\n- [Get started with Claude](https://support.claude.com/en/articles/8114491-get-started-with-claude)\n- [Use Claude\u2019s chat search and memory to build on previous context](https://support.claude.com/en/articles/11817273-use-claude-s-chat-search-and-memory-to-build-on-previous-context)\n- [Organize your tasks with projects in Claude Cowork](https://support.claude.com/en/articles/14116274-organize-your-tasks-with-projects-in-claude-cowork)\n- [Your first day in Claude Code](https://support.claude.com/en/articles/14552382-your-first-day-in-claude-code)\n- [Claude Code communications kit](https://support.claude.com/en/articles/14555877-claude-code-communications-kit)\n\n**Did this answer your question?**\n\n\ud83d\ude1e\n\n\ud83d\ude10\n\n\ud83d\ude03\n\n[](#h_6ae0c1448e)\n\n[](#h_23958afda0)\n\n[](#h_d73ed3d850)\n\n[](#h_dba69b2fa4)\n\n[](#h_1c59b82274)\n\n[](#h_6e403e5d1a)\n\n[![Claude Help Center](https://downloads.intercomcdn.com/i/o/487548/17213f6a445c8e6e874b1f4b/fad85208982e639d11b9108df895a293.png)](https://support.claude.com/en/)\n\n- [Product](https://www.anthropic.com/product)\n- [Research](https://www.anthropic.com/research)\n- [Company](https://www.anthropic.com/company)\n- [News](https://www.anthropic.com/news)\n- [Careers](https://www.anthropic.com/careers)\n\n- [Terms of Service - Consumer](https://www.anthropic.com/terms)\n- [Terms of Service - Commercial](https://www.anthropic.com/legal/commercial-terms)\n- [Privacy Policy](https://www.anthropic.com/privacy)\n- [Usage Policy](https://www.anthropic.com/aup)\n- [Responsible Disclosure Policy](https://www.anthropic.com/responsible-disclosure-policy)\n- [Compliance](https://trust.anthropic.com/)",
+              "is_citable": true,
+              "prompt_context_metadata": {
+                "content_type": "html",
+                "destination_url": "https://support.claude.com/en/articles/12123587-import-and-export-your-memory-from-claude",
+                "mime_type": "text/html; charset=utf-8"
+              },
+              "links": null
+            }
+          ],
+          "is_error": false,
+          "structured_content": null,
+          "meta": null,
+          "message": "Fetched: Import and export your memory from Claude | Claude Help Center",
+          "integration_name": "Web Fetch",
+          "mcp_server_url": null,
+          "integration_icon_url": "https://www.google.com/s2/favicons?sz=64&domain=claude.com",
+          "icon_name": "globe",
+          "display_content": {
+            "type": "rich_link",
+            "link": {
+              "title": "Import and export your memory from Claude | Claude Help Center",
+              "subtitles": null,
+              "url": "https://support.claude.com/en/articles/12123587-import-and-export-your-memory-from-claude",
+              "resource_type": null,
+              "icon_url": "https://www.google.com/s2/favicons?sz=64&domain=claude.com",
+              "source": "claude"
+            },
+            "is_trusted": false
+          },
+          "hidden_in_chat": null
+        },
+        {
+          "start_timestamp": "2026-07-24T03:43:09.827009Z",
+          "stop_timestamp": "2026-07-24T03:43:20.175770Z",
+          "flags": null,
+          "type": "thinking",
+          "thinking": "I need to give her step-by-step instructions, but there's an important constraint: memory imports only work on web and Claude Desktop, not mobile\u2014and she's using mobile, so she'll need to switch to a computer. Depending on which memory setup she has, I'll guide her through the right path, and I'll include the export prompt exactly as Anthropic provides it since that's their official instruction.\n\nI should swap out the em dashes for colons to match her preference, keep the instructions tight and scannable for mobile viewing, and add a Luxora-specific addendum she can append to the export prompt to help ChatGPT surface her business context like offers and scripts. I'll also include a pruning step to clean out stale data ChatGPT might have stored, lead with the desktop requirement since that's critical for her to know upfront, and keep the whole thing under two screenfuls as a straightforward how-to list.",
+          "summaries": [
+            {
+              "summary": "Determining platform constraints and memory setup options."
+            },
+            {
+              "summary": "Orchestrated step-by-step import instructions with platform constraints."
+            }
+          ],
+          "cut_off": false,
+          "truncated": false,
+          "hidden": false,
+          "thinking_hidden": false,
+          "alternative_display_type": null,
+          "signature": "CAISrAsKkQEIEBgCKkB671nR4ci4KiwASnGUVZkElSgUF2g2X3ThechgofYpPns0jB6N3zP5ScXbtVC0Jn+mOdO5mjCPHWR8UtlNosdfMhdjbGF1ZGUtdnY1N2U5M2wtdjEtcHJvZDgBQgh0aGlua2luZ1okZDE5YjkwZjQtMGRmNi00YzkyLTk3NzMtOTYxY2VmODlhYjNmEgwqGiRUPntnOU0OcakaDCq5iTcAYDCaLjoIoCIwyW3fDH8GLqGWIW4CL1q+m2IJCfVsQRTVp7Sd18MncFfSYuHu9Mwf0PJJ0/byNmk7KscJcStifgTi+IneI74DzOdkOW+BDBZozr4YqaL8okI1VgZPwTuE2PcdjfYYmcmu+D84E/SnpqyPk/bQdcp2iR6ySj4ZLaZhG7RFbpzk/iyYWKx9OdHwCy26/mJ61FwxIqL+RsztfUCzuCKLugTizQZLREtsp8F3KAx/eun8RybtSiOHFNty0QxB3rJfksiAshRStkz2symosLzNfsanpjj7daUN4DWp+Bv6ttWd6NRix71+Ejwb/0rlwJBVSr/z1gYdNsW1j/3H8IVOi/jv+ZX+plg8aV9wgKKqdDliyJTSC3G9QU/iRrD0EoAaZG3sL+yKReHNRDKTtEBfri3kVjfxjN7l2Awu5svgseA+sIsbxgbfMLqncSL3lOUFMBMoPYOYk4VrIMC/QmlND8VFsFY/XHlumHFhT/udaLQNzFpPaa6TXh78pyOEAb0molBv0V/1y9Bshx/FQTsdYO89bGCr11B3vUDMzMs4lFbYcfakJxslNjx3xdjzWYfYNGzybQFmCPue+E1EAZA8xTuYDyqGOA480hR0OBB8jHSVTv2ZJ1jO1gn+jXMizThRueNeA9V2hW3vY0Su5zrGX7gpK9OBJzTxwMCGiQZlvirpPNRDxqIVrRB8bsVV484TFnSqK4LrXj3/ut9RulED3jkWQ9tOBlbpGJVw4KOygxpkwkvjhW5MtR308OXkoCugiKrLfBgfZQwBX53F6K2QEI9SsRWqtWtsBn01sOZxSUoQ1TwynVKMkPMgoIClZcpjuFX4DjnnUXxPM7vNM8ZQ9Y+QN4KOEsTJsRlS4juGvPOl4Ts2SFwwm3oe95fJSoZbvCeJC4xsiGkiS2vCid30jSC99cMutU7Ebb5XcoXRecJfwX61NVUaxbNH62A2IK8voawfSXKroQD9MQf255/Dnv6kOqHBQUQRDm8L9VUOaSeeaACXjYkOe2VRFHJ7GZCf7SsWK4VwGgaG+qGLnGpGLQTlloe2Ag09jmFVdxXTQmpshpnpEfmohdoU84dYaWiZKqu8DVaAMigpzI1Ms6R4FIMg+DYkNYMamlNNBxsI5Vfm4eNWbvoP7oc7sx2NkED/s1pk9muhDOMqZDfnK3BNIXjdn6nni4Ya19dCuXAn8EYImAw8aCXCw5ZD711NqDtpWUsAyc7dr/sAcoSFI2XFp7Og0Yh2NUZEmqbEv2AZgK/UOp4xjaXFuZ3gRMmYDz5Rr6XLfQKkKEckNS1rgsGoeUZjm+Gdsm0Im4h0nrfOUFsmnP909We8OIhzQ7LXNovZG1bX2T6f5GhsmPHB6Opx2fQwfj/BHPhrtiYrlZ/UPMvabNRXT1bbt7cGj5moN+d/Gb0wAya//MQWR8g0Vl58nZB0RRReXRSxjaomX2BbOMCH9cfrX35lZFgr46M4qWWBEmNlQG1p+78ZiV0FOsIJXwe7AK+nEHPb6bQEbmE5bt2wesSvTuUfxI1nNGARwnS9QoUj2oVADgbhNDgu+dN7jrIPEV8YzwX2g6KbI+GvhLAZeuqkx9sod9WScXXSyKPT9YC4exS3w2twdHPWFfpTB+Iqw4I1ovz/ps3bT91aOiterZ8LAxa3Z6YADnV2jnWhK6BYzfcRFyMMWlyyGr+sT18e1MWKyoz2GJDhK0kYAQ=="
+        },
+        {
+          "start_timestamp": "2026-07-24T03:43:20.175981Z",
+          "stop_timestamp": "2026-07-24T03:43:27.439450Z",
+          "flags": null,
+          "type": "text",
+          "text": "Do this part on a computer. Memory import runs on web and Claude Desktop only, so it won't work from the phone.\n\n**1. Find your import flow.** In Claude settings, look for either Settings > Memory (new experience) or Memory inside Settings > Capabilities (legacy). Both have a \"Start import\" button.\n\n**2. Run this in ChatGPT:**\n\n> I'm moving to another service and need to export my data. List every memory you have stored about me, as well as any context you've learned about me from past conversations. Output everything in a single code block so I can easily copy it. Format each entry as: [date saved, if available] - memory content. Make sure to cover all of the following, preserving my words verbatim where possible: Instructions I've given you about how to respond (tone, format, style, \"always do X,\" \"never do Y\"). Personal details: name, location, job, family, interests. Projects, goals, and recurring topics. Tools, languages, and frameworks I use. Preferences and corrections I've made to your behavior. Any other stored context not covered above. Do not summarize, group, or omit any entries. After the code block, confirm whether that is the complete set or if any remain.\n\nThe last line matters. Asking it to confirm completeness usually shakes loose entries it skipped the first time.\n\n**3. Prune before you paste.** Delete anything about clients you no longer serve, old pricing, superseded offer versions, and any client names or personal details you'd rather not have stored. Whatever you paste becomes memory, so a shorter clean list beats a long messy one.\n\n**4. Paste into the import box and click \"Add to memory.\"** Then open a new chat and ask what it learned. In the newer experience entries appear shortly after; on legacy it can take up to 24 hours.\n\nOne expectation to set: this is experimental and Claude may not always successfully incorporate everything you import, and memory skews toward work-relevant context, so personal details often don't stick. Anything critical that doesn't land, you can add manually through the \"tell Claude what to change or remove\" box.\n\nWhen you're through the prune step, paste me the cleaned list before you import it. I'll flag anything that duplicates or contradicts what's already stored about Luxora, which is the main way these imports go sideways.",
+          "citations": [
+            {
+              "uuid": "fc16eaa6-9a41-484f-b7c6-ec671069f3ba",
+              "start_index": 1813,
+              "end_index": 1899,
+              "details": {
+                "type": "web_search_citation",
+                "url": "https://support.claude.com/en/articles/12123587-import-and-export-your-memory-from-claude"
+              }
+            },
+            {
+              "uuid": "fa57a21b-631b-49f6-b6bd-b8a1129be74d",
+              "start_index": 1904,
+              "end_index": 1985,
+              "details": {
+                "type": "web_search_citation",
+                "url": "https://support.claude.com/en/articles/12123587-import-and-export-your-memory-from-claude"
+              }
+            }
+          ],
+          "citations_grouping_mode": "combine"
+        }
+      ],
+      "sender": "assistant",
+      "created_at": "2026-07-24T03:43:27.498856Z",
+      "updated_at": "2026-07-24T03:43:27.498856Z",
+      "attachments": [],
+      "files": [],
+      "parent_message_uuid": "019f9238-2217-7795-a0aa-b33f5be90ea5"
+    },
+    {
+      "uuid": "019f923a-5065-71af-8fab-b4954635cd05",
+      "text": "Chat told me no",
+      "content": [
+        {
+          "start_timestamp": "2026-07-24T03:45:24.118154Z",
+          "stop_timestamp": "2026-07-24T03:45:24.118154Z",
+          "flags": null,
+          "type": "text",
+          "text": "Chat told me no",
+          "citations": []
+        }
+      ],
+      "sender": "human",
+      "created_at": "2026-07-24T03:45:24.118262Z",
+      "updated_at": "2026-07-24T03:45:24.118262Z",
+      "attachments": [],
+      "files": [],
+      "parent_message_uuid": "019f9238-2217-7799-bf1a-5c02ec0821cc"
+    },
+    {
+      "uuid": "019f923a-5065-71b3-8e03-40875e69a17b",
+      "text": "ChatGPT refused to share its memories directly, so I'm thinking through some workarounds. I can access stored memories through the Settings UI and copy them manually, or use the data export feature to get a zip file with conversation history. Another approach is to ask ChatGPT about the memories in smaller, rephrased requests that avoid triggering refusal patterns around data export language.\n\nI should also check whether the \"no\" was a hard refusal or just that memory isn't enabled. The most practical option might be to skip the back-and-forth entirely and just build the profile myself from what I already know about her business context, then have her import it. I'll keep this short and mobile-friendly, offer the workarounds, and ask one clarifying question at the end about what the refusal looked like.Expected. That prompt trips a couple of refusal patterns in ChatGPT (\"export my data,\" \"verbatim\"). Three ways around it:\n\n**Easiest: skip ChatGPT entirely.** Go to ChatGPT Settings > Personalization > Manage Memories. Every saved memory is listed there in plain text. Copy the list yourself. No cooperation required.\n\n**Or rephrase.** Drop the export framing and ask conversationally instead: \"What do you currently have saved in memory about me? List each entry separately.\" Then a follow-up: \"What else have you picked up about my work and preferences from our conversations that isn't in saved memory?\" Two smaller asks usually get through where the big one doesn't.\n\n**Or full export.** Settings > Data Controls > Export Data emails you a zip. That's everything, which is more than you want, but nothing is lost.\n\nWorth knowing: a hand-written profile usually beats an auto-generated one. ChatGPT's memory is cumulative and full of stale fragments, and you'd be pruning most of it anyway.\n\nWhich was it, a flat refusal or did it say it has no memories saved? If memory was off in your ChatGPT account, there's nothing to import and we should go straight to building the profile from scratch, which I can largely draft from what's already stored about Luxora.",
+      "content": [
+        {
+          "start_timestamp": "2026-07-24T03:45:24.111455Z",
+          "stop_timestamp": "2026-07-24T03:45:34.164262Z",
+          "flags": null,
+          "type": "thinking",
+          "thinking": "ChatGPT refused to share its memories directly, so I'm thinking through some workarounds. I can access stored memories through the Settings UI and copy them manually, or use the data export feature to get a zip file with conversation history. Another approach is to ask ChatGPT about the memories in smaller, rephrased requests that avoid triggering refusal patterns around data export language.\n\nI should also check whether the \"no\" was a hard refusal or just that memory isn't enabled. The most practical option might be to skip the back-and-forth entirely and just build the profile myself from what I already know about her business context, then have her import it. I'll keep this short and mobile-friendly, offer the workarounds, and ask one clarifying question at the end about what the refusal looked like.",
+          "summaries": [
+            {
+              "summary": "Strategizing workarounds after refusal."
+            },
+            {
+              "summary": "Brainstormed workarounds for accessing restricted data."
+            }
+          ],
+          "cut_off": false,
+          "truncated": false,
+          "hidden": false,
+          "thinking_hidden": false,
+          "alternative_display_type": null,
+          "signature": "CAISyQoKkQEIEBgCKkBRY3JU23XDKu/HtC5W2CmPip6WclrhukrVfNnlnOmZV8LQxtyfjbWc052B2E0spslh5v9AwkyWZbfWYCSzeId9MhdjbGF1ZGUtdnY1N2U5M2wtdjEtcHJvZDgBQgh0aGlua2luZ1okZDE5YjkwZjQtMGRmNi00YzkyLTk3NzMtOTYxY2VmODlhYjNmEgyCQ3dPIyBhf3Va9YkaDPlN7O1zmHXYYnfGryIwMZ1q51Aoz0SlOJEnX1mWJSNxYGVlFgl2gP3PGTXkY+SyzXwxAOr00USubZUh5gxgKuQIsdMYsZHMhXQGND6JMyKYemwjSBbMQwojmKZEK2LYwmKDSFM7pHLj6S2LeMSREtnVZ61NANsOj6x0Vn0jLUd9yuPVXH5zScNmXORkf7Cih1KOYdvnbU2wM1rseLonID7EiQg31HLNoPLpheGL9J2bcM6HZ5AY18vb5vBMJHQRSNly2jghfwpJDnqYsHqAz+CXlbT2nDphohZGo6MYfAxNkysdeIGcANQ5nablcqvrce689vdoeLcC8QRtZ6/dPwVvH9itI7OH6wz+mvNLBeINIJVaNof5weTRM88NtWnHtSnZw/dwcSMol1/UmpQ/Qw/7yY+u6zuRdkj/fBvTB3fyQC5YpNkO3L1wi3Hc/io615swXieJgAzX8KctC/AWuw6ofNelSV0fZP2Tv1umAD84QBBhLgEz1JRxG/UiMK5xHUZCxRoFbAVd3hxnCsAGOeEs8tz8+DsJjJ5lT0/+KGjd4xhhYuOPZqhDVwDlSGKa9DRyL0orOJZ9B2joRhKlNhAt4z9Wws1+a0cDT/5oK5/Chflkt2Lsm+eJJThEbLK6z1FgIpFr5yZh69wR44PVpfP4zKqd3QpsrgRYJU4WENX3XJCfZtF6tRnUz0099UWIsLk4aWJvF6dczRgS0UpHYdo0cyKx1OES2txKn5rUs00cqylBi0d3B3EKPUFxd6QdJGBYzuNKpJ2Rmw5a9RZjlf9ewWB/PN+T+1IaFXmBbu/mE15hcq0DgBVqlnEfkHrbgNtpDTkuZUNGuL3j1Ww7hbwtBUDrK952H9vJR4vi+eH1GEd3zA//yj+bSZe8BmnIjS32oG/UzUHIaLMakSQJ5uXk2viRrSfTicxxAsI3PCMIxomEdqDsozp/8XuYLFhZ038giIybPKZUuDzNnGEfwzEP/2Hk+0qP+9ofBAYpJOPqZiUKl6gYeVmrr2c2alSzXfIsVPd8uitTdpwgGA//TxVZTgXmp5n7KmNrXlSgRb9iOHqrgWUwQ5Xo9z6JCrPbYa6aokDCHh3dtcmy/jD83DePAWZtUNCSERFcVpOEVNZEYUpLlYz+H2zuQJ+8wUcz80DSxnDfN5ED05uePuGAPJenPXSOAXv6YFtbIXIVx88VfYPNSpudtuZMCkvWReuH0/0snxC2cb4MB9RyDF4xNmr+s3ztPS3y4PcrM294w+IllHFdhFuQhq+lE3mYYpl8HabPceTMtbMHd1whI4aH9CURlMfGL6YMH4iUvbj2o7dkmofUbRbQZbyDaUMZ8FIcfSasrz0n/KD0zIshYYxhWJO+LsfL6rMmsqmdrOTNU2LraBJf0XJ8788LYlAndpOuw8qvrmkkVf63JhFSnthYLxJfQxwXVkvYA+KUkJ2xTTnY9IZ601Ss7JkJnaesPyQjIlzgOUcXdkLQ6dlZDblEKdy0ZvDRaiKPAG1jeg+ChEPwAPooqAvO3JH8x09wJl2lCSOJJWYhQMm8pBTHlWtLngoqOoLq+x9MnbJzUmJbojXyimLQ+jsYAQ=="
+        },
+        {
+          "start_timestamp": "2026-07-24T03:45:34.169311Z",
+          "stop_timestamp": "2026-07-24T03:45:37.156621Z",
+          "flags": null,
+          "type": "text",
+          "text": "Expected. That prompt trips a couple of refusal patterns in ChatGPT (\"export my data,\" \"verbatim\"). Three ways around it:\n\n**Easiest: skip ChatGPT entirely.** Go to ChatGPT Settings > Personalization > Manage Memories. Every saved memory is listed there in plain text. Copy the list yourself. No cooperation required.\n\n**Or rephrase.** Drop the export framing and ask conversationally instead: \"What do you currently have saved in memory about me? List each entry separately.\" Then a follow-up: \"What else have you picked up about my work and preferences from our conversations that isn't in saved memory?\" Two smaller asks usually get through where the big one doesn't.\n\n**Or full export.** Settings > Data Controls > Export Data emails you a zip. That's everything, which is more than you want, but nothing is lost.\n\nWorth knowing: a hand-written profile usually beats an auto-generated one. ChatGPT's memory is cumulative and full of stale fragments, and you'd be pruning most of it anyway.\n\nWhich was it, a flat refusal or did it say it has no memories saved? If memory was off in your ChatGPT account, there's nothing to import and we should go straight to building the profile from scratch, which I can largely draft from what's already stored about Luxora.",
+          "citations": []
+        }
+      ],
+      "sender": "assistant",
+      "created_at": "2026-07-24T03:45:37.183064Z",
+      "updated_at": "2026-07-24T03:45:37.183064Z",
+      "attachments": [],
+      "files": [],
+      "parent_message_uuid": "019f923a-5065-71af-8fab-b4954635cd05"
+    }
+  ]
+}

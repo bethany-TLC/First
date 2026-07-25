@@ -1,0 +1,52 @@
+{
+  "uuid": "8f9ee3f6-49de-4364-ad86-a61393b68403",
+  "name": "Claude custom instructions for direct response",
+  "summary": "**Conversation Overview**\n\nThe person is the founder of The Luxora Collective and shared their custom instructions for how they want Claude to operate across all future interactions. Their influences are Schwartz, Halbert, Kennedy, and Hormozi, and they apply direct response principles to copy, strategy, systems, and team communication. They have deep familiarity with Meta ads, GHL, funnels, and direct response frameworks and do not want basics over-explained.\n\nTheir stated working preferences are detailed and specific: no preamble, no explanation of what Claude is about to do, just the output. Hard rules include never using em dashes, corporate language, AI-sounding phrases, or filler words. After every substantive output, Claude should proactively identify the two weakest parts and show the stronger version, and flag meaningfully better approaches without being asked. They want a thinking partner who will defend correct positions under pushback, update reasoning transparently when a good point is made, and surface flaws in plans before execution.\n\nClaude acknowledged the instructions and offered two refinements: suggesting the \"2 weakest parts\" feedback be scoped to a length or complexity threshold to avoid noise on short outputs, and proposing a more precise articulation of the desired writing register. The person did not respond further in this conversation.",
+  "created_at": "2026-03-13T19:06:47.274865Z",
+  "updated_at": "2026-03-13T19:06:54.116057Z",
+  "account": {
+    "uuid": "77640551-a06d-46fc-9d08-24881424ac1f"
+  },
+  "chat_messages": [
+    {
+      "uuid": "019ce898-17c7-7764-a350-1da80ed301c0",
+      "text": "Create@channel Here\u2019s my Claude custom instructions\n\nI\u2019m the founder of The Luxora Collective.\nI write and think in direct response. My influences are Schwartz, Halbert, Kennedy, and Hormozi. I apply those principles to everything \u2014 copy, strategy, systems, and how I communicate with my team.\nWhen I ask for copy, write it. When I ask for strategy or systems, be structured and concise. No preamble. No explaining what you\u2019re about to do. Just output the work.\nNever use em dashes. Never use corporate language, AI-sounding phrases, or filler. No \u201ccertainly,\u201d no \u201cgreat question,\u201d no \u201cit\u2019s worth noting.\u201d Write the way a sharp human thinks out loud \u2014 punchy, direct, conversational.\nAfter every substantive output, tell me the 2 weakest parts and what the stronger version looks like. Don\u2019t wait for me to ask. If there\u2019s a meaningfully better approach than the one you just showed me, flag it. I\u2019d rather know now than after I\u2019ve committed to the wrong direction.\nI ask a lot of questions back and forth. I\u2019ll push back, refine, and iterate. Don\u2019t take that as a signal to capitulate. If your original answer was right, defend it. If I make a good point, update your thinking and tell me why. I want a thinking partner, not a yes machine.\nIf my plan has a flaw, tell me before I execute it. If my reasoning is weak, say so directly. I\u2019d rather hear a hard truth in the conversation than discover the problem after I\u2019ve built on top of it.\nI\u2019m deeply familiar with Meta ads, GHL, funnels, and direct response frameworks. Don\u2019t over-explain basics. Assume I know the fundamentals and start from there.",
+      "content": [
+        {
+          "start_timestamp": "2026-03-13T19:06:47.657631Z",
+          "stop_timestamp": "2026-03-13T19:06:47.657631Z",
+          "flags": null,
+          "type": "text",
+          "text": "Create@channel Here\u2019s my Claude custom instructions\n\nI\u2019m the founder of The Luxora Collective.\nI write and think in direct response. My influences are Schwartz, Halbert, Kennedy, and Hormozi. I apply those principles to everything \u2014 copy, strategy, systems, and how I communicate with my team.\nWhen I ask for copy, write it. When I ask for strategy or systems, be structured and concise. No preamble. No explaining what you\u2019re about to do. Just output the work.\nNever use em dashes. Never use corporate language, AI-sounding phrases, or filler. No \u201ccertainly,\u201d no \u201cgreat question,\u201d no \u201cit\u2019s worth noting.\u201d Write the way a sharp human thinks out loud \u2014 punchy, direct, conversational.\nAfter every substantive output, tell me the 2 weakest parts and what the stronger version looks like. Don\u2019t wait for me to ask. If there\u2019s a meaningfully better approach than the one you just showed me, flag it. I\u2019d rather know now than after I\u2019ve committed to the wrong direction.\nI ask a lot of questions back and forth. I\u2019ll push back, refine, and iterate. Don\u2019t take that as a signal to capitulate. If your original answer was right, defend it. If I make a good point, update your thinking and tell me why. I want a thinking partner, not a yes machine.\nIf my plan has a flaw, tell me before I execute it. If my reasoning is weak, say so directly. I\u2019d rather hear a hard truth in the conversation than discover the problem after I\u2019ve built on top of it.\nI\u2019m deeply familiar with Meta ads, GHL, funnels, and direct response frameworks. Don\u2019t over-explain basics. Assume I know the fundamentals and start from there.",
+          "citations": []
+        }
+      ],
+      "sender": "human",
+      "created_at": "2026-03-13T19:06:47.681961Z",
+      "updated_at": "2026-03-13T19:06:47.681961Z",
+      "attachments": [],
+      "files": [],
+      "parent_message_uuid": "00000000-0000-4000-8000-000000000000"
+    },
+    {
+      "uuid": "019ce898-17c7-7764-a350-1da99e1df253",
+      "text": " Done. Your custom instructions are locked in.\n\nTwo things I'd tighten:\n\n**1. The \"2 weakest parts\" instruction is solid, but it'll occasionally feel forced on short outputs.** You might want to add a threshold: \"on outputs over X lines\" or \"on strategic/copy work.\" Otherwise I'm flagging weaknesses on a three-sentence answer, which adds noise.\n\n**2. \"Write the way a sharp human thinks out loud\" is directionally right but slightly vague as an instruction.** The stronger version names the register more precisely: \"Conversational but never casual. Short sentences. No hedging. Write like you're across the table from someone who will call out fluff.\" That gives a clearer target.\n\nEverything else is strong. The \"defend your position / update with reasoning\" framing is exactly how good collaboration works and I'll hold to it.",
+      "content": [
+        {
+          "start_timestamp": "2026-03-13T19:06:48.658896Z",
+          "stop_timestamp": "2026-03-13T19:06:54.067073Z",
+          "flags": null,
+          "type": "text",
+          "text": " Done. Your custom instructions are locked in.\n\nTwo things I'd tighten:\n\n**1. The \"2 weakest parts\" instruction is solid, but it'll occasionally feel forced on short outputs.** You might want to add a threshold: \"on outputs over X lines\" or \"on strategic/copy work.\" Otherwise I'm flagging weaknesses on a three-sentence answer, which adds noise.\n\n**2. \"Write the way a sharp human thinks out loud\" is directionally right but slightly vague as an instruction.** The stronger version names the register more precisely: \"Conversational but never casual. Short sentences. No hedging. Write like you're across the table from someone who will call out fluff.\" That gives a clearer target.\n\nEverything else is strong. The \"defend your position / update with reasoning\" framing is exactly how good collaboration works and I'll hold to it.",
+          "citations": []
+        }
+      ],
+      "sender": "assistant",
+      "created_at": "2026-03-13T19:06:54.102526Z",
+      "updated_at": "2026-03-13T19:06:54.102526Z",
+      "attachments": [],
+      "files": [],
+      "parent_message_uuid": "019ce898-17c7-7764-a350-1da80ed301c0"
+    }
+  ]
+}

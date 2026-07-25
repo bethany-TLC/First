@@ -1,0 +1,301 @@
+{
+  "uuid": "82963608-1c9e-4731-add5-e70dcad4d87e",
+  "name": "Registering multiple attendees on Pheedloop",
+  "summary": "**Conversation Overview**\n\nThe user requested a brief explanation of how to register multiple attendees for a Pheedloop.com event. Claude conducted a web search to gather current information about Pheedloop's registration capabilities and provided a comprehensive explanation of the available options. The response covered two main registration methods: group registration where one person can purchase tickets for multiple attendees if enabled by the event organizer, and individual registration where each person registers separately. Claude detailed the specific requirements for group registration, including the need for unique email addresses for each attendee and the type of information required during the registration process. The explanation also clarified that group registration availability depends on how event organizers configure their registration categories, and suggested contacting organizers directly if users are uncertain about available options. This appears to be a straightforward informational request where the user needed practical guidance for event registration processes.",
+  "created_at": "2026-02-06T16:35:47.460563Z",
+  "updated_at": "2026-02-06T16:36:00.763768Z",
+  "account": {
+    "uuid": "77640551-a06d-46fc-9d08-24881424ac1f"
+  },
+  "chat_messages": [
+    {
+      "uuid": "019c33cf-47e8-7092-a7c1-cb361bf75958",
+      "text": "Can you give me. A brief explanation of how to register multiple attendees for a pheedloop.com event",
+      "content": [
+        {
+          "start_timestamp": "2026-02-06T16:35:48.359281Z",
+          "stop_timestamp": "2026-02-06T16:35:48.359281Z",
+          "flags": null,
+          "type": "text",
+          "text": "Can you give me. A brief explanation of how to register multiple attendees for a pheedloop.com event",
+          "citations": []
+        }
+      ],
+      "sender": "human",
+      "created_at": "2026-02-06T16:35:48.376299Z",
+      "updated_at": "2026-02-06T16:35:48.376299Z",
+      "attachments": [],
+      "files": [],
+      "parent_message_uuid": "00000000-0000-4000-8000-000000000000"
+    },
+    {
+      "uuid": "019c33cf-47e8-7092-a7c1-cb37a1141e2a",
+      "text": " I'll search for information about registering multiple attendees for Pheedloop events.\n```\nThis block is not supported on your current device yet.\n```\n\nBased on the search results, here's how to register multiple attendees for a Pheedloop event:\n\n**Group Registration (One Person Buying for Multiple People):**\n\nIf the event organizer has enabled group registration, one person can purchase tickets for multiple attendees. Here's how it works:\n\n1. During registration, select the number of tickets you want to purchase\n2. You'll need to provide unique information for each attendee, including:\n   - First name\n   - Last name  \n   - Email address (must be unique for each person)\n3. Complete the payment for all tickets in one transaction\n\n**Important notes:**\n- Each attendee must have a unique email address\n- The purchaser will appear in the registration records, but all ticket holders will appear in the attendees list\n- Both the purchaser and all attendees they registered will receive access to the event\n- This option is only available if the event organizer has configured \"Ticketed (Group)\" registration for that event\n\n**Individual Registration:**\nIf group registration isn't enabled, each person must register separately for the event using their own email address.\n\nThe availability of group registration depends entirely on how the event organizer has set up their registration categories, so if you're unsure, check the registration page or contact the event organizer directly.",
+      "content": [
+        {
+          "start_timestamp": "2026-02-06T16:35:49.553008Z",
+          "stop_timestamp": "2026-02-06T16:35:49.878075Z",
+          "flags": null,
+          "type": "text",
+          "text": " I'll search for information about registering multiple attendees for Pheedloop events.",
+          "citations": []
+        },
+        {
+          "start_timestamp": "2026-02-06T16:35:50.000948Z",
+          "stop_timestamp": "2026-02-06T16:35:50.179551Z",
+          "flags": null,
+          "type": "tool_use",
+          "id": "toolu_01XQRyyQ8jHFfP5qNEr6UM8t",
+          "name": "web_search",
+          "input": {
+            "query": "Pheedloop register multiple attendees"
+          },
+          "message": "Searching the web",
+          "integration_name": null,
+          "integration_icon_url": null,
+          "tool_identifier": null,
+          "icon_name": null,
+          "context": null,
+          "display_content": null,
+          "approval_options": null,
+          "approval_key": null,
+          "approval_key_legacy": null,
+          "is_mcp_app": null,
+          "hidden_in_chat": null,
+          "mcp_server_url": null
+        },
+        {
+          "start_timestamp": null,
+          "stop_timestamp": null,
+          "flags": null,
+          "type": "tool_result",
+          "tool_use_id": "toolu_01XQRyyQ8jHFfP5qNEr6UM8t",
+          "name": "web_search",
+          "content": [
+            {
+              "type": "knowledge",
+              "title": "How can I configure group registration so that one registrant can purchase tickets for multiple people? - Resources",
+              "url": "https://support.pheedloop.com/article/944-group-registration-multiple-people",
+              "metadata": {
+                "type": "webpage_metadata",
+                "site_domain": "pheedloop.com",
+                "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=pheedloop.com",
+                "site_name": "Pheedloop"
+              },
+              "is_missing": false,
+              "text": "Please note, group registration is not possible for No Ticket categories. Attendees will need to register for the event individually if the Category Type is No Ticket. Step 1: Enabling Ticketed (Group) and Group Details ... The first step is to ensure the registration category is listed as ...\n\nA common inquiry from event organizers is configuring registration to allow one registrant to purchase tickets for other attendees as a group, also referred to\n\nOnce you are done configuring registration on your Event Website, we recommend conducting a test registration to ensure everything is working properly. From the Event Dashboard, navigate to Event Portals > Event Website ... If you have entered the same email for more than one ticket, you should see an error message reading, \u201cPlease enter a unique email address for each attendee purchasing.\u201d \u00b7 This error message will confirm Group Registration is working as intended. Setting up group registration is a straightforward process that ensures attendees can purchase tickets on behalf of others seamlessly. By following the outlined steps\u2014enabling Ticketed (Group), requiring group details, understanding the registration flow, and testing the setup\u2014you can configure your event registration to accommodate group purchases efficiently. Did this answer your question?",
+              "is_citable": true,
+              "prompt_context_metadata": {
+                "url": "https://support.pheedloop.com/article/944-group-registration-multiple-people",
+                "search_provider": "anthropic"
+              },
+              "links": null
+            },
+            {
+              "type": "knowledge",
+              "title": "Hybrid, In-Person & Virtual Event Software | PheedLoop",
+              "url": "https://pheedloop.com",
+              "metadata": {
+                "type": "webpage_metadata",
+                "site_domain": "pheedloop.com",
+                "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=pheedloop.com",
+                "site_name": "Pheedloop"
+              },
+              "is_missing": false,
+              "text": "All-in-one event software for on-site, hybrid, and virtual events with registration, mobile apps, streaming, badges, and more.\n\nAttendees expect more than webinars when attending virtual events. Trust PheedLoop to offer the tools for you to drive engagement and leave virtual attendees hungry for more. ... Welcoming virtual and on-site attendees to your event does not mean you need to use multiple platforms. Do more with less on PheedLoop! ... From gamification to advanced analytical tools, PheedLoop equips event planners with the power and confidence to host successful events and unforgettable attendee experience. From gamification to advanced analytical tools, PheedLoop equips event planners with the power and confidence to make unforgettable events. ... A highly customizable event website with embeddable widgets, tailored designs, pre-built section templates, full CSS and Javascript support. ... The PheedLoop Go! Mobile App is the solution for all your event app needs. It goes beyond the basics and syncs with your PheedLoop data in real-time.\n\nPheedLoop enables you to make every attendee interaction feel tailored to them with the ability to personalize event badges based on different audiences. ... PheedLoop offers six core solutions that are built for all stages of event planning. Tap into your true potential with a single integrated platform designed for large-scale collaboration. ... PheedLoop is a feature-rich platform, providing you with comprehensive tools, helping to make your event succeed. We strive to simplify the event management process without compromising the quality of your event. ... Save time and deliver more value to your association members by simplifying tedious planning and automating manual tasks - all in one place! From engaging members to ensuring data security, we've got you covered. ... PheedLoop bridges the gap between online and on-site experiences for event planners and attendees alike.\n\nOur deeply integrated platform enables you to build, manage, and connect with your attendees anytime, anywhere. Plus, we support all available timezones and over 14 languages, giving you the freedom to connect with your community globally. ... PheedLoop's LMS and CE Credit Tracking System is a comprehensive learning management system for all members of your organization. From motivating learners, to creating or curating and even monetizing course content, our Learning Management Solution unlocks the potential of your educational programming. ... PheedLoop's dedicated housing solution is here to support you with setting up, managing, monitoring, and delivering hotels and housing as required. Work smarter, not harder! ... Whether you are a startup or an educational institution, there are no limits to creating amazing results on our platform. Explore how we work with different organizations to redefine the events industry.\n\nSign up for the In The Loop Newsletter below for the latest and greatest from PheedLoop! Thank you! Your submission has been received!",
+              "is_citable": true,
+              "prompt_context_metadata": {
+                "url": "https://pheedloop.com",
+                "search_provider": "anthropic"
+              },
+              "links": null
+            },
+            {
+              "type": "knowledge",
+              "title": "Registration FAQs and Troubleshooting - PheedLoop Knowledge Base",
+              "url": "https://support.pheedloop.com/article/464-registration-faqs-and-troubleshooting",
+              "metadata": {
+                "type": "webpage_metadata",
+                "site_domain": "pheedloop.com",
+                "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=pheedloop.com",
+                "site_name": "Pheedloop"
+              },
+              "is_missing": false,
+              "text": "Currently, PheedLoop does not support custom registration categories. Categories do not affect functionality directly, but they do allow you to create separate registration flows. The built-in categories are Attendee, Speaker, Sponsor, and Exhibitor. You do have the option to sub-categorize ...\n\nIf you registered on PheedLoop and bought a ticket for yourself and a colleague, only you would show up in the registration section of PheedLoop. This makes sense because you are the one that created that financial transaction. On the other hand, you and your colleague will both show up in the attendees section of PheedLoop. Additionally, anyone who has been added or accepted as a speaker/exhibitor/sponsor will show up in the attendees section of PheedLoop. Currently, PheedLoop does not support custom registration categories. Categories do not affect functionality directly, but they do allow you to create separate registration flows. The built-in categories are Attendee, Speaker, Sponsor, and Exhibitor. You do have the option to sub-categorize tickets within one of the built-in categories, by creating and assigning sub-categories within a ticket's editing area found under the Registration module in your dashboard.\n\nThere are a few ways to do this, depending on what you want attendees to see once registration is complete: Change all your tickets to de-activated (hides all tickets) Set end dates on all your tickets which correspond to the end date for your registration overall (shows them, but makes them inaccessible) Hide the website page entirely under the Event Website module in your dashboard (keep in mind that you'll want to de-activate tickets as well because hiding a page does not make it inaccessible directly) Seeing a lot of in progress registrations or orders can seem concerning at first glance, but it's actually hugely beneficial. A big goal of PheedLoop as a platform is to help you more intelligently plan and execute events. Many registration systems don't capture what we call buyer intent (i.e. the intention of people wanting to do something, for example registering for your event).\n\nHowever, if your accounting requirements demand an export of your finanial information on a per Ticket level, there is a way to achieve this by simply restricting the number of Tickets a registrant can purchase in any given Order to one. This way, there will always be a precise, one-to-one relationship between an individual Ticket being purchaed and the individual financial record it creates. You can make this adjustment in an individual Ticket's settings, and the global Registration settings for your event. PheedLoop doesn't actually have control over a bank's decision to approve or deny card payments, so the best thing to do if you're certain that the error message attendees are receiving is due to the card being declined (always helpful to actually ask someone who's struggling for a screenshot, as the real issue often turns out to be something different), check Stripe.\n\nDifference Between Registrations and Profiles/Attendees/Users? Note: The terms \"Profile\", \"User\", and \"Attendee\" are used interchangably in PheedLoop Registrati",
+              "is_citable": true,
+              "prompt_context_metadata": {
+                "url": "https://support.pheedloop.com/article/464-registration-faqs-and-troubleshooting",
+                "search_provider": "anthropic"
+              },
+              "links": null
+            },
+            {
+              "type": "knowledge",
+              "title": "Customizable, Sales Optimized, Easy Setup Event Registration",
+              "url": "https://pheedloop.com/products/event-registration",
+              "metadata": {
+                "type": "webpage_metadata",
+                "site_domain": "pheedloop.com",
+                "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=pheedloop.com",
+                "site_name": "Pheedloop"
+              },
+              "is_missing": false,
+              "text": "Yes! Printing badges for registered attendees is easy and customizable, and you can check attendees into your event by scanning their ticket documents from the event app itself or using our self check-in kiosk systems. We provide badge stock at the lowest rates in the industry, as well as on-site support. Which payments gateways are supported for event registrations? PheedLoop supports Stripe by default. Enterprise accounts may get access to other gateways such as Payflow Pro, Moneris, or others. Does your registration system provide member only restrictions? Absolutely, you can restrict attendance in several ways for certain groups of people, commonly used by associations to allow only members to register or purchase member only tickets. Input lists of membership codes, sync with your external database tools to set membership flags, track member codes, and more.\n\nPheedLoop is more than a simple registration system. We take a data-driven approach to automate and optimize your sales process. Our comprehensive platform helps you sell tickets to even the most reluctant attendees by tracking leads and automating follow-up. ... Plus, the registration system is synced with all your event portals. From your event app, which allows attendees to manage their tickets, check-in, and view their badges, to the virtual event portal, allowing for access to privileged content depending on their tickets. More than 2,000 Canadian organizations, including Shopify, Government of Canada, University of Toronto, and MaRS Discovery District, have adopted PheedLoop to take their events to new heights. ... Ready to take your partnership with PheedLoop to the next level? Our In The Loop booklet is your go-to resource for everything you need to know \u2014 from onboarding and support to co-marketing perks and growth opportunities.\n\nPheedLoop does not hold any funds or financial information. Your funds are routed to your payment gateway of choice instantly upon capturing payments. Can attendees build their own schedules while registering? Yes! Enable the option to allow session selection and set session capacities if applicable - that's it. Attendees can edit their selections via the web/mobile event app, event website, or virtual event portal at any time. Do I have to use PheedLoop's registration system to use its other systems? No, if you're already using another tool or are in a contract, then all you need to do is import your data into PheedLoop using our attendee import tool. You can do this as often as you like, for free, and even use our API or Zapier to sync attendee records with other systems you use outside of PheedLoop. You can export all attendee information any time you like, as well.\n\nYes! Printing badges for registered attendees is easy and customizable, and you can check attendees into your event by scanning their ticket documents from the event app itself or using our self check-in kiosk systems. We provide badge stock at the lowest rates in the industry, as well as on-site support. Which payments gateways are supported for event registrations? PheedLoop supports Stripe by default. Enterprise accounts may get access to other gateways such as Payflow Pro, Moneris, or others. Does your registration system provide member only restrictions? Absolutely, you can restrict attendance in several ways for certain groups of people, commonly used by associations to allow only members to register or purchase member only tickets. Input lists of membership codes, sync with your external database tools to set membership flags, track member codes, and more.\n\nDoes PheedLoop charge any transaction fees for registrations? A 1.9% transaction fee is added to credit card ticket sales. You do not need to budget for this fee - only your payment processor's fees, as it is passed on to the attendee by default. The fee can be absorbed by you, or split between yourself and the registrant in any way. No fees are charged for free tickets. ... By default, PheedLoop automatically sends invoices and receipts, and you can re-send them at any time. These dynamic PDF documents also include QR coded tickets which can be used to check people into your event via our mobile check-in systems. The emails and PDFs can be customized. Sign up for the In The Loop Newsletter below for the latest and greatest from PheedLoop! Thank you! Your submission has been received!",
+              "is_citable": true,
+              "prompt_context_metadata": {
+                "url": "https://pheedloop.com/products/event-registration",
+                "search_provider": "anthropic"
+              },
+              "links": null
+            },
+            {
+              "type": "knowledge",
+              "title": "Inviting Attendees to Your Virtual Event - PheedLoop Knowledge Base",
+              "url": "https://support.pheedloop.com/article/625-inviting-attendees-to-your-virtual-event",
+              "metadata": {
+                "type": "webpage_metadata",
+                "site_domain": "pheedloop.com",
+                "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=pheedloop.com",
+                "site_name": "Pheedloop"
+              },
+              "is_missing": false,
+              "text": "Select an attendee (or multiple) you would like to invite from the list \u00b7 Above the attendee table, select Actions &gt; Email &gt; Virtual Event Welcome \u00b7 This email is in Communications &gt; Email Templates, it is titled Virtual Event Welcome. Make sure to toggle on the Enable Call-To-Action Button ...\n\nSelect an attendee (or multiple) you would like to invite from the list \u00b7 Above the attendee table, select Actions > Email > Virtual Event Welcome \u00b7 This email is in Communications > Email Templates, it is titled Virtual Event Welcome. Make sure to toggle on the Enable Call-To-Action Button checkbox and the Include Login Credentials checkbox. Toggling on the Enable Call-To-Action Button checkbox will contain a magic link for the attendee to login instantly to the Virtual Event Portal. Will my attendees get access to the virtual portal automatically if using PheedLoop's registration system? If you are using PheedLoop's registration, your ticket holders will automatically receive a link to the virtual portal in the Registration Confirmation email. You can disable this link in this email by navigating to Communications > Email Templates > Registration Confirmation Email > toggle off the Enable Call to Action Button checkbox.\n\nAfter you have created your Virtual Event Portal and are ready to bring in your Attendees, it\u2019s time to invite them. We recommend inviting people a few days before the event as a best practice! There are a few ways to invite Attendees and a plethora of customization features to create the invitation just the way you want it. Creating a custom announcement gives you the greatest level of control and insight into the formatting and performance of your email invitations. From the Event Dashboard, navigate to Communications > Announcements ... Title Represents the email subject line. Description represents the email body. Above the Description text box, select Insert Token > Magic Login Button \u00b7 The Magic Login Button token is a direct link to their Virtual Event Portal. You can edit the name of the button by replacing \u201cVisit Virtual Portal\u201d with your own replaced text in between the token code.",
+              "is_citable": true,
+              "prompt_context_metadata": {
+                "url": "https://support.pheedloop.com/article/625-inviting-attendees-to-your-virtual-event",
+                "search_provider": "anthropic"
+              },
+              "links": null
+            },
+            {
+              "type": "knowledge",
+              "title": "How to use PheedLoop Go! as an Attendee - Resources",
+              "url": "https://support.pheedloop.com/article/791-how-to-use-pheedloop-go-as-an-attendee",
+              "metadata": {
+                "type": "webpage_metadata",
+                "site_domain": "pheedloop.com",
+                "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=pheedloop.com",
+                "site_name": "Pheedloop"
+              },
+              "is_missing": false,
+              "text": "Attendees can register for sessions and check themselves in if this has been set up by Event Administrators. If Event Administrators have disabled this, then the session page will not have these features. The Attendees page will display all Attendees attending the event. If an Attendee has Allow my profile to be publicly visible toggled off then their profile will not be visible in this page. The Speakers page will display all Speakers for your event, including the sessions they will be speaking at. Event Administrators can hide Speakers and prevent them from appearing in the Event App if needed. The Exhibitors page will display all Exhibitors for your event. The Event Administrator can choose to hide select exhibitors if necessary. There are multiple settings Attendees can configure for their profiles, including the option to opt out of certain features.\n\nPheedLoop supports one time password logins through email for PheedLoop Go! With this feature, attendees can simply send a code to their email and enter the corresponding code to login. Please note, this feature is only available to users who have created a PheedLoop account. It is not possible to use this feature to create new accounts. From your mobile device, open PheedLoop Go! ... Copy and paste the code into PheedLoop Go! If successful, you will be taken to the Event Selection page where you can open the event you have registered for. We suggest checking your email for your account to ensure you have logged in with the correct email address. If you have logged in but cannot see your event, please reach out to your Event Organizer to confirm your email address has been added as an attendee. If you are experiencing the we could not find an account with that email address error message and you are certain you have created a PheedLoop account, reach out to the event administrators for\n\nThe most common explanation is that the email address entered during registration is different from the one you are trying to login with or spelt incorrectly. Event administrators change the email for your registration, and once corrected, you will be able to login through one time password. While PheedLoop Go! supports one time password by default, attendees can still login with their password if preferred. From your mobile device, open PheedLoop Go! On the login page select sign in with a password instead ... If successful, you will be taken to the Event Selection page where you can open the event you have registered for. We suggest checking your email for your account to ensure you have logged in with the correct email address. If you have logged in but cannot see your event, please reach out to your Event Organizer to confirm your email address has been added as an attendee.\n\nWhen an organization decides to incorporate PheedLoop Go! into their event, Attendees will have access to the app. Using PheedLoop Go! is necessary for many fea\n\nLinkedIn URL - Add an URL for your LinkedIn profile under this field. If added, a LinkedIn icon will be visible under your attendee profile. Twitter URL - Add an URL for your Twitter profile under this field. If added, a Twitter icon will be visible under your attendee profile. Website URL - Add an URL for your personal website under this field. If added, a mouse icon will be visible under your attendee profile. Allow my profile to be publicly visible - Toggle this setting on to mark your profile as visible. If toggled off, your profile will be hidden in the Attendees page. Please note, your profile will need to be marked as visible in order to use certain features such as messaging and meeting booking. Allow other attendees to message me - Toggle this setting on to allow attendees to message you. Allow private messages notifications - Toggle this setting on to allow notifications when an attendee messages you.",
+              "is_citable": true,
+              "prompt_context_metadata": {
+                "url": "https://support.pheedloop.com/article/791-how-to-use-pheedloop-go-as-an-attendee",
+                "search_provider": "anthropic"
+              },
+              "links": null
+            },
+            {
+              "type": "knowledge",
+              "title": "OnSite Handout for PheedLoop Staff - Resources",
+              "url": "https://support.pheedloop.com/article/1184-onsite-handout-for-pheedloop-staff",
+              "metadata": {
+                "type": "webpage_metadata",
+                "site_domain": "pheedloop.com",
+                "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=pheedloop.com",
+                "site_name": "Pheedloop"
+              },
+              "is_missing": false,
+              "text": "If you would like to send this announcement out multiple times, toggle on Allow Multiple Deliveries. ... Now that your announcement has been created, send it out by selecting the checkbox of the announcement and selecting Actions &gt; Send Bulk Announcement. If you wish to send the announcement ...\n\nThe attendee should provide some proof of purchase like a receipt which contains a Registration Code (e.g. REGGWCCUGFU). Searching this code should pull up the relevant order. ... Fill out the First Name, Last Name, and Email Address for the new attendee under their respective field ... Under Delivery, select Email Notifications Enabled to send this announcement over email and/or Push Notifications Enabled to send this announcement via PheedLoop Go! If you would like to send this announcement out multiple times, toggle on Allow Multiple Deliveries. ... Now that your announcement has been created, send it out by selecting the checkbox of the announcement and selecting Actions > Send Bulk Announcement. If you wish to send the announcement out to only one attendee, please select Actions > Send Single Announcement. The number of attendees that have checked in is displayed in the Event Dashboard by navigating to General > Event Pulse.\n\nAn attendee\u2019s event schedule can be found on PheedLoop Go! in the Schedule page. Alternatively, the Event Schedule can also be found on the Event Website. If attendees are unable to book meetings, this is likely because Enable Meeting Booking is not enabled in the Event Dashboard. This setting can be found by navigating to Meetings > Settings. When the QR code on a badge is scanned, this information is registered on the app. The app will then include the attendee in the corresponding action. For example, if the QR code is scanned for session check in, the attendee will be checked into the session. Only scan badge QR codes with PheedLoop OnSite. The app uses your phone\u2019s camera to scan QR codes and will need your device's permission to do so. Do not use the phone camera directly to scan QR codes as this method will not work. By default, managers will receive an email notification whenever lead retrieval is used successfully.\n\nThis is article is meant for OnSite Staff from PheedLoop as part of their OnSite Support agreement. It covers common scenarios that may happen during the event.\n\nAny changes can be made in the Event Dashboard within the Badge Label Designer. If the Event has multiple badge designs, please ensure you are editing the correct one. In most cases, you will only be required to move the text fields around in the editor to reposition the print on the badge. No, it is not possible to change the color of attendee information. There is an Info button on the Check-In page of PheedLoop OnSite. This can be removed by disabling Show Check-In Information in the Event Dashboard under OnSite > Settings under the Check In section. Once you select Save Changes, the info icon should be removed. No, PheedLoop OnSite can function properly with only 1 iPad. However, we recommend using both iPads to help reduce wait times for attendees to get their badges. Sponsor logos can be changed in the Event Dashboard. From the Event Dashboard, navigate to Sponsors > Sponsors ...",
+              "is_citable": true,
+              "prompt_context_metadata": {
+                "url": "https://support.pheedloop.com/article/1184-onsite-handout-for-pheedloop-staff",
+                "search_provider": "anthropic"
+              },
+              "links": null
+            },
+            {
+              "type": "knowledge",
+              "title": "Smart Virtual Event Tools: Mobile Portal & Real-Time Networking",
+              "url": "https://pheedloop.com/products/virtual-events",
+              "metadata": {
+                "type": "webpage_metadata",
+                "site_domain": "pheedloop.com",
+                "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=pheedloop.com",
+                "site_name": "Pheedloop"
+              },
+              "is_missing": false,
+              "text": "How many attendees can simultaneously participate a virtual event? There are no limits on the number of attendees participating in your virtual event. On the streaming and sessions side of the virtual experience, your choice of integration may affect this. For prerecorded video uploads or our ...\n\nEnable individual attendees or groups to communicate securely over video calls using PheedLoop's built-in meeting system \u00b7 Unlock advanced features such as gamification, meeting booking, push notifications, file sharing, social media links, and more ... PheedLoop is far more than just a virtual event platform. Whether you're planning to go hybrid or fully virtual, you get access to PheedLoop's powerful EMS and event experts. Access full event registration, payment processing, check-in, embeddable widgets, and registration reminders \u00b7 Leverage mobile (iOS/Android) and web event app with gamification, polls, meeting booking, wireless badge printing, and push notifications \u00b7 Utilize event websites, call for abstracts, physical and virtual floor plans, and portals for speakers, sponsors, exhibitors and attendees ... More than 2,000 Canadian organizations, including Shopify, Government of Canada, University of Toronto, and MaRS Discovery District, have adopted PheedLoop to take their events\n\nOnce you've opted for PheedLoop to power your virtual event, you'll immediately get a set of resources, an account, and an account manager who will help you every step of the way. All you need to do is set up your event's content, design, and registration (or import attendees). This all usually takes a few days of work at most. How many attendees can simultaneously participate a virtual event? There are no limits on the number of attendees participating in your virtual event. On the streaming and sessions side of the virtual experience, your choice of integration may affect this. For prerecorded video uploads or our native RTMP, there are also no limits. No limits for networking or exhibit halls either. Do attendees have to download anything to access the virtual event platform? The virtual event experience is built for the web, so no one needs to download anything, ever.\n\nPheedLoop's virtual event solution is designed to be super affordable, so it can cost as low as $1 per attendee. The per attendee price changes depending on your number of attendees and on which modules you're looking for between virtual sessions, exhibit halls, networking, and registration. What makes PheedLoop's virtual event solution different? PheedLoop's virtual event solution is a product built from the ground up to support countless real-time, social, and face-to-face features that make events truly meaningful. Many platforms simplify virtual events to live streaming retrofitted in an event app. PheedLoop is designed for events aiming for more than streaming. Sign up for the In The Loop Newsletter below for the latest and greatest from PheedLoop! Thank you! Your submission has been received!\n\nGo beyond webinars and step into the future with a powerful and affordable virtual event solution for conferences, trade shows, academic meetings, and more.",
+              "is_citable": true,
+              "prompt_context_metadata": {
+                "url": "https://pheedloop.com/products/virtual-events",
+                "search_provider": "anthropic"
+              },
+              "links": null
+            },
+            {
+              "type": "knowledge",
+              "title": "PheedLoop Event FAQ - CPHR Manitoba",
+              "url": "https://www.cphrmb.ca/page/PLFAQ",
+              "metadata": {
+                "type": "webpage_metadata",
+                "site_domain": "cphrmb.ca",
+                "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=cphrmb.ca",
+                "site_name": "Cphrmb"
+              },
+              "is_missing": false,
+              "text": "We have developed a list of anticipated Frequently Asked Questions (FAQ) that may be encountered by you, as an attendee, sponsor or exhibitor of one of our virtual events using the PheedLoop platform. Please note: This FAQ covers in-person events (like our annual conference) AND virtual only events. If you are unable to find an answer to your question, please contact events@cphrmb.ca \u00b7 I have registered, how do I access the virtual event? You will receive an email from \u201cEVENT NAME\u201d with sender\u2019s email address: no-reply@pheedloop.com approximately one week in advance of the event with a link to the virtual event and your login credentials to access the virtual event platform",
+              "is_citable": true,
+              "prompt_context_metadata": {
+                "url": "https://www.cphrmb.ca/page/PLFAQ",
+                "search_provider": "anthropic"
+              },
+              "links": null
+            },
+            {
+              "type": "knowledge",
+              "title": "Training Attendees for Your Virtual Event - Resources",
+              "url": "https://support.pheedloop.com/article/488-training-attendees-for-your-virtual-event",
+              "metadata": {
+                "type": "webpage_metadata",
+                "site_domain": "pheedloop.com",
+                "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=pheedloop.com",
+                "site_name": "Pheedloop"
+              },
+              "is_missing": false,
+              "text": "There&#x27;s a lot that goes into putting together a successful virtual event, especially with a platform that has as many features as PheedLoop does. This is why we&#x27;ve put together a detailed tutorial video for your attendees to view in preparation for the event. ... Did this answer your question? Thanks for the feedback There was a problem submitting your feedback.\n\nThere's a lot that goes into putting together a successful virtual event, especially with a platform that has as many features as PheedLoop does. This is why we've put together a detailed tutorial video for your attendees to view in preparation for the event. ... Did this answer your question? Thanks for the feedback There was a problem submitting your feedback.",
+              "is_citable": true,
+              "prompt_context_metadata": {
+                "url": "https://support.pheedloop.com/article/488-training-attendees-for-your-virtual-event",
+                "search_provider": "anthropic"
+              },
+              "links": null
+            }
+          ],
+          "is_error": false,
+          "structured_content": null,
+          "meta": null,
+          "message": null,
+          "integration_name": null,
+          "mcp_server_url": null,
+          "integration_icon_url": null,
+          "icon_name": null,
+          "display_content": null,
+          "hidden_in_chat": null
+        },
+        {
+          "start_timestamp": null,
+          "stop_timestamp": null,
+          "flags": null,
+          "type": "token_budget",
+          "remaining": null
+        },
+        {
+          "start_timestamp": "2026-02-06T16:35:52.378107Z",
+          "stop_timestamp": "2026-02-06T16:35:59.271813Z",
+          "flags": null,
+          "type": "text",
+          "text": "Based on the search results, here's how to register multiple attendees for a Pheedloop event:\n\n**Group Registration (One Person Buying for Multiple People):**\n\nIf the event organizer has enabled group registration, one person can purchase tickets for multiple attendees. Here's how it works:\n\n1. During registration, select the number of tickets you want to purchase\n2. You'll need to provide unique information for each attendee, including:\n   - First name\n   - Last name  \n   - Email address (must be unique for each person)\n3. Complete the payment for all tickets in one transaction\n\n**Important notes:**\n- Each attendee must have a unique email address\n- The purchaser will appear in the registration records, but all ticket holders will appear in the attendees list\n- Both the purchaser and all attendees they registered will receive access to the event\n- This option is only available if the event organizer has configured \"Ticketed (Group)\" registration for that event\n\n**Individual Registration:**\nIf group registration isn't enabled, each person must register separately for the event using their own email address.\n\nThe availability of group registration depends entirely on how the event organizer has set up their registration categories, so if you're unsure, check the registration page or contact the event organizer directly.",
+          "citations": []
+        }
+      ],
+      "sender": "assistant",
+      "created_at": "2026-02-06T16:35:59.354826Z",
+      "updated_at": "2026-02-06T16:35:59.354826Z",
+      "attachments": [],
+      "files": [],
+      "parent_message_uuid": "019c33cf-47e8-7092-a7c1-cb361bf75958"
+    }
+  ]
+}
