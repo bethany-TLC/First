@@ -1,0 +1,147 @@
+{
+  "conversation_id": "69fc7b69-17f0-83ea-bd9c-4e1b9ded8509",
+  "conversation_template_id": null,
+  "create_time": 1778154363.380061,
+  "current_node": "147d43d7-44e2-4e92-89f4-eddf47535c02",
+  "default_model_slug": "gpt-5-5",
+  "id": "69fc7b69-17f0-83ea-bd9c-4e1b9ded8509",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "147d43d7-44e2-4e92-89f4-eddf47535c02": {
+      "id": "147d43d7-44e2-4e92-89f4-eddf47535c02",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "- **Revenue Leaks Most Med Spas Don\u2019t Realize They Have**\n- **The Revenue Leaks Quietly Hurting Growth**\n- **Hidden Revenue Leaks Costing You Clients**\n- **Where Most Med Spas Are Losing Revenue**\n- **The Revenue Leaks We See Most Often**\n- **What\u2019s Really Causing Inconsistent Revenue**\n- **Why Revenue Feels So Up And Down**\n- **The Hidden Gaps Affecting Client Retention**\n- **What\u2019s Slipping Through The Cracks In Your Med Spa**\n- **The Real Reason Growth Feels Harder Than It Should**\n- **The Silent Revenue Leaks Inside Your Practice**\n- **Most Med Spas Don\u2019t Have A Lead Problem**\n- **You Don\u2019t Need More Leads. You Need Fewer Leaks.**\n\nFor your brand specifically, I think these fit best visually + emotionally on the page:\n\n**The Revenue Leaks We See Most Often**  \nor  \n**Where Most Med Spas Are Losing Revenue**  \nor  \n**You Don\u2019t Need More Leads. You Need Fewer Leaks.**"
+          ]
+        },
+        "create_time": 1778154398.627911,
+        "id": "147d43d7-44e2-4e92-89f4-eddf47535c02",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "bbb21d75-a9c4-447c-bbe4-a7c143e6395c"
+        }
+      },
+      "parent": "bbb21d75-a9c4-447c-bbe4-a7c143e6395c"
+    },
+    "3ea5fc6e-7448-4cb7-9c83-ce153adfc06f": {
+      "id": "3ea5fc6e-7448-4cb7-9c83-ce153adfc06f",
+      "message": null,
+      "parent": null
+    },
+    "bbb219e3-9088-462a-9c3d-17daba64e5e2": {
+      "id": "bbb219e3-9088-462a-9c3d-17daba64e5e2",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_00000000b630720cb9caf70f8b2214a4",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 2244,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 152741,
+              "width": 1008
+            },
+            "Help me fix title verbage : 3 leaks found "
+          ]
+        },
+        "create_time": 1778154363.074049,
+        "id": "bbb219e3-9088-462a-9c3d-17daba64e5e2",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_00000000b630720cb9caf70f8b2214a4",
+              "mime_type": "image/png",
+              "name": "file_00000000b630720cb9caf70f8b2214a4",
+              "size": 152741
+            }
+          ],
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "3ea5fc6e-7448-4cb7-9c83-ce153adfc06f"
+    },
+    "bbb21d75-a9c4-447c-bbe4-a7c143e6395c": {
+      "id": "bbb21d75-a9c4-447c-bbe4-a7c143e6395c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Take out 3... Make it more generric"
+          ]
+        },
+        "create_time": 1778154398.463006,
+        "id": "bbb21d75-a9c4-447c-bbe4-a7c143e6395c",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "c773d2f2-f635-4eae-a760-f24347aae77e"
+    },
+    "c773d2f2-f635-4eae-a760-f24347aae77e": {
+      "id": "c773d2f2-f635-4eae-a760-f24347aae77e",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here are some stronger options that feel more luxury med spa owner focused, less harsh/robotic, and more emotionally connected:\n\n### Best Options\n- **3 Revenue Leaks We Find Most Often**\n- **The 3 Biggest Revenue Leaks We See**\n- **3 Hidden Revenue Leaks Costing You Clients**\n- **3 Revenue Leaks Quietly Hurting Growth**\n- **The 3 Leaks Keeping Med Spas Stuck**\n- **3 Reasons Revenue Feels Inconsistent**\n- **3 Revenue Leaks Most Owners Miss**\n- **The 3 Leaks We\u2019d Check First**\n- **3 Revenue Leaks We Can Spot Fast**\n- **3 Leaks We See In Almost Every Med Spa**\n\nIf you want it to feel more premium/luxury and less \u201cmarketing agency,\u201d I\u2019d lean toward:\n\n### My top recommendation for your brand:\n**The 3 Biggest Revenue Leaks We See**\n\nor\n\n**3 Revenue Leaks Most Med Spas Don\u2019t Realize They Have**\n\n\u201cFound\u201d sounds a little aggressive and almost scammy/ad-like. \u201cWe see\u201d or \u201cmost owners miss\u201d feels more consultative and trustworthy."
+          ]
+        },
+        "create_time": 1778154363.260576,
+        "id": "c773d2f2-f635-4eae-a760-f24347aae77e",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "5ec533c0-6c52-41ca-93f0-870d5b13edbd"
+        }
+      },
+      "parent": "bbb219e3-9088-462a-9c3d-17daba64e5e2"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Fixing Title Verbiage",
+  "update_time": 1778154402.660665,
+  "voice": null
+}

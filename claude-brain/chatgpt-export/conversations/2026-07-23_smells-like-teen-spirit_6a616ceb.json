@@ -1,0 +1,668 @@
+{
+  "conversation_id": "6a616ceb-7b18-83ea-98a9-14364c5ee1ac",
+  "conversation_template_id": null,
+  "create_time": 1784769794.358793,
+  "current_node": "de995303-6a9a-4edb-a4e1-49c202b94c66",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a616ceb-7b18-83ea-98a9-14364c5ee1ac",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "3e1be661-864d-45cd-8e1c-2c4fbfb49be2": {
+      "id": "3e1be661-864d-45cd-8e1c-2c4fbfb49be2",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "thoughts",
+          "source_analysis_msg_id": "615776ec-2c3e-43b5-a249-646a0c94f668",
+          "thoughts": [
+            {
+              "chunks": [],
+              "content": "",
+              "finished": true,
+              "summary": "Searching www.reddit.com"
+            }
+          ]
+        },
+        "create_time": 1784769836.190543,
+        "id": "3e1be661-864d-45cd-8e1c-2c4fbfb49be2",
+        "metadata": {
+          "model_slug": "gpt-5-5",
+          "parent_id": "7fed6454-bc7b-43af-be52-82a15427ec0f",
+          "tool_icons": [
+            "globe"
+          ]
+        }
+      },
+      "parent": "bbb21b31-01c6-41ec-b85d-6c872b010f8a"
+    },
+    "40c83889-f41c-4d99-acc8-6be38fbd3905": {
+      "id": "40c83889-f41c-4d99-acc8-6be38fbd3905",
+      "message": null,
+      "parent": null
+    },
+    "5c33d886-f7d2-4f1e-a56f-78baa0a44b00": {
+      "id": "5c33d886-f7d2-4f1e-a56f-78baa0a44b00",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content": "Worked for a few seconds",
+          "content_type": "reasoning_recap"
+        },
+        "create_time": 1784769819.113997,
+        "id": "5c33d886-f7d2-4f1e-a56f-78baa0a44b00",
+        "metadata": {
+          "model_slug": "gpt-5-5",
+          "parent_id": "d9cf313a-f077-494a-a4c1-35c99c6c9368"
+        }
+      },
+      "parent": "d9cf313a-f077-494a-a4c1-35c99c6c9368"
+    },
+    "85ce33ab-de83-42a5-b4c6-69d76763426b": {
+      "id": "85ce33ab-de83-42a5-b4c6-69d76763426b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "If you're asking **\"What is 'Smells Like Teen Spirit'?\"**, it's the iconic 1991 grunge song by **Nirvana**, written by Kurt Cobain, Krist Novoselic, and Dave Grohl. It's widely considered one of the defining songs of the 1990s and helped bring grunge into the mainstream.\n\nIf you're asking about the **Instagram account in your screenshot (wtf_nikalya)**, the profile is promoting a different song. The Russian text says:\n\n> **\"\u041f\u0420\u0415\u041c\u042c\u0415\u0420\u0410 \u041f\u0415\u0421\u041d\u0418\"** = \"Song Premiere\"  \n> **\"\u0414\u0430\u0432\u0430\u0439 \u043a\u0443\u0440\u0438\u0442\u044c \u0438 \u0446\u0435\u043b\u043e\u0432\u0430\u0442\u044c\u0441\u044f\"** = \"Let's Smoke and Kiss\"\n\nSo the featured song on that profile is **\"\u0414\u0430\u0432\u0430\u0439 \u043a\u0443\u0440\u0438\u0442\u044c \u0438 \u0446\u0435\u043b\u043e\u0432\u0430\u0442\u044c\u0441\u044f\" (\"Let's Smoke and Kiss\")**, not \"Smells Like Teen Spirit.\"\n\nIf you meant something else, such as **which song in one of their videos sounds like \"Smells Like Teen Spirit,\"** send me the specific video or a link and I'll help identify it."
+          ]
+        },
+        "create_time": 1784769794.015944,
+        "id": "85ce33ab-de83-42a5-b4c6-69d76763426b",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "cda707cc-e730-4d70-be86-b4c283969550"
+        }
+      },
+      "parent": "cda707cc-e730-4d70-be86-b4c283969550"
+    },
+    "bbb21b31-01c6-41ec-b85d-6c872b010f8a": {
+      "id": "bbb21b31-01c6-41ec-b85d-6c872b010f8a",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Full version of her cover"
+          ]
+        },
+        "create_time": 1784769833.158842,
+        "id": "bbb21b31-01c6-41ec-b85d-6c872b010f8a",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "eae8c3c1-3241-424b-92cc-4caba4a265b9"
+    },
+    "bbb21b8d-73bf-41e2-ae1d-d2b93355e5a6": {
+      "id": "bbb21b8d-73bf-41e2-ae1d-d2b93355e5a6",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_00000000ddb4822fa26509e86581d2a8",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 2244,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "mime_type": "image/png",
+              "size_bytes": 155711,
+              "width": 1008
+            },
+            "What is the smells like teen spirit song "
+          ]
+        },
+        "create_time": 1784769793.695524,
+        "id": "bbb21b8d-73bf-41e2-ae1d-d2b93355e5a6",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_00000000ddb4822fa26509e86581d2a8",
+              "mime_type": "image/png",
+              "name": "1000021381.png",
+              "size": 155711
+            }
+          ],
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "40c83889-f41c-4d99-acc8-6be38fbd3905"
+    },
+    "bbb21ece-d67a-4fdb-9b38-f71912ed5cbb": {
+      "id": "bbb21ece-d67a-4fdb-9b38-f71912ed5cbb",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "She sings a cover"
+          ]
+        },
+        "create_time": 1784769812.02707,
+        "id": "bbb21ece-d67a-4fdb-9b38-f71912ed5cbb",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "85ce33ab-de83-42a5-b4c6-69d76763426b"
+    },
+    "cda707cc-e730-4d70-be86-b4c283969550": {
+      "id": "cda707cc-e730-4d70-be86-b4c283969550",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content": "Worked for a couple of seconds",
+          "content_type": "reasoning_recap"
+        },
+        "create_time": 1784769796.00326,
+        "id": "cda707cc-e730-4d70-be86-b4c283969550",
+        "metadata": {
+          "model_slug": "gpt-5-5",
+          "parent_id": "659fa33c-4744-49c0-994a-0d87380e6031"
+        }
+      },
+      "parent": "bbb21b8d-73bf-41e2-ae1d-d2b93355e5a6"
+    },
+    "d9cf313a-f077-494a-a4c1-35c99c6c9368": {
+      "id": "d9cf313a-f077-494a-a4c1-35c99c6c9368",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "thoughts",
+          "source_analysis_msg_id": "403aad51-9521-48ac-b6a6-70c117bee3b8",
+          "thoughts": [
+            {
+              "chunks": [],
+              "content": "",
+              "finished": true,
+              "summary": "Searching arxiv.org"
+            }
+          ]
+        },
+        "create_time": 1784769819.099564,
+        "id": "d9cf313a-f077-494a-a4c1-35c99c6c9368",
+        "metadata": {
+          "model_slug": "gpt-5-5",
+          "parent_id": "d333fd17-83c5-465f-a3b1-b3d0650f796a",
+          "tool_icons": [
+            "globe"
+          ]
+        }
+      },
+      "parent": "bbb21ece-d67a-4fdb-9b38-f71912ed5cbb"
+    },
+    "de995303-6a9a-4edb-a4e1-49c202b94c66": {
+      "id": "de995303-6a9a-4edb-a4e1-49c202b94c66",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "I looked for it, but I couldn't find a released **full-length version** of Nikalya's cover of **\"Smells Like Teen Spirit.\"** It appears that only short clips/Reels of her performance are publicly available, and there isn't an official full recording on the major platforms that I could verify. \ue200cite\ue202turn0search12\ue202turn0search0\ue201\n\nIf you saw it on Instagram, it's likely one of these situations:\n- It was recorded only as a Reel and never released as a full song.\n- It was posted temporarily and later archived or deleted.\n- The full version may have been shared only on another platform (such as VK or Telegram) and isn't easily searchable.\n\nIf you can send me:\n- the **specific Reel**, or\n- the date you saw it, or\n- a screen recording,\n\nI can try to track down whether a full version exists or if someone has reposted it elsewhere."
+          ]
+        },
+        "create_time": 1784769835.24432,
+        "id": "de995303-6a9a-4edb-a4e1-49c202b94c66",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "([Wikipedia](https://en.wikipedia.org/wiki/Smells_Like_Teen_Spirit?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Wikipedia",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 12,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [
+                    {
+                      "attribution": "Know Your Meme",
+                      "pub_date": null,
+                      "snippet": "",
+                      "title": "Smells Like Teen Spirit [Bardcore] | Medieval Style Cover | Know Your Meme",
+                      "url": "https://knowyourmeme.com/videos/220545-medieval-style-cover?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Smells Like Teen Spirit",
+                  "url": "https://en.wikipedia.org/wiki/Smells_Like_Teen_Spirit?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prefix": null,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "Wikipedia",
+                  "title": "Smells Like Teen Spirit",
+                  "url": "https://en.wikipedia.org/wiki/Smells_Like_Teen_Spirit?utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "e8deeab4-ea0f-4b31-85bd-2e24f2dbf6a4",
+          "search_result_groups": [
+            {
+              "domain": "knowyourmeme.com",
+              "entries": [
+                {
+                  "attribution": "knowyourmeme.com",
+                  "snippet": "Medieval Style Cover  * * *  0  \u2605 0  0  0  26 Views \u2022 Created June 17, 2020 By Graywyck nn via YouTube nn \u2022 Updated March 23, 2023  * * *  Created By Graywyck \u2022 Updated March 23, 2023  PROTIP: Press...",
+                  "title": "Smells Like Teen Spirit [Bardcore] | Medieval Style Cover | Know Your Meme",
+                  "url": "https://knowyourmeme.com/videos/220545-medieval-style-cover?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "nme.com",
+              "entries": [
+                {
+                  "attribution": "nme.com",
+                  "snippet": "WATCH WOLF ALICE COVER NIRVANA\u2019S \u2018SMELLS LIKE TEEN SPIRIT\u2019 AT MASSIVE LONDON HOMECOMING FINSBURY PARK SHOW  Support for the huge slot came from The Last Dinner Party,\u00a0Lykke Li,\u00a0Rachel Chinouriri, Keo...",
+                  "title": "Watch Wolf Alice cover Nirvana's 'Smells Like Teen Spirit' at massive London homecoming Finsbury Park show",
+                  "url": "https://www.nme.com/news/music/watch-wolf-alice-cover-nirvanas-smells-like-teen-spirit-at-massive-london-homecoming-finsbury-park-show-3955216?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "nme.com",
+                  "snippet": "WATCH RED HOT CHILI PEPPERS COVER NIRVANA\u2019S \u2018SMELLS LIKE TEEN SPIRIT\u2019  The Chilis performed their rendition at a benefit concert  By Charlotte Krol  31st October 2022  Image: AnthonyKiedis-redhotchil...",
+                  "title": "Red Hot Chili Peppers cover Nirvana's 'Smells Like Teen Spirit'",
+                  "url": "https://www.nme.com/news/music/watch-red-hot-chili-peppers-cover-nirvana-smells-like-teen-spirit-3339651?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "musicradar.com",
+              "entries": [
+                {
+                  "attribution": "musicradar.com",
+                  "snippet": "SEE THE RED HOT CHILI PEPPERS COVERING NIRVANA'S SMELLS LIKE TEEN SPIRIT WITH JOHN FRUSCIANTE ON VOCALS  When you purchase through links on our site, we may earn an affiliate commission. Here\u2019s how i...",
+                  "title": "See the Red Hot Chili Peppers covering Nirvana's Smells Like Teen Spirit with John Frusciante on vocals | MusicRadar",
+                  "url": "https://www.musicradar.com/news/red-hot-chili-peppers-nirvana-smells-like-teen-spirit-cover?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "laughingsquid.com",
+              "entries": [
+                {
+                  "attribution": "laughingsquid.com",
+                  "snippet": "A BEAUTIFULLY MULTILAYERED COVER NIRVANA\u2019S \u2018SMELLS LIKE TEEN SPIRIT\u2019 PLAYED ON FOUR ACOUSTIC GUITARS  * Lori Dorn * March 28, 2025  iframe  The\u00a0incredibly talented\u00a0guitarists of\u00a040 Fingers\u00a0played a b...",
+                  "title": "A Beautifully Multilayered Cover Nirvana's 'Smells Like Teen Spirit' Played on Four Acoustic Guitars",
+                  "url": "https://laughingsquid.com/40-fingers-nirvana-smells-like-teen-spirit/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "fandom.com",
+              "entries": [
+                {
+                  "attribution": "fandom.com",
+                  "snippet": "in: 1991 singles  SMELLS LIKE TEEN SPIRIT  Sign In to Save Save Edit  * History * Purge * Talk (0)  iframe  \"Smells Like Teen Spirit\" is a song by the American\u00a0rock\u00a0band\u00a0Nirvana. It is the opening tr...",
+                  "title": "Smells Like Teen Spirit | Rock Music Wiki | Fandom",
+                  "url": "https://rock.fandom.com/wiki/Smells_Like_Teen_Spirit?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "jambase.com",
+              "entries": [
+                {
+                  "attribution": "jambase.com",
+                  "snippet": "TANK & THE BANGAS\u2019 COVER NIRVANA\u2019S \u2018SMELLS LIKE TEEN SPIRIT\u2019  By Scott Bernstein May 13, 2020 \u2022 8:53 am PDT  Image: Tank Bangas Nirvana Cover Smells Like Teen Spirit  Tank and the Bangas\u2018 vocalist Ta...",
+                  "title": "Tank & The Bangas' Cover Nirvana\u2019s \u2018Smells Like Teen Spirit\u2019",
+                  "url": "https://www.jambase.com/article/tank-the-bangas-nirvana-cover-smells-like-teen-spirit?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "vh1.com",
+              "entries": [
+                {
+                  "attribution": "vh1.com",
+                  "snippet": "8 AWESOMELY UNIQUE COVERS OF NIRVANA'S \"SMELLS LIKE TEEN SPIRIT\"  Artists of all genres have paid tribute to the national grunge anthem.  By VH1  September 10, 2015  /  12:15 PM  By VH1  September 10...",
+                  "title": "8 Awesomely Unique Covers Of Nirvana's \"Smells Like Teen Spirit\" | News | VH1",
+                  "url": "https://www.vh1.com/news/1mx6ah/nirvana-smells-like-teen-spirit-covers?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "iheart.com",
+              "entries": [
+                {
+                  "attribution": "iheart.com",
+                  "snippet": "WATCH RED HOT CHILI PEPPERS COVER NIRVANA'S 'SMELLS LIKE TEEN SPIRIT'  By Andrew Magnotta @AndrewMagnotta  October 31, 2022  iframe  Image  Photo: AFP  Red Hot Chili Peppers closed their fundraising...",
+                  "title": "Watch Red Hot Chili Peppers Cover Nirvana's 'Smells Like Teen Spirit' | iHeart",
+                  "url": "https://www.iheart.com/content/2022-10-31-watch-red-hot-chili-peppers-cover-nirvanas-smells-like-teen-spirit/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "guitar.com",
+              "entries": [
+                {
+                  "attribution": "guitar.com",
+                  "snippet": "WATCH US AND INDIAN SOLDIERS PERFORM A COVER OF SMELLS LIKE TEEN SPIRIT DURING A MILITARY EXERCISE  Not quite your standard military drill\u2026  Image: US and Indian Army jam to Nirvana  Image: @11thAirb...",
+                  "title": "Watch US and Indian Soldiers perform Smells Like Teen Spirita | Guitar.com",
+                  "url": "https://guitar.com/news/music-news/watch-us-and-indian-soldiers-perform-nirvana-smells-like-teen-spirit-cover/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "popcultureexperiment.com",
+              "entries": [
+                {
+                  "attribution": "popcultureexperiment.com",
+                  "snippet": "\u201cSMELLS LIKE TEEN SPIRIT\u201d: COVER SONGS\u00a0UNCOVERED  Image  Date: August 29, 2016Author: Patrick Garvin 0 Comments  This is the 35th post in a weekly, yearlong series.\u00a0Read about it here\u00a0and see the lis...",
+                  "title": "\u201cSmells Like Teen Spirit\u201d: Cover Songs Uncovered \u2013 The Pop Culture Experiment",
+                  "url": "https://popcultureexperiment.com/2016/08/29/cover-songs-uncovered-smells-like-teen-spirit/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "shazam.com",
+              "entries": [
+                {
+                  "attribution": "shazam.com",
+                  "snippet": "Smells Like Teen Spirit  225  Rock  Smells Like Teen Spirit was released on April 1, 2026 by Studio71 as a part of the album Covers Vol. 23   Song Details  OVERVIEW  LYRICS  Music Video  MUSIC VIDEO...",
+                  "title": "Smells Like Teen Spirit - First to Eleven: Song Lyrics, Music Videos & Concerts",
+                  "url": "https://www.shazam.com/song/1890459221/smells-like-teen-spirit?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "e8deeab4-ea0f-4b31-85bd-2e24f2dbf6a4"
+    },
+    "e8deeab4-ea0f-4b31-85bd-2e24f2dbf6a4": {
+      "id": "e8deeab4-ea0f-4b31-85bd-2e24f2dbf6a4",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content": "Worked for a couple of seconds",
+          "content_type": "reasoning_recap"
+        },
+        "create_time": 1784769836.200284,
+        "id": "e8deeab4-ea0f-4b31-85bd-2e24f2dbf6a4",
+        "metadata": {
+          "model_slug": "gpt-5-5",
+          "parent_id": "3e1be661-864d-45cd-8e1c-2c4fbfb49be2"
+        }
+      },
+      "parent": "3e1be661-864d-45cd-8e1c-2c4fbfb49be2"
+    },
+    "eae8c3c1-3241-424b-92cc-4caba4a265b9": {
+      "id": "eae8c3c1-3241-424b-92cc-4caba4a265b9",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Yes, she does. The artist **\u041d\u0438\u043a\u0430\u043b\u044f (Nikalya)** has performed a cover of **\"Smells Like Teen Spirit\" by Nirvana** on her Instagram. \ue200cite\ue202turn0search12\ue201\n\nIf you're looking for **that specific cover**:\n- Check the **Reels** tab on her profile, since that's where she posts most of her performances.\n- If it's not there anymore, it may have been archived or removed.\n\nIf you want, I can also help you find:\n- the full version of her cover,\n- the chords she uses,\n- or other artists with a similar acoustic, emotional style."
+          ]
+        },
+        "create_time": 1784769817.997145,
+        "id": "eae8c3c1-3241-424b-92cc-4caba4a265b9",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "([Wikipedia](https://en.wikipedia.org/wiki/Smells_Like_Teen_Spirit?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Wikipedia",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 12,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [],
+                  "title": "Smells Like Teen Spirit",
+                  "url": "https://en.wikipedia.org/wiki/Smells_Like_Teen_Spirit?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prefix": null,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "Wikipedia",
+                  "title": "Smells Like Teen Spirit",
+                  "url": "https://en.wikipedia.org/wiki/Smells_Like_Teen_Spirit?utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "5c33d886-f7d2-4f1e-a56f-78baa0a44b00",
+          "search_result_groups": [
+            {
+              "domain": "musicradar.com",
+              "entries": [
+                {
+                  "attribution": "musicradar.com",
+                  "snippet": "SEE THE RED HOT CHILI PEPPERS COVERING NIRVANA'S SMELLS LIKE TEEN SPIRIT WITH JOHN FRUSCIANTE ON VOCALS  When you purchase through links on our site, we may earn an affiliate commission. Here\u2019s how i...",
+                  "title": "See the Red Hot Chili Peppers covering Nirvana's Smells Like Teen Spirit with John Frusciante on vocals | MusicRadar",
+                  "url": "https://www.musicradar.com/news/red-hot-chili-peppers-nirvana-smells-like-teen-spirit-cover?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "nme.com",
+              "entries": [
+                {
+                  "attribution": "nme.com",
+                  "snippet": "WATCH RED HOT CHILI PEPPERS COVER NIRVANA\u2019S \u2018SMELLS LIKE TEEN SPIRIT\u2019  The Chilis performed their rendition at a benefit concert  By Charlotte Krol  31st October 2022  Image: AnthonyKiedis-redhotchil...",
+                  "title": "Red Hot Chili Peppers cover Nirvana's 'Smells Like Teen Spirit'",
+                  "url": "https://www.nme.com/news/music/watch-red-hot-chili-peppers-cover-nirvana-smells-like-teen-spirit-3339651?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "nme.com",
+                  "snippet": "WATCH WOLF ALICE COVER NIRVANA\u2019S \u2018SMELLS LIKE TEEN SPIRIT\u2019 AT MASSIVE LONDON HOMECOMING FINSBURY PARK SHOW  Support for the huge slot came from The Last Dinner Party,\u00a0Lykke Li,\u00a0Rachel Chinouriri, Keo...",
+                  "title": "Watch Wolf Alice cover Nirvana's 'Smells Like Teen Spirit' at massive London homecoming Finsbury Park show",
+                  "url": "https://www.nme.com/news/music/watch-wolf-alice-cover-nirvanas-smells-like-teen-spirit-at-massive-london-homecoming-finsbury-park-show-3955216?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "laughingsquid.com",
+              "entries": [
+                {
+                  "attribution": "laughingsquid.com",
+                  "snippet": "A BEAUTIFULLY MULTILAYERED COVER NIRVANA\u2019S \u2018SMELLS LIKE TEEN SPIRIT\u2019 PLAYED ON FOUR ACOUSTIC GUITARS  * Lori Dorn * March 28, 2025  iframe  The\u00a0incredibly talented\u00a0guitarists of\u00a040 Fingers\u00a0played a b...",
+                  "title": "A Beautifully Multilayered Cover Nirvana's 'Smells Like Teen Spirit' Played on Four Acoustic Guitars",
+                  "url": "https://laughingsquid.com/40-fingers-nirvana-smells-like-teen-spirit/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "laughingsquid.com",
+                  "snippet": "ROBOTIC BAND PERFORMS \u2018SMELLS LIKE TEEN SPIRIT\u2019  * Lori Dorn * January 5, 2023  iframe  The all-robotic One Hacker Band performed a respectable cover of the classic Nirvana song \u201cSmells Like Teen Spi...",
+                  "title": "Robotic Band Performs 'Smells Like Teen Spirit'",
+                  "url": "https://laughingsquid.com/robotic-band-smells-like-teen-spirit/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "vh1.com",
+              "entries": [
+                {
+                  "attribution": "vh1.com",
+                  "snippet": "8 AWESOMELY UNIQUE COVERS OF NIRVANA'S \"SMELLS LIKE TEEN SPIRIT\"  Artists of all genres have paid tribute to the national grunge anthem.  By VH1  September 10, 2015  /  12:15 PM  By VH1  September 10...",
+                  "title": "8 Awesomely Unique Covers Of Nirvana's \"Smells Like Teen Spirit\" | News | VH1",
+                  "url": "https://www.vh1.com/news/1mx6ah/nirvana-smells-like-teen-spirit-covers?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "jambase.com",
+              "entries": [
+                {
+                  "attribution": "jambase.com",
+                  "snippet": "TANK & THE BANGAS\u2019 COVER NIRVANA\u2019S \u2018SMELLS LIKE TEEN SPIRIT\u2019  By Scott Bernstein May 13, 2020 \u2022 8:53 am PDT  Image: Tank Bangas Nirvana Cover Smells Like Teen Spirit  Tank and the Bangas\u2018 vocalist Ta...",
+                  "title": "Tank & The Bangas' Cover Nirvana\u2019s \u2018Smells Like Teen Spirit\u2019",
+                  "url": "https://www.jambase.com/article/tank-the-bangas-nirvana-cover-smells-like-teen-spirit?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "guitarworld.com",
+              "entries": [
+                {
+                  "attribution": "guitarworld.com",
+                  "snippet": "WATCH RED HOT CHILI PEPPERS COVER NIRVANA\u2019S SMELLS LIKE TEEN SPIRIT WITH JOHN FRUSCIANTE ON LEAD VOCALS  News  By Michael Astley-Brown  Last updated 1 November 2022  The funk-rockers tackled the grun...",
+                  "title": "Watch Red Hot Chili Peppers cover Nirvana\u2019s Smells Like Teen Spirit with John Frusciante on lead vocals | Guitar World",
+                  "url": "https://www.guitarworld.com/news/red-hot-chili-peppers-cover-nirvana-smells-like-teen-spirit?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "diffuser.fm",
+              "entries": [
+                {
+                  "attribution": "diffuser.fm",
+                  "snippet": "Image: 14 Wildly Different 'Smells Like Teen Spirit' Covers  14 WILDLY DIFFERENT NIRVANA \u2018SMELLS LIKE TEEN SPIRIT\u2019 COVERS  Dave LiftonPublished: September 10, 2016  Nirvana's \"Smells Like Teen Spirit...",
+                  "title": "14 Wildly Different Nirvana 'Smells Like Teen Spirit' Covers",
+                  "url": "https://diffuser.fm/nirvana-smells-like-teen-spirit-covers/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "cinematicpop.com",
+              "entries": [
+                {
+                  "attribution": "cinematicpop.com",
+                  "snippet": "We combine iconic pop/rock songs with sweeping orchestral and choir arrangements. It's like nothing you've seen or heard before. Covers from Nirvana,\u00a0Snow Patrol, Jeff Buckley, The Cure U2 and\u00a0More...",
+                  "title": "Nirvana - Smells Like Teen Spirit Cover \u2014 Cinematic Pop",
+                  "url": "https://www.cinematicpop.com/smells-like-teen-spirit?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "knowyourmeme.com",
+              "entries": [
+                {
+                  "attribution": "knowyourmeme.com",
+                  "snippet": "Medieval Style Cover  * * *  0  \u2605 0  0  0  26 Views \u2022 Created June 17, 2020 By Graywyck nn via YouTube nn \u2022 Updated March 23, 2023  * * *  Created By Graywyck \u2022 Updated March 23, 2023  PROTIP: Press...",
+                  "title": "Smells Like Teen Spirit [Bardcore] | Medieval Style Cover | Know Your Meme",
+                  "url": "https://knowyourmeme.com/videos/220545-medieval-style-cover?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "fandom.com",
+              "entries": [
+                {
+                  "attribution": "fandom.com",
+                  "snippet": "in: 1991 singles  SMELLS LIKE TEEN SPIRIT  Sign In to Save Save Edit  * History * Purge * Talk (0)  iframe  \"Smells Like Teen Spirit\" is a song by the American\u00a0rock\u00a0band\u00a0Nirvana. It is the opening tr...",
+                  "title": "Smells Like Teen Spirit | Rock Music Wiki | Fandom",
+                  "url": "https://rock.fandom.com/wiki/Smells_Like_Teen_Spirit?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "5c33d886-f7d2-4f1e-a56f-78baa0a44b00"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Smells Like Teen Spirit",
+  "update_time": 1784769839.326521,
+  "voice": null
+}

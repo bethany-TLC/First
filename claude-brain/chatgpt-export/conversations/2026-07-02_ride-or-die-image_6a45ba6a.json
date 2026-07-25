@@ -1,0 +1,80 @@
+{
+  "conversation_id": "6a45ba6a-beb4-83e8-871f-b0ac97ea0073",
+  "conversation_template_id": null,
+  "create_time": 1782954630.628358,
+  "current_node": "bbb21ada-a8da-4850-89ec-de751965b362",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a45ba6a-beb4-83e8-871f-b0ac97ea0073",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "bbb21ada-a8da-4850-89ec-de751965b362": {
+      "id": "bbb21ada-a8da-4850-89ec-de751965b362",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_0000000016a8720c953d4a662890019a",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 1347,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 354342,
+              "width": 1167
+            },
+            "Malee an image that says: when I say I want a ride or die partner in crime this is what I mean"
+          ]
+        },
+        "create_time": 1782954630.373596,
+        "id": "bbb21ada-a8da-4850-89ec-de751965b362",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_0000000016a8720c953d4a662890019a",
+              "mime_type": "image/jpeg",
+              "name": "1000020532.jpg",
+              "size": 354342
+            }
+          ],
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "f70c715a-c9f0-4575-9093-3b1b75e4dc7b"
+    },
+    "f70c715a-c9f0-4575-9093-3b1b75e4dc7b": {
+      "id": "f70c715a-c9f0-4575-9093-3b1b75e4dc7b",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Ride or Die Image",
+  "update_time": 1782954661.983813,
+  "voice": null
+}

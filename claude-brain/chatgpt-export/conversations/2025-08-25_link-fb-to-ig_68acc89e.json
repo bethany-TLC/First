@@ -1,0 +1,72 @@
+{
+  "conversation_id": "68acc89e-f4c8-8326-adc5-318e35bcb23e",
+  "conversation_template_id": null,
+  "create_time": 1756154035.361785,
+  "current_node": "58464d15-1217-4dcf-bb71-3d372bb3f014",
+  "default_model_slug": "auto",
+  "id": "68acc89e-f4c8-8326-adc5-318e35bcb23e",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "16e928c0-5dd1-429c-996f-2cc89d2bc307": {
+      "id": "16e928c0-5dd1-429c-996f-2cc89d2bc307",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "how do i link my fb book bsuiness page to my instagram bsuiness page and add a book now button"
+          ]
+        },
+        "create_time": 1756154035.111,
+        "id": "16e928c0-5dd1-429c-996f-2cc89d2bc307",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "58464d15-1217-4dcf-bb71-3d372bb3f014": {
+      "id": "58464d15-1217-4dcf-bb71-3d372bb3f014",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a step-by-step guide to linking your **Facebook Business Page** to your **Instagram Business Profile** and adding a **\u201cBook Now\u201d** button:  \n\n---\n\n### **Step 1: Make sure your Instagram account is a Business account**\n1. Open the **Instagram app**.  \n2. Go to your profile \u2192 tap the **three lines** (\u2630) \u2192 **Settings** \u2192 **Account** \u2192 **Switch to Professional Account** \u2192 choose **Business**.  \n\n---\n\n### **Step 2: Link Instagram to your Facebook Page**\n1. On Instagram:\n   - Go to **Settings** \u2192 **Business** \u2192 **Connect a Facebook Page**.  \n   - Select the Facebook Page you want to link.  \n2. On Facebook:\n   - Go to your **Page Settings** \u2192 **Instagram** \u2192 **Connect Account**.  \n   - Log in to Instagram and confirm linking.  \n\n> **Tip:** You must be an **admin** of the Facebook Page to link it.\n\n---\n\n### **Step 3: Add the \u201cBook Now\u201d button**\n1. On Facebook:\n   - Go to your **Business Page** \u2192 click **Add a Button** (below your cover photo) \u2192 select **Book Now**.  \n   - Choose a booking service: you can either use **Facebook\u2019s own booking system** (Meta appointments) or **link to your external booking provider** (like Calendly, Acuity, or your MedSpa software).  \n\n2. On Instagram:\n   - Go to your profile \u2192 tap **Edit Profile** \u2192 **Action Buttons** \u2192 choose **Book Now**.  \n   - Connect it to the same booking service you used on Facebook.  \n\n---\n\n\u2705 Once done, users can click **Book Now** on both Instagram and Facebook, and your accounts will be linked so posts and ads can be shared seamlessly.\n\n---\n\nIf you want, I can also give you a **shortcut trick** to make Instagram automatically pull your Facebook appointments so you don\u2019t have to set them twice. Do you want me to show that?"
+          ]
+        },
+        "create_time": 1756154035.288185,
+        "id": "58464d15-1217-4dcf-bb71-3d372bb3f014",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-mini",
+          "parent_id": "681e01cf-c422-4cce-a700-f2ebe8d31196"
+        }
+      },
+      "parent": "16e928c0-5dd1-429c-996f-2cc89d2bc307"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Link FB to IG",
+  "update_time": 1756154045.114631,
+  "voice": null
+}

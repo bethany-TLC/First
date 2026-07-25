@@ -1,0 +1,420 @@
+{
+  "conversation_id": "698ba49b-9cb0-8330-9d8b-c7978b3a6239",
+  "conversation_template_id": null,
+  "create_time": 1770759364.809029,
+  "current_node": "dacf3a91-d1fb-4904-bcc1-7d0a3bc7501d",
+  "default_model_slug": "gpt-5-2",
+  "id": "698ba49b-9cb0-8330-9d8b-c7978b3a6239",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "306c56a6-910e-42ae-9ee4-a56ac65adf96": {
+      "id": "306c56a6-910e-42ae-9ee4-a56ac65adf96",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "write a simliar email for all of these places"
+          ]
+        },
+        "create_time": 1770759581.735,
+        "id": "306c56a6-910e-42ae-9ee4-a56ac65adf96",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "83719a90-0796-423b-b45a-35e74f5a562c"
+    },
+    "42dd3b60-7052-4777-8404-4635cc2a42fc": {
+      "id": "42dd3b60-7052-4777-8404-4635cc2a42fc",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a clean, professional email you can send to **The Association of Dermatology Administrators & Managers (ADAM)**. It positions this as a partnership, highlights value to their members, and clearly asks who the right person is to speak with to get on their preferred partner list.\n\nYou can copy and paste as is, or I can tailor it to a specific contact if you have a name.\n\n:::writing{id=\"84521\" variant=\"email\" subject=\"Exploring a Preferred Education Partnership Opportunity with ADAM\"}\nHello ADAM Team,\n\nI hope this message finds you well. My name is Bethany Gifford, and I am reaching out to explore a potential education partnership between ADAM and the Aesthetic Injector Academy (AIA), founded by Tracy Olson.\n\nAIA is a CE-accredited, self-paced education platform designed to support medical professionals at all stages of their aesthetics journey, from clinicians new to injectables to experienced providers seeking to refine technique, improve safety, and strengthen consultation confidence. Tracy Olson is the founder of Youthtopia Med Spa in Atlanta and a nationally respected educator known for her emphasis on anatomy, ethics, and responsible growth within aesthetic practices.\n\nAs ADAM continues to serve dermatology administrators and managers through high-quality education, managed care insight, coding, compliance, and operational excellence, we see a strong alignment in values and mission. Many dermatology practices are navigating increased demand for aesthetic services while also prioritizing patient safety, provider competency, and ethical expansion. This is exactly where AIA adds value.\n\nWe would love to explore how ADAM members could benefit from access to a trusted, CE-accredited injector education partner that supports both clinical excellence and practice growth. Our vision is to collaborate as aligned partners who are committed to elevating standards across dermatology and aesthetic medicine.\n\nCould you please advise who the appropriate person would be to speak with regarding education partnerships or becoming part of ADAM\u2019s preferred or recommended partner network? I would welcome the opportunity to share more about the curriculum, accreditation, and how this collaboration could serve your membership.\n\nThank you for the important work ADAM does to support dermatology practices nationwide. I look forward to connecting.\n\nWarm regards,  \nBethany Gifford  \nGrowth Partner  \nAesthetic Injector Academy  \n[Your website or booking link here]\n\n---\n\nIf you want, I can also:\n- Make a shorter, more direct version\n- Adjust the tone to be more formal or more conversational\n- Add a clear \u201cmember benefit\u201d section with bullet points\n- Rewrite it as a LinkedIn DM to an ADAM board member or executive director"
+          ]
+        },
+        "create_time": 1770759364.619985,
+        "id": "42dd3b60-7052-4777-8404-4635cc2a42fc",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "1621e560-1fbd-4b03-8ab0-a465d20220ad"
+        }
+      },
+      "parent": "a9f88451-be94-4867-a6fa-d50d5701fe16"
+    },
+    "4af67fe4-54cd-4b2e-af9a-c6c9fd06a023": {
+      "id": "4af67fe4-54cd-4b2e-af9a-c6c9fd06a023",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "put all of them together"
+          ]
+        },
+        "create_time": 1770763272.084,
+        "id": "4af67fe4-54cd-4b2e-af9a-c6c9fd06a023",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "cc65c725-7c23-49da-8701-9debf6db7d2d"
+    },
+    "5bc5b64b-d7e4-4602-ae64-15e610976495": {
+      "id": "5bc5b64b-d7e4-4602-ae64-15e610976495",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "create me an apolo.ai list of all these so i can go grab a bunch of emails for them"
+          ]
+        },
+        "create_time": 1770763229.877,
+        "id": "5bc5b64b-d7e4-4602-ae64-15e610976495",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "fd33a665-ff25-4c16-ac63-6749d144825e"
+    },
+    "60e59dcc-13dd-4140-bd67-7de889d08291": {
+      "id": "60e59dcc-13dd-4140-bd67-7de889d08291",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "what other associations could we targget"
+          ]
+        },
+        "create_time": 1770759480.716,
+        "id": "60e59dcc-13dd-4140-bd67-7de889d08291",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "42dd3b60-7052-4777-8404-4635cc2a42fc"
+    },
+    "83719a90-0796-423b-b45a-35e74f5a562c": {
+      "id": "83719a90-0796-423b-b45a-35e74f5a562c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Love this direction. This is exactly how you turn AIA into the *default* education layer inside the industry instead of just another course.\n\nBelow is a **high-leverage target list**, organized by **who controls access, credibility, and buying decisions** for injectors, derms, and med spa owners. These are the associations most likely to say yes to a **preferred education partner** model.\n\n---\n\n## Tier 1: Dermatology + Physician-Led Associations  \nHigh authority, slower sales cycle, massive credibility\n\n1. **\ue200entity\ue202[\"organization\",\"American Academy of Dermatology\",\"professional association\"]\ue201 (AAD)**  \n   - Why: Gold standard in derm education  \n   - Angle: Adjunct aesthetic injector education for practices expanding cosmetic services  \n   - Who to contact: Education partnerships, CME director, industry relations\n\n2. **\ue200entity\ue202[\"organization\",\"State Dermatology Societies\",\"us professional associations\"]\ue201** (Texas Derm Society, Florida Society of Dermatology, etc.)  \n   - Why: Easier entry than national orgs  \n   - Angle: Exclusive or discounted CE education for members  \n   - Strategy: Start with 3\u20135 large states, then expand\n\n3. **\ue200entity\ue202[\"organization\",\"American Society for Dermatologic Surgery\",\"professional association\"]\ue201 (ASDS)**  \n   - Why: Strong cosmetic + procedural focus  \n   - Angle: Injector safety, anatomy mastery, and delegation training for teams  \n   - Positioning: Protecting outcomes and reputation\n\n---\n\n## Tier 2: Med Spa & Aesthetic Business Associations  \nFastest ROI, most aligned with Tracy + AIA\n\n4. **\ue200entity\ue202[\"organization\",\"American Med Spa Association\",\"industry association\"]\ue201 (AmSpa)**  \n   - Why: Already education-friendly and partnership-driven  \n   - Angle: Preferred injector education partner for member spas  \n   - Entry: Sponsorship + education partnership pitch\n\n5. **\ue200entity\ue202[\"organization\",\"Medical Spa Show\",\"industry conference\"]\ue201 (powered by AmSpa)**  \n   - Why: Decision-makers attend  \n   - Angle: CE education + post-conference implementation  \n   - Strategy: Speaker + preferred course follow-up\n\n6. **\ue200entity\ue202[\"organization\",\"International Medical Spa Association\",\"industry association\"]\ue201 (IMSA)**  \n   - Why: Smaller but very open to aligned partners  \n   - Angle: Foundational injector education for growth-stage spas\n\n---\n\n## Tier 3: Nursing & Injector-Specific Associations  \nHuge volume, ideal for AIA licensing deals\n\n7. **\ue200entity\ue202[\"organization\",\"American Association of Nurse Practitioners\",\"professional association\"]\ue201 (AANP)**  \n   - Why: Massive NP audience entering aesthetics  \n   - Angle: CE-accredited aesthetic specialization track  \n   - Hook: Safe transition into injectables\n\n8. **\ue200entity\ue202[\"organization\",\"American Association of Aesthetic Medicine and Surgery\",\"professional association\"]\ue201 (AAAMS)**  \n   - Why: Direct aesthetics focus  \n   - Angle: Preferred injector fundamentals + anatomy education\n\n9. **\ue200entity\ue202[\"organization\",\"National Association of Aesthetic Nurses\",\"professional association\"]\ue201 (NAAN)**  \n   - Why: Nurses actively seeking injector education  \n   - Angle: Entry-level to advanced injector pathway\n\n---\n\n## Tier 4: Practice Management & Admin Groups  \nYour ADAM playbook works perfectly here\n\n10. **\ue200entity\ue202[\"organization\",\"Medical Group Management Association\",\"professional association\"]\ue201 (MGMA)**  \n   - Why: Admins + operators control budgets  \n   - Angle: Risk mitigation + standardized injector training  \n   - Positioning: Reduce liability, improve outcomes\n\n11. **\ue200entity\ue202[\"organization\",\"Healthcare Financial Management Association\",\"professional association\"]\ue201 (HFMA)**  \n   - Why: Financial leaders influence education spend  \n   - Angle: Revenue-safe expansion into aesthetics\n\n---\n\n## Tier 5: State Boards & Educational Institutions  \nLonger play, massive defensibility\n\n12. **State Nursing Associations** (California Nurses Association, Texas Nurses Association, etc.)  \n   - Why: CE access + legitimacy  \n   - Angle: Approved aesthetics CE partner\n\n13. **Aesthetic Nursing Colleges & Training Programs**  \n   - Why: White-label or required curriculum  \n   - Angle: \u201cGo-to injector education platform\u201d\n\n---\n\n## How to Prioritize (My honest recommendation)\n\n**Phase 1 (Next 90 days):**\n- ADAM  \n- AmSpa  \n- 2\u20133 large state dermatology or nursing associations  \n\n**Phase 2 (Scale + credibility):**\n- ASDS  \n- AAD (after proof of traction)  \n- AANP  \n\n**Phase 3 (Licensing + dominance):**\n- Colleges  \n- State boards  \n- MGMA / HFMA\n\n---\n\n## Want the next step?\nI can:\n- Rank these by **ease of entry vs revenue upside**\n- Draft **one universal partnership pitch** you reuse everywhere\n- Create a **preferred partner deck** for Tracy + AIA\n- Write cold outreach emails + LinkedIn DMs for each association type\n\nJust tell me how aggressive you want to move and which tier you want to tackle first \ud83d\udca5"
+          ]
+        },
+        "create_time": 1770759480.979899,
+        "id": "83719a90-0796-423b-b45a-35e74f5a562c",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "American Academy of Dermatology",
+              "entity_data": null,
+              "extra_params": {
+                "disambiguation": "professional association"
+              },
+              "metadata": null,
+              "name": "American Academy of Dermatology",
+              "prompt_text": "American Academy of Dermatology",
+              "type": "entity"
+            },
+            {
+              "alt": "State Dermatology Societies",
+              "entity_data": null,
+              "extra_params": {
+                "disambiguation": "us professional associations"
+              },
+              "metadata": null,
+              "name": "State Dermatology Societies",
+              "prompt_text": "State Dermatology Societies",
+              "type": "entity"
+            },
+            {
+              "alt": "American Society for Dermatologic Surgery",
+              "entity_data": null,
+              "extra_params": {
+                "disambiguation": "professional association"
+              },
+              "metadata": null,
+              "name": "American Society for Dermatologic Surgery",
+              "prompt_text": "American Society for Dermatologic Surgery",
+              "type": "entity"
+            },
+            {
+              "alt": "American Med Spa Association",
+              "entity_data": null,
+              "extra_params": {
+                "disambiguation": "industry association"
+              },
+              "metadata": null,
+              "name": "American Med Spa Association",
+              "prompt_text": "American Med Spa Association",
+              "type": "entity"
+            },
+            {
+              "alt": "Medical Spa Show",
+              "entity_data": null,
+              "extra_params": {
+                "disambiguation": "industry conference"
+              },
+              "metadata": null,
+              "name": "Medical Spa Show",
+              "prompt_text": "Medical Spa Show",
+              "type": "entity"
+            },
+            {
+              "alt": "International Medical Spa Association",
+              "entity_data": null,
+              "extra_params": {
+                "disambiguation": "industry association"
+              },
+              "metadata": null,
+              "name": "International Medical Spa Association",
+              "prompt_text": "International Medical Spa Association",
+              "type": "entity"
+            },
+            {
+              "alt": "American Association of Nurse Practitioners",
+              "entity_data": null,
+              "extra_params": {
+                "disambiguation": "professional association"
+              },
+              "metadata": null,
+              "name": "American Association of Nurse Practitioners",
+              "prompt_text": "American Association of Nurse Practitioners",
+              "type": "entity"
+            },
+            {
+              "alt": "American Association of Aesthetic Medicine and Surgery",
+              "entity_data": null,
+              "extra_params": {
+                "disambiguation": "professional association"
+              },
+              "metadata": null,
+              "name": "American Association of Aesthetic Medicine and Surgery",
+              "prompt_text": "American Association of Aesthetic Medicine and Surgery",
+              "type": "entity"
+            },
+            {
+              "alt": "National Association of Aesthetic Nurses",
+              "entity_data": null,
+              "extra_params": {
+                "disambiguation": "professional association"
+              },
+              "metadata": null,
+              "name": "National Association of Aesthetic Nurses",
+              "prompt_text": "National Association of Aesthetic Nurses",
+              "type": "entity"
+            },
+            {
+              "alt": "Medical Group Management Association",
+              "entity_data": null,
+              "extra_params": {
+                "disambiguation": "professional association"
+              },
+              "metadata": null,
+              "name": "Medical Group Management Association",
+              "prompt_text": "Medical Group Management Association",
+              "type": "entity"
+            },
+            {
+              "alt": "Healthcare Financial Management Association",
+              "entity_data": null,
+              "extra_params": {
+                "disambiguation": "professional association"
+              },
+              "metadata": null,
+              "name": "Healthcare Financial Management Association",
+              "prompt_text": "Healthcare Financial Management Association",
+              "type": "entity"
+            }
+          ],
+          "model_slug": "gpt-5-2",
+          "parent_id": "c898ee6b-fc05-4a28-8282-326ef047ded5"
+        }
+      },
+      "parent": "60e59dcc-13dd-4140-bd67-7de889d08291"
+    },
+    "a9f88451-be94-4867-a6fa-d50d5701fe16": {
+      "id": "a9f88451-be94-4867-a6fa-d50d5701fe16",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "write an email to the The Association of Dermatology Administrators & Managers is a nonprofit organization that serves as a resource to dermatology practices nationwide. ADAM members receive access to continuing education opportunities and the ability to network with experts in managed care, practice management, finance, jurisprudence and ethics and coding. Why join? There are many benefits to joining the Association of Dermatology Administrators & Managers (ADAM): make it about joining hands with Tracy Olsen with AIA course and who I would need to talk to get inthe door and beocme a part of theri prefered list of partners"
+          ]
+        },
+        "create_time": 1770759364.351,
+        "id": "a9f88451-be94-4867-a6fa-d50d5701fe16",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "cc65c725-7c23-49da-8701-9debf6db7d2d": {
+      "id": "cc65c725-7c23-49da-8701-9debf6db7d2d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Perfect, this is exactly how you should be using Apollo for this. Below is a **ready-to-build Apollo.ai target list**, broken out by **list name, company filters, job titles, and keywords** so you can literally copy this into Apollo and start pulling emails.\n\nI\u2019ll also tell you **which titles convert best** so you\u2019re not wasting credits.\n\n---\n\n## MASTER APOLLO LIST STRUCTURE\n\n### List Name (use this format)\n**Aesthetic Education Partnerships \u2013 Associations & Organizations**\n\nYou can also split this into multiple lists if you want cleaner segmentation.\n\n---\n\n## LIST 1: Dermatology Associations (National + State)\n\n### Company Filters\n**Industry keywords (Company):**\n- Dermatology Association\n- Dermatology Society\n- Dermatologic Surgery Association\n- Medical Dermatology Organization\n\n**Company Size:**\n- 2\u201350\n- 11\u201350\n- 51\u2013200\n\n**Company Type:**\n- Nonprofit\n- Association\n- Professional Organization\n\n**Location:**\n- United States\n\n---\n\n### Job Titles to Target (VERY IMPORTANT)\nUse **OR logic** for titles:\n\n- Executive Director  \n- Managing Director  \n- CEO  \n- COO  \n- Director of Education  \n- Director of Continuing Education  \n- CME Director  \n- Director of Partnerships  \n- Director of Industry Relations  \n- Director of Membership  \n- Program Director  \n\n\ud83d\udca1 **Best open rates:** Executive Director + Director of Education\n\n---\n\n### Keywords (People Search)\nAdd one or two of these:\n- education\n- CME\n- partnerships\n- industry relations\n- professional development\n\n---\n\n## LIST 2: Med Spa & Aesthetic Business Associations\n\n### Company Filters\n**Industry keywords:**\n- Medical Spa Association\n- Aesthetic Medicine Association\n- Aesthetic Business Network\n- Cosmetic Medicine Association\n\n**Company Type:**\n- Association\n- Nonprofit\n- Professional Network\n\n**Location:**\n- United States\n\n---\n\n### Job Titles\n- Executive Director  \n- Founder  \n- CEO  \n- Director of Partnerships  \n- Director of Education  \n- Head of Industry Relations  \n- Membership Director  \n- Conference Director  \n\n\ud83d\udca1 **Best conversion:** Founder or Executive Director (these orgs are often lean)\n\n---\n\n## LIST 3: Nursing & Injector Associations\n\n### Company Filters\n**Industry keywords:**\n- Nursing Association\n- Nurse Practitioner Association\n- Aesthetic Nursing Association\n- Advanced Practice Nursing Organization\n\n**Company Type:**\n- Nonprofit\n- Professional Association\n\n**Location:**\n- United States\n\n---\n\n### Job Titles\n- Executive Director  \n- Director of Education  \n- Director of Continuing Education  \n- CE Program Manager  \n- Director of Professional Development  \n- Partnerships Manager  \n\n\ud83d\udca1 **Best angle:** CE Director + Professional Development\n\n---\n\n## LIST 4: Practice Management & Administrator Associations\n\n### Company Filters\n**Industry keywords:**\n- Medical Practice Management Association\n- Healthcare Administration Association\n- Medical Group Management\n- Healthcare Finance Association\n\n**Company Type:**\n- Association\n- Nonprofit\n\n---\n\n### Job Titles\n- Executive Director  \n- Director of Education  \n- Director of Member Services  \n- Director of Strategic Partnerships  \n- Industry Relations Director  \n\n\ud83d\udca1 **Best open rates:** Director of Member Services + Partnerships\n\n---\n\n## EMAIL QUALITY FILTERS (DO THIS)\n\nInside Apollo, turn on:\n- \u2705 **Verified emails only**\n- \u2705 **Exclude generic emails** (info@, admin@)  \n- \u2705 **Exclude students**\n\nOptional but powerful:\n- Job seniority: Director, VP, C-Suite\n- Years in role: 2+ years\n\n---\n\n## EXPECTED LIST SIZE (REALISTIC)\n- Dermatology associations: 150\u2013300 contacts\n- Med spa associations: 50\u2013120 contacts\n- Nursing associations: 200\u2013400 contacts\n- Practice management orgs: 100\u2013250 contacts\n\nYou should easily pull **500\u20131,000 high-quality contacts** without scraping junk.\n\n---\n\n## NEXT LEVEL (Highly Recommended)\nOnce you grab emails, I can:\n- Build a **3-touch Apollo sequence** (email 1 + follow-up + breakup)\n- Personalize by **association type automatically**\n- Write a **LinkedIn connect + DM** that mirrors the email\n- Help you tag contacts by **priority score** (who to email first)\n\nIf you want, tell me:\n1. Are you using Apollo + Instantly or Apollo only?\n2. Do you want this **soft and relational** or **direct partnership pitch**?\n\nWe can have this outbound engine live in under an hour."
+          ]
+        },
+        "create_time": 1770763231.019146,
+        "id": "cc65c725-7c23-49da-8701-9debf6db7d2d",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "9fcb0d98-4b70-4333-9277-f5811e5a3218"
+        }
+      },
+      "parent": "5bc5b64b-d7e4-4602-ae64-15e610976495"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "dacf3a91-d1fb-4904-bcc1-7d0a3bc7501d": {
+      "id": "dacf3a91-d1fb-4904-bcc1-7d0a3bc7501d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Got it. Here is **ONE unified Apollo.ai list** that rolls **all association types into a single pull**, so you can grab emails in bulk, then tag or segment inside Apollo afterward.\n\nThis is optimized for **decision-makers who can say yes to partnerships**.\n\n---\n\n## \ud83d\udd39 APOLLO MASTER LIST (ALL TOGETHER)\n\n### **List Name**\n**Aesthetic Education Partnerships \u2013 Associations (Master List)**\n\n---\n\n## 1\ufe0f\u20e3 COMPANY FILTERS (ALL IN ONE)\n\n### **Company Type**\n- Nonprofit  \n- Association  \n- Professional Organization  \n\n### **Location**\n- United States\n\n### **Company Size**\n- 2\u201310  \n- 11\u201350  \n- 51\u2013200  \n\n(Do not go bigger than this. Large orgs get bureaucratic fast.)\n\n---\n\n### **Company Industry / Keywords**  \nUse **OR logic** and paste these directly:\n\n```\nDermatology Association\nDermatology Society\nDermatologic Surgery Association\nMedical Spa Association\nAesthetic Medicine Association\nAesthetic Business Association\nCosmetic Medicine Association\nNursing Association\nNurse Practitioner Association\nAesthetic Nursing Association\nMedical Practice Management Association\nHealthcare Administration Association\nMedical Group Management Association\nHealthcare Finance Association\n```\n\n\ud83d\udca1 Apollo will auto-map these even if wording varies slightly.\n\n---\n\n## 2\ufe0f\u20e3 PEOPLE FILTERS (MOST IMPORTANT PART)\n\n### **Job Seniority**\n- Director  \n- VP  \n- C-Suite  \n- Founder  \n- Partner  \n\n---\n\n### **Job Titles (OR Logic \u2013 Paste All)**\n\n```\nExecutive Director\nManaging Director\nCEO\nCOO\nFounder\nDirector of Education\nDirector of Continuing Education\nCME Director\nCE Director\nDirector of Professional Development\nDirector of Partnerships\nDirector of Strategic Partnerships\nDirector of Industry Relations\nDirector of Membership\nDirector of Member Services\nProgram Director\nConference Director\nHead of Education\n```\n\n\ud83c\udfaf These titles control:\n- Education partnerships\n- Preferred vendor lists\n- CE approvals\n- Sponsorships\n\n---\n\n## 3\ufe0f\u20e3 KEYWORD REFINEMENT (OPTIONAL BUT STRONG)\n\nAdd **1\u20132** of these under **People Keywords**:\n\n```\neducation\ncontinuing education\nCME\nCE\npartnerships\nindustry relations\nprofessional development\n```\n\nThis filters out irrelevant admins.\n\n---\n\n## 4\ufe0f\u20e3 EMAIL QUALITY SETTINGS (DO NOT SKIP)\n\nInside Apollo, toggle:\n- \u2705 **Verified emails only**\n- \u2705 **Exclude generic emails** (info@, admin@, contact@)\n- \u2705 **Exclude students**\n- \u2705 **Exclude recruiters**\n\nOptional:\n- Years in role: **2+ years**\n- Job level: **Director+**\n\n---\n\n## 5\ufe0f\u20e3 EXPECTED RESULTS (REALISTIC)\n\nYou should pull approximately:\n- **600\u20131,200 contacts**\n- 65\u201380% deliverable rate\n- High reply potential because these orgs *expect* partnership outreach\n\n---\n\n## 6\ufe0f\u20e3 HOW TO WORK THIS LIST (IMPORTANT)\n\nAfter pulling:\n1. **Tag by association type**  \n   - Dermatology  \n   - Med Spa  \n   - Nursing  \n   - Practice Management  \n\n2. Match each tag to the correct email template you already wrote\n\n3. Send in **small batches** (30\u201350/day per domain)\n\n---\n\n## 7\ufe0f\u20e3 OPTIONAL NEXT POWER MOVES\nIf you want, I can:\n- Build a **single Apollo sequence** that dynamically adjusts language by tag\n- Write a **clean follow-up + breakup email**\n- Create a **LinkedIn Sales Nav mirror list**\n- Help you prioritize **\u201cfast yes\u201d vs \u201ccredibility plays\u201d**\n\nIf you answer this, I\u2019ll tune it perfectly:\n\ud83d\udc49 Are you sending from **one domain or multiple domains**?"
+          ]
+        },
+        "create_time": 1770763290.129264,
+        "id": "dacf3a91-d1fb-4904-bcc1-7d0a3bc7501d",
+        "metadata": {
+          "code_blocks": {
+            "0": {
+              "edited": false,
+              "id": "0a84la"
+            },
+            "1": {
+              "edited": false,
+              "id": "c7w1hx"
+            },
+            "2": {
+              "edited": false,
+              "id": "b9nt6n"
+            }
+          },
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "f918f0db-a07a-4394-99e9-a9891c23e705"
+        }
+      },
+      "parent": "f918f0db-a07a-4394-99e9-a9891c23e705"
+    },
+    "f918f0db-a07a-4394-99e9-a9891c23e705": {
+      "id": "f918f0db-a07a-4394-99e9-a9891c23e705",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "thoughts",
+          "source_analysis_msg_id": "ff4d5983-87c0-4f2e-9639-3a849cfca9f3",
+          "thoughts": [
+            {
+              "chunks": [],
+              "content": "",
+              "finished": true,
+              "summary": ""
+            }
+          ]
+        },
+        "create_time": 1770763301.954796,
+        "id": "f918f0db-a07a-4394-99e9-a9891c23e705",
+        "metadata": {
+          "model_slug": "gpt-5-2",
+          "parent_id": "23f1e239-b4f9-42ea-85ce-7dbcece3d9c8"
+        }
+      },
+      "parent": "4af67fe4-54cd-4b2e-af9a-c6c9fd06a023"
+    },
+    "fd33a665-ff25-4c16-ac63-6749d144825e": {
+      "id": "fd33a665-ff25-4c16-ac63-6749d144825e",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Perfect. The smartest way to do this is **not** one-off emails for every association, but **4 reusable, category-specific email templates** you can slightly customize with the organization name and hit send at scale.\n\nBelow are **plug-and-play emails** for each association type you\u2019re targeting. Same core message, tuned language. These are written so you can confidently email executives, education directors, or partnership leads.\n\n---\n\n## 1) Dermatology Associations  \nAAD, ASDS, State Dermatology Societies\n\n:::writing{id=\"90112\" variant=\"email\" subject=\"Exploring an Education Partnership Opportunity for Your Dermatology Members\"}\nHello [Organization Name] Team,\n\nI hope you\u2019re doing well. My name is Bethany Gifford, and I\u2019m reaching out to explore a potential education partnership between [Organization Name] and the Aesthetic Injector Academy (AIA), founded by Tracy Olson.\n\nAIA is a CE-accredited, self-paced education platform created to support medical professionals within dermatology practices who are either entering aesthetic services or expanding existing cosmetic offerings. Tracy Olson is the founder of Youthtopia Med Spa in Atlanta and a nationally recognized educator known for her emphasis on anatomy, patient safety, and ethical clinical decision-making.\n\nAs dermatology practices continue to integrate aesthetic services, administrators and physicians are increasingly seeking standardized, high-quality injector education that protects outcomes, reduces risk, and supports long-term practice reputation. This is where AIA adds value.\n\nWe would welcome the opportunity to explore how AIA could serve as a trusted education resource for your members, whether through preferred partner status, member-exclusive access, or collaborative educational initiatives.\n\nCould you please advise who the appropriate person would be to speak with regarding education partnerships or industry collaborations? I would be happy to share additional details on curriculum, accreditation, and member benefits.\n\nThank you for your continued leadership in advancing dermatologic excellence. I look forward to connecting.\n\nWarm regards,  \nBethany Gifford  \nGrowth Partner  \nAesthetic Injector Academy  \n[Link]\n:::\n\n---\n\n## 2) Med Spa & Aesthetic Business Associations  \nAmSpa, IMSA, Medical Spa Conferences\n\n:::writing{id=\"90113\" variant=\"email\" subject=\"Preferred Education Partner Opportunity for Your Med Spa Members\"}\nHello [Organization Name] Team,\n\nMy name is Bethany Gifford, and I\u2019m reaching out to explore a potential partnership between [Organization Name] and the Aesthetic Injector Academy (AIA), founded by Tracy Olson.\n\nAIA is a CE-accredited, self-paced injector education platform designed to help med spa teams train safely, consistently, and confidently as they grow aesthetic service lines. Tracy Olson is the founder of Youthtopia Med Spa in Atlanta and a respected industry educator known for her anatomy-first, ethics-driven approach to injectables.\n\nMany med spa owners are navigating rapid growth while struggling with inconsistent injector training, onboarding gaps, and risk exposure. Our mission is to provide a standardized, high-quality education solution that supports both clinical excellence and operational scalability.\n\nWe would love to explore how AIA could become a preferred or recommended education resource for your members, supporting safer growth, better outcomes, and stronger teams across your network.\n\nWho would be the best person to speak with regarding partnerships or preferred vendor opportunities? I would welcome the chance to discuss how this collaboration could benefit your membership.\n\nThank you for your time and for the work you do to support the med spa industry.\n\nWarm regards,  \nBethany Gifford  \nGrowth Partner  \nAesthetic Injector Academy  \n[Link]\n:::\n\n---\n\n## 3) Nursing & Injector Associations  \nAANP, NAAN, AAAMS, State Nursing Associations\n\n:::writing{id=\"90114\" variant=\"email\" subject=\"CE-Accredited Injector Education Partnership Opportunity\"}\nHello [Organization Name] Team,\n\nI hope this finds you well. My name is Bethany Gifford, and I\u2019m reaching out to explore a potential continuing education partnership with [Organization Name] on behalf of the Aesthetic Injector Academy (AIA).\n\nAIA is a CE-accredited, self-paced education platform designed for nurses, nurse practitioners, and medical professionals who are entering or advancing in aesthetic medicine. The academy was founded by Tracy Olson, owner of Youthtopia Med Spa in Atlanta and a nationally recognized educator focused on anatomy mastery, patient safety, and ethical aesthetics.\n\nAs interest in aesthetic medicine continues to grow among nursing professionals, there is a clear need for trusted, accredited education pathways that prioritize safety, confidence, and real-world clinical application. AIA was built specifically to meet that need.\n\nWe would love to explore how AIA could support your members through preferred partner status, member-exclusive education access, or co-branded educational offerings.\n\nCould you please let me know who the appropriate contact would be to discuss education partnerships or CE collaborations? I would be happy to provide additional information.\n\nThank you for your continued commitment to advancing nursing education and professional excellence.\n\nWarm regards,  \nBethany Gifford  \nGrowth Partner  \nAesthetic Injector Academy  \n[Link]\n:::\n\n---\n\n## 4) Practice Management & Administrator Associations  \nADAM, MGMA, HFMA\n\n:::writing{id=\"90115\" variant=\"email\" subject=\"Education Partnership Supporting Safe Aesthetic Expansion\"}\nHello [Organization Name] Team,\n\nMy name is Bethany Gifford, and I\u2019m reaching out to explore a potential education partnership between [Organization Name] and the Aesthetic Injector Academy (AIA), founded by Tracy Olson.\n\nAIA is a CE-accredited injector education platform designed to support practices expanding into aesthetic services while maintaining high standards of safety, compliance, and operational consistency. Tracy Olson is the founder of Youthtopia Med Spa in Atlanta and a respected educator known for her focus on anatomy, ethics, and sustainable practice growth.\n\nMany administrators and practice managers are tasked with overseeing aesthetic expansion without standardized injector training frameworks in place. AIA serves as a turnkey education solution that supports risk mitigation, provider confidence, and improved patient outcomes.\n\nWe would love to explore how AIA could serve as a preferred education partner or recommended resource for your members as they navigate growth and diversification.\n\nWho would be the best person to speak with regarding partnerships or educational resources? I would welcome the opportunity to connect.\n\nThank you for your leadership in supporting healthcare administrators nationwide.\n\nWarm regards,  \nBethany Gifford  \nGrowth Partner  \nAesthetic Injector Academy  \n[Link]\n:::\n\n---\n\n### Want me to go one step further?\nNext smart moves I can do fast:\n- Create a **single master pitch deck** to attach to all of these\n- Write **LinkedIn DM versions** for board members and executives\n- Build a **CRM-ready outreach sequence** (email + LinkedIn + follow-up)\n- Customize these emails by **association name + value hook**\n\nJust tell me what channel you want to activate first and how aggressive you want the outreach to be \ud83d\udd25"
+          ]
+        },
+        "create_time": 1770759582.58474,
+        "id": "fd33a665-ff25-4c16-ac63-6749d144825e",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "082c618f-6b71-470a-8650-1de5ba855d53"
+        }
+      },
+      "parent": "306c56a6-910e-42ae-9ee4-a56ac65adf96"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Partnership Proposal with ADAM",
+  "update_time": 1770763374.126391,
+  "voice": null
+}

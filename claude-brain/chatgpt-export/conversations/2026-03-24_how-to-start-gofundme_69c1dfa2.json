@@ -1,0 +1,594 @@
+{
+  "conversation_id": "69c1dfa2-15cc-8333-a526-c6a7cc3d3899",
+  "conversation_template_id": null,
+  "create_time": 1774313398.126296,
+  "current_node": "a5bd98a6-d900-40aa-813d-7315edc433ca",
+  "default_model_slug": "gpt-5-3",
+  "id": "69c1dfa2-15cc-8333-a526-c6a7cc3d3899",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "30588a65-87d3-48ae-b935-f658d32eccd3": {
+      "id": "30588a65-87d3-48ae-b935-f658d32eccd3",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "thoughts",
+          "source_analysis_msg_id": "5bc18a05-fa15-497f-a6ee-9c7363ecb76c",
+          "thoughts": [
+            {
+              "chunks": [
+                "The user asked for current instructions, which may have changed since the cutoff.",
+                "I should fit this to today\u2019s situation, so I\u2019ll need to search for any updated steps.",
+                "Using up-to-date web resources will help me provide the most accurate current platform instructions."
+              ],
+              "content": "The user asked for current instructions, which may have changed since the cutoff. I should fit this to today\u2019s situation, so I\u2019ll need to search for any updated steps. Using up-to-date web resources will help me provide the most accurate current platform instructions.",
+              "finished": true,
+              "summary": "Looking up current service instructions"
+            }
+          ]
+        },
+        "create_time": 1774313399.999601,
+        "id": "30588a65-87d3-48ae-b935-f658d32eccd3",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-4-thinking",
+          "parent_id": "5bc18a05-fa15-497f-a6ee-9c7363ecb76c"
+        }
+      },
+      "parent": "bbb21472-2185-47c7-a65b-4d299c96d76d"
+    },
+    "3bfadecd-2a9c-4401-ad0f-917a1499dc5e": {
+      "id": "3bfadecd-2a9c-4401-ad0f-917a1499dc5e",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content": "Thought for 4s",
+          "content_type": "reasoning_recap"
+        },
+        "create_time": 1774313403.661692,
+        "id": "3bfadecd-2a9c-4401-ad0f-917a1499dc5e",
+        "metadata": {
+          "model_slug": "gpt-5-3",
+          "parent_id": "75004dc3-17c7-422c-a9ef-4b4ad376c567",
+          "search_result_groups": [
+            {
+              "domain": "support.gofundme.com",
+              "entries": [
+                {
+                  "attribution": "support.gofundme.com",
+                  "snippet": "6 days ago \u2014 Step 1: Starting a GoFundMe is quick and easy. \u00b7 Step 2: Create your GoFundMe account \u00b7 Step 3: Tell your story & pick your title \u00b7 Step 4: Set ...Read more",
+                  "title": "Creating a GoFundMe from start to finish \u2013 Help Center",
+                  "url": "https://support.gofundme.com/hc/en-us/articles/360001992627-Creating-a-GoFundMe-from-start-to-finish"
+                },
+                {
+                  "attribution": "support.gofundme.com",
+                  "snippet": "4 days ago \u2014 Tell your story, have at least 100 words \u00b7 Share your fundraiser as soon as you're ready, in more than one place, multiple times \u00b7 Post an update ...Read more",
+                  "title": "Four key actions for your GoFundMe fundraiser",
+                  "url": "https://support.gofundme.com/hc/en-us/articles/13163352843931-Four-key-actions-for-your-GoFundMe-fundraiser"
+                }
+              ]
+            },
+            {
+              "domain": "www.gofundme.com",
+              "entries": [
+                {
+                  "attribution": "www.gofundme.com",
+                  "snippet": "To get started, just tap the green 'Start a GoFundMe' button. Follow the steps on your screen, write your story and customize your fundraiser. Once that's all ...Read more",
+                  "title": "Start a Fundraiser on GoFundMe",
+                  "url": "https://www.gofundme.com/c/start"
+                },
+                {
+                  "attribution": "www.gofundme.com",
+                  "snippet": "Click the 'Start a GoFundMe' button to get started. You'll be guided by prompts to add fundraiser details and set your goal, which can be changed anytime. Step ...Read more",
+                  "title": "Start A Fundraiser for A Business",
+                  "url": "https://www.gofundme.com/c/start/business-fundraising"
+                },
+                {
+                  "attribution": "www.gofundme.com",
+                  "snippet": "1. Follow the prompts to set up your fundraiser \u00b7 Click the 'Start a GoFundMe' button and answer a few questions to get started \u00b7 Add a photo or video for your ...Read more",
+                  "title": "How GoFundMe works",
+                  "url": "https://www.gofundme.com/c/how-it-works"
+                },
+                {
+                  "attribution": "www.gofundme.com",
+                  "snippet": "Click the 'Start a GoFundMe' button to get started. You'll be guided by prompts to add fundraiser details and set your goal, which can be changed anytime. Step ...Read more",
+                  "title": "Start A Charity Fundraiser",
+                  "url": "https://www.gofundme.com/c/start/charity-fundraising"
+                },
+                {
+                  "attribution": "www.gofundme.com",
+                  "snippet": "Aug 8, 2025 \u2014 10 Steps to Start Your Nonprofit Organization \u00b7 1. Do Your Research to Establish Your Cause \u00b7 2. Appoint Board Members \u00b7 3. Develop Your Mission ...Read more",
+                  "title": "How to Start a Charity: Everything You Need to Know",
+                  "url": "https://www.gofundme.com/c/blog/how-to-start-charity"
+                },
+                {
+                  "attribution": "www.gofundme.com",
+                  "snippet": "Use our tools to create your fundraiser. You'll be guided by prompts to add fundraiser details and set your goal. Make updates anytime. Get tips for starting ...Read more",
+                  "title": "GoFundMe | The #1 Crowdfunding and Fundraising Platform",
+                  "url": "https://www.gofundme.com/"
+                },
+                {
+                  "attribution": "www.gofundme.com",
+                  "snippet": "Get everything you need to learn how to craft a successful crowdfunding fundraiser on GoFundMe. We offer extensive guides, success articles, fundraising tips, ...Read more",
+                  "title": "Resource Center",
+                  "url": "https://www.gofundme.com/c/resource-center"
+                },
+                {
+                  "attribution": "www.gofundme.com",
+                  "snippet": "In our simple step-by-step guide, we'll walk you through fundraising tips for individuals and help you set up for success.Read more",
+                  "title": "Fundraising for Individuals: Simple Steps for Success",
+                  "url": "https://www.gofundme.com/c/fundraising-tips/fundraising-for-individuals"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "30588a65-87d3-48ae-b935-f658d32eccd3"
+    },
+    "58319eac-b806-4256-817b-9f838481d3e0": {
+      "id": "58319eac-b806-4256-817b-9f838481d3e0",
+      "message": null,
+      "parent": null
+    },
+    "a5bd98a6-d900-40aa-813d-7315edc433ca": {
+      "id": "a5bd98a6-d900-40aa-813d-7315edc433ca",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s the easiest step-by-step way to start a GoFundMe:\n\n1. Go to GoFundMe and tap **Start a GoFundMe**. GoFundMe says it will guide you through prompts to set up the fundraiser. \ue200cite\ue202turn117032search1\ue202turn117032search3\ue201\n\n2. Choose **where the funds will go** and **who you\u2019re fundraising for**. You\u2019ll select whether the money is for yourself, someone else, or a charity, and the withdrawal location sets the currency collected. \ue200cite\ue202turn117032search0\ue201\n\n3. Create your account. You can sign up with Google, Facebook, Apple, or your email address. GoFundMe notes that the name you enter is shown publicly, while your legal name is used later for transfers. \ue200cite\ue202turn117032search0\ue201\n\n4. Add your fundraiser title and story. GoFundMe recommends a clear title and a story of at least 100 words that explains who needs help, what happened, how the money will be used, and why support matters. \ue200cite\ue202turn117032search0\ue202turn117032search6\ue201\n\n5. Upload a photo or video. GoFundMe includes this as part of setup, and a real, clear image usually helps people trust the fundraiser more. \ue200cite\ue202turn117032search3\ue201\n\n6. Set your fundraising goal. GoFundMe lets you choose your own goal and says it can be changed later if needed. \ue200cite\ue202turn117032search0\ue202turn117032search3\ue201\n\n7. Publish the fundraiser and set up bank transfers. GoFundMe recommends getting your transfer setup done early so donations can be withdrawn smoothly. \ue200cite\ue202turn117032search6\ue202turn117032search7\ue201\n\n8. Share it right away. GoFundMe specifically recommends sharing by text, email, and social media, and continuing to post it more than once. \ue200cite\ue202turn117032search3\ue202turn117032search6\ue201\n\n9. Post updates within the first week. Keeping people updated can help build trust and keep momentum going. \ue200cite\ue202turn117032search6\ue201\n\nA simple formula for your story:\n- what happened\n- why you need help now\n- exactly what the money will cover\n- how people can help, even if they can\u2019t donate\n\nExample title:\n**Help [Name] Build a Safe Cat Sanctuary in Hawaii**\n\nExample opening:\n\u201cHi, my name is Bethany, and I\u2019m raising money to help my sister and her husband create a safe sanctuary for abandoned and community cats on the Big Island. These funds will go toward food, medical care, building materials, bedding, and rescue supplies.\u201d\n\nFor the goal amount, pick a number that covers the actual need without feeling random. If you need $3,000 to $5,000, I\u2019d usually set it at **$5,000** so it gives enough room for supplies, care, and fees. GoFundMe notes there is a transaction fee per donation, so many people set the goal a bit higher than the exact need. \ue200cite\ue202turn117032search0\ue201\n\nI can also write your full GoFundMe title, story, and first Facebook post for you."
+          ]
+        },
+        "create_time": 1774313403.287293,
+        "id": "a5bd98a6-d900-40aa-813d-7315edc433ca",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "([GoFundMe](https://www.gofundme.com/c/start?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "GoFundMe",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 1,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 3,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "To get started, just tap the green 'Start a GoFundMe' button. Follow the steps on your screen, write your story and customize your fundraiser. Once that's all ...Read more",
+                  "supporting_websites": [
+                    {
+                      "attribution": "GoFundMe",
+                      "pub_date": null,
+                      "snippet": "1. Follow the prompts to set up your fundraiser \u00b7 Click the 'Start a GoFundMe' button and answer a few questions to get started \u00b7 Add a photo or video for your ...Read more",
+                      "title": "How GoFundMe works",
+                      "url": "https://www.gofundme.com/c/how-it-works?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Start a Fundraiser on GoFundMe",
+                  "url": "https://www.gofundme.com/c/start?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([GoFundMe Support](https://support.gofundme.com/hc/en-us/articles/360001992627-Creating-a-GoFundMe-from-start-to-finish?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "GoFundMe Support",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "6 days ago \u2014 Step 1: Starting a GoFundMe is quick and easy. \u00b7 Step 2: Create your GoFundMe account \u00b7 Step 3: Tell your story & pick your title \u00b7 Step 4: Set ...Read more",
+                  "supporting_websites": [],
+                  "title": "Creating a GoFundMe from start to finish \u2013 Help Center",
+                  "url": "https://support.gofundme.com/hc/en-us/articles/360001992627-Creating-a-GoFundMe-from-start-to-finish?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([GoFundMe Support](https://support.gofundme.com/hc/en-us/articles/360001992627-Creating-a-GoFundMe-from-start-to-finish?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "GoFundMe Support",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "6 days ago \u2014 Step 1: Starting a GoFundMe is quick and easy. \u00b7 Step 2: Create your GoFundMe account \u00b7 Step 3: Tell your story & pick your title \u00b7 Step 4: Set ...Read more",
+                  "supporting_websites": [],
+                  "title": "Creating a GoFundMe from start to finish \u2013 Help Center",
+                  "url": "https://support.gofundme.com/hc/en-us/articles/360001992627-Creating-a-GoFundMe-from-start-to-finish?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([GoFundMe Support](https://support.gofundme.com/hc/en-us/articles/360001992627-Creating-a-GoFundMe-from-start-to-finish?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "GoFundMe Support",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 6,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "6 days ago \u2014 Step 1: Starting a GoFundMe is quick and easy. \u00b7 Step 2: Create your GoFundMe account \u00b7 Step 3: Tell your story & pick your title \u00b7 Step 4: Set ...Read more",
+                  "supporting_websites": [
+                    {
+                      "attribution": "GoFundMe Support",
+                      "pub_date": null,
+                      "snippet": "4 days ago \u2014 Tell your story, have at least 100 words \u00b7 Share your fundraiser as soon as you're ready, in more than one place, multiple times \u00b7 Post an update ...Read more",
+                      "title": "Four key actions for your GoFundMe fundraiser",
+                      "url": "https://support.gofundme.com/hc/en-us/articles/13163352843931-Four-key-actions-for-your-GoFundMe-fundraiser?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Creating a GoFundMe from start to finish \u2013 Help Center",
+                  "url": "https://support.gofundme.com/hc/en-us/articles/360001992627-Creating-a-GoFundMe-from-start-to-finish?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([GoFundMe](https://www.gofundme.com/c/how-it-works?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "GoFundMe",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 3,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "1. Follow the prompts to set up your fundraiser \u00b7 Click the 'Start a GoFundMe' button and answer a few questions to get started \u00b7 Add a photo or video for your ...Read more",
+                  "supporting_websites": [],
+                  "title": "How GoFundMe works",
+                  "url": "https://www.gofundme.com/c/how-it-works?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([GoFundMe Support](https://support.gofundme.com/hc/en-us/articles/360001992627-Creating-a-GoFundMe-from-start-to-finish?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "GoFundMe Support",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 3,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "6 days ago \u2014 Step 1: Starting a GoFundMe is quick and easy. \u00b7 Step 2: Create your GoFundMe account \u00b7 Step 3: Tell your story & pick your title \u00b7 Step 4: Set ...Read more",
+                  "supporting_websites": [
+                    {
+                      "attribution": "GoFundMe",
+                      "pub_date": null,
+                      "snippet": "1. Follow the prompts to set up your fundraiser \u00b7 Click the 'Start a GoFundMe' button and answer a few questions to get started \u00b7 Add a photo or video for your ...Read more",
+                      "title": "How GoFundMe works",
+                      "url": "https://www.gofundme.com/c/how-it-works?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Creating a GoFundMe from start to finish \u2013 Help Center",
+                  "url": "https://support.gofundme.com/hc/en-us/articles/360001992627-Creating-a-GoFundMe-from-start-to-finish?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([GoFundMe Support](https://support.gofundme.com/hc/en-us/articles/13163352843931-Four-key-actions-for-your-GoFundMe-fundraiser?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "GoFundMe Support",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 6,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 7,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "4 days ago \u2014 Tell your story, have at least 100 words \u00b7 Share your fundraiser as soon as you're ready, in more than one place, multiple times \u00b7 Post an update ...Read more",
+                  "supporting_websites": [
+                    {
+                      "attribution": "GoFundMe",
+                      "pub_date": null,
+                      "snippet": "Use our tools to create your fundraiser. You'll be guided by prompts to add fundraiser details and set your goal. Make updates anytime. Get tips for starting ...Read more",
+                      "title": "GoFundMe | The #1 Crowdfunding and Fundraising Platform",
+                      "url": "https://www.gofundme.com/?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Four key actions for your GoFundMe fundraiser",
+                  "url": "https://support.gofundme.com/hc/en-us/articles/13163352843931-Four-key-actions-for-your-GoFundMe-fundraiser?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([GoFundMe](https://www.gofundme.com/c/how-it-works?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "GoFundMe",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 3,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 6,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "1. Follow the prompts to set up your fundraiser \u00b7 Click the 'Start a GoFundMe' button and answer a few questions to get started \u00b7 Add a photo or video for your ...Read more",
+                  "supporting_websites": [
+                    {
+                      "attribution": "GoFundMe Support",
+                      "pub_date": null,
+                      "snippet": "4 days ago \u2014 Tell your story, have at least 100 words \u00b7 Share your fundraiser as soon as you're ready, in more than one place, multiple times \u00b7 Post an update ...Read more",
+                      "title": "Four key actions for your GoFundMe fundraiser",
+                      "url": "https://support.gofundme.com/hc/en-us/articles/13163352843931-Four-key-actions-for-your-GoFundMe-fundraiser?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "How GoFundMe works",
+                  "url": "https://www.gofundme.com/c/how-it-works?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([GoFundMe Support](https://support.gofundme.com/hc/en-us/articles/13163352843931-Four-key-actions-for-your-GoFundMe-fundraiser?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "GoFundMe Support",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 6,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "4 days ago \u2014 Tell your story, have at least 100 words \u00b7 Share your fundraiser as soon as you're ready, in more than one place, multiple times \u00b7 Post an update ...Read more",
+                  "supporting_websites": [],
+                  "title": "Four key actions for your GoFundMe fundraiser",
+                  "url": "https://support.gofundme.com/hc/en-us/articles/13163352843931-Four-key-actions-for-your-GoFundMe-fundraiser?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([GoFundMe Support](https://support.gofundme.com/hc/en-us/articles/360001992627-Creating-a-GoFundMe-from-start-to-finish?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "GoFundMe Support",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "6 days ago \u2014 Step 1: Starting a GoFundMe is quick and easy. \u00b7 Step 2: Create your GoFundMe account \u00b7 Step 3: Tell your story & pick your title \u00b7 Step 4: Set ...Read more",
+                  "supporting_websites": [],
+                  "title": "Creating a GoFundMe from start to finish \u2013 Help Center",
+                  "url": "https://support.gofundme.com/hc/en-us/articles/360001992627-Creating-a-GoFundMe-from-start-to-finish?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prefix": null,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "GoFundMe",
+                  "title": "Start a Fundraiser on GoFundMe",
+                  "url": "https://www.gofundme.com/c/start?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "GoFundMe Support",
+                  "title": "Creating a GoFundMe from start to finish \u2013 Help Center",
+                  "url": "https://support.gofundme.com/hc/en-us/articles/360001992627-Creating-a-GoFundMe-from-start-to-finish?utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "model_slug": "gpt-5-4-thinking",
+          "parent_id": "3bfadecd-2a9c-4401-ad0f-917a1499dc5e",
+          "search_result_groups": [
+            {
+              "domain": "gofundme.com",
+              "entries": [
+                {
+                  "attribution": "gofundme.com",
+                  "snippet": "Click the 'Start a GoFundMe' button to get started. You'll be guided by prompts to add fundraiser details and set your goal, which can be changed anytime. Step ...Read more",
+                  "title": "Start A Fundraiser for A Business",
+                  "url": "https://www.gofundme.com/c/start/business-fundraising?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "gofundme.com",
+                  "snippet": "Click the 'Start a GoFundMe' button to get started. You'll be guided by prompts to add fundraiser details and set your goal, which can be changed anytime. Step ...Read more",
+                  "title": "Start A Charity Fundraiser",
+                  "url": "https://www.gofundme.com/c/start/charity-fundraising?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "gofundme.com",
+                  "snippet": "Aug 8, 2025 \u2014 10 Steps to Start Your Nonprofit Organization \u00b7 1. Do Your Research to Establish Your Cause \u00b7 2. Appoint Board Members \u00b7 3. Develop Your Mission ...Read more",
+                  "title": "How to Start a Charity: Everything You Need to Know",
+                  "url": "https://www.gofundme.com/c/blog/how-to-start-charity?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "gofundme.com",
+                  "snippet": "Use our tools to create your fundraiser. You'll be guided by prompts to add fundraiser details and set your goal. Make updates anytime. Get tips for starting ...Read more",
+                  "title": "GoFundMe | The #1 Crowdfunding and Fundraising Platform",
+                  "url": "https://www.gofundme.com/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "gofundme.com",
+                  "snippet": "Get everything you need to learn how to craft a successful crowdfunding fundraiser on GoFundMe. We offer extensive guides, success articles, fundraising tips, ...Read more",
+                  "title": "Resource Center",
+                  "url": "https://www.gofundme.com/c/resource-center?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "gofundme.com",
+                  "snippet": "In our simple step-by-step guide, we'll walk you through fundraising tips for individuals and help you set up for success.Read more",
+                  "title": "Fundraising for Individuals: Simple Steps for Success",
+                  "url": "https://www.gofundme.com/c/fundraising-tips/fundraising-for-individuals?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "3bfadecd-2a9c-4401-ad0f-917a1499dc5e"
+    },
+    "bbb21472-2185-47c7-a65b-4d299c96d76d": {
+      "id": "bbb21472-2185-47c7-a65b-4d299c96d76d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Step by step on how to start a go fund me "
+          ]
+        },
+        "create_time": 1774313397.807438,
+        "id": "bbb21472-2185-47c7-a65b-4d299c96d76d",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "58319eac-b806-4256-817b-9f838481d3e0"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "How to start GoFundMe",
+  "update_time": 1774313423.889782,
+  "voice": null
+}

@@ -1,0 +1,72 @@
+{
+  "conversation_id": "69fa2f5d-8158-83ea-af99-8e3d997e7a6e",
+  "conversation_template_id": null,
+  "create_time": 1778003917.629283,
+  "current_node": "0f851604-8c2b-46c1-8624-772f63375f26",
+  "default_model_slug": "gpt-5-3",
+  "id": "69fa2f5d-8158-83ea-af99-8e3d997e7a6e",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "0f851604-8c2b-46c1-8624-772f63375f26": {
+      "id": "0f851604-8c2b-46c1-8624-772f63375f26",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a clean, short, recruiter-ready version you can use:\n\n---\n\n**Role: Sales Closer (Remote, South Africa Preferred)**\n\nWe are hiring a high-performing Sales Closer to join our fast-growing agency. This role is for someone who can confidently take qualified prospects, run structured sales calls, and close deals consistently while contributing to a strong, collaborative team culture.\n\n**What You\u2019ll Do:**\n- Run scheduled discovery and closing calls with qualified prospects  \n- Follow a proven sales framework while adapting to each conversation  \n- Accurately document all calls, notes, and pipeline activity in GoHighLevel (GHL)  \n- Handle light objection management and occasional follow-ups  \n- Support minor appointment setting when needed  \n- Communicate with the team regularly and stay aligned on pipeline and performance  \n\n**What We\u2019re Looking For:**\n- Proven experience in high-ticket closing (agency or service-based preferred)  \n- Clear, neutral English accent with strong communication skills  \n- Highly organized and detail-oriented with CRM discipline  \n- Familiarity with GoHighLevel or willingness to learn quickly  \n- Strong work ethic and ability to perform in a fast-paced environment  \n- Team-oriented mindset with a positive, growth-focused attitude  \n- Based in South Africa (preferred)  \n- Female candidates preferred  \n\n**Expectations:**\n- Consistent closing performance and revenue contribution  \n- Clean CRM management and accurate reporting  \n- Professional, confident presence on calls  \n- Willingness to grow with the company long-term and scale with the team  \n\nThis is a high-impact role with strong growth potential for the right person who wants to be part of building something meaningful and scalable."
+          ]
+        },
+        "create_time": 1778003917.454852,
+        "id": "0f851604-8c2b-46c1-8624-772f63375f26",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "15a7b146-9a04-4b1a-b779-cbacf4c5e9b0"
+        }
+      },
+      "parent": "6e954ce8-25ea-4498-a033-e6e344c1abd1"
+    },
+    "6e954ce8-25ea-4498-a033-e6e344c1abd1": {
+      "id": "6e954ce8-25ea-4498-a033-e6e344c1abd1",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "write me adescription of  a sales closer for my agency that i can give our recruiter its need to be short and direct, but also add in we wants team culture and some minor setting abilities if need be =. female prefered and south africa. add in what needs to be done and expected. GHL knowledge or ability to learn it to document calls. clear accents, not thick please and someone who is wanting to grwo with a compnay and scale. "
+          ]
+        },
+        "create_time": 1778003916.45,
+        "id": "6e954ce8-25ea-4498-a033-e6e344c1abd1",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Sales Closer Description",
+  "update_time": 1778003962.50876,
+  "voice": null
+}

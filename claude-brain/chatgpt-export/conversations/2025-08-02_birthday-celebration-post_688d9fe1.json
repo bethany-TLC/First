@@ -1,0 +1,71 @@
+{
+  "conversation_id": "688d9fe1-5460-8011-a316-3661bc7b9285",
+  "conversation_template_id": null,
+  "create_time": 1754111969.791916,
+  "current_node": "f38e0cf4-f55b-433b-bfc4-e4880ac7a0f7",
+  "default_model_slug": "auto",
+  "id": "688d9fe1-5460-8011-a316-3661bc7b9285",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "9574ba4f-4028-4be2-92e4-9eaad112f667": {
+      "id": "9574ba4f-4028-4be2-92e4-9eaad112f667",
+      "message": null,
+      "parent": null
+    },
+    "bbb212c5-bc70-4f13-9122-dec68c458c24": {
+      "id": "bbb212c5-bc70-4f13-9122-dec68c458c24",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write a post about celebrating Regans birthday with dear friend at Bourbon Steak house. Talk about life long friendships and sweet memories and future fun"
+          ]
+        },
+        "create_time": 1754112013.310326,
+        "id": "bbb212c5-bc70-4f13-9122-dec68c458c24",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "9574ba4f-4028-4be2-92e4-9eaad112f667"
+    },
+    "f38e0cf4-f55b-433b-bfc4-e4880ac7a0f7": {
+      "id": "f38e0cf4-f55b-433b-bfc4-e4880ac7a0f7",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Absolutely! Here's a warm and heartfelt post you could use:\n\n---\n\n**Celebrating Regan\u2019s Birthday at Bourbon Steak \ud83e\udd42\u2728**\n\nLast night was one for the books \u2014 celebrating Regan\u2019s birthday with a dear friend at Bourbon Steak! The kind of evening where laughter fills the air, memories from years past resurface, and future adventures start to take shape over good wine and even better conversation.\n\nThere\u2019s something so grounding and beautiful about lifelong friendships \u2014 the ones that have seen you through chapters of growth, change, joy, and heartache. Sitting across from someone who just *knows you*\u2026 that\u2019s a gift in itself.\n\nCheers to more milestones, spontaneous trips, and conversations that run late into the night. Happy Birthday, Regan \u2014 here\u2019s to many more sweet memories ahead! \ud83d\udcab\ud83d\udc9b #LifelongFriends #BirthdayCheers #BourbonSteak #GratefulHeart #FutureFun\n\n---\n\nLet me know if you'd like to make it more formal, humorous, or photo-caption-friendly!"
+          ]
+        },
+        "create_time": 1754112013.441748,
+        "id": "f38e0cf4-f55b-433b-bfc4-e4880ac7a0f7",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-4o",
+          "parent_id": "82fd837a-94ab-498e-8284-ea1b803552cc"
+        }
+      },
+      "parent": "bbb212c5-bc70-4f13-9122-dec68c458c24"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Birthday celebration post",
+  "update_time": 1754112021.459891,
+  "voice": null
+}

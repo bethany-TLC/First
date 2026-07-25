@@ -1,0 +1,126 @@
+{
+  "conversation_id": "6a0647da-df98-83ea-95d8-68de049b486c",
+  "conversation_template_id": null,
+  "create_time": 1778796515.471112,
+  "current_node": "86711250-45de-4549-9606-218d18a8ef8f",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a0647da-df98-83ea-95d8-68de049b486c",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "86711250-45de-4549-9606-218d18a8ef8f": {
+      "id": "86711250-45de-4549-9606-218d18a8ef8f",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "CEO of a luxury med spa growth company by day, emotionally attached raccoon with Wi-Fi by night.  \n\nBuilt businesses out of trauma, caffeine, and pure spite. Somehow turned \u201cI\u2019ll figure it out\u201d into an entire career. Collects skincare products like Pok\u00e9mon cards and says \u201cjust one margarita\u201d with the confidence of a known liar.  \n\nCan diagnose your revenue leaks, your toxic relationship, and why your front desk staff is scaring away clients in under 7 minutes.  \n\nLives somewhere between \u201chealing feminine energy\u201d and \u201csend the invoice.\u201d  \n\nProbably in Tennessee. Probably running on iced coffee and chaos. Probably turning a random conversation at a winery into a six-figure business idea.  \n\nWill cry over sunsets, dogs, and people being kind. Will also absolutely throw hands with a CRM that won\u2019t sync properly.  \n\nAccidentally fell in love with her best friend. Accidentally built the life she used to pray for. Still suspicious about it daily."
+          ]
+        },
+        "create_time": 1778796515.322499,
+        "id": "86711250-45de-4549-9606-218d18a8ef8f",
+        "metadata": {
+          "content_references": [],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Memory",
+                "citation_uuid": "82dad886-bcc7-41d0-91e4-fab3e4a903e7",
+                "conversation_context_type": "user_memory",
+                "end_idx": -1,
+                "index": 2,
+                "matched_text": "",
+                "memory_id": "78dfd301-de98-4556-bcd6-302b824e2a8e",
+                "prompt_text": null,
+                "reason": "You operate in Clarksville, Tennessee.",
+                "refs": [],
+                "snippet": "operate in Clarksville, TN.",
+                "start_idx": -1,
+                "title": "You operate in Clarksville, Tennessee.",
+                "type": "conversation_context_citation",
+                "url": "#settings/Personalization"
+              },
+              "citation_uuid": "82dad886-bcc7-41d0-91e4-fab3e4a903e7",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "aac37575-2796-4a5e-a64b-dd7ba79dd711"
+        }
+      },
+      "parent": "bbb2160e-6c18-4751-8fe8-4145779e9882"
+    },
+    "bbb2160e-6c18-4751-8fe8-4145779e9882": {
+      "id": "bbb2160e-6c18-4751-8fe8-4145779e9882",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_00000000246871f79057a2462484628b",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 595,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 106335,
+              "width": 886
+            }
+          ]
+        },
+        "create_time": 1778796515.092622,
+        "id": "bbb2160e-6c18-4751-8fe8-4145779e9882",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_00000000246871f79057a2462484628b",
+              "mime_type": "image/jpeg",
+              "name": "1000017946.jpg",
+              "size": 106335
+            }
+          ],
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "c75ecc92-c46e-4311-8afe-9f19a1d6a720"
+    },
+    "c75ecc92-c46e-4311-8afe-9f19a1d6a720": {
+      "id": "c75ecc92-c46e-4311-8afe-9f19a1d6a720",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "CEO and Raccoon Vibes",
+  "update_time": 1778796522.259059,
+  "voice": null
+}

@@ -1,0 +1,520 @@
+{
+  "conversation_id": "69c3195f-befc-832e-80f7-05fc569137bc",
+  "conversation_template_id": null,
+  "create_time": 1774393715.105597,
+  "current_node": "c3d82f5e-f19f-4ae4-9813-af0e2aca3b4b",
+  "default_model_slug": "gpt-5-3",
+  "id": "69c3195f-befc-832e-80f7-05fc569137bc",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "bbb2194b-c996-4462-a184-268a2450aca1": {
+      "id": "bbb2194b-c996-4462-a184-268a2450aca1",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "The most bingable shows right now on all streaming channels. Give three each"
+          ]
+        },
+        "create_time": 1774393714.867714,
+        "id": "bbb2194b-c996-4462-a184-268a2450aca1",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "f4687186-0da0-49d3-9dee-a382f806815b"
+    },
+    "c3d82f5e-f19f-4ae4-9813-af0e2aca3b4b": {
+      "id": "c3d82f5e-f19f-4ae4-9813-af0e2aca3b4b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here are some of the **most bingeable shows right now (2025\u20132026 trending across platforms)** broken down cleanly with **3 per streaming service** \ud83d\udc47\n\n---\n\n## \ud83d\udcfa Netflix\n\ue200image_group\ue202{\"aspect_ratio\":\"1:1\",\"query\":[\"Squid Game season 2 still\",\"The Night Agent series Netflix scene\",\"3 Body Problem Netflix show\"],\"num_per_query\":1}\ue201\n- **\ue200entity\ue202[\"tv_show\",\"Squid Game\",\"Netflix series\"]\ue201 (Season 2)** \u2013 high-stakes, addictive, global hit energy  \n- **\ue200entity\ue202[\"tv_show\",\"The Night Agent\",\"Netflix series\"]\ue201** \u2013 fast-paced political thriller, super bingeable  \n- **\ue200entity\ue202[\"tv_show\",\"3 Body Problem\",\"Netflix series\"]\ue201** \u2013 sci-fi with big mystery + cliffhangers  \n\n---\n\n## \ud83c\udfac HBO / Max\n\ue200image_group\ue202{\"aspect_ratio\":\"1:1\",\"query\":[\"The Last of Us HBO scene\",\"House of the Dragon season 2 still\",\"Euphoria HBO dramatic scene\"],\"num_per_query\":1}\ue201\n- **\ue200entity\ue202[\"tv_show\",\"The Last of Us\",\"HBO series\"]\ue201** \u2013 emotional + intense, hard to stop watching  \n- **\ue200entity\ue202[\"tv_show\",\"House of the Dragon\",\"HBO series\"]\ue201** \u2013 drama, power, and nonstop tension  \n- **\ue200entity\ue202[\"tv_show\",\"Euphoria\",\"HBO series\"]\ue201** \u2013 raw, visually gripping, very addictive  \n\n---\n\n## \ud83c\udf7f Hulu\n\ue200image_group\ue202{\"aspect_ratio\":\"1:1\",\"query\":[\"The Bear FX Hulu kitchen scene\",\"Only Murders in the Building trio\",\"Shogun FX series 2024 still\"],\"num_per_query\":1}\ue201\n- **\ue200entity\ue202[\"tv_show\",\"The Bear\",\"FX on Hulu series\"]\ue201** \u2013 chaotic, emotional, insanely bingeable  \n- **\ue200entity\ue202[\"tv_show\",\"Only Murders in the Building\",\"Hulu series\"]\ue201** \u2013 light, funny, mystery hooks  \n- **\ue200entity\ue202[\"tv_show\",\"Sh\u014dgun\",\"FX series 2024\"]\ue201** \u2013 cinematic, epic storytelling  \n\n---\n\n## \ud83c\udf4e Apple TV+\n\ue200image_group\ue202{\"aspect_ratio\":\"1:1\",\"query\":[\"Severance Apple TV show office scene\",\"Ted Lasso team locker room\",\"Silo Apple TV series underground\"],\"num_per_query\":1}\ue201\n- **\ue200entity\ue202[\"tv_show\",\"Severance\",\"Apple TV+ series\"]\ue201** \u2013 psychological, weird, super addictive  \n- **\ue200entity\ue202[\"tv_show\",\"Ted Lasso\",\"Apple TV+ series\"]\ue201** \u2013 feel-good but still binge-worthy  \n- **\ue200entity\ue202[\"tv_show\",\"Silo\",\"Apple TV+ series\"]\ue201** \u2013 mystery + dystopian cliffhangers  \n\n---\n\nIf you want, I can narrow this down to **your vibe specifically** (thrillers, reality, romance, dark, etc.) or give you a \u201ccan\u2019t stop watching in one weekend\u201d list \ud83d\udd25"
+          ]
+        },
+        "create_time": 1774393720.374901,
+        "id": "c3d82f5e-f19f-4ae4-9813-af0e2aca3b4b",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "![Image](https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQWbaJIxtap2ZP6ujpljb67xK-gTK1UlPRht62-73GIZRYZXmh4QsgiWyFQZeoZKWCtDQTmrC9eprPv2i5M4TRqrYahZW2nufgUy25UeN55xttohuWuOsGqJMej7lrXY2j8ygspKCqYKE_j6nqvUjLb3Y.jpg?r=1a9)\n\n![Image](https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQUnHuWeTIzKngjnOCjRL4un_QhjrkNaX04zRqrlUxxbXhi7IUqY9jBT8QzySlajFYlA1zuGnAKJ3rtnXa6JMVoI4RBhNkQjqPxE-vrWw5yuhRRt6yTVir8LqG881qbE-sB3WTUxGzBu5TFebXXrG-kA1zB4.jpg?r=371)\n\n![Image](https://m.media-amazon.com/images/M/MV5BMDdkYWZiZWYtMzA0Yi00NzNlLThkODktY2Q3N2NjN2ExZmMwXkEyXkFqcGc%40._V1_.jpg)",
+              "images": [
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 675,
+                      "width": 1200
+                    },
+                    "content_url": "https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQWbaJIxtap2ZP6ujpljb67xK-gTK1UlPRht62-73GIZRYZXmh4QsgiWyFQZeoZKWCtDQTmrC9eprPv2i5M4TRqrYahZW2nufgUy25UeN55xttohuWuOsGqJMej7lrXY2j8ygspKCqYKE_j6nqvUjLb3Y.jpg?r=1a9",
+                    "original_content_url": null,
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.56,
+                      "center_y_percent": 0.3333333333333333
+                    },
+                    "thumbnail_render_mode": null,
+                    "thumbnail_size": {
+                      "height": 168,
+                      "width": 300
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-1/f5jJEwC7QKOEimo9PfSUqdVJayU4V4oFgjKLS_ydhT0ovpdcCsewchKBqxUNpyHz-cTHuM2_LL1mDaq-XQ8fHDVx-qrXM5iXgamMV3DvvYxY1eEOHGyTqkAg8-QBUGpd93HrNOYemd_x3OAxlgIemg",
+                    "title": "Video",
+                    "url": "https://www.netflix.com/tudum/articles/squid-game-season-2-confirmed"
+                  },
+                  "image_search_query": "Squid Game season 2 still",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 675,
+                      "width": 1280
+                    },
+                    "content_url": "https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQUnHuWeTIzKngjnOCjRL4un_QhjrkNaX04zRqrlUxxbXhi7IUqY9jBT8QzySlajFYlA1zuGnAKJ3rtnXa6JMVoI4RBhNkQjqPxE-vrWw5yuhRRt6yTVir8LqG881qbE-sB3WTUxGzBu5TFebXXrG-kA1zB4.jpg?r=371",
+                    "original_content_url": null,
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.5954692556634305,
+                      "center_y_percent": 0.22085889570552147
+                    },
+                    "thumbnail_render_mode": null,
+                    "thumbnail_size": {
+                      "height": 163,
+                      "width": 309
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-1/4d9B6V7ftTI1nEm9WX5o_AeEupdYGFcRA7_FwGjJCb_tD_pnN_Sm91LtFki63CH0nISrDoRXgR-uvNIN6TLiUfdtOXCnLP5O-f9dGtRe_MCz98fOBkM1AqfNs9GLuEdXNeTYwl9p81gOf9htUA9Z6w",
+                    "title": "The Night Agent Season 1 Ending, Explained: Inside All the Twists and Turns  - Netflix Tudum",
+                    "url": "https://www.netflix.com/tudum/articles/the-night-agent-ending"
+                  },
+                  "image_search_query": "The Night Agent series Netflix scene",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 2222,
+                      "width": 1500
+                    },
+                    "content_url": "https://m.media-amazon.com/images/M/MV5BMDdkYWZiZWYtMzA0Yi00NzNlLThkODktY2Q3N2NjN2ExZmMwXkEyXkFqcGc%40._V1_.jpg",
+                    "original_content_url": null,
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.47282608695652173,
+                      "center_y_percent": 0.1794871794871795
+                    },
+                    "thumbnail_render_mode": null,
+                    "thumbnail_size": {
+                      "height": 273,
+                      "width": 184
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-1/5UOyQA_L_9-TtVRWcB_YmmowNq445NjRZa8gYZSGcU6Ua8QWgtO2IFZx-P5MR-2DTJ1Ln85Uh-UbodC4uWRtcuY2Q16OpQGThV5qjdm4FE_5pN98oVcFVpsygqDtp97fqXap-MHFTupFU9xA_OW-cg",
+                    "title": "3 Body Problem (TV Series 2024\u2013 ) - IMDb",
+                    "url": "https://www.imdb.com/title/tt13016388/"
+                  },
+                  "image_search_query": "3 Body Problem Netflix show",
+                  "image_search_system": null
+                }
+              ],
+              "prefix": null,
+              "prompt_text": "![Image](https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQWbaJIxtap2ZP6ujpljb67xK-gTK1UlPRht62-73GIZRYZXmh4QsgiWyFQZeoZKWCtDQTmrC9eprPv2i5M4TRqrYahZW2nufgUy25UeN55xttohuWuOsGqJMej7lrXY2j8ygspKCqYKE_j6nqvUjLb3Y.jpg?r=1a9)\n\n![Image](https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQUnHuWeTIzKngjnOCjRL4un_QhjrkNaX04zRqrlUxxbXhi7IUqY9jBT8QzySlajFYlA1zuGnAKJ3rtnXa6JMVoI4RBhNkQjqPxE-vrWw5yuhRRt6yTVir8LqG881qbE-sB3WTUxGzBu5TFebXXrG-kA1zB4.jpg?r=371)\n\n![Image](https://m.media-amazon.com/images/M/MV5BMDdkYWZiZWYtMzA0Yi00NzNlLThkODktY2Q3N2NjN2ExZmMwXkEyXkFqcGc%40._V1_.jpg)",
+              "type": "image_group"
+            },
+            {
+              "alt": "Squid Game",
+              "prefix": null,
+              "prompt_text": "Squid Game",
+              "render_as": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "The Night Agent",
+              "prefix": null,
+              "prompt_text": "The Night Agent",
+              "render_as": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "3 Body Problem",
+              "prefix": null,
+              "prompt_text": "3 Body Problem",
+              "render_as": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "![Image](https://akns-images.eonline.com/eol_images/Entire_Site/2023210/rs_1024x576-230310113311-1024.the-last-of-us.jpg?crop=776%3A437%3Bcenter%2Ctop&fit=around%7C776%3A437&output-quality=90)\n\n![Image](https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1280%2B0%2B0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff4%2Fe6%2F996ecb7c40dc98aebdecc6869e9a%2Fmatt-smith-1.jpg)\n\n![Image](https://cloudfront-us-east-1.images.arcpublishing.com/thedailybeast/K42ZM53TU5PB5LWMAI4GI77TMQ.jpg)",
+              "images": [
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 437,
+                      "width": 776
+                    },
+                    "content_url": "https://akns-images.eonline.com/eol_images/Entire_Site/2023210/rs_1024x576-230310113311-1024.the-last-of-us.jpg?crop=776%3A437%3Bcenter%2Ctop&fit=around%7C776%3A437&output-quality=90",
+                    "original_content_url": null,
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.7290969899665551,
+                      "center_y_percent": 0.7678571428571429
+                    },
+                    "thumbnail_render_mode": null,
+                    "thumbnail_size": {
+                      "height": 168,
+                      "width": 299
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-1/S9KNdj0SEeHsA7wAvHObxHkapXFrEPpEyQ18hk3wECRHP1nkndRUIAhCIPspbmK1Jehfg5Gzqex2-i8vzZ7rTHeWGkLKvN62PLMh9wSopobd4faffsWx6Mu_rn-pU6zIFS1xe6OECSFjknk22XOiXQ",
+                    "title": "Behind the Scenes Secrets From The Last of Us",
+                    "url": "https://www.eonline.com/photos/35838/behind-the-scenes-secrets-from-the-last-of-us"
+                  },
+                  "image_search_query": "The Last of Us HBO scene",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 733,
+                      "width": 1100
+                    },
+                    "content_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1280%2B0%2B0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff4%2Fe6%2F996ecb7c40dc98aebdecc6869e9a%2Fmatt-smith-1.jpg",
+                    "original_content_url": null,
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.48,
+                      "center_y_percent": 0.20218579234972678
+                    },
+                    "thumbnail_render_mode": null,
+                    "thumbnail_size": {
+                      "height": 183,
+                      "width": 275
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-1/UaNeBOCDWH67ZVCpq1hI_f6VfuilY5vv6l5j_uam3q7-tpX-sPnSMSfpYVaq0MwZjcJSLlg4eweUazmipQXLuSz0u4VmFAd24OlkFXHGhEJwGsDtHvpVFePllM_sECLbMwweM2KaEvBvVaj7578qDw",
+                    "title": "House of the Dragon' recap, Season 2 finale: A muted season-ender : NPR",
+                    "url": "https://www.npr.org/2024/08/02/nx-s1-5056223/house-of-the-dragon-recap-season-2-finale"
+                  },
+                  "image_search_query": "House of the Dragon season 2 still",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 1688,
+                      "width": 3000
+                    },
+                    "content_url": "https://cloudfront-us-east-1.images.arcpublishing.com/thedailybeast/K42ZM53TU5PB5LWMAI4GI77TMQ.jpg",
+                    "original_content_url": null,
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.8595317725752508,
+                      "center_y_percent": 0.2916666666666667
+                    },
+                    "thumbnail_render_mode": null,
+                    "thumbnail_size": {
+                      "height": 168,
+                      "width": 299
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-1/2hMbEZhAos-qseDfhqEHHqmVfwrLySj26q_i1yyU3iv0nHWLS9ghX2466s1Rkj1Ka0m9NOG6kCsOpSfw_pzDW2h2ay3YMHwk0WRWFGqEHj_pnPZJP5XPjym8haQLEHN4XXYX299LAGUcMuOkiMfeVQ",
+                    "title": "Inside 'Euphoria' Season 2's Messy Behind-the-Scenes Drama, From Sam  Levinson to Barbie Ferreira Storming Off",
+                    "url": "https://www.thedailybeast.com/inside-euphoria-season-2s-messy-behind-the-scenes-drama-from-sam-levinson-to-barbie-ferreira-storming-off/"
+                  },
+                  "image_search_query": "Euphoria HBO dramatic scene",
+                  "image_search_system": null
+                }
+              ],
+              "prefix": null,
+              "prompt_text": "![Image](https://akns-images.eonline.com/eol_images/Entire_Site/2023210/rs_1024x576-230310113311-1024.the-last-of-us.jpg?crop=776%3A437%3Bcenter%2Ctop&fit=around%7C776%3A437&output-quality=90)\n\n![Image](https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1280%2B0%2B0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff4%2Fe6%2F996ecb7c40dc98aebdecc6869e9a%2Fmatt-smith-1.jpg)\n\n![Image](https://cloudfront-us-east-1.images.arcpublishing.com/thedailybeast/K42ZM53TU5PB5LWMAI4GI77TMQ.jpg)",
+              "type": "image_group"
+            },
+            {
+              "alt": "The Last of Us",
+              "prefix": null,
+              "prompt_text": "The Last of Us",
+              "render_as": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "House of the Dragon",
+              "prefix": null,
+              "prompt_text": "House of the Dragon",
+              "render_as": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "Euphoria",
+              "prefix": null,
+              "prompt_text": "Euphoria",
+              "render_as": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "![Image](https://www.slashfilm.com/img/gallery/one-of-the-scariest-scenes-in-the-bear-is-half-a-damn-episode/l-intro-1674233052.jpg)\n\n![Image](https://lumiere-a.akamaihd.net/v1/images/176811_0460r_73_1_2226d1e1.jpeg?region=0%2C122%2C3000%2C1685&width=960)\n\n![Image](https://m.media-amazon.com/images/M/MV5BZmJkMDRjYzEtMWI3Ny00OWE3LWJlNTItMGQ1MTQzMzc3NDY5XkEyXkFqcGc%40._V1_.jpg)",
+              "images": [
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 899,
+                      "width": 1600
+                    },
+                    "content_url": "https://www.slashfilm.com/img/gallery/one-of-the-scariest-scenes-in-the-bear-is-half-a-damn-episode/l-intro-1674233052.jpg",
+                    "original_content_url": null,
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.5133333333333333,
+                      "center_y_percent": 0.2261904761904762
+                    },
+                    "thumbnail_render_mode": null,
+                    "thumbnail_size": {
+                      "height": 168,
+                      "width": 300
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-1/6tdc587Oi1TmEsVtJ6QIJh9_ovSRUvTtvHCQRZxwpIBkKb_g9v4k2m3T5wZLAa72gaV7Ed6vHAWYsFoFsjrvez6nZ4hG32c1UUGzbfU2uB_7HN8WLRONrpJiF22MQ-Sf2f2QXrtL5XRZv-fZO6xijA",
+                    "title": "One Of The Scariest Scenes In The Bear Is Half A Damn Episode",
+                    "url": "https://www.slashfilm.com/1173636/one-of-the-scariest-scenes-in-the-bear-is-half-a-damn-episode/"
+                  },
+                  "image_search_query": "The Bear FX Hulu kitchen scene",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 539,
+                      "width": 960
+                    },
+                    "content_url": "https://lumiere-a.akamaihd.net/v1/images/176811_0460r_73_1_2226d1e1.jpeg?region=0%2C122%2C3000%2C1685&width=960",
+                    "original_content_url": null,
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.2633333333333333,
+                      "center_y_percent": 0.19642857142857142
+                    },
+                    "thumbnail_render_mode": null,
+                    "thumbnail_size": {
+                      "height": 168,
+                      "width": 300
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-1/p6jzFF5OQdcRot9IhQypLbszYacebcMnm-yim1pPAjxxA6zi728AquytqsbxZD3P16avfphQeYXQaOTrp_2dYW01Xu0I_h72dt60fNnDuLTRrlmNafy7_L5hvCufzJjv4WDV7-KMILpDP2Df6JfVrg",
+                    "title": "YOUR FAVOURITE CRIME-SOLVING TRIO IS BACK! \"ONLY MURDERS IN THE BUILDING\"  SEASON FIVE RETURNS SEPTEMBER 9TH EXCLUSIVELY ON DISNEY+ | UK Press",
+                    "url": "https://press.disney.co.uk/news/your-favourite-crime-solving-trio-is-back%21-only-murders-in-the-building-season-five-returns-september-9th-exclusively-on-disney%2B"
+                  },
+                  "image_search_query": "Only Murders in the Building trio",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 1500,
+                      "width": 1200
+                    },
+                    "content_url": "https://m.media-amazon.com/images/M/MV5BZmJkMDRjYzEtMWI3Ny00OWE3LWJlNTItMGQ1MTQzMzc3NDY5XkEyXkFqcGc%40._V1_.jpg",
+                    "original_content_url": null,
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.48756218905472637,
+                      "center_y_percent": 0.7450199203187251
+                    },
+                    "thumbnail_render_mode": null,
+                    "thumbnail_size": {
+                      "height": 251,
+                      "width": 201
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-1/Y9a9hf0zxI-oQgF2F5z90qUT_WzWhiIrcc4MnLLX4GJhUSk0ieHX-08WnIrsSHkLgyh42KIXoOUEld-9o3QrOdOLhib0WgaxErzRmgh8yDwsTtz-CXRJ2PpjPlWCDOmyzP-xuWd1tQ2Q-ljuO4i4HA",
+                    "title": "Sh\u014dgun (TV Series 2024\u20132026) - IMDb",
+                    "url": "https://www.imdb.com/title/tt2788316/"
+                  },
+                  "image_search_query": "Shogun FX series 2024 still",
+                  "image_search_system": null
+                }
+              ],
+              "prefix": null,
+              "prompt_text": "![Image](https://www.slashfilm.com/img/gallery/one-of-the-scariest-scenes-in-the-bear-is-half-a-damn-episode/l-intro-1674233052.jpg)\n\n![Image](https://lumiere-a.akamaihd.net/v1/images/176811_0460r_73_1_2226d1e1.jpeg?region=0%2C122%2C3000%2C1685&width=960)\n\n![Image](https://m.media-amazon.com/images/M/MV5BZmJkMDRjYzEtMWI3Ny00OWE3LWJlNTItMGQ1MTQzMzc3NDY5XkEyXkFqcGc%40._V1_.jpg)",
+              "type": "image_group"
+            },
+            {
+              "alt": "The Bear",
+              "prefix": null,
+              "prompt_text": "The Bear",
+              "render_as": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "Only Murders in the Building",
+              "prefix": null,
+              "prompt_text": "Only Murders in the Building",
+              "render_as": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "Sh\u014dgun",
+              "prefix": null,
+              "prompt_text": "Sh\u014dgun",
+              "render_as": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "![Image](https://assets3.thrillist.com/v1/image/3059115/1200x600/scale%3B%3Bwebp%3Dauto%3Bjpeg_quality%3D85.jpg)\n\n![Image](https://ew.com/thmb/VhL62IcjQy2ezVodW9X2N-Oadyg%3D/1500x0/filters%3Ano_upscale%28%29%3Amax_bytes%28150000%29%3Astrip_icc%28%29/Ted-Lasso_-0721_672329-0ff8e8aa752145058fc63964491f87e3.jpg)\n\n![Image](https://miro.medium.com/0%2ASzLdkt_ctC5AXnUC)",
+              "images": [
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 600,
+                      "width": 1143
+                    },
+                    "content_url": "https://assets3.thrillist.com/v1/image/3059115/1200x600/scale%3B%3Bwebp%3Dauto%3Bjpeg_quality%3D85.jpg",
+                    "original_content_url": null,
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.8161290322580645,
+                      "center_y_percent": 0.3067484662576687
+                    },
+                    "thumbnail_render_mode": null,
+                    "thumbnail_size": {
+                      "height": 163,
+                      "width": 310
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-1/tuW1rOI6TNpE1eWoflMdI74rX4a1TTVFtcnGwcNqBqz8HilKD_xqZ02Eux64yZMdNB7RRp3IktkTQBf6YJNAB_2XaDrcIRtgsvoLQhmRjeg5M-KPxbgBwbUDoH0r_druJ3fkLdNdJarVqvgJLi220Q",
+                    "title": "How 'Severance' Made Its Office Prison Look So Inviting - Thrillist",
+                    "url": "https://www.thrillist.com/entertainment/nation/severance-apple-tv-plus-set-design"
+                  },
+                  "image_search_query": "Severance Apple TV show office scene",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 1000,
+                      "width": 1500
+                    },
+                    "content_url": "https://ew.com/thmb/VhL62IcjQy2ezVodW9X2N-Oadyg%3D/1500x0/filters%3Ano_upscale%28%29%3Amax_bytes%28150000%29%3Astrip_icc%28%29/Ted-Lasso_-0721_672329-0ff8e8aa752145058fc63964491f87e3.jpg",
+                    "original_content_url": null,
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.6509090909090909,
+                      "center_y_percent": 0.32786885245901637
+                    },
+                    "thumbnail_render_mode": null,
+                    "thumbnail_size": {
+                      "height": 183,
+                      "width": 275
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-1/9icULCtxlCbwiq_X0J69L1iugZ5jvHzwAFYBXpnofroQksOHkBhqLAvKD7nQQZfSb-xR-6bm--LSTms9UuwucQh_zbT4vlYpCg5JVHDH1IX6sK3celZ4yPhnyBCz_xRftIpdH7jvcWEdxfDYGmRm7g",
+                    "title": "How Jason Sudeikis won our hearts with Ted Lasso",
+                    "url": "https://ew.com/tv/ted-lasso-cover-jason-sudeikis/?srsltid=AfmBOorNStc6LhWrRau7c_qrElEbbaJguRO2Uo8DPGk1qZJCVakEOhsO"
+                  },
+                  "image_search_query": "Ted Lasso team locker room",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 675,
+                      "width": 1200
+                    },
+                    "content_url": "https://miro.medium.com/0%2ASzLdkt_ctC5AXnUC",
+                    "original_content_url": null,
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.8566666666666667,
+                      "center_y_percent": 0.21428571428571427
+                    },
+                    "thumbnail_render_mode": null,
+                    "thumbnail_size": {
+                      "height": 168,
+                      "width": 300
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-1/CR516S_v5AByoGh7WUx7VB--6A3IrRFcjlXwLFVsE9aox7UF-9jGHSCq5pV-mT_qnE-tcOtAZlgME9ofl_pwE14WCcdbtCbgaMgfenyKQM5BJLL3DUCw6LkjO-sa4vkePdA4B3l63lhxNucNxCoKtA",
+                    "title": "Silo TV series | Apple TV | Victor Clemente | Fanfare",
+                    "url": "https://fanfare.pub/review-silo-tv-series-2023-36b52eaba81b"
+                  },
+                  "image_search_query": "Silo Apple TV series underground",
+                  "image_search_system": null
+                }
+              ],
+              "prefix": null,
+              "prompt_text": "![Image](https://assets3.thrillist.com/v1/image/3059115/1200x600/scale%3B%3Bwebp%3Dauto%3Bjpeg_quality%3D85.jpg)\n\n![Image](https://ew.com/thmb/VhL62IcjQy2ezVodW9X2N-Oadyg%3D/1500x0/filters%3Ano_upscale%28%29%3Amax_bytes%28150000%29%3Astrip_icc%28%29/Ted-Lasso_-0721_672329-0ff8e8aa752145058fc63964491f87e3.jpg)\n\n![Image](https://miro.medium.com/0%2ASzLdkt_ctC5AXnUC)",
+              "type": "image_group"
+            },
+            {
+              "alt": "Severance",
+              "prefix": null,
+              "prompt_text": "Severance",
+              "render_as": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "Ted Lasso",
+              "prefix": null,
+              "prompt_text": "Ted Lasso",
+              "render_as": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "Silo",
+              "prefix": null,
+              "prompt_text": "Silo",
+              "render_as": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prefix": null,
+              "prompt_text": null,
+              "sources": [],
+              "type": "sources_footnote"
+            }
+          ],
+          "model_slug": "gpt-5-3",
+          "parent_id": "2178ae66-6a5d-4224-8f32-2bac2c5242e4"
+        }
+      },
+      "parent": "bbb2194b-c996-4462-a184-268a2450aca1"
+    },
+    "f4687186-0da0-49d3-9dee-a382f806815b": {
+      "id": "f4687186-0da0-49d3-9dee-a382f806815b",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Bingeable Shows 2025-2026",
+  "update_time": 1774393729.487082,
+  "voice": null
+}

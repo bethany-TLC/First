@@ -1,0 +1,116 @@
+{
+  "conversation_id": "68b59e89-740c-832b-ad75-c926dbea16de",
+  "conversation_template_id": null,
+  "create_time": 1756733093.107729,
+  "current_node": "b1ff7339-f7e2-4c03-a715-a089c33c6bbd",
+  "default_model_slug": "auto",
+  "id": "68b59e89-740c-832b-ad75-c926dbea16de",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "2ad32860-9867-4a48-a4e2-d59b33722d67": {
+      "id": "2ad32860-9867-4a48-a4e2-d59b33722d67",
+      "message": null,
+      "parent": null
+    },
+    "b1ff7339-f7e2-4c03-a715-a089c33c6bbd": {
+      "id": "b1ff7339-f7e2-4c03-a715-a089c33c6bbd",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a revised version with that added in:  \n\n---\n\nNothing beats time with great friends \u2014 the kind that make you laugh until your stomach hurts, lift you up when you need it most, and turn even the simplest moments into memories you\u2019ll never forget. Grateful for nights full of laughter, stories, and love that I know we\u2019ll look back on for years to come. Tennessee life is so good to me, and I\u2019m truly living my best life. \ud83e\udd42\u2728  \n\n---  \n\nWant me to make it even more casual, like a caption style with emojis, or keep it reflective and polished?"
+          ]
+        },
+        "create_time": 1756733624.177539,
+        "id": "b1ff7339-f7e2-4c03-a715-a089c33c6bbd",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "bbb21d38-f699-4f5d-8973-763bab35f2ff"
+        }
+      },
+      "parent": "bbb21d38-f699-4f5d-8973-763bab35f2ff"
+    },
+    "b287da1e-2a79-451f-b1f6-09bd29a9dcff": {
+      "id": "b287da1e-2a79-451f-b1f6-09bd29a9dcff",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a warm, upbeat post you could use:  \n\n---\n\nNothing beats time with great friends \u2014 the kind that make you laugh until your stomach hurts, lift you up when you need it most, and turn even the simplest moments into memories you\u2019ll never forget. Grateful for nights full of laughter, stories, and love that I know we\u2019ll look back on for years to come. Here\u2019s to more adventures, more late-night talks, and more memories that make life so sweet. \ud83e\udd42\u2728  \n\n---  \n\nDo you want me to keep it short and Instagram-style, or a little longer like a Facebook reflection?"
+          ]
+        },
+        "create_time": 1756733092.974505,
+        "id": "b287da1e-2a79-451f-b1f6-09bd29a9dcff",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "3068a454-65c5-4fce-a652-a5444f249db1"
+        }
+      },
+      "parent": "bbb21d4a-42aa-4d52-8713-80038316c7f9"
+    },
+    "bbb21d38-f699-4f5d-8973-763bab35f2ff": {
+      "id": "bbb21d38-f699-4f5d-8973-763bab35f2ff",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Add it Tennessee life is so good to me and I'm living my best life"
+          ]
+        },
+        "create_time": 1756733623.929535,
+        "id": "bbb21d38-f699-4f5d-8973-763bab35f2ff",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "b287da1e-2a79-451f-b1f6-09bd29a9dcff"
+    },
+    "bbb21d4a-42aa-4d52-8713-80038316c7f9": {
+      "id": "bbb21d4a-42aa-4d52-8713-80038316c7f9",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write a post about hanging with great friends and making tons of memories "
+          ]
+        },
+        "create_time": 1756733092.78594,
+        "id": "bbb21d4a-42aa-4d52-8713-80038316c7f9",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "2ad32860-9867-4a48-a4e2-d59b33722d67"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Post about friends and memories",
+  "update_time": 1756733628.704483,
+  "voice": null
+}

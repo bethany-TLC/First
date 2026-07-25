@@ -1,0 +1,71 @@
+{
+  "conversation_id": "6a127536-0f6c-83ea-84a5-df1eab9bf218",
+  "conversation_template_id": null,
+  "create_time": 1779594635.799651,
+  "current_node": "35e6f248-e607-4cb4-a326-f960012e0d67",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a127536-0f6c-83ea-84a5-df1eab9bf218",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "35e6f248-e607-4cb4-a326-f960012e0d67": {
+      "id": "35e6f248-e607-4cb4-a326-f960012e0d67",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ":::writing{variant=\"social_post\" id=\"48271\"}\nToday was one of those days I will never forget. \u2764\ufe0f\n\nWatching Donivan graduate high school today felt surreal. So many tears, so much laughter, incredible speeches, proud families, and a room full of memories from the last 8 years of our lives together. \n\nFranklin Classical School has been such a huge part of our family\u2019s story. These people have walked alongside us through so many seasons, poured into our children with wisdom, truth, love, and intentionality, and helped shape the young man Donivan is becoming today. \n\nAs a mom, my heart was so incredibly full sitting there watching him cross that stage. It feels like yesterday I was dropping him off for his first day, and now here we are celebrating this monumental milestone and preparing for his next adventure with the Air Force. \n\nI am beyond proud of the man you are becoming, Donivan. Your strength, leadership, heart, and determination inspire me every day. The sky is truly the limit for you. \n\nWhat a beautiful ending to one chapter and the beginning of another. \u2764\ufe0f\n:::"
+          ]
+        },
+        "create_time": 1779594635.623195,
+        "id": "35e6f248-e607-4cb4-a326-f960012e0d67",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "75e1a3ae-b834-459b-b133-45d0f1537963"
+        }
+      },
+      "parent": "bbb213e1-7eff-4546-ac03-03392e177f4b"
+    },
+    "3c17664c-bc57-4253-9614-ee4b6d6af801": {
+      "id": "3c17664c-bc57-4253-9614-ee4b6d6af801",
+      "message": null,
+      "parent": null
+    },
+    "bbb213e1-7eff-4546-ac03-03392e177f4b": {
+      "id": "bbb213e1-7eff-4546-ac03-03392e177f4b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write. Apost about Donivan graduation high school today and what a huge and momunnentl day it was. tears and laughter and lots of amazing speeches. 8 yrs of our life spent with these incredible people. My mommy heart was so full "
+          ]
+        },
+        "create_time": 1779594635.346675,
+        "id": "bbb213e1-7eff-4546-ac03-03392e177f4b",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "3c17664c-bc57-4253-9614-ee4b6d6af801"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Donivan Graduation Moment",
+  "update_time": 1779594639.901525,
+  "voice": null
+}

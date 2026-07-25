@@ -1,0 +1,402 @@
+{
+  "conversation_id": "69988b8e-e0d8-8330-8af5-d8e46e1f6671",
+  "conversation_template_id": null,
+  "create_time": 1771604889.96196,
+  "current_node": "528100af-2dc3-4c44-baa1-d99d1cc1424e",
+  "default_model_slug": "gpt-5-2",
+  "id": "69988b8e-e0d8-8330-8af5-d8e46e1f6671",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "28c3aa32-9db1-4a0d-b075-6a0514bd3964": {
+      "id": "28c3aa32-9db1-4a0d-b075-6a0514bd3964",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "If you have to choose **just one can\u2019t-miss spot in Miami**, here\u2019s the straight answer:\n\n## \u2b50 Don\u2019t miss: **\ue200entity\ue202[\"restaurant\",\"The Rusty Pelican\",\"Miami, FL, US\"]\ue201**\n\n\ue200image_group\ue202{\"query\":[\"Rusty Pelican Miami skyline view\",\"Rusty Pelican Miami dining room\",\"Rusty Pelican Miami sunset view\"]}\ue201\n\n### Why Rusty Pelican wins\n- **Iconic Miami experience**: Unreal skyline views of downtown Miami and Brickell, especially at sunset.\n- **Memorable moment**: It\u2019s not just a meal, it\u2019s a \u201cwow\u201d experience you\u2019ll remember.\n- **Classic Miami vibe**: Waterfront, palm trees, city lights, and a polished but relaxed feel.\n- **Great for visitors**: Perfect if you want photos, atmosphere, and a sense of place.\n\n---\n\n## When you\u2019d choose **\ue200entity\ue202[\"restaurant\",\"Liam Steakhouse\",\"Miami, FL, US\"]\ue201** instead\n\ue200image_group\ue202{\"query\":[\"Liam Steakhouse Miami interior\",\"Liam Steakhouse Miami steak presentation\"]}\ue201\n\n- You want a **high-end steakhouse** experience\n- Food is the priority over views\n- You\u2019ve already done Miami waterfront dining before\n\n---\n\n## Bottom line\n- **First time in Miami or limited nights** \u2192 **Rusty Pelican**\n- **Serious steak night, no need for views** \u2192 Liam\n\nIf you want, tell me **what night, time"
+          ]
+        },
+        "create_time": 1771604889.861408,
+        "id": "28c3aa32-9db1-4a0d-b075-6a0514bd3964",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "The Rusty Pelican",
+              "prompt_text": "The Rusty Pelican",
+              "type": "alt_text"
+            },
+            {
+              "alt": "![Image](https://images.openai.com/static-rsc-3/OVAtz7UhpEuYZ6DzWtVDnyaQisPES0QZFJJ8508wzzNzUVuMqcUeNDfj99X_etHHWZANsLGK6C_ua-q1hHpuVeCMEOaxUTQFuAfwzroRdC8?purpose=fullsize&v=1)\n\n![Image](https://popmenucloud.com/cdn-cgi/image/width%3D1200%2Cheight%3D1200%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/jwutdrmk/082413b4-9268-4edb-a1ef-437b24f53b42.jpg)\n\n![Image](https://images.openai.com/static-rsc-3/4UpZwJrNRbgHmCXeNc0cTUE0KGKngg9ZnYHRzLDlYrKWNC0__e5L8QzvN5llLoiMS34G7AaAzd9y8oqY9mokt3QbwZiEBHp2H06Mgfgau6o?purpose=fullsize&v=1)",
+              "images": [
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 1200,
+                      "width": 1200
+                    },
+                    "content_url": "https://images.openai.com/static-rsc-3/OVAtz7UhpEuYZ6DzWtVDnyaQisPES0QZFJJ8508wzzNzUVuMqcUeNDfj99X_etHHWZANsLGK6C_ua-q1hHpuVeCMEOaxUTQFuAfwzroRdC8?purpose=fullsize&v=1",
+                    "preview_url": "https://images.openai.com/static-rsc-3/c6gQl1zDjUhM6feOHOvRCU0VMj83vByXvswkH6kR6dXIGxyTzBddnZOw86FBPCcgVGJdPFQDm_RzayWPOqHMSBpH_PWEKwgAzwcc9Bj8nLE?purpose=preview",
+                    "scores": {
+                      "blender_rank": null,
+                      "grader_score": 0.75,
+                      "retrieval_score": 0.7737707495689392
+                    },
+                    "show_url": false,
+                    "source": null,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.7109375,
+                      "center_y_percent": 0.42160278745644597
+                    },
+                    "thumbnail_size": {
+                      "height": 287,
+                      "width": 512
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-3/AHiCsedYGNQ1tRaoR0Npy74HWdgWfjOyNjl3d0Jfp8_dIE1bA-cXu0hC3omQs0iT1CXTRQNUTiabcl9a8R4jtKChZgFzWCzw3yppZMSAbUg?purpose=inline",
+                    "title": "Miami skyline",
+                    "url": "https://media.gettyimages.com/id/1086209282/photo/miami-skyline.jpg?b=1&c=2D22e-m-KzRl0pZ-GeNkz8yJ2jho-9lmZM9uAJhnI5Q%3D&k=20&s=612x612&w=0&utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "Rusty Pelican Miami skyline view",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 900,
+                      "width": 1200
+                    },
+                    "content_url": "https://popmenucloud.com/cdn-cgi/image/width%3D1200%2Cheight%3D1200%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/jwutdrmk/082413b4-9268-4edb-a1ef-437b24f53b42.jpg",
+                    "preview_url": null,
+                    "scores": {
+                      "blender_rank": null,
+                      "grader_score": 0.75,
+                      "retrieval_score": null
+                    },
+                    "show_url": true,
+                    "source": null,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.5135135135135135,
+                      "center_y_percent": 0.26804123711340205
+                    },
+                    "thumbnail_size": {
+                      "height": 194,
+                      "width": 259
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-1/rdqeRZTlDBRe45l5HwmifuiF4qa_tScuCg6NEksgsalfJ3dXl0AgPbUJbsfifBkltszma4ClUbN2gVI10_J6zkPCseiVDPypXjFGwEKm84NqtUzYgPeZlgyFAvrtmq3N4OartZ-tkyUDtjM8fGAS6w",
+                    "title": "Coral Room - Rusty Pelican Miami - Seafood Restaurant in Key Biscayne, FL",
+                    "url": "https://www.therustypelican.com/coral-room?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "Rusty Pelican Miami dining room",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 1200,
+                      "width": 1200
+                    },
+                    "content_url": "https://images.openai.com/static-rsc-3/4UpZwJrNRbgHmCXeNc0cTUE0KGKngg9ZnYHRzLDlYrKWNC0__e5L8QzvN5llLoiMS34G7AaAzd9y8oqY9mokt3QbwZiEBHp2H06Mgfgau6o?purpose=fullsize&v=1",
+                    "preview_url": "https://images.openai.com/static-rsc-3/R6ONsSwMIOhckNCFXpiw3Z5580w8xk_ju9rvcDyj24J4iR5Eo5FoBSISEauMXB9sNvRf3HiGZOsJ3gjo9syFZlnJ-mNQGsjQlQNJC1RArFY?purpose=preview",
+                    "scores": {
+                      "blender_rank": null,
+                      "grader_score": 0.75,
+                      "retrieval_score": 0.7409834861755371
+                    },
+                    "show_url": false,
+                    "source": null,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.15234375,
+                      "center_y_percent": 0.4444444444444444
+                    },
+                    "thumbnail_size": {
+                      "height": 288,
+                      "width": 512
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-3/EaqMxo1JpYN73UFe97xY2INVWla_jvtc3A9L-VVoX-_M2viN1qQ5LvAQCPGF23is56Qfn7XNYTfdv0WWhJHv7NKcm238x05EV_WoIDGNjoE?purpose=inline",
+                    "title": "Sunset in Miami with flying pelican",
+                    "url": "https://media.gettyimages.com/id/2196542466/photo/sunset-in-miami-with-flying-pelican.jpg?b=1&c=kFuQsmUm6B-uTo9dJb_P2s9wJKK1b7ioeFi3c1Atumg%3D&k=20&s=612x612&w=0&utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "Rusty Pelican Miami sunset view",
+                  "image_search_system": null
+                }
+              ],
+              "prompt_text": "![Image](https://images.openai.com/static-rsc-3/OVAtz7UhpEuYZ6DzWtVDnyaQisPES0QZFJJ8508wzzNzUVuMqcUeNDfj99X_etHHWZANsLGK6C_ua-q1hHpuVeCMEOaxUTQFuAfwzroRdC8?purpose=fullsize&v=1)\n\n![Image](https://popmenucloud.com/cdn-cgi/image/width%3D1200%2Cheight%3D1200%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/jwutdrmk/082413b4-9268-4edb-a1ef-437b24f53b42.jpg)\n\n![Image](https://images.openai.com/static-rsc-3/4UpZwJrNRbgHmCXeNc0cTUE0KGKngg9ZnYHRzLDlYrKWNC0__e5L8QzvN5llLoiMS34G7AaAzd9y8oqY9mokt3QbwZiEBHp2H06Mgfgau6o?purpose=fullsize&v=1)",
+              "type": "image_group"
+            },
+            {
+              "alt": "Liam Steakhouse",
+              "prompt_text": "Liam Steakhouse",
+              "type": "alt_text"
+            },
+            {
+              "alt": "![Image](https://s3-media0.fl.yelpcdn.com/bphoto/oBVrX9dNrk0OzDUp312BQQ/348s.jpg)\n\n![Image](https://popmenucloud.com/cdn-cgi/image/width%3D1920%2Cheight%3D1920%2Cformat%3Dauto%2Cfit%3Dscale-down/ilmazrxt/f7536af8-855f-485d-af79-cd61aeb814d3.jpg)",
+              "images": [
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 348,
+                      "width": 348
+                    },
+                    "content_url": "https://s3-media0.fl.yelpcdn.com/bphoto/oBVrX9dNrk0OzDUp312BQQ/348s.jpg",
+                    "preview_url": null,
+                    "scores": {
+                      "blender_rank": null,
+                      "grader_score": 0.75,
+                      "retrieval_score": null
+                    },
+                    "show_url": true,
+                    "source": null,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.6637931034482759,
+                      "center_y_percent": 0.41379310344827586
+                    },
+                    "thumbnail_size": {
+                      "height": 348,
+                      "width": 348
+                    },
+                    "thumbnail_url": "https://images.openai.com/thumbnails/url/p2iwNnicu5meUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw5JKS5yTbIM9zPyzgp1CssMcNb1DYgoDzUpNfA3jDJzKfHJDHZPdErydcstVyu2NTQAAP2MJG4",
+                    "title": "LIAM'S STEAK HOUSE - CLOSED - Updated February 2026 - 69 Photos ...",
+                    "url": "https://m.yelp.com/biz/liams-steak-house-hollywood?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "Liam Steakhouse Miami interior",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 1280,
+                      "width": 1920
+                    },
+                    "content_url": "https://popmenucloud.com/cdn-cgi/image/width%3D1920%2Cheight%3D1920%2Cformat%3Dauto%2Cfit%3Dscale-down/ilmazrxt/f7536af8-855f-485d-af79-cd61aeb814d3.jpg",
+                    "preview_url": null,
+                    "scores": {
+                      "blender_rank": null,
+                      "grader_score": 0.75,
+                      "retrieval_score": null
+                    },
+                    "show_url": true,
+                    "source": null,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.5527272727272727,
+                      "center_y_percent": 0.22527472527472528
+                    },
+                    "thumbnail_size": {
+                      "height": 182,
+                      "width": 275
+                    },
+                    "thumbnail_url": "https://images.openai.com/thumbnails/url/LY_nbXicu5mSUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw7Oci3zz_eJiDR3sTB0Mwoy8TT18fZLrSwO8gpy0XXUDUt3NQ4MiiowqHQKVCsGAHywIvU",
+                    "title": "Dinner menu - The Liam's Steakhouse - Best Steakhouse & Cocktail ...",
+                    "url": "https://www.theliamssteakhouse.com/menus/dinner?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "Liam Steakhouse Miami steak presentation",
+                  "image_search_system": null
+                }
+              ],
+              "prompt_text": "![Image](https://s3-media0.fl.yelpcdn.com/bphoto/oBVrX9dNrk0OzDUp312BQQ/348s.jpg)\n\n![Image](https://popmenucloud.com/cdn-cgi/image/width%3D1920%2Cheight%3D1920%2Cformat%3Dauto%2Cfit%3Dscale-down/ilmazrxt/f7536af8-855f-485d-af79-cd61aeb814d3.jpg)",
+              "type": "image_group"
+            }
+          ],
+          "model_slug": "gpt-5-2",
+          "parent_id": "678db0f3-3677-417d-a510-ae996189872e"
+        }
+      },
+      "parent": "bbb21a4b-12ed-4548-9ba0-cc608c1a34bd"
+    },
+    "4640130a-568c-4e2d-9b93-8c259c0d3382": {
+      "id": "4640130a-568c-4e2d-9b93-8c259c0d3382",
+      "message": null,
+      "parent": null
+    },
+    "528100af-2dc3-4c44-baa1-d99d1cc1424e": {
+      "id": "528100af-2dc3-4c44-baa1-d99d1cc1424e",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "## Yes. **Mila is absolutely a must-visit.** \ud83d\udd25\n\n\ue200entity\ue202[\"restaurant\",\"MILA\",\"Miami Beach, FL, US\"]\ue201\n\n\ue200image_group\ue202{\"query\":[\"MILA Miami Beach rooftop\",\"MILA Miami interior dining\",\"MILA Miami nightlife dinner\"]}\ue201\n\n### Why **MILA** is non-negotiable\n- **Top Miami experience**: Food, design, music, and energy all hit.\n- **Rooftop + lounge vibes**: Mediterranean-Asian fusion with a sexy, upscale feel.\n- **Dinner turns into nightlife**: DJs, lighting, and atmosphere build as the night goes on.\n- **Very Miami**: This is the place people dress up for.\n\n### When it\u2019s best\n- **Friday or Saturday night**\n- **8:30\u20139:30 pm reservation**\n- Dress chic. This is not casual.\n\n### How it compares\n- **MILA** = vibe, scene, nightlife energy  \n- **Rusty Pelican** = views, sunset, classic Miami  \n- **Liam** = food-forward, quieter luxury\n\n### If you\u2019re choosing only ONE\n- Want **iconic Miami energy** \u2192 **MILA**\n- Want **romantic skyline moment** \u2192 Rusty Pelican\n\nIf you want, tell me:\n- how many people  \n- which night  \n- birthday, date, or girls night  \n\nI can tell you **exactly where to sit and what to order**."
+          ]
+        },
+        "create_time": 1771604902.031517,
+        "id": "528100af-2dc3-4c44-baa1-d99d1cc1424e",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "MILA",
+              "prompt_text": "MILA",
+              "type": "alt_text"
+            },
+            {
+              "alt": "![Image](https://images.squarespace-cdn.com/content/v1/61d2ccabbc553c1fec7c16e9/1745425953160-6MHPY42XGCA41W97OC5C/MILA%2B-%2B4.jpg?format=2500w)\n\n![Image](https://images.squarespace-cdn.com/content/v1/61d2ccabbc553c1fec7c16e9/887c272f-dc9a-4365-8d5a-cd1a9310b763/AlexTphoto.com%2B-%2BMila%2BLounge-04-HighRes.jpg)\n\n![Image](https://static1.squarespace.com/static/61d2ccabbc553c1fec7c16e9/t/693c8cfcf847485040beb562/1765575932579/MILA-New-Year-Party.jpg?format=1500w)",
+              "images": [
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 1666,
+                      "width": 2500
+                    },
+                    "content_url": "https://images.squarespace-cdn.com/content/v1/61d2ccabbc553c1fec7c16e9/1745425953160-6MHPY42XGCA41W97OC5C/MILA%2B-%2B4.jpg?format=2500w",
+                    "preview_url": null,
+                    "scores": {
+                      "blender_rank": null,
+                      "grader_score": 0.75,
+                      "retrieval_score": null
+                    },
+                    "show_url": true,
+                    "source": null,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.52,
+                      "center_y_percent": 0.5027322404371585
+                    },
+                    "thumbnail_size": {
+                      "height": 183,
+                      "width": 275
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-1/se1zPnvon6KY--U74xABRWzIeebEErC5LnyaEIJWolU9cs_3WJL5oBchBODA7Jf1BR5iSQMDK5CxrKWdTY6syndq9RziAvljmtMjCCoeBYrpQnxMM9xS2Y02EEJMqBGlRutuQLnLZc4G0X-ZLNvYYQ",
+                    "title": "Rooftop Restaurant: Mediterranean & Asian Fusion | MILA Miami",
+                    "url": "https://mila-miami.com/restaurant?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "MILA Miami Beach rooftop",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 1406,
+                      "width": 2499
+                    },
+                    "content_url": "https://images.squarespace-cdn.com/content/v1/61d2ccabbc553c1fec7c16e9/887c272f-dc9a-4365-8d5a-cd1a9310b763/AlexTphoto.com%2B-%2BMila%2BLounge-04-HighRes.jpg",
+                    "preview_url": null,
+                    "scores": {
+                      "blender_rank": null,
+                      "grader_score": 0.75,
+                      "retrieval_score": null
+                    },
+                    "show_url": true,
+                    "source": null,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.5886287625418061,
+                      "center_y_percent": 0.6190476190476191
+                    },
+                    "thumbnail_size": {
+                      "height": 168,
+                      "width": 299
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-1/C2Tc4VPaMql9VEsJOXFWvO58zpca59eLzz1HQWF4YLmVGm9K1DPwAYkr9BUj7CUPwThRZT1eRS2Uh1Q3VBN-SODRbLjKg3vRT0oh9-k_TbrWVDtmYJcRI0IyR-8JcslHU6F1RPdRA6CiXHsqLupyxw",
+                    "title": "HOME OLD",
+                    "url": "https://mila-miami.com/home-old?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "MILA Miami interior dining",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 539,
+                      "width": 807
+                    },
+                    "content_url": "https://static1.squarespace.com/static/61d2ccabbc553c1fec7c16e9/t/693c8cfcf847485040beb562/1765575932579/MILA-New-Year-Party.jpg?format=1500w",
+                    "preview_url": null,
+                    "scores": {
+                      "blender_rank": null,
+                      "grader_score": 0.75,
+                      "retrieval_score": null
+                    },
+                    "show_url": true,
+                    "source": null,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.43636363636363634,
+                      "center_y_percent": 0.2459016393442623
+                    },
+                    "thumbnail_size": {
+                      "height": 183,
+                      "width": 275
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-1/7VNpr_nJLZt6nRKN7lpxKKWd_ARfJFtrDQvMvOCHhnHQbk4RRScJA3n4OAmhlDreW3ctpIN6fyBXxalemfdntVWkgzbtlpd-_j_CrRAYsrFHYpKSWKNmAGM9TC2e4w5W77CExxzTvw7v-gCYPzcsmg",
+                    "title": "MILA Miami | Rooftop Restaurant, Lounge & Dining Experience",
+                    "url": "https://mila-miami.com/?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "MILA Miami nightlife dinner",
+                  "image_search_system": null
+                }
+              ],
+              "prompt_text": "![Image](https://images.squarespace-cdn.com/content/v1/61d2ccabbc553c1fec7c16e9/1745425953160-6MHPY42XGCA41W97OC5C/MILA%2B-%2B4.jpg?format=2500w)\n\n![Image](https://images.squarespace-cdn.com/content/v1/61d2ccabbc553c1fec7c16e9/887c272f-dc9a-4365-8d5a-cd1a9310b763/AlexTphoto.com%2B-%2BMila%2BLounge-04-HighRes.jpg)\n\n![Image](https://static1.squarespace.com/static/61d2ccabbc553c1fec7c16e9/t/693c8cfcf847485040beb562/1765575932579/MILA-New-Year-Party.jpg?format=1500w)",
+              "type": "image_group"
+            }
+          ],
+          "model_slug": "gpt-5-2",
+          "parent_id": "efa4de57-6865-4cdc-b30e-f3b85d10f3dd"
+        }
+      },
+      "parent": "bbb210b5-725e-4651-b73b-0e2e9d71945d"
+    },
+    "bbb210b5-725e-4651-b73b-0e2e9d71945d": {
+      "id": "bbb210b5-725e-4651-b73b-0e2e9d71945d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Mila"
+          ]
+        },
+        "create_time": 1771604901.869938,
+        "id": "bbb210b5-725e-4651-b73b-0e2e9d71945d",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "28c3aa32-9db1-4a0d-b075-6a0514bd3964"
+    },
+    "bbb21a4b-12ed-4548-9ba0-cc608c1a34bd": {
+      "id": "bbb21a4b-12ed-4548-9ba0-cc608c1a34bd",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Between Liam am the rusty pelican in maimai which one can we not miss"
+          ]
+        },
+        "create_time": 1771604889.582885,
+        "id": "bbb21a4b-12ed-4548-9ba0-cc608c1a34bd",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "4640130a-568c-4e2d-9b93-8c259c0d3382"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Rusty Pelican vs Liam",
+  "update_time": 1771604913.168123,
+  "voice": null
+}

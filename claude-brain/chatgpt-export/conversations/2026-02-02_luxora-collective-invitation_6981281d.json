@@ -1,0 +1,72 @@
+{
+  "conversation_id": "6981281d-b75c-8331-a29f-eb5476b45d0d",
+  "conversation_template_id": null,
+  "create_time": 1770072094.416582,
+  "current_node": "c147d767-f9cc-4cf2-896d-7162fc838d30",
+  "default_model_slug": "gpt-5-2",
+  "id": "6981281d-b75c-8331-a29f-eb5476b45d0d",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "8e7f6d05-9c7b-43ce-b3e4-bb3e6e760050": {
+      "id": "8e7f6d05-9c7b-43ce-b3e4-bb3e6e760050",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "create an email to Tracy Olson about joining the luxora collective growth engine. invite her to review the list of delivearbles and talk abou thte thre pillar sysytem and everything that is included in it. www.theluxoracollective. talk about giving her 50%  off the 90 day program and then that after that it will $2500 amonth to run her ads and use our crm plus all the amazin ongoing updates and ai integrations. "
+          ]
+        },
+        "create_time": 1770072093.581,
+        "id": "8e7f6d05-9c7b-43ce-b3e4-bb3e6e760050",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "c147d767-f9cc-4cf2-896d-7162fc838d30": {
+      "id": "c147d767-f9cc-4cf2-896d-7162fc838d30",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a clean, confident email you can send to Tracy. It keeps it warm, partnership-oriented, and very clear on value and pricing without sounding salesy.\n\nYou can copy and paste as-is or tweak the tone slightly if you want it more casual.\n\n---\n\n:::writing{id=\"74219\" variant=\"email\" subject=\"Invitation to Join the Luxora Collective Growth Engine\"}\nHi Tracy,\n\nI wanted to personally invite you to take a look at what we\u2019ve officially built with the Luxora Collective Growth Engine.\n\nThis is the full operating system we use to support aesthetic brands that are ready to scale with intention, systems, and predictability, not just ads or one-off strategies.\n\nI\u2019d love for you to review the full list of deliverables on the site and then have a conversation around how the three-pillar framework works together in real life execution.\n\nThe Growth Engine is built on three core pillars:\n\nMarket Blueprint  \nThis is where we assess positioning, audience demand, competitive landscape, and revenue opportunities so decisions are rooted in market reality, not assumptions.\n\nAcquisition Engine  \nThis includes paid media strategy and execution, funnel optimization, CRM implementation, automations, and AI-powered lead handling to drive consistent, qualified demand.\n\nRevenue Multiplier  \nThis pillar focuses on increasing lifetime value through offer structure, memberships, retention strategy, follow-up systems, and ongoing optimization.\n\nEverything is fully integrated. Ads, CRM, automations, reporting, AI updates, and ongoing system improvements are all handled under one roof so your brand can focus on growth, not managing vendors or tech.\n\nAs a founding partner and someone I deeply respect in this industry, I want to extend a 50% courtesy rate for the initial 90-day Growth Engine program.\n\nAfter the 90 days, ongoing support would transition to $2,500 per month, which includes:\n\u2022 Continued ad management and optimization  \n\u2022 Full access to our CRM and automations  \n\u2022 Ongoing AI integrations and platform upgrades  \n\u2022 Funnel, messaging, and conversion improvements  \n\u2022 Strategic oversight and performance tracking  \n\nNo long-term lock-ins, just a growth partnership built for momentum and scale.\n\nTake a look at the deliverables here when you have a moment:  \nwww.theluxoracollective.co\n\nIf it feels aligned, I\u2019d love to walk you through it together and explore how this could support your next phase of growth.\n\nAlways excited to build alongside you.\n\nWarmly,  \nBethany"
+          ]
+        },
+        "create_time": 1770072094.237256,
+        "id": "c147d767-f9cc-4cf2-896d-7162fc838d30",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "59c7fbe2-0526-4b6d-a731-8b8b6cb456ea"
+        }
+      },
+      "parent": "8e7f6d05-9c7b-43ce-b3e4-bb3e6e760050"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Luxora Collective Invitation",
+  "update_time": 1770072202.069689,
+  "voice": null
+}

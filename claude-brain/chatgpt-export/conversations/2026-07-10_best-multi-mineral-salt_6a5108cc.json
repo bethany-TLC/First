@@ -1,0 +1,535 @@
+{
+  "conversation_id": "6a5108cc-8e60-83e8-a85d-b9b5711d9690",
+  "conversation_template_id": null,
+  "create_time": 1783695580.376265,
+  "current_node": "eeb4701d-8127-4ebb-9ebf-8d6530e4cb2d",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a5108cc-8e60-83e8-a85d-b9b5711d9690",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "accf775e-1d45-4402-9f32-886f92345bda": {
+      "id": "accf775e-1d45-4402-9f32-886f92345bda",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "If you're looking for the **highest mineral content in a culinary salt**, these are the three I'd consider:\n\n### \ud83e\udd47 Best Overall: \ue200product\ue202[\"turn0product0\",\"Baja Gold Mineral Sea Salt\",{\"render_as\":\"hero\"}]\ue201\n\nBaja Gold is probably the best choice if your goal is maximizing naturally occurring minerals. It's harvested from the Sea of Cortez, is minimally processed, and contains a broad spectrum of trace minerals, including magnesium, potassium, calcium, and dozens of others. Independent comparisons consistently rank it among the most mineral-rich salts available. \ue200cite\ue202turn0search6\ue202turn0search0\ue201\n\n### Excellent Runner-Up\n\n\ue200product\ue202[\"turn0product1\",\"Redmond Real Salt\",{\"render_as\":\"block\"}]\ue201\n\nThis is my favorite everyday cooking salt. It's mined from an ancient seabed in Utah, has a clean taste, contains 60+ naturally occurring trace minerals, and is free of additives. Many people also like it because it isn't harvested from modern oceans. \ue200cite\ue202turn0search6\ue201\n\n### Great for Hydration\n\n\ue200product\ue202[\"turn0product2\",\"Celtic Sea Salt\",{\"render_as\":\"block\"}]\ue201\n\nCeltic sea salt retains more natural moisture than most salts, which means it also retains a bit more magnesium-rich brine. It's popular for adding a pinch to water for hydration, although the actual mineral amounts are still relatively small. \ue200cite\ue202turn0search5\ue202turn0search0\ue201\n\nOne important thing to know: while these salts do contain dozens of trace minerals, the quantities are **tiny**. They can improve flavor and provide small amounts of minerals, but they aren't a significant source of magnesium, potassium, or other nutrients. You'll get far more of those from food or targeted supplements if you're deficient. \ue200cite\ue202turn0search1\ue202turn0search5\ue201\n\nSince I know you're focused on **fat loss, muscle building, and overall health**, my recommendation would be:\n- **Everyday cooking:** Redmond Real Salt.\n- **If you specifically want the broadest mineral profile:** Baja Gold.\n- **For an electrolyte drink:** A pinch of Baja Gold or Celtic sea salt in water with lemon (and ideally paired with potassium and magnesium from your diet or supplements)."
+          ]
+        },
+        "create_time": 1783695592.440713,
+        "id": "accf775e-1d45-4402-9f32-886f92345bda",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "### [Baja Gold Mineral Sea Salt](https://bajagoldsaltco.com/products/natural-grain-mineral-sea-salt?variant=52339618382134&utm_source=chatgpt.com)\n*$14.99*",
+              "prefix": null,
+              "prompt_text": "### Baja Gold Mineral Sea Salt\nDescription: None\nPrice: $14.99\nURL: https://bajagoldsaltco.com/products/natural-grain-mineral-sea-salt?variant=52339618382134&utm_source=chatgpt.com\nNumber of Reviews: 5938\nRating: 4.9\nFeatured Tag: None\nMerchants: Baja Gold Salt + others",
+              "render_as": "hero",
+              "type": "product"
+            },
+            {
+              "alt": "([Otter Salt](https://ottersalt.com/blog/types-of-salt-comparison/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Otter Salt",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1782432000.0,
+                  "refs": [
+                    {
+                      "ref_index": 6,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [
+                    {
+                      "attribution": "Biology Insights",
+                      "pub_date": null,
+                      "snippet": "",
+                      "title": "What Salt Has the Most Minerals? Types Compared - Biology Insights",
+                      "url": "https://biologyinsights.com/what-salt-has-the-most-minerals-types-compared/?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Different Types of Salt: Real Sodium & Mineral Comparison",
+                  "url": "https://ottersalt.com/blog/types-of-salt-comparison/?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "### [Redmond Real Salt](https://redmond.life/products/real-salt-refill-pouch-26-oz?variant=18296636997699&utm_source=chatgpt.com)\n*$12.89*",
+              "prefix": null,
+              "prompt_text": "### Redmond Real Salt\nDescription: None\nPrice: $12.89\nURL: https://redmond.life/products/real-salt-refill-pouch-26-oz?variant=18296636997699&utm_source=chatgpt.com\nNumber of Reviews: 5569\nRating: 4.8\nFeatured Tag: None\nMerchants: redmond.life + others",
+              "render_as": "block",
+              "type": "product"
+            },
+            {
+              "alt": "([Otter Salt](https://ottersalt.com/blog/types-of-salt-comparison/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Otter Salt",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1782432000.0,
+                  "refs": [
+                    {
+                      "ref_index": 6,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [],
+                  "title": "Different Types of Salt: Real Sodium & Mineral Comparison",
+                  "url": "https://ottersalt.com/blog/types-of-salt-comparison/?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "### [Celtic Sea Salt](https://www.walmart.com/ip/Light-Grey-1-lb-Bag/30869265?wl13=3404&wmlspartner=wlpa&selectedSellerId=0&utm_source=chatgpt.com)\n*$8.67*",
+              "prefix": null,
+              "prompt_text": "### Celtic Sea Salt\nDescription: None\nPrice: $8.67\nURL: https://www.walmart.com/ip/Light-Grey-1-lb-Bag/30869265?wl13=3404&wmlspartner=wlpa&selectedSellerId=0&utm_source=chatgpt.com\nNumber of Reviews: 12750\nRating: 4.8\nFeatured Tag: None\nMerchants: Walmart + others",
+              "render_as": "block",
+              "type": "product"
+            },
+            {
+              "alt": "([Healthline](https://www.healthline.com/nutrition/different-types-of-salt?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Healthline",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1732665600.0,
+                  "refs": [
+                    {
+                      "ref_index": 5,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [
+                    {
+                      "attribution": "Biology Insights",
+                      "pub_date": null,
+                      "snippet": "",
+                      "title": "What Salt Has the Most Minerals? Types Compared - Biology Insights",
+                      "url": "https://biologyinsights.com/what-salt-has-the-most-minerals-types-compared/?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Kosher Salt: What It Is, Vs. Other Types of Salt, and More",
+                  "url": "https://www.healthline.com/nutrition/different-types-of-salt?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Healthline](https://www.healthline.com/nutrition/pink-himalayan-salt?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Healthline",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1675900800.0,
+                  "refs": [
+                    {
+                      "ref_index": 1,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 5,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [
+                    {
+                      "attribution": "Healthline",
+                      "pub_date": null,
+                      "snippet": "",
+                      "title": "Kosher Salt: What It Is, Vs. Other Types of Salt, and More",
+                      "url": "https://www.healthline.com/nutrition/different-types-of-salt?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Is Pink Himalayan Salt Better Than Regular Salt?",
+                  "url": "https://www.healthline.com/nutrition/pink-himalayan-salt?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prefix": null,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "Otter Salt",
+                  "title": "Different Types of Salt: Real Sodium & Mineral Comparison",
+                  "url": "https://ottersalt.com/blog/types-of-salt-comparison/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Healthline",
+                  "title": "Kosher Salt: What It Is, Vs. Other Types of Salt, and More",
+                  "url": "https://www.healthline.com/nutrition/different-types-of-salt?utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "a7bc55be-992e-46e4-aec9-1fa4b6638583",
+          "search_result_groups": [
+            {
+              "domain": "biologyinsights.com",
+              "entries": [
+                {
+                  "attribution": "biologyinsights.com",
+                  "snippet": "WHAT SALT HAS THE MOST MINERALS? TYPES COMPARED  * May 3, 2026  Himalayan pink salt is widely considered the salt with the most minerals, containing up to 84 trace elements beyond sodium chloride. Ce...",
+                  "title": "What Salt Has the Most Minerals? Types Compared - Biology Insights",
+                  "url": "https://biologyinsights.com/what-salt-has-the-most-minerals-types-compared/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "waterfilterguru.com",
+              "entries": [
+                {
+                  "attribution": "waterfilterguru.com",
+                  "snippet": "BEST TRACE MINERALS (OR NOT) LAB TESTED  updated: October 24, 2025  \ud83e\udd1d Our content is written by humans, not AI robots. Learn More  * Image: Brian Campbell headshot  Brian Campbell  * Image: Laura Sha...",
+                  "title": "Best Trace Minerals (or not) LAB TESTED",
+                  "url": "https://waterfilterguru.com/best-trace-minerals/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "santapriscaandco.com",
+              "entries": [
+                {
+                  "attribution": "santapriscaandco.com",
+                  "snippet": "THE BEST SALT FOR HEALTH: A DETAILED COMPARISON  Written By Santa Prisca & Co Staff Last updated onFebruary 1, 2026 Image  Salt is simple, but choosing the right kind for your body is not. Grocery sh...",
+                  "title": "The Best Salt for Health: A Detailed Comparison \u2013 Santa Prisca & Co",
+                  "url": "https://www.santapriscaandco.com/blogs/blog/best-salt-for-health?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "scienceinsights.org",
+              "entries": [
+                {
+                  "attribution": "scienceinsights.org",
+                  "snippet": "WHAT IS THE HEALTHIEST SEA SALT? FACTS VS. HYPE  * May 10, 2026  No single sea salt is dramatically healthier than another, because all salt is roughly 95% or more sodium chloride. The differences co...",
+                  "title": "What Is the Healthiest Sea Salt? Facts vs. Hype - ScienceInsights",
+                  "url": "https://scienceinsights.org/what-is-the-healthiest-sea-salt-facts-vs-hype/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "scienceinsights.org",
+                  "snippet": "WHICH SALT IS GOOD FOR HEALTH? THE REAL ANSWER  * March 14, 2026  No single type of salt is dramatically healthier than another. All salt is primarily sodium chloride, and the trace minerals in speci...",
+                  "title": "Which Salt Is Good for Health? The Real Answer - ScienceInsights",
+                  "url": "https://scienceinsights.org/which-salt-is-good-for-health-the-real-answer/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "scienceinsights.org",
+                  "snippet": "WHAT MINERALS DOES SEA SALT HAVE VS. TABLE SALT?  * March 27, 2026  Sea salt contains primarily sodium chloride, which makes up roughly 90 to 98% of its weight. The remaining 2 to 10% consists of tra...",
+                  "title": "What Minerals Does Sea Salt Have vs. Table Salt? - ScienceInsights",
+                  "url": "https://scienceinsights.org/what-minerals-does-sea-salt-have-vs-table-salt/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "consumerreports.org",
+              "entries": [
+                {
+                  "attribution": "consumerreports.org",
+                  "snippet": "IS SALT GOOD FOR YOU?  You don't want to go overboard, but using salt the right way can bring out the flavors in healthy foods. Find out how to match the different types of salt to the foods you're p...",
+                  "title": "Is Salt Good for You? - Consumer Reports",
+                  "url": "https://www.consumerreports.org/health/nutrition-healthy-eating/is-salt-good-for-you-a5489141636/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "dietarysupplement.ai",
+              "entries": [
+                {
+                  "attribution": "dietarysupplement.ai",
+                  "snippet": "TRACE MINERAL DROPS: ELECTROLYTES, MULTI-MINERAL SUPPLEMENTATION & WHAT THE EVIDENCE ACTUALLY SHOWS  By The dietarysupplement.ai team \u00b7 Medically reviewed by Sarah Chen, MD \u00b7 Last reviewed April 20,...",
+                  "title": "Trace Mineral Drops: Benefits, Dosage, Forms & Safety (2026) | Expert Guide",
+                  "url": "https://dietarysupplement.ai/ingredients/trace-mineral-drops/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "harvard.edu",
+              "entries": [
+                {
+                  "attribution": "harvard.edu",
+                  "snippet": "THE SALTS OF THE EARTH  HIMALAYAN, KOSHER, SEA SALT, OR GRAY: ARE ANY OF THESE SALTS HEALTHIER THAN TABLE SALT?  November 21, 2025 By Lindsay Warner, Content Licensing Editor, Harvard Health Publishi...",
+                  "title": "The salts of the earth - Harvard Health",
+                  "url": "https://www.health.harvard.edu/diet-and-nutrition/the-salts-of-the-earth?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "bbb215ba-cecf-4d1f-8724-61333b1e192e"
+    },
+    "bbb215ba-cecf-4d1f-8724-61333b1e192e": {
+      "id": "bbb215ba-cecf-4d1f-8724-61333b1e192e",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "What's the best salt to use that has all the multi minerals "
+          ]
+        },
+        "create_time": 1783695579.941801,
+        "id": "bbb215ba-cecf-4d1f-8724-61333b1e192e",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "e74a0980-b315-4851-9027-c28ca464a1f6"
+    },
+    "bbb21c12-782f-4e38-832f-05fd9c7ec8a7": {
+      "id": "bbb21c12-782f-4e38-832f-05fd9c7ec8a7",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Baja link\n"
+          ]
+        },
+        "create_time": 1783695660.416799,
+        "id": "bbb21c12-782f-4e38-832f-05fd9c7ec8a7",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "accf775e-1d45-4402-9f32-886f92345bda"
+    },
+    "e74a0980-b315-4851-9027-c28ca464a1f6": {
+      "id": "e74a0980-b315-4851-9027-c28ca464a1f6",
+      "message": null,
+      "parent": null
+    },
+    "eeb4701d-8127-4ebb-9ebf-8d6530e4cb2d": {
+      "id": "eeb4701d-8127-4ebb-9ebf-8d6530e4cb2d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "This is the official Baja Gold website:\n\n**\ue200url\ue202Baja Gold Minerals Official Store\ue202turn0search0\ue201**\n\nIf you're buying it for everyday use, I'd recommend the **1 lb Fine Grind** version. It's the easiest to use for:\n- Cooking\n- Seasoning food\n- Mixing a pinch into water for hydration\n\nIf you're only buying **one** salt, that's the one I'd get. It currently starts at **about $14.99 for a 1 lb bag**. \ue200cite\ue202turn0search1\ue201"
+          ]
+        },
+        "create_time": 1783695664.839642,
+        "id": "eeb4701d-8127-4ebb-9ebf-8d6530e4cb2d",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "[Baja Gold Minerals Official Store](https://bajagoldminerals.com/?utm_source=chatgpt.com)",
+              "logo": null,
+              "prefix": null,
+              "prompt_text": null,
+              "title": "Baja Gold Minerals Official Store",
+              "type": "url"
+            },
+            {
+              "alt": "([bajagoldminerals.com](https://bajagoldminerals.com/products/mineral-sea-salt?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "bajagoldminerals.com",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 1,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [],
+                  "title": "Signature Mineral Sea Salt | Fine Grind | Baja Gold \u2013 Baja Gold Minerals",
+                  "url": "https://bajagoldminerals.com/products/mineral-sea-salt?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prefix": null,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "bajagoldminerals.com",
+                  "title": "Signature Mineral Sea Salt | Fine Grind | Baja Gold \u2013 Baja Gold Minerals",
+                  "url": "https://bajagoldminerals.com/products/mineral-sea-salt?utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "fba703bb-b8a3-4a1f-9e85-89b76440f1ac",
+          "search_result_groups": [
+            {
+              "domain": "bajagoldminerals.com",
+              "entries": [
+                {
+                  "attribution": "bajagoldminerals.com",
+                  "snippet": "Image: Baja Gold Minerals  INTRODUCING TIDAL: Electrolytes powered by Baja Gold  Simple, balanced, and no shortcuts. Just delicious, mineral-rich hydration.  explore tidal  Image: Baja Gold Minerals...",
+                  "title": "Baja Gold Salt Co. | Unrefined Mineral Sea Salt \u2013 Baja Gold Minerals",
+                  "url": "https://bajagoldminerals.com/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "bajagoldminerals.com",
+                  "snippet": "OUR SALT STORY  ARTISANAL, UNPROCESSED, ALL-NATURAL SEA SALT AS NATURE INTENDED  Baja Gold Salt Co. is proud to offer the world\u2019s most flavorful sea salt.\u00a0 With naturally lower sodium and an incredib...",
+                  "title": "Our Salt Story | Baja Gold Salt Co. \u2013 Baja Gold Minerals",
+                  "url": "https://bajagoldminerals.com/pages/our-salt-story?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "bajagoldminerals.com",
+                  "snippet": "THE BAJA GOLD DIFFERENCE  LESS SODIUM, MORE VALUABLE MINERALS AND TRACE ELEMENTS  Industry Leading Minerals and Trace Elements  Baja Gold\u2019s unique harvesting techniques and geological source result i...",
+                  "title": "The Baja Gold Difference | Baja Gold Salt Co. \u2013 Baja Gold Minerals",
+                  "url": "https://bajagoldminerals.com/pages/the-baja-gold-difference?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "bajagoldminerals.com",
+                  "snippet": "Image: Baja Gold Signature Mineral Sea Salt - Fine Image: Baja Gold Signature Mineral Sea Salt - Fine  Image: Baja Gold Signature Mineral Sea Salt - Fine Image: Baja Gold Signature Mineral Sea Salt -...",
+                  "title": "Signature Mineral Sea Salt | Fine Grind | Baja Gold \u2013 Baja Gold Minerals",
+                  "url": "https://bajagoldminerals.com/products/mineral-sea-salt?currency=USD&gad_source=1&variant=45925213208886&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "bajagoldminerals.com",
+                  "snippet": "BAJA GOLD SIGNATURE MINERAL SEA SALT - FINE  4.9  Rated 4.9 out of 5 stars  4,093 Reviews  $14.99~~ ~~  In stock Hurry! Low inventory Out of stock Unavailable  [Input][Input] [Input]  Grain Style and...",
+                  "title": "Signature Mineral Sea Salt | Fine Grind | Baja Gold \u2013 Baja Gold Minerals",
+                  "url": "https://bajagoldminerals.com/products/mineral-sea-salt?variant=45925213208886&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "bajagoldminerals.com",
+                  "snippet": "Frequently Asked Questions  USING BAJA GOLD SIGNATURE MINERAL SEA SALT  * What is the best way to use my Baja Gold Signature Mineral Sea Salt?  Baja Gold Signature Mineral Sea Salt can be substituted...",
+                  "title": "Frequently Asked Questions | Baja Gold Salt Co. \u2013 Baja Gold Minerals",
+                  "url": "https://bajagoldminerals.com/pages/faqs?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "bajasalt.org",
+              "entries": [
+                {
+                  "attribution": "bajasalt.org",
+                  "snippet": "\uc720\ub124\uc2a4\ucf54 \uc9c0\uc815 \uace0\ub798\ubcf4\ud638\uc9c0\uc5ed, \uc21c\ubc31\uc758 \uc18c\uae08 \uc704\uc5d0\uc11c \ub9cc\ub4e4\uc5b4\uc9c0\ub294 \ubc14\ub2e4\uc758 \uacb0\uc815\uccb4  \uc9c0\uae08 \uad6c\ub9e4 \uac00\ub2a5\ud569\ub2c8\ub2e4  \uc720\ub124\uc2a4\ucf54 \uc9c0\uc815 \uace0\ub798\ubcf4\ud638\uc9c0\uc5ed,  \uc21c\ubc31\uc758 \uc18c\uae08 \uc704\uc5d0\uc11c \ub9cc\ub4e4\uc5b4\uc9c0\ub294  \ubc14\ub2e4\uc758 \uacb0\uc815\uccb4  \uc9c0\uae08 \uad6c\ub9e4 \uac00\ub2a5\ud569\ub2c8\ub2e4  (\ud55c\uc2dd\ub300\uac00 \ud2b9\ubcc4\uad6c\ub9e4 \uc804\uc6a9)\ubc14\ud558 \ud37c\uc2dc\ud53d \ucf54\uc154 \ucc9c\uc77c\uc5fc \ubc14\ud558\uc18c\uae08 7\ud1a4 9,828,000\uc6d0 30,996,000\uc6d0 SALE TIME SALE  (\ud55c\uc2dd\ub300\uac00 \ud2b9\ubcc4\uad6c\ub9e4 \uc804...",
+                  "title": "\ubc14\ud558\uc18c\uae08 | BAJA SALT",
+                  "url": "https://www.bajasalt.org/home?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "bajagoldsaltco.com",
+              "entries": [
+                {
+                  "attribution": "bajagoldsaltco.com",
+                  "snippet": "BAJA GOLD MINERAL SEA SALT  $19.99~~ ~~  4.9  4.9  Rated 4.9 out of 5 stars  4,536 Reviews  Item is in stock Hurry! Low inventory Item is out of stock Item is unavailable  [Input][Input] [Input]  Gra...",
+                  "title": "Mineral Salt | Fine and Natural Grain Sea Salt | Baja Gold \u2013 Baja Gold Salt Co.",
+                  "url": "https://bajagoldsaltco.com/products/mineral-sea-salt?variant=49539412263222&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "bajagoldsaltco.com",
+                  "snippet": "NATURAL ORIGINS. BOLD FLAVORS.  The Gold Standard For Salt  Image: Baja Gold Signature Mineral Sea Salt - Fine  View Product [Button: QUICK VIEW ]  Image: Baja Gold Signature Mineral Sea Salt - Natur...",
+                  "title": "Shop All | Mineral Sea Salt, Drops, and Bath Soaks \u2013 Baja Gold Salt Co.",
+                  "url": "https://bajagoldsaltco.com/collections/bajagoldsaltco?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "bajagoldsaltco.com",
+                  "snippet": "Baja Gold Press and Media Info  Brand Assets and Info  Image Image  Download Brand Kit  Media Coverage  TRIPLE TAP INTERVIEW - IAN CLARK  July 23, 2023  SPENCER MACK - REGENERATION THROUGH REMINERALI...",
+                  "title": "Press & Media Inquiries | Baja Gold Salt Co.",
+                  "url": "https://bajagoldsaltco.com/pages/press-and-media-info?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "iherb.com",
+              "entries": [
+                {
+                  "attribution": "iherb.com",
+                  "snippet": "Brands A-Z Baja Gold Salt Co. Salt Categories Grocery Herbs & Spices Salt  BAJA GOLD SALT CO., SALT  Visit manufacturer's website \u00bb  1 - 2 of 2 results  [Input] Sort by Best sellers [Input]  Best sel...",
+                  "title": "Baja Gold Salt Co. Salt: Sea Salt, Pink Salt, Seasoned Salt & Grinders | iHerb",
+                  "url": "https://www.iherb.com/c/baja-gold-salt-co/salt?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "bbb21c12-782f-4e38-832f-05fd9c7ec8a7"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Best Multi-Mineral Salt",
+  "update_time": 1783695668.000972,
+  "voice": null
+}

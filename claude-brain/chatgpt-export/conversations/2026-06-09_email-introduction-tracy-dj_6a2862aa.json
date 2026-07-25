@@ -1,0 +1,530 @@
+{
+  "conversation_id": "6a2862aa-f174-83e8-aa83-189ffd34669e",
+  "conversation_template_id": null,
+  "create_time": 1781031604.976052,
+  "current_node": "77e89c4e-da03-4691-a9b0-4d30ef9a33fe",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a2862aa-f174-83e8-aa83-189ffd34669e",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "02032d81-cdbc-4d56-951d-339d3d6add36": {
+      "id": "02032d81-cdbc-4d56-951d-339d3d6add36",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Good call. I'd make this one feel much more personal and conversational, almost like you're introducing two friends who should know each other.\n\n:::writing{variant=\"email\" id=\"83157\" subject=\"Thought You Two Should Meet\"}\nNeda & DJ,\n\nOne of my favorite things about being in this industry is connecting good people who are solving different pieces of the same problem, and the two of you immediately came to mind.\n\nNeda, you've heard me talk about how often med spa owners ask for help finding qualified injectors, estheticians, and providers. It's a challenge that comes up constantly.\n\nThat's why I wanted to introduce you to DJ Kim.\n\nDJ is building **Scrub Ops**, a staffing and placement company focused specifically on the aesthetics industry. His goal is to help med spas find qualified, vetted talent while creating a better hiring experience for both providers and practice owners.\n\nDJ, I had the opportunity to spend time at NexGen and see firsthand what Neda is building. Between the institute, the training programs, and her vision for elevating the next generation of aesthetic providers, I think she's creating something incredibly special. She has a deep passion for education, mentorship, and helping providers become truly exceptional at what they do.\n\nAs we were discussing Scrub Ops, I immediately thought there could be some interesting overlap:\n\n- Providers completing advanced training who need career opportunities\n- Med spas looking for qualified, properly trained talent\n- Better onboarding and hiring standards across the industry\n- Creating a stronger bridge between education and employment\n\nWhether that turns into referrals, collaboration, shared resources, or simply exchanging ideas, I think you both have a lot to learn from one another and could potentially create something really valuable together.\n\nI'll stay out of the way and let you two connect directly, but I wanted to make sure you were both in the same room.\n\nLooking forward to seeing where the conversation goes.\n\nBethany Anne\n\nCEO | The Luxora Collective  \nGrowth Partners for Med Spa Owners Ready to Scale  \nbethany@theluxoracollective.co  \nwww.theluxoracollective.co\n:::\n\nThis version feels much more like a genuine \"you two need to know each other\" introduction rather than a formal partnership introduction. That's usually the style that gets more responses."
+          ]
+        },
+        "create_time": 1781032299.043738,
+        "id": "02032d81-cdbc-4d56-951d-339d3d6add36",
+        "metadata": {
+          "content_references": [],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Memory",
+                "citation_uuid": "3e5791e2-aaed-4e66-b773-de6f38972605",
+                "conversation_context_type": "general_memory",
+                "end_idx": -1,
+                "index": 3,
+                "matched_text": "",
+                "prompt_text": null,
+                "reason": "You previously worked with Neda at NexGen Aesthetics Institute.",
+                "refs": [],
+                "snippet": "Neda Shirzadi, NexGen Aesthetics Institute (TX).",
+                "start_idx": -1,
+                "title": "You previously worked with Neda at NexGen Aesthetics Institute.",
+                "type": "conversation_context_citation",
+                "url": "#settings/Personalization"
+              },
+              "citation_uuid": "3e5791e2-aaed-4e66-b773-de6f38972605",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "77c4f4e8-27b6-471f-b10b-6cf28187b711"
+        }
+      },
+      "parent": "77c4f4e8-27b6-471f-b10b-6cf28187b711"
+    },
+    "142ae569-2c09-4bd0-a55f-44fa2f169761": {
+      "id": "142ae569-2c09-4bd0-a55f-44fa2f169761",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "create an email Between Tracy Olsen and Dj Kim introducing them and using our transcript to see if they could connect on a collaboration: "
+          ]
+        },
+        "create_time": 1781031604.556,
+        "id": "142ae569-2c09-4bd0-a55f-44fa2f169761",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_00000000e5c471f59b9354f2711177ce",
+              "is_big_paste": true,
+              "library_file_id": "libfile_004752bdfbc88191a60eab90c8e1464d",
+              "mime_type": "text/plain",
+              "name": "Pasted text(50).txt",
+              "size": 27396,
+              "source": "local"
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "4ce0cbab-7cd7-42d6-b183-f6f0750f5b48": {
+      "id": "4ce0cbab-7cd7-42d6-b183-f6f0750f5b48",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ":::writing{variant=\"email\" id=\"83157\" subject=\"Thought You Two Should Meet\"}\nNeda & DJ,\n\nOne of my favorite things about being in this industry is connecting good people who are solving different pieces of the same problem, and the two of you immediately came to mind.\n\nNeda, you've heard me talk about how often med spa owners ask for help finding qualified injectors, estheticians, and providers. It's a challenge that comes up constantly.\n\nThat's why I wanted to introduce you to DJ Kim.\n\nDJ is building **Scrub Ops**, a staffing and placement company focused specifically on the aesthetics industry. His goal is to help med spas find qualified, vetted talent while creating a better hiring experience for both providers and practice owners.\n\nDJ, I had the opportunity to spend time at NexGen and see firsthand what Neda is building. Between the institute, the training programs, and her vision for elevating the next generation of aesthetic providers, I think she's creating something incredibly special. She has a deep passion for education, mentorship, and helping providers become truly exceptional at what they do.\n\nNeda and I have also tossed around the idea of creating an aesthetic networking group here locally. One thing we've both recognized is that there is a real need to bring together owners, providers, educators, and industry leaders in a way that fosters collaboration rather than competition. Because of that, DJ, I thought you'd be a fantastic person for Neda to know as she continues building relationships and resources within the industry.\n\nAs we were discussing Scrub Ops, I immediately thought there could be some interesting overlap:\n\n- Providers completing advanced training who need career opportunities\n- Med spas looking for qualified, properly trained talent\n- Better onboarding and hiring standards across the industry\n- Creating a stronger bridge between education and employment\n- Potential opportunities to connect local providers, owners, and educators through future networking initiatives\n\nWhether that turns into referrals, collaboration, shared resources, networking events, or simply exchanging ideas, I think you both have a lot to learn from one another and could potentially create something really valuable together.\n\nI'll stay out of the way and let you two connect directly, but I wanted to make sure you were both in the same room.\n\nLooking forward to seeing where the conversation goes.\n\nBethany Anne\n\nCEO | The Luxora Collective  \nGrowth Partners for Med Spa Owners Ready to Scale  \nbethany@theluxoracollective.co  \nwww.theluxoracollective.co\n:::"
+          ]
+        },
+        "create_time": 1781032361.233177,
+        "id": "4ce0cbab-7cd7-42d6-b183-f6f0750f5b48",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "ba4f07f6-ef99-40c9-aa44-3d56e7481b20"
+        }
+      },
+      "parent": "ba4f07f6-ef99-40c9-aa44-3d56e7481b20"
+    },
+    "57fcdbf9-715a-4ca6-a375-18e09db748cc": {
+      "id": "57fcdbf9-715a-4ca6-a375-18e09db748cc",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "now write a new email to Matt (owner of Spartan Elite) introducign them beacuse Mtt is looking for an ijnector"
+          ]
+        },
+        "create_time": 1781032562.705,
+        "id": "57fcdbf9-715a-4ca6-a375-18e09db748cc",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "4ce0cbab-7cd7-42d6-b183-f6f0750f5b48"
+    },
+    "674ecc24-5075-496e-aa91-baf3500705a8": {
+      "id": "674ecc24-5075-496e-aa91-baf3500705a8",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here's a warm introduction email that positions both of them as industry leaders and highlights the opportunity between NexGen's training programs and DJ's placement services.\n\n:::writing{variant=\"email\" id=\"72641\" subject=\"Introduction: Neda Shirzadi & DJ Kim\"}\nHi Neda and DJ,\n\nI hope you both are doing well!\n\nI wanted to make an introduction because I believe there could be some exciting opportunities for collaboration between the two of you.\n\n**Neda**, meet **DJ Kim**. DJ is the founder of **Scrub Ops**, a company focused on helping med spas recruit, vet, and place qualified injectors, estheticians, and aesthetic providers across the United States. He has extensive experience building staffing and placement systems and is creating a much-needed solution for aesthetic practices struggling to find quality talent.\n\n**DJ**, meet **Neda Shirzadi**, founder of **NexGen Aesthetics Institute**. Neda has built an incredible facility and training program and is expanding her vision beyond the med spa space into education and professional development for aesthetic providers. She is passionate about raising industry standards and helping providers receive high-quality training and mentorship.\n\nAs I was speaking with both of you, it became clear that there may be some natural alignment between your businesses.\n\nPotential opportunities that came to mind include:\n\n\u2022 Creating a pathway for trained injectors and providers to connect with employment opportunities after completing educational programs  \n\u2022 Helping med spa owners find vetted, qualified talent through a trusted network  \n\u2022 Collaborating on best practices for onboarding, training, credentialing, and provider development  \n\u2022 Building stronger connections between education and employment within the aesthetics industry\n\nNeda, one of the things I admire most about what you're building is your commitment to excellence and education. DJ is approaching staffing with that same mindset, focusing on quality, vetting, and helping med spas make better hiring decisions.\n\nI think there is a lot of potential synergy here, and I wanted to get the conversation started.\n\nI'll let the two of you take it from here, but I have a feeling this could be a very valuable connection for both of you.\n\nLooking forward to seeing what comes from it!\n\nWarmly,\n\nBethany Anne  \nCEO | The Luxora Collective  \nGrowth Partners for Med Spa Owners Ready to Scale  \nbethany@theluxoracollective.co  \nwww.theluxoracollective.co\n:::"
+          ]
+        },
+        "create_time": 1781032232.855832,
+        "id": "674ecc24-5075-496e-aa91-baf3500705a8",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "aa96fbe6-90ab-47fe-8a03-23b6da6dd1bc"
+        }
+      },
+      "parent": "fa48e6da-ead6-4ed7-bb7c-c12e102618e0"
+    },
+    "6d501ebe-9496-4ac7-9b5b-02e39808c684": {
+      "id": "6d501ebe-9496-4ac7-9b5b-02e39808c684",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ":::writing{variant=\"email\" id=\"61843\" subject=\"Thought You Two Should Connect\"}\nMatt & DJ,\n\nI wanted to make an introduction because I think there could be some real synergy between what both of you are building.\n\n**Matt**, meet **DJ Kim**, founder of **Scrub Ops**. DJ has built a company focused on helping aesthetic and wellness practices recruit, vet, and place high-quality providers, including injectors, estheticians, patient coordinators, and other key team members.\n\n**DJ**, this is **Matt**, owner of **Jack + Jill Aesthetics**. Matt has done an incredible job building his practice and has a strong passion for incorporating innovative treatments, wellness solutions, and patient-focused care into the business. One of the things I appreciate most about him is that he's always looking ahead and exploring ways to elevate both the patient experience and the long-term growth of the practice.\n\nThe timing of this introduction felt particularly relevant because Matt recently posted that he's looking for a **Patient Coordinator** and is currently feeling the strain of being a bit short-staffed. As we were discussing Scrub Ops and the challenges practices face finding quality talent, Jack + Jill immediately came to mind.\n\nA few reasons I thought this introduction made sense:\n\n\u2022 Matt is actively looking to strengthen his team  \n\u2022 DJ specializes in helping practices find and vet qualified providers and support staff  \n\u2022 Both of you are focused on building strong teams and exceptional patient experiences  \n\u2022 There may be opportunities to collaborate around hiring, onboarding, staffing strategy, and future growth plans\n\nMatt, one thing I appreciate about DJ's approach is that he's focused on finding the *right fit*, not simply filling a position. He understands that every practice has its own culture, goals, and staffing needs.\n\nDJ, I think you'll really enjoy getting to know Matt. He's built a fantastic reputation and is the type of owner who genuinely cares about his team, his patients, and doing things the right way.\n\nI'll let you two take it from here, but I had a feeling this would be a worthwhile connection for both of you.\n\nLooking forward to seeing where the conversation leads.\n\nBethany Anne\n\nCEO | The Luxora Collective  \nGrowth Partners for Med Spa Owners Ready to Scale  \nbethany@theluxoracollective.co  \nwww.theluxoracollective.co\n:::"
+          ]
+        },
+        "create_time": 1781176064.140614,
+        "id": "6d501ebe-9496-4ac7-9b5b-02e39808c684",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": null,
+              "prefix": "genui",
+              "prompt_text": null,
+              "type": "client_defined_widget"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "2b9360af-4229-4cfa-a35f-ad9116b2d005"
+        }
+      },
+      "parent": "bbb213b4-948e-4e1c-8496-79ccc0903ea7"
+    },
+    "77c4f4e8-27b6-471f-b10b-6cf28187b711": {
+      "id": "77c4f4e8-27b6-471f-b10b-6cf28187b711",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "make this a totally differtn format then the first one. (so dj doesntthink i just copied it) but keep all the same guts"
+          ]
+        },
+        "create_time": 1781032298.767,
+        "id": "77c4f4e8-27b6-471f-b10b-6cf28187b711",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "674ecc24-5075-496e-aa91-baf3500705a8"
+    },
+    "77e89c4e-da03-4691-a9b0-4d30ef9a33fe": {
+      "id": "77e89c4e-da03-4691-a9b0-4d30ef9a33fe",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ":::writing{variant=\"email\" id=\"61843\" subject=\"Thought You Two Should Connect\"}\nMatt & DJ,\n\nI wanted to make an introduction because I think there could be some real synergy between what both of you are building.\n\n**Matt**, meet **DJ Kim**, founder of **Scrub Ops**. DJ has built a company focused on helping aesthetic and wellness practices recruit, vet, and place high-quality providers, patient concierges, injectors, estheticians, and other key team members.\n\n**DJ**, this is **Matt**, owner of **Jack + Jill Aesthetics**. Matt has done an incredible job building his practice and has a strong passion for incorporating innovative treatments, wellness solutions, and patient-focused care into the business. One of the things I appreciate most about him is that he's always looking ahead and exploring ways to elevate both the patient experience and the long-term growth of the practice.\n\nThe timing of this introduction felt particularly relevant because Matt recently posted that he's actively looking for a **Patient Concierge** and mentioned that the practice is feeling a bit short-staffed. As soon as I saw that post, I immediately thought of DJ and Scrub Ops.\n\nMatt, one thing I appreciate about DJ's approach is that he's not simply filling positions. He's focused on helping practices find the right people who fit the culture, values, and long-term vision of the business.\n\nDJ, I think you'll enjoy getting to know Matt. He's built a fantastic reputation, genuinely cares about his patients and team, and is always looking for ways to continue improving the business.\n\nA few reasons I thought this introduction made sense:\n\n\u2022 Matt is actively hiring and growing his team  \n\u2022 DJ specializes in recruiting and placing quality talent within the aesthetics industry  \n\u2022 Both of you are committed to building strong teams and exceptional patient experiences  \n\u2022 There may be opportunities to collaborate not only on the Patient Concierge role, but on future staffing and growth initiatives as well\n\nI have a feeling this conversation will be valuable for both of you.\n\nI'll let you take it from here and see where it leads.\n\nWarmly,\n\nBethany Anne\n\nCEO | The Luxora Collective  \nGrowth Partners for Med Spa Owners Ready to Scale  \nbethany@theluxoracollective.co  \nwww.theluxoracollective.co\n:::"
+          ]
+        },
+        "create_time": 1781176228.642264,
+        "id": "77e89c4e-da03-4691-a9b0-4d30ef9a33fe",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": null,
+              "prefix": "genui",
+              "prompt_text": null,
+              "type": "client_defined_widget"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "7a6b11af-ad33-476c-92bc-a8f2222e990e"
+        }
+      },
+      "parent": "bbb215d2-403f-45f5-bdb7-8c2de6044cf6"
+    },
+    "9655cf4e-0f94-4b59-a666-c480cf63575d": {
+      "id": "9655cf4e-0f94-4b59-a666-c480cf63575d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Based on the conversation, I'd position this as a strategic introduction where Tracy can potentially become a talent source/training partner for DJ's new placement company, while DJ can help place graduates from her programs. \ue200filecite\ue202turn0file0\ue202L1-L375\ue201\n\n:::writing{variant=\"email\" id=\"58472\" subject=\"Introduction: Tracy Olson & DJ Kim\"}\nHi Tracy and DJ,\n\nI hope you're both doing well!\n\nI wanted to make an introduction because I believe there may be a really valuable opportunity for collaboration between the two of you.\n\n**Tracy**, meet **DJ Kim**. DJ is launching a new company called **Scrub Ops**, focused on helping med spas recruit and place qualified injectors, estheticians, and other aesthetic providers throughout the United States. As we've discussed many times, one of the biggest challenges med spa owners face is finding vetted, qualified talent that they can trust.\n\n**DJ**, Tracy is the founder of the **Esthetic Injector Academy** and has built an impressive training platform for aesthetic professionals. She has helped educate and mentor injectors entering and advancing within our industry and has developed a strong network of graduates and providers.\n\nAs DJ and I were discussing the hiring challenges facing med spas, your academy immediately came to mind, Tracy. It seems like there could be a natural alignment where:\n\n\u2022 DJ's team helps med spas find qualified providers  \n\u2022 Tracy's graduates gain access to additional career opportunities and placement resources  \n\u2022 Both organizations help raise the standard of training, onboarding, and provider quality within the aesthetics industry\n\nI also think there may be opportunities to collaborate around continuing education, refresher training, injector development, hiring best practices, and creating stronger pathways from training into employment.\n\nI'll let the two of you take it from here, but I thought the synergy was too strong not to connect you.\n\nLooking forward to seeing what comes from the conversation.\n\nWarmly,\n\nBethany Anne  \nCEO | The Luxora Collective  \nGrowth Partners for Med Spa Owners Ready to Scale  \nbethany@theluxoracollective.co  \nwww.theluxoracollective.co\n:::\n\nThis version keeps it collaborative and positions you as the connector rather than a salesperson."
+          ]
+        },
+        "create_time": 1781031604.853641,
+        "id": "9655cf4e-0f94-4b59-a666-c480cf63575d",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": null,
+              "cloud_doc_url": "",
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_00000000e5c471f59b9354f2711177ce",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": 375,
+                "line_range_start": 1,
+                "message_id": "859408c5-785f-454a-8652-4ae72278796e",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "Pasted text.txt",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "92098399-44c9-4571-b633-f33732bd4406"
+        }
+      },
+      "parent": "142ae569-2c09-4bd0-a55f-44fa2f169761"
+    },
+    "9b18be77-10b4-402d-b2a6-3ba1fb0454e1": {
+      "id": "9b18be77-10b4-402d-b2a6-3ba1fb0454e1",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "This one should be much more direct and opportunity-focused since Matt has an immediate need and DJ has a solution.\n\n:::writing{variant=\"email\" id=\"49281\" subject=\"Matt, Meet DJ \u2014 I Think This Solves Your Injector Search\"}\nMatt & DJ,\n\nI wanted to connect the two of you because I think there may be an opportunity to help each other out.\n\nMatt, meet DJ Kim. DJ is the founder of **Scrub Ops**, a company that specializes in helping aesthetic and wellness businesses recruit and place qualified injectors, estheticians, and other providers.\n\nDJ, this is Matt, owner of **Spartan Elite**. As we've discussed, Matt has built an incredible men's health and wellness practice and is now expanding into the aesthetics space. One of the biggest hurdles he's currently navigating is finding the right injector to support the growth of his med spa services.\n\nMatt, one thing I appreciate about DJ's approach is that he isn't just throwing resumes at owners and hoping something sticks. He's focused on helping practices find qualified, vetted talent that actually fits their business and growth goals.\n\nDJ, what I like about Matt is that he's building this the right way. He's thoughtful about growth, patient-centered care, and creating something sustainable long-term. While he may not need a full-time injector immediately, I know he's actively exploring options and would benefit from understanding what's available in the market.\n\nI thought it would be worthwhile for the two of you to connect and simply have a conversation about:\n\n\u2022 What Matt's ideal injector looks like  \n\u2022 Whether part-time, full-time, or contract placement makes the most sense  \n\u2022 Current market conditions and hiring expectations  \n\u2022 How Spartan Elite can position itself to attract the right provider as the aesthetics side continues to grow\n\nNo pressure on either side\u2014I just know Matt has a need, and DJ has built a solution specifically designed to help with exactly that.\n\nI'll let you gentlemen take it from here.\n\nLooking forward to seeing what comes from the conversation.\n\nBethany Anne\n\nCEO | The Luxora Collective  \nGrowth Partners for Med Spa Owners Ready to Scale  \nbethany@theluxoracollective.co  \nwww.theluxoracollective.co\n:::\n\nThis version subtly nudges Matt toward taking action without making him feel like he's being sold, which sounds like the right approach given his more cautious personality."
+          ]
+        },
+        "create_time": 1781032563.794482,
+        "id": "9b18be77-10b4-402d-b2a6-3ba1fb0454e1",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "2d4cc0e6-ab51-4170-a404-a38a3d77e7f1"
+        }
+      },
+      "parent": "57fcdbf9-715a-4ca6-a375-18e09db748cc"
+    },
+    "a1e18c48-4224-418a-acb7-db5dd54a1c89": {
+      "id": "a1e18c48-4224-418a-acb7-db5dd54a1c89",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "This one should be positioned less as \"Matt needs help\" and more as \"Matt is growing and may be a great fit for what DJ is building.\"\n\n:::writing{variant=\"email\" id=\"61843\" subject=\"Thought You Two Should Connect\"}\nMatt & DJ,\n\nI wanted to make an introduction because I think there could be some real synergy between what both of you are building.\n\n**Matt**, meet **DJ Kim**, founder of **Scrub Ops**. DJ has built a company focused on helping aesthetic and wellness practices recruit, vet, and place high-quality providers, including injectors, estheticians, and other key team members.\n\n**DJ**, this is **Matt**, owner of **Jack + Jill Aesthetics**. Matt has done an incredible job building his practice and has a strong passion for incorporating innovative treatments, wellness solutions, and patient-focused care into the business. One of the things I appreciate most about him is that he's always looking ahead and exploring ways to elevate both the patient experience and the long-term growth of the practice.\n\nAs we were discussing Scrub Ops and the challenges practices face finding quality talent, Jack + Jill immediately came to mind. Whether it's today or sometime down the road, I think it's valuable for both of you to know each other.\n\nA few reasons I thought this introduction made sense:\n\n\u2022 Matt is continuously evaluating growth opportunities within the practice  \n\u2022 DJ specializes in helping practices find and vet qualified providers  \n\u2022 Both of you are focused on building strong teams and exceptional patient experiences  \n\u2022 There may be opportunities to collaborate around hiring, onboarding, staffing strategy, or simply sharing industry insights\n\nOne thing I love about this industry is that the best relationships often start before there's an immediate need. Even if nothing comes of it today, I think you'll both enjoy the conversation and find value in being part of each other's network.\n\nI'll let you two take it from here.\n\nLooking forward to seeing where the conversation leads.\n\nBethany Anne\n\nCEO | The Luxora Collective  \nGrowth Partners for Med Spa Owners Ready to Scale  \nbethany@theluxoracollective.co  \nwww.theluxoracollective.co\n:::"
+          ]
+        },
+        "create_time": 1781175936.484531,
+        "id": "a1e18c48-4224-418a-acb7-db5dd54a1c89",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": null,
+              "prefix": "genui",
+              "prompt_text": null,
+              "type": "client_defined_widget"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "78e23584-222e-435e-81ae-ea9d5d476634"
+        }
+      },
+      "parent": "bbb21b47-e5c8-4bc9-b25d-784cec11d4b5"
+    },
+    "a236a456-1578-4956-8713-f731545055e4": {
+      "id": "a236a456-1578-4956-8713-f731545055e4",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "add in that Tracy is one of our former cinets and is an absolute rock star tinthe indusrty"
+          ]
+        },
+        "create_time": 1781031673.086,
+        "id": "a236a456-1578-4956-8713-f731545055e4",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "9655cf4e-0f94-4b59-a666-c480cf63575d"
+    },
+    "b1d8abbb-918b-4c55-b368-b502afbb8b63": {
+      "id": "b1d8abbb-918b-4c55-b368-b502afbb8b63",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Absolutely. I'd weave that in naturally so it adds credibility without sounding overly promotional.\n\n:::writing{variant=\"email\" id=\"58472\" subject=\"Introduction: Tracy Olson & DJ Kim\"}\nHi Tracy and DJ,\n\nI hope you're both doing well!\n\nI wanted to make an introduction because I believe there may be a really valuable opportunity for collaboration between the two of you.\n\n**Tracy**, meet **DJ Kim**. DJ is launching a new company called **Scrub Ops**, focused on helping med spas recruit and place qualified injectors, estheticians, and other aesthetic providers throughout the United States. As we've discussed many times, one of the biggest challenges med spa owners face is finding vetted, qualified talent that they can trust.\n\n**DJ**, Tracy is the founder of the **Aesthetic Injector Academy** and one of our former clients here at The Luxora Collective. Beyond that, she is an absolute rock star in the aesthetics industry. She has built an incredible training platform for aesthetic professionals, helped educate and mentor injectors entering and advancing within our industry, and developed a strong network of graduates and providers across the country.\n\nAs DJ and I were discussing the hiring challenges facing med spas, your academy immediately came to mind, Tracy. It seems like there could be a natural alignment where:\n\n\u2022 DJ's team helps med spas find qualified providers  \n\u2022 Tracy's graduates gain access to additional career opportunities and placement resources  \n\u2022 Both organizations help raise the standard of training, onboarding, and provider quality within the aesthetics industry\n\nI also think there may be opportunities to collaborate around continuing education, refresher training, injector development, hiring best practices, and creating stronger pathways from training into employment.\n\nKnowing both of you, I think there is a lot of potential synergy here. Tracy has built an incredible reputation for education and training, while DJ is solving a major hiring and placement challenge that so many med spa owners are facing right now.\n\nI'll let the two of you take it from here, but I thought the opportunity to connect was too strong to pass up.\n\nLooking forward to seeing what comes from the conversation.\n\nWarmly,\n\nBethany Anne  \nCEO | The Luxora Collective  \nGrowth Partners for Med Spa Owners Ready to Scale  \nbethany@theluxoracollective.co  \nwww.theluxoracollective.co\n:::"
+          ]
+        },
+        "create_time": 1781031673.188045,
+        "id": "b1d8abbb-918b-4c55-b368-b502afbb8b63",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "969b883f-e6dd-4876-be5f-9422333b3495"
+        }
+      },
+      "parent": "a236a456-1578-4956-8713-f731545055e4"
+    },
+    "ba4f07f6-ef99-40c9-aa44-3d56e7481b20": {
+      "id": "ba4f07f6-ef99-40c9-aa44-3d56e7481b20",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "add in that neda and i have tossed around the idea of starting an asesthtic networking gorup in town"
+          ]
+        },
+        "create_time": 1781032358.858,
+        "id": "ba4f07f6-ef99-40c9-aa44-3d56e7481b20",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "02032d81-cdbc-4d56-951d-339d3d6add36"
+    },
+    "bbb213b4-948e-4e1c-8496-79ccc0903ea7": {
+      "id": "bbb213b4-948e-4e1c-8496-79ccc0903ea7",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Add in that matt just posted he needs a patient coordinator in his practice and is short staffed "
+          ]
+        },
+        "create_time": 1781176063.942416,
+        "id": "bbb213b4-948e-4e1c-8496-79ccc0903ea7",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "a1e18c48-4224-418a-acb7-db5dd54a1c89"
+    },
+    "bbb215d2-403f-45f5-bdb7-8c2de6044cf6": {
+      "id": "bbb215d2-403f-45f5-bdb7-8c2de6044cf6",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Patient concierge is what he is looking for"
+          ]
+        },
+        "create_time": 1781176227.941177,
+        "id": "bbb215d2-403f-45f5-bdb7-8c2de6044cf6",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "6d501ebe-9496-4ac7-9b5b-02e39808c684"
+    },
+    "bbb21b47-e5c8-4bc9-b25d-784cec11d4b5": {
+      "id": "bbb21b47-e5c8-4bc9-b25d-784cec11d4b5",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write me a new email like above that introduces matt from Jack +Jill aesthetics to DJ of Scrub Ops "
+          ]
+        },
+        "create_time": 1781175936.134401,
+        "id": "bbb21b47-e5c8-4bc9-b25d-784cec11d4b5",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "9b18be77-10b4-402d-b2a6-3ba1fb0454e1"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "fa48e6da-ead6-4ed7-bb7c-c12e102618e0": {
+      "id": "fa48e6da-ead6-4ed7-bb7c-c12e102618e0",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "now create a new email between Dj and Neda of NexGen Aesthetic Institute"
+          ]
+        },
+        "create_time": 1781032232.706,
+        "id": "fa48e6da-ead6-4ed7-bb7c-c12e102618e0",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "b1d8abbb-918b-4c55-b368-b502afbb8b63"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Email Introduction Tracy DJ",
+  "update_time": 1781176237.186618,
+  "voice": null
+}

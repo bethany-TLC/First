@@ -1,0 +1,439 @@
+{
+  "conversation_id": "6a21ee5c-f534-83e8-8937-2461a7b7d36b",
+  "conversation_template_id": null,
+  "create_time": 1780608611.878195,
+  "current_node": "257acd92-334b-42c0-8852-c7f239e11192",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a21ee5c-f534-83e8-8937-2461a7b7d36b",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "257acd92-334b-42c0-8852-c7f239e11192": {
+      "id": "257acd92-334b-42c0-8852-c7f239e11192",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "After reading this transcript, Eric and Jacques are essentially asking you to build **proof and reporting assets for WellSync**, not just a KPI sheet.\n\n### What WellSync Wants From Luxora\n\nThey want to see that Luxora can help med spas grow peptide revenue over time.\n\nSpecifically, they need:\n\n#### 1. Before-and-After Peptide Growth Data\nFor 2\u20134 med spa clients, show:\n\n- Starting peptide revenue\n- Current peptide revenue\n- Growth percentage\n- Timeline of growth\n\nExample:\n\n| Client | Starting Monthly Peptide Revenue | Current Monthly Peptide Revenue | Growth |\n|----------|----------|----------|----------|\n| Med Spa A | $1,200 | $4,850 | +304% |\n| Med Spa B | $2,100 | $7,200 | +243% |\n\n---\n\n#### 2. Percentage of Packages Sold With Peptides\n\nWellSync specifically wants:\n\n- How many packages included peptides before Luxora\n- How many packages included peptides after Luxora\n\nExample:\n\n| Client | Before | After |\n|----------|----------|----------|\n| Med Spa A | 8% of packages | 42% of packages |\n| Med Spa B | 12% of packages | 51% of packages |\n\n---\n\n#### 3. Peptide Stack Sales\n\nThey want to know:\n\nWhich stacks sold best?\n\nExamples:\n\n- Weight Loss Stack\n- Recovery Stack\n- Glow Stack\n- Longevity Stack\n- Hormone Optimization Stack\n\nShow:\n\n| Stack | Units Sold | Revenue |\n|----------|----------|----------|\n| Glow Stack | 58 | $17,400 |\n| Weight Loss Stack | 41 | $24,600 |\n| Recovery Stack | 23 | $6,900 |\n\n---\n\n#### 4. Individual Peptide Revenue\n\nNot just stacks.\n\nAlso:\n\n| Peptide | Revenue |\n|----------|----------|\n| BPC-157 | $8,700 |\n| NAD+ | $12,400 |\n| GHK-Cu | $5,600 |\n| MOTS-C | $4,200 |\n\n---\n\n#### 5. Luxora's Process\n\nEric and Jacques are trying to prove:\n\n**\"This is what Luxora does to increase peptide revenue.\"**\n\nSo they need:\n\n### Before\n- No peptide system\n- Low peptide attachment rate\n- No packages including peptides\n\n### After\n- Peptide bundles\n- Membership integration\n- Package integration\n- Staff scripting\n- Follow-up automation\n- Patient education\n\n### Result\n- Increased peptide sales\n- Increased package value\n- Increased patient LTV\n\n---\n\n### What Eric Wants You To Assemble\n\nI would create a simple PDF or slide deck with:\n\n#### Client 1\n- Background\n- Before numbers\n- What Luxora implemented\n- After numbers\n\n#### Client 2\n- Same\n\n#### Client 3\n- Same\n\nThen a summary page:\n\n### Luxora Peptide Growth Framework\n\n1. Package Creation\n2. Membership Integration\n3. Staff Training\n4. Sales Scripts\n5. Automation\n6. Reactivation\n7. Peptide Stack Strategy\n\n---\n\n### The Problem\n\nBased on everything I know about Luxora, I don't think you currently have clean peptide tracking data from enough clients yet.\n\nSo what Eric and Jacques are likely asking you to do this week is:\n\n1. Identify 2\u20134 clients with peptide programs.\n2. Pull peptide sales numbers.\n3. Pull package sales numbers.\n4. Calculate peptide attachment rates.\n5. Build a case-study style scorecard.\n6. Send that proof to WellSync.\n\nWithout those case studies, WellSync can't verify Luxora's peptide-growth methodology.\n\nThat Loom was basically saying:\n\n> \"We need evidence that Luxora can increase peptide revenue. Find me 2\u20134 client examples and show the numbers.\" \ue200filecite\ue202turn1file0\ue201"
+          ]
+        },
+        "create_time": 1780609118.896661,
+        "id": "257acd92-334b-42c0-8852-c7f239e11192",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": null,
+              "cloud_doc_url": "",
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_000000000e6c71fdbbc18cf554c93d01",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "7e59502d-298a-4c4e-a9a8-1425b6fe6ce7",
+                "message_index": 1
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "Pasted text.txt",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "93a886ca-994c-4251-b57e-151d46cb5039"
+        }
+      },
+      "parent": "300793f6-dd32-403a-aca7-5c6777d91277"
+    },
+    "300793f6-dd32-403a-aca7-5c6777d91277": {
+      "id": "300793f6-dd32-403a-aca7-5c6777d91277",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "now take this new trascipt and tell me exaclty what jacque and eric want me to get together for wellsync 0:00 Hi there, so I just wanted to share this with you, uhm, that's one of the reasons why we put the scorecard together, because these are the numbers that, uhm, that WellSync would like from us.\r\n0:16 Uhm, in terms of the percentages of packages with peptides, and they want to see growth, uhm, for each of these.\r\n0:25 The, the sale of peptides with packages, then which peptide stacks, and then which one peptide revenue. So they're typically looking at where did they start, how did we implement more of that over time, how do we grow that peptide business for a client.\r\n0:44 So that's why we thought having this, uhm, in here would be make sense, uhm, because we would be able to track it over time.\r\n0:52 But if you have this kind of data for the different, and I'm pretty sure you do after our conversation, like, what percentage of peptides did they use, how much revenue did they bring in over time, how did they grow, what peptide stacks, and then the revenue that they actually received through the, the\r\n1:13 different stacks. So, yeah, if you have some of that for two or three clients, four maybe, Thank you. Uhm, we can definitely go back to, to WellSync with that.This Loom explains why WellSync requested a scorecard to track peptide-related package performance over time. The author notes WellSync wants percentages of packages with peptides, growth in peptide package sales, details on peptide stacks, and the revenue tied to each stack, including where each client started and how it changed after implementation. They suggest the team should provide data on what percentage of peptides clients used, how revenue evolved, how they grew, which stacks were used, and the revenue received through those stacks. The author says that if they have this information for two or three clients, possibly four, they can send it back to WellSync."
+          ]
+        },
+        "create_time": 1780609117.941,
+        "id": "300793f6-dd32-403a-aca7-5c6777d91277",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_000000000e6c71fdbbc18cf554c93d01",
+              "is_big_paste": true,
+              "library_file_id": "libfile_e4196ce67bc48191896bc5b1b59b2f53",
+              "mime_type": "text/plain",
+              "name": "Pasted text(49).txt",
+              "size": 79758,
+              "source": "local"
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "6d364c05-4687-46d4-becc-41381138a3ac"
+    },
+    "6d364c05-4687-46d4-becc-41381138a3ac": {
+      "id": "6d364c05-4687-46d4-becc-41381138a3ac",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Based on Alex's feedback in the meeting transcript, the key membership and package changes he wanted were:\n\n### Membership Changes\n\n#### 1. Add Peptides Throughout the Membership Structure\nAlex strongly agreed with your idea of integrating peptides into memberships instead of keeping wellness and aesthetics separate.\n\nSpecifically:\n- Add peptide discounts to memberships\n- Include language around peptide consultations\n- Consider discounts on peptide programs\n- Incorporate recovery peptides, Glow peptides, and other wellness-focused peptides into treatment plans where appropriate\n\n> \"I am a very strong believer in making sure that memberships and packages include the wellness in them somewhere.\" \ue200filecite\ue202turn0file0\ue202L542-L548\ue201\n\n---\n\n#### 2. Remove \"Cervello Diode\" From Membership Language\nAlex did **not** want the laser technology name mentioned because he feels it sounds outdated.\n\nReplace:\n\n- Cervello Diode\n\nWith:\n\n- Painless Hair Removal\n\n> \"Can you remove Cervello diode name... just put painless hair removal.\" \ue200filecite\ue202turn0file0\ue202L577-L585\ue201\n\n---\n\n#### 3. Add OmniWave and GainsWave to Memberships\nThis was one of his biggest requests.\n\nHe wanted:\n\n- OmniWave included\n- GainsWave included\n- Especially in the lower-tier and mid-tier memberships\n\nBecause these are:\n- Lower cost to provide\n- High perceived value\n- Easy entry treatments\n\n> \"I'd Omni Wave, Gains Wave to all of the packages as that's our lowest...\" \ue200filecite\ue202turn0file0\ue202L755-L757\ue201\n\n---\n\n#### 4. Cinnamonson Membership Changes\nFor the Cinnamonson location:\n\nRemove:\n- Facials\n\nAdd:\n- OmniWave\n- GainsWave\n- Hair Removal\n\nBecause facials are only performed at Medford.\n\n> \"Facials are only done in Medford.\" \ue200filecite\ue202turn0file0\ue202L644-L646\ue201\n\n---\n\n#### 5. Replace Ignite RF Express\nAlex and Ashley agreed that this treatment wasn't a strong fit.\n\nReplace:\n- Ignite RF Express Tightening\n\nWith:\n- SoftWave\n\n> \"Let's change Ignite RF Express Tightening to SoftWave.\" \ue200filecite\ue202turn0file0\ue202L745-L748\ue201\n\n---\n\n### Package Changes\n\n#### 6. Add Peptide Packages and Stacks\nAlex uploaded:\n\n- Foundation Optimization Stack\n- Peptide Pricing\n- Longevity Programs\n\nHe wanted these incorporated into:\n- Memberships\n- Wellness packages\n- Recovery protocols\n- Laser treatment bundles\n\nExamples:\n- Glow peptides\n- Recovery peptides\n- Longevity stacks\n\n> \"I am including Glow and some of the peptides in a bundle if they get a laser treatment or RF microneedling treatment.\" \ue200filecite\ue202turn0file0\ue202L528-L535\ue201\n\n---\n\n#### 7. Build Around the Longevity Program\nAlex repeatedly mentioned he sees longevity as the gateway offer.\n\nHe wants:\n- Longevity \u2192 GLP-1s \u2192 Peptides \u2192 Facials \u2192 Lasers\n\nas the patient journey.\n\n> \"I honestly feel like the longevity is a good gateway towards all the rest of the treatments.\" \ue200filecite\ue202turn0file0\ue202L953-L958\ue201\n\n---\n\n### Biggest Action Items Alex Requested\n\n1. Add peptide integration throughout memberships\n2. Remove \"Cervello Diode\" wording\n3. Add OmniWave + GainsWave to memberships/packages\n4. Replace Ignite RF with SoftWave\n5. Remove facials from Cinnamonson memberships\n6. Add longevity/peptide stacks to package architecture\n7. Review memberships again after he uploads finalized peptide pricing\n8. Launch memberships and packages ASAP after revisions\n\nThose were the only substantial changes Alex requested. Overall, he was very positive about the structure and mostly wanted the memberships to better showcase:\n- Peptides\n- Longevity\n- OmniWave\n- GainsWave\n- SoftWave\n- Hair Removal\n\nwhile removing references to older technology and ensuring the two locations reflected the services actually offered there. \ue200filecite\ue202turn0file0\ue201"
+          ]
+        },
+        "create_time": 1780608611.776627,
+        "id": "6d364c05-4687-46d4-becc-41381138a3ac",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": null,
+              "cloud_doc_url": "",
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_000000006ebc71fd9e563f37211154af",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": 548,
+                "line_range_start": 542,
+                "message_id": "1f4361be-2f3c-497f-af15-412d7f8e5d03",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "Pasted text.txt",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            },
+            {
+              "alt": null,
+              "cloud_doc_url": "",
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_000000006ebc71fd9e563f37211154af",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": 585,
+                "line_range_start": 577,
+                "message_id": "1f4361be-2f3c-497f-af15-412d7f8e5d03",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "Pasted text.txt",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            },
+            {
+              "alt": null,
+              "cloud_doc_url": "",
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_000000006ebc71fd9e563f37211154af",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": 757,
+                "line_range_start": 755,
+                "message_id": "1f4361be-2f3c-497f-af15-412d7f8e5d03",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "Pasted text.txt",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            },
+            {
+              "alt": null,
+              "cloud_doc_url": "",
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_000000006ebc71fd9e563f37211154af",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": 646,
+                "line_range_start": 644,
+                "message_id": "1f4361be-2f3c-497f-af15-412d7f8e5d03",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "Pasted text.txt",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            },
+            {
+              "alt": null,
+              "cloud_doc_url": "",
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_000000006ebc71fd9e563f37211154af",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": 748,
+                "line_range_start": 745,
+                "message_id": "1f4361be-2f3c-497f-af15-412d7f8e5d03",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "Pasted text.txt",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            },
+            {
+              "alt": null,
+              "cloud_doc_url": "",
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_000000006ebc71fd9e563f37211154af",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": 535,
+                "line_range_start": 528,
+                "message_id": "1f4361be-2f3c-497f-af15-412d7f8e5d03",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "Pasted text.txt",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            },
+            {
+              "alt": null,
+              "cloud_doc_url": "",
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_000000006ebc71fd9e563f37211154af",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": 958,
+                "line_range_start": 953,
+                "message_id": "1f4361be-2f3c-497f-af15-412d7f8e5d03",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "Pasted text.txt",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            },
+            {
+              "alt": null,
+              "cloud_doc_url": "",
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_000000006ebc71fd9e563f37211154af",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "1f4361be-2f3c-497f-af15-412d7f8e5d03",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "Pasted text.txt",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "63f42ef7-86db-4e7e-8434-0fa5a8333c6f"
+        }
+      },
+      "parent": "919ee075-e72a-4323-9ab3-468ce2311646"
+    },
+    "919ee075-e72a-4323-9ab3-468ce2311646": {
+      "id": "919ee075-e72a-4323-9ab3-468ce2311646",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "what exact changes did alex want onvthe mmebrshps and packages: "
+          ]
+        },
+        "create_time": 1780608610.902,
+        "id": "919ee075-e72a-4323-9ab3-468ce2311646",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_000000006ebc71fd9e563f37211154af",
+              "is_big_paste": true,
+              "library_file_id": "libfile_4c607394b10c8191a6e62b19e0db6514",
+              "mime_type": "text/plain",
+              "name": "Pasted text(48).txt",
+              "size": 52843,
+              "source": "local"
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Alex's Membership Changes",
+  "update_time": 1780610358.302898,
+  "voice": null
+}

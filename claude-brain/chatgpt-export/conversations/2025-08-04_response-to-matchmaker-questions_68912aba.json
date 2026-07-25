@@ -1,0 +1,71 @@
+{
+  "conversation_id": "68912aba-0958-8011-90f1-c0202682142a",
+  "conversation_template_id": null,
+  "create_time": 1754344122.354364,
+  "current_node": "8114990b-e46c-462e-ae05-15ed1e9555d9",
+  "default_model_slug": "auto",
+  "id": "68912aba-0958-8011-90f1-c0202682142a",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "2a7f6233-3f4e-46bf-90ff-120d893fad8f": {
+      "id": "2a7f6233-3f4e-46bf-90ff-120d893fad8f",
+      "message": null,
+      "parent": null
+    },
+    "8114990b-e46c-462e-ae05-15ed1e9555d9": {
+      "id": "8114990b-e46c-462e-ae05-15ed1e9555d9",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Sure! Here\u2019s a polished response that answers all three questions while emphasizing your value without committing to payment:\n\n---\n\n**Tell our matchmakers why you\u2019d be a great addition to our network:**  \nI bring depth, resilience, and a strong sense of self to any connection. I\u2019ve lived a full and transformational life, and I know exactly what I want\u2014and what I can offer\u2014in a relationship. I value meaningful conversation, loyalty, and emotional intelligence. I\u2019m confident I\u2019d bring warmth, strength, and authenticity to your network.\n\n**Are you thinking about a premium membership?**  \nI\u2019m open to it down the line, but right now I\u2019d love to experience the value of the community first. I believe genuine connection shouldn\u2019t be limited to just those who pay, especially when someone could be a truly great match.\n\n**What excites you most about joining the Cinqe Network?**  \nThe intentionality. I\u2019m excited to be part of a community where people are genuinely looking for connection\u2014not just swiping. I love the idea of curated matchmaking that aligns values, vision, and lifestyle.\n\n---\n\nLet me know if you'd like it edited to fit your specific tone or personality more!"
+          ]
+        },
+        "create_time": 1754344140.43803,
+        "id": "8114990b-e46c-462e-ae05-15ed1e9555d9",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-4o",
+          "parent_id": "f5504746-3487-4ba1-bd66-0a39152339f7"
+        }
+      },
+      "parent": "bbb21f5b-55a8-4cd8-a444-7a7540da70a0"
+    },
+    "bbb21f5b-55a8-4cd8-a444-7a7540da70a0": {
+      "id": "bbb21f5b-55a8-4cd8-a444-7a7540da70a0",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Answer these questions and I don't want to pay but I'd be a great addition: Tell our matchmakers why you\u2019d be a great addition to our network. Are you thinking about a premium membership? What excites you most about joining the Cinqe Network?"
+          ]
+        },
+        "create_time": 1754344140.290439,
+        "id": "bbb21f5b-55a8-4cd8-a444-7a7540da70a0",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "2a7f6233-3f4e-46bf-90ff-120d893fad8f"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Response to matchmaker questions",
+  "update_time": 1754344149.225833,
+  "voice": null
+}

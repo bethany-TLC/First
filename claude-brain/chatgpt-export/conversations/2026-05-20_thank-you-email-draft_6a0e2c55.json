@@ -1,0 +1,213 @@
+{
+  "conversation_id": "6a0e2c55-0e1c-83ea-a4b2-a01fec2cfb84",
+  "conversation_template_id": null,
+  "create_time": 1779313873.308774,
+  "current_node": "8cf5ee0b-2f47-4710-b035-660ec86edbb3",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a0e2c55-0e1c-83ea-a4b2-a01fec2cfb84",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "5498c40f-c56a-44bf-89c7-9ce10bc37336": {
+      "id": "5498c40f-c56a-44bf-89c7-9ce10bc37336",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "add in amy too, thanking her for steppingin and being our fun model"
+          ]
+        },
+        "create_time": 1779315647.889,
+        "id": "5498c40f-c56a-44bf-89c7-9ce10bc37336",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "c4a58296-fa93-40e8-b252-b33875da1578"
+    },
+    "6c06fe28-1931-43b1-9c19-aec2e41ec7ca": {
+      "id": "6c06fe28-1931-43b1-9c19-aec2e41ec7ca",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "email is to both of them"
+          ]
+        },
+        "create_time": 1779315663.586,
+        "id": "6c06fe28-1931-43b1-9c19-aec2e41ec7ca",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "9fe3ce84-281b-4bc0-99dc-0b09fd3afd13"
+    },
+    "8cf5ee0b-2f47-4710-b035-660ec86edbb3": {
+      "id": "8cf5ee0b-2f47-4710-b035-660ec86edbb3",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s the updated version addressed to both of them:\n\n:::writing{variant=\"email\" id=\"41726\" subject=\"Thank You Both Again\"}\nHey Matt & Amy,\n\nI just wanted to send a quick thank you to both of you for letting us come by and film at Spartan Elite. We always appreciate the opportunity to be in your space and it was great getting to see everyone and check everything out again.\n\nYou guys have built an incredible environment over there and we\u2019re excited to continue supporting however we can.\n\nAmy, thank you as well for stepping in and being our fun model for the day. You were awesome and made filming a blast for all of us.\n\nI also wanted to let you both know I\u2019m putting some feelers out for injectors as well. I\u2019m attaching a few resources and materials that we typically provide to the med spas we work with that may help spark some ideas or be useful as you continue growing.\n\nThanks again for your hospitality and support. Looking forward to staying connected and seeing all the continued growth over there.\n\nBethany  \nCo-Founder & CEO\n:::"
+          ]
+        },
+        "create_time": 1779315663.132588,
+        "id": "8cf5ee0b-2f47-4710-b035-660ec86edbb3",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "04c4adcf-a1d6-4c30-bcbc-ce423845be3e"
+        }
+      },
+      "parent": "6c06fe28-1931-43b1-9c19-aec2e41ec7ca"
+    },
+    "9fe3ce84-281b-4bc0-99dc-0b09fd3afd13": {
+      "id": "9fe3ce84-281b-4bc0-99dc-0b09fd3afd13",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ":::writing{variant=\"email\" id=\"58241\" subject=\"Thank You Again\"}\nHey Matt,\n\nI just wanted to send a quick thank you for letting us come by and film at Spartan Elite. We always appreciate the opportunity to be in your space and it was great getting to see everyone and check everything out again.\n\nYou\u2019ve built an incredible environment over there and we\u2019re excited to continue supporting however we can.\n\nAlso, please tell Amy thank you for stepping in and being our fun model for the day. She was awesome and made filming a blast for all of us.\n\nI also wanted to let you know I\u2019m putting some feelers out for injectors for you as well. I\u2019m attaching a few resources and materials that we typically provide to the med spas we work with that may help spark some ideas or be useful for your team as you continue growing.\n\nThanks again for your hospitality and support. Looking forward to staying connected and seeing all the continued growth over there.\n\nBethany  \nCo-Founder & CEO\n:::"
+          ]
+        },
+        "create_time": 1779315648.104861,
+        "id": "9fe3ce84-281b-4bc0-99dc-0b09fd3afd13",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "fe118877-dd37-4de9-bc5e-e4b6b6d113b2"
+        }
+      },
+      "parent": "5498c40f-c56a-44bf-89c7-9ce10bc37336"
+    },
+    "c4a58296-fa93-40e8-b252-b33875da1578": {
+      "id": "c4a58296-fa93-40e8-b252-b33875da1578",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a polished version you can send to Matt from \ue200entity\ue202[\"organization\",\"Spartan Elite\",\"Tennessee\"]\ue201:\n\n:::writing{variant=\"email\" id=\"58241\" subject=\"Thank You Again\"}\nHey Matt,\n\nI just wanted to send a quick thank you for letting us come by and film at Spartan Elite again. We always appreciate the opportunity to be in your space and it was great getting to see everyone and check everything out again.\n\nYou\u2019ve built an incredible environment over there and we\u2019re excited to continue supporting however we can.\n\nAlso, I wanted to let you know I\u2019m putting some feelers out for injectors for you as well. I\u2019m attaching a few resources and materials that we typically provide to the med spas we work with that may help spark some ideas or be useful for your team as you continue growing.\n\nThanks again for your hospitality and support. Looking forward to staying connected and seeing all the continued growth over there.\n\nBethany  \nCo-Founder & CEO  \n\ue200url\ue202The Luxora Collective\ue202https://theluxoracollective.co\ue201\n:::"
+          ]
+        },
+        "create_time": 1779313873.219935,
+        "id": "c4a58296-fa93-40e8-b252-b33875da1578",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "Spartan Elite",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "Tennessee"
+              },
+              "id": "9Ae03mjiY1UpcmoN",
+              "metadata": null,
+              "name": "Spartan Elite",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Spartan Elite",
+              "type": "entity"
+            },
+            {
+              "alt": "[The Luxora Collective](https://theluxoracollective.co?utm_source=chatgpt.com)",
+              "logo": null,
+              "prefix": null,
+              "prompt_text": "[The Luxora Collective](https://theluxoracollective.co?utm_source=chatgpt.com)",
+              "title": "The Luxora Collective",
+              "type": "url"
+            }
+          ],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Memory",
+                "citation_uuid": "9f902108-2869-470a-8309-0a78c85f8df8",
+                "conversation_context_type": "user_memory",
+                "end_idx": -1,
+                "index": 1,
+                "matched_text": "",
+                "memory_id": "07da9a2f-fb82-4106-ba80-6fde328915f9",
+                "prompt_text": null,
+                "reason": "Your name is Bethany Gifford.",
+                "refs": [],
+                "snippet": "User's name is Bethany Gifford.",
+                "start_idx": -1,
+                "title": "Your name is Bethany Gifford.",
+                "type": "conversation_context_citation",
+                "url": "#settings/Personalization"
+              },
+              "citation_uuid": "9f902108-2869-470a-8309-0a78c85f8df8",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "f919565c-9a16-49fd-9b5a-9136163357f4"
+        }
+      },
+      "parent": "c60ae511-242d-49cc-b1f6-5b67a8d7b0f5"
+    },
+    "c60ae511-242d-49cc-b1f6-5b67a8d7b0f5": {
+      "id": "c60ae511-242d-49cc-b1f6-5b67a8d7b0f5",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "write an email to Matt from Spartan Elite and thank him for letting us come in and film and get to see his place agian. also tell him im putting some feelers out for injectors and attaching some things we give all of our medspa we work with. "
+          ]
+        },
+        "create_time": 1779313873.22,
+        "id": "c60ae511-242d-49cc-b1f6-5b67a8d7b0f5",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Thank You Email Draft",
+  "update_time": 1779315675.234775,
+  "voice": null
+}

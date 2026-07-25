@@ -1,0 +1,71 @@
+{
+  "conversation_id": "69ea7278-8a3c-83ea-9120-3c34843e47b4",
+  "conversation_template_id": null,
+  "create_time": 1776972409.527097,
+  "current_node": "f4832377-9617-4d2e-bb06-eb0133f1f26c",
+  "default_model_slug": "gpt-5-3",
+  "id": "69ea7278-8a3c-83ea-9120-3c34843e47b4",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "1f68cacc-6a9e-4eeb-8306-d0078b5a6e55": {
+      "id": "1f68cacc-6a9e-4eeb-8306-d0078b5a6e55",
+      "message": null,
+      "parent": null
+    },
+    "bbb21199-2c97-4830-accd-7e7768be5e30": {
+      "id": "bbb21199-2c97-4830-accd-7e7768be5e30",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write an email back to Dr. Carl Hyder, spelled H-Y-D-E-R, and let him know you enjoyed our conversation today with him, and really looking forward to helping him grow his med spa from the inside out, as well as helping him transition to a much more affordable marketing plan than his current situation. Also, talk to Ashley and let her know that she, that we're excited to be working with her, and would love to connect with her after she talks to Pinpoint Media. Period. We'd love to get a call scheduled for Monday, and we have Monday openings as early as 9 a.m. on 27th Central Standard Time. We have an 11 o'clock and a 1 o'clock Monday available for them. And then also send them the checkout link if they wanna get started and start the onboarding process. We can't wait to see what amazing things we can do with each other in this industry."
+          ]
+        },
+        "create_time": 1776972409.080272,
+        "id": "bbb21199-2c97-4830-accd-7e7768be5e30",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "1f68cacc-6a9e-4eeb-8306-d0078b5a6e55"
+    },
+    "f4832377-9617-4d2e-bb06-eb0133f1f26c": {
+      "id": "f4832377-9617-4d2e-bb06-eb0133f1f26c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ":::writing{variant=\"email\" id=\"58219\" subject=\"Great connecting today \u2014 next steps & Monday availability\"}\nHi Dr. Hyder,\n\nI really enjoyed our conversation today and appreciate you taking the time to walk through everything with me. I\u2019m genuinely looking forward to helping you grow your med spa from the inside out and getting you into a much more efficient and affordable marketing structure than what you\u2019re currently dealing with.\n\nAshley, it was great meeting you as well. We\u2019re excited about the opportunity to work together and would love to reconnect after you\u2019ve had your conversation with Pinpoint Media so we can align on next steps.\n\nWe\u2019d love to get something scheduled for Monday. We currently have availability on the 27th at:\n- 9:00 AM CST  \n- 11:00 AM CST  \n- 1:00 PM CST  \n\nLet me know what works best for you both and I\u2019ll lock it in.\n\nIf you\u2019re ready to move forward and get started, you can use the link below to begin the onboarding process:\n[Insert Checkout Link]\n\nWe\u2019re excited about what we can build together and the level of growth that\u2019s possible here.\n\nTalk soon,  \nBethany\nThe Luxora Collective\n:::"
+          ]
+        },
+        "create_time": 1776972409.396385,
+        "id": "f4832377-9617-4d2e-bb06-eb0133f1f26c",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "c3191fdb-3abb-474a-8b4d-38029c2cd602"
+        }
+      },
+      "parent": "bbb21199-2c97-4830-accd-7e7768be5e30"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Email Draft for Dr. Hyder",
+  "update_time": 1776972496.352182,
+  "voice": null
+}

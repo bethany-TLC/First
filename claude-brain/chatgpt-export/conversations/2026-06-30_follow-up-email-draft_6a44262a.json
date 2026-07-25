@@ -1,0 +1,250 @@
+{
+  "conversation_id": "6a44262a-77f4-83e8-8dff-dc8ddb7fb143",
+  "conversation_template_id": null,
+  "create_time": 1782851169.250329,
+  "current_node": "cfc2d234-92b4-4857-b190-63702f1f52ea",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a44262a-77f4-83e8-8dff-dc8ddb7fb143",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "0e720891-4792-4303-a293-a06eed80708c": {
+      "id": "0e720891-4792-4303-a293-a06eed80708c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "who was , 7, 89"
+          ]
+        },
+        "create_time": 1782851241.985,
+        "id": "0e720891-4792-4303-a293-a06eed80708c",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "86e046b3-98d7-483e-a756-7033e9c9999c"
+    },
+    "6027f061-688e-470f-9637-0bc7d3a56ee8": {
+      "id": "6027f061-688e-470f-9637-0bc7d3a56ee8",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write Lisa a follow-up email telling her how amazing it was to reconnect with her, and I'm so proud and excited for her venture, especially out in Washington State. Please list all of the networked people that I was going to connect her with, and I will fill in the details that I was unable to say. Also, let her know warmly, not too salesy, what the Looksor Collective can do, and how we'd love to help her, especially with the revenue leak audit for her certain places."
+          ]
+        },
+        "create_time": 1782851168.703,
+        "id": "6027f061-688e-470f-9637-0bc7d3a56ee8",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_00000000926c722f8d3c796a01cd0fa8",
+              "is_big_paste": true,
+              "library_file_id": "libfile_4a86c7f07d588191bea4c8ffd436c9db",
+              "mime_type": "text/plain",
+              "name": "Pasted text(60).txt",
+              "size": 58227,
+              "source": "local"
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "86e046b3-98d7-483e-a756-7033e9c9999c": {
+      "id": "86e046b3-98d7-483e-a756-7033e9c9999c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here's a warm follow-up that keeps the relationship first while naturally introducing how The Luxora Collective could support her.\n\nI left placeholders where you mentioned you'll fill in additional details or names from your notes.\n\n:::writing{variant=\"email\" subject=\"So Great Catching Up, Lisa\" id=\"84371\"}\nHi Lisa,\n\nIt was so wonderful reconnecting with you. I left our conversation feeling genuinely excited for everything you're building, and I just wanted to tell you how proud I am of what you've accomplished.\n\nI love the decision to focus on Washington. The strategy makes so much sense, and I think building a concentrated presence with multiple locations and eventually an injector training program creates an incredible story for future growth and investors. It was fun hearing your vision, and I have no doubt you're building something really special.\n\nAs promised, here are a few of the people I'd love to connect you with:\n\n- DJ Kim, founder of Scrub Ops, for injector and aesthetic staffing.\n- Michelle Philifer, who specializes exclusively in med spa interior design and renovations.\n- Tracy Olson with Aesthetic Injector Academy.\n- Neda Shirzadi at NextGen Aesthetics Institute.\n- Donna Scott of Secret Med Spa and Lucce Bee Skincare.\n- The WellSync team for peptides and longevity.\n- [Connection #7]\n- [Connection #8]\n- [Connection #9]\n\nJust let me know who you'd like to meet, and I'll gladly make warm introductions.\n\nAs we talked about, I also think there could be a great opportunity for us to support you as you're evaluating acquisitions and continuing to scale. One thing we've become incredibly passionate about is our Revenue Leak Audit. Before we recommend marketing, operations, or growth strategies, we identify exactly where revenue is being lost across the practice, from lead response and consultation conversions to memberships, retail, laser utilization, team performance, retention, scheduling, and operational systems.\n\nKnowing you, I think this could be especially valuable as you're looking at acquiring additional practices. It gives you a clear picture of what's working, what's leaving money on the table, and where the quickest wins are before you invest additional time or capital. I'd genuinely be happy to walk through each of your locations with you. No pressure at all. I simply think you'd enjoy seeing the framework, and I have a feeling we'd uncover a few opportunities that would immediately move the needle.\n\nMost importantly, I'm just excited to stay connected. I always enjoy our conversations, and I'm cheering you on from Nashville. Please keep me posted on the Washington acquisition. I can't wait to hear when number five officially closes.\n\nTalk soon,\n\nBethany\nFounder & CEO  \nThe Luxora Collective\n:::\n\nI can also make this a little more personal and less \"business email\" if your goal is to strengthen the relationship first and leave the business conversation feeling even more organic."
+          ]
+        },
+        "create_time": 1782851169.130576,
+        "id": "86e046b3-98d7-483e-a756-7033e9c9999c",
+        "metadata": {
+          "content_references": [],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Memory",
+                "citation_uuid": "05cd9872-449a-4e4d-a83f-a22c15243b28",
+                "conversation_context_type": "general_memory",
+                "end_idx": -1,
+                "index": 1,
+                "matched_text": "",
+                "prompt_text": null,
+                "reason": "You offer a Revenue Leak Audit as your front-end entry.",
+                "refs": [],
+                "snippet": "Revenue Leak Audit (front-end entry)",
+                "start_idx": -1,
+                "title": "You offer a Revenue Leak Audit as your front-end entry.",
+                "type": "conversation_context_citation",
+                "url": "#settings/Personalization"
+              },
+              "citation_uuid": "05cd9872-449a-4e4d-a83f-a22c15243b28",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "04444570-39e3-4deb-ba0c-7ca08a4e42f9"
+        }
+      },
+      "parent": "6027f061-688e-470f-9637-0bc7d3a56ee8"
+    },
+    "cfc2d234-92b4-4857-b190-63702f1f52ea": {
+      "id": "cfc2d234-92b4-4857-b190-63702f1f52ea",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Based on your call, these are the additional people you referenced after the main list. \ue200filecite\ue202turn0file0\ue201\n\n**#7**  \n**Eric's contact in Washington**  \n- You mentioned your business partner Eric knows a woman who owns **multiple med spas in Washington** and may also know other owners looking to sell.\n- You told Lisa you would ask Eric for an introduction since she's actively acquiring practices in Washington.\n\n**#8**  \n**Matt Bigley**  \n- You mentioned Matt, who is (or was) on the **AmSpa board**, because he's well connected in the industry and keeps you informed on regulatory issues like undercover compliance inspections.\n- While he wasn't a direct business referral during the call, he would be a valuable industry connection for Lisa, especially as she continues expanding.\n\n**#9**  \n**Southern Social (organic social media agency)**  \n- Lisa specifically asked about organic social media support.\n- You recommended the local Tennessee company **Southern Social**, explaining that they're strong at creating organic content for med spas and can travel or work through local creators.\n- You noted they weren't the right fit for your agency, but you do recommend them for med spa organic social media.\n\nSo the full networking list would be:\n\n1. DJ Kim, Scrub Ops (staffing)\n2. Michelle Philifer (med spa interior design)\n3. Tracy Olson, Aesthetic Injector Academy\n4. \ue200entity\ue202[\"people\",\"Neda Shirzadi\",\"NextGen Aesthetics Institute founder\"]\ue201\n5. Donna Scott, Lucce Bee / Secret Med Spa\n6. WellSync (peptides & longevity)\n7. Eric's Washington med spa owner contact (possible acquisition opportunities)\n8. \ue200entity\ue202[\"people\",\"Matt Bigley\",\"AmSpa industry leader\"]\ue201\n9. Southern Social (organic social media)\n\nI also noticed one more opportunity you could include that wasn't on the list:\n\n**10. Casey (Pennsylvania client)**  \nShe is currently launching an **esthetician training academy**, and Lisa was very interested in building an injector training program. I think those two would have a lot to learn from each other, even though they're in different states. That introduction could be valuable as well. \ue200filecite\ue202turn0file0\ue201"
+          ]
+        },
+        "create_time": 1782851242.455716,
+        "id": "cfc2d234-92b4-4857-b190-63702f1f52ea",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": null,
+              "cloud_doc_url": "",
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_00000000926c722f8d3c796a01cd0fa8",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "0c341def-b28a-4ece-be31-276ceb91835b",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": "libfile_4a86c7f07d588191bea4c8ffd436c9db",
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "Pasted text.txt",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            },
+            {
+              "alt": "Neda Shirzadi",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "NextGen Aesthetics Institute founder"
+              },
+              "id": "H9djo3ene2J6h8-f",
+              "metadata": null,
+              "name": "Neda Shirzadi",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Neda Shirzadi",
+              "type": "entity"
+            },
+            {
+              "alt": "Matt Bigley",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "AmSpa industry leader"
+              },
+              "id": "CQTwPty-lvagyNLd",
+              "metadata": null,
+              "name": "Matt Bigley",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Matt Bigley",
+              "type": "entity"
+            },
+            {
+              "alt": null,
+              "cloud_doc_url": "",
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_00000000926c722f8d3c796a01cd0fa8",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "0c341def-b28a-4ece-be31-276ceb91835b",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": "libfile_4a86c7f07d588191bea4c8ffd436c9db",
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "Pasted text.txt",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "ef6e9624-dce0-423c-934e-573f9055e5ba"
+        }
+      },
+      "parent": "0e720891-4792-4303-a293-a06eed80708c"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Follow-up Email Draft",
+  "update_time": 1782851521.960122,
+  "voice": null
+}

@@ -1,0 +1,144 @@
+{
+  "conversation_id": "69b5942f-cbe4-8330-bc87-7b12ca2c3643",
+  "conversation_template_id": null,
+  "create_time": 1773507636.995576,
+  "current_node": "91d350b8-caf4-4296-8ac4-f4064a564158",
+  "default_model_slug": "gpt-5-3",
+  "id": "69b5942f-cbe4-8330-bc87-7b12ca2c3643",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "0f71c211-028c-4bd5-b7fc-bb2e788dcf11": {
+      "id": "0f71c211-028c-4bd5-b7fc-bb2e788dcf11",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "In most cases, **you should NOT take \ue200entity\ue202[\"medication\",\"Adderall\",\"amphetamine mixed salts ADHD medication\"]\ue201 on the day of surgery unless your surgeon or anesthesiologist specifically tells you to.** \u26a0\ufe0f\n\nHere\u2019s why:\n\n### 1. It can affect anesthesia and your heart\nAdderall is a stimulant. It can:\n- Increase **heart rate and blood pressure**\n- Interact with anesthesia medications\n- Make it harder for the anesthesiologist to control your **blood pressure or heart rhythm** during surgery\n\n### 2. Anesthesia teams usually want a \u201cbaseline\u201d nervous system\nAnesthesiologists prefer patients **not to have stimulants in their system** so they can better predict how you\u2019ll respond to anesthesia drugs.\n\n### 3. Typical recommendation\nFor most elective surgeries:\n- **Skip Adderall the morning of surgery**\n- Resume it **after surgery once your doctor clears you**\n\nSome doctors may even ask you to stop it **24 hours before**, depending on:\n- Type of anesthesia (general vs. sedation)\n- Length of procedure\n- Your cardiovascular history\n\n### 4. Important exception\nIf you take Adderall **daily for ADHD**, some anesthesiologists actually prefer you **continue your normal routine**. Policies vary between hospitals.\n\n### What you should do\nCall your surgeon\u2019s office or anesthesia team and ask:\n\n> \u201cI take Adderall. Should I take my normal dose the morning of surgery or hold it?\u201d\n\nThey will give instructions based on your **specific procedure and anesthesia plan**.\n\n\u2705 **Rule of thumb:** If you didn\u2019t receive instructions yet, **skip the dose until you confirm with them.**\n\n---\n\nIf you want, tell me:\n- **What surgery you\u2019re having**\n- **What time the surgery is**\n- **Your Adderall dose**\n\n\u2026and I can tell you what anesthesiologists **usually recommend in that exact situation.**"
+          ]
+        },
+        "create_time": 1773507636.871161,
+        "id": "0f71c211-028c-4bd5-b7fc-bb2e788dcf11",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "Adderall",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "amphetamine mixed salts ADHD medication"
+              },
+              "metadata": null,
+              "name": "Adderall",
+              "notes": null,
+              "prompt_text": "Adderall",
+              "type": "entity"
+            }
+          ],
+          "model_slug": "gpt-5-3",
+          "parent_id": "c97f9183-a4f6-47a5-9f55-9c8b69464bcf"
+        }
+      },
+      "parent": "bbb21229-d81d-41be-bbb0-cb9e61fbb9d9"
+    },
+    "91d350b8-caf4-4296-8ac4-f4064a564158": {
+      "id": "91d350b8-caf4-4296-8ac4-f4064a564158",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "In most cases, **you do NOT need to stop \ue200entity\ue202[\"medication\",\"Adderall\",\"amphetamine mixed salts ADHD medication\"]\ue201 three days before anesthesia.** \ud83d\udc4d\n\nFor the majority of surgeries, anesthesiologists typically recommend:\n\n**Typical guidance**\n- Continue your medication **as normal until the day before surgery**\n- **Do not take it the morning of surgery** (unless your doctor specifically tells you to)\n\n**Why**\nAdderall leaves the body relatively quickly:\n- Half-life: about **9\u201314 hours**\n- Usually mostly cleared within **24\u201348 hours**\n\nSo stopping **3 days before** is usually unnecessary unless:\n- You have **heart or blood pressure issues**\n- The surgery involves **cardiac procedures**\n- Your anesthesiologist has a **specific protocol**\n\n**What most anesthesia instructions look like**\n- 3\u20137 days before: stop blood thinners, supplements, etc.\n- **Day of surgery: hold stimulants like Adderall**\n\n\u2705 If your surgery is **three days away**, you can usually keep taking it normally until the day before.\n\n\u26a0\ufe0f However, always follow the **instructions from your surgeon or anesthesia team first**, because policies vary by hospital.\n\nIf you want, tell me:\n- **What surgery you're having**\n- **General anesthesia or twilight sedation**\n- **Your Adderall dose**\n\n\u2026and I can tell you what is **most commonly recommended for that exact situation.**"
+          ]
+        },
+        "create_time": 1773507651.365037,
+        "id": "91d350b8-caf4-4296-8ac4-f4064a564158",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "Adderall",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "amphetamine mixed salts ADHD medication"
+              },
+              "metadata": null,
+              "name": "Adderall",
+              "notes": null,
+              "prompt_text": "Adderall",
+              "type": "entity"
+            }
+          ],
+          "model_slug": "gpt-5-3",
+          "parent_id": "bbb21d9e-0703-4021-9395-49733b3e4a26"
+        }
+      },
+      "parent": "bbb21d9e-0703-4021-9395-49733b3e4a26"
+    },
+    "bbb21229-d81d-41be-bbb0-cb9e61fbb9d9": {
+      "id": "bbb21229-d81d-41be-bbb0-cb9e61fbb9d9",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Can I take Adderall before a anesthesia surgery?"
+          ]
+        },
+        "create_time": 1773507636.74395,
+        "id": "bbb21229-d81d-41be-bbb0-cb9e61fbb9d9",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "f8d83e50-5f88-4753-8a05-2768c00a8667"
+    },
+    "bbb21d9e-0703-4021-9395-49733b3e4a26": {
+      "id": "bbb21d9e-0703-4021-9395-49733b3e4a26",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Three days prior\n"
+          ]
+        },
+        "create_time": 1773507650.600809,
+        "id": "bbb21d9e-0703-4021-9395-49733b3e4a26",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "0f71c211-028c-4bd5-b7fc-bb2e788dcf11"
+    },
+    "f8d83e50-5f88-4753-8a05-2768c00a8667": {
+      "id": "f8d83e50-5f88-4753-8a05-2768c00a8667",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Adderall and Surgery Timing",
+  "update_time": 1773507660.085257,
+  "voice": null
+}

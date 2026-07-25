@@ -1,0 +1,93 @@
+{
+  "conversation_id": "6a01c56b-b5e8-83ea-8dd7-229385221c9b",
+  "conversation_template_id": null,
+  "create_time": 1778500973.223924,
+  "current_node": "0314193e-e126-494b-805e-80b14c1ca6e1",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a01c56b-b5e8-83ea-8dd7-229385221c9b",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "0314193e-e126-494b-805e-80b14c1ca6e1": {
+      "id": "0314193e-e126-494b-805e-80b14c1ca6e1",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Based on the Marital Dissolution Agreement, Grant\u2019s obligation regarding your neck injury medical expenses is limited and not open-ended.\n\nThe relevant section says:\n\n> \u201cThe parties agree that any future medical issues relating to Wife\u2019s prior cervical spine injury shall be made in good faith. Husband agrees to cover any expenses relating to future medical issues concerning Wife\u2019s prior injury, up to the applicable annual deductible. All additional, non-covered expenses or costs shall be the sole responsibility of Wife.\u201d \ue200filecite\ue202turn0file0\ue202L?-L?\ue201\n\nThis means, as written in the agreement:\n\n- He agreed to cover expenses related to your cervical spine injury only up to the annual deductible amount.\n- Once the deductible is met for the year, any remaining costs, non-covered treatment, co-insurance, surgery balances, therapy, etc., become your responsibility unless otherwise agreed.\n- The agreement does not appear to place a specific end date on this obligation.\n- However, it also does not require him to pay unlimited medical costs forever. It is capped at the deductible each applicable year.\n\nAlso important:\n- The agreement says these future medical issues are to be handled \u201cin good faith,\u201d which is somewhat subjective and can create interpretation disputes.\n- The agreement separately states he must maintain your health insurance through the end of 2026. \ue200filecite\ue202turn0file0\ue202L?-L?\ue201\n- After 2026, you are responsible for maintaining your own insurance.\n\nOne major practical issue is whether your surgery, MRIs, injections, PT, medications, etc. are clearly documented as connected to the \u201cprior cervical spine injury\u201d referenced in the agreement. Your medical timeline and records matter a lot there.\n\nI\u2019m not your attorney, but from the wording alone:\n- He likely remains responsible for deductible-level costs tied to the cervical injury while the agreement is in effect.\n- He likely is not responsible for all ongoing treatment costs indefinitely beyond that deductible cap."
+          ]
+        },
+        "create_time": 1778500972.56852,
+        "id": "0314193e-e126-494b-805e-80b14c1ca6e1",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": null,
+              "prefix": null,
+              "prompt_text": null,
+              "type": "hidden"
+            },
+            {
+              "alt": null,
+              "prefix": null,
+              "prompt_text": null,
+              "type": "hidden"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "4e65ae5a-2ac3-4362-a2ce-469c24a736e8"
+        }
+      },
+      "parent": "bbb2197a-3adf-4c40-9ffa-1460fc4b6d07"
+    },
+    "bbb2197a-3adf-4c40-9ffa-1460fc4b6d07": {
+      "id": "bbb2197a-3adf-4c40-9ffa-1460fc4b6d07",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "How long are my neck injury medical bills covered and required to be paid by grant "
+          ]
+        },
+        "create_time": 1778500972.174934,
+        "id": "bbb2197a-3adf-4c40-9ffa-1460fc4b6d07",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_00000000e75c722fa0b2e27af3ebab20",
+              "library_file_id": "libfile_dfb7416c234c8191ab1779d7e8ae022d",
+              "mime_type": "application/pdf",
+              "name": "Gifford MDA - signed and notarized - filed to Ct.pdf",
+              "size": 917764
+            }
+          ],
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "c5804e9c-752f-4db0-b0fc-ecad42541dbe"
+    },
+    "c5804e9c-752f-4db0-b0fc-ecad42541dbe": {
+      "id": "c5804e9c-752f-4db0-b0fc-ecad42541dbe",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Grant Medical Coverage Limit",
+  "update_time": 1778500987.522614,
+  "voice": null
+}

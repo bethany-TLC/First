@@ -1,0 +1,115 @@
+{
+  "conversation_id": "6a04d7e3-1c64-83ea-8028-9d57f5fb5913",
+  "conversation_template_id": null,
+  "create_time": 1778702355.944788,
+  "current_node": "e98b7d90-c207-45f1-8a9c-a28f6b07a1a3",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a04d7e3-1c64-83ea-8028-9d57f5fb5913",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "15249254-3e63-44ec-9e1c-a9cb79663b9c": {
+      "id": "15249254-3e63-44ec-9e1c-a9cb79663b9c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "write a breif follow email to rudy and carrie: add in the time day we meet agian in 48 hours. reiterte we offer payment plans and id encourge them to get our expertise prior to launch but dont make it sound pusshy or presseu"
+          ]
+        },
+        "create_time": 1778702355.563,
+        "id": "15249254-3e63-44ec-9e1c-a9cb79663b9c",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_00000000b0b071fd8147ea5636024788",
+              "is_big_paste": true,
+              "library_file_id": "libfile_54e0cac851308191a2fdb930ef9f704a",
+              "mime_type": "text/plain",
+              "name": "Pasted text(30).txt",
+              "size": 50372,
+              "source": "local"
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "e98b7d90-c207-45f1-8a9c-a28f6b07a1a3": {
+      "id": "e98b7d90-c207-45f1-8a9c-a28f6b07a1a3",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a polished follow-up you can send to Rudy and Carrie based on your call recap. \ue200filecite\ue202turn0file0\ue202L1-L20\ue201\n\n:::writing{variant=\"email\" id=\"48271\" subject=\"Great Talking With You Both Today\"}\nHi Rudy & Carrie,\n\nIt was so great speaking with you both today. I really enjoyed learning more about your vision for the practice, especially the upcoming peptide launch and the long-term direction you\u2019re building toward.\n\nI\u2019m excited about the opportunities ahead for you both, especially around memberships, retention, patient experience, and creating a stronger long-term continuity plan around your peptide and wellness programs.\n\nAs discussed, we\u2019ll reconnect in 48 hours on Friday at 9:00 AM HST / 2:00 PM CST to touch base after you\u2019ve had some time to internally discuss next steps.\n\nAlso, just as a reminder, we do offer flexible payment plan options if that helps make timing and implementation easier while you\u2019re preparing for launch. I truly believe having the right structure, messaging, and systems in place before a major rollout can make a huge difference in long-term success, especially with memberships and patient retention.\n\nNo pressure at all. I just want to make sure you both feel fully supported and set up the right way from the beginning.\n\nLooking forward to talking again soon!\n\nBethany\nThe Luxora Collective\n:::"
+          ]
+        },
+        "create_time": 1778702355.807349,
+        "id": "e98b7d90-c207-45f1-8a9c-a28f6b07a1a3",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": null,
+              "cloud_doc_url": "",
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_00000000b0b071fd8147ea5636024788",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": 20,
+                "line_range_start": 1,
+                "message_id": "5d16584f-fa86-4f67-8f32-e1c0fcaaa077",
+                "message_index": 0
+              },
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "Pasted text.txt",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "3ec15a2b-33c6-4925-949a-a7f860460931"
+        }
+      },
+      "parent": "15249254-3e63-44ec-9e1c-a9cb79663b9c"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Follow-up Email Draft",
+  "update_time": 1778702403.570107,
+  "voice": null
+}

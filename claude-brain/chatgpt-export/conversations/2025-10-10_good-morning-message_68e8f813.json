@@ -1,0 +1,206 @@
+{
+  "conversation_id": "68e8f813-53ac-8326-ac06-8a3f3468d63f",
+  "conversation_template_id": null,
+  "create_time": 1760098339.669831,
+  "current_node": "93af8a75-496b-4ead-b090-b195175f5d5c",
+  "default_model_slug": "gpt-5",
+  "id": "68e8f813-53ac-8326-ac06-8a3f3468d63f",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "21c1d2f5-9d07-4500-8cde-375d6f15aef0": {
+      "id": "21c1d2f5-9d07-4500-8cde-375d6f15aef0",
+      "message": null,
+      "parent": null
+    },
+    "627167b2-8131-415a-b6e5-48266b3a82de": {
+      "id": "627167b2-8131-415a-b6e5-48266b3a82de",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Good morning, handsome. Hope your day starts off strong \u2014 just wanted you to know you\u2019ve been on my mind."
+          ]
+        },
+        "create_time": 1760098350.485455,
+        "id": "627167b2-8131-415a-b6e5-48266b3a82de",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "7acb99d5-9790-4fa4-8bc9-c272ddcb9cc1"
+        }
+      },
+      "parent": "bbb21f3b-8431-465a-8952-270fdb33e9ce"
+    },
+    "93af8a75-496b-4ead-b090-b195175f5d5c": {
+      "id": "93af8a75-496b-4ead-b090-b195175f5d5c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Morning, sexy. It actually went really well \u2014 everything\u2019s good. But I\u2019ll be honest, I woke up wanting you more than ever\u2026 and not just in that way \ud83d\ude1c Guess a little space just made it even clearer how much I want to be with you."
+          ]
+        },
+        "create_time": 1760098509.192585,
+        "id": "93af8a75-496b-4ead-b090-b195175f5d5c",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "bbb21b3f-4232-4411-b838-32eb1cd2c1a4"
+        }
+      },
+      "parent": "bbb21b3f-4232-4411-b838-32eb1cd2c1a4"
+    },
+    "bbb217d9-3d55-4643-933f-363dae2df8d0": {
+      "id": "bbb217d9-3d55-4643-933f-363dae2df8d0",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "More sec andoossion\n"
+          ]
+        },
+        "create_time": 1760098360.644501,
+        "id": "bbb217d9-3d55-4643-933f-363dae2df8d0",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "627167b2-8131-415a-b6e5-48266b3a82de"
+    },
+    "bbb21b3f-4232-4411-b838-32eb1cd2c1a4": {
+      "id": "bbb21b3f-4232-4411-b838-32eb1cd2c1a4",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Rewrite this: Morning sexy! It went surprisingly well... All is well and I have to admit I woke up this morning wanting you more than ever... Not just 'that' way \ud83d\ude1c I guess a moment of distance just proves to me that I need to be with you\n"
+          ]
+        },
+        "create_time": 1760098508.858357,
+        "id": "bbb21b3f-4232-4411-b838-32eb1cd2c1a4",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "ec541f20-d8cd-4da1-aa5c-27bb7928671d"
+    },
+    "bbb21e5a-3e03-42f8-89ec-40adf4111cc7": {
+      "id": "bbb21e5a-3e03-42f8-89ec-40adf4111cc7",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Say good morning to a man that you want to know is yours "
+          ]
+        },
+        "create_time": 1760098339.419683,
+        "id": "bbb21e5a-3e03-42f8-89ec-40adf4111cc7",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "21c1d2f5-9d07-4500-8cde-375d6f15aef0"
+    },
+    "bbb21f3b-8431-465a-8952-270fdb33e9ce": {
+      "id": "bbb21f3b-8431-465a-8952-270fdb33e9ce",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Shorter less love\n"
+          ]
+        },
+        "create_time": 1760098350.077542,
+        "id": "bbb21f3b-8431-465a-8952-270fdb33e9ce",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "f3ef9e3f-927e-4938-b0a1-846a4968ef23"
+    },
+    "ec541f20-d8cd-4da1-aa5c-27bb7928671d": {
+      "id": "ec541f20-d8cd-4da1-aa5c-27bb7928671d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Good morning, you.  \nI hope you slept well\u2026 I\u2019ve been thinking about you more than I should."
+          ]
+        },
+        "create_time": 1760098361.003461,
+        "id": "ec541f20-d8cd-4da1-aa5c-27bb7928671d",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "b27f22d7-5a82-418d-98d8-36bc1a9059b1"
+        }
+      },
+      "parent": "bbb217d9-3d55-4643-933f-363dae2df8d0"
+    },
+    "f3ef9e3f-927e-4938-b0a1-846a4968ef23": {
+      "id": "f3ef9e3f-927e-4938-b0a1-846a4968ef23",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Good morning, my love. I hope you woke up knowing how much I adore being yours. There\u2019s something about mornings that makes me think of you \u2014 strong, steady, and the kind of man I can\u2019t help but want to belong to. I hope your day starts peaceful, clear, and full of confidence in how wanted you are. \u2600\ufe0f"
+          ]
+        },
+        "create_time": 1760098339.519292,
+        "id": "f3ef9e3f-927e-4938-b0a1-846a4968ef23",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "5229aa1f-2fc8-49c3-a287-bc81cdacf3b6"
+        }
+      },
+      "parent": "bbb21e5a-3e03-42f8-89ec-40adf4111cc7"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Good morning message",
+  "update_time": 1760098510.980221,
+  "voice": null
+}

@@ -1,0 +1,324 @@
+{
+  "conversation_id": "6a218d34-8af0-83e8-b344-634a5654cdf3",
+  "conversation_template_id": null,
+  "create_time": 1780583793.511335,
+  "current_node": "6112e825-ba79-40fb-895d-0762a644fa5f",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a218d34-8af0-83e8-b344-634a5654cdf3",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "6112e825-ba79-40fb-895d-0762a644fa5f": {
+      "id": "6112e825-ba79-40fb-895d-0762a644fa5f",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "create_time": 1780584131.63515,
+        "id": "6112e825-ba79-40fb-895d-0762a644fa5f",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "a1cdb6ab-91a7-4dc9-9e7d-fde669792c02"
+        }
+      },
+      "parent": "bbb21b08-5fe2-42bf-96af-8eec591b7f2e"
+    },
+    "bbb21174-8764-4021-8a19-204755ffd4b5": {
+      "id": "bbb21174-8764-4021-8a19-204755ffd4b5",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_00000000c490720ca80bfff70f918ab0",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 3648,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 331213,
+              "width": 2736
+            },
+            {
+              "asset_pointer": "sediment://file_00000000b18c71f7ba89ce82a1e1440c",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 3648,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 426614,
+              "width": 2736
+            },
+            {
+              "asset_pointer": "sediment://file_00000000f0d8720c9850d4c16ce1f955",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 3069,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 415441,
+              "width": 2264
+            },
+            {
+              "asset_pointer": "sediment://file_000000008b54720c98c727971640e741",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 3648,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 446381,
+              "width": 2736
+            },
+            {
+              "asset_pointer": "sediment://file_00000000c444720cb18bf1f89e0dbe06",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 3648,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 660419,
+              "width": 2736
+            },
+            {
+              "asset_pointer": "sediment://file_00000000e350722fbb27a87e520c3bd3",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 3648,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 195826,
+              "width": 2736
+            },
+            "Take these photos of us and make one of us in our garden. Keep our faces exactly as they are and put me in a black sun dress and him in blue shorts and white button up short sleeve."
+          ]
+        },
+        "create_time": 1780583793.115627,
+        "id": "bbb21174-8764-4021-8a19-204755ffd4b5",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_00000000c490720ca80bfff70f918ab0",
+              "mime_type": "image/jpeg",
+              "name": "1000018682.jpg",
+              "size": 331213
+            },
+            {
+              "id": "file_00000000b18c71f7ba89ce82a1e1440c",
+              "mime_type": "image/jpeg",
+              "name": "1000017410.jpg",
+              "size": 426614
+            },
+            {
+              "id": "file_00000000f0d8720c9850d4c16ce1f955",
+              "mime_type": "image/jpeg",
+              "name": "1000015830.jpg",
+              "size": 415441
+            },
+            {
+              "id": "file_000000008b54720c98c727971640e741",
+              "mime_type": "image/jpeg",
+              "name": "1000015828.jpg",
+              "size": 446381
+            },
+            {
+              "id": "file_00000000c444720cb18bf1f89e0dbe06",
+              "mime_type": "image/jpeg",
+              "name": "1000015116.jpg",
+              "size": 660419
+            },
+            {
+              "id": "file_00000000e350722fbb27a87e520c3bd3",
+              "mime_type": "image/jpeg",
+              "name": "1000015066.jpg",
+              "size": 195826
+            },
+            {
+              "id": "file_000000008e68720cbb9ab57beaab60b5",
+              "library_file_id": "libfile_8b5b004db65c8191a6f5c3cfd14a7ba6",
+              "mime_type": "video/mp4",
+              "name": "1000019426.mp4",
+              "size": 31526658
+            }
+          ],
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "c31f1c78-c99f-46dd-b0ba-ac415c42d9c3"
+    },
+    "bbb2150f-19d1-48e2-9c96-f6ab082c5a0f": {
+      "id": "bbb2150f-19d1-48e2-9c96-f6ab082c5a0f",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Just take the ring off my finger"
+          ]
+        },
+        "create_time": 1780583893.709635,
+        "id": "bbb2150f-19d1-48e2-9c96-f6ab082c5a0f",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "bbb21174-8764-4021-8a19-204755ffd4b5"
+    },
+    "bbb21528-e8d5-47cc-a59a-ebce1869fe02": {
+      "id": "bbb21528-e8d5-47cc-a59a-ebce1869fe02",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Now put us working in the garden "
+          ]
+        },
+        "create_time": 1780584002.82581,
+        "id": "bbb21528-e8d5-47cc-a59a-ebce1869fe02",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "bbb2150f-19d1-48e2-9c96-f6ab082c5a0f"
+    },
+    "bbb21b08-5fe2-42bf-96af-8eec591b7f2e": {
+      "id": "bbb21b08-5fe2-42bf-96af-8eec591b7f2e",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Mike, one that's more candid"
+          ]
+        },
+        "create_time": 1780584082.512924,
+        "id": "bbb21b08-5fe2-42bf-96af-8eec591b7f2e",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "bbb21528-e8d5-47cc-a59a-ebce1869fe02"
+    },
+    "c31f1c78-c99f-46dd-b0ba-ac415c42d9c3": {
+      "id": "c31f1c78-c99f-46dd-b0ba-ac415c42d9c3",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Garden Portrait Creation",
+  "update_time": 1780584140.800622,
+  "voice": null
+}

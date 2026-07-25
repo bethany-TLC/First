@@ -1,0 +1,80 @@
+{
+  "conversation_id": "6a498592-d7a8-83e8-87db-4602f752fd25",
+  "conversation_template_id": null,
+  "create_time": 1783203233.076406,
+  "current_node": "bbb219e8-f55a-4756-95a8-37f31cba267f",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a498592-d7a8-83e8-87db-4602f752fd25",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "bbb219e8-f55a-4756-95a8-37f31cba267f": {
+      "id": "bbb219e8-f55a-4756-95a8-37f31cba267f",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_000000009880720ca0c11d7a02253ec9",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 3648,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 411411,
+              "width": 2736
+            },
+            "Enhance this photo"
+          ]
+        },
+        "create_time": 1783203232.759798,
+        "id": "bbb219e8-f55a-4756-95a8-37f31cba267f",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_000000009880720ca0c11d7a02253ec9",
+              "mime_type": "image/jpeg",
+              "name": "1000020630.jpg",
+              "size": 411411
+            }
+          ],
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "f03ef7eb-4407-4b7e-a5fc-4a2588b47ad9"
+    },
+    "f03ef7eb-4407-4b7e-a5fc-4a2588b47ad9": {
+      "id": "f03ef7eb-4407-4b7e-a5fc-4a2588b47ad9",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Photo Enhancement Description",
+  "update_time": 1783203281.199091,
+  "voice": null
+}

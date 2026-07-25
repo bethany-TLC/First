@@ -1,0 +1,116 @@
+{
+  "conversation_id": "69e62013-375c-83ea-afb0-b2569c1b4c48",
+  "conversation_template_id": null,
+  "create_time": 1776689178.998651,
+  "current_node": "fa8f4aaa-7aa8-4620-9a52-131d27a70a0b",
+  "default_model_slug": "gpt-5-3",
+  "id": "69e62013-375c-83ea-afb0-b2569c1b4c48",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "132488cc-8cd7-4cc4-a0a7-3845c4fdadf9": {
+      "id": "132488cc-8cd7-4cc4-a0a7-3845c4fdadf9",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Med spa growth partner for $500K\u2013$2M owners. We fix revenue leaks, build systems, and turn attention into booked appointments and long-term clients."
+          ]
+        },
+        "create_time": 1776689178.821189,
+        "id": "132488cc-8cd7-4cc4-a0a7-3845c4fdadf9",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "5056d9da-6b95-4fa9-9dd8-bda16e687b49"
+        }
+      },
+      "parent": "bbb212d6-0579-4e67-ac30-e5063e54458b"
+    },
+    "7d7c562f-52ac-4e8d-bb99-e3d80e2f4086": {
+      "id": "7d7c562f-52ac-4e8d-bb99-e3d80e2f4086",
+      "message": null,
+      "parent": null
+    },
+    "bbb212d6-0579-4e67-ac30-e5063e54458b": {
+      "id": "bbb212d6-0579-4e67-ac30-e5063e54458b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write a tick tock bio about the Luxora Collective under 160 characters"
+          ]
+        },
+        "create_time": 1776689178.619422,
+        "id": "bbb212d6-0579-4e67-ac30-e5063e54458b",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "7d7c562f-52ac-4e8d-bb99-e3d80e2f4086"
+    },
+    "bbb21501-a663-4b3d-ae3e-0b89433dbe15": {
+      "id": "bbb21501-a663-4b3d-ae3e-0b89433dbe15",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Redo"
+          ]
+        },
+        "create_time": 1776689193.026682,
+        "id": "bbb21501-a663-4b3d-ae3e-0b89433dbe15",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "132488cc-8cd7-4cc4-a0a7-3845c4fdadf9"
+    },
+    "fa8f4aaa-7aa8-4620-9a52-131d27a70a0b": {
+      "id": "fa8f4aaa-7aa8-4620-9a52-131d27a70a0b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "We fix what\u2019s leaking in your med spa.  \nMore booked consults, better retention, higher LTV.  \nBuilt for $500K\u2013$2M owners ready to scale."
+          ]
+        },
+        "create_time": 1776689193.217501,
+        "id": "fa8f4aaa-7aa8-4620-9a52-131d27a70a0b",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "bbb21501-a663-4b3d-ae3e-0b89433dbe15"
+        }
+      },
+      "parent": "bbb21501-a663-4b3d-ae3e-0b89433dbe15"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Luxora Collective TikTok Bio",
+  "update_time": 1776689195.690712,
+  "voice": null
+}

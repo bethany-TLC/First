@@ -1,0 +1,96 @@
+{
+  "conversation_id": "6a0a6351-e630-83ea-bdbc-561d814e850c",
+  "conversation_template_id": null,
+  "create_time": 1779065778.735879,
+  "current_node": "ce70cd9c-57a9-4671-ba44-7f6d126ad325",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a0a6351-e630-83ea-bdbc-561d814e850c",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "4b9cd567-930f-4db0-b4d0-bc3c7cb8ec24": {
+      "id": "4b9cd567-930f-4db0-b4d0-bc3c7cb8ec24",
+      "message": null,
+      "parent": null
+    },
+    "bbb21cde-59a6-47cb-9de1-998334a4884c": {
+      "id": "bbb21cde-59a6-47cb-9de1-998334a4884c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write a letter to my nephew Henry while he is in rehab. Tell ur m how proud I am of him and how is Hotchkiss's bounce back. "
+          ]
+        },
+        "create_time": 1779065778.309194,
+        "id": "bbb21cde-59a6-47cb-9de1-998334a4884c",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "4b9cd567-930f-4db0-b4d0-bc3c7cb8ec24"
+    },
+    "ce70cd9c-57a9-4671-ba44-7f6d126ad325": {
+      "id": "ce70cd9c-57a9-4671-ba44-7f6d126ad325",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ":::writing{variant=\"standard\" id=\"48271\"}\nDear Henry,\n\nI just wanted to write you and tell you how incredibly proud I am of you.\n\nWhat you are doing right now takes courage. Real courage. The kind most people never fully understand unless they have had to fight their way back from something hard themselves. Choosing to step into healing instead of running from it says so much about the kind of man you are becoming.\n\nLife knocks all of us down at some point. What matters is not the fall. It is the bounce back. And Henry, I truly believe your comeback story is going to be powerful.\n\nYou come from strong roots. You are loved more than you probably even realize. This chapter does not define you. It is simply part of your story, and stories can change direction at any moment. Every single day you are there, you are rebuilding yourself piece by piece. That matters. Even on the days it does not feel like it.\n\nI hope you know there is absolutely no shame in asking for help, slowing down, or taking time to heal. In fact, I think it shows maturity and strength. You are choosing your future over temporary comfort, and that is something to be proud of.\n\nI have always seen so much potential in you. Your heart, your personality, your ability to make people laugh, your intelligence, your resilience. None of that is gone. It is still there waiting for you on the other side of this.\n\nSo give yourself grace. One step at a time. One day at a time. You do not have to have everything figured out overnight. Just keep moving forward. Keep fighting for yourself. Keep believing that your life can become something beautiful because it absolutely can.\n\nI believe in your bounce back with my whole heart.\n\nAnd no matter what, I love you and I am proud of you.\n\nLove,\nAunt Bethany\n:::"
+          ]
+        },
+        "create_time": 1779065778.616247,
+        "id": "ce70cd9c-57a9-4671-ba44-7f6d126ad325",
+        "metadata": {
+          "content_references": [],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Memory",
+                "citation_uuid": "a8035dbf-f064-4b1f-8fda-1a71fb1d8ae7",
+                "conversation_context_type": "user_memory",
+                "end_idx": -1,
+                "index": 1,
+                "matched_text": "",
+                "memory_id": "07da9a2f-fb82-4106-ba80-6fde328915f9",
+                "prompt_text": null,
+                "reason": "Your name is Bethany Gifford.",
+                "refs": [],
+                "snippet": "[2025-06-04]. User's name is Bethany Gifford.",
+                "start_idx": -1,
+                "title": "Your name is Bethany Gifford.",
+                "type": "conversation_context_citation",
+                "url": "#settings/Personalization"
+              },
+              "citation_uuid": "a8035dbf-f064-4b1f-8fda-1a71fb1d8ae7",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "1f9d3448-c6e9-41f3-9020-997ed5bc8626"
+        }
+      },
+      "parent": "bbb21cde-59a6-47cb-9de1-998334a4884c"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Letter to Nephew Henry",
+  "update_time": 1779065787.233522,
+  "voice": null
+}

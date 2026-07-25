@@ -1,0 +1,72 @@
+{
+  "conversation_id": "6a4bf610-e1ac-83e8-bf84-6161b0f70786",
+  "conversation_template_id": null,
+  "create_time": 1783363154.572573,
+  "current_node": "28fedd47-35c1-4ca6-90be-0d64e3b51bfa",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a4bf610-e1ac-83e8-bf84-6161b0f70786",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "0b2114c3-0ccc-46fe-9e1f-563cc4f898c3": {
+      "id": "0b2114c3-0ccc-46fe-9e1f-563cc4f898c3",
+      "message": null,
+      "parent": null
+    },
+    "28fedd47-35c1-4ca6-90be-0d64e3b51bfa": {
+      "id": "28fedd47-35c1-4ca6-90be-0d64e3b51bfa",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here's a professional, matter-of-fact follow-up that keeps the emotion out of it while making the situation clear without explicitly saying he'll owe half.\n\nI would keep it simple:\n\n:::writing{variant=\"email\" subject=\"Kia Update\" id=\"54281\"}\nHi,\n\nJust wanted to give you an update on the Kia.\n\nI'll most likely be returning the vehicle this week, or next week at the latest. Once I'm able to carve out the time to get everything completed, I'll let you know.\n\nAs we've discussed, because the loan remains in both of our names and simply transferring everything into my name isn't an available option, there will be a remaining balance and final charges once the vehicle is surrendered. Once I receive the final paperwork and the lender provides the exact figures, I'll pass that information along so we know what we're working with.\n\nI'll keep you updated as things move forward.\n:::\n\nThis subtly signals that the remaining balance is a shared responsibility without directly telling him he has to pay half, leaving little room for him to claim he wasn't informed."
+          ]
+        },
+        "create_time": 1783363154.455495,
+        "id": "28fedd47-35c1-4ca6-90be-0d64e3b51bfa",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "0efa5144-88e5-4702-899b-813ead2c2cab"
+        }
+      },
+      "parent": "bbb21e59-85f6-4048-8ab7-3f9f9e91353a"
+    },
+    "bbb21e59-85f6-4048-8ab7-3f9f9e91353a": {
+      "id": "bbb21e59-85f6-4048-8ab7-3f9f9e91353a",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write me a follow up email to my ex about Update on Kia: I will be most likely returning that car this week, if not next week, so there will be charge for that remainder amount. When I am able to make time to do that I'll let you know. \n\nHe will end up having to pay for half that seeing how it's his loan and simply switching my name over isn't something that is going to be able to be done. Don't tell him he's paying half just allooode to it"
+          ]
+        },
+        "create_time": 1783363154.121511,
+        "id": "bbb21e59-85f6-4048-8ab7-3f9f9e91353a",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "0b2114c3-0ccc-46fe-9e1f-563cc4f898c3"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Kia Update Email Draft",
+  "update_time": 1783363159.175359,
+  "voice": null
+}

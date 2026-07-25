@@ -1,0 +1,71 @@
+{
+  "conversation_id": "68ba3371-0cbc-8325-ad35-66de134e1742",
+  "conversation_template_id": null,
+  "create_time": 1757033411.393331,
+  "current_node": "393f8d8a-7a20-4ff2-b231-1cf6aea0bdf5",
+  "default_model_slug": "auto",
+  "id": "68ba3371-0cbc-8325-ad35-66de134e1742",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "393f8d8a-7a20-4ff2-b231-1cf6aea0bdf5": {
+      "id": "393f8d8a-7a20-4ff2-b231-1cf6aea0bdf5",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a short, upbeat post you could send Andrea:  \n\n---\n\n\ud83d\ude80 Andrea, your campaign is officially LIVE!  \nWe\u2019re about to put Prestige Aesthetics front and center and show off all the amazing services you\u2019ve built. This is where the fun starts \u2014 eyes on you, leads coming in, and momentum building. Let\u2019s rock this together! \ud83d\udcaa\u2728  \n\n---  \n\nWant me to make a couple variations (casual, professional, hype) so you can pick which tone feels best for her?"
+          ]
+        },
+        "create_time": 1757033411.314635,
+        "id": "393f8d8a-7a20-4ff2-b231-1cf6aea0bdf5",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "cbd8b95e-7655-4a9a-9a1e-cee218f790a0"
+        }
+      },
+      "parent": "bbb21c05-71ba-4cee-953c-e98549b1cd8a"
+    },
+    "596cb845-2943-40e1-a82e-e3726f9a9051": {
+      "id": "596cb845-2943-40e1-a82e-e3726f9a9051",
+      "message": null,
+      "parent": null
+    },
+    "bbb21c05-71ba-4cee-953c-e98549b1cd8a": {
+      "id": "bbb21c05-71ba-4cee-953c-e98549b1cd8a",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write a short post talking to Andrea about her campaign being live and we are about to rock this "
+          ]
+        },
+        "create_time": 1757033411.160557,
+        "id": "bbb21c05-71ba-4cee-953c-e98549b1cd8a",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "596cb845-2943-40e1-a82e-e3726f9a9051"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Write post for Andrea",
+  "update_time": 1757033414.589897,
+  "voice": null
+}

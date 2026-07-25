@@ -1,0 +1,109 @@
+{
+  "conversation_id": "6a27607c-1ea8-83e8-873a-7a7ebce5bfc6",
+  "conversation_template_id": null,
+  "create_time": 1780965516.40875,
+  "current_node": "bbb21b61-a3f1-4add-9c62-b713583cc133",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a27607c-1ea8-83e8-873a-7a7ebce5bfc6",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "238572aa-9ae0-4db9-95b3-55613542dc58": {
+      "id": "238572aa-9ae0-4db9-95b3-55613542dc58",
+      "message": null,
+      "parent": null
+    },
+    "bbb21b61-a3f1-4add-9c62-b713583cc133": {
+      "id": "bbb21b61-a3f1-4add-9c62-b713583cc133",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_000000008eec720cbb7770d5a2127bb8",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 3648,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 328086,
+              "width": 2736
+            },
+            {
+              "asset_pointer": "sediment://file_00000000a7f471f5b94f6df9f231d08b",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 4080,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 175081,
+              "width": 3060
+            },
+            "Put my pink nail on the one with my face"
+          ]
+        },
+        "create_time": 1780965516.091996,
+        "id": "bbb21b61-a3f1-4add-9c62-b713583cc133",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_000000008eec720cbb7770d5a2127bb8",
+              "mime_type": "image/jpeg",
+              "name": "1000019550.jpg",
+              "size": 328086
+            },
+            {
+              "id": "file_00000000a7f471f5b94f6df9f231d08b",
+              "mime_type": "image/jpeg",
+              "name": "1000019546.jpg",
+              "size": 175081
+            }
+          ],
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "238572aa-9ae0-4db9-95b3-55613542dc58"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Pink Nail Selfie Pose",
+  "update_time": 1780965547.079097,
+  "voice": null
+}

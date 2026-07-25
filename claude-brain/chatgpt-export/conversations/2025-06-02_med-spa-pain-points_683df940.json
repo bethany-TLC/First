@@ -1,0 +1,256 @@
+{
+  "conversation_id": "683df940-9368-8011-b9d0-d2a65af6e186",
+  "conversation_template_id": null,
+  "create_time": 1748891969.22553,
+  "current_node": "f465486e-7de5-4a62-9684-3166fdccc4ad",
+  "default_model_slug": "auto",
+  "id": "683df940-9368-8011-b9d0-d2a65af6e186",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "3400c077-975a-4c44-a9d0-445298424c93": {
+      "id": "3400c077-975a-4c44-a9d0-445298424c93",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "please download in word doc\n\nPlease write in English language."
+          ]
+        },
+        "create_time": 1748892056.872,
+        "id": "3400c077-975a-4c44-a9d0-445298424c93",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "a32aed94-76b7-4e64-8311-3b5f9366a34a"
+    },
+    "5157dfa6-0e5f-4c7f-a616-a2ddbe8380b6": {
+      "id": "5157dfa6-0e5f-4c7f-a616-a2ddbe8380b6",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Your Word document with pain points, headlines, and 10 cold email variations is ready for download:\n\n\ud83d\udcc4 [Click here to download Cold_Emails_Med_Spa_Study.docx](sandbox:/mnt/data/Cold_Emails_Med_Spa_Study.docx)"
+          ]
+        },
+        "create_time": 1748892073.524086,
+        "id": "5157dfa6-0e5f-4c7f-a616-a2ddbe8380b6",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-4o",
+          "parent_id": "1a397107-ea35-478b-844f-dadc089a2425"
+        }
+      },
+      "parent": "3400c077-975a-4c44-a9d0-445298424c93"
+    },
+    "699f200f-5350-4370-b14f-f5eb16ecda4d": {
+      "id": "699f200f-5350-4370-b14f-f5eb16ecda4d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Initial Value Proposition for meda spa and aesthetic practice\n\nPlease write in English language."
+          ]
+        },
+        "create_time": 1749000810.016,
+        "id": "699f200f-5350-4370-b14f-f5eb16ecda4d",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "8e315c59-3ad1-46c6-a4b4-f8c6f182691a"
+    },
+    "809da241-ab61-41a8-9650-474303a69a1a": {
+      "id": "809da241-ab61-41a8-9650-474303a69a1a",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "The Podcast Method\r\nCold Email Prompt\r\n\r\nCopy the entire prompt below and paste it into chatGPT gpt-4o or Perplexity as described in the training video.\r\n\r\nYou're an experienced market researcher and direct-response copywriter.\r\n\r\nFollow my instructions closely and reason step by step in <STEP 1>, <STEP 2>, <STEP 3> etc. tags to achieve the outcome.\r\n\r\nFind all the biggest pain points and trends of CEOs, Owners, Founders, Co-founders and Presidents of Med Spas, Dermatology or Plastics with 1-100 employees in the US in 2024 and 2025.\r\n\r\nDon't express them through vague, big-word statements but rather We/I struggle/can't do/would love to do/(other accurate verb expressing challenge) with {{specific daily activity or tendency}} format. Use language max grade 5.\r\n\r\nOutput them in STEP 1.\r\n\r\nThen, based on STEP 1 results, and using the following HEADLINE STRUCTURES, generate 10 HEADLINES for a \"study\" or \"whitepaper\".\r\n\r\nThey can't sound salesy and they need to be related to the pain point or trend from STEP 1.\r\n\r\n<HEADLINE STRUCTURES>\r\nTREND & IMPACT FRAMEWORKS\r\n\r\nWhy [Industry/Sector] Leaders Are Rethinking [Common Practice]\r\nExample: Why Tech Leaders Are Rethinking Remote Work\r\n\r\nThe Quiet Shift in [Industry]: What [Stakeholder Type] Actually Want\r\nExample: The Quiet Shift in Healthcare: What Patients Actually Want\r\n\r\nWhere [Industry] is Headed: Beyond the [Common Trend]\r\nExample: Where Fintech is Headed: Beyond the Blockchain Hype\r\n\r\nHow [Emerging Factor] is Reshaping [Traditional Process]\r\nExample: How AI is Reshaping the Hiring Process\r\n\r\nThe Top 3 Mistakes That Ruin [Desirable Outcome] in the Face of [Emerging Trend]\r\nExample: The Top 3 Mistakes That Ruin Business Growth in the Face of AI Adoption\r\n\r\n3 Disturbing Trends Threatening [Important Aspect] of [Industry]\r\nExample: 3 Disturbing Trends Threatening the Future of Cybersecurity\r\n\r\nThe [Number] Biggest Challenges Facing [Specific Group] in [Industry] Today\r\nExample: The 6 Biggest Challenges Facing Small Business Owners in the Digital Age\r\n\r\nThe Changing Face of [Industry]: How [Millennials or Trend] Are Changing the Industry\r\nExample: The Changing Face of Retail: How Millennials Are Changing the Shopping Experience\r\n\r\nCHALLENGE FRAMEWORKS\r\n\r\nThe Hidden Cost of [Common Practice] in [Industry]\r\nExample: The Hidden Cost of Burnout in the Tech Industry\r\n\r\nWhy Smart [Professionals] Struggle with [Specific Challenge]\r\nExample: Why Smart Entrepreneurs Struggle with Time Management\r\n\r\nWhat's Really Behind [Painful Outcome] in [Industry]\r\nExample: What's Really Behind the High Failure Rate of Startups\r\n\r\nWhen [Traditional Solution] Isn't Enough: The [Industry] Dilemma\r\nExample: When Traditional Marketing Isn't Enough: The Small Business Dilemma\r\n\r\nThe Top 3 Mistakes That Lead to [Painful Outcome] in [Industry]\r\nExample: The Top 3 Mistakes That Lead to Financial Ruin in the Restaurant Industry\r\n\r\nThe [Number] Things Holding You Back From [Desirable Outcome] in [Industry]\r\nExample: The 3 Things Holding You Back From Success in the Creative Field\r\n\r\nThe Biggest Challenges Facing [Target Audience] Today in [Industry]\r\nExample: The Biggest Challenges Facing Working Mothers Today in the Corporate World\r\n\r\nHow [Emerging Factor] is Exacerbating [Common Challenge] in [Industry]\r\nExample: How Social Media is Exacerbating Mental Health Issues in the Younger Generation\r\n\r\nINSIGHT FRAMEWORKS\r\n\r\nWhat [Successful Group] Do Differently: Lessons in [Desired Outcome]\r\nExample: What Successful Entrepreneurs Do Differently: Lessons in Innovation\r\n\r\nBeyond [Common Metric]: A Better Way to Measure [Key Result]\r\nExample: Beyond ROI: A Better Way to Measure Marketing Success\r\n\r\nThe Unexpected Link Between [Factor A] and [Factor B]\r\nExample: The Unexpected Link Between Employee Happiness and Customer Satisfaction\r\n\r\nWhat [Industry Data] Is Really Telling Us About [Key Concern]\r\nExample: What Customer Service Data Is Really Telling Us About Customer Loyalty\r\n\r\nThe Top 6 Reasons [Common Problem] Fails in [Industry]\r\nExample: The Top 6 Reasons Traditional Sales Tactics Fail in the Digital Age\r\n\r\nThe Fastest, Least Expensive Way to [Desirable Outcome] in [Industry]\r\nExample: The Fastest, Least Expensive Way to Grow Your Email List\r\n\r\nThe [Number] Biggest Trends Driving [Industry or Market]\r\nExample: The 3 Biggest Trends Driving the Future of E-commerce\r\n\r\nHow [Emerging Factor] is Changing the Way We [Common Practice] in [Industry]\r\nExample: How AI is Changing the Way We Approach Customer Service\r\n\r\nSOLUTION FRAMEWORKS\r\n\r\nRethinking [Common Assumption]: A Fresh Approach to [Challenge]\r\nExample: Rethinking the 9-to-5 Workday: A Fresh Approach to Productivity\r\n\r\nWhere [Traditional Methods] Fall Short - And What Works Instead\r\nExample: Where Traditional Marketing Falls Short - And What Works Instead\r\n\r\nThe Real Reason [Pain Point] Persists in [Industry]\r\nExample: The Real Reason Burnout Persists in the Tech Industry\r\n\r\nBeyond [Outdated Approach]: New Solutions for [Ongoing Challenge]\r\nExample: Beyond Traditional Time Management: New Solutions for Busy Professionals\r\n\r\nThe Top 3 Things Holding You Back From [Desirable Outcome] in [Industry]\r\nExample: The Top 3 Things Holding You Back From Success in the Creative Field\r\n\r\nThe [Number] Biggest Challenges Facing [Specific Group] in [Industry] Today\r\nExample: The 6 Biggest Challenges Facing Small Business Owners in the Digital Age\r\n\r\nThe Changing Face of [Industry]: How [Millennials or Trend] Are Changing the Industry\r\nExample: The Changing Face of Retail: How Millennials Are Changing the Shopping Experience\r\n\r\nHow [Emerging Factor] is Reshaping [Traditional Process] in [Industry]\r\nExample: How AI is Reshaping the Hiring Process in the Corporate World\r\n\r\nFUTURE-FOCUSED FRAMEWORKS\r\n\r\nThe Next Chapter in [Industry]: Moving Past [Limiting Factor]\r\nExample: The Next Chapter in Healthcare: Moving Past the Affordable Care Act\r\n\r\nWhat's Actually Changing in [Industry] (And What Isn't)\r\nExample: What's Actually Changing in the Job Market (And What Isn't)\r\n\r\nWhy [Industry] Leaders are Shifting From [Old Approach] to [New Approach]\r\nExample: Why Tech Leaders are Shifting From Traditional Management to Agile Methodologies\r\n\r\nThe Evolution of [Process]: What's Working Now\r\nExample: The Evolution of Customer Service: What's Working Now\r\n\r\nThe Top 3 Mistakes That Ruin [Desirable Outcome] in the Face of [Emerging Trend]\r\nExample: The Top 3 Mistakes That Ruin Business Growth in the Face of AI Adoption\r\n\r\n3 Disturbing Trends Threatening [Important Aspect] of [Industry]\r\nExample: 3 Disturbing Trends Threatening the Future of Cybersecurity\r\n\r\nThe [Number] Biggest Challenges Facing [Specific Group] in [Industry] Today\r\nExample: The 6 Biggest Challenges Facing Small Business Owners in the Digital Age\r\n\r\nThe Changing Face of [Industry]: How [Millennials or Trend] Are Changing the Industry\r\nExample: The Changing Face of Retail: How Millennials Are Changing the Shopping Experience</HEADLINE STRUCTURES>\r\n</HEADLINE STRUCTURES>\r\n\r\nBased on the headlines from STEP 2, create 10 variations of cold email copy that follow closely EMAIL STRUCTURE and simply swap the [headline]. Nothing else should be touched in the email. Do NOT skip any lines.\r\n\r\nAVOID changing phrasing or wording for any parts of the EMAIL STRUCTURE that aren't marked with {{ }} variable brackets.\r\n\r\nThen, output them in STEP 3 tags.\r\n\r\n\nPlease write in English language."
+          ]
+        },
+        "create_time": 1748891968.334,
+        "id": "809da241-ab61-41a8-9650-474303a69a1a",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "8e315c59-3ad1-46c6-a4b4-f8c6f182691a": {
+      "id": "8e315c59-3ad1-46c6-a4b4-f8c6f182691a",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Got it! Here's a cold outreach call script for **IVP (Independent Verification Partner or a company name abbreviation)** targeting **Medical Spas and Aesthetic Practices**. This script assumes you're calling as a representative from IVP, with the goal of starting a conversation, not pitching too hard upfront.\n\n---\n\n### \ud83d\udcde **Cold Call Script \u2013 IVP Calling on Med Spas and Aesthetic Practices**\n\n---\n\n**Receptionist Gatekeeper Version:**\n\n**You:**  \nHi, is [Owner/Manager\u2019s Name] available? I\u2019m calling from IVP \u2014 we work specifically with aesthetic practices like yours.\n\n**Receptionist:**  \nCan I ask what it\u2019s regarding?\n\n**You:**  \nSure \u2014 we recently did a study on how med spas are growing despite staffing challenges, rising ad costs, and client loyalty struggles. I wanted to send [Owner\u2019s Name] the results. It\u2019s been super useful to owners we\u2019ve shared it with.\n\n---\n\n**If you get the owner/founder directly:**\n\n**You:**  \nHi, this is [Your Name] from IVP \u2014 we work with aesthetic practices like yours.\n\nI know you\u2019re probably in the middle of ten things, so I\u2019ll keep this really quick.\n\nWe just wrapped up a deep-dive study on what\u2019s actually working for med spa owners in 2025 \u2014 especially when it comes to keeping calendars full, making marketing work without wasting money, and keeping good staff.\n\nWould it be okay if I sent that over to you? No pitch \u2014 just insights from dozens of spa owners across the U.S.\n\n---\n\n**If they say yes:**  \nGreat \u2014 what\u2019s the best email to send that to?\n\n---\n\n**If they ask what IVP does:**  \nSure \u2014 we help med spas figure out which parts of their marketing and ops are actually working\u2026 and which aren\u2019t. But for now, I just thought the insights from the study might help you cut through some noise.\n\n---\n\nLet me know if you'd like a version tailored for **voicemail**, **SMS follow-up**, or **appointment setting**."
+          ]
+        },
+        "create_time": 1749000781.551112,
+        "id": "8e315c59-3ad1-46c6-a4b4-f8c6f182691a",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-4o",
+          "parent_id": "980ca265-6928-493a-9eab-697930fbe659"
+        }
+      },
+      "parent": "c144dced-f9c1-4f2d-b00d-dc2cd1a1fae2"
+    },
+    "9a588898-0c4d-4033-acd0-858973172fae": {
+      "id": "9a588898-0c4d-4033-acd0-858973172fae",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "focus on all four\n\nPlease write in English language."
+          ]
+        },
+        "create_time": 1749000864.412,
+        "id": "9a588898-0c4d-4033-acd0-858973172fae",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "e18138ed-bd02-4432-a522-659a5527373b"
+    },
+    "a32aed94-76b7-4e64-8311-3b5f9366a34a": {
+      "id": "a32aed94-76b7-4e64-8311-3b5f9366a34a",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Sure! Here's a step-by-step breakdown based on your prompt.\n\n---\n\n<STEP 1>  \n**Biggest Pain Points & Trends for CEOs, Owners, Founders, Co-founders, and Presidents of Med Spas, Dermatology Clinics, or Plastic Surgery Practices (1\u2013100 employees, U.S., 2024\u20132025):**\n\n1. I struggle to keep up with how often Instagram and TikTok algorithms change.\n2. I can\u2019t figure out which marketing channel actually brings in new clients.\n3. I would love to spend less time trying to train front desk staff over and over.\n4. I struggle to get clients to come back for repeat treatments.\n5. I can\u2019t keep up with how fast new machines, injectables, and techniques hit the market.\n6. I would love to get better reviews online without begging for them.\n7. I can\u2019t find good staff that stay longer than a few months.\n8. I struggle to compete with newer med spas offering crazy discounts.\n9. I would love to understand how much I should be spending on ads (and if they\u2019re even working).\n10. I can\u2019t tell which team members are actually doing well or just coasting.\n11. I would love more time to think big-picture instead of solving little problems all day.\n12. I struggle to get younger clients who care more about influencers than credentials.\n13. I can\u2019t keep my calendar full during slow seasons.\n14. I would love to stop relying on word-of-mouth and start growing on purpose.\n15. I struggle to make social media content that doesn\u2019t feel cringey or fake.\n\n---\n\n<STEP 2>  \n**10 Headline Ideas for a \"Study\" or \"Whitepaper\" Based on STEP 1:**\n\n1. Why Med Spa Leaders Are Rethinking Social Media Marketing  \n2. The Quiet Shift in Aesthetics: What Clients Actually Want in 2025  \n3. Where Med Spas Are Headed: Beyond Discounts and Deals  \n4. How Staff Turnover is Reshaping Client Experience in Med Spas  \n5. The Top 3 Mistakes That Ruin Growth in the Face of Fast-Changing Trends  \n6. 3 Disturbing Trends Threatening Client Loyalty in Med Spas  \n7. The 5 Biggest Challenges Facing Med Spa Owners Today  \n8. The Hidden Cost of Constantly Replacing Front Desk Staff in Aesthetic Practices  \n9. What Successful Med Spa Owners Do Differently: Lessons in Keeping Clients Coming Back  \n10. How TikTok is Changing the Way Med Spas Reach New Clients  \n\n---\n\n<STEP 3>  \n**Cold Email Variations (Only [headline] changes):**\n\n---\n\n**Email 1**  \nSubject: Thought this might help you  \n\nHey {{first_name}},  \n\nI know you're busy running {{spa_name}}, but I wanted to share a quick resource you might find useful.  \n\nWe just put out a new study called:  \n**Why Med Spa Leaders Are Rethinking Social Media Marketing**  \n\nIt dives into what\u2019s actually working (and not working) for aesthetic businesses trying to grow in 2025.  \n\nNo pitch. Just useful insights from dozens of your peers.  \n\nWant me to send it your way?  \n\n\u2013 {{your_name}}\n\n---\n\n**Email 2**  \nSubject: Thought this might help you  \n\nHey {{first_name}},  \n\nI know you're busy running {{spa_name}}, but I wanted to share a quick resource you might find useful.  \n\nWe just put out a new study called:  \n**The Quiet Shift in Aesthetics: What Clients Actually Want in 2025**  \n\nIt dives into what\u2019s actually working (and not working) for aesthetic businesses trying to grow in 2025.  \n\nNo pitch. Just useful insights from dozens of your peers.  \n\nWant me to send it your way?  \n\n\u2013 {{your_name}}\n\n---\n\n**Email 3**  \nSubject: Thought this might help you  \n\nHey {{first_name}},  \n\nI know you're busy running {{spa_name}}, but I wanted to share a quick resource you might find useful.  \n\nWe just put out a new study called:  \n**Where Med Spas Are Headed: Beyond Discounts and Deals**  \n\nIt dives into what\u2019s actually working (and not working) for aesthetic businesses trying to grow in 2025.  \n\nNo pitch. Just useful insights from dozens of your peers.  \n\nWant me to send it your way?  \n\n\u2013 {{your_name}}\n\n---\n\n**Email 4**  \nSubject: Thought this might help you  \n\nHey {{first_name}},  \n\nI know you're busy running {{spa_name}}, but I wanted to share a quick resource you might find useful.  \n\nWe just put out a new study called:  \n**How Staff Turnover is Reshaping Client Experience in Med Spas**  \n\nIt dives into what\u2019s actually working (and not working) for aesthetic businesses trying to grow in 2025.  \n\nNo pitch. Just useful insights from dozens of your peers.  \n\nWant me to send it your way?  \n\n\u2013 {{your_name}}\n\n---\n\n**Email 5**  \nSubject: Thought this might help you  \n\nHey {{first_name}},  \n\nI know you're busy running {{spa_name}}, but I wanted to share a quick resource you might find useful.  \n\nWe just put out a new study called:  \n**The Top 3 Mistakes That Ruin Growth in the Face of Fast-Changing Trends**  \n\nIt dives into what\u2019s actually working (and not working) for aesthetic businesses trying to grow in 2025.  \n\nNo pitch. Just useful insights from dozens of your peers.  \n\nWant me to send it your way?  \n\n\u2013 {{your_name}}\n\n---\n\n**Email 6**  \nSubject: Thought this might help you  \n\nHey {{first_name}},  \n\nI know you're busy running {{spa_name}}, but I wanted to share a quick resource you might find useful.  \n\nWe just put out a new study called:  \n**3 Disturbing Trends Threatening Client Loyalty in Med Spas**  \n\nIt dives into what\u2019s actually working (and not working) for aesthetic businesses trying to grow in 2025.  \n\nNo pitch. Just useful insights from dozens of your peers.  \n\nWant me to send it your way?  \n\n\u2013 {{your_name}}\n\n---\n\n**Email 7**  \nSubject: Thought this might help you  \n\nHey {{first_name}},  \n\nI know you're busy running {{spa_name}}, but I wanted to share a quick resource you might find useful.  \n\nWe just put out a new study called:  \n**The 5 Biggest Challenges Facing Med Spa Owners Today**  \n\nIt dives into what\u2019s actually working (and not working) for aesthetic businesses trying to grow in 2025.  \n\nNo pitch. Just useful insights from dozens of your peers.  \n\nWant me to send it your way?  \n\n\u2013 {{your_name}}\n\n---\n\n**Email 8**  \nSubject: Thought this might help you  \n\nHey {{first_name}},  \n\nI know you're busy running {{spa_name}}, but I wanted to share a quick resource you might find useful.  \n\nWe just put out a new study called:  \n**The Hidden Cost of Constantly Replacing Front Desk Staff in Aesthetic Practices**  \n\nIt dives into what\u2019s actually working (and not working) for aesthetic businesses trying to grow in 2025.  \n\nNo pitch. Just useful insights from dozens of your peers.  \n\nWant me to send it your way?  \n\n\u2013 {{your_name}}\n\n---\n\n**Email 9**  \nSubject: Thought this might help you  \n\nHey {{first_name}},  \n\nI know you're busy running {{spa_name}}, but I wanted to share a quick resource you might find useful.  \n\nWe just put out a new study called:  \n**What Successful Med Spa Owners Do Differently: Lessons in Keeping Clients Coming Back**  \n\nIt dives into what\u2019s actually working (and not working) for aesthetic businesses trying to grow in 2025.  \n\nNo pitch. Just useful insights from dozens of your peers.  \n\nWant me to send it your way?  \n\n\u2013 {{your_name}}\n\n---\n\n**Email 10**  \nSubject: Thought this might help you  \n\nHey {{first_name}},  \n\nI know you're busy running {{spa_name}}, but I wanted to share a quick resource you might find useful.  \n\nWe just put out a new study called:  \n**How TikTok is Changing the Way Med Spas Reach New Clients**  \n\nIt dives into what\u2019s actually working (and not working) for aesthetic businesses trying to grow in 2025.  \n\nNo pitch. Just useful insights from dozens of your peers.  \n\nWant me to send it your way?  \n\n\u2013 {{your_name}}\n\n---\n\nLet me know if you'd like these in a Google Doc or as a downloadable PDF too."
+          ]
+        },
+        "create_time": 1748891971.513936,
+        "id": "a32aed94-76b7-4e64-8311-3b5f9366a34a",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-4o",
+          "parent_id": "42dbe032-fdb4-4056-ab63-ed8ece236730"
+        }
+      },
+      "parent": "809da241-ab61-41a8-9650-474303a69a1a"
+    },
+    "c144dced-f9c1-4f2d-b00d-dc2cd1a1fae2": {
+      "id": "c144dced-f9c1-4f2d-b00d-dc2cd1a1fae2",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            " IVP calling on Medical Spas and Aesthetic Practices\n\nPlease write in English language."
+          ]
+        },
+        "create_time": 1749000780.829,
+        "id": "c144dced-f9c1-4f2d-b00d-dc2cd1a1fae2",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "5157dfa6-0e5f-4c7f-a616-a2ddbe8380b6"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "e18138ed-bd02-4432-a522-659a5527373b": {
+      "id": "e18138ed-bd02-4432-a522-659a5527373b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a concise **Initial Value Proposition (IVP)** tailored for **medical spas and aesthetic practices**:\n\n---\n\n### **Initial Value Proposition \u2013 Med Spas & Aesthetic Practices**\n\n**We help growth-focused med spas and aesthetic practices figure out what\u2019s *actually* working in their business \u2014 from marketing and client retention to staff performance \u2014 so they can stop guessing, cut waste, and grow with confidence.**\n\n---\n\n### Optional Short Variations (depending on use case):\n\n**For cold emails or intros:**\n> \u201cWe help med spa owners cut through the noise and pinpoint what\u2019s working (and what\u2019s not) in their marketing, team, and growth strategy.\u201d\n\n**For sales decks or landing pages:**\n> \u201cMost med spa owners rely on guesswork to grow \u2014 we provide clear, data-backed insight into what\u2019s driving results so you can scale profitably.\u201d\n\n**For phone calls:**\n> \u201cWe work with aesthetic practices like yours to help them see what\u2019s working in their marketing, operations, and client experience \u2014 so you can grow without spinning your wheels.\u201d\n\n---\n\nLet me know if you'd like the IVP to focus more on one of these areas:  \n- Marketing ROI  \n- Staff & operations  \n- Retention & repeat clients  \n- Industry benchmarking / insights"
+          ]
+        },
+        "create_time": 1749000810.470563,
+        "id": "e18138ed-bd02-4432-a522-659a5527373b",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-4o",
+          "parent_id": "699f200f-5350-4370-b14f-f5eb16ecda4d"
+        }
+      },
+      "parent": "699f200f-5350-4370-b14f-f5eb16ecda4d"
+    },
+    "f465486e-7de5-4a62-9684-3166fdccc4ad": {
+      "id": "f465486e-7de5-4a62-9684-3166fdccc4ad",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s an **Initial Value Proposition** tailored for **med spas and aesthetic practices**, covering all four key areas: **marketing ROI, staff & operations, client retention, and industry insights.**\n\n---\n\n### \u2705 **Full Initial Value Proposition (IVP) \u2013 All 4 Focus Areas**\n\n**We help med spas and aesthetic practices grow by showing them exactly what\u2019s working \u2014 and what\u2019s not \u2014 across their marketing, team performance, client retention, and operations.**  \n\n**Using real-time data and industry benchmarks, we cut through the guesswork so owners can make smarter decisions, improve ROI, keep great staff, and drive more repeat visits.**\n\n---\n\n### \ud83d\udd01 **Shorter Version (for calls or cold emails):**\n\n> \u201cWe help med spa owners stop guessing and grow smarter \u2014 with clear insight into their marketing ROI, team performance, client retention, and how they stack up to the industry.\u201d\n\n---\n\nLet me know if you'd like this adapted for:\n- Your website or landing page  \n- A pitch deck  \n- An outbound call script or voicemail  \n- Email subject line or body copy"
+          ]
+        },
+        "create_time": 1749000864.773254,
+        "id": "f465486e-7de5-4a62-9684-3166fdccc4ad",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-4o",
+          "parent_id": "9a588898-0c4d-4033-acd0-858973172fae"
+        }
+      },
+      "parent": "9a588898-0c4d-4033-acd0-858973172fae"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Med Spa Pain Points",
+  "update_time": 1749000918.540045,
+  "voice": null
+}

@@ -1,0 +1,116 @@
+{
+  "conversation_id": "698f2de9-06b4-8333-9023-6596b92fce6d",
+  "conversation_template_id": null,
+  "create_time": 1770991085.081112,
+  "current_node": "d39a0f4b-7b39-4518-be36-9a8c17a384f7",
+  "default_model_slug": "gpt-5-2",
+  "id": "698f2de9-06b4-8333-9023-6596b92fce6d",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "3a0da63c-d477-400c-996b-89d174cdb754": {
+      "id": "3a0da63c-d477-400c-996b-89d174cdb754",
+      "message": null,
+      "parent": null
+    },
+    "b9b8a1d5-d1c3-46ec-9402-c7c0cfbeea34": {
+      "id": "b9b8a1d5-d1c3-46ec-9402-c7c0cfbeea34",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "create_time": 1770991117.509748,
+        "id": "b9b8a1d5-d1c3-46ec-9402-c7c0cfbeea34",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "e5c618e6-292c-4802-87b5-006a92bcf525"
+        }
+      },
+      "parent": "bbb218e3-86f7-4698-a8ce-3d18815a9bde"
+    },
+    "bbb21376-874c-4474-aeb1-b0bb35f61240": {
+      "id": "bbb21376-874c-4474-aeb1-b0bb35f61240",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Make these maroon instead of blue "
+          ]
+        },
+        "create_time": 1770991170.642552,
+        "id": "bbb21376-874c-4474-aeb1-b0bb35f61240",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "b9b8a1d5-d1c3-46ec-9402-c7c0cfbeea34"
+    },
+    "bbb218e3-86f7-4698-a8ce-3d18815a9bde": {
+      "id": "bbb218e3-86f7-4698-a8ce-3d18815a9bde",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "\n\nThe Manus AI Prompt\n\nYou are a world-class direct response ad creative strategist and designer specializing in high-performing static image ads for Meta (Facebook/Instagram). Your job is to generate 7 unique, scroll-stopping, B2B static image ad creatives for a marketing agency client.\n\nCONTEXT\nCompany/Client: The Luxora Collective\nNiche: MedSpas\nTarget audience / Decision maker: Owner\nOffer type: B2B service offer is lead, AI automation, sales training and systems/operational improvment\nPrimary desired outcome: more revenue and more lifetime clients\nPrimary pain point: stuck at a non-growing revenue and clients only doing one visit and the leaving\nAny proof we can use (numbers, results, testimonials, logos): https://theluxoracollective.co/testimonial/\nCTA destination: BOOK A CALL\nBrand notes (colors/fonts/logo rules if any): https://theluxoracollective.co\n\nIMPORTANT\n1) Output must be 7 distinct static image ad concepts designed for 1:1 square format (1080x1080).\n2) Each creative should be built around ONE core angle, with a clear hierarchy:\n   Headline (hook) \u2192 supporting line (optional) \u2192 proof/credibility (if available) \u2192 CTA.\n3) Make them readable on mobile in 2 seconds. Minimal clutter. Big headline. Clean spacing.\n4) The hook must call out the niche or decision maker directly whenever possible.\n5) Keep language results-based and specific, but do not make unrealistic promises. If proof is missing, use outcome language carefully (\u201cpredictable pipeline\u201d, \u201cmore qualified leads\u201d, \u201cbooked calls\u201d, etc.) without guarantees.\n6) Use modern B2B design conventions: clean layout, strong contrast, simple shapes, subtle gradients, icons only if they improve clarity, and avoid anything that looks spammy.\n7) The 7 creatives must NOT be variations of the same exact concept. They must be meaningfully different angles.\n\nANGLES TO INCLUDE (use these as a guide, adjust to fit the offer)\nCreative 1: Direct callout + core promise (most straightforward winner)\nCreative 2: Pain-point disruptor (pattern interrupt that names the problem)\nCreative 3: Proof-first (use numbers/testimonial/logos if available; if none, use credibility framing)\nCreative 4: \u201cCommon mistake\u201d / myth-busting angle\nCreative 5: Before/After transformation framing (business outcomes, not lifestyle hype)\nCreative 6: Simple 3-step / framework visual (how the offer works at a high level)\nCreative 7: Objection killer (time, budget, skepticism, \u201ctried agencies before\u201d, etc.)\n\nDELIVERABLE FORMAT\nFor each of the 7 creatives, output:\nA) Creative name (short)\nB) Primary angle (1 line)\nC) Exact on-image text (headline + supporting line + CTA)\nD) Visual layout description (where text goes, any shapes, any icons, proof placement)\nE) Suggested background style (clean, premium, modern)\nF) Any optional proof element callout (if available)\n\nFINAL STEP\nAfter listing all 7 concepts, generate the actual 7 image creatives in square format that match the concepts, optimized for Meta ads."
+          ]
+        },
+        "create_time": 1770991084.824246,
+        "id": "bbb218e3-86f7-4698-a8ce-3d18815a9bde",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "3a0da63c-d477-400c-996b-89d174cdb754"
+    },
+    "d39a0f4b-7b39-4518-be36-9a8c17a384f7": {
+      "id": "d39a0f4b-7b39-4518-be36-9a8c17a384f7",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "create_time": 1770991227.518594,
+        "id": "d39a0f4b-7b39-4518-be36-9a8c17a384f7",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "8eb73248-6d8b-43d0-8a9a-78ef1f46c7bd"
+        }
+      },
+      "parent": "bbb21376-874c-4474-aeb1-b0bb35f61240"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "B2B Ad Creative Ideas",
+  "update_time": 1770991229.50482,
+  "voice": null
+}

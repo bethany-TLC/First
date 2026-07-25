@@ -1,0 +1,158 @@
+{
+  "conversation_id": "69e2a290-d7ac-83ea-96f8-c62b8d9e9f80",
+  "conversation_template_id": null,
+  "create_time": 1776460476.369125,
+  "current_node": "9c44a01f-81a1-49ac-bd6f-9196846505cd",
+  "default_model_slug": "gpt-5-3",
+  "id": "69e2a290-d7ac-83ea-96f8-c62b8d9e9f80",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "06ec32de-6c76-46f1-921f-b72982030432": {
+      "id": "06ec32de-6c76-46f1-921f-b72982030432",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "can you turn this script into a follow up email letting him know i booked his time for 645 the 21st and offer him to go through our revenue leak audit prior to that call please"
+          ]
+        },
+        "create_time": 1776460475.901,
+        "id": "06ec32de-6c76-46f1-921f-b72982030432",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "492e8f2e-ce72-42c8-ae8d-98f6ec1d9cd1": {
+      "id": "492e8f2e-ce72-42c8-ae8d-98f6ec1d9cd1",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ":::writing{variant=\"email\" id=\"58214\" subject=\"Looking forward to our call on the 21st\"}\nHi [Name],\n\nJust a quick note to let you know I went ahead and locked in our time for **6:45 on the 21st**. Looking forward to connecting.\n\nAhead of that, I wanted to offer something that will make our call a lot more valuable.\n\nIf you\u2019re open to it, we"
+          ]
+        },
+        "create_time": 1776460476.216623,
+        "id": "492e8f2e-ce72-42c8-ae8d-98f6ec1d9cd1",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "979c33bd-9206-4146-8121-43390dafd078"
+        }
+      },
+      "parent": "06ec32de-6c76-46f1-921f-b72982030432"
+    },
+    "73619a69-f597-4187-b292-13fb2912da20": {
+      "id": "73619a69-f597-4187-b292-13fb2912da20",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "create_time": 1776460483.153,
+        "id": "73619a69-f597-4187-b292-13fb2912da20",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_00000000d1b871fdaba0e96d25cdff81",
+              "is_big_paste": true,
+              "library_file_id": "libfile_154a53570cd88191ab2095dd78371d11",
+              "mime_type": "text/plain",
+              "name": "Pasted text(16).txt",
+              "size": 11107,
+              "source": "local"
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "492e8f2e-ce72-42c8-ae8d-98f6ec1d9cd1"
+    },
+    "9c44a01f-81a1-49ac-bd6f-9196846505cd": {
+      "id": "9c44a01f-81a1-49ac-bd6f-9196846505cd",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ":::writing{variant=\"email\" id=\"73925\" subject=\"Confirmed for the 21st at 6:45\"}\nHi Carl,\n\nI wanted to follow up and let you know I went ahead and reserved your time for **6:45 on the 21st**. Looking forward to connecting.\n\nAhead of that call, I took some time to review our initial conversation and notes \ue200filecite\ue202turn0file0\ue201, and I think there\u2019s an opportunity to make our time together even more valuable.\n\nIf you\u2019re open to it, I\u2019d love to walk you through a quick **Revenue Leak Audit** before our scheduled call. It\u2019s a simple process where we identify the gaps in your current client journey, from lead flow to booking, show rate, and retention, and pinpoint where revenue may be slipping through the cracks.\n\nThis way, when we connect on the 21st, we\u2019re not starting from scratch. We\u2019ll already have clear insight into what\u2019s working, what\u2019s not, and where the biggest growth opportunities are.\n\nIf that sounds helpful, just let me know and I\u2019ll get that set up for you ahead of time.\n\nLooking forward to it,  \nBethany"
+          ]
+        },
+        "create_time": 1776460483.567894,
+        "id": "9c44a01f-81a1-49ac-bd6f-9196846505cd",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": null,
+              "cloud_doc_url": "",
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_00000000d1b871fdaba0e96d25cdff81",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "6d78fea6-c1ab-4988-9a49-92e1216b53b5",
+                "message_index": 0
+              },
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null
+              },
+              "name": "Pasted text.txt",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            }
+          ],
+          "model_slug": "gpt-5-3",
+          "parent_id": "9cc2559b-2bd0-473e-9c04-1a980ea2a408"
+        }
+      },
+      "parent": "73619a69-f597-4187-b292-13fb2912da20"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Follow-up Email Draft",
+  "update_time": 1776460556.165302,
+  "voice": null
+}

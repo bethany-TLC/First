@@ -1,0 +1,118 @@
+{
+  "conversation_id": "691b7d4a-69fc-832f-a778-f3c3bb5414e8",
+  "conversation_template_id": null,
+  "create_time": 1763409280.551438,
+  "current_node": "53bd9664-1fc7-43a3-a1a7-3faf49a4e2d0",
+  "default_model_slug": "gpt-5-1",
+  "id": "691b7d4a-69fc-832f-a778-f3c3bb5414e8",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "1e59d8fc-19ca-45e3-b2ad-40e127adde3a": {
+      "id": "1e59d8fc-19ca-45e3-b2ad-40e127adde3a",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "talk as if im the owner and instructor"
+          ]
+        },
+        "create_time": 1763409294.784,
+        "id": "1e59d8fc-19ca-45e3-b2ad-40e127adde3a",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "f8a49cdf-65aa-4df9-aec4-9e0766509657"
+    },
+    "53bd9664-1fc7-43a3-a1a7-3faf49a4e2d0": {
+      "id": "53bd9664-1fc7-43a3-a1a7-3faf49a4e2d0",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here is a revised LinkedIn welcome message written as **you**, the owner and instructor of the Aesthetic Injector Academy, with no em dashes:\n\n---\n\nHi there, thank you so much for connecting with me here on LinkedIn. I am the owner and lead instructor of the Aesthetic Injector Academy, where we train and certify injectors with the education they need to grow in both skill and confidence.\n\nI would love to connect and learn more about your practice. My goal is to help your injectors become fully certified and earn their 20 CE credits for this year with training that is clear, accessible, and built for real clinical success. Our CE accredited curriculum was created to elevate safety, technique, and professional growth for every injector who comes through the Academy.\n\nIf you are open to it, I would be happy to set up a time to talk and walk you through how AIA can support your team. I look forward to getting to know you and helping your injectors reach their next level.\n\n---"
+          ]
+        },
+        "create_time": 1763409295.189715,
+        "id": "53bd9664-1fc7-43a3-a1a7-3faf49a4e2d0",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-1",
+          "parent_id": "1e59d8fc-19ca-45e3-b2ad-40e127adde3a"
+        }
+      },
+      "parent": "1e59d8fc-19ca-45e3-b2ad-40e127adde3a"
+    },
+    "95f559f3-4346-48a6-93cb-451d33cdc9bc": {
+      "id": "95f559f3-4346-48a6-93cb-451d33cdc9bc",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "create  a linkeding welcom messae that talkes about the aesthetic injector academy and how I would love to connect to see how we can help and make you injectors certified and get them 20 ces for this year."
+          ]
+        },
+        "create_time": 1763409278.963,
+        "id": "95f559f3-4346-48a6-93cb-451d33cdc9bc",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "f8a49cdf-65aa-4df9-aec4-9e0766509657": {
+      "id": "f8a49cdf-65aa-4df9-aec4-9e0766509657",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here is a clean, professional LinkedIn welcome message with no em dashes, written in your voice and focused on AIA and CE credits:\n\n---\n\nHi there, thank you so much for connecting with me here on LinkedIn. I work closely with the Aesthetic Injector Academy, a leading CE accredited training platform for injectors who want to level up their skills, confidence, and credentials.\n\nI would love to learn more about your practice and explore how we can support your injectors this year with full certification and 20 state approved CE credits. The Academy was designed to help teams grow stronger, safer, and more skilled with education that is practical, hands on, and easy to integrate into a busy medspa or clinic.\n\nIf you are open to it, I would be happy to set up a quick call and show you how other practices are using AIA to train their teams and increase retention. Looking forward to connecting more and supporting your growth.\n\n---"
+          ]
+        },
+        "create_time": 1763409280.411711,
+        "id": "f8a49cdf-65aa-4df9-aec4-9e0766509657",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-1",
+          "parent_id": "d7c637db-a5d5-4219-9a63-cf91c4727caf"
+        }
+      },
+      "parent": "95f559f3-4346-48a6-93cb-451d33cdc9bc"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "LinkedIn welcome message",
+  "update_time": 1763409308.21524,
+  "voice": null
+}

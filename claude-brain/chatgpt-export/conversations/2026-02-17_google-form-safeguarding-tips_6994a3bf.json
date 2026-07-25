@@ -1,0 +1,118 @@
+{
+  "conversation_id": "6994a3bf-3464-8325-9c12-d4cf948ea1e3",
+  "conversation_template_id": null,
+  "create_time": 1771348928.174718,
+  "current_node": "ec36426d-cdb1-4bb7-b9be-bc3d1e7613b8",
+  "default_model_slug": "gpt-5-2",
+  "id": "6994a3bf-3464-8325-9c12-d4cf948ea1e3",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "02668193-5e12-4412-9032-3c539ea8d67c": {
+      "id": "02668193-5e12-4412-9032-3c539ea8d67c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "can we safe guard a google form for kids applying for a scholoarship"
+          ]
+        },
+        "create_time": 1771356552.37,
+        "id": "02668193-5e12-4412-9032-3c539ea8d67c",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "1a168bbf-7000-477e-9ac1-91c845ed7bc9": {
+      "id": "1a168bbf-7000-477e-9ac1-91c845ed7bc9",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Yes, absolutely. You can safeguard a Google Form for kids applying for a scholarship, and you should. Below is a clear, parent and school friendly way to do it, without overcomplicating things.\n\n---\n\n## 1. Collect the Minimum Information Needed\nOnly ask for what is truly necessary.\n\n**Avoid collecting**\n- Home address (full)\n- Social Security numbers\n- Medical details\n- Exact birthdate (use age range instead)\n\n**Safer alternatives**\n- First name + last initial\n- Parent or guardian email (instead of child\u2019s)\n- Age range (example: 10\u201312, 13\u201315, 16\u201318)\n- School name only (no ID numbers)\n\n---\n\n## 2. Add a Parent or Guardian Consent Section (Very Important)\nAt the top of the form, include a required consent acknowledgment.\n\n**Example wording**\n> This scholarship application is intended to be completed with a parent or legal guardian. By submitting this form, the parent or guardian confirms consent for the child\u2019s information to be reviewed solely for scholarship consideration.\n\nAdd a **required checkbox**:\n- \u2610 I am the parent or legal guardian and consent to this submission\n\n---\n\n## 3. Turn OFF Email Collection (Unless Needed)\nIn Google Forms:\n- Settings \u2192 General\n- Turn **OFF** \u201cCollect email addresses\u201d  \nOR  \n- Clearly label the email field as **Parent/Guardian Email**\n\nThis prevents accidental child email collection.\n\n---\n\n## 4. Restrict Access to Responses\nProtect who can see the data.\n\n**Best practices**\n- Limit response access to 1\u20132 trusted adults\n- Do not share the response spreadsheet publicly\n- Use Google Drive permissions: Viewer or Editor only as needed\n\nOptional but smart:\n- Store responses in a **separate Drive folder** with restricted access\n\n---\n\n## 5. Disable Public Editing and File Uploads\nUnless absolutely required:\n\n- Do **not** allow file uploads (this can expose personal data)\n- Do **not** allow respondents to edit responses after submitting\n- Do **not** allow \u201cAnyone with the link can edit\u201d\n\n---\n\n## 6. Add a Privacy & Data Use Statement\nNear the bottom of the form:\n\n**Simple, clear language**\n> Information submitted will be used only for scholarship evaluation and will not be shared, sold, or published. All data will be securely stored and deleted after the scholarship process concludes.\n\n---\n\n## 7. Set a Response Auto-Delete Timeline (Manual but Important)\nGoogle Forms does not auto-delete, but you can:\n- Set a calendar reminder to delete responses after winners are selected\n- Clearly state how long data will be kept (example: 90 days)\n\n---\n\n## 8. Optional Extra Safeguards (Recommended)\nIf you want to go a step further:\n- Require the form to be completed **by a parent**\n- Use a short application plus a follow-up interview instead of long written answers\n- Avoid photos or videos unless absolutely necessary\n\n---\n\n## If You Want, I Can:\n- Write parent-safe legal consent language\n- Review your actual form questions for compliance\n- Create a \u201ckid-safe scholarship application\u201d template\n- Help you make a parent-only version of the form\n\nJust tell me what age range the scholarship is for and whether this is school-based, nonprofit, or private."
+          ]
+        },
+        "create_time": 1771348928.004754,
+        "id": "1a168bbf-7000-477e-9ac1-91c845ed7bc9",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "588bca51-3e86-4803-a91f-d64873f8b906"
+        }
+      },
+      "parent": "02668193-5e12-4412-9032-3c539ea8d67c"
+    },
+    "3794c10b-34d2-4a21-a8fd-cb448799188f": {
+      "id": "3794c10b-34d2-4a21-a8fd-cb448799188f",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "here are the deatils, can you let me know the exact process to createing this form. we will not be having parents apply or be involved and we will need them to upload a reference letter: skal hospitality \n\r\n\r\n\r\napplication form\r\n\r\nsingle time, reference, google site page landing, captcha, safe guard, attachments\r\n\r\nflyer with qr code\r\n\r\nproject: page inititivies: post secondary schloarships\r\n\r\nopen march 2nd to april 10th\r\n\r\napril 13th commity\r"
+          ]
+        },
+        "create_time": 1771357310.089,
+        "id": "3794c10b-34d2-4a21-a8fd-cb448799188f",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "1a168bbf-7000-477e-9ac1-91c845ed7bc9"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "ec36426d-cdb1-4bb7-b9be-bc3d1e7613b8": {
+      "id": "ec36426d-cdb1-4bb7-b9be-bc3d1e7613b8",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Yes. Given your constraints (minors applying directly, file upload required, single-use applications, and a public landing page), this **needs to be set up carefully**, but it **can be done safely in Google** if you follow the process below exactly.\n\nI am going to give you the **exact, step-by-step build sequence** so nothing is missed.\n\n---\n\n# SK\u00c5L Hospitality  \n## Post-Secondary Scholarship Application  \n**Open:** March 2 \u2013 April 10  \n**Committee Review:** April 13  \n**Application Type:** Single submission, public access, reference upload required\n\n---\n\n## OVERVIEW OF THE STACK (WHAT YOU ARE BUILDING)\n\nYou will use **three Google tools together**:\n\n1. **Google Form** \u2192 collects applications  \n2. **Google Site (single page)** \u2192 landing page + info + link to form  \n3. **QR Code** \u2192 points to the Google Site (not directly to the form)\n\nThis gives you:\n- A buffer between the public and the form\n- Better control and messaging\n- Reduced spam and misuse\n\n---\n\n# STEP 1: CREATE A DEDICATED GOOGLE ACCOUNT OR FOLDER (IMPORTANT)\n\nBefore creating anything:\n\n### Option A (Best Practice)\n- Use a **Sk\u00e5l-owned Google account** (not personal)\n\n### Option B (If using personal)\n- Create a **new Drive folder**:\n  - Name: `SKAL Scholarship Applications 2026`\n  - Share access ONLY with:\n    - Committee Chair\n    - 1 backup admin\n  - No public access\n\nAll files and responses live here.\n\n---\n\n# STEP 2: CREATE THE GOOGLE FORM (DO THIS FIRST)\n\n### 1\ufe0f\u20e3 Start the Form\n- Google Forms \u2192 Blank Form  \n- Title:\n  **SK\u00c5L Hospitality Post-Secondary Scholarship Application**\n\n- Description:\n  > This application is for post-secondary students pursuing education in hospitality or related fields. Applications are open March 2 through April 10. All submissions are final.\n\n---\n\n## STEP 3: FORM SETTINGS (CRITICAL SAFEGUARDS)\n\nClick **\u2699\ufe0f Settings**\n\n### GENERAL TAB\n- \u274c Collect email addresses \u2192 OFF  \n- \u274c Limit to 1 response \u2192 OFF (since minors may not have Google accounts)\n- \u274c Allow response editing \u2192 OFF\n- \u274c Show link to submit another response \u2192 OFF\n\n\u2705 This ensures **single submission per applicant session**.\n\n---\n\n### RESPONSES TAB\n- \u274c Accept responses \u2192 ON (until April 10)\n- Link responses to spreadsheet \u2192 YES  \n  (store in your secure folder)\n\n---\n\n### PRESENTATION TAB\n- Confirmation message:\n  > Thank you for applying. Your application has been successfully submitted and will be reviewed by the scholarship committee.\n\n---\n\n# STEP 4: ADD A REQUIRED CONSENT & ELIGIBILITY SECTION\n\nThis protects you legally even without parent involvement.\n\n### Section Title:\n**Eligibility & Consent**\n\n### Required Checkbox (must be checked)\n> \u2610 I confirm that I am applying for a post-secondary scholarship, that all information provided is accurate, and that I understand this application will be reviewed solely for scholarship consideration.\n\nAdd **short answer confirmation**:\n> Type your full name to confirm\n\nThis creates **affirmative consent on record**.\n\n---\n\n# STEP 5: APPLICATION QUESTIONS (SAFE STRUCTURE)\n\n### Personal Info (Keep Minimal)\n- First Name\n- Last Name\n- Age Range (dropdown)\n  - Under 16\n  - 16\u201317\n  - 18+\n\n(Avoid birthdates.)\n\n---\n\n### Education Section\n- Current School Name\n- Graduation Year\n- Intended or Current Post-Secondary Institution\n- Intended Field of Study (short answer)\n\n---\n\n### Short Responses (Limit Length)\n- Why are you pursuing a career in hospitality?  \n  (Paragraph, limit ~250\u2013300 words)\n- How would this scholarship support your education?  \n  (Paragraph)\n\n---\n\n# STEP 6: REFERENCE LETTER UPLOAD (SAFE FILE HANDLING)\n\n### File Upload Question\n- Question type: **File upload**\n- Required: YES\n- Allowed file types:\n  - PDF\n  - DOC / DOCX\n- Maximum files: 1\n- Max file size: 10MB\n\n\u26a0\ufe0f Google will require the applicant to **sign in to upload**  \nThat is unavoidable and acceptable.\n\nRename the question clearly:\n> Upload one reference letter (PDF or Word document only)\n\nFiles will automatically store in your secure Drive folder.\n\n---\n\n# STEP 7: ADD CAPTCHA / BOT PROTECTION\n\nGoogle Forms does **not** have native CAPTCHA, so do this instead:\n\n### Use Google Forms \u201cResponse validation\u201d\nAdd a short question:\n\n**Question:**  \n> What is 3 + 4?\n\n- Type: Short answer\n- Response validation:\n  - Number\n  - Equal to\n  - 7\n- Required: YES\n\nThis stops automated bots.\n\n---\n\n# STEP 8: SET APPLICATION WINDOW (DATES)\n\n### On March 2\n- Turn **Accept responses ON**\n\n### On April 10 (end of day)\n- Turn **Accept responses OFF**\n- Update confirmation message:\n  > Applications are now closed. Thank you for your interest.\n\n---\n\n# STEP 9: CREATE A GOOGLE SITE LANDING PAGE\n\n### Purpose\nThis page:\n- Explains the scholarship\n- Hosts the link to the form\n- Is what your QR code points to\n\n---\n\n### Google Site Content Structure\n\n**Header**\n- SK\u00c5L Hospitality\n- Post-Secondary Scholarship Initiative\n\n**Section 1: Overview**\n- Purpose of scholarship\n- Who should apply\n- Key dates\n\n**Section 2: Application Requirements**\n- Online application\n- One reference letter upload\n- Short written responses\n\n**Section 3: Important Notes**\n- One submission per applicant\n- Applications close April 10\n- Incomplete submissions will not be reviewed\n\n**Button**\n> Apply Now  \n(Link to the Google Form)\n\n---\n\n# STEP 10: QR CODE CREATION (DO NOT LINK DIRECTLY TO FORM)\n\n- Generate QR code pointing to the **Google Site**\n- Place on flyer\n- Label clearly:\n  > Scan to apply for the SK\u00c5L Hospitality Scholarship\n\nThis gives you:\n- Fewer accidental submissions\n- A clear entry point\n- Better optics for minors\n\n---\n\n# STEP 11: COMMITTEE REVIEW SETUP (APRIL 13)\n\nBefore April 13:\n- Export responses to a **committee-only spreadsheet**\n- Remove access to uploaded files for anyone not reviewing\n- Optional:\n  - Assign anonymized IDs\n  - Hide last names if needed\n\n---\n\n# STEP 12: DATA RETENTION & CLEANUP\n\nAfter decisions:\n- Retain data only as long as necessary\n- Delete files for non-recipients after review period\n- Keep winner records only\n\n---\n\n## FINAL CHECKLIST\n\u2705 Public landing page  \n\u2705 Single-submission form  \n\u2705 Required consent  \n\u2705 Reference upload secured  \n\u2705 Bot protection  \n\u2705 Controlled access  \n\u2705 QR-friendly  \n\n---\n\nIf you want, next I can:\n- Write **exact consent language** tailored to minors\n- Draft the **Google Site copy** word-for-word\n- Create a **committee scoring rubric**\n- Review your flyer language for clarity and safety\n\nJust tell me which one you want next."
+          ]
+        },
+        "create_time": 1771349685.621264,
+        "id": "ec36426d-cdb1-4bb7-b9be-bc3d1e7613b8",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "08f2242b-24e7-47a4-a184-ed2cde6941d6"
+        }
+      },
+      "parent": "3794c10b-34d2-4a21-a8fd-cb448799188f"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Google Form Safeguarding Tips",
+  "update_time": 1771349956.554728,
+  "voice": null
+}

@@ -1,0 +1,233 @@
+{
+  "conversation_id": "69cc6db9-2d40-832f-9a4a-dc8c11f633bd",
+  "conversation_template_id": null,
+  "create_time": 1775005116.797581,
+  "current_node": "137e03fd-ccf0-42db-a1c0-2b1eb7226ec0",
+  "default_model_slug": "gpt-5-3",
+  "id": "69cc6db9-2d40-832f-9a4a-dc8c11f633bd",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "049e01f6-d31c-49d5-965f-c36eb5429980": {
+      "id": "049e01f6-d31c-49d5-965f-c36eb5429980",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s the revised **very brief overview with the owner included**:\n\nNUVO Aesthetics Clinic is a highly advanced, single-location med spa in Illinois led by Jeannine Fair, a Full Practice Authority Nurse Practitioner who operates independently and is deeply focused on education, safety, and natural results. She has built a credentialed, multi-provider clinical team and a strong reputation in her market. The clinic offers a full spectrum of services including injectables, regenerative aesthetics, wellness, and weight loss, supported by solid systems like Zenoti and a membership program. While the foundation is strong, the biggest opportunity lies in scaling visibility through digital marketing, paid ads, and content, while maximizing retention and lifetime value from their existing client base. \ue200filecite\ue202turn0file0\ue201"
+          ]
+        },
+        "create_time": 1775005158.252708,
+        "id": "049e01f6-d31c-49d5-965f-c36eb5429980",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": null,
+              "cloud_doc_url": "",
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_00000000ec5071fdbbf6a418c61b033d",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "296cc044-746c-4dc7-8774-13d5087a7cd3",
+                "message_index": 0
+              },
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": "None"
+              },
+              "name": "Pasted text.txt",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            }
+          ],
+          "model_slug": "gpt-5-3",
+          "parent_id": "37effb99-aca4-40ed-a250-195bbfac00f1"
+        }
+      },
+      "parent": "37effb99-aca4-40ed-a250-195bbfac00f1"
+    },
+    "137e03fd-ccf0-42db-a1c0-2b1eb7226ec0": {
+      "id": "137e03fd-ccf0-42db-a1c0-2b1eb7226ec0",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Before we dive in, I just want to set the tone for how I like to run these calls.\n\nI\u2019m not here to jump straight into a pitch. I don\u2019t even know yet if we\u2019re the right fit, and I\u2019d rather figure that out together.\n\nSo first, I really want to understand your business, what\u2019s working, what\u2019s not, and where you actually want to go.\n\nThen, if I see a real opportunity, I\u2019ll walk you through exactly what that could look like.\n\nAnd if I don\u2019t think we\u2019re the right fit, I\u2019ll be honest about that too and point you in a direction that makes more sense."
+          ]
+        },
+        "create_time": 1775051644.839105,
+        "id": "137e03fd-ccf0-42db-a1c0-2b1eb7226ec0",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "cdce0411-f733-44e1-ae1c-167eed2fbc24"
+        }
+      },
+      "parent": "a4eba895-ecd9-457c-a5a5-e71afeaa73ae"
+    },
+    "37effb99-aca4-40ed-a250-195bbfac00f1": {
+      "id": "37effb99-aca4-40ed-a250-195bbfac00f1",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "add in abou the owner"
+          ]
+        },
+        "create_time": 1775005157.809,
+        "id": "37effb99-aca4-40ed-a250-195bbfac00f1",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "de317952-867c-4d36-bf3d-157fcc3112ce"
+    },
+    "7a51dc6d-d4ec-4ec0-a505-92fc741cca76": {
+      "id": "7a51dc6d-d4ec-4ec0-a505-92fc741cca76",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "give me a very breif over veiw: "
+          ]
+        },
+        "create_time": 1775005116.196,
+        "id": "7a51dc6d-d4ec-4ec0-a505-92fc741cca76",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_00000000ec5071fdbbf6a418c61b033d",
+              "is_big_paste": true,
+              "library_file_id": "libfile_af95b9bfc06c8191be47f2c99ba0bc07",
+              "mime_type": "text/plain",
+              "name": "Pasted text.txt",
+              "size": 11057,
+              "source": "local"
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "a4eba895-ecd9-457c-a5a5-e71afeaa73ae": {
+      "id": "a4eba895-ecd9-457c-a5a5-e71afeaa73ae",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "rewrite this to sound more flowy liek me: Before we get into it, I want to tell you how I like to run these calls.\r\n\r\nI am not here to start off with a pitch to you today. I genuinely dont know yet whether we are a fit, and I would rather figure that out together.\r\n\r\nSo I want to spend the first part of this call really understanding your business. And then if I see a real opportunity, I will show you exactly what that looks like.\r\n\r\nIf I do not think we are the right fit, I will say that honestly and point you somewhere that makes more sense.\r"
+          ]
+        },
+        "create_time": 1775051644.423,
+        "id": "a4eba895-ecd9-457c-a5a5-e71afeaa73ae",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "049e01f6-d31c-49d5-965f-c36eb5429980"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "de317952-867c-4d36-bf3d-157fcc3112ce": {
+      "id": "de317952-867c-4d36-bf3d-157fcc3112ce",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a **very brief overview**:\n\nNUVO Aesthetics Clinic is a highly advanced, single-location med spa in Illinois led by a credentialed nurse practitioner with a strong clinical team and a full range of services, including injectables, regenerative treatments, wellness, and weight loss. They have an excellent reputation and solid operational foundation (Zenoti, memberships, 5-star reviews), but are significantly under-leveraging digital marketing, paid ads, and content channels. The biggest opportunity is scaling visibility, improving retention systems, and maximizing revenue from existing services and infrastructure. \ue200filecite\ue202turn0file0\ue201"
+          ]
+        },
+        "create_time": 1775005116.676086,
+        "id": "de317952-867c-4d36-bf3d-157fcc3112ce",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": null,
+              "cloud_doc_url": "",
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_00000000ec5071fdbbf6a418c61b033d",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "296cc044-746c-4dc7-8774-13d5087a7cd3",
+                "message_index": 0
+              },
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": "None"
+              },
+              "name": "Pasted text.txt",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            }
+          ],
+          "model_slug": "gpt-5-3",
+          "parent_id": "ddc6efa8-fda5-45f3-b3d6-95c3251bf3c0"
+        }
+      },
+      "parent": "7a51dc6d-d4ec-4ec0-a505-92fc741cca76"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "NUVO Aesthetics Overview",
+  "update_time": 1775051669.584327,
+  "voice": null
+}

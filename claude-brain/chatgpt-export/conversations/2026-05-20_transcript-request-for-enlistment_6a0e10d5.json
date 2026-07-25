@@ -1,0 +1,147 @@
+{
+  "conversation_id": "6a0e10d5-3600-83ea-a5f6-6a760b3dc4d2",
+  "conversation_template_id": null,
+  "create_time": 1779306802.347912,
+  "current_node": "1699ed73-c529-4d91-8c52-050b3a6ef23c",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a0e10d5-3600-83ea-a5f6-6a760b3dc4d2",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "02727002-d9b4-4a24-8860-03b342864acb": {
+      "id": "02727002-d9b4-4a24-8860-03b342864acb",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s the information you would fill in on the form based on what you provided:\n\n- **Student Name:** Donivan Shayn Hotchkiss  \n- **Date of Birth:** 12/30/2007  \n- **Year of High School Graduation:** 2026 *(assuming current senior year)*  \n\nFor the \u201cReason for Request\u201d section:\n- Circle **Other**\n- Write: **United States Air Force Enlistment**\n\nDelivery method:\n- Check whichever applies:\n  - **E-mail** is usually fastest for military processing\n  - or **Pick-Up** if he needs sealed originals in hand\n\nRecipient section:\nYou\u2019ll need the Air Force recruiter\u2019s:\n- Name\n- Email\n- Address\n\nAt the bottom:\n- Since Donivan is 18 or older after 12/30/2025, **he must sign the form himself**.\n- Relation to student would be:\n  - \u201cSelf\u201d if he signs\n  - \u201cMother\u201d if you\u2019re filling it out before he signs\n\nYou can also write in the notes section:\n> Official transcript requested for United States Air Force enlistment processing.\n\n"
+          ]
+        },
+        "create_time": 1779306802.168202,
+        "id": "02727002-d9b4-4a24-8860-03b342864acb",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "1198a17f-c2f0-426d-adbb-041ec1d2b6ca"
+        }
+      },
+      "parent": "bbb21957-8c55-4338-abaa-50e4a9e6854b"
+    },
+    "1699ed73-c529-4d91-8c52-050b3a6ef23c": {
+      "id": "1699ed73-c529-4d91-8c52-050b3a6ef23c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "create_time": 1779306988.16066,
+        "id": "1699ed73-c529-4d91-8c52-050b3a6ef23c",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "c32392db-8647-47f5-9b64-0044524dbfa8"
+        }
+      },
+      "parent": "bbb214ee-6818-417d-aba3-347bda90f507"
+    },
+    "79a5f846-56a5-49cc-a7eb-de292f761f9d": {
+      "id": "79a5f846-56a5-49cc-a7eb-de292f761f9d",
+      "message": null,
+      "parent": null
+    },
+    "bbb214ee-6818-417d-aba3-347bda90f507": {
+      "id": "bbb214ee-6818-417d-aba3-347bda90f507",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Make an image that has that exact form in it filled out. \n\nRevruiters name I'll fill out after I print"
+          ]
+        },
+        "create_time": 1779306931.165328,
+        "id": "bbb214ee-6818-417d-aba3-347bda90f507",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "02727002-d9b4-4a24-8860-03b342864acb"
+    },
+    "bbb21957-8c55-4338-abaa-50e4a9e6854b": {
+      "id": "bbb21957-8c55-4338-abaa-50e4a9e6854b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_00000000751471f8a61d41a72a19a5b0",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 2244,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 122755,
+              "width": 1008
+            },
+            "Please fill this out for Donivan Shayn Hotchkiss birthday 12/30/2007 he will be going into the Air Force and he is requesting this transcript "
+          ]
+        },
+        "create_time": 1779306801.636407,
+        "id": "bbb21957-8c55-4338-abaa-50e4a9e6854b",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_00000000751471f8a61d41a72a19a5b0",
+              "mime_type": "image/png",
+              "name": "1000018358.png",
+              "size": 122755
+            }
+          ],
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "79a5f846-56a5-49cc-a7eb-de292f761f9d"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Transcript Request for Enlistment",
+  "update_time": 1779306992.191203,
+  "voice": null
+}

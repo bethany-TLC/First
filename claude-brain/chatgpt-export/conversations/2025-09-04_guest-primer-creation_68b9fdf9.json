@@ -1,0 +1,81 @@
+{
+  "conversation_id": "68b9fdf9-9bd0-8321-9143-edd2b6cf3e8a",
+  "conversation_template_id": null,
+  "create_time": 1757019642.167944,
+  "current_node": "3ca619c2-4151-4a26-b99d-ba2869fed825",
+  "default_model_slug": "auto",
+  "id": "68b9fdf9-9bd0-8321-9143-edd2b6cf3e8a",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "3ca619c2-4151-4a26-b99d-ba2869fed825": {
+      "id": "3ca619c2-4151-4a26-b99d-ba2869fed825",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a polished **Guest Primer** you can send to Chip & Cindy:  \n\n---\n\n\ud83c\udf99 **Guest Primer \u2013 Chip & Cindy Paul, Neighborly Wellness & TrueMedics**  \n\nHi Chip & Cindy,  \n\nI\u2019m so excited to have you on *The Aesthetic & Wellness Edge*! Below is a quick primer with background, focus areas, and sample questions to help guide our conversation. Nothing is scripted \u2014 the goal is a casual, engaging chat that highlights your story, philosophy, and the innovative work you\u2019re doing.  \n\n---\n\n### \ud83c\udf1f About You  \n- **Chip & Cindy Paul** are the husband-and-wife team behind **Neighborly Wellness** and **TrueMedics**, blending personal experience, scientific research, and holistic innovation.  \n- **Chip** is a researcher and formulator, known for his patents and deep expertise in the endocannabinoid system, natural products, and now peptides and collagen research.  \n- **Cindy** brings heart-centered care rooted in her experience in hospice and home health, helping shape Neighborly\u2019s mission of *truly individualized wellness*.  \n- Their work combines **BioResonance technology**, AI-driven data analysis, and natural formulations to address the root causes of disease \u2014 often malnutrition or infection.  \n- They are expanding beyond Oklahoma with **mobile clinics, international product distribution, and licensing opportunities** for physicians and wellness practices.  \n\n---\n\n### \ud83c\udfaf Conversation Focus  \n- **Your Origin Story**: The transition from corporate healthcare and personal health struggles into building a holistic wellness company.  \n- **BioResonance & AI**: How technology and frequency-based diagnostics provide powerful insights into disease and dysfunction.  \n- **The Endocannabinoid System & Natural Healing**: Why you center your formulations on this system and what practitioners need to know.  \n- **Collagen & Peptides**: The next frontier in aging, repair, and performance \u2014 and where your research is headed.  \n- **B2B Expansion**: Licensing, SOP-driven protocols, and how aesthetic/medical practices can integrate holistic solutions.  \n- **Philosophy of Care**: The spiritual and scientific foundation that drives your work.  \n\n---\n\n### \u2753 Sample Questions  \n1. What was the personal experience that first pushed you toward holistic care and natural formulations?  \n2. For listeners new to **BioResonance**, how would you explain what it is and why it matters?  \n3. Chip, you\u2019ve mentioned feeding BioResonance data into AI \u2014 how is technology changing the way we approach wellness?  \n4. Cindy, coming from hospice and home health, how did that shape the patient-first approach you both now take at Neighborly?  \n5. Your research often touches on the **endocannabinoid system**. Why is this such an important key to health that many practitioners overlook?  \n6. Collagen and peptides are hot topics in aesthetics and wellness right now. What do most people misunderstand about them?  \n7. You\u2019ve shifted from B2C to expanding into **B2B licensing** \u2014 what opportunities are you creating for other practices to adopt your protocols and products?  \n8. Holistic medicine often faces skepticism. How do you balance spirituality, science, and credibility in your work?  \n9. What\u2019s next for Neighborly and TrueMedics \u2014 where do you see the biggest opportunity for growth?  \n10. For our audience of clinic owners and operators: If they want to collaborate with you, where should they start?  \n\n---\n\n### \ud83d\udce3 Call-to-Action  \nAt the end of the episode, we\u2019ll spotlight how people can:  \n- Learn more about **Neighborly Wellness** and **TrueMedics**  \n- Explore **licensing/collaboration opportunities**  \n- Connect for consults, product partnerships, or affiliate programs  \n\n---\n\nWould you like me to make this primer a little **shorter and more casual** (like a friendly prep email) or keep it in this **structured, professional format** for them to review ahead of the show?"
+          ]
+        },
+        "create_time": 1757019642.09829,
+        "id": "3ca619c2-4151-4a26-b99d-ba2869fed825",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "a2c4dc38-344a-4cc6-b0ce-7bd4f9d1854a"
+        }
+      },
+      "parent": "9f5000e6-5c13-4ed6-af7f-cffe559060d6"
+    },
+    "9f5000e6-5c13-4ed6-af7f-cffe559060d6": {
+      "id": "9f5000e6-5c13-4ed6-af7f-cffe559060d6",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "create a guest primer for these people \n\nPlease write in English language."
+          ]
+        },
+        "create_time": 1757019641.032,
+        "id": "9f5000e6-5c13-4ed6-af7f-cffe559060d6",
+        "metadata": {
+          "attachments": [
+            {
+              "file_token_size": 17094,
+              "id": "file-NiYLjppzZUCiZdmKUjCKhH",
+              "mime_type": "application/pdf",
+              "name": "chip and cindy.pdf",
+              "size": 187020
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Guest primer creation",
+  "update_time": 1757019689.927439,
+  "voice": null
+}

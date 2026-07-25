@@ -1,0 +1,118 @@
+{
+  "conversation_id": "69f2546d-2d98-83ea-b8ca-3fd12ae0caff",
+  "conversation_template_id": null,
+  "create_time": 1777489062.041451,
+  "current_node": "139aa646-6dd3-45c8-afbc-3c0efca6dfe1",
+  "default_model_slug": "gpt-5-3",
+  "id": "69f2546d-2d98-83ea-b8ca-3fd12ae0caff",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "139aa646-6dd3-45c8-afbc-3c0efca6dfe1": {
+      "id": "139aa646-6dd3-45c8-afbc-3c0efca6dfe1",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Good catch. You\u2019re right. The ones I gave you lean too \u201csales call\u201d specific and won\u2019t scale across different call types.\n\nWhat you want instead is **universal Luxora-style reminders** that:\n- Still feel premium  \n- Still increase show rate  \n- Work for *any* appointment (discovery, onboarding, follow-up, etc.)  \n\nHere\u2019s a clean, scalable version you can plug into everything:\n\n---\n\n# \ud83d\udd25 **1. Immediate Confirmation (Email + SMS)**  \n**Goal:** Confirmation + set tone\n\n### **SMS**\nHey {{contact.first_name}} \u2014 you\u2019re all set \u2705\n\n\ud83d\udcc5 {{appointment.only_start_date}}  \n\u23f0 {{appointment.only_start_time}} {{appointment.timezone}}\n\nLooking forward to connecting. If anything comes up before then, just let me know here \ud83d\udc4d\n\n\u2014 Luxora\n\n---\n\n### **Email**\n**Subject:** You\u2019re confirmed \u2714\n\nHey {{contact.first_name}},\n\nYour appointment is confirmed:\n\n\ud83d\udcc5 {{appointment.only_start_date}}  \n\u23f0 {{appointment.only_start_time}} {{appointment.timezone}}\n\nWe\u2019re looking forward to connecting and making this time valuable for you.\n\nIf anything changes on your end, just reply to this email or text us directly.\n\nTalk soon,  \nThe Luxora Collective\n\n---\n\n# \u23f0 **2. 24-Hour Reminder (Email + SMS)**  \n**Goal:** Reinforce + light commitment\n\n### **SMS**\nHey {{contact.first_name}} \u2014 quick reminder for tomorrow.\n\n\ud83d\udcc5 {{appointment.only_start_date}}  \n\u23f0 {{appointment.only_start_time}}\n\nReply \u201cYES\u201d to confirm \ud83d\udc4d\n\n\u2014 Luxora\n\n---\n\n### **Email**\n**Subject:** Reminder for tomorrow\n\nHey {{contact.first_name}},\n\nJust a quick reminder about your appointment tomorrow:\n\n\ud83d\udcc5 {{appointment.only_start_date}}  \n\u23f0 {{appointment.only_start_time}} {{appointment.timezone}}\n\nLooking forward to connecting with you.\n\nIf you need to adjust anything, just let us know ahead of time.\n\n\u2014 Luxora\n\n---\n\n# \u26a1 **3. 1-Hour Reminder (SMS Only)**  \n**Goal:** Reduce no-shows\n\nHey {{contact.first_name}} \u2014 we\u2019re coming up in about an hour.\n\n\ud83d\udccd Join here:  \n{{appointment.meeting_location}}\n\nTalk soon \ud83d\udc4d\n\n---\n\n# \ud83d\udea8 **4. 5-Minute Reminder (SMS Only)**  \n**Goal:** Final push\n\nHey {{contact.first_name}} \u2014 starting in 5 minutes.\n\nJump in here:  \n{{appointment.meeting_location}}\n\n\u2014 Luxora\n\n---\n\n# \ud83d\udca1 OPTIONAL (Still Generic but Higher-End Feel)\n\nIf you want to elevate slightly without being call-specific, swap this into confirmation:\n\n**Upgraded SMS**\nHey {{contact.first_name}} \u2014 you\u2019re booked in \u2705\n\n\ud83d\udcc5 {{appointment.only_start_date}}  \n\u23f0 {{appointment.only_start_time}} {{appointment.timezone}}\n\nWe\u2019ll make this time productive and worth it.\n\nSee you soon,  \nLuxora\n\n---\n\n# Why this version works better for you\n- No assumptions about call type  \n- Clean, confident, not overhyped  \n- Still feels **premium and intentional**  \n- Easy to scale across *all pipelines inside GHL*  \n\n---\n\nIf you want to go one level more advanced, next move is:\n\ud83d\udc49 Different tone per pipeline (sales vs onboarding vs client calls)\n\nThat\u2019s where you really increase show rates and client experience.\n\nWant me to build that out next?"
+          ]
+        },
+        "create_time": 1777489113.574895,
+        "id": "139aa646-6dd3-45c8-afbc-3c0efca6dfe1",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "d9009d3b-4347-435c-ab75-7c85f70eb3fb"
+        }
+      },
+      "parent": "d9009d3b-4347-435c-ab75-7c85f70eb3fb"
+    },
+    "16cab7ac-c72e-4936-bdfb-9d37b54607d1": {
+      "id": "16cab7ac-c72e-4936-bdfb-9d37b54607d1",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "i need to create better email and sms reminders fo r the luxora collective that sound more like. immediately when they book, 24 hour reminder, and 1hr reminder and 5 min reminder. right now they look like this crap:Hi {{contact.first_name}},\n\nYour appointment has been confirmed for {{appointment.only_start_date}} at {{appointment.only_start_time}} {{appointment.timezone}}\u00a0\n\nLet us know if you have any questions in the meantime \ud83d\udc4d"
+          ]
+        },
+        "create_time": 1777489061.555,
+        "id": "16cab7ac-c72e-4936-bdfb-9d37b54607d1",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "59aea086-99e5-4336-b41e-153d4e7e7683": {
+      "id": "59aea086-99e5-4336-b41e-153d4e7e7683",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Yeah\u2026 that current reminder is doing absolutely nothing for you. It\u2019s transactional, forgettable, and gives them zero emotional or logical reason to actually show up.\n\nYou want reminders that:\n1. Reinforce value  \n2. Build anticipation  \n3. Reduce no-shows  \n4. Position Luxora as premium  \n\nHere\u2019s a full upgraded sequence you can plug straight into GHL.\n\n---\n\n## \ud83d\udd25 **1. Immediate Confirmation (Email + SMS)**\n**Goal:** Lock in commitment + frame the call as important\n\n### **SMS**\nHey {{contact.first_name}} \u2014 you\u2019re officially booked \u2705\n\nWe\u2019re diving into your med spa\u2019s *real revenue leaks* and where you\u2019re leaving money on the table.\n\n\ud83d\udcc5 {{appointment.only_start_date}}  \n\u23f0 {{appointment.only_start_time}} {{appointment.timezone}}\n\nQuick heads up\u2026 most owners walk away from this call seeing $10K\u2013$50K/month in missed opportunity they didn\u2019t even realize.\n\nIf anything changes, just let me know here \ud83d\udc4d\n\n\u2014 Bethany | Luxora\n\n---\n\n### **Email**\n**Subject:** You\u2019re in. Let\u2019s map your growth.\n\nHey {{contact.first_name}},\n\nYou\u2019re confirmed for:\n\n\ud83d\udcc5 {{appointment.only_start_date}}  \n\u23f0 {{appointment.only_start_time}} {{appointment.timezone}}\n\nThis isn\u2019t a typical \u201cmarketing call.\u201d\n\nWe\u2019re going to break down:\n\u2022 Where your revenue is leaking right now  \n\u2022 What\u2019s actually holding you back from scaling  \n\u2022 What your next 90 days should look like if you want real growth  \n\nMost med spa owners think they need more leads\u2026  \nbut it\u2019s usually what\u2019s happening *between appointments* that\u2019s costing them the most.\n\nCome ready to think a little differently.\n\nTalk soon,  \nBethany  \nThe Luxora Collective\n\n---\n\n## \u23f0 **2. 24-Hour Reminder (Email + SMS)**\n**Goal:** Re-engage + increase perceived importance\n\n### **SMS**\nHey {{contact.first_name}} \u2014 quick reminder for tomorrow.\n\nWe\u2019re taking a deep look at your numbers and identifying where growth is being left on the table.\n\nThis is the call most owners say changes how they see their entire business.\n\n\ud83d\udcc5 {{appointment.only_start_date}}  \n\u23f0 {{appointment.only_start_time}}\n\nReply \u201cYES\u201d to confirm you\u2019re still good \ud83d\udc4d\n\n---\n\n### **Email**\n**Subject:** Tomorrow: this is where things click\n\nHey {{contact.first_name}},\n\nLooking forward to connecting tomorrow.\n\nThis is the conversation where things usually *click* for owners.\n\nWe\u2019ll walk through:\n\u2022 Your current growth ceiling  \n\u2022 What\u2019s actually limiting you (it\u2019s rarely what you think)  \n\u2022 Where you can unlock immediate revenue without adding more chaos  \n\nIf you\u2019ve been feeling like you\u2019re working hard but not scaling the way you should\u2026 this is exactly why.\n\nSee you tomorrow.\n\n\u2014 Bethany\n\n---\n\n## \u26a1 **3. 1-Hour Reminder (SMS Only)**\n**Goal:** Reduce last-minute no-shows\n\nHey {{contact.first_name}} \u2014 we\u2019re up in about an hour.\n\nMake sure you\u2019re somewhere you can focus. This is where we\u2019ll map out what scaling your med spa actually looks like.\n\nTalk soon \ud83d\udc47  \n{{appointment.meeting_location}}\n\n---\n\n## \ud83d\udea8 **4. 5-Minute Reminder (SMS Only)**\n**Goal:** Final nudge, high show rate\n\nHey {{contact.first_name}} \u2014 we\u2019re starting in 5.\n\nJump in here:  \n{{appointment.meeting_location}}\n\nLet\u2019s get into it \ud83d\udd25\n\n---\n\n## \ud83d\udca1 Optional (HIGHLY recommend)\nAdd this to your 24hr or confirmation email:\n\n**PS section:**\nP.S. If you haven\u2019t yet, take 2 minutes to go through this before our call. It\u2019ll make the conversation 10x more valuable:  \n\ud83d\udc49 [Revenue Leak Audit Link]\n\n---\n\n## Why this works (so you understand the strategy)\n- You\u2019re not \u201creminding\u201d \u2192 you\u2019re **re-selling the call every touchpoint**\n- You\u2019re building **curiosity + authority**\n- You\u2019re subtly anchoring **$10K\u2013$50K missed revenue**\n- You\u2019re setting the expectation this is **not a casual convo**\n\n---\n\nIf you want next level\u2026\n\nI can also write:\n- No-show recovery texts  \n- Reschedule flows that keep authority  \n- Post-call follow-ups that close at a higher rate  \n\nJust say the word \ud83d\udc4d"
+          ]
+        },
+        "create_time": 1777489061.922036,
+        "id": "59aea086-99e5-4336-b41e-153d4e7e7683",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "e92d3f03-6174-4dce-ab0e-b4ef5f4a6f14"
+        }
+      },
+      "parent": "16cab7ac-c72e-4936-bdfb-9d37b54607d1"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "d9009d3b-4347-435c-ab75-7c85f70eb3fb": {
+      "id": "d9009d3b-4347-435c-ab75-7c85f70eb3fb",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "these are not spefic for each diffent call so they need to be generic"
+          ]
+        },
+        "create_time": 1777489113.213,
+        "id": "d9009d3b-4347-435c-ab75-7c85f70eb3fb",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "59aea086-99e5-4336-b41e-153d4e7e7683"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Luxora Reminder Upgrade",
+  "update_time": 1777584187.692364,
+  "voice": null
+}

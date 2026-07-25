@@ -1,0 +1,412 @@
+{
+  "conversation_id": "6a288040-9648-83e8-b955-9426230bf8aa",
+  "conversation_template_id": null,
+  "create_time": 1781039198.262473,
+  "current_node": "a9801ccc-012f-4eb2-baa3-bfae674214db",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a288040-9648-83e8-b955-9426230bf8aa",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "a9801ccc-012f-4eb2-baa3-bfae674214db": {
+      "id": "a9801ccc-012f-4eb2-baa3-bfae674214db",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "For an outside scholarship like the one Alignment Nashville awarded, your best point of contact is the \ue200entity\ue202[\"organization\",\"Lipscomb University Financial Aid Office\",\"Nashville, Tennessee\"]\ue201.\n\n**Contact Information**\n- Financial Aid Office\n- Phone: (615) 966-1791\n- Email: financialaid@lipscomb.edu \ue200cite\ue202turn0search18\ue202turn0search19\ue201\n\nLipscomb specifically instructs students and scholarship providers to notify Financial Aid of any outside scholarships, and they process those funds so they are credited appropriately to the student's account. \ue200cite\ue202turn0search5\ue202turn0search0\ue201\n\nIf Alignment Nashville is sending the scholarship directly, I would recommend:\n1. Email Financial Aid with:\n   - Student's full name\n   - Student ID number (if available)\n   - Scholarship amount\n   - Whether the scholarship is for Fall 2026, Spring 2027, etc.\n2. Ask for confirmation that the funds will be applied directly to the student's account.\n3. Request any specific instructions they prefer for outside scholarship payments. Lipscomb now uses an online scholarship submission system for many outside scholarships rather than relying solely on paper checks. \ue200cite\ue202turn0search4\ue201\n\nYou can also send scholarship funds to:\n\n**Attn: Financial Aid**  \nLipscomb University  \nOne University Park Drive  \nNashville, TN 37204 \ue200cite\ue202turn0search0\ue202turn0search6\ue201\n\nIf you'd like, I can also draft a professional email from Alignment Nashville to Financial Aid that requests confirmation and ensures the scholarship is credited to the student's account correctly."
+          ]
+        },
+        "create_time": 1781039200.00919,
+        "id": "a9801ccc-012f-4eb2-baa3-bfae674214db",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "Lipscomb University Financial Aid Office",
+              "prefix": null,
+              "prompt_text": "Lipscomb University Financial Aid Office",
+              "render_as": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "([lipscomb.edu](https://lipscomb.edu/directory/financial-aid?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "lipscomb.edu",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 18,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 19,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Contact Information. Crisman Administration Building, lower level 615.966.1791 financialaid@lipscomb.edu. Undergraduate \u00b7 Graduate \u00b7 Online.",
+                  "supporting_websites": [
+                    {
+                      "attribution": "CollegeData",
+                      "pub_date": null,
+                      "snippet": "Telephone. (615) 966-1791 ; Email. financialaid@lipscomb.edu ; Website. https://lipscomb.edu/admissions/tuition-and-financial-aid/current-students/types-aid- ...Read more",
+                      "title": "Lipscomb University Athletic Scholarship (Institutional Aid)",
+                      "url": "https://www.collegedata.com/scholarship-finder/273607?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Financial Aid | Directory",
+                  "url": "https://lipscomb.edu/directory/financial-aid?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([lipscomb.edu](https://lipscomb.edu/admission/tuition-and-financial-aid/undergraduate-students?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "lipscomb.edu",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 5,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "For identification only verification, the Financial Aid Office will send an email requesting that you stop by the Financial Aid office with your unexpired ...",
+                  "supporting_websites": [
+                    {
+                      "attribution": "lipscomb.edu",
+                      "pub_date": null,
+                      "snippet": "If you are receiving an outside scholarship, please email a confirmation letter to Financial Aid. All outside scholarship checks can be mailed to: Attn ...Read more",
+                      "title": "Incoming Student Scholarships",
+                      "url": "https://lipscomb.edu/admissions/tuition-and-financial-aid/current-students/types-aid-current-students/current-students-0?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Undergraduate Students",
+                  "url": "https://lipscomb.edu/admission/tuition-and-financial-aid/undergraduate-students?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([lipscomb.edu](https://lipscomb.edu/one-stop/financial-aid-faqs?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "lipscomb.edu",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 4,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Lipscomb University no longer requires paper checks as the payment method for outside scholarships. Payments may now be submitted online. In the Online ...Read more",
+                  "supporting_websites": [],
+                  "title": "Financial Aid FAQs - Bison One Stop",
+                  "url": "https://lipscomb.edu/one-stop/financial-aid-faqs?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([lipscomb.edu](https://lipscomb.edu/admissions/tuition-and-financial-aid/current-students/types-aid-current-students/current-students-0?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "lipscomb.edu",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 6,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "If you are receiving an outside scholarship, please email a confirmation letter to Financial Aid. All outside scholarship checks can be mailed to: Attn ...Read more",
+                  "supporting_websites": [
+                    {
+                      "attribution": "lipscomb.edu",
+                      "pub_date": null,
+                      "snippet": "Email businessoffice@lipscomb.edu with any questions you may have or visit this web resource. Lipscomb University One University Park Drive Nashville, TN 37204Read more",
+                      "title": "Payment Information FAQs - Bison One Stop",
+                      "url": "https://lipscomb.edu/one-stop/payment-information-faqs?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Incoming Student Scholarships",
+                  "url": "https://lipscomb.edu/admissions/tuition-and-financial-aid/current-students/types-aid-current-students/current-students-0?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prefix": null,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "lipscomb.edu",
+                  "title": "Financial Aid | Directory",
+                  "url": "https://lipscomb.edu/directory/financial-aid?utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "3c8a0f19-c70a-4f78-9c52-002c3a14b9f2",
+          "search_result_groups": [
+            {
+              "domain": "lipscomb.edu",
+              "entries": [
+                {
+                  "attribution": "lipscomb.edu",
+                  "snippet": "A grant is a type of need-based aid that does not need to be repaid. You'll find a variety of grants offered by the government that are widely available, as ...Read more",
+                  "title": "Undergraduate Student Grants",
+                  "url": "https://lipscomb.edu/admission/tuition-and-financial-aid/undergraduate-students/types-aid-undergraduate-students/grants?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "lipscomb.edu",
+                  "snippet": "A leading Christian university in Nashville where anything is possible. With our top academic programs, small class sizes, intentional faculty and faith- ...",
+                  "title": "Lipscomb University | A Private Christian College in Nashville ...",
+                  "url": "https://lipscomb.edu/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "lipscomb.edu",
+                  "snippet": "Email businessoffice@lipscomb.edu with any questions you may have or visit this web resource. Lipscomb University One University Park Drive Nashville, TN 37204Read more",
+                  "title": "Payment Information FAQs - Bison One Stop",
+                  "url": "https://lipscomb.edu/one-stop/payment-information-faqs?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "lipscomb.edu",
+                  "snippet": "Authorized users may view student account activity, make payments and set up payment plans. ... With PayMyTuition, you can pay your tuition payments from any bank ...Read more",
+                  "title": "Undergraduate Student Paying Your Bill",
+                  "url": "https://lipscomb.edu/admission/tuition-and-financial-aid/undergraduate-students/paying-your-bill-undergraduate-students?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "lipscomb.edu",
+                  "snippet": "Lipscomb participates fully in federal and state aid programs. The aid available includes scholarships, grants, loans and employment.Read more",
+                  "title": "Financial Aid",
+                  "url": "https://catalog.lipscomb.edu/content.php?catoid=20&navoid=1493&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "lipscomb.edu",
+                  "snippet": "For identification only verification, the Financial Aid Office will send an email requesting that you stop by the Financial Aid office with your unexpired ...",
+                  "title": "Graduate Financial Aid",
+                  "url": "https://lipscomb.edu/admission/tuition-and-financial-aid/graduate-financial-aid?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "lipscomb.edu",
+                  "snippet": "At Lipscomb, 99 percent of undergraduates receive some form of financial help, from merit-based scholarships to work-study programs to federal grants.Read more",
+                  "title": "Tuition & Financial Aid - Nashville",
+                  "url": "https://lipscomb.edu/admission/tuition-and-financial-aid?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "lipscomb.edu",
+                  "snippet": "Learn here how to apply for aid and discover your options to help afford college, from FAFSA help to understanding your SAR.",
+                  "title": "Undergraduate Students Applying for Aid",
+                  "url": "https://lipscomb.edu/admission/tuition-and-financial-aid/undergraduate-students/applying-aid-undergraduate-students?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "lipscomb.edu",
+                  "snippet": "Lipscomb offers scholarships that recognize academic achievement, service involvement, talent and leadership capability. Scholarships do not have to be repaid.Read more",
+                  "title": "Current Student Scholarships",
+                  "url": "https://lipscomb.edu/admissions/tuition-and-financial-aid/current-students/types-aid-current-students/current-students?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "lipscombacademy.org",
+              "entries": [
+                {
+                  "attribution": "lipscombacademy.org",
+                  "snippet": "Multi-child discounts will be applied at $400 for the second child, $500 for the third and $600 for the fourth. The cost of attendance includes technology ...",
+                  "title": "Cost of Attendance & Family Assistance",
+                  "url": "https://www.lipscombacademy.org/admissions/cost-of-attendance-family-assistance?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "cornell.edu",
+              "entries": [
+                {
+                  "attribution": "cornell.edu",
+                  "snippet": "Jan 10, 2024 \u2014 Outside scholarship checks from corporations, private parties, or foundations must be sent directly to the Office of Financial Aid and Student Employment.Read more",
+                  "title": "Where to send your outside scholarship checks",
+                  "url": "https://finance.cornell.edu/bursar/news/where-send-your-outside-scholarship-checks?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "iastate.edu",
+              "entries": [
+                {
+                  "attribution": "iastate.edu",
+                  "snippet": "Mail the check to our office. Send scholarship checks directly to the Office of Student Financial Aid at the address listed in the sidebar. Include the ...Read more",
+                  "title": "Private Outside Scholarships - Office of Student Financial Aid",
+                  "url": "https://financialaid.iastate.edu/types-of-aid/scholarships/private-scholarship-checks/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "utexas.edu",
+              "entries": [
+                {
+                  "attribution": "utexas.edu",
+                  "snippet": "Donors send email confirmation to EM-Scholarships@austin.utexas.edu once the funds have been sent to the University. Email includes the following information:.Read more",
+                  "title": "Outside Scholarships Policy - Financial Aid",
+                  "url": "https://finaid.utexas.edu/ut-financial-aid-policy/outsidescholarshipspolicy/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "uky.edu",
+              "entries": [
+                {
+                  "attribution": "uky.edu",
+                  "snippet": "Mailing Address for Scholarship Checks ; (859) 257-3172 \u00b7 OSFAS@uky.edu \u00b7 127 Funkhouser Building \u00b7 001989 ...Read more",
+                  "title": "External & Third-Party Scholarships - Student Success",
+                  "url": "https://studentsuccess.uky.edu/financial-aid-and-scholarships/academic-scholarships/external-third-party-scholarships?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "mines.edu",
+              "entries": [
+                {
+                  "attribution": "mines.edu",
+                  "snippet": "If the check is mailed directly to the student, we have a secure drop box outside of our office in the Student Center (same building as the bookstore, but at ...Read more",
+                  "title": "Outside Scholarship Payment Information - Financial Aid",
+                  "url": "https://finaid.mines.edu/scholarshippaymentinformation/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "facebook.com",
+              "entries": [
+                {
+                  "attribution": "facebook.com",
+                  "snippet": "Does anyone know how to submit scholarship checks that are made out to both the university and student?",
+                  "title": "How to submit scholarship checks to university and student?",
+                  "url": "https://www.facebook.com/groups/40396224038/posts/10160548370384039/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "collegedata.com",
+              "entries": [
+                {
+                  "attribution": "collegedata.com",
+                  "snippet": "Telephone. (615) 966-1791 ; Email. financialaid@lipscomb.edu ; Website. https://lipscomb.edu/admissions/tuition-and-financial-aid/current-students/types-aid- ...Read more",
+                  "title": "Lipscomb University Athletic Scholarship (Institutional Aid)",
+                  "url": "https://www.collegedata.com/scholarship-finder/273607?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "uiowa.edu",
+              "entries": [
+                {
+                  "attribution": "uiowa.edu",
+                  "snippet": "The University Billing Office is the central collection point for all outside scholarship checks awarded to students. Checks may be mailed to our office or ...Read more",
+                  "title": "Outside Scholarships | University Billing",
+                  "url": "https://billing.uiowa.edu/outside-scholarships?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "applyweb.com",
+              "entries": [
+                {
+                  "attribution": "applyweb.com",
+                  "snippet": "FAFSA's are available at the high school guidance office or from any college financial aid office. Scholarships. You automatically qualify to be considered ...",
+                  "title": "Lipscomb University Admission Information",
+                  "url": "https://www.applyweb.com/lcomb/appInstr.html?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "bbb213f2-37e8-4a01-8df7-582843494598"
+    },
+    "bbb213f2-37e8-4a01-8df7-582843494598": {
+      "id": "bbb213f2-37e8-4a01-8df7-582843494598",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "We are a non-profit called alignment Nashville. We helped skull spelled skal do a scholarship which awarded one gentleman who will be attending Lipscomb and we are trying to make sure that the crant money gets put onto his account. Who do I contact at Lipscomb here in Nashville Tennessee to make sure that that happens"
+          ]
+        },
+        "create_time": 1781039197.89798,
+        "id": "bbb213f2-37e8-4a01-8df7-582843494598",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "db510605-d19f-4feb-ab47-43d21d0ddf4f"
+    },
+    "db510605-d19f-4feb-ab47-43d21d0ddf4f": {
+      "id": "db510605-d19f-4feb-ab47-43d21d0ddf4f",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Lipscomb Scholarship Payment Contact",
+  "update_time": 1781039208.199604,
+  "voice": null
+}

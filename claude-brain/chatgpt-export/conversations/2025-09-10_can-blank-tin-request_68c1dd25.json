@@ -1,0 +1,106 @@
+{
+  "conversation_id": "68c1dd25-7ccc-832f-91d6-866fe8734130",
+  "conversation_template_id": null,
+  "create_time": 1757535567.733472,
+  "current_node": "fc5e1360-e927-47ed-a60b-02144cc743d5",
+  "default_model_slug": "gpt-5",
+  "id": "68c1dd25-7ccc-832f-91d6-866fe8734130",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "08d1097a-b629-42b6-b60f-28aec0f71413": {
+      "id": "08d1097a-b629-42b6-b60f-28aec0f71413",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "file-service://file-PrZp9yCjigSy7SX3hbmEv8",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 1536,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 2575229,
+              "width": 1024
+            },
+            "JUST MAKE THE CAN BLANK TIN DO NOT CHANGE ANYTHING ELSE ABOUT THE IMAGE JUST MAKE CAN BLANK TIN WITH RIM LIGHTING"
+          ]
+        },
+        "create_time": 1757535566.422,
+        "id": "08d1097a-b629-42b6-b60f-28aec0f71413",
+        "metadata": {
+          "attachments": [
+            {
+              "height": 1536,
+              "id": "file-PrZp9yCjigSy7SX3hbmEv8",
+              "mime_type": "image/png",
+              "name": "Nashville Cats - Backstage pass.png",
+              "size": 2575229,
+              "source": "local",
+              "width": 1024
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "fc5e1360-e927-47ed-a60b-02144cc743d5": {
+      "id": "fc5e1360-e927-47ed-a60b-02144cc743d5",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "create_time": 1757535704.877385,
+        "id": "fc5e1360-e927-47ed-a60b-02144cc743d5",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "64725161-3f2d-4e6d-bef2-cea85b09fb1b"
+        }
+      },
+      "parent": "08d1097a-b629-42b6-b60f-28aec0f71413"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Can blank tin request",
+  "update_time": 1757535710.464852,
+  "voice": null
+}

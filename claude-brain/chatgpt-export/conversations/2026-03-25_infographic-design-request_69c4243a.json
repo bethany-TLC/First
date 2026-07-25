@@ -1,0 +1,117 @@
+{
+  "conversation_id": "69c4243a-76b0-8327-bfa5-1e53e3d668d8",
+  "conversation_template_id": null,
+  "create_time": 1774462151.741735,
+  "current_node": "31da6ec3-15ac-44d2-8c65-4acb6b925128",
+  "default_model_slug": "gpt-5-3",
+  "id": "69c4243a-76b0-8327-bfa5-1e53e3d668d8",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "31da6ec3-15ac-44d2-8c65-4acb6b925128": {
+      "id": "31da6ec3-15ac-44d2-8c65-4acb6b925128",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_0000000031b071f8a5fbe2f4b3096d6b",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 568,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 286883,
+              "width": 607
+            },
+            {
+              "asset_pointer": "sediment://file_000000009ab871fdbcae18471ad06a2a",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 1080,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 164587,
+              "width": 1920
+            },
+            "create a info graphic for a slide show for our 3 pillars use the aesthetics from our website theuxoracollective.co and these are our three pillars:  we need to show this onour sales call"
+          ]
+        },
+        "create_time": 1774462153.665,
+        "id": "31da6ec3-15ac-44d2-8c65-4acb6b925128",
+        "metadata": {
+          "attachments": [
+            {
+              "height": 568,
+              "id": "file_0000000031b071f8a5fbe2f4b3096d6b",
+              "is_big_paste": false,
+              "mime_type": "image/png",
+              "name": "392c63bf-fbdc-445e-a570-2526c1a2f8af.png",
+              "size": 286883,
+              "source": "local",
+              "width": 607
+            },
+            {
+              "height": 1080,
+              "id": "file_000000009ab871fdbcae18471ad06a2a",
+              "is_big_paste": false,
+              "mime_type": "image/jpeg",
+              "name": "Title.jpg",
+              "size": 164587,
+              "source": "local",
+              "width": 1920
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Infographic Design Request",
+  "update_time": 1774462224.559725,
+  "voice": null
+}

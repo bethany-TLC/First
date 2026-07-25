@@ -1,0 +1,71 @@
+{
+  "conversation_id": "68ac5359-f9ec-832d-af17-751d996b9c36",
+  "conversation_template_id": null,
+  "create_time": 1756124015.960595,
+  "current_node": "73e645a3-85e5-4276-8210-7d28684d5a53",
+  "default_model_slug": "auto",
+  "id": "68ac5359-f9ec-832d-af17-751d996b9c36",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "65b55eaa-a4d4-4546-b774-70fd1184e3a8": {
+      "id": "65b55eaa-a4d4-4546-b774-70fd1184e3a8",
+      "message": null,
+      "parent": null
+    },
+    "73e645a3-85e5-4276-8210-7d28684d5a53": {
+      "id": "73e645a3-85e5-4276-8210-7d28684d5a53",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Great question \ud83d\udc4c  \n\nHere\u2019s how most high-performing MedSpa ads handle it:  \n\n**1. In the ad itself (front-end messaging):**  \n- You want the ad to focus on *value, results, and transformation* \u2014 not fees.  \n- Lead with the *service benefits, outcomes, and why it\u2019s worth their time*.  \n- Example: \u201cDiscover how thousands of women are restoring confidence with [service]. Book your personal consultation today!\u201d  \n- Don\u2019t mention the $50 in the video \u2014 that can create friction and drop your click-through rate.  \n\n**2. On the landing/booking page (conversion step):**  \n- This is where you introduce the $50 deposit, framed as a *commitment to secure your spot* (not a fee).  \n- Example: \u201cA $50 reservation deposit is required to hold your consultation. This goes *toward your treatment or product purchase* at your appointment.\u201d  \n- This reduces no-shows, but since the person has already invested attention by clicking, they\u2019re less likely to bounce.  \n\n**3. Exception:**  \n- If your area is saturated with \u201cfree consult\u201d offers, sometimes highlighting *\u201conly $50 to reserve your consult, applied to your treatment\u201d* can position you as premium and weed out tire-kickers. In that case, test one ad variant with it included.  \n\n\ud83d\udc49 Best practice: **Don\u2019t put the $50 in the main ad video.** Keep the ad focused on desire and curiosity. Introduce the deposit on the booking page, where you can explain *why it\u2019s a benefit*.  \n\nWould you like me to draft the exact booking page wording so it feels like a perk (not a fee)?"
+          ]
+        },
+        "create_time": 1756124015.891003,
+        "id": "73e645a3-85e5-4276-8210-7d28684d5a53",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "3187bef3-0b16-4f84-894e-4f131f232685"
+        }
+      },
+      "parent": "bbb2142f-d7c0-4e8f-a620-b7072f68d1e1"
+    },
+    "bbb2142f-d7c0-4e8f-a620-b7072f68d1e1": {
+      "id": "bbb2142f-d7c0-4e8f-a620-b7072f68d1e1",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "When making a video ad for Facebook ads for a MedSpa that collects a down payment to book a consult, do you advertise that $50 down payment on the ad or just once they get to the booking page they see it"
+          ]
+        },
+        "create_time": 1756124015.809067,
+        "id": "bbb2142f-d7c0-4e8f-a620-b7072f68d1e1",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "65b55eaa-a4d4-4546-b774-70fd1184e3a8"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Ad strategy for MedSpa",
+  "update_time": 1756124026.242593,
+  "voice": null
+}

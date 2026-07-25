@@ -1,0 +1,236 @@
+{
+  "conversation_id": "68b74aea-022c-832c-9802-023a4d0ee175",
+  "conversation_template_id": null,
+  "create_time": 1756842754.256179,
+  "current_node": "7ef31ba7-886b-4b86-af9e-40da73b1cd64",
+  "default_model_slug": "auto",
+  "id": "68b74aea-022c-832c-9802-023a4d0ee175",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "16c9be92-42ae-4bc7-8276-4792ff3237ee": {
+      "id": "16c9be92-42ae-4bc7-8276-4792ff3237ee",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Perfect \u2014 thanks for sharing the screenshots! I can turn this into a structured **Discovery Call Questionnaire Script** you can use live on calls or send ahead as prep. Here\u2019s a polished version:  \n\n---\n\n# Discovery Call Questionnaire Script  \n\n### 1. Warm-Up & Context  \n- Thanks for taking the time today. To make sure I understand your business clearly and can create a tailored plan, I\u2019d love to ask a few questions about your current performance, challenges, and goals.  \n\n---\n\n### 2. Current Metrics  \n- Can you walk me through your key numbers right now?  \n  - Monthly website visitors  \n  - Conversion rate  \n  - Average deal size  \n  - Monthly revenue  \n  - Customer acquisition cost  \n  - Customer lifetime value  \n  - Churn rate  \n\n---\n\n### 3. Primary Pain Point  \n- What\u2019s the biggest challenge you\u2019re facing in your business today?  \n- Can you share numbers or examples of the impact? For instance:  \n  - Low conversions from traffic  \n  - Plateaued revenue while competitors are growing  \n  - Spending too much time on manual tasks  \n  - Delivery or quality issues affecting client retention  \n\n---\n\n### 4. Past Attempts  \n- What have you already tried to solve this problem?  \n- What worked? What didn\u2019t?  \n- Why do you think those approaches failed or fell short?  \n\n---\n\n### 5. Current Investment  \n- How much are you currently investing in solving this challenge?  \n  - (e.g., monthly spend on ads, software, contractors, or agencies)  \n\n- How long has this been an issue for your business?  \n\n---\n\n### 6. Desired Outcome  \n- If we fast forward 6\u201312 months, what specific results would make this engagement a success for you?  \n  - Growing from X to Y clients per month  \n  - Increasing recurring revenue by $___  \n  - Doubling conversion rate  \n  - Scaling to a specific revenue milestone  \n\n---\n\n### 7. Roadblocks  \n- What do you feel is preventing you from hitting those outcomes right now?  \n  - Low conversion rates?  \n  - Competitors outspending or outpacing you?  \n  - Lack of automation?  \n  - Retention or team challenges?  \n  - Systems that don\u2019t scale?  \n\n---\n\n### 8. Competitive Landscape  \n- How would you describe your current competition?  \n  - Who\u2019s winning in your market?  \n  - Are you losing clients to specific competitors?  \n  - Are there new players, pricing pressures, or industry shifts you\u2019re noticing?  \n\n---\n\n### 9. Industry Trends  \n- Are there any broader trends impacting your business right now?  \n  - Shifts in regulations, technology, or customer behavior?  \n  - Industry consolidation or new solutions disrupting your market?  \n\n---\n\n### 10. Urgency & Next Steps  \n- Why is solving this problem important to you now?  \n- What would happen if you don\u2019t address it in the next 6\u201312 months?  \n- If we could map out a clear plan that hits your goals, would you be ready to take action?  \n\n---\n\n\ud83d\udc49 This format ensures the conversation uncovers **metrics, pain points, past efforts, goals, roadblocks, competition, and urgency**\u2014all the ingredients for building a compelling growth plan.  \n\n---\n\nWould you like me to **tighten this into a conversational flow** (like a word-for-word script you can read on calls), or keep it in this **open-ended questionnaire style** so you can adapt?"
+          ]
+        },
+        "create_time": 1756842884.129543,
+        "id": "16c9be92-42ae-4bc7-8276-4792ff3237ee",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "eb1c34d3-78cd-4fb1-aa11-1dbfb1a68d48"
+        }
+      },
+      "parent": "eb1c34d3-78cd-4fb1-aa11-1dbfb1a68d48"
+    },
+    "1f458c0d-c98c-424f-a563-959d26127228": {
+      "id": "1f458c0d-c98c-424f-a563-959d26127228",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "can you turn these pictures and text into a questionare discovery call script: https://docs.google.com/document/d/10iLaqWBRWEQR0UHepUHHtEO631u6vSHVJRsqaA4H2Ic/edit?usp=sharing\n\nPlease write in English language."
+          ]
+        },
+        "create_time": 1756842753.747,
+        "id": "1f458c0d-c98c-424f-a563-959d26127228",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "72c248b3-eb05-4689-b362-f27695815438": {
+      "id": "72c248b3-eb05-4689-b362-f27695815438",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "now add this into itso it flows:Discovery Call Script \u2013 Uptown Med Spa & Wellness\n1. Warm Introduction & Podcast Reference\n\n\u201cHi Jessica, I really enjoyed your episode on The Aesthetic Edge. What stood out to me was how you all recognized that having separate businesses was confusing to the public\u2014and made the smart move to come together under one brand. That was a powerful decision.\u201d\n\n\u201cToday, my goal is to build on what you shared in the podcast, learn more about how Uptown is growing, and understand your top priorities for the next 6\u201312 months. I\u2019ll also share a couple of quick ideas based on what\u2019s working for other med spas. If it makes sense, we can then schedule another call where I\u2019ll present some tailored strategies for marketing, client retention, and scaling. Does that sound good?\u201d\n\n2. Vision & Growth Goals\n\n\u201cYou\u2019ve already expanded beyond aesthetics into wellness, hormones, weight loss, and even primary care. What\u2019s your vision for Uptown over the next year?\u201d\n\n\u201cOn the podcast, you mentioned moving into a bigger location\u2014how soon do you see that happening?\u201d\n\n\u201cWhat are your top revenue or client growth goals for the next 6\u201312 months?\u201d\n\n3. Marketing & Lead Generation\n\n\u201cYou talked about the success of events like Tats and Tox. Which marketing channels are currently bringing in the most new clients\u2014events, referrals, or social media?\u201d\n\n\u201cAre you currently running paid ads (Google, Facebook, Instagram), or is most of your marketing organic?\u201d\n\n\u201cHow do you ensure that new leads who show interest but don\u2019t book right away get followed up with?\u201d\n\n\u201cDo you have an automated nurture system (email, SMS, or retargeting ads) in place to keep Uptown top-of-mind?\u201d\n\nQuick Value Add: \u201cOne trend we\u2019re seeing is that clinics who pair community events with targeted retargeting ads see a 30\u201350% increase in repeat bookings. Have you explored combining events with digital follow-ups yet?\u201d\n\n4. CRM, Systems & Tracking\n\n\u201cOn the podcast, you mentioned using Vagaro to track rebooking and retention. Do you feel it gives you all the reporting you need to measure KPIs like client lifetime value or revenue per service line?\u201d\n\n\u201cAre you using Vagaro strictly for booking, or also for marketing campaigns and automated reminders?\u201d\n\n\u201cDo you feel your team is consistently using the CRM the same way, or are there gaps where things slip through the cracks?\u201d\n\n\u201cHow do you currently measure success across different service lines (injectables vs. wellness vs. weight loss)?\u201d\n\n5. Client Retention & Experience\n\n\u201cYou\u2019ve built Uptown as a one-stop-shop where people can come for everything from facials to hormones. What retention strategies are working best right now to keep clients engaged across multiple services?\u201d\n\n\u201cDo you currently have a structured follow-up system\u2014for example, check-ins after a weight loss consult or reminders for wellness clients to rebook?\u201d\n\n\u201cAre you offering memberships or loyalty programs? If not, is that something you\u2019re considering?\u201d\n\n6. Overcoming Stigma & Education\n\n\u201cYou mentioned that education is at the core of how you\u2019ve grown Uptown and overcome the stigma around med spas. How are you incorporating education into your marketing\u2014social media, events, or consultations?\u201d\n\n\u201cDo you feel that your educational approach is converting prospects into long-term clients, or do you see opportunities to strengthen that pipeline?\u201d\n\n7. Scaling & Expansion\n\n\u201cYou mentioned that you avoid loans and grow strictly from reinvested revenue\u2014that\u2019s impressive. How do you prioritize what to invest in next (like the laser hair removal you mentioned)?\u201d\n\n\u201cIf space wasn\u2019t an issue, what\u2019s the next big growth step you\u2019d want to take\u2014new services, more providers, or a second location?\u201d\n\n\u201cAs you expand, what are the biggest bottlenecks you\u2019re anticipating\u2014marketing, staffing, or operations?\u201d\n\n8. Position Next Step / Sales Call\n\n\u201cRather than try to solve everything on this call, I\u2019d love to set up a follow-up session where I can present tailored strategies for Uptown. We\u2019d look at:\n\nhow to optimize Vagaro or your CRM for marketing and follow-up,\n\nways to amplify your events with ads and automation, and\n\na roadmap to increase client retention across all service lines.\u201d\n\n\u201cWould [Day/Time] work for that deeper dive?\u201d\n\nPlease write in English language."
+          ]
+        },
+        "create_time": 1756842944.638,
+        "id": "72c248b3-eb05-4689-b362-f27695815438",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "16c9be92-42ae-4bc7-8276-4792ff3237ee"
+    },
+    "7ef31ba7-886b-4b86-af9e-40da73b1cd64": {
+      "id": "7ef31ba7-886b-4b86-af9e-40da73b1cd64",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Got it \u2705 I\u2019ll merge the **general discovery framework** (metrics, pain points, outcomes, competition, urgency) with your **Uptown Med Spa\u2013specific script** so it flows naturally. The result is a professional, conversational script you can follow on calls while still gathering the key data you need.  \n\n---\n\n# Discovery Call Script \u2013 Uptown Med Spa & Wellness  \n\n### 1. Warm Introduction & Podcast Reference  \n\u201cHi Jessica, I really enjoyed your episode on *The Aesthetic Edge*. What stood out to me was how you all recognized that having separate businesses was confusing to the public\u2014and made the smart move to come together under one brand. That was a powerful decision.\u201d  \n\n\u201cToday, my goal is to build on what you shared in the podcast, learn more about how Uptown is growing, and understand your top priorities for the next 6\u201312 months. I\u2019ll also share a couple of quick ideas based on what\u2019s working for other med spas. If it makes sense, we can then schedule another call where I\u2019ll present some tailored strategies for marketing, client retention, and scaling. Does that sound good?\u201d  \n\n---\n\n### 2. Vision & Growth Goals  \n- \u201cYou\u2019ve already expanded beyond aesthetics into wellness, hormones, weight loss, and even primary care. What\u2019s your vision for Uptown over the next year?\u201d  \n- \u201cOn the podcast, you mentioned moving into a bigger location\u2014how soon do you see that happening?\u201d  \n- \u201cWhat are your top revenue or client growth goals for the next 6\u201312 months?\u201d  \n\n*(Insert metrics framework here)*  \n- \u201cTo help me understand your growth capacity, could you walk me through your current numbers?\u201d  \n  - Monthly website visitors  \n  - Conversion rate  \n  - Average client spend  \n  - Monthly revenue  \n  - Customer acquisition cost  \n  - Lifetime value  \n  - Churn rate  \n\n---\n\n### 3. Marketing & Lead Generation  \n- \u201cYou talked about the success of events like Tats and Tox. Which marketing channels are currently bringing in the most new clients\u2014events, referrals, or social media?\u201d  \n- \u201cAre you currently running paid ads (Google, Facebook, Instagram), or is most of your marketing organic?\u201d  \n- \u201cHow do you ensure that new leads who show interest but don\u2019t book right away get followed up with?\u201d  \n- \u201cDo you have an automated nurture system (email, SMS, or retargeting ads) in place to keep Uptown top-of-mind?\u201d  \n\n\ud83d\udca1 Quick Value Add: \u201cOne trend we\u2019re seeing is that clinics who pair community events with targeted retargeting ads see a 30\u201350% increase in repeat bookings. Have you explored combining events with digital follow-ups yet?\u201d  \n\n---\n\n### 4. CRM, Systems & Tracking  \n- \u201cOn the podcast, you mentioned using Vagaro to track rebooking and retention. Do you feel it gives you all the reporting you need to measure KPIs like client lifetime value or revenue per service line?\u201d  \n- \u201cAre you using Vagaro strictly for booking, or also for marketing campaigns and automated reminders?\u201d  \n- \u201cDo you feel your team is consistently using the CRM the same way, or are there gaps where things slip through the cracks?\u201d  \n- \u201cHow do you currently measure success across different service lines (injectables vs. wellness vs. weight loss)?\u201d  \n\n*(Insert pain point discovery here)*  \n- \u201cWhat\u2019s the biggest challenge you\u2019re running into with systems or operations right now?\u201d  \n- \u201cHow long has this been a problem?\u201d  \n- \u201cWhat have you already tried to solve it, and why do you think those approaches didn\u2019t work?\u201d  \n\n---\n\n### 5. Client Retention & Experience  \n- \u201cYou\u2019ve built Uptown as a one-stop-shop where people can come for everything from facials to hormones. What retention strategies are working best right now to keep clients engaged across multiple services?\u201d  \n- \u201cDo you currently have a structured follow-up system\u2014for example, check-ins after a weight loss consult or reminders for wellness clients to rebook?\u201d  \n- \u201cAre you offering memberships or loyalty programs? If not, is that something you\u2019re considering?\u201d  \n\n*(Insert desired outcome framework here)*  \n- \u201cIf you could wave a magic wand, what would client retention and rebooking look like 6\u201312 months from now?\u201d  \n\n---\n\n### 6. Overcoming Stigma & Education  \n- \u201cYou mentioned that education is at the core of how you\u2019ve grown Uptown and overcome the stigma around med spas. How are you incorporating education into your marketing\u2014social media, events, or consultations?\u201d  \n- \u201cDo you feel that your educational approach is converting prospects into long-term clients, or do you see opportunities to strengthen that pipeline?\u201d  \n\n---\n\n### 7. Scaling & Expansion  \n- \u201cYou mentioned that you avoid loans and grow strictly from reinvested revenue\u2014that\u2019s impressive. How do you prioritize what to invest in next (like the laser hair removal you mentioned)?\u201d  \n- \u201cIf space wasn\u2019t an issue, what\u2019s the next big growth step you\u2019d want to take\u2014new services, more providers, or a second location?\u201d  \n- \u201cAs you expand, what are the biggest bottlenecks you\u2019re anticipating\u2014marketing, staffing, or operations?\u201d  \n\n*(Insert competition + industry framework here)*  \n- \u201cWho do you see as your main competitors right now, and what advantages do they have?\u201d  \n- \u201cAre there any industry shifts or trends that are creating pressure\u2014or opportunity\u2014for Uptown?\u201d  \n\n---\n\n### 8. Urgency & Next Steps  \n- \u201cWhy is solving these challenges important to you right now?\u201d  \n- \u201cWhat would happen if you didn\u2019t address them in the next 6\u201312 months?\u201d  \n- \u201cRather than try to solve everything on this call, I\u2019d love to set up a follow-up session where I can present tailored strategies for Uptown. We\u2019d look at:  \n   - how to optimize Vagaro or your CRM for marketing and follow-up,  \n   - ways to amplify your events with ads and automation, and  \n   - a roadmap to increase client retention across all service lines.\u201d  \n\n\u201cWould [Day/Time] work for that deeper dive?\u201d  \n\n---\n\n\ud83d\udc49 This merged script keeps your **personalized Uptown context** but layers in the **structured discovery elements** (metrics, pain points, past attempts, goals, competition, urgency). It flows like a natural conversation while still hitting every data point you need.  \n\n---\n\nDo you want me to also **make a shorter \u201clite\u201d version** of this script (like a 10\u201312 question flow you can use in quick calls), or do you prefer keeping this full-length version for deeper strategy sessions?"
+          ]
+        },
+        "create_time": 1756842945.004962,
+        "id": "7ef31ba7-886b-4b86-af9e-40da73b1cd64",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "72c248b3-eb05-4689-b362-f27695815438"
+        }
+      },
+      "parent": "72c248b3-eb05-4689-b362-f27695815438"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "eb1c34d3-78cd-4fb1-aa11-1dbfb1a68d48": {
+      "id": "eb1c34d3-78cd-4fb1-aa11-1dbfb1a68d48",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "file-service://file-7rHsW3L7Cs2kXttjbi3F4w",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 709,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 162950,
+              "width": 694
+            },
+            {
+              "asset_pointer": "file-service://file-F36A9UZEeRqozcEK19LpeF",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 698,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 172943,
+              "width": 643
+            },
+            "  \n\nPlease write in English language."
+          ]
+        },
+        "create_time": 1756842882.484,
+        "id": "eb1c34d3-78cd-4fb1-aa11-1dbfb1a68d48",
+        "metadata": {
+          "attachments": [
+            {
+              "height": 709,
+              "id": "file-7rHsW3L7Cs2kXttjbi3F4w",
+              "mime_type": "image/png",
+              "name": "772ab09c-9141-4633-8014-6c867c20ff14.png",
+              "size": 162950,
+              "width": 694
+            },
+            {
+              "height": 698,
+              "id": "file-F36A9UZEeRqozcEK19LpeF",
+              "mime_type": "image/png",
+              "name": "6540a3c1-99d7-4ab1-9a35-89ad54453162.png",
+              "size": 172943,
+              "width": 643
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "fe7a0451-b7fd-405f-870c-d3e958a069ac"
+    },
+    "fe7a0451-b7fd-405f-870c-d3e958a069ac": {
+      "id": "fe7a0451-b7fd-405f-870c-d3e958a069ac",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "I tried to open your Google Doc but ran into a little snag\u2014it seems that JavaScript isn\u2019t enabled in the browser tool, so the content can't be accessed directly. Could you share the text you\u2019d like transformed (either by pasting it here or summarizing it)? That way I can take your existing content and craft it into a polished, effective discovery call questionnaire script.\n\nJust include the key questions or ideas\u2014along with any images descriptions, tone cues, or stylistic preferences\u2014and I\u2019ll turn them into a structured script that flows naturally in English."
+          ]
+        },
+        "create_time": 1756842755.711903,
+        "id": "fe7a0451-b7fd-405f-870c-d3e958a069ac",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "",
+              "has_images": false,
+              "prompt_text": null,
+              "sources": [],
+              "type": "sources_footnote"
+            }
+          ],
+          "model_slug": "gpt-5",
+          "parent_id": "c930d4ab-e1c7-464d-b175-5757e4b3d183"
+        }
+      },
+      "parent": "1f458c0d-c98c-424f-a563-959d26127228"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Discovery call script request",
+  "update_time": 1756842990.357287,
+  "voice": null
+}

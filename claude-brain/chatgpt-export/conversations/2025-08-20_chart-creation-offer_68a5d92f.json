@@ -1,0 +1,1384 @@
+{
+  "conversation_id": "68a5d92f-24f4-8328-807d-2df25ff0b433",
+  "conversation_template_id": null,
+  "create_time": 1755699504.310114,
+  "current_node": "6382778d-b6a6-44ad-98af-732ac33293bf",
+  "default_model_slug": "auto",
+  "id": "68a5d92f-24f4-8328-807d-2df25ff0b433",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "076894b3-181d-4567-b4e3-932ee46894c4": {
+      "id": "076894b3-181d-4567-b4e3-932ee46894c4",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Perfect \ud83d\udc4d Here\u2019s your updated **AgeJET Introductory Pricing** table laid out clearly with the new numbers:  \n\n---\n\n# **AgeJET Introductory Pricing**\n\n| **Treatment Area**   | **Single Session Price** | **3 Session Package Price** | **Savings** |\n|-----------------------|---------------------------|-----------------------------|-------------|\n| Full Face             | $1,500                   | $4,000                      | $500        |\n| Neck                  | $800                     | $2,040                      | $360        |\n| Eyes                  | $800                     | $2,040                      | $360        |\n| Full Face & Neck      | $2,000                   | $5,250                      | $750        |\n| Abdomen               | $1,000                   | $2,550                      | $450        |\n| Body Zone             | $600                     | $1,530                      | $270        |\n| Intimate              | $500                     | $1,275                      | $225        |\n\n\u2728 *Interested in a payment plan? Get started with zero dollars down and a monthly payment that fits your budget.*  \n\n---\n\nWould you like me to also **format this into a polished PDF one-pager** (like your original chart) so it\u2019s client-ready?"
+          ]
+        },
+        "create_time": 1755711765.439785,
+        "id": "076894b3-181d-4567-b4e3-932ee46894c4",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "9181a4fa-95f1-43d9-a46d-8ddc85fe5dd3"
+        }
+      },
+      "parent": "9181a4fa-95f1-43d9-a46d-8ddc85fe5dd3"
+    },
+    "18cc0b41-fc74-4d32-ae05-838edba87de8": {
+      "id": "18cc0b41-fc74-4d32-ae05-838edba87de8",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "turn these new numbers into a chart like the one i uploaded: AgeJET Introductory Pricing \r\n\r\nTreatment Area\r\n\r\n\r\nSingle Session Price \r\n3 Session \r\n\r\n\r\n\r\n\r\nPackage Price (15% discount) \r\nSavings \r\n\r\nFull Face $1500 $4000 $500 \r\nNeck $800 $2040 $360 \r\nEyes $800 $2040 $360 \r\nFull Face & Neck $2000 $5250 $750 \r\nAbdomen $1000 $2550 $450 \r\nBody Zone $600 $1530 $270 \r\n\r\nIntimate $500 $1275 $225 \r\nInterested in a payment plan? Get started with zero dollars down and a monthly payment that fits your budget.\r\n\nPlease write in English language."
+          ]
+        },
+        "create_time": 1755699503.14,
+        "id": "18cc0b41-fc74-4d32-ae05-838edba87de8",
+        "metadata": {
+          "attachments": [
+            {
+              "file_token_size": 136,
+              "id": "file-7PKgkcF4C4NdWe5JZJmdab",
+              "mime_type": "application/pdf",
+              "name": "AgeJET Introductory Pricing (1).pdf",
+              "size": 56315
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "257d3ae8-1ac1-41c5-b9ed-7c9d4f061cc4": {
+      "id": "257d3ae8-1ac1-41c5-b9ed-7c9d4f061cc4",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "create me a list of most common Q & A for hormone replacement, peptides and weightloss injections\n\nPlease write in English language."
+          ]
+        },
+        "create_time": 1755712947.29,
+        "id": "257d3ae8-1ac1-41c5-b9ed-7c9d4f061cc4",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "8bf9b737-878c-41c6-a0ee-507f18d14fec"
+    },
+    "6382778d-b6a6-44ad-98af-732ac33293bf": {
+      "id": "6382778d-b6a6-44ad-98af-732ac33293bf",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a well-organized list of **peptide injections currently available on the market**, covering:\n\n1. **FDA-approved therapeutic peptides**  \n2. **Commonly used peptides in clinics, spas, or compounding pharmacies**  \n3. **Emerging or research-status peptides frequently discussed in biohacker circles**\n\n---\n\n## 1. FDA-Approved Peptide Injections\n\nThese peptides are approved by regulatory agencies like the FDA for specific medical uses:\n\n- **Semaglutide** (GLP-1 agonist) \u2013 Used for type 2 diabetes (Ozempic, Rybelsus) and weight management (Wegovy) \ue200cite\ue202turn0search17\ue201.  \n- **Liraglutide** (GLP-1 agonist) \u2013 Used for diabetes (Victoza) and chronic obesity management (Saxenda) \ue200cite\ue202turn0search19\ue201.  \n- **Tirzepatide** (dual GIP & GLP-1 agonist) \u2013 Marketed as Mounjaro (diabetes) and Zepbound (weight loss) \ue200cite\ue202turn0search21\ue202turn0news11\ue202turn0news15\ue201.  \n- **Exenatide, Lixisenatide, Albiglutide, Dulaglutide** \u2013 GLP-1 receptor agonists approved primarily for Type 2 diabetes \ue200cite\ue202turn0search0\ue201.  \n- **Teduglutide** \u2013 For short bowel syndrome and malabsorption \ue200cite\ue202turn0search0\ue201.  \n- **Pramlintide** \u2013 Used in Type 1 and Type 2 diabetes \ue200cite\ue202turn0search0\ue201.  \n- **GnRH analogs:**  \n  - **Abarelix** and **Degarelix** \u2013 Used in prostate cancer \ue200cite\ue202turn0search0\ue201.  \n- **Teriparatide** (PTH1 receptor agonist) \u2013 Treats osteoporosis (Forteo, Bonsity) \ue200cite\ue202turn0search20\ue202turn0search0\ue201.  \n- **Abaloparatide** \u2013 Another PTH analog for osteoporosis \ue200cite\ue202turn0search0\ue201.  \n- **Setmelanotide** (MC4 receptor agonist) \u2013 Manages obesity due to rare genetic disorders \ue200cite\ue202turn0search0\ue201.  \n- **Other medically approved peptides:**  \n  - **Linaclotide**, **Plecanatide** \u2013 For constipation/IBS with constipation \ue200cite\ue202turn0search0\ue201.  \n  - **Nesiritide**, **Icatibant**, **Enfuvirtide**, **Ziconotide**, **Romiplostim**, **Aviptadil**, **Taltirelin**, **Bremelanotide**, **Etelcalcetide**, **Afamelanotide**, **Pasireotide**, **Lutetium Lu-177 dotatate** \u2013 Each has specific therapeutic targets across cardiology, endocrinology, pain, oncology, reproductive health, and more \ue200cite\ue202turn0search0\ue201.\n\n---\n\n## 2. Clinically Popular or Compounded Peptides\n\nThese are frequently used off-label or in wellness settings. Some are still approved, but many are supplied via compounding:\n\n- **Tesamorelin** (Egrifta) \u2013 Approved for HIV lipodystrophy \ue200cite\ue202turn0search1\ue202turn0search2\ue201.  \n- **Sermorelin** (Geref) \u2013 Originally approved for pediatric GH deficiency, now largely discontinued, occasionally used via compounding \ue200cite\ue202turn0search22\ue202turn0search1\ue201.  \n- **Macimorelin** (Macrilen) \u2013 Approved for diagnosing adult GH deficiency \ue200cite\ue202turn0search1\ue201.  \n- **Mecasermin** (Increlex) \u2013 IGF-1 replacement for growth failure in children \ue200cite\ue202turn0search1\ue202turn0search2\ue201.\n\n---\n\n## 3. Commonly Used (Often Off-Label or Research-Grade) Peptides\n\nOften used in anti-aging, recovery, body sculpting, and performance circles\u2014many are not FDA-approved for these purposes and may only be available via compounding:\n\n- **BPC-157** \u2013 Promotes tissue repair and healing \ue200cite\ue202turn0news13\ue202turn0reddit24\ue202turn0reddit33\ue201.  \n- **TB-500** (Thymosin Beta-4) \u2013 Enhances cell migration, healing, and flexibility \ue200cite\ue202turn0reddit24\ue202turn0reddit33\ue201.  \n- **CJC-1295** \u00b1 **Ipamorelin** \u2013 Growth hormone secretagogues for muscle growth, anti-aging, recovery \ue200cite\ue202turn0news13\ue202turn0reddit24\ue202turn0reddit33\ue202turn0reddit34\ue201.  \n- **GHRP-2**, **GHRP-6** \u2013 Stimulate GH release, used for anabolic/fat-loss effects \ue200cite\ue202turn0reddit24\ue202turn0reddit25\ue201.  \n- **IGF-1 LR3** \u2013 Promotes muscle growth and repair \ue200cite\ue202turn0reddit24\ue201.  \n- **HGH Fragment 176-191** \u2013 Targets fat oxidation, especially stubborn fat \ue200cite\ue202turn0reddit24\ue201.  \n- **Follistatin-344** \u2013 Inhibits myostatin, encouraging muscle growth \ue200cite\ue202turn0reddit24\ue201.  \n- **PT-141** (Bremelanotide) \u2013 FDA-approved for sexual desire disorder\u2014also used off-label \ue200cite\ue202turn0search0\ue202turn0reddit25\ue201.  \n- **AOD-9604** \u2013 An anti-obesity peptide derivative of HGH \ue200cite\ue202turn0reddit23\ue201.  \n- **MK-677** \u2013 Often mentioned as a GH stimulator (Ibutamoren) \ue200cite\ue202turn0reddit30\ue202turn0reddit23\ue201.  \n- **GHK-Cu**, **Epitalon**, **Melanotan II**, **Thymosin Alpha-1**, **GHK-Cu (injectable)**, **Selank**, **Semax**, **Frag**, **DSIP**, **Kisspeptin** \u2013 Widely discussed for skin/healing/longevity effects, though compounding availability is increasingly restricted \ue200cite\ue202turn0reddit30\ue202turn0reddit33\ue201.\n\n---\n\n###  Summary Table\n\n| **Category**                     | **Examples of Peptides**                                                                                                                                 |\n|----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|\n| **FDA-approved therapeutic**     | Semaglutide, Liraglutide, Tirzepatide, Exenatide, Teriparatide, Setmelanotide, etc.                                                                     |\n| **Clinically popular/compounded**| Tesamorelin, Sermorelin, Macimorelin, Mecasermin                                                                                                        |\n| **Research/Wellness use**        | BPC-157, TB-500, CJC-1295, Ipamorelin, GHRP-2/6, IGF-1 LR3, Follistatin-344, PT-141, AOD-9604, MK-677, GHK-Cu, Epitalon, etc.                            |\n\n---\n\n###  Note on Regulation & Safety\n\nMany peptides widely circulated online are labeled \"for research use only\" and aren't FDA-approved for human use. Access via compounding pharmacies is increasingly restricted\u2014some peptides like BPC-157, CJC-1295, and Ipamorelin are now limited or banned \ue200cite\ue202turn0reddit30\ue201. Always consult a qualified provider before using any peptide therapy.\n\n---\n\nLet me know if you'd like to dive deeper into any specific peptide (e.g., mechanisms, benefits, legal status), or if you'd like this formatted into a client handout or educational sheet!"
+          ]
+        },
+        "create_time": 1755713095.833048,
+        "id": "6382778d-b6a6-44ad-98af-732ac33293bf",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "([Wikipedia](https://en.wikipedia.org/wiki/Semaglutide?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Wikipedia",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1755581316.0,
+                  "refs": [
+                    {
+                      "ref_index": 17,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [],
+                  "title": "Semaglutide",
+                  "url": "https://en.wikipedia.org/wiki/Semaglutide?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Wikipedia](https://en.wikipedia.org/wiki/Liraglutide?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Wikipedia",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1755696962.0,
+                  "refs": [
+                    {
+                      "ref_index": 19,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [],
+                  "title": "Liraglutide",
+                  "url": "https://en.wikipedia.org/wiki/Liraglutide?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Wikipedia](https://en.wikipedia.org/wiki/Tirzepatide?utm_source=chatgpt.com), [Health](https://www.health.com/peptides-for-weight-loss-8681712?utm_source=chatgpt.com), [AP News](https://apnews.com/article/9718480e110eace3e91e0a2bcdc5e536?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Wikipedia",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1755536689.0,
+                  "refs": [
+                    {
+                      "ref_index": 21,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [],
+                  "title": "Tirzepatide",
+                  "url": "https://en.wikipedia.org/wiki/Tirzepatide?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Health",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1722974400.0,
+                  "refs": [
+                    {
+                      "ref_index": 11,
+                      "ref_type": "news",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Peptide medications such as Wegovy, Saxenda, and Zepbound, initially developed to manage type 2 diabetes, are now effectively used for weight loss. These drugs mimic natural peptides (GLP-1 and GIP hormones) to reduce appetite and control cravings. Wegovy (semaglutide) and Saxenda (liraglutide) are GLP-1 receptor agonists, slowing digestion and inducing a feeling of fullness. Zepbound (tirzepatide) combines GLP-1 and GIP receptor agonism, further enhancing weight loss effects. These medications require a prescription and are approved for individuals with a BMI of 30 or higher, or 27 with related health conditions, and adolescents with obesity. They are most effective when combined with diet and exercise. Despite their benefits, these medications can be expensive, may not be covered by insurance, and can cause side effects. Compounded versions are available due to high demand, but they come with safety concerns. It's important that patients consult healthcare providers before using these medications.",
+                  "supporting_websites": [],
+                  "title": "How Peptides for Weight Loss Work: What You Should Know",
+                  "url": "https://www.health.com/peptides-for-weight-loss-8681712?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "AP News",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1699466052.0,
+                  "refs": [
+                    {
+                      "ref_index": 15,
+                      "ref_type": "news",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "The FDA has approved a new version of the diabetes drug Mounjaro, named Zepbound, for weight loss. Zepbound, also known as tirzepatide, has shown to help users lose 40 to 60 pounds in testing. The drug is approved for adults with a body mass index (BMI) of 30 or higher or those who are overweight with related health conditions. It should be used alongside a reduced-calorie diet and regular exercise. Studies demonstrated significant weight loss among participants, even higher than previous weight-loss drugs like Wegovy. However, side effects include gastrointestinal issues, and about 10% of participants dropped out due to these effects. Despite the approval, access may be limited due to insurance coverage issues, and the cost is projected at around $1,000 monthly. The drug is expected to be available in the U.S. by the end of the year, with some concerns about availability due to high demand.",
+                  "supporting_websites": [],
+                  "title": "FDA approves new version of diabetes drug Mounjaro for weight loss",
+                  "url": "https://apnews.com/article/9718480e110eace3e91e0a2bcdc5e536?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8844085/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "PMC",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [],
+                  "title": "Therapeutic peptides: current applications and future directions - PMC",
+                  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8844085/?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8844085/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "PMC",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [],
+                  "title": "Therapeutic peptides: current applications and future directions - PMC",
+                  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8844085/?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8844085/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "PMC",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [],
+                  "title": "Therapeutic peptides: current applications and future directions - PMC",
+                  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8844085/?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8844085/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "PMC",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [],
+                  "title": "Therapeutic peptides: current applications and future directions - PMC",
+                  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8844085/?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Wikipedia](https://en.wikipedia.org/wiki/Teriparatide?utm_source=chatgpt.com), [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8844085/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Wikipedia",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1748557227.0,
+                  "refs": [
+                    {
+                      "ref_index": 20,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [],
+                  "title": "Teriparatide",
+                  "url": "https://en.wikipedia.org/wiki/Teriparatide?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "PMC",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [],
+                  "title": "Therapeutic peptides: current applications and future directions - PMC",
+                  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8844085/?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8844085/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "PMC",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [],
+                  "title": "Therapeutic peptides: current applications and future directions - PMC",
+                  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8844085/?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8844085/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "PMC",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [],
+                  "title": "Therapeutic peptides: current applications and future directions - PMC",
+                  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8844085/?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8844085/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "PMC",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [],
+                  "title": "Therapeutic peptides: current applications and future directions - PMC",
+                  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8844085/?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8844085/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "PMC",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [],
+                  "title": "Therapeutic peptides: current applications and future directions - PMC",
+                  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8844085/?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10968328/?utm_source=chatgpt.com), [whatsteroids.com](https://www.whatsteroids.com/steroids/list-of-fda-approved-peptides/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "NCBI",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 1,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [],
+                  "title": "Exploring FDA-Approved Frontiers: Insights into Natural and Engineered Peptide Analogues in the GLP-1, GIP, GHRH, CCK, ACTH, and \u03b1-MSH Realms - PMC",
+                  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10968328/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "whatsteroids.com",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 2,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [],
+                  "title": "List of FDA-Approved Peptides - What Steroids Blog",
+                  "url": "https://www.whatsteroids.com/steroids/list-of-fda-approved-peptides/?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Wikipedia](https://en.wikipedia.org/wiki/Sermorelin?utm_source=chatgpt.com), [NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10968328/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Wikipedia",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1752324411.0,
+                  "refs": [
+                    {
+                      "ref_index": 22,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [],
+                  "title": "Sermorelin",
+                  "url": "https://en.wikipedia.org/wiki/Sermorelin?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "NCBI",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 1,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [],
+                  "title": "Exploring FDA-Approved Frontiers: Insights into Natural and Engineered Peptide Analogues in the GLP-1, GIP, GHRH, CCK, ACTH, and \u03b1-MSH Realms - PMC",
+                  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10968328/?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10968328/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "NCBI",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 1,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [],
+                  "title": "Exploring FDA-Approved Frontiers: Insights into Natural and Engineered Peptide Analogues in the GLP-1, GIP, GHRH, CCK, ACTH, and \u03b1-MSH Realms - PMC",
+                  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10968328/?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10968328/?utm_source=chatgpt.com), [whatsteroids.com](https://www.whatsteroids.com/steroids/list-of-fda-approved-peptides/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "NCBI",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 1,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [],
+                  "title": "Exploring FDA-Approved Frontiers: Insights into Natural and Engineered Peptide Analogues in the GLP-1, GIP, GHRH, CCK, ACTH, and \u03b1-MSH Realms - PMC",
+                  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10968328/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "whatsteroids.com",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 2,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [],
+                  "title": "List of FDA-Approved Peptides - What Steroids Blog",
+                  "url": "https://www.whatsteroids.com/steroids/list-of-fda-approved-peptides/?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Business Insider](https://www.businessinsider.com/peptide-shots-popular-for-anti-aging-muscle-building-weight-loss-2025-7?utm_source=chatgpt.com), [Reddit](https://www.reddit.com/r/PeptideGuide/comments/1iu7fm0?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Business Insider",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1753523101.0,
+                  "refs": [
+                    {
+                      "ref_index": 13,
+                      "ref_type": "news",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Peptide injections, long favored by biohackers and longevity enthusiasts, are rapidly gaining mainstream popularity among individuals seeking muscle growth, fat loss, and anti-aging effects. These injections, typically delivered at clinics, med spas, or bought online, include molecules like BPC-157 (dubbed the \"Wolverine shot\"), tesamorelin, and CJC-1295, which purportedly reduce inflammation, support recovery, stimulate growth hormone, and enhance muscle gain. While peptides are chains of amino acids that mimic natural bodily processes and are marketed as safer and more \"natural\" alternatives to steroids or growth hormones, scientific evidence backing their benefits remains sparse.\n\nDespite anecdotal success stories and growing demand in affluent areas like Beverly Hills and Manhattan, experts warn about potential risks, lack of regulation, and quality concerns\u2014especially with peptides sold \"for research only.\" The FDA is tightening restrictions, listing more peptides each year that shouldn't be compounded due to safety concerns. Physicians urge caution, stressing the importance of sourcing peptides from reliable vendors, using low doses, and not relying solely on hype. They also highlight that proven methods for longevity and wellness\u2014such as balanced diets, strength training, and reducing sugar\u2014remain more evidence-based alternatives.",
+                  "supporting_websites": [],
+                  "title": "The under-the-radar injections people are taking to build muscle this summer &mdash; including the 'Wolverine' shot",
+                  "url": "https://www.businessinsider.com/peptide-shots-popular-for-anti-aging-muscle-building-weight-loss-2025-7?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Reddit",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1740080761.592,
+                  "refs": [
+                    {
+                      "ref_index": 24,
+                      "ref_type": "reddit",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 33,
+                      "ref_type": "reddit",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [
+                    {
+                      "attribution": "Reddit",
+                      "pub_date": 1743106553.497,
+                      "snippet": "",
+                      "title": "The Ultimate Peptide Stack for Skin, Hair & Anti-Aging \u2013 Anyone Tried This?",
+                      "url": "https://www.reddit.com/r/BodyHackGuide/comments/1jlcfu0?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Top 10 Peptides for Bodybuilding: Mechanisms, Benefits, and Dosing Guidelines",
+                  "url": "https://www.reddit.com/r/PeptideGuide/comments/1iu7fm0?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Reddit](https://www.reddit.com/r/PeptideGuide/comments/1iu7fm0?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Reddit",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1740080761.592,
+                  "refs": [
+                    {
+                      "ref_index": 24,
+                      "ref_type": "reddit",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 33,
+                      "ref_type": "reddit",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [
+                    {
+                      "attribution": "Reddit",
+                      "pub_date": 1743106553.497,
+                      "snippet": "",
+                      "title": "The Ultimate Peptide Stack for Skin, Hair & Anti-Aging \u2013 Anyone Tried This?",
+                      "url": "https://www.reddit.com/r/BodyHackGuide/comments/1jlcfu0?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Top 10 Peptides for Bodybuilding: Mechanisms, Benefits, and Dosing Guidelines",
+                  "url": "https://www.reddit.com/r/PeptideGuide/comments/1iu7fm0?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Business Insider](https://www.businessinsider.com/peptide-shots-popular-for-anti-aging-muscle-building-weight-loss-2025-7?utm_source=chatgpt.com), [Reddit](https://www.reddit.com/r/PeptideGuide/comments/1iu7fm0?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Business Insider",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1753523101.0,
+                  "refs": [
+                    {
+                      "ref_index": 13,
+                      "ref_type": "news",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Peptide injections, long favored by biohackers and longevity enthusiasts, are rapidly gaining mainstream popularity among individuals seeking muscle growth, fat loss, and anti-aging effects. These injections, typically delivered at clinics, med spas, or bought online, include molecules like BPC-157 (dubbed the \"Wolverine shot\"), tesamorelin, and CJC-1295, which purportedly reduce inflammation, support recovery, stimulate growth hormone, and enhance muscle gain. While peptides are chains of amino acids that mimic natural bodily processes and are marketed as safer and more \"natural\" alternatives to steroids or growth hormones, scientific evidence backing their benefits remains sparse.\n\nDespite anecdotal success stories and growing demand in affluent areas like Beverly Hills and Manhattan, experts warn about potential risks, lack of regulation, and quality concerns\u2014especially with peptides sold \"for research only.\" The FDA is tightening restrictions, listing more peptides each year that shouldn't be compounded due to safety concerns. Physicians urge caution, stressing the importance of sourcing peptides from reliable vendors, using low doses, and not relying solely on hype. They also highlight that proven methods for longevity and wellness\u2014such as balanced diets, strength training, and reducing sugar\u2014remain more evidence-based alternatives.",
+                  "supporting_websites": [],
+                  "title": "The under-the-radar injections people are taking to build muscle this summer &mdash; including the 'Wolverine' shot",
+                  "url": "https://www.businessinsider.com/peptide-shots-popular-for-anti-aging-muscle-building-weight-loss-2025-7?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Reddit",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1740080761.592,
+                  "refs": [
+                    {
+                      "ref_index": 24,
+                      "ref_type": "reddit",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 33,
+                      "ref_type": "reddit",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 34,
+                      "ref_type": "reddit",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [
+                    {
+                      "attribution": "Reddit",
+                      "pub_date": 1743106553.497,
+                      "snippet": "",
+                      "title": "The Ultimate Peptide Stack for Skin, Hair & Anti-Aging \u2013 Anyone Tried This?",
+                      "url": "https://www.reddit.com/r/BodyHackGuide/comments/1jlcfu0?utm_source=chatgpt.com"
+                    },
+                    {
+                      "attribution": "Reddit",
+                      "pub_date": 1741131102.148,
+                      "snippet": "",
+                      "title": "Lets talk peptides... Which ones do you use and what for, which ones would you like to use and what for and what do you think of the ones you use?",
+                      "url": "https://www.reddit.com/r/30PlusSkinCare/comments/1j3ozao?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Top 10 Peptides for Bodybuilding: Mechanisms, Benefits, and Dosing Guidelines",
+                  "url": "https://www.reddit.com/r/PeptideGuide/comments/1iu7fm0?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Reddit](https://www.reddit.com/r/PeptideGuide/comments/1iu7fm0?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Reddit",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1740080761.592,
+                  "refs": [
+                    {
+                      "ref_index": 24,
+                      "ref_type": "reddit",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 25,
+                      "ref_type": "reddit",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [
+                    {
+                      "attribution": "Reddit",
+                      "pub_date": 1687645037.684,
+                      "snippet": "",
+                      "title": "Top 10 Peptides and Their Use Cases: A Comprehensive Overview",
+                      "url": "https://www.reddit.com/r/SarmsPeptidesPCTSale/comments/14i59rf?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Top 10 Peptides for Bodybuilding: Mechanisms, Benefits, and Dosing Guidelines",
+                  "url": "https://www.reddit.com/r/PeptideGuide/comments/1iu7fm0?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Reddit](https://www.reddit.com/r/PeptideGuide/comments/1iu7fm0?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Reddit",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1740080761.592,
+                  "refs": [
+                    {
+                      "ref_index": 24,
+                      "ref_type": "reddit",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [],
+                  "title": "Top 10 Peptides for Bodybuilding: Mechanisms, Benefits, and Dosing Guidelines",
+                  "url": "https://www.reddit.com/r/PeptideGuide/comments/1iu7fm0?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Reddit](https://www.reddit.com/r/PeptideGuide/comments/1iu7fm0?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Reddit",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1740080761.592,
+                  "refs": [
+                    {
+                      "ref_index": 24,
+                      "ref_type": "reddit",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [],
+                  "title": "Top 10 Peptides for Bodybuilding: Mechanisms, Benefits, and Dosing Guidelines",
+                  "url": "https://www.reddit.com/r/PeptideGuide/comments/1iu7fm0?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Reddit](https://www.reddit.com/r/PeptideGuide/comments/1iu7fm0?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Reddit",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1740080761.592,
+                  "refs": [
+                    {
+                      "ref_index": 24,
+                      "ref_type": "reddit",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [],
+                  "title": "Top 10 Peptides for Bodybuilding: Mechanisms, Benefits, and Dosing Guidelines",
+                  "url": "https://www.reddit.com/r/PeptideGuide/comments/1iu7fm0?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8844085/?utm_source=chatgpt.com), [Reddit](https://www.reddit.com/r/SarmsPeptidesPCTSale/comments/14i59rf?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "PMC",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [],
+                  "title": "Therapeutic peptides: current applications and future directions - PMC",
+                  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8844085/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Reddit",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1687645037.684,
+                  "refs": [
+                    {
+                      "ref_index": 25,
+                      "ref_type": "reddit",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [],
+                  "title": "Top 10 Peptides and Their Use Cases: A Comprehensive Overview",
+                  "url": "https://www.reddit.com/r/SarmsPeptidesPCTSale/comments/14i59rf?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Reddit](https://www.reddit.com/r/PeptideGuide/comments/17zhoim?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Reddit",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1700459603.166,
+                  "refs": [
+                    {
+                      "ref_index": 23,
+                      "ref_type": "reddit",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [],
+                  "title": "Latest News in the World of Peptides",
+                  "url": "https://www.reddit.com/r/PeptideGuide/comments/17zhoim?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Reddit](https://www.reddit.com/r/Peptides/comments/17h9ayx?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Reddit",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1698361358.826,
+                  "refs": [
+                    {
+                      "ref_index": 30,
+                      "ref_type": "reddit",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 23,
+                      "ref_type": "reddit",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [
+                    {
+                      "attribution": "Reddit",
+                      "pub_date": 1700459603.166,
+                      "snippet": "",
+                      "title": "Latest News in the World of Peptides",
+                      "url": "https://www.reddit.com/r/PeptideGuide/comments/17zhoim?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "FDA change for compounding pharmacies?",
+                  "url": "https://www.reddit.com/r/Peptides/comments/17h9ayx?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Reddit](https://www.reddit.com/r/Peptides/comments/17h9ayx?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Reddit",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1698361358.826,
+                  "refs": [
+                    {
+                      "ref_index": 30,
+                      "ref_type": "reddit",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 33,
+                      "ref_type": "reddit",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [
+                    {
+                      "attribution": "Reddit",
+                      "pub_date": 1743106553.497,
+                      "snippet": "",
+                      "title": "The Ultimate Peptide Stack for Skin, Hair & Anti-Aging \u2013 Anyone Tried This?",
+                      "url": "https://www.reddit.com/r/BodyHackGuide/comments/1jlcfu0?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "FDA change for compounding pharmacies?",
+                  "url": "https://www.reddit.com/r/Peptides/comments/17h9ayx?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Reddit](https://www.reddit.com/r/Peptides/comments/17h9ayx?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Reddit",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1698361358.826,
+                  "refs": [
+                    {
+                      "ref_index": 30,
+                      "ref_type": "reddit",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [],
+                  "title": "FDA change for compounding pharmacies?",
+                  "url": "https://www.reddit.com/r/Peptides/comments/17h9ayx?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "Wikipedia",
+                  "title": "Semaglutide",
+                  "url": "https://en.wikipedia.org/wiki/Semaglutide?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Health",
+                  "title": "How Peptides for Weight Loss Work: What You Should Know",
+                  "url": "https://www.health.com/peptides-for-weight-loss-8681712?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "AP News",
+                  "title": "FDA approves new version of diabetes drug Mounjaro for weight loss",
+                  "url": "https://apnews.com/article/9718480e110eace3e91e0a2bcdc5e536?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "PMC",
+                  "title": "Therapeutic peptides: current applications and future directions - PMC",
+                  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8844085/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "NCBI",
+                  "title": "Exploring FDA-Approved Frontiers: Insights into Natural and Engineered Peptide Analogues in the GLP-1, GIP, GHRH, CCK, ACTH, and \u03b1-MSH Realms - PMC",
+                  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10968328/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "whatsteroids.com",
+                  "title": "List of FDA-Approved Peptides - What Steroids Blog",
+                  "url": "https://www.whatsteroids.com/steroids/list-of-fda-approved-peptides/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Business Insider",
+                  "title": "The under-the-radar injections people are taking to build muscle this summer &mdash; including the 'Wolverine' shot",
+                  "url": "https://www.businessinsider.com/peptide-shots-popular-for-anti-aging-muscle-building-weight-loss-2025-7?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Reddit",
+                  "title": "Top 10 Peptides for Bodybuilding: Mechanisms, Benefits, and Dosing Guidelines",
+                  "url": "https://www.reddit.com/r/PeptideGuide/comments/1iu7fm0?utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "model_slug": "gpt-5",
+          "parent_id": "fc49bb84-c2e9-4d54-ac67-6da872f07e7b",
+          "search_result_groups": [
+            {
+              "domain": "nih.gov",
+              "entries": [
+                {
+                  "attribution": "nih.gov",
+                  "snippet": "6. OTHER DOSAGE FORMS  Progress has also been achieved with the approval of peptide products in many other dosage forms, including topical, sublingual, intratracheal, and implant delivery forms. The o...",
+                  "title": "Just How Prevalent are Peptide Therapeutic Products? A Critical Review - PMC",
+                  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10655677/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "creative-peptides.com",
+              "entries": [
+                {
+                  "attribution": "creative-peptides.com",
+                  "snippet": "The FDA\u2019s Center for Drug Evaluation and Research (CDER) regulatory approval of a total of 26 NME (New Molecular Entity) drugs in the first half of 2023. It is worth noting that the 26 drugs approved...",
+                  "title": "FDA Approved Peptide Drugs in the First Half of 2023",
+                  "url": "https://www.creative-peptides.com/blog/fda-approved-peptide-drugs-in-the-first-half-of-2023/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "newdrugapprovals.org",
+              "entries": [
+                {
+                  "attribution": "newdrugapprovals.org",
+                  "snippet": "Tirzepatide is a novel investigational once-weekly GIP (glucose-dependent insulinotropic polypeptide) receptor and GLP-1\u00a0(glucagon-like peptide-1)\u00a0receptor agonist, representing a new class of medicin...",
+                  "title": "Peptide drugs \u00ab New Drug Approvals",
+                  "url": "https://newdrugapprovals.org/category/peptide-drugs/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "glbrain.com",
+              "entries": [
+                {
+                  "attribution": "glbrain.com",
+                  "snippet": "Global  SWITCH COUNTRY  Global Afghanistan Aland Islands Albania Algeria American Samoa Andorra Angola Antigua And Barbuda Argentina Armenia Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Bar...",
+                  "title": "FDA Approved Peptide Drugs in the First Half of 2023 - Glopinion - GLBrain.com",
+                  "url": "https://www.glbrain.com/index.php?id=41184&r=content%2Fview&utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "fda.gov",
+              "entries": [
+                {
+                  "attribution": "fda.gov",
+                  "snippet": "* Skip to main content * Skip to FDA Search * Skip to in this section menu * Skip to footer links  ON THIS PAGE:  * Materials * Unapproved Dermal Fillers * Approved Dermal Fillers * Related Informatio...",
+                  "title": "FDA-Approved Dermal Fillers | FDA",
+                  "url": "https://www.fda.gov/medical-devices/aesthetic-cosmetic-devices/fda-approved-dermal-fillers?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "peptidehackers.com",
+              "entries": [
+                {
+                  "attribution": "peptidehackers.com",
+                  "snippet": "\u25a1  FDA Approved Peptides: Your Comprehensive Guide | Peptide Hack  This site has limited support for your browser. We recommend switching to Edge, Chrome, Safari, or Firefox.  Get 10% Off Your First P...",
+                  "title": "",
+                  "url": "https://peptidehackers.com/blogs/q-a/fda-approved-peptides-guide?srsltid=AfmBOorYPyQe_XUxzsTnKnndxyEEs33pE4hfCg1r6lJquABaATwDtGXt&utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "purdue.edu",
+              "entries": [
+                {
+                  "attribution": "purdue.edu",
+                  "snippet": "FDA APPROVALS | PEPTIDE REPORT ISSUE  Preamble  > Products regulated by the Food and Drug Administration comprise 25% of American consumer spending. The approaches used to approve these products can b...",
+                  "title": "FDA Approvals | Peptide",
+                  "url": "https://cdek.pharmacy.purdue.edu/fda-approvals/Peptide/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "tastestl.com",
+              "entries": [
+                {
+                  "attribution": "tastestl.com",
+                  "snippet": "BEST ANTI AGING PEPTIDE INJECTIONS\u00a0FAQS  ARE ANTI-AGING PEPTIDE INJECTIONS SUITABLE FOR ALL SKIN TYPES AND AGES?  Anti-aging peptide injections can be suitable for various skin types and ages, but it...",
+                  "title": "Best Anti Aging Peptide Injections (2024 Update) - Taste of St. Louis",
+                  "url": "https://tastestl.com/best-anti-aging-peptide-injections/?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "798f8898-f2ea-406c-bf90-a740507190b7"
+    },
+    "798f8898-f2ea-406c-bf90-a740507190b7": {
+      "id": "798f8898-f2ea-406c-bf90-a740507190b7",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "give me a list of all the availbe peptide injections available on the market\n\nPlease write in English language."
+          ]
+        },
+        "create_time": 1755713089.381,
+        "id": "798f8898-f2ea-406c-bf90-a740507190b7",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "ab37f840-e5f4-4444-92eb-2ab512509666"
+    },
+    "8bf9b737-878c-41c6-a0ee-507f18d14fec": {
+      "id": "8bf9b737-878c-41c6-a0ee-507f18d14fec",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Got it \u2705 \u2014 here\u2019s a **FAQ (Frequently Asked Questions)** set you can use for **AgeJET CO\u2082 (Plasma) laser** treatments. I\u2019ve kept it clear, patient-friendly, and professional, with answers that build trust and set expectations:  \n\n---\n\n# **AgeJET CO\u2082 Laser \u2013 Frequently Asked Questions**  \n\n### 1. What is the AgeJET CO\u2082 laser?  \nAgeJET is a non-invasive skin resurfacing treatment that uses plasma energy instead of traditional ablative CO\u2082 lasers. It stimulates collagen, tightens skin, and improves texture with less downtime and discomfort compared to traditional lasers.  \n\n---\n\n### 2. What concerns does it treat?  \nAgeJET is commonly used to address:  \n- Fine lines and wrinkles  \n- Skin laxity (loose or sagging skin)  \n- Sun damage and pigmentation  \n- Uneven skin tone and texture  \n- Acne scars  \n- Crepey skin around the eyes, mouth, and neck  \n\n---\n\n### 3. How is it different from a traditional CO\u2082 laser?  \nUnlike traditional CO\u2082 lasers that vaporize the skin\u2019s surface, AgeJET delivers plasma energy that penetrates the skin without cutting or burning. This means:  \n- Minimal risk of scarring  \n- Lower chance of hyperpigmentation  \n- Faster recovery times  \n- Safe for most skin types  \n\n---\n\n### 4. What areas can be treated?  \nCommon treatment areas include:  \n- Face  \n- Neck  \n- Eyes (under-eye and eyelids)  \n- Abdomen and body zones  \n- Intimate areas (for rejuvenation and tightening)  \n\n---\n\n### 5. Does it hurt?  \nMost patients describe the treatment as warm with mild discomfort. A topical numbing cream is typically applied before treatment to make it comfortable.  \n\n---\n\n### 6. How long does each session take?  \nDepending on the treatment area, sessions typically last **30\u201360 minutes**.  \n\n---\n\n### 7. What is the downtime?  \n- **Mild treatments:** Redness and swelling for 1\u20132 days, similar to a sunburn.  \n- **Stronger treatments:** Peeling and redness may last up to 5\u20137 days.  \nMakeup can usually be applied after 24\u201348 hours.  \n\n---\n\n### 8. How many sessions will I need?  \nMost clients see results after **just one treatment**, but for best results, a series of **3 sessions spaced 4\u20136 weeks apart** is recommended.  \n\n---\n\n### 9. When will I see results?  \n- **Immediately:** Skin feels tighter and refreshed.  \n- **1\u20133 months:** Collagen remodeling continues, and improvements in wrinkles, tone, and texture become more visible.  \n- **6+ months:** Results continue to improve as collagen builds.  \n\n---\n\n### 10. How long do results last?  \nResults can last **12\u201324 months** depending on age, lifestyle, and skincare routine. Maintenance sessions once a year are often recommended.  \n\n---\n\n### 11. Is it safe for all skin types?  \nYes, AgeJET is generally safe for most skin tones and types, including those that are more prone to hyperpigmentation (unlike traditional CO\u2082 lasers). A consultation is recommended to ensure you\u2019re a good candidate.  \n\n---\n\n### 12. Are there any side effects?  \nCommon side effects are redness, swelling, and temporary peeling. Rarely, patients may experience hyperpigmentation or prolonged healing if post-care instructions aren\u2019t followed.  \n\n---\n\n### 13. What should I do after treatment?  \n- Avoid sun exposure and always wear SPF.  \n- Use gentle cleansers and hydrating products.  \n- Avoid harsh treatments (peels, retinoids, exfoliation) until fully healed.  \n\n---\n\n\ud83d\udc49 Would you like me to also create a **polished FAQ one-pager for clients** (PDF handout style) so you can use it in your spa/clinic, similar to your pricing sheet?"
+          ]
+        },
+        "create_time": 1755712858.414432,
+        "id": "8bf9b737-878c-41c6-a0ee-507f18d14fec",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "e2318010-de72-4e94-a414-c01ff15ecaa6"
+        }
+      },
+      "parent": "e2318010-de72-4e94-a414-c01ff15ecaa6"
+    },
+    "9181a4fa-95f1-43d9-a46d-8ddc85fe5dd3": {
+      "id": "9181a4fa-95f1-43d9-a46d-8ddc85fe5dd3",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "yes\n\nPlease write in English language."
+          ]
+        },
+        "create_time": 1755711764.432,
+        "id": "9181a4fa-95f1-43d9-a46d-8ddc85fe5dd3",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "aab963f7-f943-4772-a575-15883ed15c5c"
+    },
+    "aab963f7-f943-4772-a575-15883ed15c5c": {
+      "id": "aab963f7-f943-4772-a575-15883ed15c5c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "It seems like I can\u2019t do more advanced data analysis right now. Please try again later.  \n\nIf you\u2019d like, I can manually recreate your chart in a clean text-based table (similar style to your uploaded PDF) so you\u2019ll have a formatted version of the new numbers that you can paste into a document or use for design. Would you like me to draft that table for you?"
+          ]
+        },
+        "create_time": 1755699512.714892,
+        "id": "aab963f7-f943-4772-a575-15883ed15c5c",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "645ba93a-e044-4c6e-ba5b-60c08a2c16fd"
+        }
+      },
+      "parent": "18cc0b41-fc74-4d32-ae05-838edba87de8"
+    },
+    "ab37f840-e5f4-4444-92eb-2ab512509666": {
+      "id": "ab37f840-e5f4-4444-92eb-2ab512509666",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Absolutely \u2705 \u2014 here\u2019s a set of **common Questions & Answers** you can use across **Hormone Replacement Therapy (HRT), Peptides, and Weight Loss Injections**. I\u2019ve grouped them into three categories for clarity, but they can also be merged into one master FAQ sheet.  \n\n---\n\n# **Hormone Replacement Therapy (HRT) \u2013 FAQ**  \n\n### 1. What is HRT?  \nHormone Replacement Therapy helps restore hormone balance in men and women when levels naturally decline with age. It can improve energy, mood, sleep, libido, and overall wellness.  \n\n### 2. Who is a candidate for HRT?  \nMen and women experiencing symptoms of hormone imbalance, such as fatigue, weight gain, brain fog, mood swings, hot flashes, or low libido, may benefit. A consultation and lab testing are required.  \n\n### 3. What types of HRT are available?  \nOptions include **bioidentical hormone pellets, creams, patches, and injections**. Your provider will recommend the best method for your needs.  \n\n### 4. Is HRT safe?  \nWhen monitored by a qualified provider, HRT is considered safe. Regular lab work ensures hormones remain balanced and within safe ranges.  \n\n### 5. How soon will I feel results?  \nMost people feel improvements within **2\u20136 weeks**, with full benefits developing over several months.  \n\n### 6. Are there side effects?  \nPossible side effects include mild bloating, acne, or mood changes, which often resolve as hormone levels stabilize. Your provider will closely monitor you to minimize risks.  \n\n---\n\n# **Peptide Therapy \u2013 FAQ**  \n\n### 1. What are peptides?  \nPeptides are short chains of amino acids that act as signaling molecules in the body. They can promote healing, improve energy, support fat loss, and aid anti-aging.  \n\n### 2. What conditions can peptides help with?  \n- Weight loss & metabolism support  \n- Muscle recovery and strength  \n- Sleep improvement  \n- Skin health and collagen production  \n- Sexual wellness  \n\n### 3. How are peptides administered?  \nMost peptides are given as a **small subcutaneous injection** (like an insulin shot), though some are available in creams or capsules.  \n\n### 4. Are peptides safe?  \nYes, when prescribed and monitored. They are naturally occurring in the body, and side effects are generally minimal.  \n\n### 5. How soon do peptides work?  \nSome peptides show results within weeks (better sleep, recovery, skin glow), while others may take 2\u20133 months for noticeable improvements (fat loss, muscle tone).  \n\n---\n\n# **Weight Loss Injections \u2013 FAQ**  \n\n### 1. What are weight loss injections?  \nThey are **FDA-approved medications**, such as GLP-1 agonists (e.g., Semaglutide, Tirzepatide), that regulate appetite, improve blood sugar control, and support sustainable weight loss.  \n\n### 2. How do they work?  \nThey mimic a natural hormone in the body that slows digestion, reduces cravings, and helps you feel full longer.  \n\n### 3. Who is a candidate?  \nTypically, adults with a **BMI over 27 with weight-related conditions** or **BMI over 30** may qualify. A consultation and health history review are required.  \n\n### 4. How much weight can I lose?  \nMost patients lose **1\u20133 pounds per week** when paired with healthy lifestyle changes. Clinical trials show average weight loss of **15\u201320% of body weight** over a year.  \n\n### 5. Are there side effects?  \nThe most common are mild nausea, constipation, or stomach upset, which often improve as the body adjusts.  \n\n### 6. How soon will I see results?  \nMost patients notice appetite suppression within the **first few weeks**, with steady weight loss over time.  \n\n### 7. Do results last?  \nYes\u2014when combined with long-term lifestyle changes. Ongoing treatment or a maintenance plan may be recommended.  \n\n---\n\n\u2728 Would you like me to **design these into three separate branded FAQ sheets (HRT, Peptides, Weight Loss)** like your pricing guide \u2014 so they\u2019re polished handouts for patients?"
+          ]
+        },
+        "create_time": 1755712947.404103,
+        "id": "ab37f840-e5f4-4444-92eb-2ab512509666",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "257d3ae8-1ac1-41c5-b9ed-7c9d4f061cc4"
+        }
+      },
+      "parent": "257d3ae8-1ac1-41c5-b9ed-7c9d4f061cc4"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "e2318010-de72-4e94-a414-c01ff15ecaa6": {
+      "id": "e2318010-de72-4e94-a414-c01ff15ecaa6",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "provide me with the most common Questions and Answer when it comes to Age Jet CO2 Laser\n\nPlease write in English language."
+          ]
+        },
+        "create_time": 1755712858.389,
+        "id": "e2318010-de72-4e94-a414-c01ff15ecaa6",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "076894b3-181d-4567-b4e3-932ee46894c4"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Chart creation offer",
+  "update_time": 1755713114.39453,
+  "voice": null
+}

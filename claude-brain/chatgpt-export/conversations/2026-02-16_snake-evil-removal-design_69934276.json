@@ -1,0 +1,95 @@
+{
+  "conversation_id": "69934276-d25c-832c-ad69-9d6c432d4ba3",
+  "conversation_template_id": null,
+  "create_time": 1771258488.068601,
+  "current_node": "005ba6dc-bdf1-42b0-8db2-e33124aea7d3",
+  "default_model_slug": "gpt-5-2",
+  "id": "69934276-d25c-832c-ad69-9d6c432d4ba3",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "005ba6dc-bdf1-42b0-8db2-e33124aea7d3": {
+      "id": "005ba6dc-bdf1-42b0-8db2-e33124aea7d3",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "create_time": 1771258531.30899,
+        "id": "005ba6dc-bdf1-42b0-8db2-e33124aea7d3",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "ced4d6c6-93b6-462a-947b-da4826c911b7"
+        }
+      },
+      "parent": "bbb21aab-cff9-4ba0-bf22-6da528cfcd8d"
+    },
+    "bbb21aab-cff9-4ba0-bf22-6da528cfcd8d": {
+      "id": "bbb21aab-cff9-4ba0-bf22-6da528cfcd8d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_00000000ed1c71fda844286edf6bb9c6",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 1439,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 424902,
+              "width": 1080
+            },
+            "Take this exact picture and somehow incorporate it stepping on the head of year  the snake and getting rid of its evil"
+          ]
+        },
+        "create_time": 1771258487.609793,
+        "id": "bbb21aab-cff9-4ba0-bf22-6da528cfcd8d",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "image_send_uuid": "f57735d0-ea0c-463d-8b4d-d3ceb5795f57"
+        }
+      },
+      "parent": "c50c84ca-1b61-4d4c-875f-d7fd2c04ba5c"
+    },
+    "c50c84ca-1b61-4d4c-875f-d7fd2c04ba5c": {
+      "id": "c50c84ca-1b61-4d4c-875f-d7fd2c04ba5c",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Snake Evil Removal Design",
+  "update_time": 1771258534.114709,
+  "voice": null
+}

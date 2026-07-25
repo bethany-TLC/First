@@ -1,0 +1,71 @@
+{
+  "conversation_id": "6901f057-dd2c-8328-b0ea-1ba66b0da11a",
+  "conversation_template_id": null,
+  "create_time": 1761734787.307582,
+  "current_node": "6444bb86-9ef3-4b9a-a69c-a6688eda2432",
+  "default_model_slug": "gpt-5",
+  "id": "6901f057-dd2c-8328-b0ea-1ba66b0da11a",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "6444bb86-9ef3-4b9a-a69c-a6688eda2432": {
+      "id": "6444bb86-9ef3-4b9a-a69c-a6688eda2432",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a warm and simple letter you can send to Fafa through Compassion:  \n\n---\n\n**Dear Fafa,**\n\nHello, my friend! I hope you and your family are doing very well. It has been a busy year for me \u2014 I moved to a new home and started some new jobs, so there have been many changes and things to learn. Even though life has been busy, I often think of you and pray that you are healthy, happy, and doing well in school.  \n\nHow are you doing? How is your family? I would love to hear what you have been learning, what games you like to play, and what you enjoy most about this time of year.  \n\nEven though we are far apart, I want you to know that you are very special to me and that God loves you so much. I\u2019m thankful to be a part of your life and to see how you keep growing each year.  \n\nWith love and prayers,  \n**Bethany**\n\n---\n\nWould you like me to make it sound a bit more childlike and friendly (for a younger child), or keep it in this warm adult tone (for an older child)?"
+          ]
+        },
+        "create_time": 1761734786.820083,
+        "id": "6444bb86-9ef3-4b9a-a69c-a6688eda2432",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "760cc0ac-42ee-45de-a115-95ea2935bdae"
+        }
+      },
+      "parent": "bbb21d3f-0b20-4b5c-be97-36864a3f3f25"
+    },
+    "7851cbfa-544d-40ae-9567-aaff32d8464d": {
+      "id": "7851cbfa-544d-40ae-9567-aaff32d8464d",
+      "message": null,
+      "parent": null
+    },
+    "bbb21d3f-0b20-4b5c-be97-36864a3f3f25": {
+      "id": "bbb21d3f-0b20-4b5c-be97-36864a3f3f25",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write. A letter to Fafa (a child I sponsor through compassion ministries) tell him about my year being busy with moving and new jobs and ask how him and his family are doing."
+          ]
+        },
+        "create_time": 1761734786.004967,
+        "id": "bbb21d3f-0b20-4b5c-be97-36864a3f3f25",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "7851cbfa-544d-40ae-9567-aaff32d8464d"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Write letter to Fafa",
+  "update_time": 1761734796.323367,
+  "voice": null
+}

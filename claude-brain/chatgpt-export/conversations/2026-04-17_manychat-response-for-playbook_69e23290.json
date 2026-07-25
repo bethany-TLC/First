@@ -1,0 +1,118 @@
+{
+  "conversation_id": "69e23290-1488-83ea-995e-00155fd4a0ef",
+  "conversation_template_id": null,
+  "create_time": 1776431768.315204,
+  "current_node": "89b85c71-b4da-4de7-bbfa-8a66659d7e14",
+  "default_model_slug": "gpt-5-3",
+  "id": "69e23290-1488-83ea-995e-00155fd4a0ef",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "1572c508-2b58-471c-9935-456de1a8b2c7": {
+      "id": "1572c508-2b58-471c-9935-456de1a8b2c7",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a short, clean ManyChat response you can drop in:\n\nHey! Love that you asked \ud83d\ude0a  \nHere\u2019s the Profit Between Appointments Playbook I mentioned. It walks through simple ways to turn downtime into real revenue without adding more clients.\n\n[Insert Link]\n\nIf anything stands out or you want help applying it to your spa, just let me know. Happy to take a quick look with you \ud83d\udcac"
+          ]
+        },
+        "create_time": 1776431767.883148,
+        "id": "1572c508-2b58-471c-9935-456de1a8b2c7",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "8184ba79-efca-467a-a3b7-2026d26b3903"
+        }
+      },
+      "parent": "34c5754a-329a-4111-a4b2-4acee147d164"
+    },
+    "34c5754a-329a-4111-a4b2-4acee147d164": {
+      "id": "34c5754a-329a-4111-a4b2-4acee147d164",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "this was my post on fb talking about our revenue leak audit and profit between appontments play book: This isn\u2019t how running your spa was supposed to feel\r\nNot this heavy\r\nnot this stressful\r\nnot this constant pressure\r\nYou\u2019re not missing more clients\r\nyou\u2019re missing what\u2019s happening in between\r\nAnd once you see it, everything changes\r\nSome fixes take 5 minutes\r\nThis is where the shift happens\r\nComment PLAYBOOK and we\u2019ll send it over   someone asked me for the playbook, craft a quick and short manychat repsonce to her "
+          ]
+        },
+        "create_time": 1776431767.327,
+        "id": "34c5754a-329a-4111-a4b2-4acee147d164",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "4a8fd17e-4fc5-4bc1-8038-ef0e82366f00": {
+      "id": "4a8fd17e-4fc5-4bc1-8038-ef0e82366f00",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "respond to this persons commnt: Melissa Gann Cornwell\r\n\ud83e\udd26\u200d\u2640\ufe0f if we were making $500,000 we wouldn\u2019t need you!"
+          ]
+        },
+        "create_time": 1776432005.84,
+        "id": "4a8fd17e-4fc5-4bc1-8038-ef0e82366f00",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "1572c508-2b58-471c-9935-456de1a8b2c7"
+    },
+    "89b85c71-b4da-4de7-bbfa-8a66659d7e14": {
+      "id": "89b85c71-b4da-4de7-bbfa-8a66659d7e14",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Haha I hear you Melissa \ud83d\ude05 but honestly, most of the spas we work with are already doing decent revenue\u2026 they\u2019re just stuck or feeling maxed out.\n\nIt\u2019s usually not about needing more clients, it\u2019s about what\u2019s slipping through the cracks. Missed follow-ups, low show rates, no real system to increase what each client is worth.\n\nThat\u2019s exactly why we built the playbook. It\u2019s meant to help you make more from what you already have, not just push you to $500k.\n\nIf you want it, I\u2019m happy to send it your way \ud83d\ude0a"
+          ]
+        },
+        "create_time": 1776432006.312922,
+        "id": "89b85c71-b4da-4de7-bbfa-8a66659d7e14",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "4a8fd17e-4fc5-4bc1-8038-ef0e82366f00"
+        }
+      },
+      "parent": "4a8fd17e-4fc5-4bc1-8038-ef0e82366f00"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "ManyChat Response for Playbook",
+  "update_time": 1776432011.246325,
+  "voice": null
+}

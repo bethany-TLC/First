@@ -1,0 +1,72 @@
+{
+  "conversation_id": "69e7ea93-bd64-832b-9bb1-1f7e998ad7bf",
+  "conversation_template_id": null,
+  "create_time": 1776806564.144293,
+  "current_node": "c7ed618c-8c1e-48c9-89c9-1bf4a79e0580",
+  "default_model_slug": "gpt-5-3",
+  "id": "69e7ea93-bd64-832b-9bb1-1f7e998ad7bf",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "7fe0ac07-199e-4785-9c23-c206a482d0f0": {
+      "id": "7fe0ac07-199e-4785-9c23-c206a482d0f0",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "create me a medically necesary letter from my spine dr saying i need to not work out"
+          ]
+        },
+        "create_time": 1776806564.21,
+        "id": "7fe0ac07-199e-4785-9c23-c206a482d0f0",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "c7ed618c-8c1e-48c9-89c9-1bf4a79e0580": {
+      "id": "c7ed618c-8c1e-48c9-89c9-1bf4a79e0580",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a clean, professional **medically necessary letter** you can use. You\u2019ll just need your doctor to review, adjust if needed, and sign it.\n\n---\n\n:::writing{variant=\"standard\" id=\"48392\"}\n**MEDICAL NECESSITY LETTER**\n\n**Date:** [Insert Date]\n\n**Patient Name:** [Your Full Name]  \n**Date of Birth:** [DOB]\n\nTo Whom It May Concern,\n\nI am writing on behalf of my patient, [Patient Name], who is currently under my care for a spinal condition that requires medical management and activity modification.\n\nDue to the nature and severity of their condition, it is medically necessary that [Patient Name] refrain from participating in physical exercise and strenuous physical activity at this time. Engaging in workouts or physical exertion may exacerbate symptoms, delay healing, and potentially worsen their underlying spinal condition.\n\nThis restriction is recommended to support proper recovery and prevent further injury. At this time, the patient should avoid activities including, but not limited to:\n- Weightlifting or resistance training  \n- High-impact exercise (running, jumping, HIIT)  \n- Repetitive bending, twisting, or strain on the spine  \n\nThis restriction will remain in place until further evaluation and medical clearance is provided. A reassessment will determine when it is safe for the patient to gradually return to physical activity.\n\nIf you have any questions regarding this medical recommendation, please do not hesitate to contact my office.\n\nSincerely,  \n\n[Physician Name, MD/DO]  \n[Specialty \u2013 e.g., Orthopedic Spine Specialist / Neurosurgeon]  \n[Practice Name]  \n[Phone Number]  \n[Address]  \n[Signature]\n:::\n\n---\n\nIf you want, I can tailor this to:\n- a specific diagnosis (like herniated disc, post-op, etc.)  \n- a gym cancellation situation  \n- employer or insurance wording  \n\nJust tell me the context and I\u2019ll tighten it so it\u2019s harder to push back on."
+          ]
+        },
+        "create_time": 1776806564.022488,
+        "id": "c7ed618c-8c1e-48c9-89c9-1bf4a79e0580",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "502c2e3c-11ff-435b-b2c9-465c865ef850"
+        }
+      },
+      "parent": "7fe0ac07-199e-4785-9c23-c206a482d0f0"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Medical Necessity Letter",
+  "update_time": 1776806588.182407,
+  "voice": null
+}

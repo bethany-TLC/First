@@ -1,0 +1,72 @@
+{
+  "conversation_id": "69b42745-0ce0-832b-b857-f156318d7114",
+  "conversation_template_id": null,
+  "create_time": 1773414249.970889,
+  "current_node": "55828d2f-92b3-4684-adee-9f971779c9ea",
+  "default_model_slug": "gpt-5-3",
+  "id": "69b42745-0ce0-832b-b857-f156318d7114",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "55828d2f-92b3-4684-adee-9f971779c9ea": {
+      "id": "55828d2f-92b3-4684-adee-9f971779c9ea",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "switch my name and the company name places and "
+          ]
+        },
+        "create_time": 1773414387.58,
+        "id": "55828d2f-92b3-4684-adee-9f971779c9ea",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "735b7b6a-348e-402c-96fc-371683c47919"
+    },
+    "735b7b6a-348e-402c-96fc-371683c47919": {
+      "id": "735b7b6a-348e-402c-96fc-371683c47919",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "create a business card for theluxoracollective.co make it dark and luxurious just ike our color scheme on website, use our font as well. details to put on there: Bethany Anne in gold lettering "
+          ]
+        },
+        "create_time": 1773414249.473,
+        "id": "735b7b6a-348e-402c-96fc-371683c47919",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Business Card Design Request",
+  "update_time": 1773414423.310654,
+  "voice": null
+}

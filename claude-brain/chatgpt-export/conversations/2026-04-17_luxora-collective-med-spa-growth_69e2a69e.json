@@ -1,0 +1,72 @@
+{
+  "conversation_id": "69e2a69e-36c4-83ea-beee-3beeb4d51da5",
+  "conversation_template_id": null,
+  "create_time": 1776461479.859452,
+  "current_node": "ea47ee84-31e3-429d-b2f2-9ee7823753fa",
+  "default_model_slug": "gpt-5-3",
+  "id": "69e2a69e-36c4-83ea-beee-3beeb4d51da5",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "b0e4ec98-2a8d-4ca7-b419-dec2f48cff1d": {
+      "id": "b0e4ec98-2a8d-4ca7-b419-dec2f48cff1d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "chat: put this into your memoery forever: Most med spa owners did not get into this industry to manage spreadsheets and chase revenue targets. They built something because they believed in the transformation they could offer their clients. The Luxora Collective exists to make sure the business they are running actually reflects the vision that inspired them to start.\nWe are a premium revenue growth partner for independent med spa owners generating $500K to $2M annually, and we work from the inside out. Whether an owner wants to build the spa of their dreams, scale to a second location, or position their business for acquisition one day, we help them get there with a foundation that is actually built to support it. Before we ever talk about adding services, expanding a menu, or increasing ad spend, we start with a Revenue Leak Audit: a diagnostic that surfaces exactly where money is already slipping through the cracks. Undertrained front desks, unconverted consults, stagnant client bases, missing membership infrastructure, packages that were never built to retain. Most owners discover tens of thousands in recoverable revenue before we recommend a single new investment. After that we provide them with a full Market Blueprint so they know who and what they are up against in their area.\u00a0 Once the foundation is solid, we help owners build intentionally toward the spa they have always wanted: the right services added at the right time, a team that sells with confidence, systems that run without the owner inside every transaction, and a client experience that earns loyalty without discounting. We install more valuable memberships, unique package architecture, staff sales training, AI-powered follow-up, CRM integration, partnerships/collaborations, reputation and review engines, intentional marketing and lifetime value frameworks, all designed to grow alongside the business rather than complicate it.\nThis is a done-with-you engagement, and that distinction is intentional. We do not believe in building systems that create dependency, although we always prefer our clients stay on with us for at least a year with our partnership program so we can hep them with running their marketing, keeping them accountable and doing monthly check ins all while providing them with new and improved deliverables as the aesthetic space evolves. We work alongside owners and their existing teams, transferring knowledge and capability at every step, so that by the time we are done, the owner understands why every system works, how to run it, and how to build on it without us. The goal is not a client who needs us forever. It is an owner who is more capable, more confident, and more in control of their business than they were before we met."
+          ]
+        },
+        "create_time": 1776461479.276,
+        "id": "b0e4ec98-2a8d-4ca7-b419-dec2f48cff1d",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "ea47ee84-31e3-429d-b2f2-9ee7823753fa": {
+      "id": "ea47ee84-31e3-429d-b2f2-9ee7823753fa",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Got it. This is locked in."
+          ]
+        },
+        "create_time": 1776461485.60525,
+        "id": "ea47ee84-31e3-429d-b2f2-9ee7823753fa",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "98932aec-bd18-41ad-b928-cb3ed9384ae0"
+        }
+      },
+      "parent": "b0e4ec98-2a8d-4ca7-b419-dec2f48cff1d"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Luxora Collective Med Spa Growth",
+  "update_time": 1776461487.586476,
+  "voice": null
+}

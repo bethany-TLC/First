@@ -1,0 +1,739 @@
+{
+  "conversation_id": "6a57b551-2e0c-83e8-aa49-a22c65f5cab7",
+  "conversation_template_id": null,
+  "create_time": 1784132965.046816,
+  "current_node": "5e593793-c9cb-4de4-bf0b-e6f733ec503d",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a57b551-2e0c-83e8-aa49-a22c65f5cab7",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "048a83f9-1ef3-4a0e-8e83-828611cc0b29": {
+      "id": "048a83f9-1ef3-4a0e-8e83-828611cc0b29",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content": "Worked for 13s",
+          "content_type": "reasoning_recap"
+        },
+        "create_time": 1784132978.015483,
+        "id": "048a83f9-1ef3-4a0e-8e83-828611cc0b29",
+        "metadata": {
+          "model_slug": "gpt-5-5",
+          "parent_id": "18de4f3c-fd95-473c-b4f6-b11ef3667b94"
+        }
+      },
+      "parent": "18de4f3c-fd95-473c-b4f6-b11ef3667b94"
+    },
+    "18de4f3c-fd95-473c-b4f6-b11ef3667b94": {
+      "id": "18de4f3c-fd95-473c-b4f6-b11ef3667b94",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "thoughts",
+          "source_analysis_msg_id": "657d0f8f-fee0-46ed-b0eb-a0a8d2f0203c",
+          "thoughts": [
+            {
+              "chunks": [],
+              "content": "",
+              "finished": true,
+              "summary": "Searched 51 webpages"
+            }
+          ]
+        },
+        "create_time": 1784132978.012235,
+        "id": "18de4f3c-fd95-473c-b4f6-b11ef3667b94",
+        "metadata": {
+          "model_slug": "gpt-5-5",
+          "parent_id": "956c9a64-2ff8-4117-8d44-45cc2f906d27",
+          "tool_icons": [
+            "globe"
+          ]
+        }
+      },
+      "parent": "bbb21d69-8a51-49d7-b65a-5028f306165b"
+    },
+    "5e593793-c9cb-4de4-bf0b-e6f733ec503d": {
+      "id": "5e593793-c9cb-4de4-bf0b-e6f733ec503d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "I researched the company behind the page you sent, \ue200url\ue202Enroll Premium Clients\ue202turn1search4\ue201, and the founder, Matt Brockman.\n\n**My initial read: this appears to be a real operating business, not an obvious fly-by-night scam.** But I would **not sign anything yet**. There are several things I would want verified in the actual contract, especially because their headline offer sounds unusually risk-free.\n\n### What they are actually selling\n\nTheir current offer is remarkably close to the direction TLC has been moving toward. They say they will build and manage an entire client-acquisition system, including funnels, Meta ads, sales systems, sales training, tech support, strategy, and email follow-up. The headline is **\u201c$0 Upfront \u2014 You Only Pay When You Make Sales.\u201d** They also state that the client must still be willing to pay for advertising and tools. \ue200cite\ue202turn0view0\ue201\n\nTheir public social messaging also describes the system as including a full GHL funnel, AI-powered lead setting, weekly coaching, and sales support. \ue200cite\ue202turn1search10\ue201\n\nSo this is **not simply a course** and **not simply a Meta ads agency**. It appears to be a hybrid of:\n\n**DFY acquisition + funnel infrastructure + AI follow-up + sales process + coaching + performance-based compensation.**\n\nThat is one reason I think this is particularly worth investigating for you.\n\n### The legitimacy signals I found\n\nThe founder is publicly identified as **Matt Brockman**, with a visible online history tied to music education, coaching, and client acquisition. The company claims he previously built coaching businesses in the music-education space and served as COO of Passion Builders Online. Their current website says they have served more than 700 clients since 2021 and generated more than $4 million in contracted revenue. Those figures are **company claims**, not independently audited numbers. \ue200cite\ue202turn0view0\ue202turn1search7\ue201\n\nThey also have a \ue200url\ue202Trustpilot profile\ue202turn0search0\ue201 with **17 reviews and a 4.6 rating**, with all reviews shown as five-star at the time of my search. Some are quite recent, including June 2026. That is positive, but **17 reviews is still a small sample**, and a perfect distribution deserves more scrutiny rather than blind acceptance. Trustpilot itself notes that reviews may not be representative. \ue200cite\ue202turn0search0\ue201\n\nThe website contains multiple named client case studies with specific reported outcomes, including clients named Jared, Alisa, Allie, Jesse, and Simon. Some of the current Trustpilot reviews appear to correspond to people featured in their marketing, which is a stronger signal than completely anonymous testimonials. \ue200cite\ue202turn0view0\ue202turn0search0\ue201\n\n### The biggest thing I want clarified\n\nTheir sales page says:\n\n> **\u201c$0 Upfront \u2014 You Only Pay When You Make Sales.\u201d**\n\nBut the page does **not publicly spell out the economics**. I would want the exact answers to these questions before considering them:\n\n- What percentage of collected revenue do they take?\n- Is their percentage based on **cash collected, contracted revenue, gross sales, or net revenue**?\n- Do they take a percentage from clients you would have closed organically anyway?\n- Is there a minimum monthly fee hidden behind the performance model?\n- Who pays ad spend? The website indicates **you do**.\n- Who pays for GHL, AI, SMS, email, webinar software, and other technology?\n- How long is the contract?\n- Is there a minimum commitment?\n- What happens if they generate leads but you don't close them?\n- How is attribution determined?\n- Who owns the funnel, ad account, pixel, CRM workflows, copy, creative, data, and domain if you leave?\n- Is there an exclusivity or noncompete provision?\n- Can they increase the revenue share as you scale?\n\nThat contract language matters far more than the **\u201c$0 upfront\u201d** headline.\n\n### One inconsistency I noticed\n\nThe top of the sales page uses strong language: **\u201cmanaged daily, and guaranteed to produce results.\u201d** But the legal disclaimer at the bottom says they **cannot promise results or specific financial outcomes** and that they make no representation that any activity will achieve a particular result. \ue200cite\ue202turn0view0\ue201\n\nThat doesn't automatically make the company illegitimate. Marketing pages and legal disclaimers often use different language. But I would specifically ask:\n\n**\u201cWhat exactly is contractually guaranteed?\u201d**\n\nIf the answer is vague, the word *guaranteed* in the advertising doesn't mean much.\n\n### One item I would investigate further before signing\n\nI also found a **2025 federal court filing surfaced in search results involving Matt Brockman and others**. I am **not drawing any conclusion from that alone**, because being named in litigation does not establish wrongdoing, and I would need to examine the actual complaint, claims, defenses, and case disposition before characterizing it. \ue200cite\ue202turn1search5\ue201\n\nIf you are seriously considering hiring them, I would include a proper review of that case in the due diligence rather than ignoring it or assuming the worst.\n\n## What I think this means for **you**\n\nThis is the interesting part.\n\n**Their model is extremely close to the business model TLC has been circling around.**\n\nThey are essentially saying:\n\n**We don't sell you random leads. We build the entire machine that turns your offer into customers, and our compensation is aligned with the outcome.**\n\nThat is almost exactly the conceptual direction you've been trying to articulate for TLC:\n\n**Market diagnosis \u2192 acquisition \u2192 lead conversion \u2192 sales process \u2192 retention and lifetime value.**\n\nThe major difference is that **they appear to specialize in coaches, consultants, and experts**, while TLC has the opportunity to own this model specifically for **aesthetic and wellness practices**, with something they don't have: your two decades of actual industry experience and your backend patient-retention playbooks.\n\nSo if your question is **\u201cShould I hire them?\u201d**, my answer is:\n\n**Possibly, but only after seeing the economics and contract.**\n\nIf your question is **\u201cAre they worth taking a sales call with?\u201d**, then **yes, absolutely**. I would take the call partly to evaluate hiring them and partly to understand exactly how they have structured a performance-based, end-to-end growth partnership.\n\nThe key issue is whether they can actually help **TLC acquire med spa clients**, because their demonstrated case studies are heavily concentrated in coaching and expertise businesses, particularly music educators. Being able to scale a trumpet coach does **not automatically mean they understand how to acquire sophisticated B2B med spa owners for a $9K\u2013$15K service**. Their own website says they **scale offers that are already proven rather than building offers from scratch**. \ue200cite\ue202turn0view0\ue201\n\n### My current rating\n\n**Legitimate operating business:** 8/10  \n**Public proof:** 7/10  \n**Transparency of pricing/economics:** 4/10  \n**Potential fit for TLC:** 7/10, but highly dependent on whether they have relevant B2B agency/client-acquisition proof  \n**Worth taking the call:** **Yes**\n\n**I would not give them money or sign a revenue-share agreement until I see the actual contract.** If you take the call, send me the recording/transcript and their proposal and contract afterward. I can dissect **exactly what they're doing, what you're actually paying, whether their attribution terms are dangerous, and whether this could accelerate TLC or just become another expensive distraction.**"
+          ]
+        },
+        "create_time": 1784132976.848572,
+        "id": "5e593793-c9cb-4de4-bf0b-e6f733ec503d",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "[Enroll Premium Clients](https://enrollpremiumclients.com/?utm_source=chatgpt.com)",
+              "logo": null,
+              "prefix": null,
+              "prompt_text": null,
+              "title": "Enroll Premium Clients",
+              "type": "url"
+            },
+            {
+              "alt": "([enrollpremiumclients.com](https://enrollpremiumclients.com/apply?fbc_id=120247035925130186&fbclid=PAdGRzdgTElJBleHRuA2FlbQEwAGFkaWQBqzQK0AhrmnNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABp2CdWSPOA9jg9BRZSkklJ1etADsg8Am9PX9y07NkxLD1sUzycQUuUvNpYA8z_aem_EsGEdAcEF0QZkRRm2tOJXw&h_ad_id=120247035925070186&utm_campaign=120247035083180186&utm_content=120247035925070186&utm_id=120247035083180186&utm_medium=paid&utm_source=ig&utm_term=120247035925130186))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "enrollpremiumclients.com",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "view",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": null,
+                  "supporting_websites": [],
+                  "title": "Enroll Premium Clients | Done-For-You Growth Systems for Coaches",
+                  "url": "https://enrollpremiumclients.com/apply?fbc_id=120247035925130186&fbclid=PAdGRzdgTElJBleHRuA2FlbQEwAGFkaWQBqzQK0AhrmnNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABp2CdWSPOA9jg9BRZSkklJ1etADsg8Am9PX9y07NkxLD1sUzycQUuUvNpYA8z_aem_EsGEdAcEF0QZkRRm2tOJXw&h_ad_id=120247035925070186&utm_campaign=120247035083180186&utm_content=120247035925070186&utm_id=120247035083180186&utm_medium=paid&utm_source=ig&utm_term=120247035925130186"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Instagram](https://www.instagram.com/p/DYR6GH8CK2v/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Instagram",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 10,
+                      "ref_type": "search",
+                      "turn_index": 1
+                    }
+                  ],
+                  "snippet": "Here's how Enroll Premium Clients helps coaches scale to $10K\u2013$50K/month: \u2713 Done-for-you Meta Ads \u2713 Full GHL funnel buildRead more",
+                  "supporting_websites": [],
+                  "title": "Done-for-you Meta Ads \u2705 Full GHL funnel build \u2705 AI ...",
+                  "url": "https://www.instagram.com/p/DYR6GH8CK2v/?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([enrollpremiumclients.com](https://enrollpremiumclients.com/apply?fbc_id=120247035925130186&fbclid=PAdGRzdgTElJBleHRuA2FlbQEwAGFkaWQBqzQK0AhrmnNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABp2CdWSPOA9jg9BRZSkklJ1etADsg8Am9PX9y07NkxLD1sUzycQUuUvNpYA8z_aem_EsGEdAcEF0QZkRRm2tOJXw&h_ad_id=120247035925070186&utm_campaign=120247035083180186&utm_content=120247035925070186&utm_id=120247035083180186&utm_medium=paid&utm_source=ig&utm_term=120247035925130186))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "enrollpremiumclients.com",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "view",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 7,
+                      "ref_type": "search",
+                      "turn_index": 1
+                    }
+                  ],
+                  "snippet": null,
+                  "supporting_websites": [
+                    {
+                      "attribution": "Matt Brockman",
+                      "pub_date": null,
+                      "snippet": "Matt Brockman, a seasoned entrepreneur, excels in Done-For-You marketing. He founded Enroll Premium Clients to revolutionize client acquisition for coaches and ...Read more",
+                      "title": "Pushing Boundaries - Matt Brockman",
+                      "url": "https://matt-brockman.com/about?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Enroll Premium Clients | Done-For-You Growth Systems for Coaches",
+                  "url": "https://enrollpremiumclients.com/apply?fbc_id=120247035925130186&fbclid=PAdGRzdgTElJBleHRuA2FlbQEwAGFkaWQBqzQK0AhrmnNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABp2CdWSPOA9jg9BRZSkklJ1etADsg8Am9PX9y07NkxLD1sUzycQUuUvNpYA8z_aem_EsGEdAcEF0QZkRRm2tOJXw&h_ad_id=120247035925070186&utm_campaign=120247035083180186&utm_content=120247035925070186&utm_id=120247035083180186&utm_medium=paid&utm_source=ig&utm_term=120247035925130186"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "[Trustpilot profile](https://www.trustpilot.com/review/enrollpremiumclients.com?utm_source=chatgpt.com)",
+              "logo": null,
+              "prefix": null,
+              "prompt_text": null,
+              "title": "Trustpilot profile",
+              "type": "url"
+            },
+            {
+              "alt": "([Trustpilot](https://www.trustpilot.com/review/enrollpremiumclients.com?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Trustpilot",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Dec 5, 2025 \u2014 Contact info. United States. enrollpremiumclients.com. 4.6. Excellent. TrustScore 4.5 out of 5. 17 reviews. 5-star. 4-star. 3-star. 2-star. 1- ...Read more",
+                  "supporting_websites": [],
+                  "title": "Enrollpremiumclients Reviews",
+                  "url": "https://www.trustpilot.com/review/enrollpremiumclients.com?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([enrollpremiumclients.com](https://enrollpremiumclients.com/apply?fbc_id=120247035925130186&fbclid=PAdGRzdgTElJBleHRuA2FlbQEwAGFkaWQBqzQK0AhrmnNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABp2CdWSPOA9jg9BRZSkklJ1etADsg8Am9PX9y07NkxLD1sUzycQUuUvNpYA8z_aem_EsGEdAcEF0QZkRRm2tOJXw&h_ad_id=120247035925070186&utm_campaign=120247035083180186&utm_content=120247035925070186&utm_id=120247035083180186&utm_medium=paid&utm_source=ig&utm_term=120247035925130186))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "enrollpremiumclients.com",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "view",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": null,
+                  "supporting_websites": [
+                    {
+                      "attribution": "Trustpilot",
+                      "pub_date": null,
+                      "snippet": "Dec 5, 2025 \u2014 Contact info. United States. enrollpremiumclients.com. 4.6. Excellent. TrustScore 4.5 out of 5. 17 reviews. 5-star. 4-star. 3-star. 2-star. 1- ...Read more",
+                      "title": "Enrollpremiumclients Reviews",
+                      "url": "https://www.trustpilot.com/review/enrollpremiumclients.com?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Enroll Premium Clients | Done-For-You Growth Systems for Coaches",
+                  "url": "https://enrollpremiumclients.com/apply?fbc_id=120247035925130186&fbclid=PAdGRzdgTElJBleHRuA2FlbQEwAGFkaWQBqzQK0AhrmnNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABp2CdWSPOA9jg9BRZSkklJ1etADsg8Am9PX9y07NkxLD1sUzycQUuUvNpYA8z_aem_EsGEdAcEF0QZkRRm2tOJXw&h_ad_id=120247035925070186&utm_campaign=120247035083180186&utm_content=120247035925070186&utm_id=120247035083180186&utm_medium=paid&utm_source=ig&utm_term=120247035925130186"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([enrollpremiumclients.com](https://enrollpremiumclients.com/apply?fbc_id=120247035925130186&fbclid=PAdGRzdgTElJBleHRuA2FlbQEwAGFkaWQBqzQK0AhrmnNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABp2CdWSPOA9jg9BRZSkklJ1etADsg8Am9PX9y07NkxLD1sUzycQUuUvNpYA8z_aem_EsGEdAcEF0QZkRRm2tOJXw&h_ad_id=120247035925070186&utm_campaign=120247035083180186&utm_content=120247035925070186&utm_id=120247035083180186&utm_medium=paid&utm_source=ig&utm_term=120247035925130186))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "enrollpremiumclients.com",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "view",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": null,
+                  "supporting_websites": [],
+                  "title": "Enroll Premium Clients | Done-For-You Growth Systems for Coaches",
+                  "url": "https://enrollpremiumclients.com/apply?fbc_id=120247035925130186&fbclid=PAdGRzdgTElJBleHRuA2FlbQEwAGFkaWQBqzQK0AhrmnNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABp2CdWSPOA9jg9BRZSkklJ1etADsg8Am9PX9y07NkxLD1sUzycQUuUvNpYA8z_aem_EsGEdAcEF0QZkRRm2tOJXw&h_ad_id=120247035925070186&utm_campaign=120247035083180186&utm_content=120247035925070186&utm_id=120247035083180186&utm_medium=paid&utm_source=ig&utm_term=120247035925130186"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([PacerMonitor](https://www.pacermonitor.com/public/filings/DAJPTDDQ/Hollywood_Universe_Media_LLC_v_Brockman_et_al__cacdce-25-05171__0001.0.pdf?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "PacerMonitor",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 5,
+                      "ref_type": "search",
+                      "turn_index": 1
+                    }
+                  ],
+                  "snippet": "Jun 6, 2025 \u2014 ... reviews from 17 individuals whom Defendants claim achieved success ... Matt Brockman Trumpet COO and Co-Founder of Passion Builders Online.Read more",
+                  "supporting_websites": [],
+                  "title": "Hollywood_Universe_Media_LL...",
+                  "url": "https://www.pacermonitor.com/public/filings/DAJPTDDQ/Hollywood_Universe_Media_LLC_v_Brockman_et_al__cacdce-25-05171__0001.0.pdf?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([enrollpremiumclients.com](https://enrollpremiumclients.com/apply?fbc_id=120247035925130186&fbclid=PAdGRzdgTElJBleHRuA2FlbQEwAGFkaWQBqzQK0AhrmnNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABp2CdWSPOA9jg9BRZSkklJ1etADsg8Am9PX9y07NkxLD1sUzycQUuUvNpYA8z_aem_EsGEdAcEF0QZkRRm2tOJXw&h_ad_id=120247035925070186&utm_campaign=120247035083180186&utm_content=120247035925070186&utm_id=120247035083180186&utm_medium=paid&utm_source=ig&utm_term=120247035925130186))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "enrollpremiumclients.com",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "view",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": null,
+                  "supporting_websites": [],
+                  "title": "Enroll Premium Clients | Done-For-You Growth Systems for Coaches",
+                  "url": "https://enrollpremiumclients.com/apply?fbc_id=120247035925130186&fbclid=PAdGRzdgTElJBleHRuA2FlbQEwAGFkaWQBqzQK0AhrmnNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABp2CdWSPOA9jg9BRZSkklJ1etADsg8Am9PX9y07NkxLD1sUzycQUuUvNpYA8z_aem_EsGEdAcEF0QZkRRm2tOJXw&h_ad_id=120247035925070186&utm_campaign=120247035083180186&utm_content=120247035925070186&utm_id=120247035083180186&utm_medium=paid&utm_source=ig&utm_term=120247035925130186"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prefix": null,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "enrollpremiumclients.com",
+                  "title": "Enroll Premium Clients | Done-For-You Growth Systems for Coaches",
+                  "url": "https://enrollpremiumclients.com/apply?fbc_id=120247035925130186&fbclid=PAdGRzdgTElJBleHRuA2FlbQEwAGFkaWQBqzQK0AhrmnNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABp2CdWSPOA9jg9BRZSkklJ1etADsg8Am9PX9y07NkxLD1sUzycQUuUvNpYA8z_aem_EsGEdAcEF0QZkRRm2tOJXw&h_ad_id=120247035925070186&utm_campaign=120247035083180186&utm_content=120247035925070186&utm_id=120247035083180186&utm_medium=paid&utm_source=ig&utm_term=120247035925130186"
+                },
+                {
+                  "attribution": "Instagram",
+                  "title": "Done-for-you Meta Ads \u2705 Full GHL funnel build \u2705 AI ...",
+                  "url": "https://www.instagram.com/p/DYR6GH8CK2v/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Trustpilot",
+                  "title": "Enrollpremiumclients Reviews",
+                  "url": "https://www.trustpilot.com/review/enrollpremiumclients.com?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "PacerMonitor",
+                  "title": "Hollywood_Universe_Media_LL...",
+                  "url": "https://www.pacermonitor.com/public/filings/DAJPTDDQ/Hollywood_Universe_Media_LLC_v_Brockman_et_al__cacdce-25-05171__0001.0.pdf?utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "048a83f9-1ef3-4a0e-8e83-828611cc0b29",
+          "search_result_groups": [
+            {
+              "domain": "linkedin.com",
+              "entries": [
+                {
+                  "attribution": "linkedin.com",
+                  "snippet": "... enroll premium clients using the same approach you use for bargain shoppers. They need a strategy that makes you magnetic to them. Let me ...",
+                  "title": "Boost Client Value, Not Prices, to Attract Premium Clients",
+                  "url": "https://www.linkedin.com/posts/alainaschwartz_bestadvice-success-businesscoach-activity-7401259415745560577-BG13?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "facebook.com",
+              "entries": [
+                {
+                  "attribution": "facebook.com",
+                  "snippet": "... enroll premium clients consistently. As high ticket coaches wanting to scale, we're focused on hitting consistent $20K to $50K months with ...Read more",
+                  "title": "How to turn attention into clients with a proven system",
+                  "url": "https://www.facebook.com/jordan.dugger.75/posts/a-lot-of-coaches-think-they-need-more-contentmore-reelsmore-postsmore-followersu/10164695491375928/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "facebook.com",
+                  "snippet": "Enroll Premium Clients. 3y \u00b7 Public \u00b7 Enjoy this trumpet arrangement of Bach's Little Fugue in G Minor, arranged for 4 trumpet, cornets, or ...Read more",
+                  "title": "Matonizz",
+                  "url": "https://www.facebook.com/matonizz/posts/hi-friends-we-have-an-awesome-comparison-of-flugelhorn-vs-trumpet-tones-in-this-/1707546750803594/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "facebook.com",
+                  "snippet": "Enroll Premium Clients. 3y \u00b7 Public &middot; Enjoy this trumpet arrangement of Bach's Little Fugue in G Minor, arranged for 4 trumpet, cornets, or ...",
+                  "title": "Caleb Hudson Cr\u00e9dit Video: Caleb Hudson http ...",
+                  "url": "https://www.facebook.com/trumpetlovers/posts/caleb-hudsoncr%C3%A9dit-video-caleb-hudson-caleb-hudson-bach-partitatrumpetmaster-tru/2110480765867365/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "facebook.com",
+                  "snippet": "... enroll premium clients consistently. As high ticket coaches wanting to scale, we're focused on hitting consistent $20K to $50K months with ...Read more",
+                  "title": "If you're doing over $1M and you've invested in outside ...",
+                  "url": "https://www.facebook.com/theentourageofficial/posts/if-youre-doing-over-1m-and-youve-invested-in-outside-help-before-you-already-kno/1466146538877199/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "facebook.com",
+                  "snippet": "Enroll Premium Clients added a new photo \u2014 in New Jersey ... EnrollPremiumClients. May be an image of text that says 'Enroll ...Read more",
+                  "title": "Enroll Premium Clients",
+                  "url": "https://www.facebook.com/enrollpremiumclients/photos/d41d8cd9/218634913167093/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "facebook.com",
+                  "snippet": "... Passion Builders Online they make these videos possible and what they do is they help musicians that teach to find students online and turn ...",
+                  "title": "Live Jazz Cover: '5 Spot After Dark' by Curtis Fuller | West ...",
+                  "url": "https://www.facebook.com/paulthetrombonistfans/videos/live-jazz-cover-5-spot-after-dark-by-curtis-fuller-west-coast-sessions/1368236471401326/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "facebook.com",
+                  "snippet": "Enroll Premium Clients, Las Vegas. We help high-ticket coaches, consultants, and experts scale to $10K-$50K/mo... being called a marketing agency. We train you ...",
+                  "title": "Enroll Premium Clients | Las Vegas NV",
+                  "url": "https://www.facebook.com/enrollpremiumclients/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "facebook.com",
+                  "snippet": "My name is Matt, They pay me at the beginning of the month, and I only allow one refund per kid per month. Enroll Premium Clients. Matt ...",
+                  "title": "\ud835\udc08\ud835\udc1f \ud835\udc32\ud835\udc28\ud835\udc2e \ud835\udc1a\ud835\udc2b\ud835\udc1e \ud835\udc1a \ud835\udc26\ud835\udc2e\ud835\udc2c\ud835\udc22\ud835\udc1c \ud835\udc1e\ud835\udc1d\ud835\udc2e\ud835\udc1c\ud835\udc1a\ud835\udc2d\ud835\udc28\ud835\udc2b \ud835\udc30\ud835\udc21\ud835\udc28 \ud835\udc22\ud835\udc2c ...",
+                  "url": "https://www.facebook.com/enrollpremiumclients/posts/%F0%9D%90%88%F0%9D%90%9F-%F0%9D%90%B2%F0%9D%90%A8%F0%9D%90%AE-%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%9E-%F0%9D%90%9A-%F0%9D%90%A6%F0%9D%90%AE%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%9C-%F0%9D%90%9E%F0%9D%90%9D%F0%9D%90%AE%F0%9D%90%9C%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%A8%F0%9D%90%AB-%F0%9D%90%B0%F0%9D%90%A1%F0%9D%90%A8-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%9C%F0%9D%90%AE%F0%9D%90%AB%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD%F0%9D%90%A5%F0%9D%90%B2-%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A0-%F0%9D%9F%8F%F0%9D%9F%8F-%F0%9D%90%A9%F0%9D%90%AB%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%9E-%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AC%F0%9D%90%A8%F0%9D%90%A7%F0%9D%90%AC-%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9D-%F0%9D%90%B2%F0%9D%90%A8%F0%9D%90%AE/1257847316340426/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "instagram.com",
+              "entries": [
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "Apply \u2192 enrollpremiumclients.com/dfy #results #clientwins #coachingresults #highticket #enrollpremiumclients ...",
+                  "title": "Matt Brockman (@enrollpremiumclients) \u00b7 Las Vegas, NV",
+                  "url": "https://www.instagram.com/enrollpremiumclients/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "Enroll Premium Clients What happens after someone opts into your funnel | If your system is built right. Instant: AI Responds. Within 60 ...",
+                  "title": "You don't need a big audience to build a coaching business ...",
+                  "url": "https://www.instagram.com/reel/DZfvxsRuwin/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "Enroll Premium Clients The 5 biggest ad mistakes coaches make. #3 is the most expensive. Mistake 1: Boosting posts instead of running real ...Read more",
+                  "title": "Reuben Driedger - Business Coach to Fitness + Health ...",
+                  "url": "https://www.instagram.com/p/DYxhNNmFaAI/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "Don't let the coaching industry scam you IfI hear another coach talking about the ... enrollpremiumclients.com/dfy @enrollpremiumclients ...Read more",
+                  "title": "I've just started my coach training program and I'm excited ...",
+                  "url": "https://www.instagram.com/p/DTVml_AjYD9/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "Here's how Enroll Premium Clients does it: \u2713 Done-for-you Meta Ads \u2713 Full GHL funnel build \u2713 AI-powered lead setting \u2713 Weekly coaching ...",
+                  "title": "The fastest way to attract dream clients and repel tirekickers is ...",
+                  "url": "https://www.instagram.com/reel/DY0IZnzxWrt/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "... Reviews on Trust Pilot so far... To Build Your AI Side Hustle ... Apply at enrollpremiumclients.com/dfy | $0 upfront, pay from results ...Read more",
+                  "title": "lorikennedyinc",
+                  "url": "https://www.instagram.com/p/DX5FVP6DxMk/?img_index=8&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "Here's how Enroll Premium Clients does it: \u2713 Done-for-you Meta Ads \u2713 Full GHL funnel build \u2713 AI-powered lead setting \u2713 Weekly coaching ...",
+                  "title": "Aaron Stephenson | AI DM Setter for Coaches | Here\u2019s a ...",
+                  "url": "https://www.instagram.com/reel/DSVZXbjjtJ8/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "Here's how Enroll Premium Clients does it: \u2713 Done-for-you Meta Ads \u2713 Full GHL funnel build \u2713 AI-powered lead setting \u2713 Weekly coaching calls \u2713 Sales ...",
+                  "title": "Reel by Matt Brockman (@enrollpremiumclients) \u00b7 May 6, 2021",
+                  "url": "https://www.instagram.com/reel/COiwpmygJPM/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "enrollpremiumclients. \u2022. \u0645\u062a\u0627\u0628\u0639\u0629. 1 \u0625\u0639\u062c\u0627\u0628. enrollpremiumclients. Here's the math behind a $90K month with a coaching business. Here's how Enroll Premium Clients ...",
+                  "title": "Here's the math behind a $90K month with a coaching business ...",
+                  "url": "https://www.instagram.com/p/DXrP1dEFV2E/?hl=ar&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "Not a scam but I'd say the issue is over promising and under delivering. ... Apply at enrollpremiumclients.com/dfy | $0 upfront, pay from results ...Read more",
+                  "title": "Comment \u201cROADMAP\u201d and I'll send you my full breakdown ...",
+                  "url": "https://www.instagram.com/p/DXgKt7CjFw4/?img_index=5&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "... Premium clients pay for your shortcut, your accountability ... Apply at enrollpremiumclients.com/dfy | $0 upfront @enrollpremiumclients ...Read more",
+                  "title": "HERE'S WHAT MOST COACHES GET WRONG ABOUT ...",
+                  "url": "https://www.instagram.com/p/DXq_JpajBqq/?__d=1%E4%B8%93%E4%B8%9A%E5%8C%96%E6%9F%A5%E8%AF%A2%E6%9F%90%E4%BA%BA%E5%8F%8A%E5%B0%8F%E4%B8%89%E5%BC%80%E6%88%BF%E4%BF%A1%E6%81%AF%2C%E5%85%A8%E7%BD%91%E6%BA%90%E5%A4%B4%E9%97%AA%E7%94%B5%E7%A4%BE%E5%B7%A5%E5%BA%93%E2%9C%94%EF%B8%8Fsssl.click&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "Enroll Premium Clients ... Comment '30DAYS' below. enrollpremiumclients's profile picture &middot; enrollpremiumclients. \u2022. Follow. 6 likes.",
+                  "title": "May the 4th be with you! I'll be giving this arrangement away ...",
+                  "url": "https://www.instagram.com/thebrocktrumpet/reel/Cr06KJiNjfD/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "Photo by Matt Brockman. There are only 3 stages between $0 and $50K/month. Get your first 5\u201310 clients. people will pay for it. Photo by Matt ...",
+                  "title": "Virtual Masterclass with Matthias Hofs this Sunday! Link in ...",
+                  "url": "https://www.instagram.com/p/Cuht0rjPaPJ/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "Drops refund rate by 8x. Most skip it. to claim access. Manage clients, check-ins, plans, progress, leads and revenue \u2026 enrollpremiumclients's. ...",
+                  "title": "$10K coaches sell time. $100K coaches build systems. Follow ...",
+                  "url": "https://www.instagram.com/reel/DWDatBwDLMy/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "\"Content = paid ads you don't pay for.\" \u2014 Matt Brockman | Enroll Premium Clients Tag someone who needs to hear this #coachingbusiness # ...Read more",
+                  "title": "\"Content = paid ads you don't pay for.\" \u2014 Matt Brockman",
+                  "url": "https://www.instagram.com/p/DXl7lTrCQHh/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "THE COMPLAINT. 'Your ads aren't working. Photo by Matt Brockman on July 08, 2026.",
+                  "title": "Most freelancers treat paid ads like a luxury \u2014something you ...",
+                  "url": "https://www.instagram.com/reel/DUpn8bejFVM/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "Attention business owners, if you are doing a million dollars or more in annual gross revenue, I need you to pay attention for just ten seconds.",
+                  "title": "DM me \u201c1\u201d to qualify! Giving away only 3 seats to our next ...",
+                  "url": "https://www.instagram.com/reel/DXrvMxmjNgB/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "Let me send the email about your rate increase, update your invoices, and field questions & complaints so you don't have to \ud83e\udd70. Photo by Matt ...",
+                  "title": "You quote your full fee\u2026and they say no. ...",
+                  "url": "https://www.instagram.com/p/DMfkmmHMyt-/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "... Enroll Premium Clients does it: \u2713 Done-for-you Meta Ads \u2713 Full GHL ... Photo by Matt Brockman on June 14, 2026. May be an image of ...",
+                  "title": "Here's the math behind a $90K month with a coaching ...",
+                  "url": "https://www.instagram.com/reel/DXrP1dEFV2E/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "Photo by Matt Brockman. You can join for a small one time payment for the entire 30 days, And if you're not happy by the end, I'll refund you ...",
+                  "title": "Everyone wants $100K/month. Almost no one is willing to go ...",
+                  "url": "https://www.instagram.com/reel/DTlLI-JEnJj/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "I'll refund you AND let you keep it all. enrollpremiumclients's. Photo by Matt Brockman on June 24, 2026. 100% Money-Back Guarantee* Photo by ...",
+                  "title": "Nutritional Career and Coaching Institute ...",
+                  "url": "https://www.instagram.com/p/DN-4c3EDc4J/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "\"High-ticket doesn't just pay better. It creates better clients.\" \u2014 Matt Brockman | Enroll Premium Clients Tag someone who needs to hear this # ...",
+                  "title": "High-ticket doesn't just pay better. It creates better clients.",
+                  "url": "https://www.instagram.com/p/DXrFVnNiZcy/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "Investing is scary, but it's a good scary because it's to better your future. We have self doubts about if something will work but what if ...Read more",
+                  "title": "Investing \ud83d\udcc8 is scary, but it's a good scary because it's ...",
+                  "url": "https://www.instagram.com/reel/DSEm_sujRlj/?hl=zh-cn&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "I started my career in litigation in 2013. On paper ... Photo by Matt Brockman on June 26, 2026. May be a meme of text. enrollpremiumclients ...Read more",
+                  "title": "signed up for a free sales masterclass and walked away ...",
+                  "url": "https://www.instagram.com/p/DNTiclXx42q/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "trustpilot.com",
+              "entries": [
+                {
+                  "attribution": "trustpilot.com",
+                  "snippet": "enrollpremiumclients.com\u202217 reviews. 4.6 \u00b7 Precisionbrass. precisionbrass.info\u20228 ... See how their reviews and ratings are sourced, scored, and moderated.Read more",
+                  "title": "Paulthetrombonist Reviews",
+                  "url": "https://www.trustpilot.com/review/www.paulthetrombonist.com?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "trustpilot.com",
+                  "snippet": "Mar 21, 2026 \u2014 enrollpremiumclients.com\u202217 reviews. 4.6 \u00b7 CategoriesBlog \u00b7 Log inFor ... See how their reviews and ratings are sourced, scored, and moderated.Read more",
+                  "title": "Read Customer Service Reviews of charliai.com",
+                  "url": "https://www.trustpilot.com/review/charliai.com?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "trustpilot.com",
+                  "snippet": "Sep 15, 2025 \u2014 enrollpremiumclients.com\u202217 reviews. 4.6 \u00b7 CategoriesBlog \u00b7 Log inFor ... See how their reviews and ratings are sourced, scored, and moderated.Read more",
+                  "title": "Read Customer Service Reviews of doubletaptrading.com",
+                  "url": "https://www.trustpilot.com/review/doubletaptrading.com?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "trustpilot.com",
+                  "snippet": "enrollpremiumclients.com\u202216 reviews. 4.5 \u00b7 Eloy6strings. eloy6strings.com\u202221 ... See how their reviews and ratings are sourced, scored, and moderated.Read more",
+                  "title": "The Gospel University Reviews 27",
+                  "url": "https://www.trustpilot.com/review/thegospeluniversity.com?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "enrollpremiumclients.com",
+              "entries": [
+                {
+                  "attribution": "enrollpremiumclients.com",
+                  "snippet": "Hey, I'm Matt! Our founder Matt is a United States based entrepreneur ... Matt Brockman and Enroll Premium Clients has had dollar babies. If you have ...Read more",
+                  "title": "Enroll Premium Clients | Done-For-You Growth Systems for ...",
+                  "url": "https://enrollpremiumclients.com/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "matt-brockman.com",
+              "entries": [
+                {
+                  "attribution": "matt-brockman.com",
+                  "snippet": "Matt Brockman, a seasoned entrepreneur, excels in Done-For-You marketing. He founded Enroll Premium Clients to revolutionize client acquisition for coaches and ...Read more",
+                  "title": "Pushing Boundaries - Matt Brockman",
+                  "url": "https://matt-brockman.com/about?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "goodmenproject.com",
+              "entries": [
+                {
+                  "attribution": "goodmenproject.com",
+                  "snippet": "Jun 8, 2026 \u2014 Matt Brockman Shares Lessons Learned Through Entrepreneurship and Business Growth ... \u201cI started Enroll Premium Clients because I lived the ...Read more",
+                  "title": "Matt Brockman Shares Lessons Learned Through ...",
+                  "url": "https://goodmenproject.com/everyday-life-2/matt-brockman-shares-lessons-learned-through-entrepreneurship-and-business-growth/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "youtube.com",
+              "entries": [
+                {
+                  "attribution": "youtube.com",
+                  "snippet": "In this video, I reveal the 4 subtle mistakes that sabotage premium enrollments, Contact Email: tom@tomjackobs.com Contact Phone: 415-316-1995",
+                  "title": "Why Practitioners Struggle to Enroll Premium Clients?",
+                  "url": "https://www.youtube.com/watch?v=jb7e0-1Xkd4&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "youtube.com",
+                  "snippet": "Matt B - Enroll Premium Clients @thebrockconsulting. All things sales, business, investing, and more! From Broke Musician to $4 Million in Sales \u2026 $86k a month ...",
+                  "title": "Matt B - Enroll Premium Clients",
+                  "url": "https://www.youtube.com/%40thebrockconsulting?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "youtube.com",
+                  "snippet": "HOW TO talk to premium, ready-to-invest clients in a way that brings them in. In this episode, I'll be sharing with you what I have found to ...",
+                  "title": "How to sell to premium clients in 2023",
+                  "url": "https://www.youtube.com/watch?v=pNNiNVaA7XQ&utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "skool.com",
+              "entries": [
+                {
+                  "attribution": "skool.com",
+                  "snippet": "We help coaches, experts, consultants, agency owners, and course creators acquire premium clients through power presentations.",
+                  "title": "Enroll Premium Clients - DWY",
+                  "url": "https://www.skool.com/enrollpremiumclients?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "apple.com",
+              "entries": [
+                {
+                  "attribution": "apple.com",
+                  "snippet": "... Premium Clients, who. ... instagram.com/enrollpremiumclients/ LISTEN TO ... Instagram: @seanmikekelly \u26a0\ufe0f DISCLAIMER The views and opinions expressed ...",
+                  "title": "Why You Can't Get Clients... | Matt Brockman | DSH #1901",
+                  "url": "https://podcasts.apple.com/ch/podcast/why-you-cant-get-clients-matt-brockman-dsh-1901/id1880142934?i=1000759130828&l=it&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "apple.com",
+                  "snippet": "... Enroll Premium Clients, who has generated over $4 million in high-ticket sales, to break down what is really happening in the online business world right now.",
+                  "title": "Digital Social Hour - Podcast",
+                  "url": "https://podcasts.apple.com/gr/podcast/digital-social-hour/id1676846015?l=el&utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "048a83f9-1ef3-4a0e-8e83-828611cc0b29"
+    },
+    "8292627e-92b7-4c2b-8b26-a71929e068a4": {
+      "id": "8292627e-92b7-4c2b-8b26-a71929e068a4",
+      "message": null,
+      "parent": null
+    },
+    "bbb21d69-8a51-49d7-b65a-5028f306165b": {
+      "id": "bbb21d69-8a51-49d7-b65a-5028f306165b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Research these guys and let me know if this is legithttps://enrollpremiumclients.com/apply?fbc_id=120247035925130186&h_ad_id=120247035925070186&utm_medium=paid&utm_source=ig&utm_id=120247035083180186&utm_content=120247035925070186&utm_term=120247035925130186&utm_campaign=120247035083180186&fbclid=PAdGRzdgTElJBleHRuA2FlbQEwAGFkaWQBqzQK0AhrmnNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABp2CdWSPOA9jg9BRZSkklJ1etADsg8Am9PX9y07NkxLD1sUzycQUuUvNpYA8z_aem_EsGEdAcEF0QZkRRm2tOJXw"
+          ]
+        },
+        "create_time": 1784132964.694652,
+        "id": "bbb21d69-8a51-49d7-b65a-5028f306165b",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "8292627e-92b7-4c2b-8b26-a71929e068a4"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Legitimacy of Premium Clients",
+  "update_time": 1784133011.749292,
+  "voice": null
+}

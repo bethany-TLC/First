@@ -1,0 +1,99 @@
+{
+  "conversation_id": "69e7507a-4d88-83ea-942f-804d38246a4f",
+  "conversation_template_id": null,
+  "create_time": 1776767100.456803,
+  "current_node": "d3ad48e0-1c90-45d0-b497-5d06f3387008",
+  "default_model_slug": "gpt-5-3",
+  "id": "69e7507a-4d88-83ea-942f-804d38246a4f",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "d3ad48e0-1c90-45d0-b497-5d06f3387008": {
+      "id": "d3ad48e0-1c90-45d0-b497-5d06f3387008",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s the **quick, no-fluff summary** of what you missed from Carl and \ue200entity\ue202[\"people\",\"Eric\",\"business partner\"]\ue201 before you joined:\n\n---\n\n### \ud83d\udd39 1. They were geeking out on a new AI workflow\n- Eric discovered a **process using tools like Manus + Google NotebookLM**  \n- He\u2019s taking long trainings/podcasts and turning them into:\n  - Clean summaries\n  - Structured outlines\n  - Slide decks, mind maps, reports\n  - Even **AI-generated podcast-style audio recaps**\n- The audio feature especially impressed them. It sounds like real experts discussing the material.\n\n---\n\n### \ud83d\udd39 2. Goal: Build a centralized \u201cknowledge system\u201d\n- They want to **compile everything into one organized system**, including:\n  - Training content from Gil\u2019s program\n  - Expert sessions (like Mina, Yana, etc.)\n  - Calls and materials from Ashley\n- Idea is to create a **master knowledge base** the team can learn from and reuse\n\n---\n\n### \ud83d\udd39 3. Team execution plan\n- Eric already started building this out himself (fast)\n- Anshul is working on a separate expert (Yana)\n- Plan is to:\n  - Compare approaches\n  - Decide as a team how to standardize it\n- They may store everything in:\n  - Google Drive **or**\n  - Keep it inside NotebookLM if it works better\n\n---\n\n### \ud83d\udd39 4. Big realization\n- Some experts didn\u2019t seem great live\u2026  \n  \u2192 but when condensed through this system, the **content is actually extremely valuable**\n- This reframed how they view training material\n\n---\n\n### \ud83d\udd39 5. Minor context\n- Waiting on someone who was late to the call (doctor delay)\n- Quick check-ins on your setup, lighting, etc.\n\n---\n\n### Bottom line:\nThey\u2019re building a **high-leverage internal intelligence system** to turn all training/content into usable assets for the business fast.\n\n---\n\nIf you want, I can turn this into how YOU should leverage this for Luxora specifically, because this actually ties directly into your Revenue Leak Audit + internal systems positioning."
+          ]
+        },
+        "create_time": 1776767100.217085,
+        "id": "d3ad48e0-1c90-45d0-b497-5d06f3387008",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "Eric",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "business partner"
+              },
+              "id": null,
+              "metadata": null,
+              "name": "Eric",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Eric",
+              "type": "entity"
+            }
+          ],
+          "model_slug": "gpt-5-3",
+          "parent_id": "45c91a0e-4ea0-4bcb-aa6d-8cfd0187a999"
+        }
+      },
+      "parent": "efe58471-37b0-4868-875e-98c82f69cf1b"
+    },
+    "efe58471-37b0-4868-875e-98c82f69cf1b": {
+      "id": "efe58471-37b0-4868-875e-98c82f69cf1b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "quickly summrie what Crl nd Eric talked about and i missed before entering the call: "
+          ]
+        },
+        "create_time": 1776767099.436,
+        "id": "efe58471-37b0-4868-875e-98c82f69cf1b",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_00000000c5b871f7bb604e8efc0c3ce7",
+              "is_big_paste": true,
+              "library_file_id": "libfile_2b33cf23945881919510ae40bfbdc6a2",
+              "mime_type": "text/plain",
+              "name": "Pasted text(18).txt",
+              "size": 10271,
+              "source": "local"
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Crl Eric AI Workflow",
+  "update_time": 1776767113.227492,
+  "voice": null
+}

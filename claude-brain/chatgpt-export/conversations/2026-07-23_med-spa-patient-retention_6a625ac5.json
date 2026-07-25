@@ -1,0 +1,72 @@
+{
+  "conversation_id": "6a625ac5-8cc4-83ea-92d0-c03a796bb810",
+  "conversation_template_id": null,
+  "create_time": 1784830672.384228,
+  "current_node": "5ccf15d2-974a-43c6-8f74-60bb794726be",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a625ac5-8cc4-83ea-92d0-c03a796bb810",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "11642fce-a122-4652-b352-7a4b0ed77ba8": {
+      "id": "11642fce-a122-4652-b352-7a4b0ed77ba8",
+      "message": null,
+      "parent": null
+    },
+    "5ccf15d2-974a-43c6-8f74-60bb794726be": {
+      "id": "5ccf15d2-974a-43c6-8f74-60bb794726be",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ":::writing{variant=\"social_post\" id=\"57721\"}\nMarketing agencies love to brag about how many leads they generated.\n\nBut here's the question nobody asks...\n\n\ud83d\udc89 How many of those patients actually came back?\n\nIf your \"new patient\" gets Botox once, spends $300, says no to everything else, and disappears for the next 6 months...\n\nYou don't have a marketing problem.\n\nYou have a patient value problem.\n\nMost agencies stop after the appointment gets booked.\n\nWe don't.\n\nAt The Luxora Collective, we help med spas:\n\u2728 Attract higher-quality patients\n\u2728 Train teams to increase conversions and upsells\n\u2728 Build memberships and retention systems\n\u2728 Turn one-time Botox appointments into lifetime clients worth thousands\n\nBecause real growth isn't about constantly replacing patients.\n\nIt's about keeping the ones you've already paid to acquire.\n\nIf you're stuck on the marketing hamster wheel, it's time to fix what happens after the patient walks through your door.\n\n\ud83d\udcf2 Book a Growth Strategy Call and let's build a practice that grows with lifetime clients, not one-time appointments.\n\n#MedSpaMarketing #MedicalSpa #AestheticPractice #MedSpaOwner #PracticeGrowth #PatientRetention #Memberships #AestheticsBusiness #TheLuxoraCollective #MedSpaSuccess\n:::"
+          ]
+        },
+        "create_time": 1784830672.331219,
+        "id": "5ccf15d2-974a-43c6-8f74-60bb794726be",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "90af9b0b-2c99-43ec-ae6b-d245248cf932"
+        }
+      },
+      "parent": "bbb21fd0-3ef4-4cf1-9e1d-25695ceba4f4"
+    },
+    "bbb21fd0-3ef4-4cf1-9e1d-25695ceba4f4": {
+      "id": "bbb21fd0-3ef4-4cf1-9e1d-25695ceba4f4",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write a tiktok post about this video ad: Thank you! This makes more sense:\n\nYou hired a marketing agency.\nThe ads are running. Appointments are getting booked. New patients are walking through the door.\nGreat... except then this keeps happening.\nThey come in.\nGet a couple hundred dollars of Botox.\nSay no to everything else.\nAnd then...\nYou never see them again.\nThree months go by. Six months go by.\nGone.\nSo now you have to keep spending more money to find another new patient to replace the one you just lost.\nThat\u2019s not predictable growth. That\u2019s a revolving door.\nAt The Luxora Collective, we fix the entire process.\nWe help you attract quality patients who are actually interested in more than the cheapest offer.\nThen we train your team to convert and upsell those patients into the right services, packages and memberships.\nAnd we implement the retention systems that keep them coming back three, four or more times a year.\nBecause the goal isn\u2019t to get someone through your door once for a few hundred dollars.\nThe goal is to turn that new patient into a lifetime client worth thousands.\nAnd I know how to do that because I spent over a decade running and growing aesthetics practices before I ever touched an ad account.\nI know what happens after the patient walks through the door.\nThat\u2019s why The Luxora Collective is different.\nWe don\u2019t just get you leads.\nWe help you turn new patients into higher-value, returning clients.\nIf you're tired of paying to fill a revolving door with one-and-done patients...\nStop doom scrolling and book the call.\nLet\u2019s turn those one-time patients into lifetime paying clients."
+          ]
+        },
+        "create_time": 1784830671.07048,
+        "id": "bbb21fd0-3ef4-4cf1-9e1d-25695ceba4f4",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "11642fce-a122-4652-b352-7a4b0ed77ba8"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Med spa patient retention",
+  "update_time": 1784830678.203565,
+  "voice": null
+}

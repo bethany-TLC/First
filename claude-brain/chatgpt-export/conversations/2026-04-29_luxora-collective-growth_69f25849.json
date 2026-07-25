@@ -1,0 +1,72 @@
+{
+  "conversation_id": "69f25849-f820-83ea-aeec-5700142170ae",
+  "conversation_template_id": null,
+  "create_time": 1777490083.16911,
+  "current_node": "248f6a31-3f40-46d4-805f-1d0ab6a27ad6",
+  "default_model_slug": "gpt-5-3",
+  "id": "69f25849-f820-83ea-aeec-5700142170ae",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "248f6a31-3f40-46d4-805f-1d0ab6a27ad6": {
+      "id": "248f6a31-3f40-46d4-805f-1d0ab6a27ad6",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Big win for The Luxora Collective this week \ud83d\ude4c\n\nWe\u2019re officially hitting that inflection point\u2026 ads are dialed, sales calls are coming in hot, and we\u2019re onboarding new clients consistently to the point where we\u2019re now looking to expand the team.\n\nHuge thank you to Limitless, Gil, and the entire team for your patience while we built this the right way. We didn\u2019t rush it, we focused on getting the foundation solid first\u2026 and now it\u2019s starting to compound.\n\nExcited for what\u2019s ahead. This is just the beginning \ud83d\ude80"
+          ]
+        },
+        "create_time": 1777490083.017404,
+        "id": "248f6a31-3f40-46d4-805f-1d0ab6a27ad6",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "70878614-bf07-409a-bd5c-0055c49fdb4a"
+        }
+      },
+      "parent": "71ea1809-0bd7-4ee9-b706-d8eafd56d9f8"
+    },
+    "71ea1809-0bd7-4ee9-b706-d8eafd56d9f8": {
+      "id": "71ea1809-0bd7-4ee9-b706-d8eafd56d9f8",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "write a short post in our community wins slack channel about the luxora collective and how we are starting to get major traction and a onbaroding new clients to the point of we are now needing to add some more team memebers. thank Limitless and Gil and team for being patient with us as we grew slowly. but the time has come where our ads are finlly working and sales callas are coming in hot!"
+          ]
+        },
+        "create_time": 1777490082.332,
+        "id": "71ea1809-0bd7-4ee9-b706-d8eafd56d9f8",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Luxora Collective Growth",
+  "update_time": 1777490098.893493,
+  "voice": null
+}

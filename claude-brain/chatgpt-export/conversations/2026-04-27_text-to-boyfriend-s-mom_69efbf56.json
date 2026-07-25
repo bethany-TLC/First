@@ -1,0 +1,102 @@
+{
+  "conversation_id": "69efbf56-e644-83ea-8fb9-e1e49c8fd4be",
+  "conversation_template_id": null,
+  "create_time": 1777319801.053636,
+  "current_node": "f9ab750b-693a-48f2-84b0-cc815a821690",
+  "default_model_slug": "gpt-5-3",
+  "id": "69efbf56-e644-83ea-8fb9-e1e49c8fd4be",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "65f790ac-347f-43e3-b3a8-c0391f341d44": {
+      "id": "65f790ac-347f-43e3-b3a8-c0391f341d44",
+      "message": null,
+      "parent": null
+    },
+    "bbb215e9-7b5b-4581-9bc7-9a30214c8175": {
+      "id": "bbb215e9-7b5b-4581-9bc7-9a30214c8175",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_000000008c8c71fdb6f3fead04adc976",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 2244,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 208165,
+              "width": 1008
+            },
+            "Can you turn this text to my boyfriend into a text to his mom who was very concerned about me last night due to my high blood pressure. Just let her know how thankful I am that she was concerned and I listened to her and her husband Tom and went in today and got on some meds"
+          ]
+        },
+        "create_time": 1777319800.715499,
+        "id": "bbb215e9-7b5b-4581-9bc7-9a30214c8175",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_000000008c8c71fdb6f3fead04adc976",
+              "mime_type": "image/png",
+              "name": "file_000000008c8c71fdb6f3fead04adc976",
+              "size": 208165
+            }
+          ],
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "65f790ac-347f-43e3-b3a8-c0391f341d44"
+    },
+    "f9ab750b-693a-48f2-84b0-cc815a821690": {
+      "id": "f9ab750b-693a-48f2-84b0-cc815a821690",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a thoughtful, reassuring text you can send to his mom:\n\n---\n\nHi [Her Name], I just wanted to thank you so much for your concern last night. It really meant a lot to me. I took your advice and Tom\u2019s and went in today to get checked out. I saw a great doctor and got started on a very low dose of blood pressure medication as a preventative step. She was not overly concerned, but agreed it is something we should stay ahead of. I\u2019m really grateful you both encouraged me to go in. It gave me peace of mind and I feel like I\u2019m on the right track now. Thank you again for caring so much \ud83e\udd0d\n\n---\n\nIf you want it a little shorter or more casual, I can tweak the tone."
+          ]
+        },
+        "create_time": 1777319800.904803,
+        "id": "f9ab750b-693a-48f2-84b0-cc815a821690",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "733a2743-84b5-4979-8ac2-78c92f226e35"
+        }
+      },
+      "parent": "bbb215e9-7b5b-4581-9bc7-9a30214c8175"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Text to Boyfriend's Mom",
+  "update_time": 1777319808.687357,
+  "voice": null
+}

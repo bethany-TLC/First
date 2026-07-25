@@ -1,0 +1,511 @@
+{
+  "conversation_id": "6a0b9404-dde0-83ea-813d-353aafef58e0",
+  "conversation_template_id": null,
+  "create_time": 1779143748.736707,
+  "current_node": "446c5547-4075-46f5-8cb9-62932f68d91e",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a0b9404-dde0-83ea-813d-353aafef58e0",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "220d3d70-c4d6-4f67-8a71-0c1e6456e9f5": {
+      "id": "220d3d70-c4d6-4f67-8a71-0c1e6456e9f5",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ":::writing{variant=\"email\" id=\"38164\" subject=\"We\u2019d Love To Have You Join The Luxora Team\"}\nHi Casey,\n\nI just wanted to follow up after speaking with the team, and I can confidently say we would absolutely LOVE to have you come aboard with The Luxora Collective.\n\nAfter our conversation, everyone really feels like your background, leadership experience, aesthetic knowledge, personality, and sales ability align so naturally with what we are building. It honestly feels like such an organic fit.\n\nI especially love that you already understand the med spa world from the inside out because that is something you simply cannot teach overnight. Your ability to connect with people, understand owners\u2019 pain points, and communicate from real experience is incredibly valuable to us as we continue scaling.\n\nI also think your long-term vision, entrepreneurial mindset, and passion for leadership and growth fit perfectly into the future evolution of the company. We are building something much bigger than just a traditional agency, and I truly think you could become a huge part of that journey with us.\n\nWhile we continue ramping up our setter team and filling calendars, we would also absolutely love any support you\u2019d be willing to give on the front-end setting side initially, just so we can continue building momentum together while the rest of the systems and team scale into place.\n\nWould love to hear your thoughts after reviewing everything and talking it over with Rachel. No pressure at all, but we are genuinely very excited about the possibility of bringing you into this tight-knit little family we are building.\n\nTalk soon, girl \ud83d\udc9b\n\nBethany\n:::"
+          ]
+        },
+        "create_time": 1779228465.212953,
+        "id": "220d3d70-c4d6-4f67-8a71-0c1e6456e9f5",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "ae8239ad-53fb-4964-b5ec-52bf8bea5204"
+        }
+      },
+      "parent": "404f214b-699e-4dfe-af65-47f4dcf657ab"
+    },
+    "26041d72-fe29-4017-ba71-17d744ef3574": {
+      "id": "26041d72-fe29-4017-ba71-17d744ef3574",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "now create one for Blaise and be specific on what i told her her roe would be mainly setting and local outreach at first: "
+          ]
+        },
+        "create_time": 1779144393.218,
+        "id": "26041d72-fe29-4017-ba71-17d744ef3574",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_00000000999871f5bb5ac9e416ad8c2b",
+              "is_big_paste": true,
+              "library_file_id": "libfile_08985f9773ac81919e855adb4500e494",
+              "mime_type": "text/plain",
+              "name": "Pasted text(35).txt",
+              "size": 21956,
+              "source": "local"
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "9ca97364-8649-4220-a6b7-93048fc1d4ad"
+    },
+    "3781472a-13b5-48fb-9539-a0d5b70aa7a8": {
+      "id": "3781472a-13b5-48fb-9539-a0d5b70aa7a8",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "write a follow up telling her i talked to team and we would LOVE to have her aboard and hear you rhtoughts on joining us"
+          ]
+        },
+        "create_time": 1779228452.116,
+        "id": "3781472a-13b5-48fb-9539-a0d5b70aa7a8",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "8b8ac6a5-bc10-4d76-bd2b-577c23083522"
+    },
+    "404f214b-699e-4dfe-af65-47f4dcf657ab": {
+      "id": "404f214b-699e-4dfe-af65-47f4dcf657ab",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "no write casey"
+          ]
+        },
+        "create_time": 1779228465.495,
+        "id": "404f214b-699e-4dfe-af65-47f4dcf657ab",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "afe09ba9-4717-4ebf-9a39-58fa19aad7d7"
+    },
+    "446c5547-4075-46f5-8cb9-62932f68d91e": {
+      "id": "446c5547-4075-46f5-8cb9-62932f68d91e",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ":::writing{variant=\"email\" id=\"51842\" subject=\"Excited To Have You Join Us\"}\nHi Casey,\n\nI wanted to follow up and let you know I spoke with the team, and we would absolutely LOVE to have you join The Luxora Collective.\n\nWe officially have setters in place now, which means we would love for your primary focus to be fully on the closer side and helping us guide these med spa owners through the vision, systems, and growth opportunities we are building.\n\nAfter our conversation, I genuinely feel like your experience, energy, leadership background, and ability to connect with people make you such a natural fit for this role and for the future of the company as a whole.\n\nI truly believe you could become a huge part of what we are building long term, and everyone is very excited about the possibility of bringing you into this tight-knit team.\n\nWould love to hear your thoughts after you\u2019ve had time to think everything over and talk with Rachel.\n\nTalk soon, girl \ud83d\udc9b\n\nBethany\n:::"
+          ]
+        },
+        "create_time": 1779228501.002479,
+        "id": "446c5547-4075-46f5-8cb9-62932f68d91e",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "91af7df6-6a48-446d-9550-4858266880a2"
+        }
+      },
+      "parent": "72f5ff5b-8891-4047-bedc-5d12a85e8769"
+    },
+    "72f5ff5b-8891-4047-bedc-5d12a85e8769": {
+      "id": "72f5ff5b-8891-4047-bedc-5d12a85e8769",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "just tell her we have setters in place now and she can be full time closer"
+          ]
+        },
+        "create_time": 1779228501.257,
+        "id": "72f5ff5b-8891-4047-bedc-5d12a85e8769",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "220d3d70-c4d6-4f67-8a71-0c1e6456e9f5"
+    },
+    "8b8ac6a5-bc10-4d76-bd2b-577c23083522": {
+      "id": "8b8ac6a5-bc10-4d76-bd2b-577c23083522",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Based on your call with Blaise, here\u2019s a polished follow-up email that clearly outlines her initial role, growth opportunity, and next steps. \ue200filecite\ue202turn1file0\ue201\n\n:::writing{variant=\"email\" id=\"56381\" subject=\"Excited About The Opportunity Ahead With Luxora\"}\nHi Blaise,\n\nThank you again for taking the time to jump on a call with me today. I really enjoyed getting to know you better and hearing more about your sales background, experience with cold outreach, and overall goals moving forward.\n\nI can already tell your confidence in communication, ability to handle cold interactions, and willingness to learn would make you a strong asset to what we are building at The Luxora Collective.\n\nAs discussed, we are currently in a rapid growth and scaling phase, so right now the biggest need on our team is strong front-end support through:\n\u2022 Appointment setting  \n\u2022 Local networking and outreach  \n\u2022 Connecting with med spa owners  \n\u2022 Booking Revenue Leak Audit calls  \n\u2022 Helping us build stronger local visibility and relationships in the Nashville market  \n\u2022 Assisting in filling calendars while we ramp up our closing department\n\nYour role initially would be heavily focused on:\n\u2022 Outbound setting  \n\u2022 Referral outreach  \n\u2022 Local med spa networking  \n\u2022 Following scripts and objection handling frameworks  \n\u2022 Booking qualified calls onto the calendar  \n\u2022 Helping increase appointment volume and consistency\n\nBecause you are local, I also see a huge opportunity for you to help us grow through boots-on-the-ground outreach, local partnerships, events, networking, and relationship building within the Nashville aesthetic community, which is something I am extremely excited about.\n\nAs we continue scaling and as you become more immersed in the Luxora systems, offers, and sales process, there is absolutely room to evolve into a closer role over time. I want everyone on this team to grow with the company, not stay stuck in one position forever.\n\nCompensation recap:\n\u2022 $29 paid directly to you for each completed Revenue Leak Audit booking  \n\u2022 $250 referral payout for closed deals from your booked appointments  \n\u2022 Opportunity to transition into high-ticket closing with 10% commissions as we continue scaling and onboarding\n\nAttached, I\u2019m sending:\n\u2022 A one-page overview of Luxora and our offers  \n\u2022 Additional company information and positioning  \n\u2022 Referral/outreach scripting examples  \n\u2022 Website and branding materials so you can continue getting familiar with our vision\n\nI\u2019d love for you to take a little time to review everything, think on it, pray on it, and discuss it with your partner as well. We are moving quickly over the next couple of weeks and are actively building out the team before we hit June hard.\n\nI\u2019m really excited about the possibility of having you join us and helping build something special together.\n\nTalk soon!\n\nBethany  \nCo-Founder & CEO  \nThe Luxora Collective\n:::"
+          ]
+        },
+        "create_time": 1779144393.99278,
+        "id": "8b8ac6a5-bc10-4d76-bd2b-577c23083522",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": null,
+              "cloud_doc_url": "",
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_00000000999871f5bb5ac9e416ad8c2b",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "86dce43f-146b-4d78-9bf4-f035490c74f0",
+                "message_index": 1
+              },
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "Pasted text.txt",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "836abc0a-e57f-4027-b886-f236624753ab"
+        }
+      },
+      "parent": "26041d72-fe29-4017-ba71-17d744ef3574"
+    },
+    "8dc35211-c10d-46a9-b7dd-da00fec225c4": {
+      "id": "8dc35211-c10d-46a9-b7dd-da00fec225c4",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a polished follow-up recap email based on your conversation with Casey and everything discussed. \ue200filecite\ue202turn0file0\ue201\n\n:::writing{variant=\"email\" id=\"48192\" subject=\"Excited About What\u2019s Ahead With The Luxora Collective\"}\nHi Casey,\n\nFirst off, thank you again for taking the time to speak with me today. I genuinely enjoyed our conversation and honestly walked away feeling even more excited about the possibility of having you join The Luxora Collective family.\n\nAfter hearing your background, your experience in aesthetics, leadership, sales, operations, and entrepreneurship, I truly feel like your personality and skill set align so naturally with where we are headed. Beyond the experience itself, I can tell you genuinely care about people, client outcomes, company culture, and building something meaningful, and that matters tremendously to me.\n\nI also just want to say how much I respect your story. The resilience, growth, and passion you have carried through some incredibly difficult seasons is inspiring, and I truly believe that kind of life experience creates the best leaders and communicators.\n\nAs discussed, our vision for Luxora is much bigger than just another marketing agency. We are building a true growth and consulting ecosystem for med spa owners that combines:\n\u2022 Revenue Leak Audits  \n\u2022 Market Blueprint strategy  \n\u2022 Membership and package systems  \n\u2022 AI implementation and CRM automation  \n\u2022 Sales and operational consulting  \n\u2022 Team education and accountability  \n\u2022 Marketing and retention systems  \n\u2022 Long-term scalability for aesthetic businesses\n\nRight now, we are in an exciting growth phase where we are actively building the foundation and core leadership team that will help us scale this into something truly massive over the next few years.\n\nYour role would primarily focus on:\n\u2022 High-ticket closing  \n\u2022 Helping guide owners through the Luxora vision  \n\u2022 Supporting consultative sales conversations  \n\u2022 Building trust and relationships with prospects  \n\u2022 Potentially helping train or oversee future closers/setters as we grow  \n\u2022 Becoming part of the long-term evolution of the company\n\nInitially, this would begin as a 1099 commission-based role while we continue scaling, but as discussed, the long-term vision absolutely includes growth opportunities, increased commission structures, leadership opportunities, and eventually transitioning key team members into more permanent long-term positions with additional benefits and compensation structures as the company expands.\n\nOne of the biggest things I want you to know is that we are building this very intentionally. We are not looking for \u201cjust sales people.\u201d We are looking for people who believe in the mission, care about clients, want to grow with us long-term, and want to help shape the future of the company alongside us.\n\nAttached, I\u2019m sending over:\n\u2022 Our one-page overview of The Luxora Collective and our core offers  \n\u2022 Additional information on our systems and growth structure  \n\u2022 Website and brand materials so you can continue exploring the vision and positioning  \n\u2022 Additional details on what our client journey and process looks like\n\nI\u2019d love for you to take some time to review everything, sleep on it, pray on it, talk with Rachel, and just sit with the vision a little bit. I truly believe this could become something really special for the right people involved early.\n\nI\u2019m incredibly excited about the possibility of working together and building something amazing.\n\nTalk soon, girl \ud83d\udc9b\n\nBethany  \nCo-Founder & CEO  \nThe Luxora Collective\n:::"
+          ]
+        },
+        "create_time": 1779143760.177289,
+        "id": "8dc35211-c10d-46a9-b7dd-da00fec225c4",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": null,
+              "cloud_doc_url": "",
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_00000000f884722fb898c60f43b493c0",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "5f2be2b9-f56a-4138-9267-eb19d7ba1144",
+                "message_index": 0
+              },
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "Pasted text.txt",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "59bdbaf2-4c9d-4ba6-8ed2-276b44c9ee04"
+        }
+      },
+      "parent": "b9adfd57-a22c-46c0-bc81-36ac2bcd8bd3"
+    },
+    "9c8372f4-43bb-4b0d-91b9-4d61c01014ef": {
+      "id": "9c8372f4-43bb-4b0d-91b9-4d61c01014ef",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "wrtie a follow up email and recap evereything and be friednly and excited to have her join us and go over the goals, jobs desriptions and future evalution of the compnay. also talk about what i am attachidng "
+          ]
+        },
+        "create_time": 1779143748.451,
+        "id": "9c8372f4-43bb-4b0d-91b9-4d61c01014ef",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "9ca97364-8649-4220-a6b7-93048fc1d4ad": {
+      "id": "9ca97364-8649-4220-a6b7-93048fc1d4ad",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ":::writing{variant=\"chat_message\" id=\"41728\"}\nAlso, while we get everything ramped up and the setter team fully dialed in, we would absolutely love any help you\u2019re willing to give on the front-end setting side as well, just so we can all continue pushing the vision forward together as a team.\n:::"
+          ]
+        },
+        "create_time": 1779143944.021777,
+        "id": "9ca97364-8649-4220-a6b7-93048fc1d4ad",
+        "metadata": {
+          "content_references": [],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Past chat",
+                "citation_uuid": "2aec3c85-aa64-4b8a-b138-0aa69a76ed45",
+                "conversation_context_type": "past_conversation",
+                "conversation_title": "Professional Email Rewrite",
+                "end_idx": -1,
+                "index": 7,
+                "matched_text": "",
+                "prompt_text": null,
+                "pub_date": 1779059163.652859,
+                "reason": null,
+                "refs": [],
+                "snippet": "we get others setters into place",
+                "start_idx": -1,
+                "title": "Professional Email Rewrite",
+                "type": "conversation_context_citation",
+                "url": "/c/6a0a49d3-25d8-83ea-b190-82d1ee1f983d"
+              },
+              "citation_uuid": "2aec3c85-aa64-4b8a-b138-0aa69a76ed45",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "8614f9fd-785a-4f9f-999b-8841cdc2fdf7"
+        }
+      },
+      "parent": "c506e923-ee08-4b17-9d49-009103606452"
+    },
+    "afe09ba9-4717-4ebf-9a39-58fa19aad7d7": {
+      "id": "afe09ba9-4717-4ebf-9a39-58fa19aad7d7",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ":::writing{variant=\"email\" id=\"27416\" subject=\"We\u2019d Love To Have You Join The Team\"}\nHi Blaise,\n\nI just wanted to follow up after speaking with the team, and I can confidently say we would absolutely LOVE to have you come aboard with The Luxora Collective.\n\nAfter our conversation, everyone really feels like your personality, sales background, confidence in communication, and willingness to jump in and grow with us would make you an incredible fit for where we are headed.\n\nI especially love your comfort level with cold outreach and relationship building because that is exactly what we need right now as we continue ramping up our setting and local networking efforts here in Nashville and beyond.\n\nI truly think you could play a huge role in helping us build momentum over these next few months while also growing into bigger opportunities within the company as we scale.\n\nWould love to hear your thoughts after reviewing everything and talking it over with your partner. No pressure at all, but we are very excited about the possibility of bringing you into this tight-knit little family we are building.\n\nLooking forward to hearing from you!\n\nBethany\n:::"
+          ]
+        },
+        "create_time": 1779228451.861502,
+        "id": "afe09ba9-4717-4ebf-9a39-58fa19aad7d7",
+        "metadata": {
+          "content_references": [],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Memory",
+                "citation_uuid": "8eff94fe-4b60-4146-8458-de28a1d616ce",
+                "conversation_context_type": "user_memory",
+                "end_idx": -1,
+                "index": 14,
+                "matched_text": "",
+                "memory_id": "d07ae4ff-6ce0-45ab-939c-6c71e58fda36",
+                "prompt_text": null,
+                "reason": "You run manual personalized B2B and LinkedIn outreach.",
+                "refs": [],
+                "snippet": "manual personalized B2B outreach and follow-ups, and tracks metrics such as connection rates, reply rates, and opportunities generated.",
+                "start_idx": -1,
+                "title": "You run manual personalized B2B and LinkedIn outreach.",
+                "type": "conversation_context_citation",
+                "url": "#settings/Personalization"
+              },
+              "citation_uuid": "8eff94fe-4b60-4146-8458-de28a1d616ce",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "8464a50b-6d45-4cac-bbd4-725b7992f162"
+        }
+      },
+      "parent": "3781472a-13b5-48fb-9539-a0d5b70aa7a8"
+    },
+    "b9adfd57-a22c-46c0-bc81-36ac2bcd8bd3": {
+      "id": "b9adfd57-a22c-46c0-bc81-36ac2bcd8bd3",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "create_time": 1779143759.754,
+        "id": "b9adfd57-a22c-46c0-bc81-36ac2bcd8bd3",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_00000000f884722fb898c60f43b493c0",
+              "is_big_paste": true,
+              "library_file_id": "libfile_7b4412b365408191b993f337cd5a6093",
+              "mime_type": "text/plain",
+              "name": "Pasted text(34).txt",
+              "size": 54747,
+              "source": "local"
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "d97bb247-c52e-4701-97f8-7d9284f50325"
+    },
+    "c506e923-ee08-4b17-9d49-009103606452": {
+      "id": "c506e923-ee08-4b17-9d49-009103606452",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "give me one line that asks her to hep withthe setting at first so we an get ramped up if posisble for her to pitch n iek te rest of us are doig "
+          ]
+        },
+        "create_time": 1779143943.838,
+        "id": "c506e923-ee08-4b17-9d49-009103606452",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "8dc35211-c10d-46a9-b7dd-da00fec225c4"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "d97bb247-c52e-4701-97f8-7d9284f50325": {
+      "id": "d97bb247-c52e-4701-97f8-7d9284f50325",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a polished follow-up email you can send:\n\n:::writing{variant=\"email\" id=\"58241\" subject=\"Excited to Welcome You to The Luxora Collective\"}\nHi [Name],\n\nI just wanted to follow up and say again how excited we are about the possibility of having you join The Luxora Collective team. After our conversation, I truly feel like your experience, personality, and background could be an incredible fit for where we are headed.\n\nAs discussed, our immediate goal is to bring you in primarily on the closer side while also helping make sure the messaging, positioning, and overall vision are fully aligned from the"
+          ]
+        },
+        "create_time": 1779143748.664995,
+        "id": "d97bb247-c52e-4701-97f8-7d9284f50325",
+        "metadata": {
+          "content_references": [],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Past chat",
+                "citation_uuid": "2f9720b9-6ba5-486f-9b9e-5acee20e0a40",
+                "conversation_context_type": "past_conversation",
+                "conversation_title": "Professional Email Rewrite",
+                "end_idx": -1,
+                "index": 7,
+                "matched_text": "",
+                "prompt_text": null,
+                "pub_date": 1779059163.652859,
+                "reason": null,
+                "refs": [],
+                "snippet": "I'm actively pursuing closer-only roles at this stage of my career.",
+                "start_idx": -1,
+                "title": "Professional Email Rewrite",
+                "type": "conversation_context_citation",
+                "url": "/c/6a0a49d3-25d8-83ea-b190-82d1ee1f983d"
+              },
+              "citation_uuid": "2f9720b9-6ba5-486f-9b9e-5acee20e0a40",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "db793155-9efc-4504-9619-20c4039f78cc"
+        }
+      },
+      "parent": "9c8372f4-43bb-4b0d-91b9-4d61c01014ef"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Follow-up Email Draft",
+  "update_time": 1779228525.165443,
+  "voice": null
+}

@@ -1,0 +1,187 @@
+{
+  "conversation_id": "6a467cc4-8e30-83e8-bdad-bfb6df0a3dd9",
+  "conversation_template_id": null,
+  "create_time": 1783004358.437142,
+  "current_node": "baab7693-9e1b-4f48-ad4c-1fd564617d47",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a467cc4-8e30-83e8-bdad-bfb6df0a3dd9",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "585477bb-0bdc-486d-973d-97ce011b5683": {
+      "id": "585477bb-0bdc-486d-973d-97ce011b5683",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here's a short, natural script you can use with Wendy based on what Ed shared during the call. \ue200filecite\ue202turn0file0\ue201\n\n:::writing{variant=\"chat_message\" id=\"23841\"}\n\"Hi Wendy! It's so nice to finally meet you. Ed and I had a really great conversation, and he spoke incredibly highly of you. He made it very clear that you're the one who keeps everything running and that he doesn't bring on new partners without your input.\n\nI wanted to quickly catch you up. Based on everything Ed shared, I think there's a huge opportunity here. Our goal isn't to come in and create more work for your team. It's actually the opposite. We want to simplify things, identify where revenue is leaking, optimize what's already working, and take as much of the marketing and growth burden off your plate as possible.\n\nEd mentioned that you'd be our main point of contact for implementation, so I wanted to walk you through exactly what that would look like, answer any questions you have, and make sure you feel completely comfortable before moving forward. Most importantly, I want you to understand what we'd need from your team and what we'll be handling for you so everything runs as smoothly as possible.\"\n:::"
+          ]
+        },
+        "create_time": 1783004358.282838,
+        "id": "585477bb-0bdc-486d-973d-97ce011b5683",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": null,
+              "cloud_doc_url": "",
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_000000004a50720cbd3f9cb38ceb4075",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "bfc8fda4-c92d-4080-9fb8-3c2eddd39438",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": "libfile_395c44e1eaa8819192e8089bb986fec4",
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "Pasted text.txt",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "8ce96fd4-1612-4c35-955c-9a9ab7ca42df"
+        }
+      },
+      "parent": "73039633-ac53-462a-b177-01861de0007c"
+    },
+    "73039633-ac53-462a-b177-01861de0007c": {
+      "id": "73039633-ac53-462a-b177-01861de0007c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "write me a mini short script to talk to wendy and catch her up  based off what ed wanted meto say to her: "
+          ]
+        },
+        "create_time": 1783004358.803,
+        "id": "73039633-ac53-462a-b177-01861de0007c",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_000000004a50720cbd3f9cb38ceb4075",
+              "is_big_paste": true,
+              "library_file_id": "libfile_395c44e1eaa8819192e8089bb986fec4",
+              "mime_type": "text/plain",
+              "name": "Pasted text(61).txt",
+              "size": 70012,
+              "source": "local"
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "baab7693-9e1b-4f48-ad4c-1fd564617d47": {
+      "id": "baab7693-9e1b-4f48-ad4c-1fd564617d47",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here's a conversational walkthrough that keeps it collaborative instead of feeling like a sales pitch.\n\n:::writing{variant=\"document\" id=\"67294\"}\n\"Perfect. Ed gave me a little background and I completely understand why he wanted us to connect. He said you're the one who keeps everything organized and that before he brings on any new partner, he wants you to understand exactly what it looks like operationally.\n\nSo let me walk you through what working with us actually looks like.\n\nFirst, we're not a typical marketing agency. We don't just turn on Meta ads and hope for the best. We start by understanding the entire business.\n\nThe first thing we'll do is a comprehensive Revenue Leak Audit and Market Blueprint. That means we're going to evaluate your current marketing, your offers, memberships, lead flow, conversion process, retention, systems, advertising spend, and patient journey. We want to know exactly where money is being lost and where the biggest opportunities exist before we ever spend another advertising dollar.\n\nOnce we've completed that, we'll present everything to you and Ed. You'll have a very clear roadmap of what we're doing, why we're doing it, and the priorities.\n\nFrom there, our team gets to work.\n\nWe'll handle the Meta advertising, reactivation campaigns, lead generation, CRM setup and optimization, automation, and all of the backend strategy. We also review where your current marketing dollars are going because Ed mentioned he's spending a significant amount on radio and advertising, and we want to make sure every dollar is working as hard as possible.\n\nAs far as your role, it's actually much simpler than most people expect.\n\nInitially, we'll need access to things like your Meta account, website, CRM, and a few business assets. You'll help us gather those items during onboarding, and we'll walk you through exactly what's needed.\n\nAfter that, our biggest request is communication. If we send something over for approval or need information, we just ask that you get back to us within about 24 hours whenever possible so we can keep momentum going.\n\nYou'll have direct access to us through Slack, so instead of wondering who to contact, you'll always know where we are. We don't disappear after onboarding.\n\nWe'll also have regular strategy meetings where Bethany personally reviews performance, what's working, what we're want to test next, and any new opportunities we uncover.\n\nOur goal is to remove work from your plate, not add to it. We know you're already wearing a lot of hats, so we try to become an extension of your team instead of another vendor creating more tasks.\n\nEd also shared that your long-term goal is building the business to eventually sell. That's something we keep in mind with every recommendation we make. We're not just trying to generate leads. We're helping build a stronger, more valuable business with recurring revenue, better systems, cleaner reporting, and scalable processes.\n\nSo before we dive into any details, what questions or concerns do you have? I want to make sure everything is crystal clear before we move forward.\"\n:::\n\nThis should feel like you're onboarding a future partner instead of selling her, which is the tone Ed seemed to want."
+          ]
+        },
+        "create_time": 1783004379.220871,
+        "id": "baab7693-9e1b-4f48-ad4c-1fd564617d47",
+        "metadata": {
+          "content_references": [],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Memory",
+                "citation_uuid": "b1c2ee52-91bc-4cb7-8996-3038b1c2f726",
+                "conversation_context_type": "general_memory",
+                "end_idx": -1,
+                "index": 4,
+                "matched_text": "",
+                "prompt_text": null,
+                "reason": "You use a Revenue Leak Audit that outputs a Market Blueprint.",
+                "refs": [],
+                "snippet": "audit output \u2192 market blueprint",
+                "start_idx": -1,
+                "title": "You use a Revenue Leak Audit that outputs a Market Blueprint.",
+                "type": "conversation_context_citation",
+                "url": "#settings/Personalization"
+              },
+              "citation_uuid": "b1c2ee52-91bc-4cb7-8996-3038b1c2f726",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "b7c21f98-c6c0-478d-9e4c-fd8daec48069"
+        }
+      },
+      "parent": "e300d462-e736-410d-bba7-53de5adc311c"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "e300d462-e736-410d-bba7-53de5adc311c": {
+      "id": "e300d462-e736-410d-bba7-53de5adc311c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "ok now walk her htough it"
+          ]
+        },
+        "create_time": 1783004380.124,
+        "id": "e300d462-e736-410d-bba7-53de5adc311c",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "585477bb-0bdc-486d-973d-97ce011b5683"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Script for Wendy Update",
+  "update_time": 1783004396.168923,
+  "voice": null
+}

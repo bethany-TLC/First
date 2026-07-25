@@ -1,0 +1,137 @@
+{
+  "conversation_id": "6a5bddc4-8000-83ea-9c56-cd9c85984c76",
+  "conversation_template_id": null,
+  "create_time": 1784405453.894275,
+  "current_node": "89272a2a-b493-4d38-b605-54516e0d9618",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a5bddc4-8000-83ea-9c56-cd9c85984c76",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "89272a2a-b493-4d38-b605-54516e0d9618": {
+      "id": "89272a2a-b493-4d38-b605-54516e0d9618",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "I created the spreadsheet and separated the names into **First Name**, **Last Name**, and **Email** based on the handwritten walk-in sheets. \ue200filecite\ue202turn0file0\ue201\n\nYou can download it here:\n\n**\ud83d\udcc4 [PSC_Walkins_Contact_List.xlsx](sandbox:/mnt/data/PSC_Walkins_Contact_List.xlsx)**\n\nA couple of notes:\n- A few entries were difficult to read due to the handwriting, so I made the best interpretation possible.\n- Anna Herring had **two email addresses**, so I included both in the Email cell.\n- Lynn Reynolds did not appear to have an email listed.\n- There are a few entries (such as Myron Franklin) that appear more than once because they were listed multiple times on the sheets.\n\nIf you'd like, I can also:\n- remove duplicates,\n- verify/correct any questionable email addresses,\n- or split multiple emails into separate columns."
+          ]
+        },
+        "create_time": 1784405466.407108,
+        "id": "89272a2a-b493-4d38-b605-54516e0d9618",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": null,
+              "cloud_doc_url": "",
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_00000000359481f585fbf33d4b2410b8",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "a285a1c3-f244-472f-b913-896ce9208f1f",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": "libfile_69ce165eaebc81918a53ecbb563a500d",
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "PSC Walk-In Sheets 2026.pdf",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "b436b936-25b7-4d06-b6e8-bfcedc546778"
+        }
+      },
+      "parent": "b3c96204-e458-43a0-847c-f22d18aaeaf6"
+    },
+    "9b43f56f-2a84-4629-bb04-48b905b5491b": {
+      "id": "9b43f56f-2a84-4629-bb04-48b905b5491b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "take this hand  written list and make me a spreadsheet with first, last and emails"
+          ]
+        },
+        "create_time": 1784405454.666,
+        "id": "9b43f56f-2a84-4629-bb04-48b905b5491b",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_00000000359481f585fbf33d4b2410b8",
+              "is_big_paste": false,
+              "library_file_id": "libfile_69ce165eaebc81918a53ecbb563a500d",
+              "mime_type": "application/pdf",
+              "name": "PSC Walk-In Sheets 2026.pdf",
+              "size": 5482194,
+              "source": "local"
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "b3c96204-e458-43a0-847c-f22d18aaeaf6": {
+      "id": "b3c96204-e458-43a0-847c-f22d18aaeaf6",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content": "Worked for a couple of seconds",
+          "content_type": "reasoning_recap"
+        },
+        "create_time": 1784405455.341566,
+        "id": "b3c96204-e458-43a0-847c-f22d18aaeaf6",
+        "metadata": {
+          "model_slug": "gpt-5-5",
+          "parent_id": "5e228485-50ca-41a0-8f1b-bf6add871120"
+        }
+      },
+      "parent": "9b43f56f-2a84-4629-bb04-48b905b5491b"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Spreadsheet Creation Request",
+  "update_time": 1784405472.198233,
+  "voice": null
+}

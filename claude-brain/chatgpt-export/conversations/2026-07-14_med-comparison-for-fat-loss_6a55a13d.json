@@ -1,0 +1,1115 @@
+{
+  "conversation_id": "6a55a13d-7140-83e8-95c6-cf84887e1e87",
+  "conversation_template_id": null,
+  "create_time": 1783996740.17144,
+  "current_node": "cbbcb725-6f9d-4548-8112-fc6c108a82da",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a55a13d-7140-83e8-95c6-cf84887e1e87",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "1dfb7f45-8bf1-4234-b71a-c6a940f2d461": {
+      "id": "1dfb7f45-8bf1-4234-b71a-c6a940f2d461",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Based on what you told me before, **5'6\", 140 lb, wanting to lose about 10 lb of fat while preserving/building muscle**, I would **not automatically pick Zepbound just because it tends to be the strongest for weight loss**. You only want to lose about **7% of your body weight**, so more appetite suppression is not necessarily better.\n\nMy order to discuss with your prescriber would be:\n\n1. **Wegovy pill**: My first choice to ask about for a relatively modest fat-loss goal if you strongly prefer a pill. It is taken daily and, in its obesity trial, produced substantial average weight loss, so you would still need to be careful about excessive appetite suppression. \ue200cite\ue202turn0search0\ue202turn0search44\ue201\n2. **Wegovy shot**: Same basic active drug, semaglutide, but once weekly. I would consider this if you prefer weekly dosing or your clinician thinks the injection is a better fit.\n3. **Zepbound**: Generally the option I would consider when **greater weight loss is needed**. For someone already around 140 lb who wants only 10 lb off, it may be more medication effect than you need. \ue200cite\ue202turn0search1\ue202turn0search5\ue201\n\nOne important issue: at **5'6\" and 140 lb, your BMI is about 22.6**, which is in the normal range. These drugs are FDA-approved for chronic weight management primarily for people with obesity or qualifying overweight, so **you may not meet the labeled indication** based on the numbers you've given me. \ue200cite\ue202turn0search3\ue202turn0search15\ue201\n\nFor your specific goal, I would prioritize **body recomposition rather than simply driving the scale down**: enough protein, progressive resistance training, and only a modest calorie deficit. Strong appetite suppression can make it harder to eat enough protein and preserve/build muscle.\n\nIf you tell me **whether you've used a GLP-1 before and how you tolerated it**, I can give you a much more personalized comparison of the three to discuss with your prescriber."
+          ]
+        },
+        "create_time": 1783996760.246928,
+        "id": "1dfb7f45-8bf1-4234-b71a-c6a940f2d461",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "([Novo Nordisk](https://www.novonordisk-us.com/supply-update.html?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Novo Nordisk",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 44,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Wegovy\u00ae is the first FDA-approved semaglutide pill for weight loss. Results ... Wegovy\u00ae pill is not approved for adolescents with obesity. Wegovy Pen ...Read more",
+                  "supporting_websites": [
+                    {
+                      "attribution": "Wegovy",
+                      "pub_date": null,
+                      "snippet": "The once-daily Wegovy\u00ae pill, along with a reduced-calorie diet and increased physical activity, may help adults with obesity, or with overweight and at least ...Read more",
+                      "title": "Wegovy\u00ae Pill Trial Findings for Weight Loss | Wegovy ...",
+                      "url": "https://www.wegovy.com/obesity/is-wegovy-right-for-me/wegovy-pill-results.html?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Weight Management for Adults with Obesity | Wegovy ...",
+                  "url": "https://www.novonordisk-us.com/supply-update.html?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Lilly](https://pi.lilly.com/us/zepbound-uspi.pdf?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Lilly",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 1,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 5,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Tirzepatide lowers body weight with greater fat mass loss than lean mass loss. Tirzepatide decreases calorie intake. The effects are likely mediated by ...Read more",
+                  "supporting_websites": [
+                    {
+                      "attribution": "FDA Access Data",
+                      "pub_date": null,
+                      "snippet": "HIGHLIGHTS OF PRESCRIBING INFORMATION. These highlights do not include all the information needed to use. ZEPBOUND safely and effectively. See full prescribing.Read more",
+                      "title": "ZEPBOUND (tirzepatide) injection, for subcutaneous use",
+                      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/217806s002lbl.pdf?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "zepbound-uspi.pdf",
+                  "url": "https://pi.lilly.com/us/zepbound-uspi.pdf?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Novo Pi](https://www.novo-pi.com/wegovy.pdf?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Novo Pi",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 3,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 15,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "To reduce excess body weight and maintain weight reduction long term in adults with obesity, or in adults with overweight in the presence of at least one weight ...Read more",
+                  "supporting_websites": [
+                    {
+                      "attribution": "U.S. Food and Drug Administration",
+                      "pub_date": null,
+                      "snippet": "Nov 8, 2023 \u2014 The US Food and Drug Administration approved Zepbound (tirzepatide) injection for chronic weight management in adults with obesity.Read more",
+                      "title": "FDA Approves New Medication for Chronic Weight ...",
+                      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-new-medication-chronic-weight-management?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Wegovy PI",
+                  "url": "https://www.novo-pi.com/wegovy.pdf?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prefix": null,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "Novo Nordisk",
+                  "title": "Weight Management for Adults with Obesity | Wegovy ...",
+                  "url": "https://www.novonordisk-us.com/supply-update.html?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Lilly",
+                  "title": "zepbound-uspi.pdf",
+                  "url": "https://pi.lilly.com/us/zepbound-uspi.pdf?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Novo Pi",
+                  "title": "Wegovy PI",
+                  "url": "https://www.novo-pi.com/wegovy.pdf?utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "556b8bd0-8e13-4aee-8c42-5483ac51f64a",
+          "search_result_groups": [
+            {
+              "domain": "fda.gov",
+              "entries": [
+                {
+                  "attribution": "fda.gov",
+                  "snippet": "We Regulate Food Drugs, Medical Devices, Radiation-Emitting Products, Vaccines, Blood, and Biologics, Animal and Veterinary Cosmetics, Tobacco Products.Read more",
+                  "title": "U.S. Food and Drug Administration",
+                  "url": "https://www.fda.gov/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "fda.gov",
+                  "snippet": "Mar 8, 2024 \u2014 Wegovy is now the first weight loss medication to also be approved to help prevent life-threatening cardiovascular events in adults with cardiovascular disease.Read more",
+                  "title": "FDA Approves First Treatment to Reduce Risk of Serious ...",
+                  "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-reduce-risk-serious-heart-problems-specifically-adults-obesity-or?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "fda.gov",
+                  "snippet": "HIGHLIGHTS OF PRESCRIBING INFORMATION. These highlights do not include all the information needed to use. ZEPBOUND safely and effectively. See full prescribing.Read more",
+                  "title": "ZEPBOUND (tirzepatide) injection, for subcutaneous use",
+                  "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/217806s002lbl.pdf?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "fda.gov",
+                  "snippet": "To reduce excess body weight and maintain weight reduction long term in adults with obesity, or in adults with overweight in the presence of at least one weight ...Read more",
+                  "title": "218316Orig1s000lbl.pdf - accessdata.fda.gov",
+                  "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/218316Orig1s000lbl.pdf?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "fda.gov",
+                  "snippet": "Search our databases: Drugs@FDA Find information about most FDA-approved prescription, generic, and over-the-counter drug products.Read more",
+                  "title": "Drugs | FDA",
+                  "url": "https://www.fda.gov/drugs?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "fda.gov",
+                  "snippet": "Mar 19, 2026 \u2014 The new higher dose of Wegovy is indicated to reduce excess body weight and maintain weight reduction long-term in adults with obesity, or ...Read more",
+                  "title": "FDA Approves Fourth Product Under National Priority ...",
+                  "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-fourth-product-under-national-priority-voucher-program-higher-dose-semaglutide?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "fda.gov",
+                  "snippet": "In a trial of adult patients with type 2 diabetes and body mass index (BMI) greater than or equal to 27 kg/m2 for weight reduction (Study 3), hypoglycemia ( ...Read more",
+                  "title": "WEGOVY (semaglutide) injection, for subcutaneous use",
+                  "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/215256s024lbl.pdf?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "fda.gov",
+                  "snippet": "Nov 8, 2023 \u2014 The US Food and Drug Administration approved Zepbound (tirzepatide) injection for chronic weight management in adults with obesity.Read more",
+                  "title": "FDA Approves New Medication for Chronic Weight ...",
+                  "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-new-medication-chronic-weight-management?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "fda.gov",
+                  "snippet": "Focus on food chemical safety and dietary supplement policy and coordinates on regulatory and scientific issues for foods made through innovative technologies.Read more",
+                  "title": "Food",
+                  "url": "https://www.fda.gov/food?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "fda.gov",
+                  "snippet": "To reduce excess body weight and maintain weight reduction long term in adults with obesity, or in adults with overweight in the presence of at least one weight ...Read more",
+                  "title": "215256s029lbl.pdf - accessdata.fda.gov",
+                  "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/215256s029lbl.pdf?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "fda.gov",
+                  "snippet": "Adult Patients. Select adult patients for WEGOVY treatment as an adjunct to a reduced-calorie diet and increased physical activity for chronic weight management ...Read more",
+                  "title": "WEGOVY (semaglutide) injection - accessdata.fda.gov",
+                  "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/215256s007lbl.pdf?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "fda.gov",
+                  "snippet": "Aug 15, 2025 \u2014 Wegovy, which was first approved in 2017, is also approved for obesity or overweight and to reduce cardiovascular events, such as heart ...Read more",
+                  "title": "FDA Approves Treatment for Serious Liver Disease Known ...",
+                  "url": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-treatment-serious-liver-disease-known-mash?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "fda.gov",
+                  "snippet": "Tirzepatide lowers body weight with greater fat mass loss than lean mass loss. ... prescription, over-the-counter, or herbal weight loss products. \u2022 It is not ...Read more",
+                  "title": "ZEPBOUND (tirzepatide) injection, for subcutaneous use",
+                  "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/217806s003lbl.pdf?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "fda.gov",
+                  "snippet": "The FDA is a part of the Department of Health and Human Services. FDA-regulated products account for 20 cents of every dollar spent by U.S. consumers.Read more",
+                  "title": "About FDA",
+                  "url": "https://www.fda.gov/about-fda?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "fda.gov",
+                  "snippet": "May 2, 2026 \u2014 According to the FDA-approved Wegovy Prescribing Information (PI), the CLINICAL. STUDIES section states (in pertinent part), \u201cThe efficacy of ...Read more",
+                  "title": "WEGOVY | Untitled Letter | 2.5.2026",
+                  "url": "https://www.fda.gov/media/191020/download?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "fda.gov",
+                  "snippet": "May 4, 2026 \u2014 Although the FDA does not approve food products, certain ingredients must be approved by the FDA before they are used in food or in materials ...Read more",
+                  "title": "Is It Really 'FDA Approved'?",
+                  "url": "https://www.fda.gov/consumers/consumer-updates/it-really-fda-approved?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "fda.gov",
+                  "snippet": "Dec 20, 2024 \u2014 Participants treated with Zepbound had a significant decrease in body weight compared with placebo at 52 weeks. The improvement in AHI in ...Read more",
+                  "title": "FDA Approves First Medication for Obstructive Sleep Apnea",
+                  "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-medication-obstructive-sleep-apnea?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "fda.gov",
+                  "snippet": "Select patients for WEGOVY treatment as an adjunct to a reduced-calorie diet and increased physical activity for chronic weight management based on their BMI.Read more",
+                  "title": "WEGOVY (semaglutide) injection - accessdata.fda.gov",
+                  "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/215256s000lbl.pdf?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "fda.gov",
+                  "snippet": "MOUNJARO is an injectable prescription medicine that is used along with diet and exercise to improve blood sugar. (glucose) in adults and children 10 years of ...Read more",
+                  "title": "MOUNJARO (tirzepatide) injection, for subcutaneous use",
+                  "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/215866s009lbl.pdf?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "fda.gov",
+                  "snippet": "FDA regulates the sale of medical device products in the U.S. and monitors the safety of all regulated medical products.",
+                  "title": "Medical Devices",
+                  "url": "https://www.fda.gov/medical-devices?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "fda.gov",
+                  "snippet": "Apr 3, 2026 \u2014 The U.S. Food and Drug Administration (FDA) has been evaluating reports of suicidal thoughts or actions in patients treated with a class of ...Read more",
+                  "title": "Update on FDA's ongoing evaluation of reports of suicidal ...",
+                  "url": "https://www.fda.gov/drugs/drug-safety-communications/update-fdas-ongoing-evaluation-reports-suicidal-thoughts-or-actions-patients-taking-certain-type?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "fda.gov",
+                  "snippet": "Dec 4, 2020 \u2014 Saxenda has been approved since December 2014 for chronic weight management in adults with a BMI of 30 kg/m2 or higher or a BMI of 27 kg/m2 or ...Read more",
+                  "title": "FDA approves weight management drug for patients aged ...",
+                  "url": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-weight-management-drug-patients-aged-12-and-older?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "fda.gov",
+                  "snippet": "Jun 15, 2026 \u2014 FDA has warned companies that have illegally sold unapproved drugs containing semaglutide, tirzepatide or retatrutide that are falsely labeled \u201c ...Read more",
+                  "title": "FDA's Concerns with Unapproved GLP-1 Drugs Used for ...",
+                  "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "fda.gov",
+                  "snippet": "Oct 14, 2025 \u2014 ... weight management in adults with an initial body mass index (BMI) of: \u2022 30 kg/m2 or greater (obesity) or. \u2022 27 kg/m2 or greater (overweight) ...Read more",
+                  "title": "209637Orig1s035 - accessdata.fda.gov",
+                  "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/209637Orig1s035.pdf?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "wikipedia.org",
+              "entries": [
+                {
+                  "attribution": "wikipedia.org",
+                  "snippet": "The FDA is responsible for protecting and promoting public health through the control and supervision of food safety, tobacco products, caffeine products, ...Read more",
+                  "title": "Food and Drug Administration",
+                  "url": "https://en.wikipedia.org/wiki/Food_and_Drug_Administration?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "1mg.com",
+              "entries": [
+                {
+                  "attribution": "1mg.com",
+                  "snippet": "Wegovy 0.25mg FlexTouch is used for cardiovascular risk reduction and weight management in adults and adolescents aged 12 years and older with obesity, and in ...Read more",
+                  "title": "Buy Wegovy 0.25mg FlexTouch Online",
+                  "url": "https://www.1mg.com/drugs/wegovy-0.25mg-flextouch-1108657?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "lilly.com",
+              "entries": [
+                {
+                  "attribution": "lilly.com",
+                  "snippet": "Zepbound should be used with a reduced-calorie diet and increased physical activity. Zepbound contains tirzepatide and should not be used with other tirzepatide ...",
+                  "title": "Zepbound\u00ae (tirzepatide) Injection for Adults with Obesity or OSA",
+                  "url": "https://zepbound.lilly.com/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "lilly.com",
+                  "snippet": "WARNING: RISK OF THYROID C-CELL TUMORS. See full prescribing information for complete boxed warning. \u2022 Tirzepatide causes thyroid C-cell tumors in rats.Read more",
+                  "title": "mounjaro-uspi.pdf",
+                  "url": "https://pi.lilly.com/us/mounjaro-uspi.pdf?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "lilly.com",
+                  "snippet": "Jun 11, 2026 \u2014 ZEPBOUND (tirzepatide injection) is indicated for once-weekly administration as an adjunct to a reduced-calorie diet and increased physical ...Read more",
+                  "title": "Product Monograph Including Patient Medication Information",
+                  "url": "https://pi.lilly.com/ca/zepbound-ca-pm.pdf?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "lilly.com",
+                  "snippet": "MOUNJARO (tirzepatide injection) is indicated for once-weekly administration as an adjunct to diet and exercise to improve glycemic control for the ...Read more",
+                  "title": "mounjaro-ca-pm.pdf",
+                  "url": "https://pi.lilly.com/ca/mounjaro-ca-pm.pdf?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "lilly.com",
+                  "snippet": "Zepbound is an injectable once-weekly prescription medicine that may help adults with obesity to lose weight and keep it off along with a reduced-calorie diet ...Read more",
+                  "title": "Authentic Zepbound\u00ae (tirzepatide) Shipped to You",
+                  "url": "https://www.lilly.com/lillydirect/medicines/zepbound?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "lilly.com",
+                  "snippet": "Once-weekly Zepbound has been proven to help adults with obesity, or some adults with overweight who also have weight-related medical problems, ...",
+                  "title": "What is Zepbound\u00ae | Obesity & Weight Loss Medication",
+                  "url": "https://zepbound.lilly.com/weight/what-is-zepbound?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "wegovy.com",
+              "entries": [
+                {
+                  "attribution": "wegovy.com",
+                  "snippet": "Wegovy\u00ae comes in a prefilled pen and is used once a week. Use exactly as your healthcare professional has shown you. Want more of the details?Read more",
+                  "title": "Wegovy\u00ae Pen Guide and Dosing Information",
+                  "url": "https://www.wegovy.com/obesity/starting-wegovy/starting-wegovy-pen.html?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "wegovy.com",
+                  "snippet": "Wegovy\u00ae (semaglutide) injection and Wegovy\u00ae (semaglutide) tablets are prescription medicines used with a reduced calorie diet and increased physical activity to ...Read more",
+                  "title": "Wegovy\u00ae Pill Guide and Dosing Information",
+                  "url": "https://www.wegovy.com/obesity/starting-wegovy/starting-wegovy-pill.html?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "wegovy.com",
+                  "snippet": "The once-daily Wegovy\u00ae pill, along with a reduced-calorie diet and increased physical activity, may help adults with obesity, or with overweight and at least ...Read more",
+                  "title": "Wegovy\u00ae Pill Trial Findings for Weight Loss | Wegovy ...",
+                  "url": "https://www.wegovy.com/obesity/is-wegovy-right-for-me/wegovy-pill-results.html?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "novonordisk.com",
+              "entries": [
+                {
+                  "attribution": "novonordisk.com",
+                  "snippet": "... obesity previously untreated, while Novo Nordisk unveils new data at ADA 2026. Wegovy\u00ae pill prescriptions surpass 3 million, 1 filled roughly every 5 seconds ...Read more",
+                  "title": "Press releases",
+                  "url": "https://www.novonordisk.com/news-and-media/news-and-ir-materials.html?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "novonordisk.com",
+                  "snippet": "We are committed to raising awareness about and combating the manufacturing and spread of unauthorised, unlawful and unsafe semaglutide active pharmaceutical ...Read more",
+                  "title": "Novo Nordisk",
+                  "url": "https://www.novonordisk.com/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "prnewswire.com",
+              "entries": [
+                {
+                  "attribution": "prnewswire.com",
+                  "snippet": "Feb 23, 2026 \u2014 Zepbound tackles an underlying cause of excess weight. It reduces appetite and how much you eat. Zepbound is indicated for adults with obesity, ...Read more",
+                  "title": "Zepbound (tirzepatide), the most prescribed weight ...",
+                  "url": "https://www.prnewswire.com/news-releases/zepbound-tirzepatide-the-most-prescribed-weight-management-medication-in-2025-now-available-in-multi-dose-kwikpen-302693937.html?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "drugs.com",
+              "entries": [
+                {
+                  "attribution": "drugs.com",
+                  "snippet": "1 Apr 2026 \u2014 Wegovy pill and injection for weight loss, reducing heart risks, and for MASH. Wegovy helps reduce appetite and promote lasting weight ...",
+                  "title": "Wegovy for Weight Loss: Uses, Side Effects, Dosage",
+                  "url": "https://www.drugs.com/wegovy.html?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "europa.eu",
+              "entries": [
+                {
+                  "attribution": "europa.eu",
+                  "snippet": "Wegovy is used together with diet and physical activity to help people to lose weight and keep their weight under control.Read more",
+                  "title": "Wegovy | European Medicines Agency (EMA)",
+                  "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/wegovy?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "novonordisk-us.com",
+              "entries": [
+                {
+                  "attribution": "novonordisk-us.com",
+                  "snippet": "Wegovy\u00ae is now accessible to eligible Medicare beneficiaries living with obesity through Medicare GLP-1 Bridge \u00b7 Novo Nordisk to showcase new data across its ...Read more",
+                  "title": "Company announcements and press releases",
+                  "url": "https://www.novonordisk-us.com/media/news-archive.html?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "nih.gov",
+              "entries": [
+                {
+                  "attribution": "nih.gov",
+                  "snippet": "WEGOVY tablets include semaglutide as a white to almost white hygroscopic powder. Each tablet of WEGOVY contains 1.5 mg, 4 mg, 9 mg or 25 mg of semaglutide and ...Read more",
+                  "title": "semaglutide injection, solution WEGOVY - DailyMed",
+                  "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b&utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "bbb210a5-82bc-4bb0-9f01-6a1499cde689"
+    },
+    "269d8520-1e44-421c-9ac0-63d8fbf771d4": {
+      "id": "269d8520-1e44-421c-9ac0-63d8fbf771d4",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "I want to make sure I\u2019m comparing the right three medications. Do you mean **the Wegovy pill, Zepbound, and the Wegovy shot**? Your autocorrect mangled the names a little \ud83d\ude02\n\nIf yes, tell me and I\u2019ll compare them specifically for **your goal of losing about 10 lb of fat while preserving/building lean muscle**."
+          ]
+        },
+        "create_time": 1783996746.64292,
+        "id": "269d8520-1e44-421c-9ac0-63d8fbf771d4",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "",
+              "has_images": false,
+              "prefix": null,
+              "prompt_text": null,
+              "sources": [],
+              "type": "sources_footnote"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "2bd2e904-8e8f-4e11-89a3-39fa628f1cb0",
+          "search_result_groups": [
+            {
+              "domain": "wholebodyjournal.com",
+              "entries": [
+                {
+                  "attribution": "wholebodyjournal.com",
+                  "snippet": "Key Takeaways The complete list of GLP-1 medications available in 2026 includes at least 8 approved drugs, with 2 more awaiting FDA decisions this year. Wegovy\u2019s new oral 25mg pill became the first FD...",
+                  "title": "Complete List of GLP-1 Medications Available in 2026",
+                  "url": "https://wholebodyjournal.com/complete-list-of-glp-1-medications-available-in-2026/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "healthfactsjournal.com",
+              "entries": [
+                {
+                  "attribution": "healthfactsjournal.com",
+                  "snippet": "Weight Loss Injection Prices 2026 \u2013 Ozempic, Wegovy, Zepbound & More 9 Quick Answer: Weight loss injections cost anywhere from $199 to $1,349 per month in 2026, depending on the drug, whether you have...",
+                  "title": "Weight Loss Injections Cost 2026: Full Price Breakdown",
+                  "url": "https://healthfactsjournal.com/weight-loss-injections-cost/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "healthfactsjournal.com",
+                  "snippet": "Discover the newest weight loss injections in 2026 \u2014 from the 7.2 mg Wegovy to retatrutide trials. Compare costs, results, and affordable telehealth options.",
+                  "title": "New Injection For Weight Loss 2026: What Actually Works",
+                  "url": "https://healthfactsjournal.com/new-injection-for-weight-loss/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "globalglp1.com",
+              "entries": [
+                {
+                  "attribution": "globalglp1.com",
+                  "snippet": "All FDA-approved weight loss medications compared for 2026: GLP-1 injections, oral pills, costs, effectiveness, and who qualifies for each option.",
+                  "title": "Every Weight Loss Medication Available in 2026: A Complete\u2026",
+                  "url": "https://globalglp1.com/blog/weight-loss-medication-options-2026?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "facebook.com",
+              "entries": [
+                {
+                  "attribution": "facebook.com",
+                  "snippet": "all are on ozempic/muscovy/semiglutides \u2026 This drug needs to be ... weight loss drugs, like Ozempic, Zepbound, and Wegovy.\u201d He framed ...Read more",
+                  "title": "\"Many of the most widely used drugs will be available for ...",
+                  "url": "https://www.facebook.com/NEWSMAX/posts/many-of-the-most-widely-used-drugs-will-be-available-for-60-off-or-even-more-tha/1329362445903021/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "facebook.com",
+                  "snippet": "... Zepbound, Wegovy, who will be available for $50 a month. $50. Wow ... Muscovy to the Gorden Horde or Dubrovnik to the Ottomans. In the ...Read more",
+                  "title": "Brilliant, informative piece. It cements my belief that Brexit ...",
+                  "url": "https://www.facebook.com/groups/1958583951263979/posts/2502688366853532/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "weightsherpa.com",
+              "entries": [
+                {
+                  "attribution": "weightsherpa.com",
+                  "snippet": "Independent side-by-side comparisons of Ozempic, Wegovy, Zepbound, Mounjaro, and 10+ telehealth programs. Pricing, clinical data, insurance guidance, and tools \u2014 all in one place.",
+                  "title": "Weight Sherpa - Compare Every GLP-1 Drug, Program & Price (2026)",
+                  "url": "https://www.weightsherpa.com/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "ew-nutrition.com",
+              "entries": [
+                {
+                  "attribution": "ew-nutrition.com",
+                  "snippet": "Examples from report: Indian Peafowl, Muscovy Duck; These are non-commercial ... Weight loss drugs like semaglutide work by mimicking the GLP-1 hormone ...Read more",
+                  "title": "Author: EW Nutrition",
+                  "url": "https://ew-nutrition.com/author/ewnutrition/?print=print-search&utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "rx.com",
+              "entries": [
+                {
+                  "attribution": "rx.com",
+                  "snippet": "In weight-loss trials, semaglutide (the active ingredient in Wegovy and Ozempic) helped patients lose 15% of their body weight on average. Tirzepatide (Zepbound, Mounjaro) \u2014 a dual GIP/GLP-1 agonist \u2014...",
+                  "title": "The True Cost of GLP-1 Weight Loss Medications (2026) - rx.com",
+                  "url": "https://rx.com/education/true-cost-glp-1-weight-loss-medications?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "calorique.io",
+              "entries": [
+                {
+                  "attribution": "calorique.io",
+                  "snippet": "April 2026 comprehensive comparison of GLP-1 receptor agonists for weight loss and Type 2 diabetes: Ozempic, Wegovy, Rybelsus (semaglutide), Mounjaro, Zepbound (tirzepatide), Saxenda (liraglutide). Si...",
+                  "title": "GLP-1 Comparison 2026: Ozempic vs Mounjaro vs Zepbound vs Wegovy vs ...",
+                  "url": "https://calorique.io/faq/glp-1-receptor-agonist-comparison-2026-ozempic-mounjaro-zepbound-wegovy-rybelsus-saxenda-side-effects-cost-insurance-coverage/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "clearmetabolic.com",
+              "entries": [
+                {
+                  "attribution": "clearmetabolic.com",
+                  "snippet": "Medicare covers Wegovy and Zepbound in 2026 for obesity. $50/mo cap explained, who qualifies, what paperwork you need, and the catch nobody mentions.",
+                  "title": "Medicare Coverage for Wegovy and Zepbound 2026: $50/mo Explained",
+                  "url": "https://www.clearmetabolic.com/guides/glp1-medicare-coverage-2026/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "instagram.com",
+              "entries": [
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "7641 Muscovy Dr. Lakeland FL 33810. more. 2 days ago. OCR. EL TRATAMIENTO DE P\u00c9RDIDA DE PESO \u00a1QUE REALMENTE FUNCIONA! Antes Despu\u00e9s BEYOND ...Read more",
+                  "title": "Mi Clienta Mary: \u201cGracias Dr Tony ya se me quitaron los ...",
+                  "url": "https://www.instagram.com/reel/DKaVJdSz_Gt/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "vpm.org",
+              "entries": [
+                {
+                  "attribution": "vpm.org",
+                  "snippet": "Weight management medications, including Wegovy, Zepbound and Foundayo, will be available to eligible Medicare beneficiaries with a $50 copay starting July. Updated July 01, 2026 at 05:01 AM ET A Medi...",
+                  "title": "Some Medicare beneficiaries can now get popular obesity drugs for $50 a ...",
+                  "url": "https://www.vpm.org/2026-05-06/some-medicare-beneficiaries-can-now-get-popular-obesity-drugs-for-50-a-month?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "spakinect.com",
+              "entries": [
+                {
+                  "attribution": "spakinect.com",
+                  "snippet": "CMS announced the Medicare GLP-1 Bridge starting July 2026, expanding access to Wegovy and Zepbound and raising operational considerations for clinics and Med Spas prescribing GLP-1 therapies.",
+                  "title": "CMS Announces Temporary Medicare GLP-1 Bridge Program Starting July 2026",
+                  "url": "https://www.spakinect.com/news/cms-medicare-glp1-bridge-program?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "webflow.com",
+              "entries": [
+                {
+                  "attribution": "webflow.com",
+                  "snippet": "... name ... ^ \"FDA approves weight loss drug Zepbound for sleep apnea\". ... 1555: The Muscovy Company is the first major English joint stock trading company.",
+                  "title": "Mounjaro injection instructions",
+                  "url": "https://uploads-ssl.webflow.com/68064e5908a1eb9e4d0070d0/685c856647aeac0cd798d15b_59767900160.pdf?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "peptidenewsdigest.org",
+              "entries": [
+                {
+                  "attribution": "peptidenewsdigest.org",
+                  "snippet": "Interactive charts tracking how Ozempic, Wegovy, Mounjaro, Zepbound, and Foundayo prices have changed from 2023 to 2026 across list price, self-pay, and insurance channels.",
+                  "title": "GLP-1 Drug Pricing Trends: 2023\u20132026 | Peptide News Digest",
+                  "url": "https://peptidenewsdigest.org/pricing/glp-1-pricing-trends/?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "bbb21e33-7823-4772-9758-204987cfe84f"
+    },
+    "79b16915-0c14-460c-82a6-6f9ef7e9bb01": {
+      "id": "79b16915-0c14-460c-82a6-6f9ef7e9bb01",
+      "message": null,
+      "parent": null
+    },
+    "bbb210a5-82bc-4bb0-9f01-6a1499cde689": {
+      "id": "bbb210a5-82bc-4bb0-9f01-6a1499cde689",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Yes"
+          ]
+        },
+        "create_time": 1783996756.420487,
+        "id": "bbb210a5-82bc-4bb0-9f01-6a1499cde689",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "269d8520-1e44-421c-9ac0-63d8fbf771d4"
+    },
+    "bbb21be8-cdd5-46f6-832f-823218c35bb8": {
+      "id": "bbb21be8-cdd5-46f6-832f-823218c35bb8",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "I've used wegovia And ozempic and been fine. Truzzepotide made me nauseous. But I'd like to lose weight fast. "
+          ]
+        },
+        "create_time": 1783996823.162337,
+        "id": "bbb21be8-cdd5-46f6-832f-823218c35bb8",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "1dfb7f45-8bf1-4234-b71a-c6a940f2d461"
+    },
+    "bbb21e33-7823-4772-9758-204987cfe84f": {
+      "id": "bbb21e33-7823-4772-9758-204987cfe84f",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Between musgovia pill Zeppelin and the govi shot, which one should I do?"
+          ]
+        },
+        "create_time": 1783996739.873852,
+        "id": "bbb21e33-7823-4772-9758-204987cfe84f",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "79b16915-0c14-460c-82a6-6f9ef7e9bb01"
+    },
+    "cbbcb725-6f9d-4548-8112-fc6c108a82da": {
+      "id": "cbbcb725-6f9d-4548-8112-fc6c108a82da",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Given that **you tolerated semaglutide (Wegovy/Ozempic) well but tirzepatide made you nauseous**, I\u2019d be more inclined to discuss **Wegovy with your prescriber**, rather than going back to Zepbound/tirzepatide just because it can produce greater average weight loss.\n\nIf **speed is your priority**, the **Wegovy injection** would probably be my preference over the pill *for you*, mainly because you already know your body tolerates injectable semaglutide. The pill is a legitimate FDA-approved option now, but switching formulations introduces a new variable when you already know the shot worked for you. \ue200cite\ue202turn0search1\ue202turn0search7\ue201\n\nThe big caveat is that at **5'6\" and 140 lb (BMI \u224822.6)**, you don't meet the usual FDA weight criteria for Wegovy or Zepbound based on weight alone. Trying to force very rapid loss at your current size can increase the risk of losing **muscle along with fat**, which works against your goal of looking lean and toned. \ue200cite\ue202turn0search7\ue202turn0search23\ue201\n\nSo my practical answer: **if your clinician believes a GLP-1 is appropriate for you, I'd favor the Wegovy shot over Zepbound based on your previous tolerance.** I would not chase the highest possible dose or fastest possible loss. Aiming to lose the 10 lb while aggressively protecting muscle with resistance training and adequate protein would likely give you a better aesthetic result.\n\nAlso, use an FDA-approved product from a legitimate pharmacy rather than an unverified compounded version; the FDA recently warned about fraudulent compounded semaglutide and tirzepatide products. \ue200cite\ue202turn0search28\ue201"
+          ]
+        },
+        "create_time": 1783996826.609129,
+        "id": "cbbcb725-6f9d-4548-8112-fc6c108a82da",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "([Novo Pi](https://www.novo-pi.com/wegovy.pdf?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Novo Pi",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1782245453.0,
+                  "refs": [
+                    {
+                      "ref_index": 1,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 7,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "WEGOVY\u00ae tablets are indicated in combination with a reduced calorie diet and increased physical activity: \u2022 To reduce the risk of major adverse CV events \u2026 ...",
+                  "supporting_websites": [
+                    {
+                      "attribution": "FDA Access Data",
+                      "pub_date": null,
+                      "snippet": "To reduce excess body weight and maintain weight reduction long term in adults with obesity, or in adults with overweight in the presence of at least one weight ...Read more",
+                      "title": "Reference ID: 5736871 - accessdata.fda.gov",
+                      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/218316s002lbl.pdf?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Wegovy PI",
+                  "url": "https://www.novo-pi.com/wegovy.pdf?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([FDA Access Data](https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/218316s002lbl.pdf?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "FDA Access Data",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1770318911.0,
+                  "refs": [
+                    {
+                      "ref_index": 7,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 23,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "To reduce excess body weight and maintain weight reduction long term in adults with obesity, or in adults with overweight in the presence of at least one weight ...Read more",
+                  "supporting_websites": [
+                    {
+                      "attribution": "U.S. Food and Drug Administration",
+                      "pub_date": null,
+                      "snippet": "Nov 8, 2023 \u2014 The US Food and Drug Administration approved Zepbound (tirzepatide) injection for chronic weight management in adults with obesity.Read more",
+                      "title": "FDA Approves New Medication for Chronic Weight ...",
+                      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-new-medication-chronic-weight-management?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Reference ID: 5736871 - accessdata.fda.gov",
+                  "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/218316s002lbl.pdf?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([U.S. Food and Drug Administration](https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "U.S. Food and Drug Administration",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1781522880.0,
+                  "refs": [
+                    {
+                      "ref_index": 28,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Jun 15, 2026 \u2014 FDA is aware of fraudulent compounded semaglutide and tirzepatide marketed in the U.S. that contain false information on the product label. In ...Read more",
+                  "supporting_websites": [],
+                  "title": "FDA's Concerns with Unapproved GLP-1 Drugs Used for ...",
+                  "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prefix": null,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "Novo Pi",
+                  "title": "Wegovy PI",
+                  "url": "https://www.novo-pi.com/wegovy.pdf?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "FDA Access Data",
+                  "title": "Reference ID: 5736871 - accessdata.fda.gov",
+                  "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/218316s002lbl.pdf?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "U.S. Food and Drug Administration",
+                  "title": "FDA's Concerns with Unapproved GLP-1 Drugs Used for ...",
+                  "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss?utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "e9bcb8f6-1db0-435c-bbec-fd23017e408b",
+          "search_result_groups": [
+            {
+              "domain": "fda.gov",
+              "entries": [
+                {
+                  "attribution": "fda.gov",
+                  "snippet": "Mar 19, 2026 \u2014 The new higher dose of Wegovy is indicated to reduce excess body weight and maintain weight reduction long-term in adults with obesity, or ...Read more",
+                  "title": "FDA Approves Fourth Product Under National Priority ...",
+                  "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-fourth-product-under-national-priority-voucher-program-higher-dose-semaglutide?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "fda.gov",
+                  "snippet": "Mar 8, 2024 \u2014 Wegovy is now the first weight loss medication to also be approved to help prevent life-threatening cardiovascular events in adults with cardiovascular disease.Read more",
+                  "title": "FDA Approves First Treatment to Reduce Risk of Serious ...",
+                  "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-reduce-risk-serious-heart-problems-specifically-adults-obesity-or?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "fda.gov",
+                  "snippet": "To reduce excess body weight and maintain weight reduction long term in adults with obesity, or in adults with overweight in the presence of at least one weight ...Read more",
+                  "title": "HIGHLIGHTS OF PRESCRIBING INFORMATION These ...",
+                  "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/215256s031lbl218316s003lbl.pdf?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "fda.gov",
+                  "snippet": "Aug 15, 2025 \u2014 Wegovy, which was first approved in 2017, is also approved for obesity or overweight and to reduce cardiovascular events, such as heart attacks,",
+                  "title": "FDA Approves Treatment for Serious Liver Disease Known ...",
+                  "url": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-treatment-serious-liver-disease-known-mash?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "fda.gov",
+                  "snippet": "Apr 3, 2026 \u2014 Communication issued on 1-13-2026. help those with obesity or overweight to lose weight. Wegovy semaglutide Obesity/overweight 2021",
+                  "title": "Update on FDA's ongoing evaluation of reports of suicidal ...",
+                  "url": "https://www.fda.gov/drugs/drug-safety-communications/update-fdas-ongoing-evaluation-reports-suicidal-thoughts-or-actions-patients-taking-certain-type?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "fda.gov",
+                  "snippet": "May 2, 2026 \u2014 Wegovy, in pill form, is superior to other currently approved GLP- 1 treatments for weight loss in terms of efficacy and/or safety.",
+                  "title": "WEGOVY | Untitled Letter | 2.5.2026",
+                  "url": "https://www.fda.gov/media/191020/download?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "fda.gov",
+                  "snippet": "Nov 8, 2023 \u2014 The US Food and Drug Administration approved Zepbound (tirzepatide) injection for chronic weight management in adults with obesity.Read more",
+                  "title": "FDA Approves New Medication for Chronic Weight ...",
+                  "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-new-medication-chronic-weight-management?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "fda.gov",
+                  "snippet": "WEGOVY 2.4 mg Subcutaneous Weekly Dosage. WEGOVY was evaluated for safety in 3 randomized, double-blind, placebo-controlled trials that included 2,116 adult ...Read more",
+                  "title": "WEGOVY (semaglutide) injection, for subcutaneous use",
+                  "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/215256s024lbl.pdf?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "lilly.com",
+              "entries": [
+                {
+                  "attribution": "lilly.com",
+                  "snippet": "Tirzepatide delays gastric emptying. The delay is largest after the first dose and this effect diminishes over time. 12.3 Pharmacokinetics. The ...Read more",
+                  "title": "zepbound-uspi.pdf",
+                  "url": "https://pi.lilly.com/us/zepbound-uspi.pdf?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "lilly.com",
+                  "snippet": "Zepbound is a prescription medicine that may help adults with obesity, Zepbound may also help improve moderate-to-severe obstructive sleep apnea (OSA) in ...",
+                  "title": "Zepbound\u00ae (tirzepatide) Injection for Adults with Obesity or OSA",
+                  "url": "https://zepbound.lilly.com/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "lilly.com",
+                  "snippet": "Gastric Emptying. Tirzepatide delays gastric emptying. The delay is largest after the first dose and this effect diminishes over time. Tirzepatide slows post ...Read more",
+                  "title": "mounjaro-uspi.pdf",
+                  "url": "https://pi.lilly.com/us/mounjaro-uspi.pdf?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "lilly.com",
+                  "snippet": "The impact of tirzepatide on gastric emptying was greatest after a single dose of 5 mg and diminished after subsequent doses. Dose adjustments with concomitant ...Read more",
+                  "title": "mounjaro-ca-pm.pdf",
+                  "url": "https://pi.lilly.com/ca/mounjaro-ca-pm.pdf?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "lilly.com",
+                  "snippet": "Zepbound Vial Self-pay price:Starting at $299/month*2.5 \u2026 $699 for 10mg, $699 for 12.5mg, and $699 for 15mg). Zepbound is available through LillyDirect and ...",
+                  "title": "Authentic Zepbound\u00ae (tirzepatide) Shipped to You",
+                  "url": "https://www.lilly.com/lillydirect/medicines/zepbound?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "lilly.com",
+                  "snippet": "Jun 11, 2026 \u2014 ZEPBOUND (tirzepatide injection) is indicated for once-weekly administration as an adjunct to a reduced-calorie diet and increased physical ...Read more",
+                  "title": "Product Monograph Including Patient Medication Information",
+                  "url": "https://pi.lilly.com/ca/zepbound-ca-pm.pdf?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "lilly.com",
+                  "snippet": "ZEPBOUND is an injectable prescription medicine used with a reduced-calorie diet and increased physical activity to help adults with: \u2022 obesity, or some adults ...Read more",
+                  "title": "Medication Guide ZEPBOUND\u00ae (ZEHP-bownd) ( ...",
+                  "url": "https://pi.lilly.com/us/zepbound-us-mg.pdf?s=pi&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "lilly.com",
+                  "snippet": "Zepbound is indicated for adults with obesity (with a BMI of 30 apnea or cardiovascular disease, to lose weight and keep it off.",
+                  "title": "Zepbound\u2122 (tirzepatide) is Now Available in U.S. ...",
+                  "url": "https://investor.lilly.com/news-releases/news-release-details/zepboundtm-tirzepatide-now-available-us-pharmacies-adults-living?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "lilly.com",
+                  "snippet": "MOUNJARO is an injectable prescription medicine that is used along with diet and exercise to improve blood sugar. (glucose) in adults and children 10 years of ...Read more",
+                  "title": "Medication Guide MOUNJARO\u00ae [mown- ...",
+                  "url": "https://pi.lilly.com/us/mounjaro-us-mg.pdf?s=pi&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "lilly.com",
+                  "snippet": "Zepbound is an injectable prescription medicine that may help adults with obesity, or some adults with overweight who also have weight-related medical problems,",
+                  "title": "FAQs: Common, Helpful & Top Questions",
+                  "url": "https://zepbound.lilly.com/faq?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "lilly.com",
+                  "snippet": "If you use too much tirzepatide (the medicinal ingredient in ZEPBOUND) you may have gastrointestinal side effects including nausea. If you think you, or a ...Read more",
+                  "title": "Patient Medication Information",
+                  "url": "https://pi.lilly.com/ca/zepbound-ca-pmi.pdf?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "lilly.com",
+                  "snippet": "Gastroparesis (slow stomach emptying): pain, severe nausea and vomiting, prolonged belching, and prolonged bloating. \u2713. \u2713. Ileus (slow movement of food.Read more",
+                  "title": "mounjaro-ca-pmi.pdf",
+                  "url": "https://pi.lilly.com/ca/mounjaro-ca-pmi.pdf?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "lilly.com",
+                  "snippet": "Zepbound\u00ae (ZEHP-bownd) is an injectable prescription medicine used with a reduced-calorie diet and increased physical activity to help adults with: obesity, ...Read more",
+                  "title": "Zepbound\u00ae (tirzepatide) Media Kit",
+                  "url": "https://www.lilly.com/news/media/zepbound?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "novo-pi.com",
+              "entries": [
+                {
+                  "attribution": "novo-pi.com",
+                  "snippet": "WARNING: RISK OF THYROID C\u2212CELL TUMORS. See full prescribing information for complete boxed warning. \u2022 In rodents, semaglutide causes thyroid C-cell tumors. It ...Read more",
+                  "title": "Rybelsus PDF - Ozempic Tablets",
+                  "url": "https://www.novo-pi.com/rybelsus.pdf?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "novo-pi.com",
+                  "snippet": "OZEMPIC\u00ae is an injectable prescription medicine used: \u2022 along with diet and exercise to improve blood sugar (glucose) in adults with type 2 diabetes mellitus.",
+                  "title": "Ozempic PI",
+                  "url": "https://www.novo-pi.com/ozempic.pdf?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "prnewswire.com",
+              "entries": [
+                {
+                  "attribution": "prnewswire.com",
+                  "snippet": "Feb 23, 2026 \u2014 Zepbound tackles an underlying cause of excess weight. It reduces appetite and how much you eat. Zepbound is indicated for adults with obesity, ...Read more",
+                  "title": "Zepbound (tirzepatide), the most prescribed weight ...",
+                  "url": "https://www.prnewswire.com/news-releases/zepbound-tirzepatide-the-most-prescribed-weight-management-medication-in-2025-now-available-in-multi-dose-kwikpen-302693937.html?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "walgreens.com",
+              "entries": [
+                {
+                  "attribution": "walgreens.com",
+                  "snippet": "Zepbound is a brand name for tirzepatide, a once weekly FDA-approved injectable medication prescribed primarily for weight loss or maintaining weight loss.Read more",
+                  "title": "Get Zepbound for Weight Loss \u2013 Online Prescription",
+                  "url": "https://www.walgreens.com/topic/virtual-healthcare/weight-loss/zepbound.jsp?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "drugs.com",
+              "entries": [
+                {
+                  "attribution": "drugs.com",
+                  "snippet": "May 13, 2026 \u2014 Zepbound (tirzepatide) is a prescription medicine used for weight loss, weight management, and obstructive sleep apnea.",
+                  "title": "Zepbound for Weight Loss: Uses, Dosage, Side Effects",
+                  "url": "https://www.drugs.com/zepbound.html?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "bbb21be8-cdd5-46f6-832f-823218c35bb8"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Med Comparison for Fat Loss",
+  "update_time": 1783996834.608943,
+  "voice": null
+}

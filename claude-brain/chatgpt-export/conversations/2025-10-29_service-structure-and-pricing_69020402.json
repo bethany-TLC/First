@@ -1,0 +1,71 @@
+{
+  "conversation_id": "69020402-d3c8-832a-b633-b3f79ae302d4",
+  "conversation_template_id": null,
+  "create_time": 1761739788.234478,
+  "current_node": "488910ac-2c07-4fb0-be75-6c2cb9a914df",
+  "default_model_slug": "gpt-5",
+  "id": "69020402-d3c8-832a-b633-b3f79ae302d4",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "488910ac-2c07-4fb0-be75-6c2cb9a914df": {
+      "id": "488910ac-2c07-4fb0-be75-6c2cb9a914df",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a clear, professional way you could respond to those four questions:  \n\n---\n\n**Hi [Name],**  \n\nThank you for the thoughtful questions \u2014 I\u2019m happy to clarify each point so you can get a full picture of how our structure and pricing work.  \n\n**1. Commission Structure (10%)**  \nThe 10% commission represents the performance-based revenue share tied to the results we help you generate. It covers our system\u2019s automation, optimization, and strategic oversight that directly drives conversions (ad strategy, AI lead qualification, nurture automations, and reporting). It does *not* include a closer, since not every client requires one \u2014 but the commission ensures our incentives are aligned with your growth, not just flat fees.\n\n**2. Adding a Closer**  \nIf you\u2019d like a closer included, we can build that into your package. Typically, we add **an additional 5\u20137%** on top of the base commission to cover closer compensation and management. This ensures they\u2019re trained on your offer, handle follow-up, and maintain conversion tracking within the CRM so you don\u2019t have to.\n\n**3. Target Market Focus**  \nWe work with both **local and national accounts**, depending on your growth goals. Most of our clients start locally to prove offer performance, then scale regionally or nationally using data-backed targeting. Account types range from single-location clinics and medspas to multi-location regional groups and franchises. The CRM and AI systems we implement scale smoothly across either model.\n\n**4. Account Management (\u201cBabysitting\u201d)**  \nWe provide **active management**, not passive oversight. That includes:  \n- Ongoing ad optimization, automation adjustments, and CRM reporting  \n- Weekly or bi-weekly performance reviews  \n- Slack or email access for real-time updates and troubleshooting  \n- Sales coaching or closer feedback (if applicable)  \nOur goal is to make your growth as hands-off as possible while keeping full transparency through dashboards and regular reporting.\n\n---\n\nWould you like me to adjust this version to sound a bit more *conversational and warm*, or keep it in this crisp, professional tone for client use?"
+          ]
+        },
+        "create_time": 1761739788.040254,
+        "id": "488910ac-2c07-4fb0-be75-6c2cb9a914df",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "683079c8-f133-40c7-b2c3-3bee2d577a6d"
+        }
+      },
+      "parent": "bbb2110e-6458-434c-a495-7e06339a3d62"
+    },
+    "57909491-6468-4dc0-87d5-5f01f900e485": {
+      "id": "57909491-6468-4dc0-87d5-5f01f900e485",
+      "message": null,
+      "parent": null
+    },
+    "bbb2110e-6458-434c-a495-7e06339a3d62": {
+      "id": "bbb2110e-6458-434c-a495-7e06339a3d62",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Respond to these questions: I met with my mentors today and have a few questions to better understand your service structure and pricing:\n\n1. If there is a 10% commission charged per order, does that imply that a closer is included in that pricing tier? If not, could you please explain the reason for the commission percentage?\n2. What is the additional percentage cost to include a closer in my package?\n3. Are you primarily targeting local or national accounts? And do these accounts typically have a single location or multiple locations?\n4. Could you clarify what level of ongoing management or \"babysitting\" is provided for the accounts?"
+          ]
+        },
+        "create_time": 1761739787.643172,
+        "id": "bbb2110e-6458-434c-a495-7e06339a3d62",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "57909491-6468-4dc0-87d5-5f01f900e485"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Service structure and pricing",
+  "update_time": 1761739801.676141,
+  "voice": null
+}

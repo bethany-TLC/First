@@ -1,0 +1,165 @@
+{
+  "conversation_id": "6a0b60ab-a52c-83ea-9158-81cbe869b39c",
+  "conversation_template_id": null,
+  "create_time": 1779130549.347341,
+  "current_node": "0be03e37-decf-4d9a-bf75-cb3cf8d18c61",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a0b60ab-a52c-83ea-9158-81cbe869b39c",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "0be03e37-decf-4d9a-bf75-cb3cf8d18c61": {
+      "id": "0be03e37-decf-4d9a-bf75-cb3cf8d18c61",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "If you want to duplicate that Manus tool/app inside your own \ue200url\ue202Manus\ue202https://manus.im\ue201 workspace, the process is usually one of these:\n\n1. Clone/import the existing project (if shared publicly with duplication enabled)\n2. Rebuild the workflow manually using the same prompts, automations, UI blocks, and APIs\n3. Export/import the configuration JSON if Manus supports it for that workspace\n\nThat URL looks like a deployed Manus space, not the editable project itself, so you likely cannot directly duplicate it unless:\n- you have access to the original Manus account/workspace\n- or the creator shared the editable workflow/project link\n\nHere\u2019s how to recreate it yourself.\n\n---\n\n## Step 1: Inspect the Existing Tool\n\nOpen the deployed app and document:\n\n- Inputs/forms\n- AI prompts\n- Output structure\n- Automations\n- Any CRM/API integrations\n- Branding/layout\n- Logic branches\n- Lead qualification questions\n- Data collection flow\n\nFor example, if this is your Luxora Revenue Leak Audit tool, identify:\n- intake questions\n- scoring logic\n- report generation\n- recommendations\n- CTA flow\n- CRM/webhook connections\n\n---\n\n## Step 2: Create a New Project in \ue200url\ue202Manus\ue202https://manus.im\ue201\n\nInside Manus:\n\n- Create New Project\n- Choose:\n  - AI App\n  - Workflow\n  - Agent\n  - Form-based experience\n(depending on what the original uses)\n\n---\n\n## Step 3: Rebuild the Core Components\n\nTypical Manus structure:\n\n### Input Layer\nExamples:\n- Typeform-style questions\n- Business diagnostics\n- File uploads\n- Text fields\n\nExample:\n```text\nWhat is your monthly revenue?\nWhat services perform best?\nHow many leads book consultations monthly?\n```\n\n---\n\n### AI Prompt Layer\n\nThis is the MOST important part.\n\nYou\u2019ll need:\n- system prompt\n- scoring instructions\n- tone\n- formatting\n- output template\n\nExample:\n```text\nYou are a med spa growth strategist.\n\nAnalyze the following business information and identify:\n- revenue leaks\n- retention issues\n- membership opportunities\n- conversion gaps\n- operational inefficiencies\n\nThen generate:\n1. Executive summary\n2. Revenue leak breakdown\n3. Growth opportunities\n4. 90-day action plan\n5. Estimated revenue upside\n```\n\n---\n\n### Logic / Conditional Flows\n\nExamples:\n- If revenue < $500K \u2192 startup recommendations\n- If no memberships \u2192 retention strategy section\n- If multiple providers \u2192 staffing optimization section\n\n---\n\n### Output Layer\n\nGenerate:\n- PDF\n- dashboard\n- audit score\n- recommendations\n- charts\n- CRM sync\n\n---\n\n## Step 4: Add Integrations\n\nMost people connect Manus to:\n\n- \ue200url\ue202GoHighLevel\ue202https://www.gohighlevel.com\ue201\n- \ue200url\ue202Zapier\ue202https://zapier.com\ue201\n- \ue200url\ue202Make\ue202https://www.make.com\ue201\n- \ue200url\ue202Stripe\ue202https://stripe.com\ue201\n- \ue200url\ue202Slack\ue202https://slack.com\ue201\n- \ue200url\ue202Google Sheets\ue202https://sheets.google.com\ue201\n\nFor Luxora specifically, I\u2019d structure it:\n\n### Recommended Architecture\n- Manus = intelligence layer\n- GHL = CRM + automation\n- Typeform/Tally = intake\n- OpenAI = report generation\n- Zapier/Make = orchestration\n\n---\n\n## Step 5: Deploy Your Version\n\nInside Manus:\n- Publish\n- Custom branding\n- Add domain\n- Embed on site\n- Share public URL\n\nExample:\n```text\naudit.theluxoracollective.co\n```\n\n---\n\n## What You\u2019ll Need to Truly \u201cClone\u201d It\n\nYou\u2019ll need access to:\n- original prompts\n- workflows\n- API settings\n- conditional logic\n- templates\n- automations\n- webhook mappings\n\nWithout those, you can recreate the UX, but not the exact backend behavior.\n\n---\n\n## My Recommendation for Luxora\n\nYou would probably be better off rebuilding it cleaner rather than duplicating it 1:1.\n\nI\u2019d structure yours as:\n\n### Luxora Revenue Leak Intelligence Engine\u2122\n\nSections:\n1. Market Position Audit\n2. Lead Conversion Analysis\n3. Membership/LTV Analysis\n4. Follow-Up Gap Detection\n5. Equipment Utilization\n6. Front Desk Revenue Leakage\n7. Staff Productivity Metrics\n8. AI-Powered Growth Forecast\n9. 90-Day Action Plan\n\nThen:\n- auto-generate branded PDF\n- sync to CRM\n- trigger onboarding pipeline\n- notify Slack\n- auto-book strategy call\n\nThat becomes a legitimate scalable acquisition system instead of just a lead magnet.\n\nIf you want, I can also help you:\n- architect the entire Manus workflow\n- write the prompts\n- build the scoring logic\n- create the AI report template\n- map the automations\n- structure the API/webhook setup\n- create the med spa diagnostic questions\n- design the full Luxora audit engine system architecture"
+          ]
+        },
+        "create_time": 1779130550.812898,
+        "id": "0be03e37-decf-4d9a-bf75-cb3cf8d18c61",
+        "metadata": {
+          "code_blocks": {
+            "0": {
+              "edited": false,
+              "id": "9bq6wx",
+              "preview_language": null,
+              "previewable": false
+            },
+            "1": {
+              "edited": false,
+              "id": "fcuyez",
+              "preview_language": null,
+              "previewable": false
+            },
+            "2": {
+              "edited": false,
+              "id": "o49zyd",
+              "preview_language": null,
+              "previewable": false
+            }
+          },
+          "content_references": [
+            {
+              "alt": "[Manus](https://manus.im?utm_source=chatgpt.com)",
+              "logo": null,
+              "prefix": null,
+              "prompt_text": null,
+              "title": "Manus",
+              "type": "url"
+            },
+            {
+              "alt": "[Manus](https://manus.im?utm_source=chatgpt.com)",
+              "logo": null,
+              "prefix": null,
+              "prompt_text": null,
+              "title": "Manus",
+              "type": "url"
+            },
+            {
+              "alt": "[GoHighLevel](https://www.gohighlevel.com?utm_source=chatgpt.com)",
+              "logo": null,
+              "prefix": null,
+              "prompt_text": null,
+              "title": "GoHighLevel",
+              "type": "url"
+            },
+            {
+              "alt": "[Zapier](https://zapier.com?utm_source=chatgpt.com)",
+              "logo": null,
+              "prefix": null,
+              "prompt_text": null,
+              "title": "Zapier",
+              "type": "url"
+            },
+            {
+              "alt": "[Make](https://www.make.com?utm_source=chatgpt.com)",
+              "logo": null,
+              "prefix": null,
+              "prompt_text": null,
+              "title": "Make",
+              "type": "url"
+            },
+            {
+              "alt": "[Stripe](https://stripe.com?utm_source=chatgpt.com)",
+              "logo": null,
+              "prefix": null,
+              "prompt_text": null,
+              "title": "Stripe",
+              "type": "url"
+            },
+            {
+              "alt": "[Slack](https://slack.com?utm_source=chatgpt.com)",
+              "logo": null,
+              "prefix": null,
+              "prompt_text": null,
+              "title": "Slack",
+              "type": "url"
+            },
+            {
+              "alt": "[Google Sheets](https://sheets.google.com?utm_source=chatgpt.com)",
+              "logo": null,
+              "prefix": null,
+              "prompt_text": null,
+              "title": "Google Sheets",
+              "type": "url"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prefix": null,
+              "prompt_text": null,
+              "sources": [],
+              "type": "sources_footnote"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "fffa69c9-6600-46e4-b268-2f5d3e9d9498"
+        }
+      },
+      "parent": "29cc6c2e-b0c8-484d-9751-0bf25c895f6d"
+    },
+    "29cc6c2e-b0c8-484d-9751-0bf25c895f6d": {
+      "id": "29cc6c2e-b0c8-484d-9751-0bf25c895f6d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "how do i duplicate this tool in my own manus: https://luxoramed-b9tcnbqi.manus.space/"
+          ]
+        },
+        "create_time": 1779130548.876,
+        "id": "29cc6c2e-b0c8-484d-9751-0bf25c895f6d",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Duplicating Manus Tool",
+  "update_time": 1779130566.555899,
+  "voice": null
+}

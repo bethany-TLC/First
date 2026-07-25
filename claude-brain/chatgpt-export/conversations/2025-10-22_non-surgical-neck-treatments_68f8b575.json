@@ -1,0 +1,2441 @@
+{
+  "conversation_id": "68f8b575-f9f4-8330-99b9-3c0c1402fa14",
+  "conversation_template_id": null,
+  "create_time": 1761129867.216292,
+  "current_node": "55d1b7cd-5ad6-4185-a3ad-2aa25b02ecea",
+  "default_model_slug": "gpt-5",
+  "id": "68f8b575-f9f4-8330-99b9-3c0c1402fa14",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "55d1b7cd-5ad6-4185-a3ad-2aa25b02ecea": {
+      "id": "55d1b7cd-5ad6-4185-a3ad-2aa25b02ecea",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here are **a few supplement-stack products** that partially align with your desired ingredients (NMN + ALA + PEA + B-vitamins + magnesium glycinate + curcumin). None are *perfectly matched* to your full list, so you\u2019ll still need to check labels and possibly combine products. **This is not medical advice** \u2014 check with your doctor before starting.\n\n---\n\n### \ud83d\udd0d Products to consider  \n1. \ue200entity\ue202[\"brand\", \"The Well Theory\", 0]\ue201 \u201cNerve Pain Relief Bundle\u201d  \n   - Includes a \u201cNervous System Multivitamin\u201d with **PEA (600 mg)** plus other nerve-support ingredients. \ue200cite\ue202turn1search4\ue201  \n   - Also an \u201cAlpha-Lipoic Acid\u201d supplement (600 mg) in the bundle. \ue200cite\ue202turn1search4\ue201  \n   - Does *not* clearly include NMN or curcumin in that bundle description (so you\u2019d need a separate NMN product).  \n   - Good partial match for your nerve-support stack.\n\n2. \ue200entity\ue202[\"brand\", \"Stonehenge Health\", 0]\ue201 \u201cDynamic Nerve Supplement\u201d  \n   - Contains ALA + PEA + a robust B-complex. \ue200cite\ue202turn1search0\ue201  \n   - Again, lacks NMN + curcumin as clearly listed ingredients.\n\n3. A peer-reviewed study of a combination supplement:  \n   - \u201cCombination of Palmitoylethanolamide, Superoxide Dismutase, Alpha Lipoic Acid, Vitamins B1/B6/B12, Magnesium, Zinc and Nicotinamide\u201d improved neuropathic pain in a 6-month trial. \ue200cite\ue202turn1search1\ue202turn1search2\ue201  \n   - Use this as a **template** for what evidence supports \u2014 though this formula still lacks NMN & curcumin.\n\n---\n\n### \u2705 What you can do to fill the gaps  \n- Use one of the nerve-support formulas above **plus** a separate high-quality **NMN supplement** (since none above clearly include it).  \n  - For example: look for a pure NMN product with third-party testing.  \n- If you want curcumin as well, you may need a separate curcumin/bioavailable turmeric extract product.  \n- Ensure the B-vitamin complex, magnesium (glycinate form preferred), and dosage match what you believe might be beneficial.\n\n---\n\n### \u26a0\ufe0f Important caveats  \n- These supplements **do not cure** mechanical compression of nerves (like a pinched nerve at C6\u20137\u20138) \u2014 they may support nerve health and reduce inflammation but won\u2019t replace structural therapies (PT, traction, injections, etc).  \n- Dosing matters: you\u2019ll want to confirm that amounts of ALA, PEA, B-vitamins, magnesium etc are in therapeutic ranges (many supplements under-dose).  \n- Quality varies: Look for **third-party tested**, \u201cGMP\u201d-certified, clear ingredient labels (no \u201cproprietary blends\u201d hiding key amounts).  \n- Interactions / safety: Especially if you\u2019re using other medications, have spinal nerve compression, or underlying issues.  \n- Track outcomes: Set a baseline (pain scale, numbness/tingling, strength, function) then review after 8\u201312 weeks.\n\n---\n\nIf you like, I can dig deeper and **find 5-10 more supplement stacks on the U.S. market**, list their full ingredient labels + prices, so you can compare side-by-side. Would you like me to pull that?"
+          ]
+        },
+        "create_time": 1761130526.419754,
+        "id": "55d1b7cd-5ad6-4185-a3ad-2aa25b02ecea",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "The Well Theory",
+              "prompt_text": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "([Well Theory](https://thewelltheory.com/product/nerve-pain-relief-bundle-nerve-pain-ala?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Well Theory",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 4,
+                      "ref_type": "search",
+                      "turn_index": 1
+                    }
+                  ],
+                  "snippet": "ALA has a strong history of use for the natural treatment of neuropathic pain and is a great addition to your routine for managing your persistent neuropathic ...",
+                  "supporting_websites": [],
+                  "title": "Nerve Pain Relief Supplement Bundle",
+                  "url": "https://thewelltheory.com/product/nerve-pain-relief-bundle-nerve-pain-ala?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Well Theory](https://thewelltheory.com/product/nerve-pain-relief-bundle-nerve-pain-ala?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Well Theory",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 4,
+                      "ref_type": "search",
+                      "turn_index": 1
+                    }
+                  ],
+                  "snippet": "ALA has a strong history of use for the natural treatment of neuropathic pain and is a great addition to your routine for managing your persistent neuropathic ...",
+                  "supporting_websites": [],
+                  "title": "Nerve Pain Relief Supplement Bundle",
+                  "url": "https://thewelltheory.com/product/nerve-pain-relief-bundle-nerve-pain-ala?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "Stonehenge Health",
+              "prompt_text": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "([Amazon](https://www.amazon.com/Stonehenge-Health-Dynamic-Nerve-Supplement/dp/B0C953ZX7S?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Amazon",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 1
+                    }
+                  ],
+                  "snippet": "Supports nerve function in fingers, toes, hands, and feet with alpha lipoic acid ALA, Benfotiamine, pea, robust B complex, boswellia.",
+                  "supporting_websites": [],
+                  "title": "Stonehenge Health Dynamic Nerve Supplement",
+                  "url": "https://www.amazon.com/Stonehenge-Health-Dynamic-Nerve-Supplement/dp/B0C953ZX7S?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([PubMed](https://pubmed.ncbi.nlm.nih.gov/39339645/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "PubMed",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 1,
+                      "ref_type": "search",
+                      "turn_index": 1
+                    },
+                    {
+                      "ref_index": 2,
+                      "ref_type": "search",
+                      "turn_index": 1
+                    }
+                  ],
+                  "snippet": "by T Didangelos \u00b7 2024 \u00b7 Cited by 8 \u2014 The combination of the ten elements in one tablet for 6 months at a daily dose of two tablets in people with DN significantly improves pain, vibration ...",
+                  "supporting_websites": [
+                    {
+                      "attribution": "PMC",
+                      "pub_date": null,
+                      "snippet": "by T Didangelos \u00b7 2024 \u00b7 Cited by 8 \u2014 Efficacy and Safety of the Combination of Palmitoylethanolamide, Superoxide Dismutase, Alpha Lipoic Acid, Vitamins B12, B1, B6, E, Mg, Zn and ...",
+                      "title": "Efficacy and Safety of the Combination ...",
+                      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11434759/?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Efficacy and Safety of the Combination ...",
+                  "url": "https://pubmed.ncbi.nlm.nih.gov/39339645/?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "Well Theory",
+                  "title": "Nerve Pain Relief Supplement Bundle",
+                  "url": "https://thewelltheory.com/product/nerve-pain-relief-bundle-nerve-pain-ala?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Amazon",
+                  "title": "Stonehenge Health Dynamic Nerve Supplement",
+                  "url": "https://www.amazon.com/Stonehenge-Health-Dynamic-Nerve-Supplement/dp/B0C953ZX7S?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "PubMed",
+                  "title": "Efficacy and Safety of the Combination ...",
+                  "url": "https://pubmed.ncbi.nlm.nih.gov/39339645/?utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "model_slug": "gpt-5",
+          "parent_id": "1654eb05-78d1-4091-8e24-7553c9719d01",
+          "search_result_groups": [
+            {
+              "domain": "naturecan.ie",
+              "entries": [
+                {
+                  "attribution": "naturecan.ie",
+                  "snippet": "Oct 8, 2025 \u2014 What supplements does Gary Brecka recommend? Brecka often highlights nutrients such as NMN, resveratrol, omega-3, magnesium, zinc, and ...",
+                  "title": "Gary Brecka's Longevity Supplement Stack Revealed",
+                  "url": "https://www.naturecan.ie/blogs/news/gary-breckas-longevity-supplement-stack?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "nmn.com",
+              "entries": [
+                {
+                  "attribution": "nmn.com",
+                  "snippet": "Mar 27, 2024 \u2014 Dr. Matt Kaeberlein takes rapamycin, nutrients for beneficial gut microbes (prebiotics), vitamin D, omega-3 fatty acids, and vitamin B12.",
+                  "title": "Aging Expert Matt Kaeberlein's Carefully Curated ...",
+                  "url": "https://www.nmn.com/news/aging-expert-matt-kaeberleins-conservatively-assessed-supplement-stack?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "nmn.com",
+                  "snippet": "Feb 21, 2024 \u2014 Stanford neuroscientist and longevity podcaster Dr. Andrew Huberman's daily supplement stack includes NMN, Tongkat Ali, apigenin, magnesium, and more.",
+                  "title": "Dr. Huberman's Top 2024 Supplements Beyond NMN",
+                  "url": "https://www.nmn.com/news/dr-hubermans-top-2024-supplements-beyond-nmn?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "amazon.com",
+              "entries": [
+                {
+                  "attribution": "amazon.com",
+                  "snippet": "Benefits & Use -- Boosts NAD+ levels to combat age-related decline, promotes antioxidant protection for healthy aging, brain, and cellular support, as well as ...",
+                  "title": "2-in-1 Extra Strength NMN Supplement Alternative | NAD ...",
+                  "url": "https://www.amazon.com/Liposomal-NAD-Resveratrol-Nicotinamide-NIAGEN/dp/B0DJWRXKPX?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "nih.gov",
+              "entries": [
+                {
+                  "attribution": "nih.gov",
+                  "snippet": "by T Didangelos \u00b7 2024 \u00b7 Cited by 8 \u2014 Efficacy and Safety of the Combination of Palmitoylethanolamide, Superoxide Dismutase, Alpha Lipoic Acid, Vitamins B12, B1, B6, E, Mg, Zn and ...",
+                  "title": "Efficacy and Safety of the Combination ...",
+                  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11434759/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "walmart.com",
+              "entries": [
+                {
+                  "attribution": "walmart.com",
+                  "snippet": "SciatiEase Sciatic Nerve Health Support offers a 12-ingredient formula with AlphaPalm, PEA, Vitamin B Complex, and Alpha Lipoic Acid 300mg for nerve relief, ...",
+                  "title": "SciatiEase Sciatic Nerve Support Supplement, R-Alpha ...",
+                  "url": "https://www.walmart.com/ip/SciatiEase-Sciatic-Nerve-Health-Support-Supplement-AlphaPalm-Pea-Vitamin-B-Complex-Alpha-Lipoic-Acid-300mg-120-Capsules-Nerve-Support-Formula/5272605851?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "jinfiniti.com",
+              "entries": [
+                {
+                  "attribution": "jinfiniti.com",
+                  "snippet": "Jan 31, 2025 \u2014 An 18-month study revealed that curcumin supplementation (180 mg/day) significantly improved visual memory and attention in adults aged 51-84.",
+                  "title": "15 Best Longevity Supplements in 2025 (Ranked by ...",
+                  "url": "https://www.jinfiniti.com/best-longevity-supplements/?srsltid=AfmBOoo_Yq4L8uZw6glHNhiuAd4GkoGz4IG6bVLY3MHVmSYRRO6oEHkm&utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "fortune.com",
+              "entries": [
+                {
+                  "attribution": "fortune.com",
+                  "snippet": "Learn more about the best NMN supplements chosen by our team of experts and testers to support longevity and anti-aging goals.",
+                  "title": "The 5 Best NMN Supplements of 2025: Expert Approved",
+                  "url": "https://fortune.com/article/best-nmn-supplements/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "webmd.com",
+              "entries": [
+                {
+                  "attribution": "webmd.com",
+                  "snippet": "Alpha-lipoic acid is an antioxidant that is made naturally in the body and also found in foods. It is used to break down carbohydrates and to make energy.",
+                  "title": "Alpha-Lipoic Acid \u2013 Uses, Side Effects, and More",
+                  "url": "https://www.webmd.com/vitamins/ai/ingredientmono-767/alpha-lipoic-acid?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "nad.com",
+              "entries": [
+                {
+                  "attribution": "nad.com",
+                  "snippet": "Feb 13, 2024 \u2014 Longevity expert Dr. David Sinclair's 2024 anti-aging protocol includes NMN, fish oil, lipoic acid, resveratrol, metformin, spermidine, and more.",
+                  "title": "David Sinclair's 2024 Anti-Aging Supplement Protocol",
+                  "url": "https://www.nad.com/news/david-sinclairs-2024-anti-aging-supplement-protocol?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "painphysicianjournal.com",
+              "entries": [
+                {
+                  "attribution": "painphysicianjournal.com",
+                  "snippet": "by E Latini \u00b7 2023 \u00b7 Cited by 4 \u2014 Objectives: We investigated whether a combination of nutraceutical supplements and oxygen- ozone (O2-O3) therapy might reduce disability and improve clinical ...",
+                  "title": "\u03b1-Lipoic Acid, Palmitoylethanolamide, Myrrh, and Oxygen- ...",
+                  "url": "https://www.painphysicianjournal.com/current/pdf?article=NzcwMg%3D%3D&utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "novoslabs.com",
+              "entries": [
+                {
+                  "attribution": "novoslabs.com",
+                  "snippet": "Sep 6, 2024 \u2014 David Sinclair's supplement and longevity drug stack in 2025 is as follows: Nicotinamide mononucleotide (NMN): 1g per day, in the morning ...",
+                  "title": "David Sinclair Supplement Routine | 2024 Scientific Review",
+                  "url": "https://novoslabs.com/best-anti-aging-supplements-that-harvard-scientist-david-sinclair-takes/?srsltid=AfmBOoqIfy35ngRuv8aYFNTNbWbEPI_Tkp99hqDAtw9q3NDBdLleAkul&utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "experiment.com",
+              "entries": [
+                {
+                  "attribution": "experiment.com",
+                  "snippet": "Sep 25, 2025 \u2014 The formula targets the main causes of nerve pain. Palmitoylethanolamide calms inflammation, while alpha lipoic acid fights oxidative damage.",
+                  "title": "Does Nerve Armor Work? Full Review Of Its Claims Against ...",
+                  "url": "https://experiment.com/projects/cnscycscagpmztgiyuii/protocols/2398-does-nerve-armor-work-full-review-of-its-claims-against-nerve-discomfort?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "bnc.cat",
+              "entries": [
+                {
+                  "attribution": "bnc.cat",
+                  "snippet": "Since NMN boosts NAD+ levels, combining the two creates a cooperative mechanism that may improve energy efficiency and aging resistance. A typical dose of ...",
+                  "title": "Practical Guide To Stacking NMN With Other Supplements",
+                  "url": "https://transcriu.bnc.cat/mediawiki/index.php/Practical_Guide_To_Stacking_NMN_With_Other_Supplements?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "physiciannutrients.com",
+              "entries": [
+                {
+                  "attribution": "physiciannutrients.com",
+                  "snippet": "Nerve Support Bundle is a 2-month supply of three important supplements for nerve support: Alpha Lipoic Acid CR, Benfotiamine and MultiNutrients w/o Iron.",
+                  "title": "Nerve Support Bundle",
+                  "url": "https://www.physiciannutrients.com/products/nerve-support-bundle?srsltid=AfmBOorS4BXGwRG2qCkxRMaQBRwOmCuGH1ZtSp8WteGnVezBbsS8G-kk&utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "omre.co",
+              "entries": [
+                {
+                  "attribution": "omre.co",
+                  "snippet": "Jul 9, 2025 \u2014 Yes, you can generally take NMN (Nicotinamide Mononucleotide) with other supplements. Most research indicates NMN is compatible with common supplements.",
+                  "title": "Can You Take NMN with Other Supplements?",
+                  "url": "https://omre.co/blogs/news/can-you-take-nmn-with-other-supplements-compatibility-guide?srsltid=AfmBOorwxLYBNWM6_864zrCL0lcnKHp-eM_mL_bqwwKPfOC2pIFSto8e&utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "walgreens.com",
+              "entries": [
+                {
+                  "attribution": "walgreens.com",
+                  "snippet": "Shop Nervive Nerve Health with Alpha Lipoic Acid Tablets and read reviews at Walgreens. Pickup & Same Day Delivery available on most store items.",
+                  "title": "Nervive Nerve Health with Alpha Lipoic Acid Tablets, 30.0 ea",
+                  "url": "https://www.walgreens.com/store/c/nervive-nerve-health-with-alpha-lipoic-acid-tablets/ID%3D300411497-product?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "bbb2198d-b4af-4fd1-a272-a4987c73fb11"
+    },
+    "aeaca9e3-28e1-4150-8918-51bde1e08085": {
+      "id": "aeaca9e3-28e1-4150-8918-51bde1e08085",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ah \u2014 perfect, you meant **NMN** (nicotinamide mononucleotide).  \n\nThat\u2019s a great and timely question. NMN has been gaining traction as a **cellular health and anti-aging supplement**, but many people are now asking if it can help with **nerve repair and chronic compression injuries** like a C6\u2013C8 pinched nerve. Let\u2019s break it down clearly for your case.  \n\n---\n\n## \ud83e\uddec What NMN Is\nNMN (nicotinamide mononucleotide) is a **precursor to NAD\u207a** (nicotinamide adenine dinucleotide), a molecule every cell needs to produce energy and repair itself. NAD\u207a levels drop with age, injury, inflammation, and stress.  \nBy boosting NAD\u207a, NMN aims to:\n- Support **mitochondrial energy** in cells (including nerve cells)  \n- Reduce **oxidative stress and inflammation**  \n- Improve **cellular repair and longevity pathways** (SIRT1, SIRT3)  \n\n---\n\n## \ud83e\udde0 How It Relates to Nerve Health\nAnimal studies and early human data suggest NMN might:\n- **Protect or regenerate nerves** by reducing oxidative stress and inflammation in the nervous system  \n- **Enhance nerve conduction and function** in damaged peripheral nerves (seen in some diabetic neuropathy models)  \n- **Reduce fatigue, improve mitochondrial efficiency**, and support recovery in stressed tissues  \n\nWhile these mechanisms sound promising, NMN **has not been directly proven** in large-scale human trials to regenerate or heal *compressed spinal nerves* (like your C6\u2013C8). It may help systemically \u2014 improving the environment for healing \u2014 but it doesn\u2019t \u201cun-pinch\u201d the nerve.  \n\n---\n\n## \u2705 Potential Benefits for You\nIf you\u2019ve had a chronic pinched nerve for 9 months and you\u2019re trying to avoid surgery, NMN *may*:\n- Support your **nerve\u2019s metabolic health**  \n- Help reduce secondary **inflammation and oxidative damage**  \n- Work synergistically with **physical therapy, traction, and anti-inflammatory regimens**  \n- Possibly improve **recovery potential** if combined with **B-complex (B1, B6, B12), ALA (alpha-lipoic acid), and magnesium glycinate**  \n\n---\n\n## \u26a0\ufe0f Limitations / Cautions\n- **Not FDA approved** for any medical condition \u2014 it\u2019s classified as a supplement in most countries.  \n- **Evidence in humans for nerve regeneration** is limited \u2014 animal models show potential, but no proven outcomes in pinched nerve or radiculopathy.  \n- **Quality control varies** \u2014 NMN purity and stability are inconsistent across brands.  \n- **Possible side effects:** mild nausea, flushing, or headaches at high doses (though generally well-tolerated).  \n\n---\n\n## \ud83d\udd2c Typical Dosage Range\nMost people experimenting with NMN take:\n- **250\u2013500 mg daily**, often split AM/PM  \n- Some combine it with **resveratrol or pterostilbene** to enhance NAD\u207a pathway activity  \n- Best taken **in the morning** with food for steady absorption  \n- Some brands (like DoNotAge, ProHealth Longevity, or Renue) are third-party tested for purity  \n\n---\n\n## \ud83d\udca1 Smart Stack (If You\u2019re Going the Natural Route)\nIf you\u2019re exploring NMN to help your pinched nerve and want to stay non-surgical, you could discuss or research combining:  \n| Compound | Mechanism | Notes |\n|-----------|------------|-------|\n| **NMN** | Increases NAD\u207a, supports energy/repair | 250\u2013500 mg/day |\n| **Alpha-Lipoic Acid (ALA)** | Nerve antioxidant, improves glucose metabolism | 600 mg/day |\n| **Palmitoylethanolamide (PEA)** | Natural anti-inflammatory, supports nerve comfort | 400\u2013600 mg/day |\n| **Methylated B-complex (B1, B6, B12)** | Critical for nerve repair and myelination | Daily |\n| **Magnesium Glycinate** | Relaxes muscles, reduces nerve irritation | 200\u2013400 mg/day |\n| **Curcumin (liposomal or BCM-95)** | Reduces inflammation and pain | 500\u20131000 mg/day |\n\n*(Always confirm with your doctor or pharmacist before starting new supplements \u2014 especially if you\u2019re on other meds or injections.)*  \n\n---\n\n## \ud83e\udde9 Summary\n- NMN is **promising**, especially for cellular energy and nerve metabolism.  \n- It\u2019s **safe for most people**, with minimal side effects when sourced properly.  \n- It\u2019s **not a fix** for mechanical compression, but it can **support healing** of irritated or recovering nerves.  \n- Think of it as a **supportive compound**, not a standalone cure.  \n\n---\n\nWould you like me to put together a **nerve-repair supplement plan** that combines NMN with other clinically supported compounds for your specific C6\u2013C8 compression \u2014 including brands, timing, and stacking sequence?"
+          ]
+        },
+        "create_time": 1761130332.898799,
+        "id": "aeaca9e3-28e1-4150-8918-51bde1e08085",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "bbb21a13-d1b4-487e-a8cb-67adfdf865b9"
+        }
+      },
+      "parent": "bbb21a13-d1b4-487e-a8cb-67adfdf865b9"
+    },
+    "b2cc5293-648f-47fe-bb0a-1fe7e82f03b3": {
+      "id": "b2cc5293-648f-47fe-bb0a-1fe7e82f03b3",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "There *are* supplement products (\u201csmart stacks\u201d) that bundle several of the ingredients you\u2019re interested in (e.g., \ue200entity\ue202[\"dietary_supplement\", \"NMN\", 0]\ue201, \ue200entity\ue202[\"dietary_supplement\", \"Alpha-Lipoic Acid\", 0]\ue201 (ALA), \ue200entity\ue202[\"dietary_supplement\", \"Palmitoylethanolamide\", 0]\ue201 (PEA), B-vitamins, etc), but **none are guaranteed** to contain *all* your desired ingredients in the exact doses you want, nor are they proven to treat a structural pinched nerve. Here\u2019s a breakdown to help you evaluate, plus key caveats.\n\n---\n\n### \u2705 What I found  \n- One product page from \ue200entity\ue202[\"brand\", \"The Well Theory\", 0]\ue201 offers a \u201cNervous System Multivitamin\u201d that includes PEA, resveratrol, B-complex, algae, NAC, etc. \ue200cite\ue202turn0search0\ue201  \n- The same site also lists separate single\u2010ingredient supplements: PEA (550mg) and ALA (600mg) among their nerve/pain support range. \ue200cite\ue202turn0search0\ue201  \n- A clinical study described a combination supplement containing PEA, ALA, vitamins B1/B6/B12, magnesium, zinc and nicotinamide that reduced neuropathic pain in diabetic neuropathy by ~33%. \ue200cite\ue202turn0search6\ue201  \n- A review of supplements for peripheral nerve injury lists ALA, B12, curcumin (and others) as showing promise in animals/human models. \ue200cite\ue202turn0search8\ue201  \n\n---\n\n### \u26a0\ufe0f Why this is **not** the same as your custom stack  \n- **Dose & ingredient match**: The exact stack you\u2019re seeking (NMN + ALA + PEA + full B-complex + magnesium glycinate + curcumin) may not exist as a single product with all those at therapeutic doses.  \n- **Purpose**: Most of these stacks are marketed for general nerve health or neuropathy (often peripheral, diabetic) rather than for cervical nerve root compression (e.g., C6-7-8). The structural issue in your case may require more than metabolic / supplement support.  \n- **Regulation & claims**: These are dietary supplements, not approved treatments. They cannot legally claim to treat or cure your \u201cpinched nerve\u201d condition.  \n- **Quality & purity**: Supplement quality (especially for NMN and PEA) can vary. Third-party testing is important.  \n- **Evidence**: While there is some promising data (e.g., the PEA combination study above), there is *much less* high-quality human data specifically for cervical radiculopathy / nerve root compression. The study cited involved diabetic neuropathy.  \n\n---\n\n### \ud83d\udd0d What to look for if you choose a stack  \n- *Full ingredient label* that clearly lists NMN, ALA, PEA, B-vitamins (B1/B6/B12), magnesium glycinate, curcumin or similar anti-inflammatory.  \n- *Therapeutic dosing* (e.g., ALA = \u2248600 mg, PEA \u2248500-600 mg as used in studies).  \n- *Third-party testing / certificate of analysis (COA)* to verify purity and ingredient authenticity.  \n- *Separate dosing possibility*: it may make sense to stack two products (one NMN + B-vitamins; another nerve-support) rather than expecting *one* product to do everything.  \n- *Compatibility with your health status/medications*: Always check with your physician or pharmacist (especially since you have a long-standing nerve issue) before adding new supplements.  \n\n---\n\n### \ud83e\udded My recommendation for your situation  \nGiven your specific case (neck nerve root compression for ~9 months), here\u2019s what I\u2019d suggest:  \n- If you go the supplement route, **use it as an adjunct** to your physical therapy / nerve recovery plan \u2014 not a substitute for structural care (traction, injections, PT) or specialist evaluation.  \n- You could pick a high-quality NMN supplement (if you haven\u2019t already) and a separate nerve-support stack (ALA + PEA + B-vitamins + magnesium + curcumin).  \n- Monitor outcomes: pain reduction, improved range/movement, decreased tingling/numbness, improved muscle strength.  \n- Reassess after e.g., 3 months: if there\u2019s no meaningful improvement, discuss with your spine specialist whether more aggressive therapy (injection, surgery) is warranted.  \n\n---\n\nIf you like, I can **scan the current U.S. market** (and perhaps international options) for *multi-ingredient stacks* that closely approximate your desired group of ingredients (NMN, ALA, PEA, etc), list 2-3 products, and we can compare their ingredient profiles, costs, and quality. Would you like me to pull those?"
+          ]
+        },
+        "create_time": 1761130453.577063,
+        "id": "b2cc5293-648f-47fe-bb0a-1fe7e82f03b3",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "NMN",
+              "prompt_text": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "Alpha\u2011Lipoic Acid",
+              "prompt_text": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "Palmitoylethanolamide",
+              "prompt_text": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "The\u202fWell\u202fTheory",
+              "prompt_text": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "([thewelltheory.com](https://thewelltheory.com/product-category/nerve-pain/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "thewelltheory.com",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "PEA (Palmitoylethanolamide): Pain Relief Without NSAIDS\u200b\u200b MEDICAL GRADE INGREDIENTSThis daily supplement includes one simple ingredient: 550mg of PEA ( ...",
+                  "supporting_websites": [],
+                  "title": "Nerve Health - The Well Theory",
+                  "url": "https://thewelltheory.com/product-category/nerve-pain/?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([thewelltheory.com](https://thewelltheory.com/product-category/nerve-pain/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "thewelltheory.com",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "PEA (Palmitoylethanolamide): Pain Relief Without NSAIDS\u200b\u200b MEDICAL GRADE INGREDIENTSThis daily supplement includes one simple ingredient: 550mg of PEA ( ...",
+                  "supporting_websites": [],
+                  "title": "Nerve Health - The Well Theory",
+                  "url": "https://thewelltheory.com/product-category/nerve-pain/?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([NutraIngredients.com](https://www.nutraingredients.com/Article/2024/09/12/combination-pea-supplement-reduces-neuropathic-pain-by-33/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "NutraIngredients.com",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1726099200.0,
+                  "refs": [
+                    {
+                      "ref_index": 6,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Sep 12, 2024 \u2014 Supplementation with a 10-element combination supplement alleviates neuropathic pain in patients with diabetic neuropathy, according to a new study.",
+                  "supporting_websites": [],
+                  "title": "Combination PEA supplement reduces neuropathic pain ...",
+                  "url": "https://www.nutraingredients.com/Article/2024/09/12/combination-pea-supplement-reduces-neuropathic-pain-by-33/?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([PubMed](https://pubmed.ncbi.nlm.nih.gov/35733475/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "PubMed",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 8,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "by Y Abushukur \u00b7 2022 \u00b7 Cited by 18 \u2014 Alpha-lipoic acid, cytidine diphosphate-choline (CDP Choline), curcumin, melatonin, vitamin B12, and vitamin E have demonstrated notable success in improving ...",
+                  "supporting_websites": [],
+                  "title": "The Impact of Supplements on Recovery After Peripheral ...",
+                  "url": "https://pubmed.ncbi.nlm.nih.gov/35733475/?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "thewelltheory.com",
+                  "title": "Nerve Health - The Well Theory",
+                  "url": "https://thewelltheory.com/product-category/nerve-pain/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "NutraIngredients.com",
+                  "title": "Combination PEA supplement reduces neuropathic pain ...",
+                  "url": "https://www.nutraingredients.com/Article/2024/09/12/combination-pea-supplement-reduces-neuropathic-pain-by-33/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "PubMed",
+                  "title": "The Impact of Supplements on Recovery After Peripheral ...",
+                  "url": "https://pubmed.ncbi.nlm.nih.gov/35733475/?utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "model_slug": "gpt-5",
+          "parent_id": "0512fc53-9648-4f20-9585-3dd4adec6315",
+          "search_result_groups": [
+            {
+              "domain": "amazon.com",
+              "entries": [
+                {
+                  "attribution": "amazon.com",
+                  "snippet": "Packed with key ingredients like Vitamin B1 (Thiamine), Vitamin B6 (Pyridoxine), and Alpha-Lipoic Acid (ALA). Effective Nerve: Our nerve gummies with a potent ...",
+                  "title": "Sugar Free Neuropathy Support Gummies for Nerve ...",
+                  "url": "https://www.amazon.com/Sugar-Neuropathy-Support-Gummies-Nerve/dp/B0DZNM31KS?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "amazon.com",
+                  "snippet": "Sciatic Nerve Health Support Supplement - Nerve Support Formula with AlphaPalm, Pea, Vitamin B Complex, Alpha Lipoic Acid 300mg - 120 Capsules \u00b7 Capsule. 120 ...",
+                  "title": "Nerve Damage Repair Supplements",
+                  "url": "https://www.amazon.com/nerve-damage-repair-supplements/s?k=nerve+damage+repair+supplements&page=2&xpid=AM7BNIkesskpl&utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "routines.club",
+              "entries": [
+                {
+                  "attribution": "routines.club",
+                  "snippet": "Supplementing with TMG can help support mental clarity, sustained focus, and a more balanced nervous system, especially when combined with B vitamins. May ...",
+                  "title": "Gary Brecka Supplement List for 2025 - Routines",
+                  "url": "https://routines.club/routine/longevity-supplement-list?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "innerbody.com",
+              "entries": [
+                {
+                  "attribution": "innerbody.com",
+                  "snippet": "Oct 13, 2025 \u2014 NMN supplements may hold the key to longevity in boosting cellular health, but which one works the best? We compare the top performers here.",
+                  "title": "Best NMN Supplement in 2025 | The Top 5 Contenders",
+                  "url": "https://www.innerbody.com/best-nmn-supplement?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "drhyman.com",
+              "entries": [
+                {
+                  "attribution": "drhyman.com",
+                  "snippet": "Mitochondrial NRG: Help support mitochondrial density and function as you age while supporting normal cellular energy production and healthy body composition.",
+                  "title": "Energy and Mitochondrial Supplement Stack",
+                  "url": "https://drhyman.com/collections/energy-and-mitochondrial-supplement-stack?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "novoslabs.com",
+              "entries": [
+                {
+                  "attribution": "novoslabs.com",
+                  "snippet": "Sep 6, 2024 \u2014 2024 Review of David Sinclair's supplement stack: NMN, 1 g. Spermidine 1 mg. Metformin, 800 mg. Fisetin, 500 mg. Quercetin, 500 mg.",
+                  "title": "David Sinclair Supplement Routine | 2024 Scientific Review",
+                  "url": "https://novoslabs.com/best-anti-aging-supplements-that-harvard-scientist-david-sinclair-takes/?srsltid=AfmBOoqxxVg4pMceWwmUvEfBTzbR9AGG8iR1blpuoFsg3aB4PHO3OLh7&utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "doublewoodsupplements.com",
+              "entries": [
+                {
+                  "attribution": "doublewoodsupplements.com",
+                  "snippet": "Nicotinamide Mononucleotide (NMN) boosts your body's NAD+ levels, promoting cellular energy and vitality for a refreshed you.",
+                  "title": "Nicotinamide Mononucleotide (NMN) Supplement",
+                  "url": "https://doublewoodsupplements.com/products/nicotinamide-mononucleotide?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "bbb215b1-04bf-498c-abc8-5ca356b91898"
+    },
+    "b4d9d6d3-614f-4e97-a9ba-ab3e9b367b0a": {
+      "id": "b4d9d6d3-614f-4e97-a9ba-ab3e9b367b0a",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "It\u2019s definitely a valid question: can **stem cell therapy** help with your persistent neck nerve-compression (e.g., at the C6-7-8 level)? In short: it *might*, but the evidence is very preliminary and it\u2019s not a guaranteed or standard treatment yet. Here\u2019s a breakdown of what\u2019s known, what\u2019s promising, and what to be cautious about.\n\n---\n\n### \u2705 What the research says  \nHere\u2019s what the scientific literature currently indicates:\n\n- There is growing interest in using stem cells (especially mesenchymal stem cells, MSCs) for conditions involving nerve damage, degenerative discs, radiculopathy (nerve root compression) and spine degeneration. \ue200cite\ue202turn0search3\ue202turn0search2\ue202turn0search1\ue202turn0search6\ue202turn0search11\ue202turn0search14\ue201  \n- Some animal (pre-clinical) studies show that stem cells can help reduce inflammation, promote regeneration of disc or nerve tissue, and improve outcomes in models of spinal injury. \ue200cite\ue202turn0search0\ue202turn0search1\ue202turn0search7\ue201  \n- Human clinical trials exist, but they are **few**, often small, and not yet definitive. For example: in a recent trial for spinal cord injury, stem cell therapy was safe and some patients improved, but those are different (and much more severe) conditions. \ue200cite\ue202turn0search9\ue202turn0search19\ue201  \n- Specifically for *neck*/cervical radiculopathy or nerve compression: The evidence is quite limited. Some reviews say \u201cthere is no supportive evidence yet to recommend stem cell use\u201d for certain spinal degenerative conditions. \ue200cite\ue202turn0search6\ue202turn0search11\ue201  \n- Some clinics are offering stem cell injections for cervical spine issues, disc degeneration, nerve compression, etc. But many of those are still experimental, and many are not part of large controlled trials. \ue200cite\ue202turn0search10\ue202turn0search8\ue202turn0search14\ue201  \n\n---\n\n### \u26a0\ufe0f What you need to be cautious about  \nBecause this is still an emerging area of medicine, there are important caveats:\n\n- **Not FDA-approved** (in the U.S.) for many of the uses claimed in spine/nerve compression. Some so-called \u201cstem cell clinics\u201d operate in a grey zone.  \n- The **mechanism** of how well the stem cells actually heal nerve-root compression / disc herniation in humans is still unclear\u2014what kind of cells, what route of delivery, dose, timing\u2014all are not settled. \ue200cite\ue202turn0search5\ue202turn0search1\ue202turn0search14\ue201  \n- **Cost and insurance**: Many of these treatments are expensive, not covered by insurance, and you may be paying out of pocket.  \n- **Risk of over-promise / hype**: Some clinics may claim \u201cstem cells will fix everything\u201d when the evidence isn't there yet. One article warns about \u201chope and hype\u201d. \ue200cite\ue202turn0search17\ue202turn0search13\ue201  \n- **Patient selection matters**: If the cause of your nerve compression is bony, mechanical (e.g., bone spur, severe foraminal narrowing), then just injecting stem cells may not relieve the mechanical pressure \u2014 the structural issue remains.  \n- **Timing**: Because your symptoms have been present for ~9 months, and you\u2019ve tried \u201ceverything\u201d (you said), the question is: how far has the nerve been compressed, has there been chronic nerve damage, etc. The longer nerve compression is present, the more complicated recovery may be.\n\n---\n\n### \ud83d\udd0d How it might apply to *your* situation  \nGiven that you have a pinched nerve in the neck at C6-7-8 levels and you\u2019ve been dealing with this for 9 months, here\u2019s how to think about whether stem cell therapy might be an option:\n\n- **If** your imaging shows that there is mainly disc-degeneration or disc-herniation, with some inflammation, and the mechanical compression is **not extreme**, then stem cell/ regenerative therapies could be considered as an adjunct or alternative to try *before* surgery.  \n- **If** the compression is severe (e.g., large disc extrusion, significant bone spur, nerve-root impingement with weakness/atrophy), then mechanical decompression (surgery or similar) may still be necessary.  \n- Before going that route you\u2019ll want to **confirm** with your spine specialist or neurosurgeon: what exactly is compressing the nerve, how much damage is done, what the chances of recovery are, and whether conservative treatments (PT, injections, traction) have been optimized.  \n- If you do decide to pursue stem cell therapy, do so at a **well-credentialed centre** with someone experienced in spine/regenerative-medicine, get full disclosure of risks/benefits, and understand it\u2019s likely \u201coff-label\u201d or \u201cexperimental\u201d in this context.\n\n---\n\n### \ud83e\udded My recommendation  \nGiven all of the above, what I\u2019d suggest is:\n\n1. Schedule a detailed review with a spine/nerve specialist to **re-evaluate**: (a) your imaging (MRI/CT) of C6-7-8; (b) any nerve-conduction/EMG studies; (c) whether there is significant nerve-damage (weakness, reflex loss, muscle atrophy) which might push toward surgery sooner rather than later.  \n2. If the specialist says \u201cyes, the compression is moderate and largely mechanical but you still have a window for non-surgical/regenerative intervention\u201d, then ask about *regenerative/biologic therapies* including stem cells or PRP, and get a referral to a centre that does that.  \n3. Ask for **evidence and outcomes**: What have other patients with similar nerve-compression achieved at that centre with stem cell therapy? What are the risks? What is the cost? What is the realistic chance of improvement in your specific case (with C6-7-8 pinched nerve)?  \n4. If you go ahead, continue with a **comprehensive plan**: stem cell therapy is *not* likely to be a standalone magic bullet. You\u2019ll still need physical therapy, ergonomics/posture correction, maybe traction/nonsurgical decompression, lifestyle improvement (weight, smoking cessation if relevant), etc.  \n5. Have a fallback plan: If after a defined period (e.g., 3-6 months) there is no meaningful improvement, revisit the discussion of surgery or more established interventions.\n\n---\n\nIf you like, I can **look up specific clinics in or near Nashville/Tennessee** that offer stem cell or regenerative therapies for cervical spine/nerve-compression, and we can review their credentials/outcomes so you can evaluate them. Would you like me to do that?"
+          ]
+        },
+        "create_time": 1761129979.074151,
+        "id": "b4d9d6d3-614f-4e97-a9ba-ab3e9b367b0a",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9236174/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "PMC",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1655942400.0,
+                  "refs": [
+                    {
+                      "ref_index": 3,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 2,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 1,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 6,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 11,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 14,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "In recent decades, stem cells have shown remarkable efficacy in handling and repairing neuropathic pain rather than temporary analgesia.",
+                  "supporting_websites": [
+                    {
+                      "attribution": "PMC",
+                      "pub_date": null,
+                      "snippet": "Stem cell therapy has shown promising results in the management of neuropathic, discogenic back, osteoarthritis, and musculoskeletal pain.",
+                      "title": "Stem Cell Therapy and Its Significance in Pain Management - PMC",
+                      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8445610/?utm_source=chatgpt.com"
+                    },
+                    {
+                      "attribution": "PMC",
+                      "pub_date": null,
+                      "snippet": "In spinal cord injuries, stem cell-based approaches show promise in bridging injured areas, facilitating neural regeneration, and enhancing ...",
+                      "title": "Stem cell therapy for degenerative disc disease: Bridging the gap ...",
+                      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10950333/?utm_source=chatgpt.com"
+                    },
+                    {
+                      "attribution": "MDPI",
+                      "pub_date": null,
+                      "snippet": "In this systematic review, we found no evidence to support its use in humans. Further studies on efficacy, safety, and optimal patient selection ...",
+                      "title": "Potential Role for Stem Cell Regenerative Therapy as a Treatment ...",
+                      "url": "https://www.mdpi.com/1422-0067/24/10/8893?utm_source=chatgpt.com"
+                    },
+                    {
+                      "attribution": "Johns Hopkins University",
+                      "pub_date": null,
+                      "snippet": "This chapter provides an overview of CDD and stem cells, as well as a review of preclinical and clinical studies involving stem cell therapies ...",
+                      "title": "Stem Cell Therapy in the Management of Cervical Degenerative ...",
+                      "url": "https://pure.johnshopkins.edu/en/publications/stem-cell-therapy-in-the-management-of-cervical-degenerative-dise?utm_source=chatgpt.com"
+                    },
+                    {
+                      "attribution": "wascherspineinstitute.com",
+                      "pub_date": null,
+                      "snippet": "Current studies have demonstrated improvements in pain and function after injection of MSCs, as well as initial evidence of stabilization of ...",
+                      "title": "The current state of stem cell therapy and regenerative medicine in ...",
+                      "url": "https://wascherspineinstitute.com/blog/the-current-state-of-stem-cell-therapy-and-regenerative-medicine-in-cervical-spine-disease/?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Stem Cell Therapy for Neuropathic Pain: A Bibliometric and Visual ...",
+                  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9236174/?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4848986/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "PMC",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 1,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 7,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "In these studies there was evidence of transplanted cell survivability, differentiation into mature neurons (conflicting evidence exists regarding synaptic ...",
+                  "supporting_websites": [
+                    {
+                      "attribution": "PMC",
+                      "pub_date": null,
+                      "snippet": "In spinal cord injuries, stem cell-based approaches show promise in bridging injured areas, facilitating neural regeneration, and enhancing ...",
+                      "title": "Stem cell therapy for degenerative disc disease: Bridging the gap ...",
+                      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10950333/?utm_source=chatgpt.com"
+                    },
+                    {
+                      "attribution": "Mayo Clinic News Network",
+                      "pub_date": null,
+                      "snippet": "Qu's hypothesis is that mesenchymal stem cells could provide a new option for reducing inflammation, relieving pain and restoring spinal disks.",
+                      "title": "Science Saturday: Could regenerative medicine relieve neck, back ...",
+                      "url": "https://newsnetwork.mayoclinic.org/discussion/science-saturday-could-regenerative-medicine-relieve-neck-back-pain/?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Induced Pluripotent Stem Cell Therapies for Cervical Spinal Cord ...",
+                  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4848986/?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Mayo Clinic](https://www.mayoclinic.org/medical-professionals/neurology-neurosurgery/news/study-finds-stem-cell-therapy-is-safe-and-may-benefit-people-with-spinal-cord-injuries/mac-20567444?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Mayo Clinic",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1716422400.0,
+                  "refs": [
+                    {
+                      "ref_index": 9,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 19,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Study finds stem cell therapy is safe and may benefit people with spinal cord injuries \u00b7 Stem cells were successfully manufactured, and products ...",
+                  "supporting_websites": [
+                    {
+                      "attribution": "Mayo Clinic",
+                      "pub_date": null,
+                      "snippet": "Dr. Qu and co-authors shared results from a preclinical study demonstrating that MSCs are very effective in treating the degenerative disk condition in animals.",
+                      "title": "Evaluating the safety and efficacy of mesenchymal stem cells in the ...",
+                      "url": "https://www.mayoclinic.org/medical-professionals/physical-medicine-rehabilitation/news/evaluating-the-safety-and-efficacy-of-mesenchymal-stem-cells-in-the-treatment-of-low-back-pain/mac-20543434?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Study finds stem cell therapy is safe and may benefit people with ...",
+                  "url": "https://www.mayoclinic.org/medical-professionals/neurology-neurosurgery/news/study-finds-stem-cell-therapy-is-safe-and-may-benefit-people-with-spinal-cord-injuries/mac-20567444?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([MDPI](https://www.mdpi.com/1422-0067/24/10/8893?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "MDPI",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1684281600.0,
+                  "refs": [
+                    {
+                      "ref_index": 6,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 11,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "In this systematic review, we found no evidence to support its use in humans. Further studies on efficacy, safety, and optimal patient selection ...",
+                  "supporting_websites": [
+                    {
+                      "attribution": "Johns Hopkins University",
+                      "pub_date": null,
+                      "snippet": "This chapter provides an overview of CDD and stem cells, as well as a review of preclinical and clinical studies involving stem cell therapies ...",
+                      "title": "Stem Cell Therapy in the Management of Cervical Degenerative ...",
+                      "url": "https://pure.johnshopkins.edu/en/publications/stem-cell-therapy-in-the-management-of-cervical-degenerative-dise?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Potential Role for Stem Cell Regenerative Therapy as a Treatment ...",
+                  "url": "https://www.mdpi.com/1422-0067/24/10/8893?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Stemwell](https://stemwell.co/stem-cell-therapy-neck-injuries/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Stemwell",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1681257600.0,
+                  "refs": [
+                    {
+                      "ref_index": 10,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 8,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 14,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "It's thought that stem cell therapy can help to regenerate damaged tissues and reduce inflammation, supporting the overall healing of neck injuries.",
+                  "supporting_websites": [
+                    {
+                      "attribution": "thepsci.com",
+                      "pub_date": null,
+                      "snippet": "We believe stem cell injection is the treatment of choice for chronic back and neck pain unresponsive to physical therapy.",
+                      "title": "Stem Cell Injection for Back and Neck Pain - Dr Prodromos",
+                      "url": "https://www.thepsci.com/blog/stem-cell-injection-for-back-and-neck-pain-41612.html?utm_source=chatgpt.com"
+                    },
+                    {
+                      "attribution": "wascherspineinstitute.com",
+                      "pub_date": null,
+                      "snippet": "Current studies have demonstrated improvements in pain and function after injection of MSCs, as well as initial evidence of stabilization of ...",
+                      "title": "The current state of stem cell therapy and regenerative medicine in ...",
+                      "url": "https://wascherspineinstitute.com/blog/the-current-state-of-stem-cell-therapy-and-regenerative-medicine-in-cervical-spine-disease/?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Stem Cell Therapy For A Neck Injury \u2013 How Does it Work? - Stemwell",
+                  "url": "https://stemwell.co/stem-cell-therapy-neck-injuries/?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7313002/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "PMC",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 5,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 1,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 14,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "This study reviews the current knowledge on this issue, with a special focus on the clinical trials that have used stem cells for treating SCI.",
+                  "supporting_websites": [
+                    {
+                      "attribution": "PMC",
+                      "pub_date": null,
+                      "snippet": "In spinal cord injuries, stem cell-based approaches show promise in bridging injured areas, facilitating neural regeneration, and enhancing ...",
+                      "title": "Stem cell therapy for degenerative disc disease: Bridging the gap ...",
+                      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10950333/?utm_source=chatgpt.com"
+                    },
+                    {
+                      "attribution": "wascherspineinstitute.com",
+                      "pub_date": null,
+                      "snippet": "Current studies have demonstrated improvements in pain and function after injection of MSCs, as well as initial evidence of stabilization of ...",
+                      "title": "The current state of stem cell therapy and regenerative medicine in ...",
+                      "url": "https://wascherspineinstitute.com/blog/the-current-state-of-stem-cell-therapy-and-regenerative-medicine-in-cervical-spine-disease/?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Clinical Trials of Stem Cell Treatment for Spinal Cord Injury - PMC",
+                  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7313002/?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Desert Spine and Sports](https://www.desertspineandsports.com/stem-cell-therapies-reality-vs-hope-and-hype/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Desert Spine and Sports",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1739491200.0,
+                  "refs": [
+                    {
+                      "ref_index": 17,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 13,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Stem cell therapies for chronic spine pain have also demonstrated similar findings. For example, an RCT published in 2017 evaluated intradiscal ...",
+                  "supporting_websites": [
+                    {
+                      "attribution": "stemcures.com",
+                      "pub_date": null,
+                      "snippet": "Stem cells seem to have the potential to treat refractory radiculopathy. However, to get the best results, the following conditions have to be met.",
+                      "title": "Can Stem Cells help Radiculopathy? - StemCures",
+                      "url": "https://www.stemcures.com/can-stem-cells-help-radiculopathy?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Stem Cell Therapies --Reality vs. Hope and Hype",
+                  "url": "https://www.desertspineandsports.com/stem-cell-therapies-reality-vs-hope-and-hype/?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "PMC",
+                  "title": "Stem Cell Therapy for Neuropathic Pain: A Bibliometric and Visual ...",
+                  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9236174/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Mayo Clinic",
+                  "title": "Study finds stem cell therapy is safe and may benefit people with ...",
+                  "url": "https://www.mayoclinic.org/medical-professionals/neurology-neurosurgery/news/study-finds-stem-cell-therapy-is-safe-and-may-benefit-people-with-spinal-cord-injuries/mac-20567444?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "MDPI",
+                  "title": "Potential Role for Stem Cell Regenerative Therapy as a Treatment ...",
+                  "url": "https://www.mdpi.com/1422-0067/24/10/8893?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Stemwell",
+                  "title": "Stem Cell Therapy For A Neck Injury \u2013 How Does it Work? - Stemwell",
+                  "url": "https://stemwell.co/stem-cell-therapy-neck-injuries/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Desert Spine and Sports",
+                  "title": "Stem Cell Therapies --Reality vs. Hope and Hype",
+                  "url": "https://www.desertspineandsports.com/stem-cell-therapies-reality-vs-hope-and-hype/?utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "model_slug": "gpt-5",
+          "parent_id": "12da95af-0e75-4aca-bd26-b0335d1b4af2",
+          "search_result_groups": [
+            {
+              "domain": "nih.gov",
+              "entries": [
+                {
+                  "attribution": "nih.gov",
+                  "snippet": "In spinal cord injuries, stem cell-based approaches show promise in bridging injured areas, facilitating neural regeneration, and enhancing ...",
+                  "title": "Stem cell therapy for degenerative disc disease: Bridging the gap ...",
+                  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10950333/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "nih.gov",
+                  "snippet": "Stem cell therapy has shown promising results in the management of neuropathic, discogenic back, osteoarthritis, and musculoskeletal pain.",
+                  "title": "Stem Cell Therapy and Its Significance in Pain Management - PMC",
+                  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8445610/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "stemcellthailand.org",
+              "entries": [
+                {
+                  "attribution": "stemcellthailand.org",
+                  "snippet": "Isolated and expanded stem cells have been used to intervene in spinal stenosis and inflammation to help slow down progression, boost stem cell production, and ...",
+                  "title": "Enhanced Stem Cell Treatment for Spinal Stenosis",
+                  "url": "https://stemcellthailand.org/therapies/spinal-stenosis/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "mayoclinic.org",
+              "entries": [
+                {
+                  "attribution": "mayoclinic.org",
+                  "snippet": "Qu's hypothesis is that mesenchymal stem cells could provide a new option for reducing inflammation, relieving pain and restoring spinal disks.",
+                  "title": "Science Saturday: Could regenerative medicine relieve neck, back ...",
+                  "url": "https://newsnetwork.mayoclinic.org/discussion/science-saturday-could-regenerative-medicine-relieve-neck-back-pain/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "mayoclinic.org",
+                  "snippet": "Dr. Qu and co-authors shared results from a preclinical study demonstrating that MSCs are very effective in treating the degenerative disk condition in animals.",
+                  "title": "Evaluating the safety and efficacy of mesenchymal stem cells in the ...",
+                  "url": "https://www.mayoclinic.org/medical-professionals/physical-medicine-rehabilitation/news/evaluating-the-safety-and-efficacy-of-mesenchymal-stem-cells-in-the-treatment-of-low-back-pain/mac-20543434?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "thepsci.com",
+              "entries": [
+                {
+                  "attribution": "thepsci.com",
+                  "snippet": "We believe stem cell injection is the treatment of choice for chronic back and neck pain unresponsive to physical therapy.",
+                  "title": "Stem Cell Injection for Back and Neck Pain - Dr Prodromos",
+                  "url": "https://www.thepsci.com/blog/stem-cell-injection-for-back-and-neck-pain-41612.html?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "johnshopkins.edu",
+              "entries": [
+                {
+                  "attribution": "johnshopkins.edu",
+                  "snippet": "This chapter provides an overview of CDD and stem cells, as well as a review of preclinical and clinical studies involving stem cell therapies ...",
+                  "title": "Stem Cell Therapy in the Management of Cervical Degenerative ...",
+                  "url": "https://pure.johnshopkins.edu/en/publications/stem-cell-therapy-in-the-management-of-cervical-degenerative-dise?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "stemcellmia.com",
+              "entries": [
+                {
+                  "attribution": "stemcellmia.com",
+                  "snippet": "Studies show that stem cell therapy has many potential benefits for patients with certain types of cervical spine conditions.",
+                  "title": "Stem Cell Therapy for Neck & Cervical Pain",
+                  "url": "https://stemcellmia.com/cervical/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "stemcures.com",
+              "entries": [
+                {
+                  "attribution": "stemcures.com",
+                  "snippet": "Stem cells seem to have the potential to treat refractory radiculopathy. However, to get the best results, the following conditions have to be met.",
+                  "title": "Can Stem Cells help Radiculopathy? - StemCures",
+                  "url": "https://www.stemcures.com/can-stem-cells-help-radiculopathy?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "wascherspineinstitute.com",
+              "entries": [
+                {
+                  "attribution": "wascherspineinstitute.com",
+                  "snippet": "Current studies have demonstrated improvements in pain and function after injection of MSCs, as well as initial evidence of stabilization of ...",
+                  "title": "The current state of stem cell therapy and regenerative medicine in ...",
+                  "url": "https://wascherspineinstitute.com/blog/the-current-state-of-stem-cell-therapy-and-regenerative-medicine-in-cervical-spine-disease/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "caringmedical.com",
+              "entries": [
+                {
+                  "attribution": "caringmedical.com",
+                  "snippet": "Stem cell therapy can help change a degenerative disc disease environment into a healing and regenerative environment.",
+                  "title": "Is there evidence that direct stem cell injections into degenerated ...",
+                  "url": "https://caringmedical.com/prolotherapy-news/evidence-direct-stem-cell-injections-degenerated-disc-can-reverse-degenerative-disc-disease/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "sourcehealthcare.com",
+              "entries": [
+                {
+                  "attribution": "sourcehealthcare.com",
+                  "snippet": "The BioRestorative Phase II clinical trial investigates the effects of BRTX-100, an innovative, autologous stem cell therapy. Derived from the patient's own ...",
+                  "title": "BioRestorative - Phase II Clinical Trial - Source Healthcare",
+                  "url": "https://www.sourcehealthcare.com/clinical-trials/currently-enrolling/biorestorative-phase-ii-clinical-trial/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "thrivemdclinic.com",
+              "entries": [
+                {
+                  "attribution": "thrivemdclinic.com",
+                  "snippet": "Studies show that stem cell therapy for neck pain can be used to help restore osmotic pressure to the disc by introducing not just stem cells to ...",
+                  "title": "When Should You Get Stem Cell Therapy for Neck Pain? - ThriveMD",
+                  "url": "https://thrivemdclinic.com/stem-cell-therapy-for-neck-pain/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "jointrehab.com",
+              "entries": [
+                {
+                  "attribution": "jointrehab.com",
+                  "snippet": "Stem cell injections involve the use of Bone Marrow derived stem cells. The injections help restore ligaments strength by causing the regeneration of ligament, ...",
+                  "title": "Information on Non-Surgical and Conservative Care for neck pain ...",
+                  "url": "https://jointrehab.com/non-surgical-and-conservative-care-for-neck-pain-and-cervical-spine-disorders/?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "bbb21a06-e195-4e56-9d8a-73138fc3c93f"
+    },
+    "b9e03ef0-99d3-421e-bc53-6f591e2e1175": {
+      "id": "b9e03ef0-99d3-421e-bc53-6f591e2e1175",
+      "message": null,
+      "parent": null
+    },
+    "bbb21037-3f85-4bfe-be31-e250e0c45d01": {
+      "id": "bbb21037-3f85-4bfe-be31-e250e0c45d01",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Nhm"
+          ]
+        },
+        "create_time": 1761130206.462331,
+        "id": "bbb21037-3f85-4bfe-be31-e250e0c45d01",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "f43fc34c-526f-43a1-bd16-d578f902ff33"
+    },
+    "bbb214bf-f68f-46b0-a358-3e8495e39442": {
+      "id": "bbb214bf-f68f-46b0-a358-3e8495e39442",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "pinched nerve in neck for the last 9 months.c6-7-8 tried everything. what alternative thing on market can I take to get rid of it so I don't have to have surgery"
+          ]
+        },
+        "create_time": 1761129867.096541,
+        "id": "bbb214bf-f68f-46b0-a358-3e8495e39442",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "b9e03ef0-99d3-421e-bc53-6f591e2e1175"
+    },
+    "bbb215b1-04bf-498c-abc8-5ca356b91898": {
+      "id": "bbb215b1-04bf-498c-abc8-5ca356b91898",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Is there a compound I can buy with all those in smarta stack\n"
+          ]
+        },
+        "create_time": 1761130451.056436,
+        "id": "bbb215b1-04bf-498c-abc8-5ca356b91898",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "aeaca9e3-28e1-4150-8918-51bde1e08085"
+    },
+    "bbb215f9-df68-48cb-bdb1-8b2682947229": {
+      "id": "bbb215f9-df68-48cb-bdb1-8b2682947229",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Drug I can take that is not FSA approved or outside USA\n"
+          ]
+        },
+        "create_time": 1761130165.74242,
+        "id": "bbb215f9-df68-48cb-bdb1-8b2682947229",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "c2927944-e1c3-442a-b894-a46a2be4e960"
+    },
+    "bbb2197e-4e3a-45b9-a87e-ceb762a2237b": {
+      "id": "bbb2197e-4e3a-45b9-a87e-ceb762a2237b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Pros and cons of injections\n"
+          ]
+        },
+        "create_time": 1761130046.874311,
+        "id": "bbb2197e-4e3a-45b9-a87e-ceb762a2237b",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "b4d9d6d3-614f-4e97-a9ba-ab3e9b367b0a"
+    },
+    "bbb2198d-b4af-4fd1-a272-a4987c73fb11": {
+      "id": "bbb2198d-b4af-4fd1-a272-a4987c73fb11",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Yes"
+          ]
+        },
+        "create_time": 1761130521.470548,
+        "id": "bbb2198d-b4af-4fd1-a272-a4987c73fb11",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "b2cc5293-648f-47fe-bb0a-1fe7e82f03b3"
+    },
+    "bbb21a06-e195-4e56-9d8a-73138fc3c93f": {
+      "id": "bbb21a06-e195-4e56-9d8a-73138fc3c93f",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Stem cells? "
+          ]
+        },
+        "create_time": 1761129977.493265,
+        "id": "bbb21a06-e195-4e56-9d8a-73138fc3c93f",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "e1c12817-8db3-41c7-91fc-b5acb226ac33"
+    },
+    "bbb21a13-d1b4-487e-a8cb-67adfdf865b9": {
+      "id": "bbb21a13-d1b4-487e-a8cb-67adfdf865b9",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Nmn"
+          ]
+        },
+        "create_time": 1761130332.761386,
+        "id": "bbb21a13-d1b4-487e-a8cb-67adfdf865b9",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "e6a9dc16-d83e-4ca0-84b7-a6325f01be6c"
+    },
+    "c2927944-e1c3-442a-b894-a46a2be4e960": {
+      "id": "c2927944-e1c3-442a-b894-a46a2be4e960",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Great question \u2014 injections can be a very helpful middle-ground between conservative care (like PT and meds) and surgery, especially for a **pinched nerve at C6-7-8**. But they\u2019re not for everyone, and the outcomes depend heavily on what\u2019s actually compressing the nerve.  \n\nHere\u2019s a detailed breakdown for you:  \n\n---\n\n## \ud83d\udc89 **Types of Injections Used for Pinched Nerves in the Neck**\n1. **Epidural Steroid Injection (ESI)**  \n   - The most common. Corticosteroid + local anesthetic is injected into the epidural space around the affected nerve root to reduce inflammation and pain.  \n\n2. **Selective Nerve Root Block (SNRB)**  \n   - Targets a *specific* nerve root (for example C7 or C8). Helps confirm which level is causing the pain and may also relieve symptoms temporarily.  \n\n3. **Facet Joint Injections**  \n   - Used if the pain is coming more from the small joints of the spine rather than direct nerve compression.  \n\n4. **Medial Branch Blocks or Radiofrequency Ablation (RFA)**  \n   - Sometimes used if pain is more chronic and facet-related.  \n\n---\n\n## \u2705 **Pros**\n### 1. **Fast Relief (for Some)**\n- Many people get noticeable pain reduction within a few days to weeks.  \n- Reduces inflammation that\u2019s pressing on the nerve, which can help the nerve heal.  \n\n### 2. **Can Delay or Avoid Surgery**\n- For some, injections control pain long enough for the disc to heal or shrink naturally.  \n- May buy you time to strengthen muscles and improve posture through PT.  \n\n### 3. **Diagnostic Value**\n- If your pain improves after an injection at a specific level (say C7), it confirms that nerve as the source \u2014 useful before surgery or other advanced interventions.  \n\n### 4. **Minimally Invasive**\n- Done with a needle under X-ray or fluoroscopic guidance. Usually takes 15\u201330 minutes, with mild sedation or local anesthetic.  \n- No incision or hospital stay required.  \n\n### 5. **Can Be Combined with Other Therapies**\n- Often part of a multi-modal plan: traction, PT, nerve-glide exercises, and anti-inflammatories.  \n\n---\n\n## \u26a0\ufe0f **Cons**\n### 1. **Temporary Relief**\n- The effect can last anywhere from a few weeks to several months. Some people get no benefit.  \n- It doesn\u2019t fix the underlying structural issue (disc herniation, bone spur, stenosis).  \n\n### 2. **Limited Frequency**\n- Typically limited to 3 injections per year due to steroid-related side effects (like bone thinning, tissue damage, or adrenal suppression).  \n\n### 3. **Potential Side Effects**\n- Common: soreness at the site, temporary increase in pain, headache.  \n- Rare but serious: infection, bleeding, nerve injury, or accidental puncture of the dura (causing spinal headache).  \n\n### 4. **Cumulative Steroid Effects**\n- Over time, repeated steroid exposure can affect bone density, blood sugar (especially in diabetics), and immune function.  \n\n### 5. **Mixed Evidence**\n- Research shows injections help many people in the *short term*, but long-term outcomes often depend on whether the underlying compression resolves.  \n\n---\n\n## \ud83d\udd0d **Ideal Candidates**\n- Pain clearly tied to nerve inflammation rather than purely mechanical compression.  \n- Imaging shows disc herniation or foraminal narrowing that might respond to reduced inflammation.  \n- No progressive weakness or severe nerve damage.  \n- Want to delay or avoid surgery but have already tried PT, medications, and ergonomic corrections.  \n\n---\n\n## \ud83e\udde0 **Typical Plan**\n1. **Confirm source with imaging (MRI or CT)**.  \n2. **Trial of first injection** \u2014 track relief for 2\u20136 weeks.  \n3. **If good response**, a series of up to 2\u20133 injections spaced 4\u20136 weeks apart may be done.  \n4. **Continue PT** to strengthen and stabilize the neck as inflammation subsides.  \n5. **Reassess** \u2014 if pain returns quickly or never improves, consider regenerative therapy or surgical evaluation.  \n\n---\n\n## \ud83e\ude7a **Questions to Ask Before You Do It**\n- What type of injection do you recommend (epidural, nerve root, facet)?  \n- What level are you targeting (C6, C7, C8)?  \n- How many injections will you try before moving to other options?  \n- What are the specific risks for *me* (given my anatomy, medical history, medications)?  \n- What kind of guidance will you use (X-ray, CT, ultrasound)?  \n- How will we measure success (pain reduction, strength, range of motion)?  \n\n---\n\nIf you\u2019d like, I can pull a list of **regenerative-focused pain clinics in Tennessee** that do both **epidural injections and PRP/stem-cell alternatives**, so you can compare options side-by-side \u2014 would you like me to find those next?"
+          ]
+        },
+        "create_time": 1761130047.254939,
+        "id": "c2927944-e1c3-442a-b894-a46a2be4e960",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "b83d8610-d12f-4b76-965e-66e12debc3c7"
+        }
+      },
+      "parent": "bbb2197e-4e3a-45b9-a87e-ceb762a2237b"
+    },
+    "e1c12817-8db3-41c7-91fc-b5acb226ac33": {
+      "id": "e1c12817-8db3-41c7-91fc-b5acb226ac33",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "I\u2019m really sorry to hear you\u2019ve been dealing with this for nine months \u2014 that\u2019s a long time to go without relief. I\u2019m not a doctor, but I can share with you **non-surgical** options that people with a pinched nerve in the neck (for example at the C6-7-8 level) often explore. You should absolutely run any new treatment or supplementation by your physician (especially since there may be structural issues, nerve compression, or other complications).  \n\nHere are alternative / conservative approaches worth discussing with your specialist:\n\n---\n\n### \u2705 Non-surgical treatment options  \nThese have better evidence and are typically appropriate before considering surgery.  \n- **Physical therapy**: A focussed program of stretches, strengthening, posture correction, nerve-glides and manual therapy to relieve pressure on the nerve root. \ue200cite\ue202turn0search11\ue202turn0search17\ue202turn0search3\ue202turn0search12\ue201  \n- **Activity modification, posture/ergonomics**: Changing how you sit/stand, how you sleep, limiting aggravating movements, improving workstation ergonomics all help. \ue200cite\ue202turn0search4\ue202turn0search8\ue202turn0search0\ue201  \n- **Heat / cold + rest**: Using ice to reduce inflammation, gentle heat to relax muscles; resting the neck from aggravating motion. \ue200cite\ue202turn0search0\ue202turn0search11\ue201  \n- **Medications / anti-inflammatories**: Over-the-counter NSAIDs (like ibuprofen, naproxen) for inflammation. Sometimes short-term stronger medications under supervision. \ue200cite\ue202turn0search12\ue202turn0search3\ue201  \n- **Injections**: For more persistent nerve-root compression, options such as epidural steroid injections or nerve-blocks may help reduce inflammation at the root. \ue200cite\ue202turn0search6\ue202turn0search11\ue201  \n- **Traction / cervical decompression**: Gentle traction to create space between vertebrae may reduce nerve-pressure. \ue200cite\ue202turn0news21\ue201  \n- **Alternative / adjunct therapies**: Some people try acupuncture, manual manipulation (chiropractic or physical-therapy based), TENS (nerve stimulation) or regenerative therapies (e.g., platelet-rich plasma \u2013 PRP) when structural stress is chronic. \ue200cite\ue202turn0search2\ue202turn0search6\ue201  \n\n---\n\n### \u26a0\ufe0f What to watch out for / talk to your doctor about  \nGiven that your symptoms have persisted for nine months, you should check for the following with your provider:  \n- Are you having **progressive weakness**, **loss of reflexes**, or **loss of function** (in your arms/hands)? That could push things toward needing earlier surgical evaluation. \ue200cite\ue202turn0search8\ue201  \n- Has imaging (MRI, CT) been obtained to see exactly what is compressing the C6-7-8 region (herniated disc, bone spur, spinal stenosis, etc.)? Knowing the structural cause can change the strategy.  \n- If there\u2019s nerve root damage for a long period, waiting indefinitely may reduce the chance of full recovery.  \n- Make sure any therapy is supervised and individualized \u2014 \u201cgeneric neck exercises\u201d may help some but might not be sufficient for complex situations.\n\n---\n\n### \ud83d\udd0d Additional options you might ask about  \n- **PRP (Platelet-Rich Plasma) or other regenerative treatments**: Some pain-medicine/spine-care clinics are offering PRP injections around the nerve root / disc for chronic nerve compression. \ue200cite\ue202turn0search6\ue202turn0search5\ue201  \n- **TENS / electrotherapy**: Using a TENS unit to reduce pain signals and help you do physical therapy more comfortably. \ue200cite\ue202turn0search18\ue202turn0search5\ue201  \n- **Home-traction / cervical decompression devices**: If your PT clinic approves, some home-use traction devices (or over-door traction) may help relieve nerve pressure. But use with caution. \ue200cite\ue202turn0news21\ue202turn0news25\ue201  \n- **Lifestyle & nutrition angle**: While structural issues often dominate neck radiculopathy, things like maintaining a healthy weight, reducing systemic inflammation (via diet/anti-inflammatory foods), good sleep, general fitness all support nerve/vertebra health. \ue200cite\ue202turn0search3\ue202turn0search4\ue201  \n\n---\n\n### \ud83d\udcdd My suggestion for your next step  \nSince you\u2019ve already tried many things (you said \u201ctried everything\u201d), I\u2019d suggest:  \n1. Review your imaging and diagnosis with a spine specialist (neurosurgeon/orthopedic or spine-pain specialist) to confirm exactly **what\u2019s** compressing the nerve (which disc, disc herniation vs bone spur vs foraminal narrowing).  \n2. Ask about a **comprehensive conservative plan** with a physical therapist + pain-management specialist that includes:  \n   - Targeted neck/upper-back/shoulder muscle strengthening  \n   - Nerve-glide / nerve-root mobilization specific to C6-C8  \n   - Traction (in-clinic and/or home) if appropriate  \n   - If pain remains significant: injection(s) (epidural, nerve block) to reduce inflammation so you can more effectively participate in PT  \n   - Lifestyle/ergonomic review and adjustment  \n3. Consider asking about the newer options (PRP or other regenerative therapies) if standard conservative care stalls.  \n4. Set a timeline with your specialist for when you\u2019ll revisit **surgery** if conservative care doesn\u2019t show improvement (for instance: \u201cIf at 12 months there\u2019s still significant pain/weakness, we revisit surgical options\u201d).\n\n---\n\nIf you like, I can **look up specific clinics in Nashville (or nearby) that specialise in non-surgical spinal pain and nerve compression**, so you can get second/third opinions locally. Would you like me to find that for you?"
+          ]
+        },
+        "create_time": 1761129868.717585,
+        "id": "e1c12817-8db3-41c7-91fc-b5acb226ac33",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "([Spine-health](https://www.spine-health.com/conditions/neck-pain/cervical-radiculopathy-treatment?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Spine-health",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 11,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 17,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 3,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 12,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Nonsurgical Treatments \u00b7 Rest or activity modification \u00b7 Physical therapy \u00b7 Ice and/or heat therapy \u00b7 Medications \u00b7 Cervical epidural steroid injection \u00b7 Manual ...",
+                  "supporting_websites": [
+                    {
+                      "attribution": "Harvard Health",
+                      "pub_date": null,
+                      "snippet": "Manual therapy: Hands-on treatment including massage can reduce inflammation around the nerve root. Exercises and therapy not only relieve pain ...",
+                      "title": "Got a pinched nerve? Strategies and treatments for pain relief",
+                      "url": "https://www.health.harvard.edu/diseases-and-conditions/got-a-pinched-nerve-strategies-and-treatments-for-pain-relief?utm_source=chatgpt.com"
+                    },
+                    {
+                      "attribution": "NYU Langone Health",
+                      "pub_date": null,
+                      "snippet": "Nonsurgical Treatments for Herniated Disc \u00b7 Medication \u00b7 Weight Loss \u00b7 Physical Therapy \u00b7 Corticosteroid Injections \u00b7 Acupuncture \u00b7 Our Research and Education in ...",
+                      "title": "Nonsurgical Treatments for Herniated Disc | NYU Langone Health",
+                      "url": "https://nyulangone.org/conditions/herniated-disc/treatments/nonsurgical-treatments-for-herniated-disc?utm_source=chatgpt.com"
+                    },
+                    {
+                      "attribution": "Cleveland Clinic",
+                      "pub_date": null,
+                      "snippet": "Oral corticosteroids: A short course of oral (taken by mouth) corticosteroids may help relieve pain by reducing swelling and inflammation around ...",
+                      "title": "Cervical Radiculopathy (Pinched Nerve in Neck) - Cleveland Clinic",
+                      "url": "https://my.clevelandclinic.org/health/diseases/22639-cervical-radiculopathy-pinched-nerve?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Cervical Radiculopathy Treatment - Spine-health",
+                  "url": "https://www.spine-health.com/conditions/neck-pain/cervical-radiculopathy-treatment?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Healthline](https://www.healthline.com/health/pinched-nerve-remedies?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Healthline",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1637280000.0,
+                  "refs": [
+                    {
+                      "ref_index": 4,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 8,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "1. Adjust your posture \u00b7 2. Use a standing desk \u00b7 3. Reposition your keyboard \u00b7 4. Invest in roller balls \u00b7 5. Wear a wrist splint \u00b7 6. Rest \u00b7 7.",
+                  "supporting_websites": [
+                    {
+                      "attribution": "Cleveland Clinic",
+                      "pub_date": null,
+                      "snippet": "You likely won't need surgery for a pinched nerve. ... Surgery is the last resort in treating a pinched nerve when nonsurgical treatment hasn't helped.",
+                      "title": "Pinched Nerve: What It Is, Causes, Symptoms & Treatment",
+                      "url": "https://my.clevelandclinic.org/health/diseases/6481-pinched-nerves?utm_source=chatgpt.com"
+                    },
+                    {
+                      "attribution": "Atlas Neurosurgery and Spine",
+                      "pub_date": null,
+                      "snippet": "1. Rest and sleep \u00b7 2. Anti-inflammatory pain relief \u00b7 3. Gentle activity \u00b7 4. Posture and ergonomics \u00b7 5. Ice and heat \u00b7 6. Weight loss.",
+                      "title": "6 Non-Surgical Treatments for a Pinched Nerve",
+                      "url": "https://www.atlasneurosurgery.com/6-non-surgical-treatments-for-a-pinched-nerve/?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Pinched Nerve Remedies: 11 At-Home Treatments - Healthline",
+                  "url": "https://www.healthline.com/health/pinched-nerve-remedies?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Atlas Neurosurgery and Spine](https://www.atlasneurosurgery.com/6-non-surgical-treatments-for-a-pinched-nerve/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Atlas Neurosurgery and Spine",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1680307200.0,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 11,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "1. Rest and sleep \u00b7 2. Anti-inflammatory pain relief \u00b7 3. Gentle activity \u00b7 4. Posture and ergonomics \u00b7 5. Ice and heat \u00b7 6. Weight loss.",
+                  "supporting_websites": [
+                    {
+                      "attribution": "Spine-health",
+                      "pub_date": null,
+                      "snippet": "Nonsurgical Treatments \u00b7 Rest or activity modification \u00b7 Physical therapy \u00b7 Ice and/or heat therapy \u00b7 Medications \u00b7 Cervical epidural steroid injection \u00b7 Manual ...",
+                      "title": "Cervical Radiculopathy Treatment - Spine-health",
+                      "url": "https://www.spine-health.com/conditions/neck-pain/cervical-radiculopathy-treatment?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "6 Non-Surgical Treatments for a Pinched Nerve",
+                  "url": "https://www.atlasneurosurgery.com/6-non-surgical-treatments-for-a-pinched-nerve/?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/22639-cervical-radiculopathy-pinched-nerve?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Cleveland Clinic",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1648512000.0,
+                  "refs": [
+                    {
+                      "ref_index": 12,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 3,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Oral corticosteroids: A short course of oral (taken by mouth) corticosteroids may help relieve pain by reducing swelling and inflammation around ...",
+                  "supporting_websites": [
+                    {
+                      "attribution": "NYU Langone Health",
+                      "pub_date": null,
+                      "snippet": "Nonsurgical Treatments for Herniated Disc \u00b7 Medication \u00b7 Weight Loss \u00b7 Physical Therapy \u00b7 Corticosteroid Injections \u00b7 Acupuncture \u00b7 Our Research and Education in ...",
+                      "title": "Nonsurgical Treatments for Herniated Disc | NYU Langone Health",
+                      "url": "https://nyulangone.org/conditions/herniated-disc/treatments/nonsurgical-treatments-for-herniated-disc?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Cervical Radiculopathy (Pinched Nerve in Neck) - Cleveland Clinic",
+                  "url": "https://my.clevelandclinic.org/health/diseases/22639-cervical-radiculopathy-pinched-nerve?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Vertex Pain Physicians](https://www.stephaniejonesmd.com/post/pinched-nerve-pain-5-nonsurgical-treatment-options-for-cervical-radiculopathy?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Vertex Pain Physicians",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1729209600.0,
+                  "refs": [
+                    {
+                      "ref_index": 6,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 11,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Five nonsurgical treatment options \u00b7 1. Platelet-rich plasma (PRP) \u00b7 2. Physical therapy \u00b7 3. Epidural steroid injections \u00b7 4. Nerve blocks \u00b7 5.",
+                  "supporting_websites": [
+                    {
+                      "attribution": "Spine-health",
+                      "pub_date": null,
+                      "snippet": "Nonsurgical Treatments \u00b7 Rest or activity modification \u00b7 Physical therapy \u00b7 Ice and/or heat therapy \u00b7 Medications \u00b7 Cervical epidural steroid injection \u00b7 Manual ...",
+                      "title": "Cervical Radiculopathy Treatment - Spine-health",
+                      "url": "https://www.spine-health.com/conditions/neck-pain/cervical-radiculopathy-treatment?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Pinched Nerve Pain: 5 Nonsurgical Treatment Options for Cervical ...",
+                  "url": "https://www.stephaniejonesmd.com/post/pinched-nerve-pain-5-nonsurgical-treatment-options-for-cervical-radiculopathy?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Verywell Health](https://www.verywellhealth.com/cervical-traction-for-neck-pain-2696178?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Verywell Health",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1361982537.0,
+                  "refs": [
+                    {
+                      "ref_index": 21,
+                      "ref_type": "news",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Cervical traction is a physical therapy treatment used to alleviate neck pain and cervical radiculopathy by gently stretching the neck to separate the disc and joint surfaces in the cervical spine. This treatment helps manage conditions like degenerative disc disease, herniated or bulging discs, arthritis, radiculopathy, and muscle spasms by reducing pressure on pinched or compressed nerves. Different devices and methods can be used to apply cervical traction, adjustable based on patient needs.\n\nWhile research provides some evidence of short-term pain relief, the long-term efficacy of cervical traction remains inconclusive. It is crucial for patients to consult a healthcare provider to evaluate their condition and receive guidance on proper traction use, ensuring safety and avoiding potential complications. Home application of cervical traction is possible but should only be done with proper training and advice from a physical therapist.\n\nComplementing cervical traction with neck exercises and postural correction can enhance treatment outcomes, supporting overall neck and spinal health. Proper consultation and tailored physical therapy are essential for effectively managing neck pain.",
+                  "supporting_websites": [],
+                  "title": "Cervical Traction: Exercises and Benefits for Neck Pain",
+                  "url": "https://www.verywellhealth.com/cervical-traction-for-neck-pain-2696178?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Spine-health](https://www.spine-health.com/treatment/back-surgery/treatments-try-cervical-spine-surgery?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Spine-health",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 2,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 6,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Alternative therapies, such as manual manipulation, acupuncture, or massage, may provide relief for some people. Epidural steroid injections in the neck may ...",
+                  "supporting_websites": [
+                    {
+                      "attribution": "Vertex Pain Physicians",
+                      "pub_date": null,
+                      "snippet": "Five nonsurgical treatment options \u00b7 1. Platelet-rich plasma (PRP) \u00b7 2. Physical therapy \u00b7 3. Epidural steroid injections \u00b7 4. Nerve blocks \u00b7 5.",
+                      "title": "Pinched Nerve Pain: 5 Nonsurgical Treatment Options for Cervical ...",
+                      "url": "https://www.stephaniejonesmd.com/post/pinched-nerve-pain-5-nonsurgical-treatment-options-for-cervical-radiculopathy?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Treatments to Try Before Cervical Spine Surgery",
+                  "url": "https://www.spine-health.com/treatment/back-surgery/treatments-try-cervical-spine-surgery?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/6481-pinched-nerves?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Cleveland Clinic",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 8,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "You likely won't need surgery for a pinched nerve. ... Surgery is the last resort in treating a pinched nerve when nonsurgical treatment hasn't helped.",
+                  "supporting_websites": [],
+                  "title": "Pinched Nerve: What It Is, Causes, Symptoms & Treatment",
+                  "url": "https://my.clevelandclinic.org/health/diseases/6481-pinched-nerves?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Vertex Pain Physicians](https://www.stephaniejonesmd.com/post/pinched-nerve-pain-5-nonsurgical-treatment-options-for-cervical-radiculopathy?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Vertex Pain Physicians",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1729209600.0,
+                  "refs": [
+                    {
+                      "ref_index": 6,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 5,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Five nonsurgical treatment options \u00b7 1. Platelet-rich plasma (PRP) \u00b7 2. Physical therapy \u00b7 3. Epidural steroid injections \u00b7 4. Nerve blocks \u00b7 5.",
+                  "supporting_websites": [
+                    {
+                      "attribution": "drfanaee.com",
+                      "pub_date": null,
+                      "snippet": "4 Nonsurgical Treatments for Chronic Neck Pain \u00b7 1. Physical therapy \u00b7 2. Transcutaneous electrical nerve stimulation (TENS) \u00b7 3. Steroid injections \u00b7 4.",
+                      "title": "4 Nonsurgical Treatments for Chronic Neck Pain - Dr. Fanaee",
+                      "url": "https://www.drfanaee.com/blog/4-nonsurgical-treatments-for-chronic-neck-pain?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Pinched Nerve Pain: 5 Nonsurgical Treatment Options for Cervical ...",
+                  "url": "https://www.stephaniejonesmd.com/post/pinched-nerve-pain-5-nonsurgical-treatment-options-for-cervical-radiculopathy?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([contracostadisccenters.com](https://contracostadisccenters.com/non-surgical-solutions-for-pinched-nerves-and-spine-pain/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "contracostadisccenters.com",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1751328000.0,
+                  "refs": [
+                    {
+                      "ref_index": 18,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 5,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Heat promotes blood flow to the affected area, while cold therapy numbs the pain and reduces swelling. Electrotherapy: Techniques such as TENS ( ...",
+                  "supporting_websites": [
+                    {
+                      "attribution": "drfanaee.com",
+                      "pub_date": null,
+                      "snippet": "4 Nonsurgical Treatments for Chronic Neck Pain \u00b7 1. Physical therapy \u00b7 2. Transcutaneous electrical nerve stimulation (TENS) \u00b7 3. Steroid injections \u00b7 4.",
+                      "title": "4 Nonsurgical Treatments for Chronic Neck Pain - Dr. Fanaee",
+                      "url": "https://www.drfanaee.com/blog/4-nonsurgical-treatments-for-chronic-neck-pain?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Non-Surgical Solutions for Pinched Nerves and Spine Pain",
+                  "url": "https://contracostadisccenters.com/non-surgical-solutions-for-pinched-nerves-and-spine-pain/?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Verywell Health](https://www.verywellhealth.com/cervical-traction-for-neck-pain-2696178?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Verywell Health",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1361982537.0,
+                  "refs": [
+                    {
+                      "ref_index": 21,
+                      "ref_type": "news",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 25,
+                      "ref_type": "news",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Cervical traction is a physical therapy treatment used to alleviate neck pain and cervical radiculopathy by gently stretching the neck to separate the disc and joint surfaces in the cervical spine. This treatment helps manage conditions like degenerative disc disease, herniated or bulging discs, arthritis, radiculopathy, and muscle spasms by reducing pressure on pinched or compressed nerves. Different devices and methods can be used to apply cervical traction, adjustable based on patient needs.\n\nWhile research provides some evidence of short-term pain relief, the long-term efficacy of cervical traction remains inconclusive. It is crucial for patients to consult a healthcare provider to evaluate their condition and receive guidance on proper traction use, ensuring safety and avoiding potential complications. Home application of cervical traction is possible but should only be done with proper training and advice from a physical therapist.\n\nComplementing cervical traction with neck exercises and postural correction can enhance treatment outcomes, supporting overall neck and spinal health. Proper consultation and tailored physical therapy are essential for effectively managing neck pain.",
+                  "supporting_websites": [
+                    {
+                      "attribution": "Verywell Health",
+                      "pub_date": null,
+                      "snippet": "Cervical and neck traction is a therapeutic procedure used to relieve pain and pressure in the cervical spine by stretching the neck and creating space between vertebrae. It can be used to treat acute injuries and chronic conditions such as degenerative disc disease, neck fractures, and cervical radiculopathy. Traction can be performed manually by healthcare providers or with mechanical devices, including halo traction and over-the-door systems. Manual traction involves hands-on stretching during therapy, while mechanical tools apply constant pressure over time.\n\nTraction can help diagnose and manage neck pain, improve mobility, and reduce the need for medication. A 2021 study showed that intensive cervical traction significantly alleviated pain and stiffness in nearly half of the participants. However, it carries risks if done improperly, including muscle strain or disc herniation, and some individuals with specific health conditions should avoid it.\n\nAt-home traction is available, but it's crucial to monitor for adverse effects. Medical attention should be sought if symptoms worsen or include serious issues like vision changes or seizures. Cervical traction is often used in combination with other treatments such as physical therapy and exercises for comprehensive neck pain management.",
+                      "title": "Cervical and Neck Traction to Reduce Pain",
+                      "url": "https://www.verywellhealth.com/over-the-door-cervical-traction-for-neck-pain-4111054?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Cervical Traction: Exercises and Benefits for Neck Pain",
+                  "url": "https://www.verywellhealth.com/cervical-traction-for-neck-pain-2696178?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([NYU Langone Health](https://nyulangone.org/conditions/herniated-disc/treatments/nonsurgical-treatments-for-herniated-disc?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "NYU Langone Health",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 3,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 4,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Nonsurgical Treatments for Herniated Disc \u00b7 Medication \u00b7 Weight Loss \u00b7 Physical Therapy \u00b7 Corticosteroid Injections \u00b7 Acupuncture \u00b7 Our Research and Education in ...",
+                  "supporting_websites": [
+                    {
+                      "attribution": "Healthline",
+                      "pub_date": null,
+                      "snippet": "1. Adjust your posture \u00b7 2. Use a standing desk \u00b7 3. Reposition your keyboard \u00b7 4. Invest in roller balls \u00b7 5. Wear a wrist splint \u00b7 6. Rest \u00b7 7.",
+                      "title": "Pinched Nerve Remedies: 11 At-Home Treatments - Healthline",
+                      "url": "https://www.healthline.com/health/pinched-nerve-remedies?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Nonsurgical Treatments for Herniated Disc | NYU Langone Health",
+                  "url": "https://nyulangone.org/conditions/herniated-disc/treatments/nonsurgical-treatments-for-herniated-disc?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "Spine-health",
+                  "title": "Cervical Radiculopathy Treatment - Spine-health",
+                  "url": "https://www.spine-health.com/conditions/neck-pain/cervical-radiculopathy-treatment?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Healthline",
+                  "title": "Pinched Nerve Remedies: 11 At-Home Treatments - Healthline",
+                  "url": "https://www.healthline.com/health/pinched-nerve-remedies?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Atlas Neurosurgery and Spine",
+                  "title": "6 Non-Surgical Treatments for a Pinched Nerve",
+                  "url": "https://www.atlasneurosurgery.com/6-non-surgical-treatments-for-a-pinched-nerve/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Cleveland Clinic",
+                  "title": "Cervical Radiculopathy (Pinched Nerve in Neck) - Cleveland Clinic",
+                  "url": "https://my.clevelandclinic.org/health/diseases/22639-cervical-radiculopathy-pinched-nerve?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Vertex Pain Physicians",
+                  "title": "Pinched Nerve Pain: 5 Nonsurgical Treatment Options for Cervical ...",
+                  "url": "https://www.stephaniejonesmd.com/post/pinched-nerve-pain-5-nonsurgical-treatment-options-for-cervical-radiculopathy?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Verywell Health",
+                  "title": "Cervical Traction: Exercises and Benefits for Neck Pain",
+                  "url": "https://www.verywellhealth.com/cervical-traction-for-neck-pain-2696178?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "contracostadisccenters.com",
+                  "title": "Non-Surgical Solutions for Pinched Nerves and Spine Pain",
+                  "url": "https://contracostadisccenters.com/non-surgical-solutions-for-pinched-nerves-and-spine-pain/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "NYU Langone Health",
+                  "title": "Nonsurgical Treatments for Herniated Disc | NYU Langone Health",
+                  "url": "https://nyulangone.org/conditions/herniated-disc/treatments/nonsurgical-treatments-for-herniated-disc?utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "model_slug": "gpt-5",
+          "parent_id": "67d7dc2c-57b6-4bc5-9492-ea553b34994a",
+          "search_result_groups": [
+            {
+              "domain": "mayoclinic.org",
+              "entries": [
+                {
+                  "attribution": "mayoclinic.org",
+                  "snippet": "The most frequently recommended treatment for a pinched nerve is rest for the affected area. Stop any activities that cause the compression or make symptoms ...",
+                  "title": "Pinched nerve - Diagnosis and treatment - Mayo Clinic",
+                  "url": "https://www.mayoclinic.org/diseases-conditions/pinched-nerve/diagnosis-treatment/drc-20354751?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "drfanaee.com",
+              "entries": [
+                {
+                  "attribution": "drfanaee.com",
+                  "snippet": "4 Nonsurgical Treatments for Chronic Neck Pain \u00b7 1. Physical therapy \u00b7 2. Transcutaneous electrical nerve stimulation (TENS) \u00b7 3. Steroid injections \u00b7 4.",
+                  "title": "4 Nonsurgical Treatments for Chronic Neck Pain - Dr. Fanaee",
+                  "url": "https://www.drfanaee.com/blog/4-nonsurgical-treatments-for-chronic-neck-pain?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "medicalnewstoday.com",
+              "entries": [
+                {
+                  "attribution": "medicalnewstoday.com",
+                  "snippet": "Often, people can treat a pinched nerve in the spine at home by taking pain medications and doing gentle stretches. Learn more.",
+                  "title": "Pinched nerve remedies: 10 ways to get relief - Medical News Today",
+                  "url": "https://www.medicalnewstoday.com/articles/320045?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "handandwristinstitute.com",
+              "entries": [
+                {
+                  "attribution": "handandwristinstitute.com",
+                  "snippet": "Drinking ginger tea or incorporating ginger or turmeric into your meals may provide relief. Magnesium supplements or foods rich in magnesium can help relax ...",
+                  "title": "Pinched Nerve? Here's 7 Home Remedies to Help Reduce Some Pain",
+                  "url": "https://handandwristinstitute.com/pinched-nerve-heres-7-home-remedies-to-help-reduce-some-pain/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "spinecorrectioncenter.com",
+              "entries": [
+                {
+                  "attribution": "spinecorrectioncenter.com",
+                  "snippet": "Trigger point injections performed under ultrasound guidance are a safe and effective way to promote healing in a dysfunctional muscle or joint ...",
+                  "title": "6 Non-Invasive Treatment Options for Pinched Nerves",
+                  "url": "https://www.spinecorrectioncenter.com/6-non-invasive-treatment-options-for-pinched-nerves/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "sciatica.com",
+              "entries": [
+                {
+                  "attribution": "sciatica.com",
+                  "snippet": "6 Non-Surgical Treatments for Pinched Nerve Relief \u00b7 1. Adjust Your Posture \u00b7 2. Oral Medication \u00b7 3. Heat and Cold Therapy \u00b7 4. Back or Neck Braces.",
+                  "title": "9 Treatment Options for Pinched Nerves in the Back and Neck",
+                  "url": "https://www.sciatica.com/blog/9-treatment-options-for-pinched-nerves-in-the-back-and-neck/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "caringmedical.com",
+              "entries": [
+                {
+                  "attribution": "caringmedical.com",
+                  "snippet": "When symptoms can be relieved by a position or motion, such as laying down or neck flexion or reducing ligament strain by wearing a cervical collar, it is a ...",
+                  "title": "Cervical radiculopathy treatments: The evidence for non-surgical ...",
+                  "url": "https://caringmedical.com/prolotherapy-news/problem-cervical-radiculopathy-pinched-nerves/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "nyboneandjoint.com",
+              "entries": [
+                {
+                  "attribution": "nyboneandjoint.com",
+                  "snippet": "PINCHED NERVE TREATMENT OPTIONS \u00b7 1. Physical therapy \u00b7 2. Steroid injections \u00b7 3. Ice and/or heat therapy \u00b7 4. Surgery.",
+                  "title": "4 Remedies for a Pinched Nerve in the Neck - New York Bone ...",
+                  "url": "https://nyboneandjoint.com/4-remedies-for-a-pinched-nerve-in-the-neck/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "uchealth.org",
+              "entries": [
+                {
+                  "attribution": "uchealth.org",
+                  "snippet": "Non-surgical approaches \u00b7 Steroid injections. Corticosteroids are strong anti-inflammatory drugs that are injected around your spinal nerves. \u00b7 Physical therapy.",
+                  "title": "Pinched Nerve: Symptoms, Diagnosis, and Treatment | UCHealth",
+                  "url": "https://www.uchealth.org/diseases-conditions/pinched-nerve/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "harvard.edu",
+              "entries": [
+                {
+                  "attribution": "harvard.edu",
+                  "snippet": "Manual therapy: Hands-on treatment including massage can reduce inflammation around the nerve root. Exercises and therapy not only relieve pain ...",
+                  "title": "Got a pinched nerve? Strategies and treatments for pain relief",
+                  "url": "https://www.health.harvard.edu/diseases-and-conditions/got-a-pinched-nerve-strategies-and-treatments-for-pain-relief?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "bbb214bf-f68f-46b0-a358-3e8495e39442"
+    },
+    "e6a9dc16-d83e-4ca0-84b7-a6325f01be6c": {
+      "id": "e6a9dc16-d83e-4ca0-84b7-a6325f01be6c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Got it \u2014 when you say \u201cNhm,\u201d did you mean **\u201cno\u201d** (you don\u2019t want me to list international drugs), or were you referring to **something specific** like *neuro-hormonal modulators (NHM)* or *natural holistic medicine*?  \n\nIf you\u2019re leaning toward **natural or holistic** alternatives (herbal, nutraceutical, or regenerative options that aren\u2019t standard pharmaceuticals), I can give you a rundown of what people with C6-C8 nerve compression sometimes use **instead of or alongside** medical treatments \u2014 things like **alpha-lipoic acid, curcumin, PEA, magnesium glycinate, and B-vitamins** that can actually help nerve recovery and reduce inflammation.  \n\nCan you clarify \u2014  \n\ud83d\udc49 do you want **natural / holistic** options,  \n\ud83d\udc49 or information on **international or experimental drugs** for nerve regeneration?"
+          ]
+        },
+        "create_time": 1761130206.816438,
+        "id": "e6a9dc16-d83e-4ca0-84b7-a6325f01be6c",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "bbb21037-3f85-4bfe-be31-e250e0c45d01"
+        }
+      },
+      "parent": "bbb21037-3f85-4bfe-be31-e250e0c45d01"
+    },
+    "f43fc34c-526f-43a1-bd16-d578f902ff33": {
+      "id": "f43fc34c-526f-43a1-bd16-d578f902ff33",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "I\u2019m sorry, but I can\u2019t advise on taking prescription or unapproved drugs that aren\u2019t regulated in your country, or outside of what\u2019s approved by the \ue200entity\ue202[\"organization\", \"Food & Drug Administration\", 0]\ue201 (FDA) for your condition.\n\nWhat I *can* do is share some of the medications that **are** used (either off-label or approved) for nerve-root/neck-compression pain (such as \ue200entity\ue202[\"disease\", \"Cervical Radiculopathy\", 0]\ue201) so you can discuss with your doctor whether one might be suitable for you\u2014along with their pros, cons and limitations.  \n\n---\n\n### \u2705 Medications commonly used for neck/nerve-root pain  \nHere are classes of meds often discussed by spine specialists:  \n- **NSAIDs (non-steroidal anti-inflammatory drugs)**: e.g., ibuprofen, naproxen, used to reduce inflammation around the nerve root. \ue200cite\ue202turn0search1\ue202turn0search7\ue202turn0search0\ue201  \n- **Short-term oral corticosteroids**: Used for inflammation, though evidence is limited for long-term results in cervical radiculopathy. \ue200cite\ue202turn0search2\ue202turn0search0\ue201  \n- **Neuropathic pain medications**: e.g., \ue200entity\ue202[\"medication\", \"Gabapentin\", 0]\ue201, \ue200entity\ue202[\"medication\", \"Pregabalin\", 0]\ue201, tricyclic antidepressants (like amitriptyline) \u2014 used when the nerve irritation is causing \u201cnerve-type\u201d pain (burning, tingling) rather than just mechanical pain. \ue200cite\ue202turn0search0\ue202turn0search4\ue202turn0search5\ue201  \n- **Muscle relaxants/antispasmodics**: To ease muscle spasm around the cervical spine which can worsen nerve-irritation. (Though this is more adjunctive than primary therapy.) \ue200cite\ue202turn0search3\ue202turn0search8\ue201  \n\n---\n\n### \u26a0\ufe0f Important limitations & things to know  \n- Just because a medication *can* be used **off-label** (i.e., not approved specifically for your exact condition) doesn\u2019t mean it\u2019s guaranteed to work for you, especially in cases of structural compression (e.g., disc herniation, bone spur) such as you\u2019ve described.  \n- If your nerve root is being physically compressed **and** causing weakness or progressive symptoms, medications alone may not resolve the root cause. Structural issues often require different interventions.  \n- Each medication carries side-effects and risk-contraindications (kidney/liver issues for NSAIDs, effects on mood/sleep for neuropathic meds, etc). You\u2019ll need a doctor\u2019s oversight.  \n- Because you\u2019ve had the problem for 9 months, and tried \u201ceverything\u201d (as you said), it\u2019s possible that simpler medications may have already been tried; so the next step may involve more advanced/interventional treatments rather than just changing meds.  \n- If you\u2019re looking for something \u201coutside FDA-approved uses\u201d or \u201coutside USA\u201d, you must be especially cautious about regulatory status, safety data, costs, legal/insurance implications, and the fact that such medications or uses may not be well studied for your specific condition.\n\n---\n\n### \ud83d\udd0d A specific example you might ask your doctor about  \nOne example of a drug used in some countries (not necessarily FDA-approved for your exact indication) is \ue200entity\ue202[\"medication\", \"Eperisone\", 0]\ue201:  \n- It is described as a skeletal muscle-relaxant/antispasmodic used in many countries for conditions like cervical spondylosis (stiff neck/spine) and other spinal muscular issues. \ue200cite\ue202turn0search9\ue201  \n- It works by relaxing muscle tone, improving circulation in muscle, reducing reflex muscle tightness \u2014 which could *indirectly* help relieve nerve root irritation when muscle spasm is contributing.  \n- But: it is **not** a well-studied treatment for nerve compression (radiculopathy) in large trials (especially in the US). And relaxing muscles alone won\u2019t relieve a bony disc-or-foraminal narrowing compressing the nerve.  \n- If you considered it: you\u2019d need to discuss with a physician experienced in international drug use/regenerative/spine therapy, verify legality/availability, check for drug interactions, and monitor closely.\n\n---\n\n### \ud83c\udfaf My suggestion for *your* next step  \nSince you\u2019ve had this for 9 months and are clearly motivated to avoid surgery:  \n- Bring a **medication review** with your spine specialist or pain medicine doctor: which meds have you tried (NSAIDs, neuropathic meds, muscle relaxants), what the outcomes were, and whether any have not yet been tried.  \n- Specifically ask: \u201cIs there a muscle-spasm/nerve-irritation component that we haven\u2019t targeted yet?\u201d \u2014 If so, \u201cWould a drug like eperisone (or similar) be appropriate in my case, given my structural findings and the fact that I already tried X or Y?\u201d  \n- At the same time, ensure that the **mechanical compression** component (from disc herniation, foraminal narrowing, bone spur) is being addressed via non-surgical avenues (PT, traction, injections) and monitored so you\u2019re not delaying necessary intervention.  \n- If your physician approves an \u201coutside US\u201d drug or off-label use, make sure you get full information: expected benefit, side-effects, cost, monitoring plan, and how you\u2019ll judge if it\u2019s working (e.g., pain reduction, nerve function improvement) and when to stop/transition.\n\n---\n\nIf you like, I can **look up a list of medications used internationally** (outside the US) for cervical nerve-root compression / radiculopathy \u2014 with their safety profiles and status \u2014 **not** for you to self-medicate, but to discuss with your doctor. Would you like that?"
+          ]
+        },
+        "create_time": 1761130169.127487,
+        "id": "f43fc34c-526f-43a1-bd16-d578f902ff33",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "Food & Drug Administration",
+              "prompt_text": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "Cervical Radiculopathy",
+              "prompt_text": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "([NCBI](https://www.ncbi.nlm.nih.gov/books/NBK441828/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "NCBI",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 1,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 7,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Aug 6, 2025 \u2014 Tricyclic antidepressants and drugs, eg, gabapentin, are useful adjuncts in the treatment of chronic cervical radiculopathy.",
+                  "supporting_websites": [
+                    {
+                      "attribution": "Medscape",
+                      "pub_date": null,
+                      "snippet": "Dec 19, 2023 \u2014 NSAIDs are first-line pharmacologic intervention for most cervical conditions. NSAIDs reduce pain at low doses and decrease inflammation at high doses.",
+                      "title": "Cervical Disc Disease Medication",
+                      "url": "https://emedicine.medscape.com/article/305720-medication?utm_source=chatgpt.com"
+                    },
+                    {
+                      "attribution": "Medscape",
+                      "pub_date": null,
+                      "snippet": "Jan 18, 2024 \u2014 Tricyclic antidepressants, gabapentin, and pregabalin can be useful adjuncts in controlling radicular pain. Opioid medications are generally not ...",
+                      "title": "Cervical Radiculopathy Medication",
+                      "url": "https://emedicine.medscape.com/article/94118-medication?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Cervical Radiculopathy - StatPearls",
+                  "url": "https://www.ncbi.nlm.nih.gov/books/NBK441828/?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Medmastery](https://www.medmastery.com/guides/neurology-diseases-clinical-guide/treating-cervical-radiculopathy?srsltid=AfmBOooNMzNK_BP-fQR0PjF1DFQD_Q6F_vwkjUh6GdolLRFu79dSIlgg&utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Medmastery",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 2,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Jan 6, 2021 \u2014 For patients with severe pain, try a 5\u20137 day course of oral corticosteroids, such as a methylprednisolone dose pack. The corticosteroids should ...",
+                  "supporting_websites": [
+                    {
+                      "attribution": "Medscape",
+                      "pub_date": null,
+                      "snippet": "Jan 18, 2024 \u2014 Tricyclic antidepressants, gabapentin, and pregabalin can be useful adjuncts in controlling radicular pain. Opioid medications are generally not ...",
+                      "title": "Cervical Radiculopathy Medication",
+                      "url": "https://emedicine.medscape.com/article/94118-medication?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Treating cervical radiculopathy",
+                  "url": "https://www.medmastery.com/guides/neurology-diseases-clinical-guide/treating-cervical-radiculopathy?srsltid=AfmBOooNMzNK_BP-fQR0PjF1DFQD_Q6F_vwkjUh6GdolLRFu79dSIlgg&utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "Gabapentin",
+              "prompt_text": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "Pregabalin",
+              "prompt_text": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "([Medscape](https://emedicine.medscape.com/article/94118-medication?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Medscape",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1705585980.0,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 4,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 5,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Jan 18, 2024 \u2014 Tricyclic antidepressants, gabapentin, and pregabalin can be useful adjuncts in controlling radicular pain. Opioid medications are generally not ...",
+                  "supporting_websites": [
+                    {
+                      "attribution": "PMC",
+                      "pub_date": null,
+                      "snippet": "by T Taguchi \u00b7 2019 \u00b7 Cited by 10 \u2014 The \u03b12\u03b4 ligand, pregabalin, has been approved in Japan for the treatment of NeP and pain associated with fibromyalgia. Moreover, pregabalin is ...",
+                      "title": "Effectiveness of pregabalin for treatment of chronic cervical ...",
+                      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6506009/?utm_source=chatgpt.com"
+                    },
+                    {
+                      "attribution": "Hospital for Special Surgery",
+                      "pub_date": null,
+                      "snippet": "by AC Simotas \u2014 Medications that include gabapentin and pregabalin are frequently used to relieve radiculopathy related pain symptoms. These medications work ...",
+                      "title": "Cervical Radiculopathy: Pinched Nerve in the Neck",
+                      "url": "https://www.hss.edu/health-library/conditions-and-treatments/cervical-radiculopathy?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Cervical Radiculopathy Medication",
+                  "url": "https://emedicine.medscape.com/article/94118-medication?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/cervical-spondylosis/diagnosis-treatment/drc-20370792?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Mayo Clinic",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1758279600.0,
+                  "refs": [
+                    {
+                      "ref_index": 3,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 8,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Nonsteroidal anti-inflammatory drugs. NSAIDs, such as ibuprofen (Advil, Motrin IB, others) and naproxen sodium (Aleve), are commonly available without a ...",
+                  "supporting_websites": [
+                    {
+                      "attribution": "PM&R KnowledgeNow",
+                      "pub_date": null,
+                      "snippet": "by A Meron \u2014 First-line treatment includes activity modification and avoidance of provocative activities. Usage of analgesic agents such as acetaminophen and ...",
+                      "title": "Cervical Radiculopathy | PM&R KnowledgeNow",
+                      "url": "https://now.aapmr.org/cervical-radiculopathy/?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Cervical spondylosis - Diagnosis & treatment",
+                  "url": "https://www.mayoclinic.org/diseases-conditions/cervical-spondylosis/diagnosis-treatment/drc-20370792?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "Eperisone",
+              "prompt_text": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "([Wikipedia](https://en.wikipedia.org/wiki/Eperisone?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Wikipedia",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1748275252.0,
+                  "refs": [
+                    {
+                      "ref_index": 9,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [],
+                  "title": "Eperisone",
+                  "url": "https://en.wikipedia.org/wiki/Eperisone?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "NCBI",
+                  "title": "Cervical Radiculopathy - StatPearls",
+                  "url": "https://www.ncbi.nlm.nih.gov/books/NBK441828/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Medmastery",
+                  "title": "Treating cervical radiculopathy",
+                  "url": "https://www.medmastery.com/guides/neurology-diseases-clinical-guide/treating-cervical-radiculopathy?srsltid=AfmBOooNMzNK_BP-fQR0PjF1DFQD_Q6F_vwkjUh6GdolLRFu79dSIlgg&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Medscape",
+                  "title": "Cervical Radiculopathy Medication",
+                  "url": "https://emedicine.medscape.com/article/94118-medication?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Mayo Clinic",
+                  "title": "Cervical spondylosis - Diagnosis & treatment",
+                  "url": "https://www.mayoclinic.org/diseases-conditions/cervical-spondylosis/diagnosis-treatment/drc-20370792?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Wikipedia",
+                  "title": "Eperisone",
+                  "url": "https://en.wikipedia.org/wiki/Eperisone?utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "model_slug": "gpt-5",
+          "parent_id": "5176ad00-00cb-40b6-aa8e-989265f5566e",
+          "search_result_groups": [
+            {
+              "domain": "nih.gov",
+              "entries": [
+                {
+                  "attribution": "nih.gov",
+                  "snippet": "by T Taguchi \u00b7 2019 \u00b7 Cited by 10 \u2014 The \u03b12\u03b4 ligand, pregabalin, has been approved in Japan for the treatment of NeP and pain associated with fibromyalgia. Moreover, pregabalin is ...",
+                  "title": "Effectiveness of pregabalin for treatment of chronic cervical ...",
+                  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6506009/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "hss.edu",
+              "entries": [
+                {
+                  "attribution": "hss.edu",
+                  "snippet": "by AC Simotas \u2014 Medications that include gabapentin and pregabalin are frequently used to relieve radiculopathy related pain symptoms. These medications work ...",
+                  "title": "Cervical Radiculopathy: Pinched Nerve in the Neck",
+                  "url": "https://www.hss.edu/health-library/conditions-and-treatments/cervical-radiculopathy?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "drugs.com",
+              "entries": [
+                {
+                  "attribution": "drugs.com",
+                  "snippet": "Drugs used to treat Radiculopathy ; Generic name: naproxen systemic; Drug class: Nonsteroidal anti-inflammatory drugs; For consumers: dosage, interactions, side ...",
+                  "title": "List of Radiculopathy Medications",
+                  "url": "https://www.drugs.com/condition/radiculopathy.html?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "medscape.com",
+              "entries": [
+                {
+                  "attribution": "medscape.com",
+                  "snippet": "Dec 19, 2023 \u2014 NSAIDs are first-line pharmacologic intervention for most cervical conditions. NSAIDs reduce pain at low doses and decrease inflammation at high doses.",
+                  "title": "Cervical Disc Disease Medication",
+                  "url": "https://emedicine.medscape.com/article/305720-medication?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "aapmr.org",
+              "entries": [
+                {
+                  "attribution": "aapmr.org",
+                  "snippet": "by A Meron \u2014 First-line treatment includes activity modification and avoidance of provocative activities. Usage of analgesic agents such as acetaminophen and ...",
+                  "title": "Cervical Radiculopathy | PM&R KnowledgeNow",
+                  "url": "https://now.aapmr.org/cervical-radiculopathy/?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "bbb215f9-df68-48cb-bdb1-8b2682947229"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Non-surgical neck treatments",
+  "update_time": 1761130533.197075,
+  "voice": null
+}

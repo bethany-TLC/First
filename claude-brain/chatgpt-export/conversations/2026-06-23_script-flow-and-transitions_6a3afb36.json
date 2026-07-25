@@ -1,0 +1,304 @@
+{
+  "conversation_id": "6a3afb36-12e0-83e8-8192-a87dec4fed4f",
+  "conversation_template_id": "g-692f3f2cb8948191b13c1447460d8749",
+  "create_time": 1782250299.749878,
+  "current_node": "7998264f-e692-4692-ae87-cc3d0e46a8d2",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a3afb36-12e0-83e8-8192-a87dec4fed4f",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "1f01d13b-f168-43f4-a8e4-88c775afd0d3": {
+      "id": "1f01d13b-f168-43f4-a8e4-88c775afd0d3",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content": "Thought for a couple of seconds",
+          "content_type": "reasoning_recap"
+        },
+        "create_time": 1782250302.061107,
+        "id": "1f01d13b-f168-43f4-a8e4-88c775afd0d3",
+        "metadata": {
+          "model_slug": "gpt-5-5",
+          "parent_id": "2f8ffb9f-79cd-4271-9075-20049b747a2f"
+        }
+      },
+      "parent": "2f8ffb9f-79cd-4271-9075-20049b747a2f"
+    },
+    "21010fa2-9ed0-44d2-93af-0e354053adc4": {
+      "id": "21010fa2-9ed0-44d2-93af-0e354053adc4",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Yes \u2014 overall the **transitions and flow make sense**. It moves cleanly from RAPPORT \u2192 FRAME \u2192 PAIN \u2192 DISCOVERY \u2192 PITCH, which matches the required structure. \ue200filecite\ue202turn0file0\ue201\n\nThe main issue: your Discovery is missing a few required \u201cdoors\u201d for a one-call close. The framework requires covering **Timing, Finances, Partner, Current Situation, Goals, Past, Doubt, Comparison, Support, and Trust** before pitch. \ue200filecite\ue202turn0file7\ue201\n\nWhat\u2019s strong:\n- Rapport is short and clean.\n- Frame establishes leadership.\n- Pain section is strong and emotionally relevant.\n- Your transitions feel natural, especially into revenue, goals, acquisition, retention, and pitch.\n- The pitch bridge is good because it connects their pain to your strategy.\n\nWhat needs tightening:\n- Add **Timing**: \u201cIf this was something you wanted to fix, when would you want to start making changes?\u201d\n- Add **Finances / investment readiness**: \u201cHow much are you currently investing monthly into growth, marketing, or support?\u201d\n- Add **Doubt**: \u201cWhy do you think this hasn\u2019t been solved internally already?\u201d\n- Add **Comparison**: \u201cAre you looking at any other options right now?\u201d\n- Add **Support**: \u201cIn an ideal world, what kind of support would actually help you execute this?\u201d\n- Move **Trust** before the pitch, but keep it last in Discovery, which you mostly did.\n\nOne flow adjustment: your **Trust** section currently comes after \u201cTransition to Pitch.\u201d I\u2019d place Trust right before that transition so it feels like the final discovery checkpoint, not the beginning of the pitch.\n\nVerdict: **Yes, it makes sense.** It flows well, but it needs those missing discovery checkpoints so objections do not show up later at close."
+          ]
+        },
+        "create_time": 1782250299.567911,
+        "id": "21010fa2-9ed0-44d2-93af-0e354053adc4",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": null,
+              "cloud_doc_url": null,
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_00000000bb0c720c8bb0734b49d4d33c",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "f0ea8771-05f7-4780-a935-3ad9f459519b",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "Luxora Collective Sales Script (1).docx",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            },
+            {
+              "alt": null,
+              "cloud_doc_url": "",
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_00000000ede871fd9c03095ea05f6b14",
+              "input_pointer": {
+                "file_index": 7,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "991d75c6-8b97-4111-bd07-696b2b3f06bf",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "KB_06_Sales_Script.docx.pdf",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            }
+          ],
+          "model_slug": "gpt-5-5-thinking",
+          "parent_id": "1f01d13b-f168-43f4-a8e4-88c775afd0d3"
+        }
+      },
+      "parent": "1f01d13b-f168-43f4-a8e4-88c775afd0d3"
+    },
+    "2f8ffb9f-79cd-4271-9075-20049b747a2f": {
+      "id": "2f8ffb9f-79cd-4271-9075-20049b747a2f",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "thoughts",
+          "source_analysis_msg_id": "4f4077cc-c6a8-4feb-9553-3df1fe1d5f9b",
+          "thoughts": []
+        },
+        "create_time": 1782250301.356034,
+        "id": "2f8ffb9f-79cd-4271-9075-20049b747a2f",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5-thinking",
+          "parent_id": "4f4077cc-c6a8-4feb-9553-3df1fe1d5f9b"
+        }
+      },
+      "parent": "9c0306cf-c461-4f2e-b036-46ea9a4d7741"
+    },
+    "7998264f-e692-4692-ae87-cc3d0e46a8d2": {
+      "id": "7998264f-e692-4692-ae87-cc3d0e46a8d2",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Below is your script with the missing discovery pieces added while keeping the flow natural and conversational.\n\n---\n\n# THE LUXORA COLLECTIVE SALES SCRIPT\n\n## RAPPORT\n\n\"Hey [Name], how's your week going so far?\"\n\n\"Awesome.\"\n\n\"And where are you located?\"\n\n\"Perfect.\"\n\n---\n\n## FRAME\n\n\"So [Name], here's what I'd like to do.\n\nI have the information you submitted in front of me, but I definitely have some additional questions and I want to understand exactly where the practice is today, where you're looking to go, and what's currently getting in the way.\n\nUltimately, I just want to see if we're a good fit to help.\n\nIf everything looks good, I'm happy to build out some higher-level strategy for you, show you where I believe the biggest opportunities are inside the practice, and we can talk through what it would look like to partner together.\n\nAnd if for whatever reason I don't think we're the right fit, I'll point you in the right direction and make sure you leave with clarity either way.\n\nSound fair?\"\n\n---\n\n## PAIN\n\n\"So [Name], I'd love to hear it directly from you.\n\nWhat's going on inside the practice right now that's got you reaching out for help?\"\n\n### Follow Ups\n\n\"What specifically isn't working?\"\n\n\"How long has that been an issue?\"\n\n\"If it's been an issue for that long, why are you looking to solve it now?\"\n\n\"It sounds like this has been impacting the business for a while.\n\nHow important is it for you to solve this?\"\n\n(Pause)\n\n\"What happens if nothing changes over the next 6 to 12 months?\"\n\n(Pause)\n\n\"How much do you think that's costing you in revenue, time, or stress?\"\n\n---\n\n## TRANSITION INTO DISCOVERY\n\n\"Got it.\n\nThat gives me a better understanding of what's frustrating you right now.\n\nLet me ask a few questions about the business itself so I can understand where things stand today.\"\n\n---\n\n# DISCOVERY\n\n## BIGGEST BOTTLENECK\n\n\"If you had to point to one thing that's holding the practice back right now, what would it be?\"\n\n(Pause)\n\n\"What's that costing you in revenue, time, or stress?\"\n\n---\n\n## TRANSITION TO REVENUE\n\n\"That makes sense.\n\nLet's put some numbers around it so I can better understand the impact.\"\n\n---\n\n## CURRENT REVENUE\n\n\"What did the practice generate last month?\"\n\n\"What would you say your average monthly revenue is?\"\n\n\"What was your best month ever?\"\n\n---\n\n## TRANSITION TO GOALS\n\n\"Perfect.\n\nNow that I understand where the business is today, let's talk about where you're trying to take it.\"\n\n---\n\n## GOAL REVENUE\n\n\"Where would you like the practice to be in the next 12 months?\"\n\n(Pause)\n\n\"Why is that number important to you?\"\n\n(Pause)\n\n\"What happens if you don't get there?\"\n\n---\n\n## TIMING\n\n\"If you could solve these challenges and start moving toward that goal, when would you want that to happen?\"\n\n(Pause)\n\n\"Why now?\"\n\n(Pause)\n\n\"Was there something that happened recently that made this become more urgent?\"\n\n(Pause)\n\n\"Do you feel like today is the day you finally make a change and move toward those goals?\"\n\n---\n\n## TRANSITION TO ACQUISITION\n\n\"That helps me understand the target.\n\nNow let's talk about how patients are currently finding you.\"\n\n---\n\n## ACQUISITION\n\n\"Where are most of your new patients currently coming from?\"\n\n\"What's working?\"\n\n\"What's not working?\"\n\n---\n\n## TRANSITION TO RETENTION\n\n\"Most owners focus heavily on acquisition, but some of the biggest opportunities are often inside the patients you already have.\"\n\n---\n\n## RETENTION & MEMBERSHIPS\n\n\"What percentage of your patients come back after their first treatment?\"\n\n(Pause)\n\n\"Do you currently offer memberships, packages, wellness programs, or recurring revenue services?\"\n\n(Pause)\n\n\"If I looked at your business today, where do you think more growth exists:\n\nGetting more patients?\n\nOr getting more value from the patients you already have?\"\n\n---\n\n## TRANSITION TO PREVIOUS ATTEMPTS\n\n\"That gives me a good picture of where the opportunities are.\n\nNow let me ask\u2014what have you already tried to improve these areas?\"\n\n---\n\n## PREVIOUS ATTEMPTS\n\n\"Have you worked with agencies?\"\n\n\"Consultants?\"\n\n\"Coaches?\"\n\n(Pause)\n\n\"What worked?\"\n\n\"What didn't?\"\n\n(Pause)\n\n\"What do you wish they had done differently?\"\n\n---\n\n## DOUBT\n\n\"Based on everything you've told me, why do you think this hasn't been solved already?\"\n\n(Pause)\n\n\"What do you think is missing right now?\"\n\n(Pause)\n\n\"What makes you feel like doing more of the same won't get you where you want to go?\"\n\n---\n\n## COMPARISON\n\n\"Are you currently looking at any other agencies, consultants, or options to solve these problems?\"\n\n(Pause)\n\n\"What are you comparing this against?\"\n\n---\n\n## SUPPORT\n\n\"In an ideal world, what kind of support would be most valuable to you?\"\n\n(Pause)\n\n\"Are you looking for someone to simply generate leads?\n\nOr are you looking for a partner that helps improve the entire patient journey and growth strategy?\"\n\n---\n\n## FINANCES\n\n\"How much are you currently investing each month into marketing, advertising, agencies, consultants, or growth initiatives?\"\n\n(Pause)\n\n\"Do you feel like that's producing the return you'd expect?\"\n\n(Pause)\n\n\"If you found a solution that genuinely helped you hit your goals, would you have the resources available to invest in fixing this?\"\n\n---\n\n## DECISION MAKER\n\n\"Do you own the practice outright?\"\n\n(Pause)\n\n\"Is there anyone else who would need to be involved in a decision today?\"\n\n---\n\n## TRUST\n\n\"Before we jump into strategy, how familiar are you with us?\"\n\n\"What have you seen so far?\"\n\n\"What made you book the call?\"\n\n---\n\n## TRANSITION TO PITCH\n\n\"Perfect.\n\nBased on everything you've shared, I have a pretty good understanding of where the opportunities are.\n\nWould it be okay if I shared what I'm seeing?\"\n\n---\n\n# PITCH\n\n## PERSONALIZED BRIDGE\n\n\"Based on everything you've shared, here's what I see.\n\nIt sounds like the biggest challenge isn't [LEADS].\n\nIt's actually [INSERT THEIR PAIN].\n\nAnd that's important because until that problem gets solved, it's going to continue limiting growth no matter how much effort gets put into the business.\n\nNow, that doesn't mean you don't need more patients.\n\nIn most cases, our clients absolutely want more consultations, more patients, and more revenue.\n\nAnd we help them do exactly that.\n\nBut what we've found after working inside aesthetic practices for nearly two decades is that growth becomes much easier when we first identify where opportunities are being missed and then build the right systems to support growth.\"\n\n---\n\n## MICRO CREDIBILITY\n\n\"After nearly 20 years inside aesthetic practices, I've found growth almost always comes down to three things:\n\nClarity.\n\nAcquisition.\n\nExpansion.\"\n\n---\n\n## PILLAR 1 \u2014 CLARITY\n\n\"First, we create Clarity.\n\nMost med spa owners know they should be growing faster, but they don't know exactly where revenue is leaking, where opportunities are being missed, or what numbers actually matter.\n\nSo before we ever talk about scaling, we identify where growth is being blocked and what needs to be fixed first.\"\n\n---\n\n## PILLAR 2 \u2014 ACQUISITION\n\n\"Second, we improve Acquisition.\n\nWe help practices generate more consultations and attract more qualified patients through proven marketing systems designed specifically for aesthetic practices.\"\n\n---\n\n## PILLAR 3 \u2014 EXPANSION\n\n\"Third, we focus on Expansion.\n\nBecause sustainable growth doesn't just come from getting more patients.\n\nIt comes from increasing retention, memberships, recurring revenue, patient lifetime value, referrals, and maximizing every patient relationship.\"\n\n---\n\n## TEMPERATURE CHECK\n\n\"Based on everything we've discussed so far, does that feel like the type of support you've been looking for?\"\n\n(Pause)\n\n\"What stands out most to you?\"\n\n---\n\n## DELIVERY\n\n\"Perfect.\n\nLet me show you what partnering together would actually look like...\"\n\n(Explain onboarding, implementation process, support structure, communication cadence, etc.)\n\n---\n\n## PRICE\n\n\"Based on everything we've discussed, the investment to partner together is $____.\"\n\n**STOP TALKING.**\n\n---\n\nThis version follows the RFPDP framework more closely because it now covers **all 11 discovery topics before pitching**, which means fewer surprises and objections when you get to the investment conversation. \ue200filecite\ue202turn0file7\ue202L1-L20\ue201 \ue200filecite\ue202turn0file0\ue201"
+          ]
+        },
+        "create_time": 1782250342.774403,
+        "id": "7998264f-e692-4692-ae87-cc3d0e46a8d2",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": null,
+              "cloud_doc_url": "",
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_00000000ede871fd9c03095ea05f6b14",
+              "input_pointer": {
+                "file_index": 7,
+                "line_range_end": 20,
+                "line_range_start": 1,
+                "message_id": "991d75c6-8b97-4111-bd07-696b2b3f06bf",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "KB_06_Sales_Script.docx.pdf",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            },
+            {
+              "alt": null,
+              "cloud_doc_url": null,
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_00000000bb0c720c8bb0734b49d4d33c",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "f0ea8771-05f7-4780-a935-3ad9f459519b",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "Luxora Collective Sales Script (1).docx",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "3cb87e52-9019-4332-a88f-3cd1c62ecd84"
+        }
+      },
+      "parent": "de8de467-1149-43eb-b44a-3ac3063b414f"
+    },
+    "9c0306cf-c461-4f2e-b036-46ea9a4d7741": {
+      "id": "9c0306cf-c461-4f2e-b036-46ea9a4d7741",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "does this script make sence as far as transitions and flow but still getting all the necseary questions i need"
+          ]
+        },
+        "create_time": 1782250298.662,
+        "id": "9c0306cf-c461-4f2e-b036-46ea9a4d7741",
+        "metadata": {
+          "attachments": [
+            {
+              "file_token_size": 1837,
+              "id": "file_00000000bb0c720c8bb0734b49d4d33c",
+              "is_big_paste": false,
+              "name": "Luxora Collective Sales Script (1).docx",
+              "size": 14970,
+              "source": "local"
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "de8de467-1149-43eb-b44a-3ac3063b414f": {
+      "id": "de8de467-1149-43eb-b44a-3ac3063b414f",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "can you please put the entire script here so i can copy it after you make those edtis"
+          ]
+        },
+        "create_time": 1782250342.544,
+        "id": "de8de467-1149-43eb-b44a-3ac3063b414f",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "21010fa2-9ed0-44d2-93af-0e354053adc4"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Script Flow and Transitions",
+  "update_time": 1782250482.366142,
+  "voice": null
+}

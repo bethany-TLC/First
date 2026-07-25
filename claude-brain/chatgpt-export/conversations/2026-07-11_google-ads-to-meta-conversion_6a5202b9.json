@@ -1,0 +1,313 @@
+{
+  "conversation_id": "6a5202b9-44b4-83e8-9b52-be6c60dfcb96",
+  "conversation_template_id": null,
+  "create_time": 1783759564.602419,
+  "current_node": "c0f88af9-d089-4f75-a842-fb76e510ba1f",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a5202b9-44b4-83e8-9b52-be6c60dfcb96",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "336e7458-a7a6-4adc-9cd2-634bf4ac0820": {
+      "id": "336e7458-a7a6-4adc-9cd2-634bf4ac0820",
+      "message": null,
+      "parent": null
+    },
+    "378a8466-4095-477a-8954-50588ba95beb": {
+      "id": "378a8466-4095-477a-8954-50588ba95beb",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "**Yes, the strategic thinking works for Meta, but this exact framework does not transfer 1:1.** Several sections are specifically Google Search mechanics. For Meta, I\u2019d keep the **service economics, local-market logic, dedicated landing pages, and closed-loop conversion tracking**, then rewrite the campaign and audience strategy.\n\nHere\u2019s how I\u2019d translate it:\n\n1. **Local targeting: Yes, but different intent.** Google captures existing demand from people searching \u201cBotox near me.\u201d Meta creates or captures latent demand while people scroll. Use a realistic service radius, but don\u2019t automatically make it extremely tight. Meta needs enough audience volume to learn, so overly narrow geographic targeting can hurt performance.\n\n2. **Service tiering: Yes. STAGs: No.** STAG is a keyword/Search framework. On Meta, structure around **offer + treatment + creative angle + funnel stage**. High-ticket treatments usually need more education, proof, consultation-focused offers and stronger follow-up. Lower-ticket treatments can often use a direct introductory offer and faster booking path.\n\n3. **Demographic profiling: Use as messaging intelligence, not necessarily strict targeting.** The age/service breakdown is useful for creative strategy. But Meta often performs better with broader targeting and strong creative rather than excessive audience segmentation. Instead of building dozens of tiny audiences, create ads that speak directly to different patient motivations and let the algorithm identify responders.\n\n4. **Dedicated treatment landing pages: Absolutely.** This transfers directly. A Morpheus8 ad should lead to a Morpheus8-specific experience, not a generic med spa homepage. The ad, offer, landing page and follow-up should feel like one continuous conversation.\n\n5. **Compliance: Yes, but completely different rules.** Meta is particularly sensitive to personal-attribute language. Avoid copy that directly implies the viewer has a condition or insecurity, such as \u201cAre you embarrassed by your wrinkles?\u201d The copy should focus on the treatment, experience and potential outcomes without making assumptions about the person seeing the ad.\n\n6. **Offline conversion feedback: Absolutely, and this is one of the most important pieces.** Don\u2019t teach Meta that every lead is equally valuable. Feed downstream data back into the system where technically and legally appropriate: **qualified lead \u2192 booked consultation \u2192 showed \u2192 purchased \u2192 revenue**. That gives the system better signals than optimizing solely for cheap form fills.\n\n### The biggest difference\n\n**Google = capture intent.**  \nSomeone is already looking for Botox, Morpheus8 or a med spa.\n\n**Meta = manufacture demand and create desire.**  \nThe creative, offer and positioning do much more of the work.\n\nSo for Luxora, I would turn this into a **two-channel framework**, not claim the same framework applies identically:\n\n**Google:** Search intent \u2192 keyword/service segmentation \u2192 treatment landing page \u2192 booking \u2192 offline revenue feedback.\n\n**Meta:** Creative angle + offer \u2192 broad/local qualified audience \u2192 lead or landing-page conversion \u2192 rapid nurture and qualification \u2192 booking \u2192 revenue feedback.\n\nOne thing I would **change before presenting the original Google framework to clients**: some of the language is too absolute. Claims such as \u201cover 70% of med spa search volume\u201d and \u201cpatients rarely travel long distances\u201d need a source or should be softened. I\u2019d also avoid promising that demographic exclusions automatically prevent \u201clow-intent\u201d or \u201cunable to afford\u201d users. That sounds precise, but real campaign performance is more nuanced.\n\n**The strongest Luxora strategy is actually running Meta and Google together:** Meta creates awareness and demand; Google captures the prospect when they later search the clinic, treatment, or competitor. Then your CRM, reactivation and sales process turn that demand into actual revenue."
+          ]
+        },
+        "create_time": 1783759568.593576,
+        "id": "378a8466-4095-477a-8954-50588ba95beb",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "",
+              "has_images": false,
+              "prefix": null,
+              "prompt_text": null,
+              "sources": [],
+              "type": "sources_footnote"
+            }
+          ],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Memory",
+                "citation_uuid": "18bec49d-3cb0-45e1-a0d8-6997bc0100bc",
+                "conversation_context_type": "general_memory",
+                "end_idx": -1,
+                "index": 1,
+                "matched_text": "",
+                "prompt_text": null,
+                "reason": "You are advising specifically for your Luxora (TLC) med spa growth business, so the recommendations are tailored to that company context.",
+                "refs": [],
+                "snippet": "BUSINESS: THE LUXORA COLLECTIVE (TLC) \u2014 Current Company (Rebrand)",
+                "start_idx": -1,
+                "title": "You are advising specifically for your Luxora (TLC) med spa growth business, so the recommendations are tailored to that company context.",
+                "type": "conversation_context_citation",
+                "url": "#settings/Personalization"
+              },
+              "citation_uuid": "18bec49d-3cb0-45e1-a0d8-6997bc0100bc",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "6fbe3994-e7a6-4976-8cc8-d8bb4a3ec8aa"
+        }
+      },
+      "parent": "bbb21926-dfe1-44a9-ac92-7ef7cf1b6452"
+    },
+    "3a2338b5-6836-42c7-aa6c-ad8fc42adf6e": {
+      "id": "3a2338b5-6836-42c7-aa6c-ad8fc42adf6e",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a much shorter version:\n\n:::writing{variant=\"email\" id=\"73142\" subject=\"Meta Ads Strategy & Performance Data\"}\nHi [Name],\n\nThanks for sharing this. I\u2019d love a little more clarity on the Meta strategy.\n\nOur approach has typically been to start with conversion-focused campaigns built around a specific treatment, offer, and patient motivation, rather than first spending budget on traffic and awareness and then moving into conversions. We also focus heavily on tracking actual qualified bookings and revenue, not just leads.\n\nCan you explain why you recommend the phased awareness-first approach versus optimizing for conversions from day one?\n\nAlso, can you share case study data specifically for higher-ticket med spa treatments? Ideally, I\u2019d like to see the ad spend, number of leads generated, qualified consultations actually booked, show rate, and cost per qualified booking.\n\nThat will help us better understand what results we can realistically expect for clients at different ad spend levels.\n\nThanks,\nBethany\n:::\n\nI can make it even more direct and media-buyer-to-media-buyer if you want."
+          ]
+        },
+        "create_time": 1783760720.61234,
+        "id": "3a2338b5-6836-42c7-aa6c-ad8fc42adf6e",
+        "metadata": {
+          "content_references": [],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Memory",
+                "citation_uuid": "dcb00b54-4e63-4a85-862d-14fcb1a70e7d",
+                "conversation_context_type": "general_memory",
+                "end_idx": -1,
+                "index": 1,
+                "matched_text": "",
+                "prompt_text": null,
+                "reason": "You are Bethany Gifford and you sign as Bethany in your business communications.",
+                "refs": [],
+                "snippet": "Email: bethany@theluxoracollective.co.",
+                "start_idx": -1,
+                "title": "You are Bethany Gifford and you sign as Bethany in your business communications.",
+                "type": "conversation_context_citation",
+                "url": "#settings/Personalization"
+              },
+              "citation_uuid": "dcb00b54-4e63-4a85-862d-14fcb1a70e7d",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "bbb217f8-ea7c-42ea-bf7d-325f15520db4"
+        }
+      },
+      "parent": "bbb217f8-ea7c-42ea-bf7d-325f15520db4"
+    },
+    "86a9de25-0141-4092-b8a9-82c7a51f314a": {
+      "id": "86a9de25-0141-4092-b8a9-82c7a51f314a",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "I would **not** recommend leading with traffic and awareness campaigns for most local med spas. That can burn budget building \u201cwarm audiences\u201d when Meta can optimize directly for the business outcome you actually want. For most clients, I\u2019d use this instead:\n\n:::writing{variant=\"document\" id=\"58314\"}\nFor **Meta Ads**, our strategy is built around generating qualified patient opportunities from day one while giving Meta the right data to improve performance over time.\n\nWe begin with a **conversion-focused campaign**, not a traffic or awareness campaign. Each campaign is built around a specific treatment, offer, and patient motivation, with multiple creative angles tested against the local market. Rather than over-segmenting audiences, we typically give Meta enough room to optimize while using the creative itself to attract the right patient.\n\nThe offer and funnel are matched to the economics of the treatment. Lower-barrier services may use a strong introductory offer with a direct booking path, while higher-ticket treatments typically require more education, proof, and a consultation-based offer before asking someone to make a larger financial commitment.\n\nThe real optimization happens beyond the initial lead. We track the full patient journey whenever possible, including qualified leads, booked consultations, show rates, treatments purchased, and revenue generated. This allows us to identify which campaigns are producing actual patients, not simply the cheapest leads.\n\nAt the same time, we build retargeting audiences from website visitors, video viewers, social engagement, lead activity, and other first-party data. These prospects are then shown additional proof, patient stories, provider expertise, treatment education, FAQs, and stronger calls to action based on where they are in the decision-making process.\n\nThe result is a Meta strategy built around three things: **the right offer, high-performing creative, and closed-loop conversion data**. The goal is not to generate the most leads at the lowest possible cost. The goal is to generate patients who book, show up, purchase, and ultimately create profitable revenue for the practice.\n:::\n\nThis is much closer to how I\u2019d position **Luxora\u2019s actual Meta strategy**. The biggest shift is: **we don't pay Meta just to build awareness and hope it eventually converts. We launch for the business outcome, test creative and offers aggressively, then use real downstream patient data to improve the algorithm.**"
+          ]
+        },
+        "create_time": 1783759870.621422,
+        "id": "86a9de25-0141-4092-b8a9-82c7a51f314a",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "0d006271-5714-4207-b132-aabbefaf1d01"
+        }
+      },
+      "parent": "bbb21b6a-52bc-4462-9be2-9db798529171"
+    },
+    "a2473e11-679f-483c-98ee-fcd0c856fa4b": {
+      "id": "a2473e11-679f-483c-98ee-fcd0c856fa4b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a version that is collaborative but clearly explains why you\u2019d prefer a different approach:\n\n:::writing{variant=\"email\" id=\"41726\" subject=\"Thoughts on the Meta Ads Strategy\"}\nHi [Name],\n\nThank you for putting this together. I wanted to get your thoughts on one part of the Meta strategy because our approach has typically been a little different.\n\nRather than starting with traffic and awareness campaigns and waiting to build warm audiences before optimizing for conversions, we prefer to begin with a conversion-focused campaign built around a specific treatment, offer, and patient motivation.\n\nOur concern with leading with traffic or awareness is that Meta may optimize for people who are most likely to click, watch, or engage, rather than people who are actually likely to become patients. We would rather start giving the algorithm conversion data from day one, while testing multiple creative angles and offers to determine what actually drives qualified patient opportunities.\n\nFrom there, we absolutely agree with building retargeting audiences from website visitors, video viewers, social engagement, and other first-party data. We just see that as something that develops alongside the primary conversion campaigns rather than a required first phase before launching them.\n\nWe also want the strategy to account for the economics and buying journey of each treatment. A lower-barrier service may be able to go directly from a cold audience to an introductory offer and booking path, while a higher-ticket treatment may require more education, proof, and a consultation-based funnel.\n\nThe other major piece for us is optimizing beyond the initial lead. We want to track qualified leads, booked consultations, show rates, treatments purchased, and ultimately revenue wherever possible. Our goal isn't simply to generate the cheapest leads. It's to identify which campaigns, offers, and creative are actually producing patients and profitable revenue.\n\nI'd love to hear your thoughts on this approach and whether you see any reason we couldn't structure the Meta campaigns this way from the beginning. I'm open to your perspective, especially based on what you're seeing perform right now across your accounts, but I want to make sure we're optimizing toward actual patient acquisition rather than spending the initial phase primarily on traffic and awareness.\n\nThanks,\nBethany\n:::\n\nI can also make this **shorter and more direct**, especially if this is going to a media buyer you want to challenge a little more on their strategy."
+          ]
+        },
+        "create_time": 1783759975.755084,
+        "id": "a2473e11-679f-483c-98ee-fcd0c856fa4b",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "0cb7b603-cd94-4f1c-9a2f-709fea0fb46e"
+        }
+      },
+      "parent": "bbb216ce-85d4-4dee-8340-59424fd19571"
+    },
+    "bbb211fe-5d9e-4ec9-bafd-fa42eeccd1a2": {
+      "id": "bbb211fe-5d9e-4ec9-bafd-fa42eeccd1a2",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Add a new paragraph here talking about their Google ad approach and curious to see how many client actually become paying clients not just conversations"
+          ]
+        },
+        "create_time": 1783760993.709095,
+        "id": "bbb211fe-5d9e-4ec9-bafd-fa42eeccd1a2",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "3a2338b5-6836-42c7-aa6c-ad8fc42adf6e"
+    },
+    "bbb216ce-85d4-4dee-8340-59424fd19571": {
+      "id": "bbb216ce-85d4-4dee-8340-59424fd19571",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ok write an email response to the above strategy they gave me vs the one we use and ask them their thoughts."
+          ]
+        },
+        "create_time": 1783759975.473683,
+        "id": "bbb216ce-85d4-4dee-8340-59424fd19571",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "86a9de25-0141-4092-b8a9-82c7a51f314a"
+    },
+    "bbb217f8-ea7c-42ea-bf7d-325f15520db4": {
+      "id": "bbb217f8-ea7c-42ea-bf7d-325f15520db4",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Shorten the email alot and ask for clarity on their approach and also all to give us case study data on how many quality client bookings for higher end ticket items they can get for a particular amount of ad spend using meta "
+          ]
+        },
+        "create_time": 1783760720.335285,
+        "id": "bbb217f8-ea7c-42ea-bf7d-325f15520db4",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "a2473e11-679f-483c-98ee-fcd0c856fa4b"
+    },
+    "bbb21926-dfe1-44a9-ac92-7ef7cf1b6452": {
+      "id": "bbb21926-dfe1-44a9-ac92-7ef7cf1b6452",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Does this Google ads frame work also work for meta? The framework covers campaign structures, demographic profiling, and local targeting tactics to deliver patient bookings. These data-backed insights demonstrate specialized expertise in scaling aesthetic medical clinics. \n\n1. High-Intent Local Capture & Radius Targeting\nOver 70% of med spa search volume consists of geo-targeted or \"near me\" terms (e.g., \"Botox near me\", \"lip fillers [City]\"). Capturing this traffic yields a high immediate ROI because users are actively looking to book an appointment. Patients rarely travel long distances for routine cosmetic treatments. Broad city-wide targeting causes ad spend leakage.\nThe Strategy: Implement a tight radius(Based on requirements) around the physical clinic location, depending on population density (urban vs. suburban). Build robust location extensions to dominate the local Map Pack and top-of-page ad slots.\nThe Impact: Concentrating the budget entirely on the highest-converting geographic pocket surrounding the clinic maximizes budget efficiency and increases conversion rates because proximity is a deciding factor for patients.\n2. Service Tiering & Hyper-Segmented Ad Structure (STAG Model)\nMed spas offer distinct services. Grouping broad terms together lowers Quality Score, raises Cost Per Click (CPC), and drops conversion rates. A user searching for \"laser hair removal\" should not see an ad mentioning \"dermal fillers\". Segmentation by price point, consumer intent, and keyword themes is required:\nHigh-Ticket / Premium Tiers ($1,500\u2013$4,000+):\nExamples: CoolSculpting, Morpheus8, Ultherapy, Semaglutide/Weight Loss programs, PDO Thread Lifts.\nThe Approach: These financial investments require a longer sales cycle (2\u20136 weeks). Campaigns are built around Single Themed Ad Groups (STAG). Instead of a \"Book Now\" CTA, traffic is driven to landing pages offering a \"Free Consultation\" or a high-value entry hook (e.g., \"$500 off a multi-session package\") to capture the lead for internal sales follow-up.\nMid-Tier / Moderate Cost ($500\u2013$1,500):\nExamples: Botox/Dysport packages, Dermal Fillers (Juvederm, Restylane), PRP Therapy.\nThe Approach: High search volume, high competition, and high repeat-purchase intent define this tier. Isolate specific keyword clusters using the STAG framework. Ad copy must highlight provider expertise (e.g., \"Board-Certified Injectors\") and transparent, value-driven package pricing to capture immediate appointment bookings.\nLow-Ticket / Entry-Level ($150\u2013$400):\nExamples: Hydrafacials, Chemical Peels, Laser Hair Removal (single sessions), Microneedling.\nThe Approach: Low barrier to entry, highly impulsive, and driven heavily by local convenience. Isolate these into high-volume campaigns, using direct \"Book Online\" CTAs with introductory offers (e.g., \"First Hydrafacial for $129\") to secure patients for future backend upselling.\n3. Audience Segmentation & Demographic Layers\nTo prevent wasting ad spend on low-intent clicks or audiences unable to afford premium services, strict demographic targeting parameters are applied:\nHousehold Income (HHI) Targeting: For high-ticket and mid-tier treatments, exclude the bottom 50% of earners. Set positive bid adjustments (+15% to +30%) on the Top 10%, 11\u201320%, and 21\u201350% household income brackets to ensure ads appear predominantly to users with the financial capability to purchase out-of-pocket medical aesthetic procedures.\nAge Segmentation:\nAges 25\u201334: Target for preventative treatments (Baby Botox, Lip Flips, Laser Hair Removal, Hydrafacials).\nAges 35\u201354: Core demographic for high-ticket anti-aging, volume replacement, and body contouring (Full Syringe Fillers, Morpheus8, CoolSculpting).\nAges 55+: Focus on skin tightening, deep wrinkle treatments, and age-spot laser resurfacing.\nGender Layering: While the core market trends female (85%+), campaigns are split to isolate male-specific traffic. For male audiences, target specific keyword subsets like \"Brotox,\" male jawline contouring, and men's laser hair removal with dedicated, masculine ad copy to maximize conversion rates.\n4. Dedicated Treatment Landing Pages\nDriving Google Ads traffic to a generic homepage increases bounce rates and reduces conversion efficiency. Conversion rates increase when traffic lands on an explicit, distraction-free treatment page.\nThe Strategy: Each STAG campaign must point to a dedicated landing page tailored entirely to that specific treatment. The page must feature treatment-specific benefits, before/after galleries, clear pricing/promotions, trust badges (certifications), and a direct booking or consultation form above the fold.\n5. Navigating Medical Policy Compliance\nGoogle enforces strict healthcare and pharmaceutical policies. Using trademarked terms like Botox or Juvederm in unapproved ways or including restricted medical language triggers ad disapprovals or account suspensions.\nThe Strategy: Focus copy on FDA-approved benefits, treatment outcomes, and specialized expertise (e.g., \"Expert Cosmetic Injectors\", \"Wrinkle Smoothing Treatments\") to bypass automated policy flags while maintaining high-converting ad copy.\n6. Algorithmic Training via Offline Conversions\nRelying purely on raw form submissions optimizes campaigns for lead volume rather than revenue. Med spas regularly experience \"no-shows\" or low-intent leads from free consultations.\nThe Strategy: Feed the smart bidding algorithm high-quality data by tracking actual booked treatments or value-based milestones rather than just raw button clicks. This trains Google\u2019s automated bidding to seek out high-value patients who proceed to paid treatments.\nFor example, let's assume we're running Google Ads in Colorado with a daily budget of $100. Based on the forecast, here's what we can expect in terms of campaign performance.\n\nDraft Keyword Ideas | Med Spa - https://docs.google.com/spreadsheets/d/10WOpOMRL44BrTPzVeDSzfLwzrtGgzxWZ1_ppW-p-kkI/edit?usp=sharing\n\n\n"
+          ]
+        },
+        "create_time": 1783759563.968507,
+        "id": "bbb21926-dfe1-44a9-ac92-7ef7cf1b6452",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "336e7458-a7a6-4adc-9cd2-634bf4ac0820"
+    },
+    "bbb21b6a-52bc-4462-9be2-9db798529171": {
+      "id": "bbb21b6a-52bc-4462-9be2-9db798529171",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Now tell me a way that will actually work for our clients for Meta ad strategy: For\u00a0**Meta Ads**, our recommendation would be to build the campaigns in phases rather than focusing only on immediate conversions from cold audiences.\nWe would begin with a traffic and awareness campaign designed to introduce the brand to a highly relevant local audience through educational content, provider expertise, patient stories, and treatment information. This helps build familiarity and engagement while also generating valuable audience data.\nAs the campaign gathers engagement, we can create custom audiences such as website visitors, video viewers, and social media engagers, along with lookalike audiences based on those users. From there, we would launch a dedicated conversion campaign targeting these warmer audiences with consultation offers, social proof, and clear calls to action, while continuing to retarget users who have already interacted with the brand.\nThis full-funnel approach will typically produce stronger lead quality and a lower cost per acquisition than asking cold audiences to book a consultation immediately."
+          ]
+        },
+        "create_time": 1783759870.387946,
+        "id": "bbb21b6a-52bc-4462-9be2-9db798529171",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "378a8466-4095-477a-8954-50588ba95beb"
+    },
+    "c0f88af9-d089-4f75-a842-fb76e510ba1f": {
+      "id": "c0f88af9-d089-4f75-a842-fb76e510ba1f",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ":::writing{variant=\"email\" id=\"86421\" subject=\"Meta & Google Ads Strategy\"}\nHi [Name],\n\nThanks for sharing this. I\u2019d love a little more clarity on the Meta strategy.\n\nOur approach has typically been to start with conversion-focused campaigns built around a specific treatment, offer, and patient motivation, rather than first spending budget on traffic and awareness and then moving into conversions. Can you explain why you recommend the phased awareness-first approach versus optimizing for conversions from day one?\n\nAlso, can you share case study data specifically for higher-ticket med spa treatments? Ideally, I\u2019d like to see the ad spend, number of leads generated, qualified consultations booked, show rate, and cost per qualified booking.\n\nOn the Google Ads side, I like the approach you outlined. I\u2019d also be curious to see the data beyond conversions and booked consultations. How many of those leads and consultations actually show up and become paying patients, particularly for higher-ticket treatments? Ultimately, that is the metric we care most about for our clients.\n\nThanks,\nBethany\n:::"
+          ]
+        },
+        "create_time": 1783760993.980133,
+        "id": "c0f88af9-d089-4f75-a842-fb76e510ba1f",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "bbb211fe-5d9e-4ec9-bafd-fa42eeccd1a2"
+        }
+      },
+      "parent": "bbb211fe-5d9e-4ec9-bafd-fa42eeccd1a2"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Google Ads to Meta Conversion",
+  "update_time": 1783760999.542667,
+  "voice": null
+}

@@ -1,0 +1,72 @@
+{
+  "conversation_id": "6a637365-7e80-83ea-b4ab-3e204ce6359c",
+  "conversation_template_id": null,
+  "create_time": 1784902508.281937,
+  "current_node": "06b27d17-3db0-4df2-8068-66ae50228421",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a637365-7e80-83ea-b4ab-3e204ce6359c",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "06b27d17-3db0-4df2-8068-66ae50228421": {
+      "id": "06b27d17-3db0-4df2-8068-66ae50228421",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ":::writing{variant=\"email\" id=\"65184\" subject=\"Re: Introduction\"}\nHi Tiffany,\n\nThanks for the introduction, Jeannie. I really appreciate it!\n\nTiffany, it's great to meet you. I'd love to learn more about what you're looking to accomplish in the weight loss space and see if we're a good fit.\n\nMy team specializes in paid advertising for medical aesthetics, weight loss, and wellness practices. With more than 10 years of experience inside the med spa industry, we've developed compliant advertising strategies that generate qualified patients while staying within the platform guidelines. As you know, weight loss advertising has its own unique challenges, so getting the messaging, targeting, and compliance right is critical.\n\nI'd be happy to jump on a quick 20-minute call this week or over the weekend to learn more about your goals and share how we approach these campaigns.\n\nLooking forward to connecting!\n\nBest,  \nBethany Gifford  \nFounder & CEO  \nThe Luxora Collective\n:::\n\nThis version feels warmer, establishes your authority more naturally, and positions you as a strategic partner rather than just someone who runs ads."
+          ]
+        },
+        "create_time": 1784902508.193882,
+        "id": "06b27d17-3db0-4df2-8068-66ae50228421",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "52cf297e-f05e-4898-a74f-d1b262407a1b"
+        }
+      },
+      "parent": "1a158f21-13d8-45f0-a692-377e03b10056"
+    },
+    "1a158f21-13d8-45f0-a692-377e03b10056": {
+      "id": "1a158f21-13d8-45f0-a692-377e03b10056",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "write a better response: Hey Tiffany,\n\nThanks for the intro, Jeannie!\n\nTiffany, happy to connect about weight loss ads. My team excels in this area. As you know there are a lot of rules around this topic and ensuring we do it correctly is key.\u00a0\nLet me know what time works best for a quick chat this week/weekend.\n-Bethany\nOn Fri, Jul 24, 2026 at 8:45\u202fAM Jeannie Buckman <jeannie@automatewellagency.com> wrote:\nHi Tiffany and Bethany,I wanted to connect the two of you.Tiffany is looking for someone who may be a strong fit for paid advertising in the weight-loss sector.Bethany works with businesses on paid advertising and has 10 years experience working in med spas. Plus she's an amazing human. I thought it would be worthwhile for you both to connect and see whether there may be a fit.I\u2019ll let you take it from here!Cheers,\nJeannie"
+          ]
+        },
+        "create_time": 1784902508.404,
+        "id": "1a158f21-13d8-45f0-a692-377e03b10056",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Email Response Improvement",
+  "update_time": 1784902544.954789,
+  "voice": null
+}

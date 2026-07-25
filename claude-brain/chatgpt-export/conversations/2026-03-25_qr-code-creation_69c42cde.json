@@ -1,0 +1,210 @@
+{
+  "conversation_id": "69c42cde-9150-8332-8ab8-b904cc4d79cf",
+  "conversation_template_id": null,
+  "create_time": 1774464233.643047,
+  "current_node": "2e0e8089-ebe4-4d33-a804-c63d7d329af2",
+  "default_model_slug": "gpt-5-3",
+  "id": "69c42cde-9150-8332-8ab8-b904cc4d79cf",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "0691d023-01f7-4747-80e1-f0be22c0bfd7": {
+      "id": "0691d023-01f7-4747-80e1-f0be22c0bfd7",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "put the tlc logog in the middle of it and make it more marron and balck"
+          ]
+        },
+        "create_time": 1774464466.029,
+        "id": "0691d023-01f7-4747-80e1-f0be22c0bfd7",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "ef6b1b2a-51c7-4e77-8f7c-c06f233e3e5d"
+    },
+    "2e0e8089-ebe4-4d33-a804-c63d7d329af2": {
+      "id": "2e0e8089-ebe4-4d33-a804-c63d7d329af2",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here you go, this one should open cleanly:\n\n[Download your QR code](sandbox:/mnt/data/qr_code.png)\n\nIf it still doesn\u2019t show, tell me and I\u2019ll drop it directly into the chat as an image preview. Also, if you upload your actual TLC logo, I\u2019ll replace the text with the real mark so it looks fully luxury/brand-perfect."
+          ]
+        },
+        "create_time": 1774464505.460911,
+        "id": "2e0e8089-ebe4-4d33-a804-c63d7d329af2",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "913a354a-c62c-4df3-b2df-09c6cf52f157"
+        }
+      },
+      "parent": "9586f53a-b10a-4bd8-82b5-ffaca54447d3"
+    },
+    "3a51bcf4-74a6-4c44-b579-306bf23f6fcf": {
+      "id": "3a51bcf4-74a6-4c44-b579-306bf23f6fcf",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "create me a qr  code for : https://linktr.ee/TheLuxoraCollective.co"
+          ]
+        },
+        "create_time": 1774464236.658,
+        "id": "3a51bcf4-74a6-4c44-b579-306bf23f6fcf",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "50ba46be-dc77-41f9-ac5c-842dcc0a1598": {
+      "id": "50ba46be-dc77-41f9-ac5c-842dcc0a1598",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Your QR code is ready:\n\n[Download your QR code](sandbox:/mnt/data/luxora_qr_code.png)\n\nIf you want, I can also style it (gold on black, logo in the center, etc.) to match your Luxora aesthetic."
+          ]
+        },
+        "create_time": 1774464238.686633,
+        "id": "50ba46be-dc77-41f9-ac5c-842dcc0a1598",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "9919217a-7bb7-42e2-b998-e54d1585dc12"
+        }
+      },
+      "parent": "3a51bcf4-74a6-4c44-b579-306bf23f6fcf"
+    },
+    "9586f53a-b10a-4bd8-82b5-ffaca54447d3": {
+      "id": "9586f53a-b10a-4bd8-82b5-ffaca54447d3",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "try again i cant see it"
+          ]
+        },
+        "create_time": 1774464497.264,
+        "id": "9586f53a-b10a-4bd8-82b5-ffaca54447d3",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "dd14abfb-90f9-40ec-846f-503b42b9b046"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "dd14abfb-90f9-40ec-846f-503b42b9b046": {
+      "id": "dd14abfb-90f9-40ec-846f-503b42b9b046",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Done. Here\u2019s your maroon + black Luxora-style QR with a TLC center mark:\n\n[Download your updated QR code](sandbox:/mnt/data/luxora_qr_maroon_black_tlc.png)\n\nIf you want it *perfectly on-brand*, send me your actual TLC logo file and I\u2019ll drop it in clean (transparent, crisp edges, properly scaled so it still scans flawlessly)."
+          ]
+        },
+        "create_time": 1774464479.786167,
+        "id": "dd14abfb-90f9-40ec-846f-503b42b9b046",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "408195d5-787e-41da-ae9c-fc64abdda5f0"
+        }
+      },
+      "parent": "0691d023-01f7-4747-80e1-f0be22c0bfd7"
+    },
+    "ef6b1b2a-51c7-4e77-8f7c-c06f233e3e5d": {
+      "id": "ef6b1b2a-51c7-4e77-8f7c-c06f233e3e5d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s your Luxora-styled QR code (gold on dark with a center mark):\n\n[Download your styled QR code](sandbox:/mnt/data/luxora_qr_code_styled.png)\n\nIf you want it even more on-brand, I can:\n\u2022 Swap \u201cLX\u201d for your actual logo  \n\u2022 Match your exact hex colors from the site  \n\u2022 Add a subtle gradient or marble texture  \n\u2022 Create a version sized perfectly for business cards or slides  \n\nJust tell me \ud83d\udc4d"
+          ]
+        },
+        "create_time": 1774464299.526686,
+        "id": "ef6b1b2a-51c7-4e77-8f7c-c06f233e3e5d",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "d8311b1e-16b4-41a6-b77d-4eea0fb7a56a"
+        }
+      },
+      "parent": "fbbec3df-9d09-4986-a42a-12b7ac799273"
+    },
+    "fbbec3df-9d09-4986-a42a-12b7ac799273": {
+      "id": "fbbec3df-9d09-4986-a42a-12b7ac799273",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "sure"
+          ]
+        },
+        "create_time": 1774464276.108,
+        "id": "fbbec3df-9d09-4986-a42a-12b7ac799273",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "50ba46be-dc77-41f9-ac5c-842dcc0a1598"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "QR Code Creation",
+  "update_time": 1774464512.952458,
+  "voice": null
+}

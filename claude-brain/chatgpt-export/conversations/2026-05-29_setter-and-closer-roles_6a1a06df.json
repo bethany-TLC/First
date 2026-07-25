@@ -1,0 +1,96 @@
+{
+  "conversation_id": "6a1a06df-2d54-83e8-bc27-de6cad8d50cd",
+  "conversation_template_id": null,
+  "create_time": 1780090602.033833,
+  "current_node": "dcb7e977-dec0-4d97-a128-de7cea240589",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a1a06df-2d54-83e8-bc27-de6cad8d50cd",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "0df024f4-3566-49c2-bd6a-eb1c9bf5e3eb": {
+      "id": "0df024f4-3566-49c2-bd6a-eb1c9bf5e3eb",
+      "message": null,
+      "parent": null
+    },
+    "bbb21684-f0da-4807-bda9-38bf612ae7a3": {
+      "id": "bbb21684-f0da-4807-bda9-38bf612ae7a3",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Rewrite this message to talk about two needs: setters and closers. And how I am very picky on who I ma bringing into the company because I want to grow as a team and the ecosystem matters and I feel aligned with her: I saw your post on the high ticket group and thought I'd reach out. \n\nI own www.theluxoracollective.co and we are a USA based aesthetic growth partner agency. For our setter: we start for the first two weeks to get ramped up and get you onboarded we are requiring a $29 fee for the leads to book a consult call with me (it comes with very helpful freebies for them) that $29 is yours and if they close you get $250. Our closer position (which we are willing to morph quality setters into) is 10% of our $9k package per close and it is an EASY sale. We are also raising our fee to 15k here soon. Our program is exactly what Medspa owners are looking for at an incredible price for our 90day program \ud83d\ude09 Eventually we will be transitioning into a salary based position with commissions for those that fit our Luxora culture and want to become part of the company. But for now we are just starting everyone off on commission to weed out the good from the great.\n\nAre you interested in jumping on a zoom next week and exploring more? \n"
+          ]
+        },
+        "create_time": 1780090601.789024,
+        "id": "bbb21684-f0da-4807-bda9-38bf612ae7a3",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "0df024f4-3566-49c2-bd6a-eb1c9bf5e3eb"
+    },
+    "dcb7e977-dec0-4d97-a128-de7cea240589": {
+      "id": "dcb7e977-dec0-4d97-a128-de7cea240589",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here's a more polished version that emphasizes both setter and closer opportunities, your selectiveness, and the importance of culture and alignment:\n\n:::writing{variant=\"chat_message\" id=\"58214\"}\nHi [Name],\n\nI saw your post in the high-ticket sales group and wanted to reach out because something about your background and energy stood out to me.\n\nI own The Luxora Collective, a U.S.-based growth consulting firm that helps med spa owners scale through revenue strategy, systems, marketing, retention, and operational growth. We're currently expanding our team and have opportunities for both setters and closers.\n\nFor our setter role, we compensate $29 for every qualified consult booked. During the first couple of weeks, we're focused on onboarding, training, and making sure messaging and positioning are dialed in. When a booked appointment closes, the setter also earns an additional $250.\n\nFor our closer role, compensation is 10% of our current $9,000 program, with plans to increase our pricing to $15,000 in the near future. The offer is strong, highly differentiated, and solves real problems med spa owners are actively looking to fix, which makes it a very consultative sales process.\n\nThat said, I'm extremely selective about who I bring into our ecosystem. Skills matter, but culture, integrity, coachability, and alignment matter even more. I'm not looking to build a team of random contractors. I'm looking to build a long-term growth ecosystem of people who genuinely want to grow together, support one another, and help create something special.\n\nAs we continue scaling, there will be opportunities for long-term leadership roles, salary plus commission structures, and greater involvement in the company for the right people. Right now, we start everyone on commission because it allows us to identify those who are truly invested and committed to growing with us.\n\nFrom what I've seen so far, I feel like there may be strong alignment here.\n\nWould you be open to jumping on a Zoom call next week to explore whether this could be a fit for both of us?\n\nLooking forward to connecting.\n\nBethany Gifford\nFounder & CEO\nThe Luxora Collective\n:::\n"
+          ]
+        },
+        "create_time": 1780090601.969435,
+        "id": "dcb7e977-dec0-4d97-a128-de7cea240589",
+        "metadata": {
+          "content_references": [],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Memory",
+                "citation_uuid": "777a1cfc-d91c-4a02-8d42-5bf438a0f8ad",
+                "conversation_context_type": "user_memory",
+                "end_idx": -1,
+                "index": 1,
+                "matched_text": "",
+                "memory_id": "07da9a2f-fb82-4106-ba80-6fde328915f9",
+                "prompt_text": null,
+                "reason": "Your name is Bethany Gifford.",
+                "refs": [],
+                "snippet": "[2025-06-04]. User's name is Bethany Gifford.",
+                "start_idx": -1,
+                "title": "Your name is Bethany Gifford.",
+                "type": "conversation_context_citation",
+                "url": "#settings/Personalization"
+              },
+              "citation_uuid": "777a1cfc-d91c-4a02-8d42-5bf438a0f8ad",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "5371145e-6ee3-43a9-af95-3d5e0006fdf4"
+        }
+      },
+      "parent": "bbb21684-f0da-4807-bda9-38bf612ae7a3"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Setter and Closer Roles",
+  "update_time": 1780090610.803081,
+  "voice": null
+}

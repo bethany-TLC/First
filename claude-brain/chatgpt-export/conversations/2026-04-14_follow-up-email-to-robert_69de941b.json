@@ -1,0 +1,99 @@
+{
+  "conversation_id": "69de941b-2c58-83ea-829b-360992b2ba0d",
+  "conversation_template_id": null,
+  "create_time": 1776194625.609726,
+  "current_node": "98d1d678-702c-4f69-a892-79d62bec1375",
+  "default_model_slug": "gpt-5-3",
+  "id": "69de941b-2c58-83ea-829b-360992b2ba0d",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "98d1d678-702c-4f69-a892-79d62bec1375": {
+      "id": "98d1d678-702c-4f69-a892-79d62bec1375",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ":::writing{variant=\"email\" id=\"58241\" subject=\"Great connecting with you\"}\nHi Robert,\n\nI wanted to follow up after our conversation and just say how much we truly enjoyed connecting with you.\n\nWe are so grateful to have been introduced through \ue200entity\ue202[\"people\",\"Sandra Cook\",\"medspa industry contact\"]\ue201. It was immediately clear how aligned we are not just in business, but in how we both view the future of this industry and the level of professionalism it needs.\n\nWe were incredibly impressed with everything you\u2019ve built, from the full infrastructure and compliance side to the technology and scalability of your platform. It fits so naturally with what we\u2019re doing on the growth and operational side, and it really feels like there is strong potential to create something meaningful together.\n\nWe\u2019re especially excited about the opportunity to collaborate across multiple levels, whether that\u2019s supporting med spas together, building out referral pathways, or integrating both of our models in a way that truly elevates the client experience and results.\n\nLooking forward to continuing the conversation with you and Lisa and exploring how we can bring this to life.\n\nTalk soon,  \nBethany\n:::"
+          ]
+        },
+        "create_time": 1776194625.499561,
+        "id": "98d1d678-702c-4f69-a892-79d62bec1375",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "Sandra Cook",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "medspa industry contact"
+              },
+              "id": null,
+              "metadata": null,
+              "name": "Sandra Cook",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Sandra Cook",
+              "type": "entity"
+            }
+          ],
+          "model_slug": "gpt-5-3",
+          "parent_id": "1c844366-4b06-42cb-8b16-5419f3f3a112"
+        }
+      },
+      "parent": "b97445f2-75b6-4d7a-be76-adcceddadf6c"
+    },
+    "b97445f2-75b6-4d7a-be76-adcceddadf6c": {
+      "id": "b97445f2-75b6-4d7a-be76-adcceddadf6c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "please write robert a follow up email about what we talked about and how excited we are to have meet him through Sandra Cook and we look forwrad to seeing how we can help eeachother grow in this indusrty and collab on many leavels: "
+          ]
+        },
+        "create_time": 1776194625.132,
+        "id": "b97445f2-75b6-4d7a-be76-adcceddadf6c",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_000000007ff871f79cdc559e1c2d8851",
+              "is_big_paste": true,
+              "library_file_id": "libfile_9438fd6a561081918bb65e9652e1b076",
+              "mime_type": "text/plain",
+              "name": "Pasted text(4).txt",
+              "size": 33789,
+              "source": "local"
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Follow-up Email to Robert",
+  "update_time": 1776194663.239924,
+  "voice": null
+}

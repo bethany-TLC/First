@@ -1,0 +1,72 @@
+{
+  "conversation_id": "6a5f80a4-ef00-83ea-b2cb-a2b2a7e706f6",
+  "conversation_template_id": null,
+  "create_time": 1784643756.59378,
+  "current_node": "bd05c296-34f5-49f0-8003-4f31f8f68798",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a5f80a4-ef00-83ea-b2cb-a2b2a7e706f6",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "bbb21cd1-44a3-4d82-aa52-9458674681da": {
+      "id": "bbb21cd1-44a3-4d82-aa52-9458674681da",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "How would you word this different for my Setter to set up a closing call for me? Based on everything you've told me, I think you would be a perfect fit to jump on a call with Bethany. She usually doesn't jump on these pre-calls but given your exceptional situation. I think she would be excited to talk to you specifically about this. "
+          ]
+        },
+        "create_time": 1784643756.204698,
+        "id": "bbb21cd1-44a3-4d82-aa52-9458674681da",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "e9a1c2b1-b98f-4a76-88dc-852252486486"
+    },
+    "bd05c296-34f5-49f0-8003-4f31f8f68798": {
+      "id": "bd05c296-34f5-49f0-8003-4f31f8f68798",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here are a few stronger versions that create more exclusivity without sounding forced.\n\n**Option 1 (my favorite):**\n> Based on everything you've shared with me, I think it makes sense to get you on Bethany's calendar. She doesn't personally take every strategy call, but based on your situation, I think this is one she'd want to be involved in. I'd love to set up some time for the two of you to dive deeper into your practice and map out what this could look like.\n\n**Option 2 (more consultative):**\n> From everything you've told me today, I think you'd really benefit from speaking directly with Bethany. She typically reserves her time for practices where she feels she can make the biggest impact, and I believe your situation fits that. I'd like to get a Growth Strategy Session on the calendar so the two of you can take a deeper look at your business and determine the best path forward.\n\n**Option 3 (more exclusive):**\n> Based on what I've learned today, I think you're exactly the kind of practice Bethany likes to work with personally. She doesn't jump on every Growth Strategy Session, but I think your practice presents an opportunity she'd be genuinely interested in discussing. Let's find a time that works for both of you so she can walk through your practice with you and outline what she'd recommend.\n\nOne suggestion: I would avoid saying **\"given your exceptional situation.\"** It can sound vague or insincere unless you've clearly identified something truly unique.\n\nInstead, tie it to something specific they shared:\n- \"...based on your growth goals...\"\n- \"...based on the stage your practice is in...\"\n- \"...based on the challenges you're facing...\"\n- \"...because of what you're looking to accomplish over the next 12 months...\"\n\nThat makes the invitation feel personalized and credible rather than generic."
+          ]
+        },
+        "create_time": 1784643756.522761,
+        "id": "bd05c296-34f5-49f0-8003-4f31f8f68798",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "707c7548-9f11-42cb-a5fc-18d7fec996b3"
+        }
+      },
+      "parent": "bbb21cd1-44a3-4d82-aa52-9458674681da"
+    },
+    "e9a1c2b1-b98f-4a76-88dc-852252486486": {
+      "id": "e9a1c2b1-b98f-4a76-88dc-852252486486",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Closing Call Wording Suggestions",
+  "update_time": 1784643763.05424,
+  "voice": null
+}

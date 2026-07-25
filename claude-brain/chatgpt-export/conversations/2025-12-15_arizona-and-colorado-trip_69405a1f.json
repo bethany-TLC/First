@@ -1,0 +1,116 @@
+{
+  "conversation_id": "69405a1f-90c0-832f-a6f0-6a8eefd5b7eb",
+  "conversation_template_id": null,
+  "create_time": 1765825073.864998,
+  "current_node": "59bff897-662d-4493-999f-62fb7d348b63",
+  "default_model_slug": "gpt-5-2",
+  "id": "69405a1f-90c0-832f-a6f0-6a8eefd5b7eb",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "3c1b8cb2-7c09-4d51-9d84-70aeeac9619d": {
+      "id": "3c1b8cb2-7c09-4d51-9d84-70aeeac9619d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Headed west with a full heart \ud83e\udd0d  \n\nArizona first to celebrate a huge milestone as my niece graduates from GCU. Watching the next generation step into their lives never gets old. Proud does not even begin to cover it.  \n\nThen it is off to Colorado for an early Christmas with my Hotchkiss family. Cold air, familiar faces, long conversations, laughter that carries, and that quiet kind of joy that only family brings.  \n\nGrateful for seasons like this. For pauses that remind you what really matters. For love that spans states, years, and chapters of life.  \n\nHere is to celebrating wins, gathering early, and soaking up every moment along the way \u2728"
+          ]
+        },
+        "create_time": 1765825073.723494,
+        "id": "3c1b8cb2-7c09-4d51-9d84-70aeeac9619d",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "b4492fee-1fac-45fa-8a8a-20c56936ad25"
+        }
+      },
+      "parent": "bbb21f49-abe3-4441-8ed8-cf1ae6b25f1b"
+    },
+    "59bff897-662d-4493-999f-62fb7d348b63": {
+      "id": "59bff897-662d-4493-999f-62fb7d348b63",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Headed west with a full heart \ud83e\udd0d  \n\nArizona first to celebrate a huge milestone as my niece graduated from GCU. Watching the next generation step into their lives never gets old. Proud does not even begin to cover it.  \n\nThen it was off to Colorado for an early Christmas with my Hotchkiss family. Cold air, familiar faces, long conversations, laughter that carried, and that quiet kind of joy that only family brings.  \n\nGrateful for seasons like this. For pauses that reminded me what really matters. For love that spans states, years, and chapters of life.  \n\nHere is to celebrating wins, gathering early, and soaking up every moment along the way \u2728"
+          ]
+        },
+        "create_time": 1765825089.341552,
+        "id": "59bff897-662d-4493-999f-62fb7d348b63",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "0c842492-4f7e-45ac-9b57-4eb5010b4828"
+        }
+      },
+      "parent": "bbb21749-4047-40a3-bfcf-d5e47ae06815"
+    },
+    "5cf07c57-010f-4ba8-acb2-841dbd57477d": {
+      "id": "5cf07c57-010f-4ba8-acb2-841dbd57477d",
+      "message": null,
+      "parent": null
+    },
+    "bbb21749-4047-40a3-bfcf-d5e47ae06815": {
+      "id": "bbb21749-4047-40a3-bfcf-d5e47ae06815",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Past tense"
+          ]
+        },
+        "create_time": 1765825089.193791,
+        "id": "bbb21749-4047-40a3-bfcf-d5e47ae06815",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "3c1b8cb2-7c09-4d51-9d84-70aeeac9619d"
+    },
+    "bbb21f49-abe3-4441-8ed8-cf1ae6b25f1b": {
+      "id": "bbb21f49-abe3-4441-8ed8-cf1ae6b25f1b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write a post about headed to Arizona to see my niece graduate college at GCU and then going to Colorado for an early Christmas with my Hotchkiss family. "
+          ]
+        },
+        "create_time": 1765825073.552366,
+        "id": "bbb21f49-abe3-4441-8ed8-cf1ae6b25f1b",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "5cf07c57-010f-4ba8-acb2-841dbd57477d"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Arizona and Colorado trip",
+  "update_time": 1765825093.557513,
+  "voice": null
+}

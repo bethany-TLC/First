@@ -1,0 +1,49 @@
+{
+  "conversation_id": "69d6ae24-e830-8330-a51e-1975d02d1193",
+  "conversation_template_id": null,
+  "create_time": 1775676976.759598,
+  "current_node": "8e1c8217-a66d-4512-a6cc-e638096bc501",
+  "default_model_slug": "gpt-5-3",
+  "id": "69d6ae24-e830-8330-a51e-1975d02d1193",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "8e1c8217-a66d-4512-a6cc-e638096bc501": {
+      "id": "8e1c8217-a66d-4512-a6cc-e638096bc501",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "creat a sign that says: Medspa needed for photoshoot"
+          ]
+        },
+        "create_time": 1775676976.325,
+        "id": "8e1c8217-a66d-4512-a6cc-e638096bc501",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Medspa Photoshoot Sign",
+  "update_time": 1775677002.845859,
+  "voice": null
+}

@@ -1,0 +1,167 @@
+{
+  "conversation_id": "6a3172e4-c934-83e8-bf6f-fdeed9012890",
+  "conversation_template_id": "g-692f3f2cb8948191b13c1447460d8749",
+  "create_time": 1781625573.923029,
+  "current_node": "2a695015-de2e-47c0-93ef-8c37861f2eaa",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a3172e4-c934-83e8-bf6f-fdeed9012890",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "10f26047-1431-4ac4-8362-1efe2170b44a": {
+      "id": "10f26047-1431-4ac4-8362-1efe2170b44a",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Build my full sales script"
+          ]
+        },
+        "create_time": 1781625572.841,
+        "id": "10f26047-1431-4ac4-8362-1efe2170b44a"
+      },
+      "parent": "client-created-root"
+    },
+    "2a695015-de2e-47c0-93ef-8c37861f2eaa": {
+      "id": "2a695015-de2e-47c0-93ef-8c37861f2eaa",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "I can build it, but the framework requires information specific to your offer. The knowledge base is clear that the script must be customized to your business and prospect, not generic. \ue200filecite\ue202turn0file6\ue202L74-L83\ue201\n\nAnswer these questions and I'll write the complete RAPPORT \u2192 FRAME \u2192 PAIN \u2192 DISCOVERY \u2192 PITCH script in the exact format:\n\n### Business & Offer\n1. What do you sell?\n2. Who is your ideal client?\n3. What is the main outcome/result you help them achieve?\n4. How long is your program/service?\n5. What is your price?\n6. Do you offer payment plans?\n\n### Current Results\n7. What results have you personally achieved?\n8. What client results/case studies do you have?\n9. How many clients have you worked with?\n\n### Unique Mechanism\n10. What are the 3\u20135 main pillars of your process?\n    - Pillar 1:\n    - Pillar 2:\n    - Pillar 3:\n    - Pillar 4:\n    - Pillar 5:\n\n### Delivery\n11. How is your program delivered?\n    - 1:1 calls?\n    - Group calls?\n    - Slack/Discord?\n    - Course?\n    - Done-for-you?\n    - Hybrid?\n\n### Prospect Type\n12. Who will be getting on these sales calls?\n    - Agency owners?\n    - Coaches?\n    - Local businesses?\n    - SaaS founders?\n    - E-commerce brands?\n    - Other?\n\n### Positioning\n13. What makes your offer different from alternatives?\n14. What are the most common objections you hear?\n15. What is the biggest problem prospects typically come to you with?\n\nOnce you answer those 15 questions, I'll build the complete sales script following the Limitless RFPDP structure (Rapport, Frame, Pain, Discovery, Pitch, Delivery, and Close) based on the template and standards in the sales script documents. \ue200filecite\ue202turn0file4\ue202L130-L176\ue201 \ue200filecite\ue202turn0file6\ue202L86-L101\ue201"
+          ]
+        },
+        "create_time": 1781625573.824059,
+        "id": "2a695015-de2e-47c0-93ef-8c37861f2eaa",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": null,
+              "cloud_doc_url": "",
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_00000000ede871fd9c03095ea05f6b14",
+              "input_pointer": {
+                "file_index": 6,
+                "line_range_end": 83,
+                "line_range_start": 74,
+                "message_id": "e02b0cff-8092-405d-9aff-2ecbb69f532a",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "KB_06_Sales_Script.docx.pdf",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            },
+            {
+              "alt": null,
+              "cloud_doc_url": null,
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_00000000db2871f8a11baea059752d50",
+              "input_pointer": {
+                "file_index": 4,
+                "line_range_end": 176,
+                "line_range_start": 130,
+                "message_id": "da20d4c5-ea3a-47bd-a7da-015b4927d715",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "6 _ Sales Script.pdf",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            },
+            {
+              "alt": null,
+              "cloud_doc_url": "",
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_00000000ede871fd9c03095ea05f6b14",
+              "input_pointer": {
+                "file_index": 6,
+                "line_range_end": 101,
+                "line_range_start": 86,
+                "message_id": "e02b0cff-8092-405d-9aff-2ecbb69f532a",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "KB_06_Sales_Script.docx.pdf",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "830e6d18-a199-44ef-a02b-3664ef904f17"
+        }
+      },
+      "parent": "10f26047-1431-4ac4-8362-1efe2170b44a"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Sales Script Customization",
+  "update_time": 1781625589.091771,
+  "voice": null
+}

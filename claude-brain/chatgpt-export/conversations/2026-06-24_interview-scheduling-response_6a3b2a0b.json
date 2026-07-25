@@ -1,0 +1,207 @@
+{
+  "conversation_id": "6a3b2a0b-b970-83e8-be22-dc1c32ddcdda",
+  "conversation_template_id": null,
+  "create_time": 1782262326.474693,
+  "current_node": "fa6e6f71-4c21-4f19-8d22-1581aa1df2e4",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a3b2a0b-b970-83e8-be22-dc1c32ddcdda",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "3143b1c5-7db0-41b3-9acb-455512d32df3": {
+      "id": "3143b1c5-7db0-41b3-9acb-455512d32df3",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Hi Jenna,\n\nThank you so much for your thoughtful email.\n\nWe truly appreciate the time you've invested in getting to know our company, and we're excited to continue the conversation. Your background in aesthetics, sales, and business ownership is exactly the type of experience that allows someone to connect deeply with the clients we serve, and we can see how your skill set could bring tremendous value to our team.\n\nOur assistant, Aanchal, will be reaching out shortly to get"
+          ]
+        },
+        "create_time": 1782262326.414788,
+        "id": "3143b1c5-7db0-41b3-9acb-455512d32df3",
+        "metadata": {
+          "content_references": [],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Past chat",
+                "citation_uuid": "ec15ce37-bcc8-46c4-96c7-724c221a0c93",
+                "conversation_context_type": "past_conversation",
+                "conversation_title": "Excited to Join Team",
+                "end_idx": -1,
+                "index": 25,
+                "matched_text": "",
+                "prompt_text": null,
+                "pub_date": 1781563842.389282,
+                "reason": null,
+                "refs": [],
+                "snippet": "I truly believe my background in aesthetics, sales, and business ownership allows me to connect with the clients you serve while helping move the company forward.",
+                "start_idx": -1,
+                "title": "Excited to Join Team",
+                "type": "conversation_context_citation",
+                "url": "/c/6a3081b5-2108-83e8-ad75-4d36a8d50d76"
+              },
+              "citation_uuid": "ec15ce37-bcc8-46c4-96c7-724c221a0c93",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "3b18a5ba-ddbe-4401-a68f-9690fb97ca5f"
+        }
+      },
+      "parent": "bbb212bf-8649-42fd-8f80-0af8bdbb0250"
+    },
+    "bbb211dd-eccf-4dec-b303-2d05e7b3eb57": {
+      "id": "bbb211dd-eccf-4dec-b303-2d05e7b3eb57",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_000000006fec722facbc03b0b9375994",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 2244,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 151885,
+              "width": 1008
+            }
+          ]
+        },
+        "create_time": 1782262335.616547,
+        "id": "bbb211dd-eccf-4dec-b303-2d05e7b3eb57",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_000000006fec722facbc03b0b9375994",
+              "mime_type": "image/png",
+              "name": "1000020229.png",
+              "size": 151885
+            }
+          ],
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "bbb212bf-8649-42fd-8f80-0af8bdbb0250"
+    },
+    "bbb212bf-8649-42fd-8f80-0af8bdbb0250": {
+      "id": "bbb212bf-8649-42fd-8f80-0af8bdbb0250",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Respond to her. She is trying to interview with us as becoming our closer. Please let her know that my assistant Aanchal will be reaching out To get her scheduled for an interview this week. Really looking forward to connecting soon. "
+          ]
+        },
+        "create_time": 1782262326.081308,
+        "id": "bbb212bf-8649-42fd-8f80-0af8bdbb0250",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "f48d03f1-aef5-4c2a-93f9-2dfef7d65d5d"
+    },
+    "f48d03f1-aef5-4c2a-93f9-2dfef7d65d5d": {
+      "id": "f48d03f1-aef5-4c2a-93f9-2dfef7d65d5d",
+      "message": null,
+      "parent": null
+    },
+    "fa6e6f71-4c21-4f19-8d22-1581aa1df2e4": {
+      "id": "fa6e6f71-4c21-4f19-8d22-1581aa1df2e4",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Subject: Re: Application for Closer Position\n\nHi Arlene,\n\nThank you so much for sending over your information, resume, and Loom video. I appreciate you taking the time to introduce yourself and share more about your background.\n\nFrom what I've seen so far, your experience is impressive, and I'm looking forward to learning more about you and your sales journey.\n\nMy assistant, Aanchal, will be reaching out shortly to get you scheduled for an interview with our team sometime this week. We're excited to connect, discuss the opportunity in more detail, and see if there's a strong mutual fit.\n\nThank you again for your interest in joining The Luxora Collective. I look forward to speaking with you soon.\n\nWarmly,\n\nBethany Gifford  \nFounder & CEO  \nThe Luxora Collective  \nGrowth Partners for Med Spa Owners Ready to Scale  \n\ue200url\ue202The Luxora Collective\ue202https://theluxoracollective.co\ue201"
+          ]
+        },
+        "create_time": 1782262335.839338,
+        "id": "fa6e6f71-4c21-4f19-8d22-1581aa1df2e4",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "[The Luxora Collective](https://theluxoracollective.co?utm_source=chatgpt.com)",
+              "logo": null,
+              "prefix": null,
+              "prompt_text": "[The Luxora Collective](https://theluxoracollective.co?utm_source=chatgpt.com)",
+              "title": "The Luxora Collective",
+              "type": "url"
+            }
+          ],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Memory",
+                "citation_uuid": "c847a0d7-ab28-4897-af25-fb41a9569f06",
+                "conversation_context_type": "general_memory",
+                "end_idx": -1,
+                "index": 3,
+                "matched_text": "",
+                "prompt_text": null,
+                "reason": "Your assistant is named Aanchal and supports scheduling.",
+                "refs": [],
+                "snippet": "Aanchal \u2014 Assistant; tasked to email new setter",
+                "start_idx": -1,
+                "title": "Your assistant is named Aanchal and supports scheduling.",
+                "type": "conversation_context_citation",
+                "url": "#settings/Personalization"
+              },
+              "citation_uuid": "c847a0d7-ab28-4897-af25-fb41a9569f06",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "d7c693e6-b7cf-4ad9-bb41-48de54a09465"
+        }
+      },
+      "parent": "bbb211dd-eccf-4dec-b303-2d05e7b3eb57"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Interview Scheduling Response",
+  "update_time": 1782262340.813734,
+  "voice": null
+}

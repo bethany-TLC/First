@@ -1,0 +1,116 @@
+{
+  "conversation_id": "69cfb520-1fd0-832b-929c-85cc1884619b",
+  "conversation_template_id": null,
+  "create_time": 1775220011.886991,
+  "current_node": "718be3bd-7490-4c5e-b03a-f10da24b89cc",
+  "default_model_slug": "gpt-5-3",
+  "id": "69cfb520-1fd0-832b-929c-85cc1884619b",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "34789c16-89d5-4456-9b4d-6b58d02097e1": {
+      "id": "34789c16-89d5-4456-9b4d-6b58d02097e1",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a clean, personal follow-up email from you that feels natural, warm, and leadership-level while still nudging her forward:\n\n---\n\n**Subject:** Quick follow-up + any questions?\n\nHi Jeannine,\n\nI\u2019ve been thinking about our conversation a couple of days ago and just wanted to check in with you.\n\nDo you have any questions or anything that\u2019s come up since we last spoke?\n\nI know you mentioned wanting to take a little time to think things through, and I want to make sure you feel completely clear and confident in whatever you decide. I\u2019m happy to walk back through anything with you, whether that\u2019s the strategy, the process of getting started, or just talking through what this would look like for you specifically.\n\nIf it\u2019s helpful, I\u2019d love to jump on another quick call with you. I have some availability today, or we can reconnect Monday if that works better for you.\n\nJust let me know what feels easiest.\n\nLooking forward to hearing your thoughts,  \nBethany\n\n---\n\nIf you want, I can also make a slightly more assertive version that pushes her toward a decision while still feeling supportive."
+          ]
+        },
+        "create_time": 1775220011.720013,
+        "id": "34789c16-89d5-4456-9b4d-6b58d02097e1",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "74a470f4-8928-4439-9493-81c18de71945"
+        }
+      },
+      "parent": "bbb210f5-d04a-46d5-89d8-57f99dfb7846"
+    },
+    "718be3bd-7490-4c5e-b03a-f10da24b89cc": {
+      "id": "718be3bd-7490-4c5e-b03a-f10da24b89cc",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a slightly more assertive version that still feels like you, but moves her toward action:\n\n---\n\n**Subject:** Quick follow-up + next steps\n\nHi Jeannine,\n\nI wanted to follow up after our conversation the other day and see what questions or thoughts have come up on your end.\n\nBased on everything you shared, I genuinely believe there\u2019s a really clear opportunity here to unlock a significant amount of revenue in your business without adding more to your plate. It\u2019s really just about putting the right systems in place and tightening a few key areas.\n\nThat said, I want to make sure you feel fully confident moving forward.\n\nIf it would help, I\u2019d love to get back on a quick call with you to walk through anything that still feels unclear, go deeper into how we\u2019d implement this for you specifically, or map out exactly what getting started would look like.\n\nI have some time today, or we can connect Monday, whichever works best for you.\n\nIf you\u2019re already feeling ready, I\u2019m happy to get everything moving for you right away as well.\n\nJust let me know what feels right.\n\nTalk soon,  \nBethany\n\n---\n\nIf you want an even stronger \u201cclose the deal\u201d version, I can write one that subtly creates urgency without feeling pushy."
+          ]
+        },
+        "create_time": 1775220063.477582,
+        "id": "718be3bd-7490-4c5e-b03a-f10da24b89cc",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "bbb21076-9765-43b1-8f9f-966bf7222088"
+        }
+      },
+      "parent": "bbb21076-9765-43b1-8f9f-966bf7222088"
+    },
+    "915a048b-0345-4d05-b4e5-292064ee76d7": {
+      "id": "915a048b-0345-4d05-b4e5-292064ee76d7",
+      "message": null,
+      "parent": null
+    },
+    "bbb21076-9765-43b1-8f9f-966bf7222088": {
+      "id": "bbb21076-9765-43b1-8f9f-966bf7222088",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Sure"
+          ]
+        },
+        "create_time": 1775220062.51806,
+        "id": "bbb21076-9765-43b1-8f9f-966bf7222088",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "34789c16-89d5-4456-9b4d-6b58d02097e1"
+    },
+    "bbb210f5-d04a-46d5-89d8-57f99dfb7846": {
+      "id": "bbb210f5-d04a-46d5-89d8-57f99dfb7846",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Create an email coming from me personally to Jeannine asking her if she has any questions about or call two days ago and I'd love to jump another call with her either today or Monday to go over any questions, consurens that have come up or if she'd like me to walk he through the whole process of getting started: please send this to her and BCC all of us on the team so we can track her responses but she doesnt know we are in on the email\nSubject\nHi\u00a0Jeannine,\nIt was so great meeting you today. I\u2019m Bethany\u2019s assistant, Aanchal, and I just wanted to follow up and send over everything you both walked through on the call.\nFirst, I just want to say Bethany genuinely loved your story and everything you\u2019ve built. You\u2019ve created something really special, and there\u2019s a lot of opportunity already sitting inside your business without needing to overhaul everything.\nI know you mentioned wanting to take a little time to think things through and connect with your husband, so I wanted to make this as clear and easy as possible for you.\nHere\u2019s a quick recap along with everything promised:\n**1. Your Biggest Opportunity (Quick Recap)**From what Bethany shared, this isn\u2019t a marketing problem.You already have strong demand, great close rates, and real trust in your community.\nThe biggest opportunity is in:\n- Capturing and nurturing the leads you\u2019re already getting\n- Fixing follow-up gaps (this alone can unlock a significant amount of revenue)\n- Building systems so everything doesn\u2019t rely on you\n- Increasing lifetime value and visit frequency without adding more to your plate\n\nThat\u2019s exactly what this program is designed to fix.\n**2. What Happens When You Get Started**\nWithin the first week:\n- Full\u00a0**Market Blueprint**\u00a0tailored to your area\n- Complete\u00a0**audit of Growth99, Zenoti, and your current systems**\n- Initial\u00a0**AI follow-up + retargeting setup**\u00a0begins\n\nWithin ~2 weeks:\n- Retargeting campaigns go live (this is often where clients see immediate ROI)\n- CRM + AI workflows fully integrated (our team handles this with you)\n\nFrom there:\n- A clear 90-day roadmap customized to your business\n- Bi-weekly strategy calls with Bethany\n- Ongoing support via Slack so you always have direct access\n\n**3. A Few Things You Asked About**\n- **Growth99 / Zenoti**Nothing changes upfront. We audit first, then guide you based on what actually makes sense.\n- **AI nurturing + follow-ups**These are implemented early in the process, not later.\n- **Hiring**No need to hire right away. We focus on filling your current capacity first, then guide expansion when the timing is right.\n- **Social media**You\u2019re actually in a stronger position than you think. We\u2019ll show you how to make what you\u2019re already doing drive revenue.\n\n**4. Investment**\n- Paid in full: $9,000 (90 days)\n- Or 2 payments: $4,975\n\nAs Bethany mentioned, we guarantee at least\u00a0**2x return in lifetime client value**\u00a0within the 90 days. If that\u2019s not achieved, we continue working with you at no cost until it is.\n**5. Next Steps**\nWhen you\u2019re ready, you can get started here:[https://go.theluxoracollective.co/the-luxora-growth-engine](https://go.theluxoracollective.co/the-luxora-growth-engine)\nOnce you\u2019re in:\n- You\u2019ll schedule your kickoff call with Bethany\n- We\u2019ll begin your Market Blueprint right away\n- And start building everything out step-by-step with you\n\nAlso, here\u2019s the resource Bethany mentioned on the call:**Profit Between Appointments (101 ways to generate revenue during downtime)**[https://theluxoracollective.co/profit-between-appointments/](https://theluxoracollective.co/profit-between-appointments/)\nThis is a great place to start implementing a few quick wins right away.\nIf any questions come up while you\u2019re thinking things through, feel free to reply here or text me directly. I\u2019m happy to help with anything you need.\nWe\u2019re really excited about what this could look like for you.\nTalk soon,Aanchal\n--\nimage.png\nBethany AnneCo-Founder & CEO | The Luxora CollectiveGrowth Partners for Med Spa Owners Ready to Scale\ud83d\udce7\u00a0bethany@theluxoracollective.co\ud83c\udf10[www.theluxoracollective.co](http://www.theluxoracollective.co/)[image.png](https://www.instagram.com/theluxoracollective.co/)\u00a0\u00a0[image.png](https://www.facebook.com/theluxoracollective.co)\u00a0\u00a0[image.png](https://www.linkedin.com/in/bethany-anne-hotchkiss/)When your med spa operates at its highest level,\u00a0you create an impact that ripples through\u00a0your entire community.\nhere is the subject line:\u00a0Next Steps to Join us at The Luxora Collective + Everything We Walked Through\nShow quoted text\nGot it! Will send it over.\nShow quoted text"
+          ]
+        },
+        "create_time": 1775220011.494945,
+        "id": "bbb210f5-d04a-46d5-89d8-57f99dfb7846",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "915a048b-0345-4d05-b4e5-292064ee76d7"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Follow-up Email Draft",
+  "update_time": 1775220072.190076,
+  "voice": null
+}

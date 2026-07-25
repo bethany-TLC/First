@@ -1,0 +1,71 @@
+{
+  "conversation_id": "68ef1157-2cbc-8327-9b56-d4893bd59adc",
+  "conversation_template_id": null,
+  "create_time": 1760498009.897905,
+  "current_node": "a6297e62-b069-4422-8cf1-49278f2962f3",
+  "default_model_slug": "gpt-5",
+  "id": "68ef1157-2cbc-8327-9b56-d4893bd59adc",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "74a84304-1fa4-4b5e-861f-85d8d7605162": {
+      "id": "74a84304-1fa4-4b5e-861f-85d8d7605162",
+      "message": null,
+      "parent": null
+    },
+    "a6297e62-b069-4422-8cf1-49278f2962f3": {
+      "id": "a6297e62-b069-4422-8cf1-49278f2962f3",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Got it. Here\u2019s how you can reply to Lu and give him a strong, **results-driven headline example** for medspas that aligns with your brand and positioning:  \n\n---\n\n**Option 1 \u2013 General Medspa Growth Focus**  \n\u201cI help medical spas attract 60+ new paying clients and increase monthly revenue by $50K within 90 days using AI-powered marketing systems.\u201d  \n\n**Option 2 \u2013 Premium Positioning Angle**  \n\u201cI help medical spas scale to consistent $100K+ months by automating lead generation, client follow-up, and retention.\u201d  \n\n**Option 3 \u2013 ROI-Specific Variant**  \n\u201cI help aesthetic practices achieve a 5x ROI through intelligent client acquisition and conversion automation.\u201d  \n\n**Option 4 \u2013 Wellness Expansion (if you\u2019re targeting HRT/wellness crossover)**  \n\u201cI help medspas expand into wellness and hormone optimization with turnkey marketing systems that generate 40\u201360 qualified leads per month.\u201d  \n\n---\n\nWould you like me to tailor one specifically around **your Fully Booked CRM\u2122** or **New Era Intel** brand voice (so it reads like something *you\u2019d* say on camera)?"
+          ]
+        },
+        "create_time": 1760498009.727615,
+        "id": "a6297e62-b069-4422-8cf1-49278f2962f3",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "b7af8197-0763-4abd-a708-d5c0c1dc8389"
+        }
+      },
+      "parent": "bbb21902-b40f-4dbe-939c-d2dc0b768ace"
+    },
+    "bbb21902-b40f-4dbe-939c-d2dc0b768ace": {
+      "id": "bbb21902-b40f-4dbe-939c-d2dc0b768ace",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "time tomorrow to get plugged back in\n\nNew\n\n6:21 PM\n\nLu\n\nHey Bethany, for your Loom\n\nwhat's a results driven Headline for Medspas that you'd like me to use as an example?\n\nFor example, I'm in cybersecurity\n\n\"I help Cybersecurity agencies increase their revenue by $500k in 12m\"\n\n7 external people are from AlterAim"
+          ]
+        },
+        "create_time": 1760498009.570171,
+        "id": "bbb21902-b40f-4dbe-939c-d2dc0b768ace",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "74a84304-1fa4-4b5e-861f-85d8d7605162"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Medspa headline examples",
+  "update_time": 1760498019.824995,
+  "voice": null
+}

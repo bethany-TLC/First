@@ -1,0 +1,71 @@
+{
+  "conversation_id": "68b1a006-95e8-8332-a770-34027c0b42a4",
+  "conversation_template_id": null,
+  "create_time": 1756471379.03016,
+  "current_node": "be9b3831-64c0-4357-83e0-2cb0866e08b1",
+  "default_model_slug": "auto",
+  "id": "68b1a006-95e8-8332-a770-34027c0b42a4",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "bbb2106b-0581-4b6b-b642-8c505f6d417c": {
+      "id": "bbb2106b-0581-4b6b-b642-8c505f6d417c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write a heartfelt post about having the privilege of being a part of Eli house and getting to experience these girls transformations and healing. About how God is working through this home and pouring life into those that need God's love. "
+          ]
+        },
+        "create_time": 1756471378.788621,
+        "id": "bbb2106b-0581-4b6b-b642-8c505f6d417c",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "d6f7f902-d35c-42c9-9081-349ca8083bd3"
+    },
+    "be9b3831-64c0-4357-83e0-2cb0866e08b1": {
+      "id": "be9b3831-64c0-4357-83e0-2cb0866e08b1",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a heartfelt draft for your post:  \n\n---\n\nI am so grateful for the privilege of being part of Eli House and witnessing the incredible transformations that are happening within these walls. To see these girls not only begin to heal, but to truly flourish, is one of the most beautiful reminders of God\u2019s love in action.  \n\nThis home is more than a shelter\u2014it is a place where brokenness is met with grace, where wounds are met with compassion, and where God\u2019s love pours life back into hearts that desperately need it. Every smile, every step forward, and every moment of healing is a testimony that He is moving here.  \n\nI am humbled to see what only He can do\u2014restoring hope, building strength, and writing new stories of redemption. Being part of this journey is a blessing I will never take for granted.  \n\n---  \n\nDo you want me to make it more personal to *your* role in Eli House (like \u201cI get to sit with them, listen, and walk alongside them\u201d), or keep it more general and reflective like this?"
+          ]
+        },
+        "create_time": 1756471378.93455,
+        "id": "be9b3831-64c0-4357-83e0-2cb0866e08b1",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "052cabfc-d8c9-4c0f-abb1-43810ada050e"
+        }
+      },
+      "parent": "bbb2106b-0581-4b6b-b642-8c505f6d417c"
+    },
+    "d6f7f902-d35c-42c9-9081-349ca8083bd3": {
+      "id": "d6f7f902-d35c-42c9-9081-349ca8083bd3",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Heartfelt post draft",
+  "update_time": 1756471384.830171,
+  "voice": null
+}

@@ -1,0 +1,129 @@
+{
+  "conversation_id": "69e29d09-f2e4-83ea-ad9f-f4d54e864c52",
+  "conversation_template_id": null,
+  "create_time": 1776459021.739379,
+  "current_node": "8894fa0a-111f-4c72-8fc6-d402be5f6abe",
+  "default_model_slug": "gpt-5-3",
+  "id": "69e29d09-f2e4-83ea-ad9f-f4d54e864c52",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "0c57b2e0-048b-456a-b7c9-91b715f22c8f": {
+      "id": "0c57b2e0-048b-456a-b7c9-91b715f22c8f",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "yes"
+          ]
+        },
+        "create_time": 1776459520.757,
+        "id": "0c57b2e0-048b-456a-b7c9-91b715f22c8f",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "25489d28-47c1-4391-b16a-7ac5993f6f5a"
+    },
+    "25489d28-47c1-4391-b16a-7ac5993f6f5a": {
+      "id": "25489d28-47c1-4391-b16a-7ac5993f6f5a",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a clean, simple summary you can send to Jacques:\n\n---\n\nHey, I just had a really interesting call with a guy named Jesse and I want to loop you in because this could be big on the B2B side for us.\n\nHe\u2019s built a system that basically replaces all the broken LinkedIn outreach tools. Instead of using platforms like HeyReach or Prosp (which we already know don\u2019t work consistently), he uses dedicated phones that act like real humans doing outreach 24/7. So it\u2019s not a bot in the traditional sense. It actually logs into LinkedIn, connects, messages, follows up, and even engages with content in a way that avoids detection and keeps accounts safe.\n\nWhat stood out is:\n- It does true 1:1 personalized outreach at scale  \n- It runs continuously without needing a VA or manual effort  \n- It can integrate with our current systems (GHL, Instantly, Apollo lists, etc.)  \n- It works especially well when paired with existing funnels, ads, and leads  \n\nWhere this gets really interesting for us is B2B.\n\nThis would allow us to:\n- Consistently connect with med spa owners, PE firms, skincare brands, device companies, etc.  \n- Layer LinkedIn outreach on top of our cold email + ads  \n- Re-engage leads who hit our funnel but don\u2019t book  \n- Build real partnerships and deal flow, not just leads  \n\nIt basically fills the gap we\u2019ve been talking about. We can post content all day, but this actually creates conversations.\n\nHe\u2019s still early with it and looking to test with a few people, but it\u2019s already working on his end and it\u2019s honestly the first LinkedIn solution I\u2019ve seen that makes sense.\n\nI think this is 100% something you need to see because it\u2019s more in your world than mine, especially with how it could plug into everything you\u2019ve been building on the backend.\n\nDo you want to jump on a call with him next week and just explore how this could fit into our system?\n\n---\n\nIf you want, I can tighten this into a Slack version or make it more technical for Jacques."
+          ]
+        },
+        "create_time": 1776459021.63296,
+        "id": "25489d28-47c1-4391-b16a-7ac5993f6f5a",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "d2d55d32-64f7-41e0-bd0e-77387264e26e"
+        }
+      },
+      "parent": "799d16b7-5a04-49fd-ac58-18ac88d3ba17"
+    },
+    "799d16b7-5a04-49fd-ac58-18ac88d3ba17": {
+      "id": "799d16b7-5a04-49fd-ac58-18ac88d3ba17",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "sumerize this convo so i can tell jacques abou twhat Jesse has cretaed and ask him if he wants to jump on a call with him next week. talk about the b2b possiblities. "
+          ]
+        },
+        "create_time": 1776459021.136,
+        "id": "799d16b7-5a04-49fd-ac58-18ac88d3ba17",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_000000002ec071fd9294279eff9726a6",
+              "is_big_paste": true,
+              "library_file_id": "libfile_1a07c2d399ac81919abaa33c3773f645",
+              "mime_type": "text/plain",
+              "name": "Pasted text(15).txt",
+              "size": 46819,
+              "source": "local"
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "8894fa0a-111f-4c72-8fc6-d402be5f6abe": {
+      "id": "8894fa0a-111f-4c72-8fc6-d402be5f6abe",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Perfect, here\u2019s a tighter, more \u201cJacques-style\u201d version you can drop in Slack:\n\n---\n\nHey, I just got off a call with a guy named Jesse and I want you on a call with him next week. This is very much in your lane.\n\nHe built a LinkedIn outreach system that replaces tools like Prosp / HeyReach. Instead of browser-based automation (which keeps breaking), it runs through dedicated phones acting like real users. So it\u2019s not a typical bot. It handles connection requests, personalized messaging, follow-ups, and light engagement continuously without triggering platform issues.\n\nKey points:\n- True 1:1 personalized outreach at scale (not templated spam)\n- Runs 24/7 without VAs or manual intervention\n- Can plug into Apollo + Instantly + GHL\n- Can also loop back and re-engage leads from our funnels who didn\u2019t convert\n\nWhy I think this matters for us:\nThis solves our B2B gap.\n\nWe could use it to:\n- Consistently connect with med spa owners (our ICP)\n- Build partnerships with skincare, devices, peptides, etc.\n- Layer on top of email + ads for multi-touch outreach\n- Recycle warm leads who didn\u2019t book into LinkedIn conversations\n\nIt\u2019s basically the missing piece between traffic and actual conversations.\n\nHe\u2019s early and testing it with a few people, but it\u2019s already working on his side. From what I can tell, this isn\u2019t something we currently have or anything you\u2019ve built yet.\n\nWould you be open to jumping on a call with him next week to break it down and see how it could integrate with what you\u2019re building?\n\n---\n\nIf you want, I can also add a more technical section depending on how deep you want to go with him."
+          ]
+        },
+        "create_time": 1776459521.15742,
+        "id": "8894fa0a-111f-4c72-8fc6-d402be5f6abe",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "0c57b2e0-048b-456a-b7c9-91b715f22c8f"
+        }
+      },
+      "parent": "0c57b2e0-048b-456a-b7c9-91b715f22c8f"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "B2B Outreach Opportunities",
+  "update_time": 1776459609.39705,
+  "voice": null
+}

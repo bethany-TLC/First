@@ -1,0 +1,117 @@
+{
+  "conversation_id": "69b5f6d7-b08c-8327-8143-0d2066eec3b2",
+  "conversation_template_id": null,
+  "create_time": 1773532889.091026,
+  "current_node": "6e7b7e02-70ce-41f8-a621-9806e2be6209",
+  "default_model_slug": "gpt-5-3",
+  "id": "69b5f6d7-b08c-8327-8143-0d2066eec3b2",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "6e7b7e02-70ce-41f8-a621-9806e2be6209": {
+      "id": "6e7b7e02-70ce-41f8-a621-9806e2be6209",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "create_time": 1773532921.058158,
+        "id": "6e7b7e02-70ce-41f8-a621-9806e2be6209",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "7777e7fb-6a6c-4944-aff5-50d28c795246"
+        }
+      },
+      "parent": "bbb21ba8-4b04-4179-8757-b19088c5286f"
+    },
+    "b0895f92-a2c1-412c-aecc-52e04e64752a": {
+      "id": "b0895f92-a2c1-412c-aecc-52e04e64752a",
+      "message": null,
+      "parent": null
+    },
+    "bbb21ba8-4b04-4179-8757-b19088c5286f": {
+      "id": "bbb21ba8-4b04-4179-8757-b19088c5286f",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_000000008bd871f58d64fb66a8184e1e",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 4080,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 410184,
+              "width": 3072
+            },
+            {
+              "asset_pointer": "sediment://file_000000002964722f94d08366b8ca744e",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 4016,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 297282,
+              "width": 3024
+            },
+            "Make the sunset more sunsetty and make me and my boyfriend kissing in the rear view mirror"
+          ]
+        },
+        "create_time": 1773532888.74305,
+        "id": "bbb21ba8-4b04-4179-8757-b19088c5286f",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "b0895f92-a2c1-412c-aecc-52e04e64752a"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Sunset and Kiss Edit",
+  "update_time": 1773532923.78278,
+  "voice": null
+}

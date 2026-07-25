@@ -1,0 +1,397 @@
+{
+  "conversation_id": "6a3e95d7-cd10-83e8-8d7f-0be62fc5cc82",
+  "conversation_template_id": null,
+  "create_time": 1782486492.116979,
+  "current_node": "64f6d80a-a002-44f8-b888-705180449ee8",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a3e95d7-cd10-83e8-8d7f-0be62fc5cc82",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "1c29a7f0-b3a7-4a38-b7ec-b1690fc54093": {
+      "id": "1c29a7f0-b3a7-4a38-b7ec-b1690fc54093",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "who is Lennie Swearingen in this company: "
+          ]
+        },
+        "create_time": 1782486491.5,
+        "id": "1c29a7f0-b3a7-4a38-b7ec-b1690fc54093",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_000000009d1471f7908b513b53084b58",
+              "is_big_paste": true,
+              "library_file_id": "libfile_c2d6c465feb481918299a5452b45f832",
+              "mime_type": "text/plain",
+              "name": "Pasted text(57).txt",
+              "size": 14232,
+              "source": "local"
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "64f6d80a-a002-44f8-b888-705180449ee8": {
+      "id": "64f6d80a-a002-44f8-b888-705180449ee8",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "That actually gives some useful context.\n\nIf **Lennie Swearingen** is the one who booked the call with you, I'd go into the conversation assuming he's a **connector, consultant, franchise owner, or strategic partner**, not necessarily a corporate executive at The Covery.\n\nBased on what I found, he has a strong background in:\n- Medical weight loss (GLP-1)\n- Hormone optimization\n- Wellness and longevity\n- Body contouring technologies\n- Training and consulting for wellness businesses\n\nThat makes me think he's likely evaluating whether **The Luxora Collective** could help either:\n1. The Covery corporate,\n2. One or more franchisees, or\n3. Another wellness venture he's involved with.\n\n### I would start the call with something like:\n\n> \"Lennie, thanks again for setting this up. Before we dive in, I'd love to understand your role with The Covery. Are you involved at the corporate level, with individual franchisees, or are you advising the organization? That'll help me make sure we're having the most valuable conversation.\"\n\nThat question will immediately tell you how to frame the rest of the meeting.\n\n### If he's a decision-maker\nShift toward:\n- Preferred vendor partnerships\n- Revenue optimization across franchisees\n- Standardized systems\n- Membership and retention architecture\n- Franchise onboarding playbooks\n\n### If he's an advisor or consultant\nFocus on:\n- Where he sees the biggest operational gaps\n- What he's tried already\n- Whether he's looking for a partner to execute or simply gather ideas\n\nFrom what I can tell, **Lennie has decades of experience in wellness**, so I wouldn't spend much time educating him about the industry. Instead, position Luxora as the team that specializes in the part most wellness operators struggle with:\n\n> \"We don't teach clinics how to perform treatments. We build the systems that help them consistently acquire, convert, retain, and grow patients profitably.\"\n\nOne thing that caught my attention is that someone with Lennie's background doesn't typically book exploratory calls randomly. If he reached out to you, there's a good chance he already sees a need or has heard something about what Luxora does. I'd spend the first 10 minutes asking questions and uncovering why he wanted the meeting before moving into your pitch. That will give you a much better chance of discovering whether this is a single opportunity or the start of a much larger partnership."
+          ]
+        },
+        "create_time": 1782486526.324496,
+        "id": "64f6d80a-a002-44f8-b888-705180449ee8",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "4d3e0615-7e87-46ae-903a-5fbb2ba28847"
+        }
+      },
+      "parent": "78554ad4-1c49-4aa9-963f-364f276d2301"
+    },
+    "78554ad4-1c49-4aa9-963f-364f276d2301": {
+      "id": "78554ad4-1c49-4aa9-963f-364f276d2301",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "he booked the csll with me"
+          ]
+        },
+        "create_time": 1782486525.163,
+        "id": "78554ad4-1c49-4aa9-963f-364f276d2301",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "8c24a406-854d-4249-97a7-145e3e286eae"
+    },
+    "8c24a406-854d-4249-97a7-145e3e286eae": {
+      "id": "8c24a406-854d-4249-97a7-145e3e286eae",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "I searched both the document you uploaded and publicly available information.\n\nLennie Swearingen is **not mentioned anywhere in your call preparation sheet** for The Covery. \ue200filecite\ue202turn0file0\ue201\n\nBased on public information, \ue200entity\ue202[\"people\",\"Lennie Swearingen\",\"Founder of Rewaken Life\"]\ue201 appears to be:\n\n- Founder of **Rewaken Life**, a medical weight loss and wellness company. \ue200cite\ue202turn0search1\ue201\n- Owner of **Hydrate & Heal LLC**, a wellness and body contouring business that offers GLP-1 programs, hormones, IV therapy, body sculpting, and other wellness services. \ue200cite\ue202turn0search5\ue201\n- A trainer/educator for body sculpting technologies used by med spas, according to his company's website. \ue200cite\ue202turn0search5\ue201\n\nIf you're asking because **Lennie is joining your call with The Covery**, then he's likely participating as:\n- a strategic wellness partner,\n- a technology/training partner,\n- or someone associated with their medical weight loss or wellness offerings,\n\nrather than as a corporate executive of The Covery. I couldn't find evidence that he holds an executive position within The Covery itself. \ue200cite\ue202turn0search1\ue202turn0search5\ue201\n\nIf you can tell me **where you saw his name** (calendar invite, attendee list, email chain, etc.), I can help determine exactly what his role is in relation to The Covery."
+          ]
+        },
+        "create_time": 1782486502.124872,
+        "id": "8c24a406-854d-4249-97a7-145e3e286eae",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": null,
+              "cloud_doc_url": "",
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_000000009d1471f7908b513b53084b58",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "6dff3490-9317-4eb8-877c-b920082f44bf",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": "libfile_c2d6c465feb481918299a5452b45f832",
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "Pasted text.txt",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            },
+            {
+              "alt": "Lennie Swearingen",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "Founder of Rewaken Life"
+              },
+              "id": "D2Xg8U011dlXU8Hw",
+              "metadata": null,
+              "name": "Lennie Swearingen",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Lennie Swearingen",
+              "type": "entity"
+            },
+            {
+              "alt": "([YouTube](https://www.youtube.com/watch?v=TDJ5oLqfnBU&utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "YouTube",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 1,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Helping you empower the health of your patients while transforming your wealth. Medical weight loss! Lennie Swearingen Founder of Rewaken Life.",
+                  "supporting_websites": [],
+                  "title": "Medical weight loss! Lennie Swearingen Founder of Rewaken ...",
+                  "url": "https://www.youtube.com/watch?v=TDJ5oLqfnBU&utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Hydrate and Heal LLC \n727-618-3838](https://hydrateandhealllc.com/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Hydrate and Heal LLC \n727-618-3838",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 5,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Lennie Swearingen was employed by Love Your Body (Owned by the Bonannos) in 2025. Despite efforts to sustain the business, the company ultimately closed on ...Read more",
+                  "supporting_websites": [],
+                  "title": "Hydrate and Heal LLC",
+                  "url": "https://hydrateandhealllc.com/?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Hydrate and Heal LLC \n727-618-3838](https://hydrateandhealllc.com/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Hydrate and Heal LLC \n727-618-3838",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 5,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Lennie Swearingen was employed by Love Your Body (Owned by the Bonannos) in 2025. Despite efforts to sustain the business, the company ultimately closed on ...Read more",
+                  "supporting_websites": [],
+                  "title": "Hydrate and Heal LLC",
+                  "url": "https://hydrateandhealllc.com/?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([YouTube](https://www.youtube.com/watch?v=TDJ5oLqfnBU&utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "YouTube",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 1,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 5,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Helping you empower the health of your patients while transforming your wealth. Medical weight loss! Lennie Swearingen Founder of Rewaken Life.",
+                  "supporting_websites": [
+                    {
+                      "attribution": "Hydrate and Heal LLC \n727-618-3838",
+                      "pub_date": null,
+                      "snippet": "Lennie Swearingen was employed by Love Your Body (Owned by the Bonannos) in 2025. Despite efforts to sustain the business, the company ultimately closed on ...Read more",
+                      "title": "Hydrate and Heal LLC",
+                      "url": "https://hydrateandhealllc.com/?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Medical weight loss! Lennie Swearingen Founder of Rewaken ...",
+                  "url": "https://www.youtube.com/watch?v=TDJ5oLqfnBU&utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prefix": null,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "YouTube",
+                  "title": "Medical weight loss! Lennie Swearingen Founder of Rewaken ...",
+                  "url": "https://www.youtube.com/watch?v=TDJ5oLqfnBU&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Hydrate and Heal LLC \n727-618-3838",
+                  "title": "Hydrate and Heal LLC",
+                  "url": "https://hydrateandhealllc.com/?utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "cdbdafe4-fcd0-4109-8850-0b3129c50747",
+          "search_result_groups": [
+            {
+              "domain": "instagram.com",
+              "entries": [
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "Lose those unwanted inches on your stomach, legs, arms, or double chin, or get that Butt Lift or get rid of the fine lines and wrinkles on your Face for as low ...",
+                  "title": "Lennie Swearingen",
+                  "url": "https://www.instagram.com/lennie.swearingen/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "eventbrite.com",
+              "entries": [
+                {
+                  "attribution": "eventbrite.com",
+                  "snippet": "New Location July1st & New Client Appreciation Night July 17th 5pm to 8pm. Fri, Jul 17 \u2022 5:00 PM. The Covery Wellness Spa.Read more",
+                  "title": "Lennie Swearingen",
+                  "url": "https://www.eventbrite.com/o/lennie-swearingen-72787993133?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "linkedin.com",
+              "entries": [
+                {
+                  "attribution": "linkedin.com",
+                  "snippet": "Director, Strategic Resource Group at Trilliant Health \u00b7 Experience: Trilliant Health \u00b7 Education: Vanderbilt University \u00b7 Location: Nashville \u00b7 269 ...",
+                  "title": "Lindsey Swearingen - Trilliant Health",
+                  "url": "https://www.linkedin.com/in/lindsey-swearingen-0a1013134?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "facebook.com",
+              "entries": [
+                {
+                  "attribution": "facebook.com",
+                  "snippet": "If you're inspired by Lennie Swearingen's story, and his mission to save and change lives, your next step is simple: talk to whoever introduced you to Rewaken ...Read more",
+                  "title": "Rewaken Life",
+                  "url": "https://www.facebook.com/p/Rewaken-Life-100093214257233/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "verywellhealth.com",
+              "entries": [
+                {
+                  "attribution": "verywellhealth.com",
+                  "snippet": "Highlights. Kaylea Swearingen has a doctorate of pharmacy degree. She has over a decade of experience as a pharmacist in the retail and industry settings.Read more",
+                  "title": "Kaylea Swearingen, PharmD",
+                  "url": "https://www.verywellhealth.com/kaylea-swearingen-5187252?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "kayleaswearingen.com",
+              "entries": [
+                {
+                  "attribution": "kayleaswearingen.com",
+                  "snippet": "Medical Editor for RVOHealth. I blend over a decade of pharmacy knowledge with technical editorial skills to create content for top, globally recognized health ...Read more",
+                  "title": "About - Kaylea Swearingen, LLC",
+                  "url": "https://www.kayleaswearingen.com/about?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "shareholder.com",
+              "entries": [
+                {
+                  "attribution": "shareholder.com",
+                  "snippet": "Renee Swearingen is Senior Vice President, Chief Accounting Officer and Assistant Treasurer at Jack Henry & Associates, Inc. She leads the development and ...Read more",
+                  "title": "Renee Swearingen | Jack Henry & Associates, Inc.",
+                  "url": "https://jkhy.client.shareholder.com/executive-management/renee-swearingen?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "1c29a7f0-b3a7-4a38-b7ec-b1690fc54093"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Lennie Swearingen Role",
+  "update_time": 1782486582.229436,
+  "voice": null
+}

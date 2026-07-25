@@ -1,0 +1,118 @@
+{
+  "conversation_id": "6a0a49d3-25d8-83ea-b190-82d1ee1f983d",
+  "conversation_template_id": null,
+  "create_time": 1779059163.652859,
+  "current_node": "85818aa0-542d-428f-9e29-ef0c75a8fc91",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a0a49d3-25d8-83ea-b190-82d1ee1f983d",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "184368f5-b13f-414a-9a1d-aafb5fbfb70c": {
+      "id": "184368f5-b13f-414a-9a1d-aafb5fbfb70c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "pleaes respond to her that yes the closer positoin is what we want her to do, we just want to make suer her messaging is correct out the gate and that she can realy our vision for the first week or so while we get others setters into place: Thank you so much for meeting with me and sharing your vision...it\u2019s exciting, and I'm genuinely cheering you on as you scale!\r\n\r\nAfter reflecting on our conversation, I want to be respectful of your time and mine. As we both acknowledged, a setter position would be a poor use of my experience and skill set, and I'm actively pursuing closer-only roles at this stage of my career. I don't think it would be fair to either of us to move forward knowing that.\r\n\r\nI have no doubt you'll find the right person for this role, and I truly wish The Luxora Collective all the success it deserves."
+          ]
+        },
+        "create_time": 1779061812.307,
+        "id": "184368f5-b13f-414a-9a1d-aafb5fbfb70c",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "7ded6ccc-1653-47f4-be85-31a848343d6a"
+    },
+    "2e892533-87e4-4cf2-9511-97df0ca992e7": {
+      "id": "2e892533-87e4-4cf2-9511-97df0ca992e7",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "rewroite this to sound more profesional: Hey Mileanet,\nThank you for your interest in becoming apart of the Luxora Collective! It was great to speak to you today and learn more about yor medspa experience\u00a0and She Sells Gradaute program. I would love to jump back on a call with you Teaday at 6:30p cst to go over some more details\u00a0and walk you through\u00a0what the 2 week trial setting position\u00a0looks like that can eventually morph into closing.\u00a0\nAanchal, my amazing assistant\u00a0(my right hand gal) will be senidnt you a zoom invite and if you have any queiston, concerns\u00a0or hottopics youd like to chat about rior just shoot\u00a0 me an email\u00a0\nLooking forward to chatting\u00a0with\u00a0you tuesday"
+          ]
+        },
+        "create_time": 1779059162.578,
+        "id": "2e892533-87e4-4cf2-9511-97df0ca992e7",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "7ded6ccc-1653-47f4-be85-31a848343d6a": {
+      "id": "7ded6ccc-1653-47f4-be85-31a848343d6a",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a more polished and professional version that still keeps your warm personality:\n\n:::writing{variant=\"email\" id=\"58241\" subject=\"Follow-Up & Next Steps with Luxora Collective\"}\nHi Mileanet,\n\nThank you again for your interest in becoming a part of The Luxora Collective! It was great speaking with you today and learning more about your med spa experience, as well as your background with the She Sells Graduate Program.\n\nI\u2019d love to reconnect on Tuesday at 6:30 PM CST to go over additional details and walk you through what the initial two-week trial setter position would look like, along with the potential opportunity to transition into a closing role as you grow within the team.\n\nAanchal, my amazing assistant and right-hand gal, will be sending over the Zoom invite shortly. In the meantime, if you have any questions, concerns, or specific topics you'd like to discuss beforehand, feel free to email me anytime.\n\nLooking forward to chatting with you on Tuesday!\n\nBest,  \nBethany\n:::"
+          ]
+        },
+        "create_time": 1779059163.550675,
+        "id": "7ded6ccc-1653-47f4-be85-31a848343d6a",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "decd6064-a957-4539-90cb-87960decdd64"
+        }
+      },
+      "parent": "2e892533-87e4-4cf2-9511-97df0ca992e7"
+    },
+    "85818aa0-542d-428f-9e29-ef0c75a8fc91": {
+      "id": "85818aa0-542d-428f-9e29-ef0c75a8fc91",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ":::writing{variant=\"email\" id=\"41726\" subject=\"Re: Next Steps with Luxora Collective\"}\nHi Mileanet,\n\nThank you so much for your honesty and thoughtful response. I completely understand where you\u2019re coming from, and I actually agree with you. The closer position is absolutely the role we ultimately see you in.\n\nThe reason we discussed starting in more of a setter capacity for the first week or so is simply because we want to make sure the messaging is dialed in correctly from the very beginning and that our vision, tone, and process are being relayed exactly the way we intend while we get additional setters into place around you.\n\nThis was never meant to be a long-term setter role or a reflection of your experience level. It was more so a short onboarding and immersion period so you could fully understand our ecosystem, offers, and ideal client journey before stepping into closing conversations.\n\nI truly believe your background and skill set are far too strong to stay in a pure setter role long term, which is why I wanted to clarify that piece before we closed the door completely.\n\nEither way, I appreciate your professionalism and transparency, and I\u2019m cheering you on as well.\n\nBest,  \nBethany\n:::"
+          ]
+        },
+        "create_time": 1779061811.601383,
+        "id": "85818aa0-542d-428f-9e29-ef0c75a8fc91",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "2e8a067a-8508-4a50-b30a-3d0d2684139b"
+        }
+      },
+      "parent": "184368f5-b13f-414a-9a1d-aafb5fbfb70c"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Professional Email Rewrite",
+  "update_time": 1779061839.943216,
+  "voice": null
+}

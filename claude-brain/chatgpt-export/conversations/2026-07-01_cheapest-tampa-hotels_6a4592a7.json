@@ -1,0 +1,1296 @@
+{
+  "conversation_id": "6a4592a7-72b4-83e8-9c85-723ead0451b0",
+  "conversation_template_id": null,
+  "create_time": 1782944433.095122,
+  "current_node": "d2ecdcd8-7d52-46db-8aa4-936b5ded2f6e",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a4592a7-72b4-83e8-9c85-723ead0451b0",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "bbb211ca-63ce-4640-b173-a92c16016556": {
+      "id": "bbb211ca-63ce-4640-b173-a92c16016556",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Where is the Hampton inn in relative to venture x"
+          ]
+        },
+        "create_time": 1782944512.987621,
+        "id": "bbb211ca-63ce-4640-b173-a92c16016556",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "e7417e4f-7b37-4539-b18f-9e3df9f70836"
+    },
+    "bbb218fd-3c4a-4c2d-9f01-01683e41cabe": {
+      "id": "bbb218fd-3c4a-4c2d-9f01-01683e41cabe",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Find me the cheapest hotel.out of these: Venture X Westshore Tampa\nAddress: 3031 N Rocky Point Dr W, Suite 600, Tampa, FL 33607\n About 5 minutes from Tampa International Airport  \n\nNearby Hotels: \n The CURRENT Hotel\n 2545 N Rocky Point Dr, Tampa, FL 33607\n DoubleTree by Hilton Tampa Rocky Point Waterfront\n 3050 N Rocky Point Dr W, Tampa, FL 33607\n The Westin Tampa Bay\n 7627 W Courtney Campbell Cswy, Tampa, FL 33607\n Hampton Inn Tampa/Rocky Point-Airport\n 3035 N Rocky Point Dr E, Tampa, FL 33607\n Sailport Waterfront Suites\n 2506 N Rocky Point Dr #326, Tampa, FL 33607"
+          ]
+        },
+        "create_time": 1782944432.695434,
+        "id": "bbb218fd-3c4a-4c2d-9f01-01683e41cabe",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "c5379308-7cba-4de6-93a7-9d982c91cac3"
+    },
+    "c5379308-7cba-4de6-93a7-9d982c91cac3": {
+      "id": "c5379308-7cba-4de6-93a7-9d982c91cac3",
+      "message": null,
+      "parent": null
+    },
+    "d2ecdcd8-7d52-46db-8aa4-936b5ded2f6e": {
+      "id": "d2ecdcd8-7d52-46db-8aa4-936b5ded2f6e",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "The \ue200entity\ue202[\"turn0business0\",\"Hampton Inn Tampa/Rocky Point-Airport\"]\ue201 is **very close** to \ue200entity\ue202[\"turn0business1\",\"Venture X Westshore Tampa\"]\ue201.\n\n- **Distance:** About **0.6 to 0.8 miles**\n- **Drive:** **2 to 3 minutes**\n- **Walk:** **12 to 15 minutes**\n- **Uber/Lyft:** Usually **under $10** for such a short trip.\n\nThey're both on Rocky Point, just on opposite sides of the peninsula:\n- Venture X: **3031 N Rocky Point Dr W**\n- Hampton Inn: **3035 N Rocky Point Dr E**\n\nFor a business trip, I'd actually recommend the Hampton Inn. It offers free breakfast, free parking, and a complimentary airport shuttle, while still being just a couple of minutes from Venture X. \ue200cite\ue202turn0search4\ue202turn0search0\ue201"
+          ]
+        },
+        "create_time": 1782944515.676768,
+        "id": "d2ecdcd8-7d52-46db-8aa4-936b5ded2f6e",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "Hampton Inn Tampa/Rocky Point-Airport",
+              "entity_data": {
+                "address": "3035 N Rocky Point Dr E, Tampa, FL 33607, United States",
+                "categories": [
+                  "Hotel"
+                ],
+                "city": "Tampa",
+                "country_code": "US",
+                "country_name": "United States",
+                "description": "Straightforward hotel with a gym & an outdoor pool, plus free breakfast & a local shuttle service.",
+                "description_cite": null,
+                "distance_meters": null,
+                "enriched_description": null,
+                "hours": [
+                  {
+                    "day": 1,
+                    "end": "0000",
+                    "start": "0000"
+                  },
+                  {
+                    "day": 2,
+                    "end": "0000",
+                    "start": "0000"
+                  },
+                  {
+                    "day": 3,
+                    "end": "0000",
+                    "start": "0000"
+                  },
+                  {
+                    "day": 4,
+                    "end": "0000",
+                    "start": "0000"
+                  },
+                  {
+                    "day": 5,
+                    "end": "0000",
+                    "start": "0000"
+                  },
+                  {
+                    "day": 6,
+                    "end": "0000",
+                    "start": "0000"
+                  },
+                  {
+                    "day": 0,
+                    "end": "0000",
+                    "start": "0000"
+                  }
+                ],
+                "id": "ChIJL-7qgdfpwogR_-jnWotB8yw",
+                "image_url": "https://images.openai.com/static-rsc-1/QJaNjfsg__FWRWkdxy--4qWn44HqRy-mnt9iJKWdHW9PIr0qNB_GpXSEYuPbiz20TwQDeLAxtVWdjPpPuNWaz035jnv3Ohhnl_mGOu5n2bNlORN052m4hO3UK7Fb29OV",
+                "image_urls": [
+                  "https://images.openai.com/static-rsc-1/r1kFqxluNkhRG9PFfMdwjpMB3K53X7bXkbb18nzR5MGdf2MtZxaRiEEtd5OfnvwxbdVsR7CSsjb0LJNLY41Pg-oDVX1v_B_yMR9Cubln5yZdhUvyv6kURQRLGfai-IZO7Fi88sx_htxtJkQVOn3srQ"
+                ],
+                "is_closed_permanently": false,
+                "is_closed_temporarily": false,
+                "latitude": 27.9696905,
+                "location": "Tampa, FL",
+                "longitude": -82.5644754,
+                "name": "Hampton Inn Tampa/Rocky Point-Airport",
+                "phone": "+1 813-289-6262",
+                "price": null,
+                "price_str": "$$",
+                "provider_images": null,
+                "provider_logo_dark_url": "https://cdn.openai.com/chatgpt/clients/business-logos/yelp_logo_white.png",
+                "provider_logo_url": "https://cdn.openai.com/chatgpt/clients/business-logos/yelp_logo.png",
+                "reconciled_thumbnails": [
+                  {
+                    "image_url": "https://images.openai.com/static-rsc-1/QJaNjfsg__FWRWkdxy--4qWn44HqRy-mnt9iJKWdHW9PIr0qNB_GpXSEYuPbiz20TwQDeLAxtVWdjPpPuNWaz035jnv3Ohhnl_mGOu5n2bNlORN052m4hO3UK7Fb29OV",
+                    "obfuscated_provider": "yelp-feed"
+                  },
+                  {
+                    "image_url": "https://images.openai.com/static-rsc-1/r1kFqxluNkhRG9PFfMdwjpMB3K53X7bXkbb18nzR5MGdf2MtZxaRiEEtd5OfnvwxbdVsR7CSsjb0LJNLY41Pg-oDVX1v_B_yMR9Cubln5yZdhUvyv6kURQRLGfai-IZO7Fi88sx_htxtJkQVOn3srQ",
+                    "obfuscated_provider": "tripadvisor-feed"
+                  },
+                  {
+                    "image_url": "https://images.openai.com/static-rsc-4/HZn0xTK4A3z8_FfZqdbuY0PLA3a7oNVN8T3LV5PU49L51eq72tDnN4-taVoFNk6qRcumgPndcPCEtQ9TQrdU5RKyHFSiq4ad_TZIqK-Jd6pLik1BbAXcv9SkvgjDmWWIqmbsgUTVyu8D8vFJBWuZYjiosUxPAjM8HqV0D1pcSfK0f6hYAePVEhI_Q0975acnfCZMmwav0WOwf7vVYYw72g?purpose=preview",
+                    "obfuscated_provider": "image-places"
+                  },
+                  {
+                    "image_url": "https://images.openai.com/static-rsc-1/wSDTVNIDBC64aY9jYs0jX4gNvVsHApr300nH9NFCp9e0YgVz3Rb1KVqRVpPU5ZxH9xpGOpH56FoEbWLHsFWbdF8Wp6uLhwHTxwHHtmgtpdzbISSJ5npiDO6i684mpmU6d4n5cte132SgSVivw1fUdU6ioNGSQx1KFx3XlwQX-ArDhSjyyregftmDU9URQECJ2cM6uKdRgLcgZBrg6PEyC-DlVn1SJg_xfT3WmnCyuRItHCpT_6V92zrCGeVbwF8rfNHziJ0Jgt7kgtC16vO4Fb3SU5NxPIP0afnuIomZM0M",
+                    "obfuscated_provider": "b3"
+                  }
+                ],
+                "review_count": 48,
+                "special_hours": null,
+                "state": "FL",
+                "website_url": "https://www.hilton.com/en/hotels/tparphx-hampton-tampa-rocky-point-airport/?SEO_id=GMB-AMER-HX-TPARPHX&y_source=1_MjA4MzU5Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+                "yelp_menu_url": null,
+                "zipcode": "33607"
+              },
+              "entity_index": null,
+              "extra_params": {
+                "address": "3035 N Rocky Point Dr E, Tampa, FL 33607, United States",
+                "business_id": "ChIJL-7qgdfpwogR_-jnWotB8yw",
+                "entity_lookup_request": {
+                  "query_args": {
+                    "business_lookup_data": {
+                      "business_id": "ChIJL-7qgdfpwogR_-jnWotB8yw",
+                      "latitude": 27.9696905,
+                      "longitude": -82.5644754,
+                      "name": "Hampton Inn Tampa/Rocky Point-Airport",
+                      "provider": "yelp-feed"
+                    }
+                  },
+                  "query_type": "entity_lookup"
+                },
+                "location": "Tampa, FL",
+                "provider": "yelp-feed"
+              },
+              "id": "0b0",
+              "metadata": null,
+              "name": "Hampton Inn Tampa/Rocky Point-Airport",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Hampton Inn Tampa/Rocky Point-Airport",
+              "type": "entity"
+            },
+            {
+              "alt": "Venture X Westshore Tampa",
+              "entity_data": {
+                "address": "3031 N Rocky Point Dr W Suite 600, Tampa, FL 33607, United States",
+                "categories": [
+                  "Coworking space",
+                  "Business center",
+                  "Event venue",
+                  "Office space rental agency",
+                  "Virtual office rental"
+                ],
+                "city": null,
+                "country_code": "US",
+                "country_name": "United States",
+                "description": null,
+                "description_cite": null,
+                "distance_meters": null,
+                "enriched_description": null,
+                "hours": [
+                  {
+                    "day": 5,
+                    "end": "1700",
+                    "start": "0800"
+                  },
+                  {
+                    "day": 1,
+                    "end": "1700",
+                    "start": "0800"
+                  },
+                  {
+                    "day": 4,
+                    "end": "1700",
+                    "start": "0800"
+                  },
+                  {
+                    "day": 2,
+                    "end": "1700",
+                    "start": "0800"
+                  },
+                  {
+                    "day": 3,
+                    "end": "1700",
+                    "start": "0800"
+                  }
+                ],
+                "id": "ChIJBerowCzpwogRoSNaA42GXSk",
+                "image_url": "https://images.openai.com/static-rsc-4/ws608F7JODoO7JejvS_tdxrmHeM7cE9ngjn3oS7Jah6yaqaS0W3n86CXdY-zy6QDONo2lycv5wI8vOef92yNVV2jWwkkrVlt7-7vLWfWuZpd0KlXWC6WUAAFwOIibhH30UYXJLGkJiSL2g3_BW5pkS_AANzTiKFLmynuDyFBwemKsMPIc5M6LW_Iu_YjNxUIPqEQJU1qn5YVEHDT7OmlKA?purpose=preview",
+                "image_urls": [
+                  "https://images.openai.com/static-rsc-1/NyjjjxPaufhVajr_VC31WUSHmbl_TTBhdWJC911Ug8fIaFPwi29wqeGfHxZthJDc24Oedq_22GWmH3yH-ubsUncx6ZRQVgIvbZKPOHSY7c74QgsSuAyhZ3nwfZq3i9a2FsxprKQ1VUZorQadkT0fOFa6f70XBjsaWhn3eyJN-OUm7wVp2BAGzLuzt4OOdFXOv_BS0GIswlpiHY7W6oD-4B0xtSETbmQo-4Ewt9p32GvyQ3Y1EXUt4OqFqLkZOWB2oI2_XP0qu0-Mgvvmxrx261BTbuKekW1r7D4lWUO-6ro"
+                ],
+                "is_closed_permanently": false,
+                "is_closed_temporarily": false,
+                "latitude": 27.9692466,
+                "location": "Tampa, FL",
+                "longitude": -82.5686115,
+                "name": "Venture X",
+                "phone": "+1 980-340-4874",
+                "price": null,
+                "price_str": null,
+                "provider_images": null,
+                "provider_logo_dark_url": null,
+                "provider_logo_url": null,
+                "reconciled_thumbnails": [
+                  {
+                    "image_url": "https://images.openai.com/static-rsc-4/ws608F7JODoO7JejvS_tdxrmHeM7cE9ngjn3oS7Jah6yaqaS0W3n86CXdY-zy6QDONo2lycv5wI8vOef92yNVV2jWwkkrVlt7-7vLWfWuZpd0KlXWC6WUAAFwOIibhH30UYXJLGkJiSL2g3_BW5pkS_AANzTiKFLmynuDyFBwemKsMPIc5M6LW_Iu_YjNxUIPqEQJU1qn5YVEHDT7OmlKA?purpose=preview",
+                    "obfuscated_provider": "image-places"
+                  },
+                  {
+                    "image_url": "https://images.openai.com/static-rsc-1/NyjjjxPaufhVajr_VC31WUSHmbl_TTBhdWJC911Ug8fIaFPwi29wqeGfHxZthJDc24Oedq_22GWmH3yH-ubsUncx6ZRQVgIvbZKPOHSY7c74QgsSuAyhZ3nwfZq3i9a2FsxprKQ1VUZorQadkT0fOFa6f70XBjsaWhn3eyJN-OUm7wVp2BAGzLuzt4OOdFXOv_BS0GIswlpiHY7W6oD-4B0xtSETbmQo-4Ewt9p32GvyQ3Y1EXUt4OqFqLkZOWB2oI2_XP0qu0-Mgvvmxrx261BTbuKekW1r7D4lWUO-6ro",
+                    "obfuscated_provider": "b3"
+                  },
+                  {
+                    "image_url": "https://images.openai.com/static-rsc-1/M9Z-sgz9D2Mxkvt-Gmct3vIYimS1BOGZZRGndDw1m9RQiIfwK6Fr4Q08vbASfR0_mjmmELshaiyAU5af87rxhSwM3m1jKxSFl0wg5ZnMUZulJ3siNLTD_XcDJGfGCCfK07n_Y_Zv2ipg4uTHhVZ-cTiFOUwU0Bl24wV-LK5fv5Cuhlz56YASve7iRn-ZVNrYbZ00pQPx5zvGDz6mVjO3blF5ljrdK6bEQWmR9y-6kfJc1zqXf3nOv9R793mjunDlpmprjKq-1R4zUmdzguL2mhTrVMskf--r3ifBHfTgVsk",
+                    "obfuscated_provider": "b3"
+                  },
+                  {
+                    "image_url": "https://images.openai.com/static-rsc-1/12oywFMci-AKWHRraf489OCOChAxrksSy9E-6pIvBjZLei2-aJxfcRBfQ1u35eklNTWf8x2hA_EKjEznkUFuWgeD98LkjXBDkO4O9yYM8BYE2UbGFpHy9QKMeD1LoWt3ctHQuZfoJ3aV82Dd5kQPOmrzl99bqMOQxtWEQQyOf-HXFT_maHfE2stD_YJNh1umPaXUBZ4aSst3JORfBGhe_vLvj3vhleN0EU0mqwv90iqHBkbQsh24GgEUUX6qINep",
+                    "obfuscated_provider": "b3"
+                  }
+                ],
+                "review_count": 4,
+                "special_hours": null,
+                "state": null,
+                "website_url": "https://venturex.com/locations/tampa-westshore/?utm_content=gmb&utm_term=vtx-tampa-westshore",
+                "yelp_menu_url": null,
+                "zipcode": null
+              },
+              "entity_index": null,
+              "extra_params": {
+                "address": "3031 N Rocky Point Dr W Suite 600, Tampa, FL 33607, United States",
+                "business_id": "ChIJBerowCzpwogRoSNaA42GXSk",
+                "entity_lookup_request": {
+                  "query_args": {
+                    "business_lookup_data": {
+                      "business_id": "ChIJBerowCzpwogRoSNaA42GXSk",
+                      "latitude": 27.9692466,
+                      "longitude": -82.5686115,
+                      "name": "Venture X",
+                      "provider": "b3"
+                    }
+                  },
+                  "query_type": "entity_lookup"
+                },
+                "location": "Tampa, FL",
+                "provider": "b3"
+              },
+              "id": "0b1",
+              "metadata": null,
+              "name": "Venture X Westshore Tampa",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Venture X Westshore Tampa",
+              "type": "entity"
+            },
+            {
+              "alt": "([hilton.com](https://www.hilton.com/en/hotels/tparphx-hampton-tampa-rocky-point-airport/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "hilton.com",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 4,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "The Hampton Inn Rocky Point Tampa Airport hotel is just one mile from the airport and Westshore. Our Rocky Point hotel offers free hot breakfast and WiFi.",
+                  "supporting_websites": [
+                    {
+                      "attribution": "venturex.com",
+                      "pub_date": null,
+                      "snippet": "Coworking & workspace solutions available in Tampa Westshore, FL. 3031 N Rocky Point Dr W #600, Tampa, Florida, 33607. 813-836-4931 \u00b7 Star.Read more",
+                      "title": "Coworking & Office Space in Tampa, Florida - Venture X",
+                      "url": "https://venturex.com/locations/usa/fl/tampa-westshore/?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Hampton Inn Tampa Rocky Point Airport Hotel",
+                  "url": "https://www.hilton.com/en/hotels/tparphx-hampton-tampa-rocky-point-airport/?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prefix": null,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "hilton.com",
+                  "title": "Hampton Inn Tampa Rocky Point Airport Hotel",
+                  "url": "https://www.hilton.com/en/hotels/tparphx-hampton-tampa-rocky-point-airport/?utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "32efd1a2-4733-407c-b585-534a2e310449",
+          "search_result_groups": [
+            {
+              "domain": "venturex.com",
+              "entries": [
+                {
+                  "attribution": "venturex.com",
+                  "snippet": "Coworking & workspace solutions available in Tampa Westshore, FL. 3031 N Rocky Point Dr W #600, Tampa, Florida, 33607. 813-836-4931 \u00b7 Star.Read more",
+                  "title": "Coworking & Office Space in Tampa, Florida - Venture X",
+                  "url": "https://venturex.com/locations/usa/fl/tampa-westshore/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "deskpass.com",
+              "entries": [
+                {
+                  "attribution": "deskpass.com",
+                  "snippet": "Only nine minutes from Tampa International Airport (TPA) and 29 minutes from St. Pete-Clearwater International Airport (PIE), this flexible office destination ...Read more",
+                  "title": "Venture X Tampa Westshore Coworking Space, Old West ...",
+                  "url": "https://app.deskpass.com/spaces/venture-x-tampa-westshore?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "loopnet.com",
+              "entries": [
+                {
+                  "attribution": "loopnet.com",
+                  "snippet": "3031 N Rocky Point Dr W, Tampa, FL 33607. This Office space is available for lease. Pre-leasing offer: Join The Founders Club and enjoy up to 30.",
+                  "title": "3031 N Rocky Point Dr W, Tampa, FL 33607 - Venture X ...",
+                  "url": "https://www.loopnet.com/Listing/3031-N-Rocky-Point-Dr-W-Tampa-FL/37936656/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "trivago.com",
+              "entries": [
+                {
+                  "attribution": "trivago.com",
+                  "snippet": "Located just 1.5 miles from Tampa International Airport, the hotel offers a complimentary shuttle service for convenient arrivals and departures. Convenient in- ...Read more",
+                  "title": "Hotel Hampton Inn Tampa/Rocky Point-Airport, USA",
+                  "url": "https://www.trivago.com/en-US/oar/hotel-hampton-inn-tampa-rocky-point-airport?search=100-75203&utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "booking.com",
+              "entries": [
+                {
+                  "attribution": "booking.com",
+                  "snippet": "Hampton Inn Tampa-Rocky Point is a 15-minute drive from The University of Tampa and 4 miles from Tampa International Airport. The hotel features an outdoor ...Read more",
+                  "title": "Hotels near Rocky Point Golf, Tampa",
+                  "url": "https://www.booking.com/landmark/us/rocky-point-golf.html?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "facebook.com",
+              "entries": [
+                {
+                  "attribution": "facebook.com",
+                  "snippet": "3031 N Rocky Point Dr W Suite 600, Tampa, FL 33607 #whenintampa #tampa #coworkingspace #tampacoworking #venturex - at Venture X Tampa ...",
+                  "title": "Get a FREE day pass to Tampa\u2019s newest coworking space ...",
+                  "url": "https://www.facebook.com/whenintampa/videos/get-a-free-day-pass-to-tampas-newest-coworking-space-venturextampawestshore-is-a/1234863821515039/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "tripadvisor.com",
+              "entries": [
+                {
+                  "attribution": "tripadvisor.com",
+                  "snippet": "The Hampton Inn Tampa/Rocky Point-Airport hotel is located 1.5 miles from Tampa International Airport and just minutes from the Westshore business district ...Read more",
+                  "title": "Hampton Inn Tampa/Rocky Point-Airport",
+                  "url": "https://www.tripadvisor.com/Hotel_Review-g34678-d87658-Reviews-Hampton_Inn_Tampa_Rocky_Point_Airport-Tampa_Florida.html?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "liquidspace.com",
+              "entries": [
+                {
+                  "attribution": "liquidspace.com",
+                  "snippet": "Venture X Westshore Tampa. 3031 North Rocky Point Drive West, 600, Tampa, FL 33607 - Confirmed Open. Private Office | 80 sq ft. Private offices in the heart of ...Read more",
+                  "title": "Private Office for 2 at Venture X Westshore Tampa",
+                  "url": "https://liquidspace.com/us/fl/tampa/venture-x-westshore-tampa-tampa/private-office-for-one-and-two-people?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "bbb211ca-63ce-4640-b173-a92c16016556"
+    },
+    "e7417e4f-7b37-4539-b18f-9e3df9f70836": {
+      "id": "e7417e4f-7b37-4539-b18f-9e3df9f70836",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Based on typical nightly rates and current pricing trends, here's how they usually rank from **least expensive to most expensive**:\n\n1. \ue200entity\ue202[\"turn0business16\",\"Sailport Waterfront Suites\"]\ue201\n   *Typically:* **$90 to $150/night**\n   *Pros:* Waterfront suites with kitchenettes, free parking, great value for longer stays. \ue200cite\ue202turn0search1\ue202turn0search4\ue201\n\n2. \ue200entity\ue202[\"hotel\",\"Hampton Inn Tampa/Rocky Point-Airport\",\"Tampa, FL, USA | 3035 N Rocky Point Dr E\"]\ue201\n   *Typically:* **$99 to $140/night**\n   *Pros:* Free breakfast, free airport shuttle, free parking. Usually the best value if you only need a standard hotel room. \ue200cite\ue202turn0search2\ue201\n\n3. \ue200entity\ue202[\"turn0business1\",\"DoubleTree by Hilton Tampa Rocky Point Waterfront\"]\ue201\n   *Typically:* **$125 to $180/night**\n   *Pros:* Waterfront property with a restaurant and larger rooms. Parking is extra. \ue200cite\ue202turn0search8\ue202turn0search6\ue201\n\n4. \ue200entity\ue202[\"hotel\",\"The CURRENT Hotel, Autograph Collection\",\"Tampa, FL, USA | 2545 N Rocky Point Dr\"]\ue201\n   *Typically:* **$180 to $250+/night**\n   *Pros:* Boutique luxury with beautiful bay views.\n\n5. \ue200entity\ue202[\"hotel\",\"The Westin Tampa Bay\",\"Tampa, FL, USA | 7627 W Courtney Campbell Cswy\"]\ue201\n   *Typically:* **$220 to $300+/night**\n   *Pros:* Highest-end option with a private beach and upscale amenities.\n\n**If it were my money:**\n- \ud83d\udcb0 **Cheapest overall:** Sailport Waterfront Suites.\n- \u2b50 **Best value:** Hampton Inn. You get breakfast, parking, and an airport shuttle, making it the best bang for your buck for a short business trip.\n\nIf you tell me your **exact travel dates**, I can check the live rates and tell you which one is actually the cheapest for your stay.\n\ue200map\ue201"
+          ]
+        },
+        "create_time": 1782944437.863173,
+        "id": "e7417e4f-7b37-4539-b18f-9e3df9f70836",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "Sailport Waterfront Suites",
+              "entity_data": {
+                "address": "2506 N Rocky Point Dr, Tampa, FL 33607, United States",
+                "categories": [
+                  "Hotel",
+                  "Event venue",
+                  "Extended stay hotel",
+                  "Holiday apartment rental",
+                  "Resort hotel",
+                  "Restaurant",
+                  "Wedding venue"
+                ],
+                "city": "Tampa",
+                "country_code": "US",
+                "country_name": "United States",
+                "description": "Suites with private balconies & kitchens in a waterfront venue, plus a pool & free airport shuttle.",
+                "description_cite": null,
+                "distance_meters": null,
+                "enriched_description": null,
+                "hours": [
+                  {
+                    "day": 1,
+                    "end": "0000",
+                    "start": "0000"
+                  },
+                  {
+                    "day": 2,
+                    "end": "0000",
+                    "start": "0000"
+                  },
+                  {
+                    "day": 3,
+                    "end": "0000",
+                    "start": "0000"
+                  },
+                  {
+                    "day": 4,
+                    "end": "0000",
+                    "start": "0000"
+                  },
+                  {
+                    "day": 5,
+                    "end": "0000",
+                    "start": "0000"
+                  },
+                  {
+                    "day": 6,
+                    "end": "0000",
+                    "start": "0000"
+                  },
+                  {
+                    "day": 0,
+                    "end": "0000",
+                    "start": "0000"
+                  }
+                ],
+                "id": "ChIJZ_YH9s3pwogR8iNTH5IBaUg",
+                "image_url": "https://images.openai.com/static-rsc-1/uB5qFmqN41HYUY1pPKsLYjkhgHRaz77AR9vB2fDBoJsNv-FWxDyp-cHddEeywgwUj2Z5HJ231yUBcxbumxLGXr9S0-9WKtcva4dZ4ep_FFMPcelVTmjdHxqOdzcahST3",
+                "image_urls": [
+                  "https://images.openai.com/static-rsc-1/pNZgD5GUqvklES2oyYookmxrCNPGwq2JEL1paHUkJZJdyvByAhFt10Gl3Hf8E0DFoTcwAuLuM1JbOGrezLq8TP01puwQ_58Hra7n-FEJHUq7jqPMbOLPtD_ho8LtRMrnXzOj6_VqmoquzIUgyiNd7g"
+                ],
+                "is_closed_permanently": false,
+                "is_closed_temporarily": false,
+                "latitude": 27.9636612,
+                "location": "Tampa, FL",
+                "longitude": -82.5719014,
+                "name": "Sailport Waterfront Suites",
+                "phone": "+1 855-651-1841",
+                "price": null,
+                "price_str": "$$",
+                "provider_images": null,
+                "provider_logo_dark_url": "https://cdn.openai.com/chatgpt/clients/business-logos/yelp_logo_white.png",
+                "provider_logo_url": "https://cdn.openai.com/chatgpt/clients/business-logos/yelp_logo.png",
+                "reconciled_thumbnails": [
+                  {
+                    "image_url": "https://images.openai.com/static-rsc-1/uB5qFmqN41HYUY1pPKsLYjkhgHRaz77AR9vB2fDBoJsNv-FWxDyp-cHddEeywgwUj2Z5HJ231yUBcxbumxLGXr9S0-9WKtcva4dZ4ep_FFMPcelVTmjdHxqOdzcahST3",
+                    "obfuscated_provider": "yelp-feed"
+                  },
+                  {
+                    "image_url": "https://images.openai.com/static-rsc-1/pNZgD5GUqvklES2oyYookmxrCNPGwq2JEL1paHUkJZJdyvByAhFt10Gl3Hf8E0DFoTcwAuLuM1JbOGrezLq8TP01puwQ_58Hra7n-FEJHUq7jqPMbOLPtD_ho8LtRMrnXzOj6_VqmoquzIUgyiNd7g",
+                    "obfuscated_provider": "tripadvisor-feed"
+                  },
+                  {
+                    "image_url": "https://images.openai.com/static-rsc-4/nNnRO0r81ddaWEuiEXcgk4UywsNTfpdYrc8Mn58P7yskg6hJ6FMfNayd-WS2th3jOCNkwVzPI4qukn0kht4evRJIEthWCkx8nmPCJ6_PWkuB72KawKp0qrs4mUSMLPUGqKCKGFzRY2M2T2eRp6_NSSP7AGu6n92L1Xnji6o4gt7QHq0qU8570q_RFJnsMxX0QutZvrudgiYyu4isDFUKmw?purpose=preview",
+                    "obfuscated_provider": "image-places"
+                  },
+                  {
+                    "image_url": "https://images.openai.com/static-rsc-1/ofiRF0uIF3K706UN9_P-vdhN4gA_T-FZ6jsZS8bPkG2Hae6hQVvxhBQALWVy2AzzDMtD1b_SxkxGliVgLg7GotzHSQUcAIvZToAU_oxGfAdvDEduVKQ3xJlU4a8CI_tOfqquajGz-GlSvJTMVVr6GPmekUzMCZ9dSLK3omiV_NbqPOMxnPEEWRHdBXDbAQQZqMSrDfo9BRvCXbg0e6YU1DFw2abS0Wj_liJEEsFF9XWhS8hKYWLak1yIt2IujevXknTY9j8CgtNYlAHKN48l7lNH_J7PFU4SZ5razM6WDzI",
+                    "obfuscated_provider": "b3"
+                  }
+                ],
+                "review_count": 176,
+                "special_hours": null,
+                "state": "FL",
+                "website_url": "https://www.providentresorts.com/sailport-waterfront-suites-tampa-and-treasure-island/?utm_source=local&utm_campaign=gmb&utm_medium=organic",
+                "yelp_menu_url": null,
+                "zipcode": "33607"
+              },
+              "entity_index": null,
+              "extra_params": {
+                "address": "2506 N Rocky Point Dr, Tampa, FL 33607, United States",
+                "business_id": "ChIJZ_YH9s3pwogR8iNTH5IBaUg",
+                "entity_lookup_request": {
+                  "query_args": {
+                    "business_lookup_data": {
+                      "business_id": "ChIJZ_YH9s3pwogR8iNTH5IBaUg",
+                      "latitude": 27.9636612,
+                      "longitude": -82.5719014,
+                      "name": "Sailport Waterfront Suites",
+                      "provider": "yelp-feed"
+                    }
+                  },
+                  "query_type": "entity_lookup"
+                },
+                "location": "Tampa, FL",
+                "provider": "yelp-feed"
+              },
+              "id": "0b16",
+              "metadata": null,
+              "name": "Sailport Waterfront Suites",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Sailport Waterfront Suites",
+              "type": "entity"
+            },
+            {
+              "alt": "([KAYAK](https://www.ca.kayak.com/Tampa-Hotels-Sailport-Waterfront-Suites.15646.ksp?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "KAYAK",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 1,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 4,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Set on Rocky Point Island, it is less than three miles from the Tampa ... Average price (weekend night). August. March. C$ 230. C$ 662. Cheapest month to ...Read more",
+                  "supporting_websites": [
+                    {
+                      "attribution": "trivago",
+                      "pub_date": null,
+                      "snippet": "DoubleTree by Hilton Tampa Rocky Point Waterfront (Tampa, USA). Share. Add to ... Friday, May 22$209. Fr. 22. Sat, 05/23/26. $204. Saturday, May 23$204. Sa. 23.Read more",
+                      "title": "Resort Sailport Waterfront Suites, Tampa, USA",
+                      "url": "https://www.trivago.com/en-US/oar/resort-sailport-waterfront-suites-tampa?search=100-66955&utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Sailport Waterfront Suites - Tampa Hotels",
+                  "url": "https://www.ca.kayak.com/Tampa-Hotels-Sailport-Waterfront-Suites.15646.ksp?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "Hampton Inn Tampa/Rocky Point-Airport",
+              "prefix": null,
+              "prompt_text": "Hampton Inn Tampa/Rocky Point-Airport",
+              "render_as": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "([hotels](https://www.hotels.com/ho139522/hampton-inn-tampa-rocky-point-tampa-united-states-of-america/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "hotels",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 2,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "The price is $131. $131 total. May 3 - May 4. Total with taxes and fees. Hampton Inn Tampa-International Airport/Westshore \u00b7 Compare similar properties. Mod ...Read more",
+                  "supporting_websites": [],
+                  "title": "Hampton Inn Tampa/Rocky Point-Airport",
+                  "url": "https://www.hotels.com/ho139522/hampton-inn-tampa-rocky-point-tampa-united-states-of-america/?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "DoubleTree by Hilton Tampa Rocky Point Waterfront",
+              "entity_data": {
+                "address": "3050 N Rocky Point Dr W, Tampa, FL 33607, United States",
+                "categories": [
+                  "Hotel"
+                ],
+                "city": "W Tampa",
+                "country_code": "US",
+                "country_name": "United States",
+                "description": "Waterfront suites & an outdoor pool with beverage service, all-day dining & a free airport shuttle.",
+                "description_cite": null,
+                "distance_meters": null,
+                "enriched_description": null,
+                "hours": [
+                  {
+                    "day": 1,
+                    "end": "0000",
+                    "start": "0000"
+                  },
+                  {
+                    "day": 2,
+                    "end": "0000",
+                    "start": "0000"
+                  },
+                  {
+                    "day": 3,
+                    "end": "0000",
+                    "start": "0000"
+                  },
+                  {
+                    "day": 4,
+                    "end": "0000",
+                    "start": "0000"
+                  },
+                  {
+                    "day": 5,
+                    "end": "0000",
+                    "start": "0000"
+                  },
+                  {
+                    "day": 6,
+                    "end": "0000",
+                    "start": "0000"
+                  },
+                  {
+                    "day": 0,
+                    "end": "0000",
+                    "start": "0000"
+                  }
+                ],
+                "id": "ChIJ7baGWv7CwogRZMA4zrlCU7I",
+                "image_url": "https://images.openai.com/static-rsc-1/rIerGIFAPV9EFMBMyy-TY6KNNLL3Gjuzy1Sig3fJh2CL0BGX4dYkwn6x8R8wsAOijUpKBoBIIMYVccnVguVWAdMbyC9lS5ZZ0bvd_L6Gc15odEEnIKz_mdxffWF6in87",
+                "image_urls": [
+                  "https://images.openai.com/static-rsc-1/Q9HArgKjfKZ7V9OhfNZpPIXACKlHd7Gc0eOR_QIS1k6JTpRxcUCXDAfFa39fgARnuXsxJ57bEuWV0NStdpFhyCN440SCLxtJvlwnB0k-fJ6RGldlkyRtEpLEBzZDfqXhGti9FPKAT7CCozThh1owqw"
+                ],
+                "is_closed_permanently": false,
+                "is_closed_temporarily": false,
+                "latitude": 27.9706225,
+                "location": "Tampa, FL",
+                "longitude": -82.5693729,
+                "name": "DoubleTree by Hilton Tampa Rocky Point Waterfront",
+                "phone": "+1 813-888-8800",
+                "price": null,
+                "price_str": "$$",
+                "provider_images": null,
+                "provider_logo_dark_url": "https://cdn.openai.com/chatgpt/clients/business-logos/yelp_logo_white.png",
+                "provider_logo_url": "https://cdn.openai.com/chatgpt/clients/business-logos/yelp_logo.png",
+                "reconciled_thumbnails": [
+                  {
+                    "image_url": "https://images.openai.com/static-rsc-1/rIerGIFAPV9EFMBMyy-TY6KNNLL3Gjuzy1Sig3fJh2CL0BGX4dYkwn6x8R8wsAOijUpKBoBIIMYVccnVguVWAdMbyC9lS5ZZ0bvd_L6Gc15odEEnIKz_mdxffWF6in87",
+                    "obfuscated_provider": "yelp-feed"
+                  },
+                  {
+                    "image_url": "https://images.openai.com/static-rsc-1/Q9HArgKjfKZ7V9OhfNZpPIXACKlHd7Gc0eOR_QIS1k6JTpRxcUCXDAfFa39fgARnuXsxJ57bEuWV0NStdpFhyCN440SCLxtJvlwnB0k-fJ6RGldlkyRtEpLEBzZDfqXhGti9FPKAT7CCozThh1owqw",
+                    "obfuscated_provider": "tripadvisor-feed"
+                  },
+                  {
+                    "image_url": "https://images.openai.com/static-rsc-4/Z67hQSseNWHKEruKXydlwzk_FqICPhZQWOK02szAO5QzqhJoXdOPZ_YoJOdp1CZu5ygvuPmfiO1DoborP34oGtsIwcvTre7ZDFN22Ykoe30svcsjvnZBWttwDbpI5kUgjaoppm7NaGALulIaqn6FQHxYKqCOBlovi7AK7EwRTjGO8Uj7qwBiP4D-LIekfT8L7_dJbgJ6SaHgQIttPlA9xQ?purpose=preview",
+                    "obfuscated_provider": "image-places"
+                  },
+                  {
+                    "image_url": "https://images.openai.com/static-rsc-1/mvcnCgptGvc4iLAV8IKsXWBySrnTTXr1HTjUbg_G_R5S8TuS1k2w0Toa2bNlTDx-NlhRzcSHGCgT3wErom3ysxGt8h0sL-MlTAcDtmD5mkHTqgAMIMU-WgUa8hS7h5zjTx69cIGN5Z0o3x8hBYnT9GA58o-AlsHpxwCOCqf8iKfxjBaH_letFXLRJhKbhvOo4NNptasmNbVJdi0LMy4d1Ka0bV7ckMWcs3JzHL-K7JmCi1d8waYfizLXfUHfqFFv5kVTIlxTmYX-ZGI7dReslyLnwt2dN3WDY8NQA68UiCA",
+                    "obfuscated_provider": "b3"
+                  }
+                ],
+                "review_count": 182,
+                "special_hours": null,
+                "state": "FL",
+                "website_url": "https://www.hilton.com/en/hotels/tparhdt-doubletree-tampa-rocky-point-waterfront/?SEO_id=GMB-AMER-DT-TPARHDT&y_source=1_MTM3MjU1My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+                "yelp_menu_url": null,
+                "zipcode": "33607"
+              },
+              "entity_index": null,
+              "extra_params": {
+                "address": "3050 N Rocky Point Dr W, Tampa, FL 33607, United States",
+                "business_id": "ChIJ7baGWv7CwogRZMA4zrlCU7I",
+                "entity_lookup_request": {
+                  "query_args": {
+                    "business_lookup_data": {
+                      "business_id": "ChIJ7baGWv7CwogRZMA4zrlCU7I",
+                      "latitude": 27.9706225,
+                      "longitude": -82.5693729,
+                      "name": "DoubleTree by Hilton Tampa Rocky Point Waterfront",
+                      "provider": "yelp-feed"
+                    }
+                  },
+                  "query_type": "entity_lookup"
+                },
+                "location": "Tampa, FL",
+                "provider": "yelp-feed"
+              },
+              "id": "0b1",
+              "metadata": null,
+              "name": "DoubleTree by Hilton Tampa Rocky Point Waterfront",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "DoubleTree by Hilton Tampa Rocky Point Waterfront",
+              "type": "entity"
+            },
+            {
+              "alt": "([KAYAK](https://www.kayak.com/Tampa-Hotels-DoubleTree-by-Hilton-Tampa-Rocky-Point-Waterfront.14845.ksp?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "KAYAK",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 8,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 6,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Standard room \u00b7 bed type unknown. $138 ; Queen room \u00b7 bed type unknown. $125 ; King room \u00b7 1 king bed. $147.Read more",
+                  "supporting_websites": [
+                    {
+                      "attribution": "expedia",
+                      "pub_date": null,
+                      "snippet": "How much does it cost to stay at DoubleTree by Hilton Tampa Rocky Point Waterfront? As of Apr 21, 2026, prices found for a 1-night stay for 2 adults at ...Read more",
+                      "title": "DoubleTree by Hilton Tampa Rocky Point Waterfront",
+                      "url": "https://www.expedia.com/Tampa-Hotels-DoubleTree-By-Hilton-Tampa-Rocky-Point-Waterfront.h1366.Hotel-Information?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "DoubleTree by Hilton Tampa Rocky Point Waterfront - Hotels",
+                  "url": "https://www.kayak.com/Tampa-Hotels-DoubleTree-by-Hilton-Tampa-Rocky-Point-Waterfront.14845.ksp?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "The CURRENT Hotel, Autograph Collection",
+              "prefix": null,
+              "prompt_text": "The CURRENT Hotel, Autograph Collection",
+              "render_as": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "The Westin Tampa Bay",
+              "prefix": null,
+              "prompt_text": "The Westin Tampa Bay",
+              "render_as": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": null,
+              "answer": null,
+              "entities": [
+                {
+                  "category": "local_business",
+                  "entity": {
+                    "address": "2506 N Rocky Point Dr, Tampa, FL 33607, United States",
+                    "attributes": null,
+                    "categories": [
+                      "Hotel",
+                      "Event venue",
+                      "Extended stay hotel",
+                      "Holiday apartment rental",
+                      "Resort hotel",
+                      "Restaurant",
+                      "Wedding venue"
+                    ],
+                    "city": "Tampa",
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "date_closed": null,
+                    "date_opened": null,
+                    "description": "Suites with private balconies & kitchens in a waterfront venue, plus a pool & free airport shuttle.",
+                    "description_cite": null,
+                    "distance_meters": null,
+                    "enriched_description": null,
+                    "from_cache": false,
+                    "hours": [
+                      {
+                        "day": 1,
+                        "end": "0000",
+                        "start": "0000"
+                      },
+                      {
+                        "day": 2,
+                        "end": "0000",
+                        "start": "0000"
+                      },
+                      {
+                        "day": 3,
+                        "end": "0000",
+                        "start": "0000"
+                      },
+                      {
+                        "day": 4,
+                        "end": "0000",
+                        "start": "0000"
+                      },
+                      {
+                        "day": 5,
+                        "end": "0000",
+                        "start": "0000"
+                      },
+                      {
+                        "day": 6,
+                        "end": "0000",
+                        "start": "0000"
+                      },
+                      {
+                        "day": 0,
+                        "end": "0000",
+                        "start": "0000"
+                      }
+                    ],
+                    "id": "ChIJZ_YH9s3pwogR8iNTH5IBaUg",
+                    "image_url": "https://images.openai.com/static-rsc-1/uB5qFmqN41HYUY1pPKsLYjkhgHRaz77AR9vB2fDBoJsNv-FWxDyp-cHddEeywgwUj2Z5HJ231yUBcxbumxLGXr9S0-9WKtcva4dZ4ep_FFMPcelVTmjdHxqOdzcahST3",
+                    "image_urls": [
+                      "https://images.openai.com/static-rsc-1/pNZgD5GUqvklES2oyYookmxrCNPGwq2JEL1paHUkJZJdyvByAhFt10Gl3Hf8E0DFoTcwAuLuM1JbOGrezLq8TP01puwQ_58Hra7n-FEJHUq7jqPMbOLPtD_ho8LtRMrnXzOj6_VqmoquzIUgyiNd7g"
+                    ],
+                    "is_claimed": true,
+                    "is_closed_permanently": false,
+                    "is_closed_temporarily": false,
+                    "is_open": true,
+                    "latitude": 27.9636612,
+                    "location": "Tampa, FL",
+                    "longitude": -82.5719014,
+                    "menu": null,
+                    "name": "Sailport Waterfront Suites",
+                    "next_open_hour": {
+                      "day": 3,
+                      "end": "0000",
+                      "start": "0000"
+                    },
+                    "phone": "+1 855-651-1841",
+                    "popularity_score": null,
+                    "price": null,
+                    "price_str": "$$",
+                    "provider": "yelp-feed",
+                    "provider_images": null,
+                    "provider_logo_dark_url": "https://cdn.openai.com/chatgpt/clients/business-logos/yelp_logo_white.png",
+                    "provider_logo_url": "https://cdn.openai.com/chatgpt/clients/business-logos/yelp_logo.png",
+                    "provider_url": "https://www.yelp.com/biz/sailport-waterfront-suites-tampa?adjust_creative=openai&utm_campaign=yelp_feed&utm_medium=feed_v2&utm_source=openai",
+                    "rank": null,
+                    "ranking_score": 3.055253744125366,
+                    "rating": 3.0,
+                    "rating_scale": 5,
+                    "reconciled_thumbnails": [
+                      {
+                        "image_url": "https://images.openai.com/static-rsc-1/uB5qFmqN41HYUY1pPKsLYjkhgHRaz77AR9vB2fDBoJsNv-FWxDyp-cHddEeywgwUj2Z5HJ231yUBcxbumxLGXr9S0-9WKtcva4dZ4ep_FFMPcelVTmjdHxqOdzcahST3",
+                        "obfuscated_provider": "yelp-feed"
+                      },
+                      {
+                        "image_url": "https://images.openai.com/static-rsc-1/pNZgD5GUqvklES2oyYookmxrCNPGwq2JEL1paHUkJZJdyvByAhFt10Gl3Hf8E0DFoTcwAuLuM1JbOGrezLq8TP01puwQ_58Hra7n-FEJHUq7jqPMbOLPtD_ho8LtRMrnXzOj6_VqmoquzIUgyiNd7g",
+                        "obfuscated_provider": "tripadvisor-feed"
+                      },
+                      {
+                        "image_url": "https://images.openai.com/static-rsc-4/nNnRO0r81ddaWEuiEXcgk4UywsNTfpdYrc8Mn58P7yskg6hJ6FMfNayd-WS2th3jOCNkwVzPI4qukn0kht4evRJIEthWCkx8nmPCJ6_PWkuB72KawKp0qrs4mUSMLPUGqKCKGFzRY2M2T2eRp6_NSSP7AGu6n92L1Xnji6o4gt7QHq0qU8570q_RFJnsMxX0QutZvrudgiYyu4isDFUKmw?purpose=preview",
+                        "obfuscated_provider": "image-places"
+                      },
+                      {
+                        "image_url": "https://images.openai.com/static-rsc-1/ofiRF0uIF3K706UN9_P-vdhN4gA_T-FZ6jsZS8bPkG2Hae6hQVvxhBQALWVy2AzzDMtD1b_SxkxGliVgLg7GotzHSQUcAIvZToAU_oxGfAdvDEduVKQ3xJlU4a8CI_tOfqquajGz-GlSvJTMVVr6GPmekUzMCZ9dSLK3omiV_NbqPOMxnPEEWRHdBXDbAQQZqMSrDfo9BRvCXbg0e6YU1DFw2abS0Wj_liJEEsFF9XWhS8hKYWLak1yIt2IujevXknTY9j8CgtNYlAHKN48l7lNH_J7PFU4SZ5razM6WDzI",
+                        "obfuscated_provider": "b3"
+                      }
+                    ],
+                    "reservation_providers": [],
+                    "review_count": 176,
+                    "review_highlights": null,
+                    "reviews": null,
+                    "service_providers": null,
+                    "special_hours": null,
+                    "state": "FL",
+                    "tags": null,
+                    "website_url": "https://www.providentresorts.com/sailport-waterfront-suites-tampa-and-treasure-island/?utm_source=local&utm_campaign=gmb&utm_medium=organic",
+                    "yelp_menu_url": null,
+                    "zipcode": "33607"
+                  },
+                  "extra_params": {
+                    "address": "2506 N Rocky Point Dr, Tampa, FL 33607, United States",
+                    "business_id": "ChIJZ_YH9s3pwogR8iNTH5IBaUg",
+                    "location": "Tampa, FL",
+                    "provider": "yelp-feed"
+                  },
+                  "id": "ChIJZ_YH9s3pwogR8iNTH5IBaUg",
+                  "latitude": 27.9636612,
+                  "longitude": -82.5719014,
+                  "name": "Sailport Waterfront Suites",
+                  "notes": null
+                },
+                {
+                  "category": "local_business",
+                  "entity": {
+                    "address": "3050 N Rocky Point Dr W, Tampa, FL 33607, United States",
+                    "attributes": null,
+                    "categories": [
+                      "Hotel"
+                    ],
+                    "city": "W Tampa",
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "date_closed": null,
+                    "date_opened": null,
+                    "description": "Waterfront suites & an outdoor pool with beverage service, all-day dining & a free airport shuttle.",
+                    "description_cite": null,
+                    "distance_meters": null,
+                    "enriched_description": null,
+                    "from_cache": false,
+                    "hours": [
+                      {
+                        "day": 1,
+                        "end": "0000",
+                        "start": "0000"
+                      },
+                      {
+                        "day": 2,
+                        "end": "0000",
+                        "start": "0000"
+                      },
+                      {
+                        "day": 3,
+                        "end": "0000",
+                        "start": "0000"
+                      },
+                      {
+                        "day": 4,
+                        "end": "0000",
+                        "start": "0000"
+                      },
+                      {
+                        "day": 5,
+                        "end": "0000",
+                        "start": "0000"
+                      },
+                      {
+                        "day": 6,
+                        "end": "0000",
+                        "start": "0000"
+                      },
+                      {
+                        "day": 0,
+                        "end": "0000",
+                        "start": "0000"
+                      }
+                    ],
+                    "id": "ChIJ7baGWv7CwogRZMA4zrlCU7I",
+                    "image_url": "https://images.openai.com/static-rsc-1/rIerGIFAPV9EFMBMyy-TY6KNNLL3Gjuzy1Sig3fJh2CL0BGX4dYkwn6x8R8wsAOijUpKBoBIIMYVccnVguVWAdMbyC9lS5ZZ0bvd_L6Gc15odEEnIKz_mdxffWF6in87",
+                    "image_urls": [
+                      "https://images.openai.com/static-rsc-1/Q9HArgKjfKZ7V9OhfNZpPIXACKlHd7Gc0eOR_QIS1k6JTpRxcUCXDAfFa39fgARnuXsxJ57bEuWV0NStdpFhyCN440SCLxtJvlwnB0k-fJ6RGldlkyRtEpLEBzZDfqXhGti9FPKAT7CCozThh1owqw"
+                    ],
+                    "is_claimed": true,
+                    "is_closed_permanently": false,
+                    "is_closed_temporarily": false,
+                    "is_open": true,
+                    "latitude": 27.9706225,
+                    "location": "Tampa, FL",
+                    "longitude": -82.5693729,
+                    "menu": null,
+                    "name": "DoubleTree by Hilton Tampa Rocky Point Waterfront",
+                    "next_open_hour": {
+                      "day": 3,
+                      "end": "0000",
+                      "start": "0000"
+                    },
+                    "phone": "+1 813-888-8800",
+                    "popularity_score": null,
+                    "price": null,
+                    "price_str": "$$",
+                    "provider": "yelp-feed",
+                    "provider_images": null,
+                    "provider_logo_dark_url": "https://cdn.openai.com/chatgpt/clients/business-logos/yelp_logo_white.png",
+                    "provider_logo_url": "https://cdn.openai.com/chatgpt/clients/business-logos/yelp_logo.png",
+                    "provider_url": "https://www.yelp.com/biz/doubletree-by-hilton-tampa-rocky-point-waterfront-w-tampa?adjust_creative=openai&utm_campaign=yelp_feed&utm_medium=feed_v2&utm_source=openai",
+                    "rank": null,
+                    "ranking_score": 6.984499931335449,
+                    "rating": 3.2,
+                    "rating_scale": 5,
+                    "reconciled_thumbnails": [
+                      {
+                        "image_url": "https://images.openai.com/static-rsc-1/rIerGIFAPV9EFMBMyy-TY6KNNLL3Gjuzy1Sig3fJh2CL0BGX4dYkwn6x8R8wsAOijUpKBoBIIMYVccnVguVWAdMbyC9lS5ZZ0bvd_L6Gc15odEEnIKz_mdxffWF6in87",
+                        "obfuscated_provider": "yelp-feed"
+                      },
+                      {
+                        "image_url": "https://images.openai.com/static-rsc-1/Q9HArgKjfKZ7V9OhfNZpPIXACKlHd7Gc0eOR_QIS1k6JTpRxcUCXDAfFa39fgARnuXsxJ57bEuWV0NStdpFhyCN440SCLxtJvlwnB0k-fJ6RGldlkyRtEpLEBzZDfqXhGti9FPKAT7CCozThh1owqw",
+                        "obfuscated_provider": "tripadvisor-feed"
+                      },
+                      {
+                        "image_url": "https://images.openai.com/static-rsc-4/Z67hQSseNWHKEruKXydlwzk_FqICPhZQWOK02szAO5QzqhJoXdOPZ_YoJOdp1CZu5ygvuPmfiO1DoborP34oGtsIwcvTre7ZDFN22Ykoe30svcsjvnZBWttwDbpI5kUgjaoppm7NaGALulIaqn6FQHxYKqCOBlovi7AK7EwRTjGO8Uj7qwBiP4D-LIekfT8L7_dJbgJ6SaHgQIttPlA9xQ?purpose=preview",
+                        "obfuscated_provider": "image-places"
+                      },
+                      {
+                        "image_url": "https://images.openai.com/static-rsc-1/mvcnCgptGvc4iLAV8IKsXWBySrnTTXr1HTjUbg_G_R5S8TuS1k2w0Toa2bNlTDx-NlhRzcSHGCgT3wErom3ysxGt8h0sL-MlTAcDtmD5mkHTqgAMIMU-WgUa8hS7h5zjTx69cIGN5Z0o3x8hBYnT9GA58o-AlsHpxwCOCqf8iKfxjBaH_letFXLRJhKbhvOo4NNptasmNbVJdi0LMy4d1Ka0bV7ckMWcs3JzHL-K7JmCi1d8waYfizLXfUHfqFFv5kVTIlxTmYX-ZGI7dReslyLnwt2dN3WDY8NQA68UiCA",
+                        "obfuscated_provider": "b3"
+                      }
+                    ],
+                    "reservation_providers": [],
+                    "review_count": 182,
+                    "review_highlights": null,
+                    "reviews": null,
+                    "service_providers": null,
+                    "special_hours": null,
+                    "state": "FL",
+                    "tags": [
+                      "LGBTQ+ friendly"
+                    ],
+                    "website_url": "https://www.hilton.com/en/hotels/tparhdt-doubletree-tampa-rocky-point-waterfront/?SEO_id=GMB-AMER-DT-TPARHDT&y_source=1_MTM3MjU1My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+                    "yelp_menu_url": null,
+                    "zipcode": "33607"
+                  },
+                  "extra_params": {
+                    "address": "3050 N Rocky Point Dr W, Tampa, FL 33607, United States",
+                    "business_id": "ChIJ7baGWv7CwogRZMA4zrlCU7I",
+                    "location": "Tampa, FL",
+                    "provider": "yelp-feed"
+                  },
+                  "id": "ChIJ7baGWv7CwogRZMA4zrlCU7I",
+                  "latitude": 27.9706225,
+                  "longitude": -82.5693729,
+                  "name": "DoubleTree by Hilton Tampa Rocky Point Waterfront",
+                  "notes": null
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "reset_flag": false,
+              "type": "map"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prefix": null,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "KAYAK",
+                  "title": "Sailport Waterfront Suites - Tampa Hotels",
+                  "url": "https://www.ca.kayak.com/Tampa-Hotels-Sailport-Waterfront-Suites.15646.ksp?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "hotels",
+                  "title": "Hampton Inn Tampa/Rocky Point-Airport",
+                  "url": "https://www.hotels.com/ho139522/hampton-inn-tampa-rocky-point-tampa-united-states-of-america/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "KAYAK",
+                  "title": "DoubleTree by Hilton Tampa Rocky Point Waterfront - Hotels",
+                  "url": "https://www.kayak.com/Tampa-Hotels-DoubleTree-by-Hilton-Tampa-Rocky-Point-Waterfront.14845.ksp?utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "223467b7-01b4-47e4-9f12-1a144e6955a1",
+          "search_result_groups": [
+            {
+              "domain": "hotels.com",
+              "entries": [
+                {
+                  "attribution": "hotels.com",
+                  "snippet": "DoubleTree by Hilton Tampa Rocky Point Waterfront, Bayfront hotel with outdoor pool, near Tampa Bay. Choose dates to view prices.Read more",
+                  "title": "DoubleTree by Hilton Tampa Rocky Point Waterfront",
+                  "url": "https://www.hotels.com/ho122508/doubletree-by-hilton-tampa-rocky-point-waterfront-tampa-united-states-of-america/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "hilton.com",
+              "entries": [
+                {
+                  "attribution": "hilton.com",
+                  "snippet": "The DoubleTree by Hilton Tampa Rocky Point Waterfront offers 291 guest rooms and suites, many with breathtaking water views. What's nearby. Airports.Read more",
+                  "title": "DoubleTree Tampa Rocky Point Waterfront hotel",
+                  "url": "https://www.hilton.com/en/hotels/tparhdt-doubletree-tampa-rocky-point-waterfront/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "trivago.com",
+              "entries": [
+                {
+                  "attribution": "trivago.com",
+                  "snippet": "DoubleTree by Hilton Tampa Rocky Point Waterfront (Tampa, USA). Share. Add to ... Friday, May 22$209. Fr. 22. Sat, 05/23/26. $204. Saturday, May 23$204. Sa. 23.Read more",
+                  "title": "Resort Sailport Waterfront Suites, Tampa, USA",
+                  "url": "https://www.trivago.com/en-US/oar/resort-sailport-waterfront-suites-tampa?search=100-66955&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "trivago.com",
+                  "snippet": "Compare hotel prices and find an amazing price for the DoubleTree by Hilton Tampa Rocky Point Waterfront Hotel in Tampa, USA. View 90 photos and read 5910 ...",
+                  "title": "DoubleTree by Hilton Tampa Rocky Point Waterfront",
+                  "url": "https://www.trivago.com/en-US/oar/hotel-doubletree-by-hilton-tampa-rocky-point-waterfront?search=100-67695&utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "expedia.com",
+              "entries": [
+                {
+                  "attribution": "expedia.com",
+                  "snippet": "Looking for the shortest distance between you and the ocean? Look for an oceanfront room in one of our hotels with an ocean view in Rocky Point, Tampa.",
+                  "title": "Find Oceanfront Hotels in Rocky Point, Tampa from $169",
+                  "url": "https://www.expedia.com/Rocky-Point-Tampa-Hotels-Oceanfront-Hotels.0-n6341894-0-tOceanfrontHotels.Travel-Guide-Filter-Hotels?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "expedia.com",
+                  "snippet": "How much does it cost to stay at DoubleTree by Hilton Tampa Rocky Point Waterfront? As of Apr 21, 2026, prices found for a 1-night stay for 2 adults at ...Read more",
+                  "title": "DoubleTree by Hilton Tampa Rocky Point Waterfront",
+                  "url": "https://www.expedia.com/Tampa-Hotels-DoubleTree-By-Hilton-Tampa-Rocky-Point-Waterfront.h1366.Hotel-Information?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "kayak.com",
+              "entries": [
+                {
+                  "attribution": "kayak.com",
+                  "snippet": "Average price (weeknight). Average price (weekend night). August. January. $219. $208. Cheapest month to stay with an average 36% drop in price. Most expensive ...Read more",
+                  "title": "Sailport Waterfront Suites - Tampa Hotels",
+                  "url": "https://www.kayak.com/Tampa-Hotels-Sailport-Waterfront-Suites.15646.ksp?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "tripadvisor.com",
+              "entries": [
+                {
+                  "attribution": "tripadvisor.com",
+                  "snippet": "The DoubleTree by Hilton Tampa Rocky Point is located on the waterfront just 12 minutes from downtown Tampa and the Tampa Convention Center.Read more",
+                  "title": "DoubleTree by Hilton Tampa Rocky Point Waterfront",
+                  "url": "https://www.tripadvisor.com/Hotel_Review-g34678-d217441-Reviews-DoubleTree_by_Hilton_Tampa_Rocky_Point_Waterfront-Tampa_Florida.html?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "booking.com",
+              "entries": [
+                {
+                  "attribution": "booking.com",
+                  "snippet": "Swimming pool. Free Wifi. Choose dates to see prices. Check-in date. Fri, Apr 17, 2026. Check-out date. Sat, Apr 18, 2026. April 2026. Sun, Mon, Tue, Wed, Thu ...Read more",
+                  "title": "DoubleTree by Hilton Tampa Rocky Point Waterfront",
+                  "url": "https://www.booking.com/hotel/us/doubletree-guest-suites-tampa-bay.html?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "travelocity.com",
+              "entries": [
+                {
+                  "attribution": "travelocity.com",
+                  "snippet": "... cost to stay at DoubleTree by Hilton Tampa Rocky Point Waterfront? As of Apr 21, 2026, prices found for a 1-night stay for 2 adults at DoubleTree by Hilton ...Read more",
+                  "title": "DoubleTree by Hilton Tampa Rocky Point Waterfront",
+                  "url": "https://www.travelocity.com/Tampa-Hotels-DoubleTree-By-Hilton-Tampa-Rocky-Point-Waterfront.h1366.Hotel-Information?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "hotelscombined.ae",
+              "entries": [
+                {
+                  "attribution": "hotelscombined.ae",
+                  "snippet": "Queen room \u00b7 bed type unknown. $125 ; Standard Room \u00b7 bed type unknown. $138 ; King room \u00b7 1 king bed. $147.Read more",
+                  "title": "DoubleTree by Hilton Tampa Rocky Point Waterfront",
+                  "url": "https://www.hotelscombined.ae/Hotel/DoubleTree_Suites_by_Hilton_Hotel_Tampa_Bay.htm?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "momondo.com",
+              "entries": [
+                {
+                  "attribution": "momondo.com",
+                  "snippet": "Find rooms from $123 to $805 at DoubleTree by Hilton Tampa Rocky Point Waterfront. Compare room types and prices from 29 providers.",
+                  "title": "DoubleTree by Hilton Tampa Rocky Point Waterfront",
+                  "url": "https://www.momondo.com/hotels/tampa/DoubleTree-by-Hilton-Tampa-Rocky-Point-Waterfront.mhd14845.ksp?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "bbb218fd-3c4a-4c2d-9f01-01683e41cabe"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Cheapest Tampa Hotels",
+  "update_time": 1782944518.782653,
+  "voice": null
+}

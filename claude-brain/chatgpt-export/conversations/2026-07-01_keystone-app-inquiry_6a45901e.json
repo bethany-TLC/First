@@ -1,0 +1,779 @@
+{
+  "conversation_id": "6a45901e-a308-83e8-a065-0acd6d85d9e0",
+  "conversation_template_id": null,
+  "create_time": 1782943780.753673,
+  "current_node": "4b1ba93a-f532-456f-b1e6-01983284b4c6",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a45901e-a308-83e8-a065-0acd6d85d9e0",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "2a68a6f1-49d8-4804-9779-527e8681b9a0": {
+      "id": "2a68a6f1-49d8-4804-9779-527e8681b9a0",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Can you clarify which **Keystone app** you mean?\n\nThere are several products with that name. The most common include:\n\n1. **\ue200url\ue202Keystone AI\ue202https://www.keystone.ai\ue201** \u2013 An enterprise AI platform for manufacturers that uses AI, forecasting, and optimization to automate supply chain and planning decisions. It's designed for large businesses, not consumers. \ue200cite\ue202turn0search0\ue202turn0search12\ue201\n\n2. **Keystone** by the technology advisory firm \u2013 A platform focused on AI strategy, economics, and regulatory consulting for large organizations. \ue200cite\ue202turn0search2\ue201\n\n3. Other apps named \"Keystone\" in areas like banking, education, and productivity.\n\nIf you're referring to an app you saw on social media, the App Store, or one used by creators or businesses, tell me:\n- Is it for **AI**, **business**, **real estate**, **education**, **finance**, or something else?\n- Or send me a screenshot or link, and I'll explain exactly what it does."
+          ]
+        },
+        "create_time": 1782943781.817174,
+        "id": "2a68a6f1-49d8-4804-9779-527e8681b9a0",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "[Keystone AI](https://www.keystone.ai?utm_source=chatgpt.com)",
+              "logo": null,
+              "prefix": null,
+              "prompt_text": null,
+              "title": "Keystone AI",
+              "type": "url"
+            },
+            {
+              "alt": "([Keystone](https://www.keystone.ai/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Keystone",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 12,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Keystone combines forecasts with operations research to inform agents as they take humans out of tactical decision loops so they can move from manual planning ...Read more",
+                  "supporting_websites": [
+                    {
+                      "attribution": "Keystone",
+                      "pub_date": null,
+                      "snippet": "Jan 15, 2026 \u2014 Keystone.AI is a B2B SaaS company building foundation models for manufacturing supply chains. Our Deep Enterprise AI Platform is a scientific ...Read more",
+                      "title": "Keystone Launches Keystone.AI to Redefine Supply Chain ...",
+                      "url": "https://www.keystone.ai/news-publications/keystone-launches-keystone-ai-to-redefine-supply-chain-planning-and-decision-making-with-foundation-models?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Keystone AI",
+                  "url": "https://www.keystone.ai/?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Keystone](https://www.keystone.com/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Keystone",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 2,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Keystone is a global technology and advisory firm helping leading organizations tackle complex business, legal, and tech challenges with AI-driven ...",
+                  "supporting_websites": [],
+                  "title": "Keystone | Home",
+                  "url": "https://www.keystone.com/?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prefix": null,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "Keystone",
+                  "title": "Keystone AI",
+                  "url": "https://www.keystone.ai/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Keystone",
+                  "title": "Keystone | Home",
+                  "url": "https://www.keystone.com/?utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "a692b707-db73-4e18-89fc-cfb5c4555622",
+          "search_result_groups": [
+            {
+              "domain": "apple.com",
+              "entries": [
+                {
+                  "attribution": "apple.com",
+                  "snippet": "ABOUT THE APP KeyMobile App \u2013 BRANCHLESS BANKING! Keymobile provides a seamless, secure, and personalized banking experience right at your fingertips.Read more",
+                  "title": "KeyMobile - App Store - Apple",
+                  "url": "https://apps.apple.com/ng/app/keymobile/id1332114961?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "key-stoneai.com",
+              "entries": [
+                {
+                  "attribution": "key-stoneai.com",
+                  "snippet": "At Keystone AI , you gain access to advanced software development expertise while having the flexibility to choose from various engagement models and ...",
+                  "title": "Keystone Ai: Home",
+                  "url": "https://www.key-stoneai.com/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "key-stoneai.com",
+                  "snippet": "Keystone AI offers advanced data engineering solutions designed to elevate your business. We build high-quality infrastructure and optimize your data flow.Read more",
+                  "title": "Our Solution | Keystone Ai",
+                  "url": "https://www.key-stoneai.com/services-9?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "linkedin.com",
+              "entries": [
+                {
+                  "attribution": "linkedin.com",
+                  "snippet": "Keystone.AI is a B2B SaaS company building foundation models for manufacturing supply chains. Our Deep Enterprise AI Platform is a scientific decision ...Read more",
+                  "title": "Keystone AI",
+                  "url": "https://www.linkedin.com/company/meetkeystone-ai?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "linkedin.com",
+                  "snippet": "Keystone.AI is a B2B SaaS company building foundation models for manufacturing supply chains. Our Deep Enterprise AI Platform is a scientific decision ...Read more",
+                  "title": "Keystone AI",
+                  "url": "https://uk.linkedin.com/company/meetkeystone-ai?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "flashrecall.app",
+              "entries": [
+                {
+                  "attribution": "flashrecall.app",
+                  "snippet": "Dec 3, 2025 \u2014 FlashRecall biology keystone quizlet study app interface demonstrating exam prep flashcards with AI-powered card. FlashRecall biology ...Read more",
+                  "title": "Biology Keystone Quizlet: 7 Powerful Study Tricks Most ...",
+                  "url": "https://flashrecall.app/blog/biology-keystone-quizlet?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "keystoneaigroup.com",
+              "entries": [
+                {
+                  "attribution": "keystoneaigroup.com",
+                  "snippet": "Keystone AI Group runs structured executive working sessions designed to enable senior leaders with the clarity and decision frameworks required to sponsor AI ...Read more",
+                  "title": "Keystone AI Group | AI Governance & Executive Accountability",
+                  "url": "https://www.keystoneaigroup.com/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "yahoo.com",
+              "entries": [
+                {
+                  "attribution": "yahoo.com",
+                  "snippet": "Jan 8, 2026 \u2014 \"Keystone has built a platform grounded in deep technical and advisory ... Keystone AI is an enterprise software company that delivers AI ...Read more",
+                  "title": "Keystone, a Global Technology and Ecosystem Advisory ...",
+                  "url": "https://finance.yahoo.com/news/keystone-global-technology-ecosystem-advisory-125300470.html?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "preqin.com",
+              "entries": [
+                {
+                  "attribution": "preqin.com",
+                  "snippet": "Keystone offers an enterprise-ready platform designed to convert Sentry alerts into actionable fixes, streamlining the process of managing production bugs. The ...Read more",
+                  "title": "Keystone AI Inc. Asset Profile",
+                  "url": "https://www.preqin.com/data/profile/asset/keystone-ai-inc-/771006?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "keystoneaisolutions.com",
+              "entries": [
+                {
+                  "attribution": "keystoneaisolutions.com",
+                  "snippet": "At Keystone AI Solutions, we help business leaders eliminate the friction that's slowing them down. From manual tasks and scattered tools to overloaded ...Read more",
+                  "title": "AI Systems That Eliminate Bottlenecks & Boost Business ...",
+                  "url": "https://keystoneaisolutions.com/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "keystone.ai",
+              "entries": [
+                {
+                  "attribution": "keystone.ai",
+                  "snippet": "Jan 15, 2026 \u2014 Keystone.AI is a B2B SaaS company building foundation models for manufacturing supply chains. Our Deep Enterprise AI Platform is a scientific ...Read more",
+                  "title": "Keystone Launches Keystone.AI to Redefine Supply Chain ...",
+                  "url": "https://www.keystone.ai/news-publications/keystone-launches-keystone-ai-to-redefine-supply-chain-planning-and-decision-making-with-foundation-models?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "quantumcomputingreport.com",
+              "entries": [
+                {
+                  "attribution": "quantumcomputingreport.com",
+                  "snippet": "Apr 25, 2026 \u2014 Pennsylvania has launched the Keystone AI + Quantum Factory, a first-of-its-kind statewide innovation network designed to transition ...",
+                  "title": "Pennsylvania Launch Ecosystem-Wide \"Keystone AI ...",
+                  "url": "https://quantumcomputingreport.com/pennsylvania-launch-ecosystem-wide-keystone-ai-quantum-factory/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "getlatka.com",
+              "entries": [
+                {
+                  "attribution": "getlatka.com",
+                  "snippet": "Keystone AI CEO shares how Keystone AI grew to $127.5M over the past 23 years. Keystone AI has bootstrapped. See Keystone AI growth here.",
+                  "title": "How Keystone AI hit $127.5M revenue with a 1.2K person ...",
+                  "url": "https://getlatka.com/companies/keystone.ai?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "bbb21e02-b07f-44d8-8b81-1e3983489b82"
+    },
+    "44c56d8c-f024-4429-8838-3eac49891b8a": {
+      "id": "44c56d8c-f024-4429-8838-3eac49891b8a",
+      "message": null,
+      "parent": null
+    },
+    "4b1ba93a-f532-456f-b1e6-01983284b4c6": {
+      "id": "4b1ba93a-f532-456f-b1e6-01983284b4c6",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Oh! I think you're talking about **Jim Belsheim** (people often hear it as \"Jimbo\"), the guy behind Keystone who's been going viral on Instagram with the \"$100 ad management\" pitch. His hook is essentially:\n\n> \"Pay us $100 and we'll run your Meta ads.\"\n\nThe catch is that the **$100 isn't your total advertising cost**. It's a low monthly management fee, while you still pay your own Meta ad spend. Keystone automates much of the campaign setup and optimization, allowing them to profit by scaling a standardized system rather than offering highly customized agency services. \ue200cite\ue202turn1search0\ue201\n\nFor businesses like med spas, that model can work if they:\n- Already have proven offers.\n- Have good landing pages and follow-up.\n- Just need traffic sent to an existing funnel.\n\nWhere it typically falls short is when a business needs strategy beyond ad delivery. For example:\n- Building irresistible offers.\n- Improving consultation conversion.\n- Membership strategy.\n- Patient retention.\n- Revenue leak analysis.\n- Operational improvements.\n- Increasing lifetime value.\n\nThose are separate problems that software and low-cost ad management generally don't solve.\n\nFor **The Luxora Collective**, I actually think his marketing is worth studying more than his service. His \"$100\" offer is a classic low-friction hook that gets attention and drives volume. The lesson isn't necessarily to copy the offer, but to think about how you can create an equally compelling entry point.\n\nFor example, you've already been developing your **Revenue Leak Audit**. That's the kind of offer that can attract med spa owners into your ecosystem while leading naturally to your higher-value growth partnership.\n\nIf you want, I can also break down **exactly how Jim structures his Instagram funnel, ads, pricing, and backend sales process**, because there's a lot to learn from the marketing strategy itself."
+          ]
+        },
+        "create_time": 1782943845.541667,
+        "id": "4b1ba93a-f532-456f-b1e6-01983284b4c6",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "([Instagram](https://www.instagram.com/reel/DUBJf5zjrrB/?hl=en&utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Instagram",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 1
+                    }
+                  ],
+                  "snippet": "Comment \u201c100\u201d and I'll send you a direct message to our free scaling road map course. If your business isn't making $100,000 a month",
+                  "supporting_websites": [],
+                  "title": "Comment \u201c100\u201d and I\u2019ll send you a direct message to our free ...",
+                  "url": "https://www.instagram.com/reel/DUBJf5zjrrB/?hl=en&utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prefix": null,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "Instagram",
+                  "title": "Comment \u201c100\u201d and I\u2019ll send you a direct message to our free ...",
+                  "url": "https://www.instagram.com/reel/DUBJf5zjrrB/?hl=en&utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Memory",
+                "citation_uuid": "a132bd45-bfac-458a-aa3c-4aec1a94d0ca",
+                "conversation_context_type": "general_memory",
+                "end_idx": -1,
+                "index": 1,
+                "matched_text": "",
+                "prompt_text": null,
+                "reason": "You\u2019re already developing a Revenue Leak Audit offer.",
+                "refs": [],
+                "snippet": "(1) Revenue Leak Audit (front-end entry)",
+                "start_idx": -1,
+                "title": "You\u2019re already developing a Revenue Leak Audit offer.",
+                "type": "conversation_context_citation",
+                "url": "#settings/Personalization"
+              },
+              "citation_uuid": "a132bd45-bfac-458a-aa3c-4aec1a94d0ca",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "49823df2-688a-48f7-8c4d-f4b778faf1fb",
+          "search_result_groups": [
+            {
+              "domain": "instagram.com",
+              "entries": [
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "Pop-up magic at @jimbosnaturally today \u2013 and the highlight? A surprise visit from Justin Jackson, the incredible CEO behind it all!",
+                  "title": "Pop-up magic at @jimbosnaturally today \u2013 ...",
+                  "url": "https://www.instagram.com/p/DO6-Z69kmOp/?hl=kn&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "Last year my companies did over $250 million in aggregate revenue. My name is Alex Hormozi. I'm the founder and managing partner of Acquisition.",
+                  "title": "Comment \u201c100\u201d if you want a free personalized $100M scaling ...",
+                  "url": "https://www.instagram.com/reel/DUG5LHyElnK/?hl=en&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "Wellness Wednesday with @sproutliving Explore some of the cleanest plant-based protein supplements around, and discover Mark's (founder) journey to Jimbo's.",
+                  "title": "Jimbo's (@jimbosnaturally) \u2022 Instagram photos and videos",
+                  "url": "https://www.instagram.com/jimbosnaturally/?hl=en&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "Well actually, there's at least 20 videos of franchisees who are turning over more than a million dollars a year just on our system and those ...",
+                  "title": "Jimbo? #jimsgroup #franchise",
+                  "url": "https://www.instagram.com/reel/DOA8MFLDaVP/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "I've had a pretty crazy entrepreneurial ride that culminated with our company going from zero to $100 million in revenue in one year.",
+                  "title": "I've also done a lot of work spiritually, physically and ...",
+                  "url": "https://www.instagram.com/reel/DO3oVjrjTDT/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "He built a $100M business and gives the playbook away for free. May 31. OCR. These 5 Instagram accounts helped me build a $92 million startup \u261f ...",
+                  "title": "These Instagram accounts helped me build a $92 million ...",
+                  "url": "https://www.instagram.com/reel/DZApOo7xRQQ/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "How Two Entrepreneurs Generated $100M in Revenue, without running a single ad ClickFunnels Paul and Shreya didn't build their growth on ad spend ...Read more",
+                  "title": "\"What can I give to my audience?\u201d @pauljcounts and @ ...",
+                  "url": "https://www.instagram.com/p/DX9i3f5kkfi/?img_index=3&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "Austin Harrison is the CEO of Northbeam, the analytics platform that tracks over $31 billion in ad spend across the top DTC brands in the world.",
+                  "title": "Elevator Goods | He sees the data from over $31 billion in ad ...",
+                  "url": "https://www.instagram.com/reel/DaGU1WEMmqJ/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "youtube.com",
+              "entries": [
+                {
+                  "attribution": "youtube.com",
+                  "snippet": "What if one app could run your entire business? In this episode, we go inside **Jimbo**\u2014Jim's Group's all-in-one job management app\u2014and ...",
+                  "title": "Full Jimbo Demo: Leads, Quotes, Invoices & Client Management",
+                  "url": "https://www.youtube.com/watch?v=S8MXRRZ51hg&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "youtube.com",
+                  "snippet": "Gannon Meyer had a finance degree and zero sales in his first month selling life insurance. He quit, spent his last $300 from a stimulus ...",
+                  "title": "From Selling Life Insurance to 140K Followers Teaching ...",
+                  "url": "https://www.youtube.com/watch?v=CHJA8COXHxs&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "youtube.com",
+                  "snippet": "Want more help? Connect with 10000+ gym owners in our free group: http://gymownersunited.com \u2796\u2796\u2796 Paid ads have changed.",
+                  "title": "The PROVEN Paid Ads System That Gets Gym Owners More ...",
+                  "url": "https://www.youtube.com/watch?v=p-WlYh3Hz9M&utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "facebook.com",
+              "entries": [
+                {
+                  "attribution": "facebook.com",
+                  "snippet": "The Jimbo app? Sarfy explains what it does and gives an overview of the software on the Jim's Podcast. #jimsgroup.",
+                  "title": "The Jimbo app? Sarfy explains what it does and gives an ...",
+                  "url": "https://www.facebook.com/JimsGroupAUS/videos/the-jimbo-app-sarfy-explains-what-it-does-and-gives-an-overview-of-the-software-/911556125043513/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "facebook.com",
+                  "snippet": "In this episode, Lara speaks with Charlie Smith about Nothing's collaboration with Charli XCX, making tech cool again, and taking on the phone ...",
+                  "title": "How To Take On Apple And Samsung, With Nothing CBO ...",
+                  "url": "https://www.facebook.com/businessinsider/videos/how-to-take-on-apple-and-samsung-with-nothing-cbo-cmo-insider-podcastpresented-b/2054378702154977/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "icon.com",
+              "entries": [
+                {
+                  "attribution": "icon.com",
+                  "snippet": "38 Human UGC ads (100% real / no AI) for $100M+ brands like IM8, Everyday Dose, & MoonBrew. Watch 38 examples \u2192.Read more",
+                  "title": "Health & Wellness Stories | Customers - Icon",
+                  "url": "https://icon.com/customers/health-wellness?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "jims.net",
+              "entries": [
+                {
+                  "attribution": "jims.net",
+                  "snippet": "What is Jimbo? Jimbo is the official app for Jim's Group franchisees. It helps you manage jobs, customers, invoicing, and communication\u2014all in one place.",
+                  "title": "Jimbo by Jim's | All-in-One Job and Admin App for Service ...",
+                  "url": "https://jimbo.jims.net/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "linkedin.com",
+              "entries": [
+                {
+                  "attribution": "linkedin.com",
+                  "snippet": "The JIMBO app is our exclusive software for franchise owners to manage their business. Hear more about the product on the Jim's Podcast.",
+                  "title": "The JIMBO app is our exclusive software for franchise ...",
+                  "url": "https://www.linkedin.com/posts/jimsgroup_the-jimbo-app-is-our-exclusive-software-for-activity-7447927541262090240-ZA-c?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "bbb2184d-f6bf-46e3-adc3-ba094a4dd392"
+    },
+    "6a1787aa-9c8f-4a38-8854-70e54758656d": {
+      "id": "6a1787aa-9c8f-4a38-8854-70e54758656d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "I actually spent some time looking through it, and I think it's an interesting platform. Given what I know about **The Luxora Collective**, there are some things they do well, but there are also some significant gaps that I think create an opportunity for you.\n\n### What Keystone is\n\n\ue200url\ue202Keystone\ue202turn0search1\ue201 markets itself as an **all-in-one growth platform** for health and wellness businesses. Their promise is essentially:\n\n- Build your website\n- Handle local SEO\n- Run paid advertising\n- Manage calls, texts, and DMs\n- Online booking\n- Automated reminders\n- Review generation\n- Rebooking and retention\n- Reporting dashboard\n\nThe goal is to become the outsourced front desk and marketing department for wellness businesses. \ue200cite\ue202turn0search1\ue201\n\n### The good\n\nThey've done a nice job packaging everything into a very easy-to-understand offer.\n\nI especially like that they focus on:\n- Simplicity\n- Automation\n- Reputation management\n- Rebooking\n- Keeping calendars full\n\nFor a chiropractor, massage practice, fitness studio, or small med spa that has no systems in place, this could genuinely be valuable. \ue200cite\ue202turn0search1\ue201\n\n### Where I think they're weak\n\nThis is where I believe Luxora separates itself.\n\nKeystone appears to focus primarily on **getting more appointments.**\n\nFrom everything on their site, I don't see much emphasis on:\n\n- Revenue leak analysis\n- Average ticket optimization\n- Membership strategy\n- Treatment plans\n- Retail systems\n- Laser ROI\n- Injectable profitability\n- Provider utilization\n- Pricing optimization\n- Financial KPIs\n- High-ticket consultation scripting\n- Operational consulting\n- Team accountability\n- Custom playbooks\n\nThose are the areas where med spas typically make or lose hundreds of thousands of dollars each year.\n\nIn other words:\n\n**Keystone helps you get more appointments.**\n\n**Luxora helps practices make dramatically more money from the appointments they already have, while also bringing in new ones.**\n\nThat's a very different value proposition.\n\n### What I would do if I were competing against them\n\nI wouldn't try to beat them at being an \"all-in-one marketing platform.\"\n\nI'd lean even harder into what makes Luxora different:\n\n- Revenue Leak Audit\n- Market Blueprint\n- Revenue Multipliers\n- Membership optimization\n- Retail systems\n- Consultation conversion\n- Patient lifetime value\n- Operational excellence\n- AI + human growth partnership\n- Guaranteed revenue recovery\n\nThat positions you as a **growth partner**, not another software company.\n\n### My overall opinion\n\nI'd rate them **8/10**.\n\nThey have a polished website and a clear offer, but I don't think they're solving the highest-value problems for med spa owners. They're helping practices get busier.\n\nLuxora's opportunity is to help practices become **more profitable**, which is a much stronger long-term position if you continue building your playbooks, Revenue Leak Audit, Market Blueprint, and acquisition engine together.\n\nFrom what I've seen, I don't think Keystone is a direct competitor. I'd consider them more of a marketing automation platform, whereas Luxora is building a strategic growth partnership focused on increasing enterprise value, profitability, and sustainable scale."
+          ]
+        },
+        "create_time": 1782943790.262291,
+        "id": "6a1787aa-9c8f-4a38-8854-70e54758656d",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "[Keystone](https://www.keystone.app/industries/health-wellness/?utm_source=chatgpt.com)",
+              "logo": null,
+              "prefix": null,
+              "prompt_text": null,
+              "title": "Keystone",
+              "type": "url"
+            },
+            {
+              "alt": "([Keystone](https://www.keystone.app/industries/health-wellness/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Keystone",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 1,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "7 days ago \u2014 Automated reminders, rebookings, and re-engagement turn first visits into memberships and regulars. Build a five-star reputation. Every happy ...Read more",
+                  "supporting_websites": [],
+                  "title": "Sales & Marketing for Health & Wellness Businesses - Keystone",
+                  "url": "https://www.keystone.app/industries/health-wellness/?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Keystone](https://www.keystone.app/industries/health-wellness/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Keystone",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 1,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "7 days ago \u2014 Automated reminders, rebookings, and re-engagement turn first visits into memberships and regulars. Build a five-star reputation. Every happy ...Read more",
+                  "supporting_websites": [],
+                  "title": "Sales & Marketing for Health & Wellness Businesses - Keystone",
+                  "url": "https://www.keystone.app/industries/health-wellness/?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prefix": null,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "Keystone",
+                  "title": "Sales & Marketing for Health & Wellness Businesses - Keystone",
+                  "url": "https://www.keystone.app/industries/health-wellness/?utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Memory",
+                "citation_uuid": "45439833-0a29-4933-8cf3-acf1ae1992b4",
+                "conversation_context_type": "general_memory",
+                "end_idx": -1,
+                "index": 1,
+                "matched_text": "",
+                "prompt_text": null,
+                "reason": "You position Luxora as a three-pillar growth partner.",
+                "refs": [],
+                "snippet": "Offer clarified to three pillars: (1) Revenue Leak Audit (front-end entry), (2) Run acquisition lead generation (Meta + reactivation + qualification + show-up), (3) Access to Playbooks (Growth Course).",
+                "start_idx": -1,
+                "title": "You position Luxora as a three-pillar growth partner.",
+                "type": "conversation_context_citation",
+                "url": "#settings/Personalization"
+              },
+              "citation_uuid": "45439833-0a29-4933-8cf3-acf1ae1992b4",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "00ac72a1-c32f-44dc-b320-e81ea4670baf",
+          "search_result_groups": [
+            {
+              "domain": "google.com",
+              "entries": [
+                {
+                  "attribution": "google.com",
+                  "snippet": "Nov 9, 2025 \u2014 This mobile application provides quick and easy ways to help you manage your health care. For members, it puts your Keystone First health plan information at ...Read more",
+                  "title": "Keystone First Mobile - Apps on Google Play",
+                  "url": "https://play.google.com/store/apps/details?hl=en_US&id=com.ahc.ckfmobile&utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "apple.com",
+              "entries": [
+                {
+                  "attribution": "apple.com",
+                  "snippet": "This mobile application provides quick and easy ways to help you manage your health care. For members, it puts your Keystone First health plan information at ...Read more",
+                  "title": "Keystone First Mobile - App Store",
+                  "url": "https://apps.apple.com/us/app/keystone-first-mobile/id1185532870?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "keystonefirstpa.com",
+              "entries": [
+                {
+                  "attribution": "keystonefirstpa.com",
+                  "snippet": "Feb 3, 2026 \u2014 Here you will find health information including: Healthy eating tips and recipes, calculators to help measure things such as your heart rate, baby's due date, ...Read more",
+                  "title": "Health and wellness",
+                  "url": "https://www.keystonefirstpa.com/member/health-wellness?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "plusoneworkplacewellbeing.com",
+              "entries": [
+                {
+                  "attribution": "plusoneworkplacewellbeing.com",
+                  "snippet": "Digital wellness platforms integrate mindfulness practices, physical activity tracking and energy management tools that help employees maintain focus throughout ...Read more",
+                  "title": "5 Benefits of corporate wellness and fitness apps for your ...",
+                  "url": "https://www.plusoneworkplacewellbeing.com/5-benefits-of-corporate-wellness-and-fitness-apps-for-your-workforce/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "instagram.com",
+              "entries": [
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "With Exectras 360HEALTH, members can access health and wellness benefits starting at just $75/month for individuals and families.\u2060 \u2060 Learn more ...Read more",
+                  "title": "Discover the many health benefits you have as a member ...",
+                  "url": "https://www.instagram.com/p/DYX2xHDn4Ht/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "healthsource-solutions.com",
+              "entries": [
+                {
+                  "attribution": "healthsource-solutions.com",
+                  "snippet": "Jan 1, 2024 \u2014 1. Social Connectivity \u00b7 2. Wellbeing Activities \u00b7 3. Education \u00b7 4. Administrative Support \u00b7 5. Health Assessment \u00b7 6. Self-Guided Programming \u00b7 7.Read more",
+                  "title": "Top 10 Features Your Wellness Portal Should Have",
+                  "url": "https://www.healthsource-solutions.com/top-10-features-your-wellness-portal-should-have/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "cordico.com",
+              "entries": [
+                {
+                  "attribution": "cordico.com",
+                  "snippet": "The Cordico app is 100% confidential and anonymous and comes packed with a wide range of resources developed by clinical experts.Read more",
+                  "title": "Wellness App",
+                  "url": "https://cordico.com/wellness-app/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "keystonehealth.org",
+              "entries": [
+                {
+                  "attribution": "keystonehealth.org",
+                  "snippet": "Click here for a guide of free and low-cost fitness ideas for families, including a list of local parks and playgrounds!Read more",
+                  "title": "Community Resources",
+                  "url": "https://keystonehealth.org/our-programs/communityresources/?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "bbb21fe2-8337-430f-8893-e1b9261c89d1"
+    },
+    "bbb2184d-f6bf-46e3-adc3-ba094a4dd392": {
+      "id": "bbb2184d-f6bf-46e3-adc3-ba094a4dd392",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Whoa the guy on Instagram that says he charges $100 to run ads Jimbo osomethign"
+          ]
+        },
+        "create_time": 1782943841.540134,
+        "id": "bbb2184d-f6bf-46e3-adc3-ba094a4dd392",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "6a1787aa-9c8f-4a38-8854-70e54758656d"
+    },
+    "bbb21e02-b07f-44d8-8b81-1e3983489b82": {
+      "id": "bbb21e02-b07f-44d8-8b81-1e3983489b82",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Tell me about the keystone app"
+          ]
+        },
+        "create_time": 1782943780.537891,
+        "id": "bbb21e02-b07f-44d8-8b81-1e3983489b82",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "44c56d8c-f024-4429-8838-3eac49891b8a"
+    },
+    "bbb21fe2-8337-430f-8893-e1b9261c89d1": {
+      "id": "bbb21fe2-8337-430f-8893-e1b9261c89d1",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "https://www.keystone.app/industries/health-wellness/?fbclid=IwdGRjcASybzpleHRuA2FlbQEwAGFkaWQAAC_Ti5w49XNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHtx2XrPPZ-KRmSZNfRJ2W36fHhoQP_ACf8iPnYhzUfywlROQaM3cSTmiwttT_aem_et10MdtckOghZhVRFBS_tQ&utm_medium=paid&utm_source=fb&utm_id=52585579496149&utm_content=52585624522349&utm_term=52585579497349&utm_campaign=52585579496149"
+          ]
+        },
+        "create_time": 1782943788.435239,
+        "id": "bbb21fe2-8337-430f-8893-e1b9261c89d1",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "2a68a6f1-49d8-4804-9779-527e8681b9a0"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Keystone App Inquiry",
+  "update_time": 1782943852.380509,
+  "voice": null
+}

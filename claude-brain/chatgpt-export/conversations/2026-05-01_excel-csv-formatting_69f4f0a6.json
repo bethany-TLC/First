@@ -1,0 +1,80 @@
+{
+  "conversation_id": "69f4f0a6-6acc-83ea-9ae1-32bbd0e859a9",
+  "conversation_template_id": null,
+  "create_time": 1777660084.645405,
+  "current_node": "db9e4ea3-eadb-4c6f-abf0-d96a34e6bea3",
+  "default_model_slug": "gpt-5-3",
+  "id": "69f4f0a6-6acc-83ea-9ae1-32bbd0e859a9",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "d567457b-ff43-485d-9101-27f335e00270": {
+      "id": "d567457b-ff43-485d-9101-27f335e00270",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "put this list in separearte column so i can import it int exel Ashley Francois- Antioch- Academy Innovator of the Year \r\nAlisha Seeley- Lawson- Academy Innovator of the Year \r\nDeerrell Taylor- Cane Ridge- Academy Innovator of the Year \r\nLatonya Givens- Pearl Cohn- Academy Innovator of the Year AND Academy Teacher of the Year\r\nTaylor Shelton- Pearl Cohn- Academy Teacher of the Year\r\nKearea Brady- Whites Creek- Academy Teacher of the Year\r\nSheree Cumberlander- Whites Creek- Academy Teacher of the Year\r\nKenneth Harper- McGavock- Academy Teacher of the Year\r\nMaria Hightower- Maplewood- Academy Teacher of the Year\r\nTwjuana Williams- Maplewood- Academy Teacher of the Year\r\nIsaiah Long- Maplewood- Academy Innovator of the Year\r\nStephanie McGowen- Glencliff- Academy Innovator of the Year\r\nJessica Seifert- Stratford STEM- Academy Teacher of the Year"
+          ]
+        },
+        "create_time": 1777660084.161,
+        "id": "d567457b-ff43-485d-9101-27f335e00270",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "db9e4ea3-eadb-4c6f-abf0-d96a34e6bea3": {
+      "id": "db9e4ea3-eadb-4c6f-abf0-d96a34e6bea3",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here you go, formatted into clean columns for easy Excel import (CSV format):\n\n```\nName,School,Award\nAshley Francois,Antioch,Academy Innovator of the Year\nAlisha Seeley,Lawson,Academy Innovator of the Year\nDeerrell Taylor,Cane Ridge,Academy Innovator of the Year\nLatonya Givens,Pearl Cohn,Academy Innovator of the Year; Academy Teacher of the Year\nTaylor Shelton,Pearl Cohn,Academy Teacher of the Year\nKearea Brady,Whites Creek,Academy Teacher of the Year\nSheree Cumberlander,Whites Creek,Academy Teacher of the Year\nKenneth Harper,McGavock,Academy Teacher of the Year\nMaria Hightower,Maplewood,Academy Teacher of the Year\nTwjuana Williams,Maplewood,Academy Teacher of the Year\nIsaiah Long,Maplewood,Academy Innovator of the Year\nStephanie McGowen,Glencliff,Academy Innovator of the Year\nJessica Seifert,Stratford STEM,Academy Teacher of the Year\n```\n\nJust copy and paste directly into Excel or upload as a CSV file and it will auto-separate into columns."
+          ]
+        },
+        "create_time": 1777660084.547841,
+        "id": "db9e4ea3-eadb-4c6f-abf0-d96a34e6bea3",
+        "metadata": {
+          "code_blocks": {
+            "0": {
+              "edited": false,
+              "id": "5p2ble",
+              "preview_language": null,
+              "previewable": false
+            }
+          },
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "82897db9-0574-4251-8e8a-bc0cb32cd39b"
+        }
+      },
+      "parent": "d567457b-ff43-485d-9101-27f335e00270"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Excel CSV Formatting",
+  "update_time": 1777660095.999665,
+  "voice": null
+}

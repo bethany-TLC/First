@@ -1,0 +1,49 @@
+{
+  "conversation_id": "6a0a54e7-8818-83ea-ad47-44a02c1bc221",
+  "conversation_template_id": null,
+  "create_time": 1779062008.829037,
+  "current_node": "495e2091-c6c8-4539-90da-6667139a1c59",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a0a54e7-8818-83ea-ad47-44a02c1bc221",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "495e2091-c6c8-4539-90da-6667139a1c59": {
+      "id": "495e2091-c6c8-4539-90da-6667139a1c59",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "cretae a happy birthday Jacques from the The Luxora Collective Team image"
+          ]
+        },
+        "create_time": 1779062009.316,
+        "id": "495e2091-c6c8-4539-90da-6667139a1c59",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Birthday Image Request",
+  "update_time": 1779062040.989791,
+  "voice": null
+}

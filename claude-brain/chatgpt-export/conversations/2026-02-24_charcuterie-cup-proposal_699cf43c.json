@@ -1,0 +1,71 @@
+{
+  "conversation_id": "699cf43c-72c4-8325-a27e-3c269fc9d4b1",
+  "conversation_template_id": null,
+  "create_time": 1771893834.596069,
+  "current_node": "1991a536-fee2-4529-800f-70deab536070",
+  "default_model_slug": "gpt-5-2",
+  "id": "699cf43c-72c4-8325-a27e-3c269fc9d4b1",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "1991a536-fee2-4529-800f-70deab536070": {
+      "id": "1991a536-fee2-4529-800f-70deab536070",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here are **clean, professional invite and quote options** you can use for a non profit agency. I kept the tone polished, warm, and donation appropriate. No em dashes used.\n\n---\n\n## Option 1: Formal Invitation Language (Best for email or proposal)\n\n**Subject:** Charcuterie Cup Catering Proposal for [Event Name]\n\nDear [Organization or Contact Name],\n\nWe would be honored to support [Organization Name] at your upcoming [Event Name] on [Date]. We are pleased to provide handcrafted individual charcuterie cups designed for easy serving, elegant presentation, and guest enjoyment.\n\nEach cup is thoughtfully curated with a selection of premium cheeses, cured meats, fresh fruit, and accompaniments. The individual format ensures cleanliness, convenience, and a polished experience for attendees.\n\nBelow is our proposed offering and pricing. We are happy to customize quantities, ingredients, or presentation to align with your event needs and budget.\n\nThank you for the opportunity to contribute to such a meaningful event. We would love to support your mission.\n\nWarm regards,  \n[Your Name]  \n[Business Name]  \n[Contact Information]\n\n---\n\n## Option 2: Clean Quote Format (Attach as PDF or include inline)\n\n**Charcuterie Cup Catering Quote**\n\nClient: [Non Profit Organization Name]  \nEvent: [Event Name]  \nEvent Date: [Date]  \nEvent Location: [Location]\n\n**Service Provided:**  \nCreation and delivery of individual charcuterie cups for event attendees.\n\n**Includes:**  \n\u2022 Curated assortment of cheeses, cured meats, fresh fruit, and accompaniments  \n\u2022 Individual serving cups for easy handling  \n\u2022 Professional preparation and presentation  \n\u2022 Delivery to event location\n\n**Quantity:** [Number of cups]  \n**Price per Cup:** $[X]  \n**Total Investment:** $[Total]\n\nWe are grateful for the opportunity to support [Organization Name] and are happy to adjust this proposal as needed.\n\nPrepared by:  \n[Your Name]  \n[Business Name]  \n[Date]\n\n---\n\n## Option 3: Warm Non Profit Friendly Language (If you want a softer tone)\n\nIt would be our pleasure to support [Organization Name] by providing handcrafted individual charcuterie cups for your upcoming event. This offering is designed to elevate the guest experience while maintaining ease of service and presentation.\n\nWe appreciate the important work your organization does and would love to contribute in a meaningful way through this partnership.\n\n---\n\n## Optional Add On Language (If Discount or Donation Is Included)\n\nAs a thank you for the work your organization does, we are pleased to offer special non profit pricing for this event.\n\nOR\n\nA portion of proceeds from this service will be donated back to [Organization Name] in support of your mission.\n\n---\n\nIf you want, tell me:\n\u2022 Event size  \n\u2022 Whether this is donated, discounted, or full price  \n\u2022 Casual or upscale vibe  \n\nI can tailor this into a one page branded PDF or tighten it for an invoice or sponsorship deck."
+          ]
+        },
+        "create_time": 1771893834.439431,
+        "id": "1991a536-fee2-4529-800f-70deab536070",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "854d309e-eedb-41a0-9328-c2d64af815ed"
+        }
+      },
+      "parent": "bbb21cb4-6b55-4f67-8a84-6ff2fbae6276"
+    },
+    "54317ef9-f16c-49c5-897d-201abf480184": {
+      "id": "54317ef9-f16c-49c5-897d-201abf480184",
+      "message": null,
+      "parent": null
+    },
+    "bbb21cb4-6b55-4f67-8a84-6ff2fbae6276": {
+      "id": "bbb21cb4-6b55-4f67-8a84-6ff2fbae6276",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "What should an invite/quote say to present to a non-profit agency for delivering and creating charcuterie cups for an event"
+          ]
+        },
+        "create_time": 1771893834.214615,
+        "id": "bbb21cb4-6b55-4f67-8a84-6ff2fbae6276",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "54317ef9-f16c-49c5-897d-201abf480184"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Charcuterie Cup Proposal",
+  "update_time": 1771893863.279804,
+  "voice": null
+}

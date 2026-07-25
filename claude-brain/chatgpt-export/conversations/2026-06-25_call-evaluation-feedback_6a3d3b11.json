@@ -1,0 +1,248 @@
+{
+  "conversation_id": "6a3d3b11-344c-83e8-ac41-8d89baa7263e",
+  "conversation_template_id": "g-69e1104abd1c8191a1d85cd576cd9edf",
+  "create_time": 1782397716.397663,
+  "current_node": "a0fac81f-7385-4041-9332-4b4674f32630",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a3d3b11-344c-83e8-ac41-8d89baa7263e",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "9a4ec9fc-2801-46a9-a7ed-189b0de7f42e": {
+      "id": "9a4ec9fc-2801-46a9-a7ed-189b0de7f42e",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "rate this call: "
+          ]
+        },
+        "create_time": 1782397716.443,
+        "id": "9a4ec9fc-2801-46a9-a7ed-189b0de7f42e",
+        "metadata": {
+          "attachments": [
+            {
+              "file_token_size": 14415,
+              "id": "file_000000009aa471f593fe38e3dabbae86",
+              "is_big_paste": true,
+              "name": "Pasted text.txt",
+              "size": 57188,
+              "source": "local"
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "a0fac81f-7385-4041-9332-4b4674f32630": {
+      "id": "a0fac81f-7385-4041-9332-4b4674f32630",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "LET\u2019S GO. I went through the consultation you shared and graded it using the 16-point consult scorecard. The transcript appears to be truncated near the end, so I can't fully evaluate the final close or any follow-up after the prospect said she needed to think about it. My grading is based on the conversation that was available. \ue200filecite\ue202turn0file0\ue201\n\n# Scorecard\n\n### Domain 1 \u2013 Authority & Presence\n\n| Statement | Score |\n|---|---:|\n| 1. Certainty at the opening | 4 \u26a1 Solid |\n| 2. Doesn't over-credential | 5 \u2705 Dialed In |\n| 3. Certainty transfers to client | 4 \u26a1 Solid |\n| 4. Commands the conversation | 3 \u26a0 Inconsistent |\n\n**Domain Average: 4.0 / 5**\n\n---\n\n### Domain 2 \u2013 Clarity & Plan Presentation\n\n| Statement | Score |\n|---|---:|\n| 5. One clear recommendation | 4 \u26a1 Solid |\n| 6. Leads with transformation | 3 \u26a0 Inconsistent |\n| 7. Doesn't over-explain | 4 \u26a1 Solid |\n| 8. Next steps are crystal clear | 2 \ud83d\udd3b Weak |\n\n**Domain Average: 3.25 / 5**\n\n---\n\n### Domain 3 \u2013 Urgency & Decision Guidance\n\n| Statement | Score |\n|---|---:|\n| 9. Asks for commitment | 2 \ud83d\udd3b Weak |\n| 10. Stays in the conversation | 3 \u26a0 Inconsistent |\n| 11. Creates urgency | 2 \ud83d\udd3b Weak |\n| 12. Explores hesitation deeply | 2 \ud83d\udd3b Weak |\n\n**Domain Average: 2.25 / 5**\n\n---\n\n### Domain 4 \u2013 Pricing Delivery & Objection Handling\n\n| Statement | Score |\n|---|---:|\n| 13. Delivers pricing confidently | 4 \u26a1 Solid |\n| 14. Doesn't pre-justify price | 5 \u2705 Dialed In |\n| 15. Handles objections directly | 2 \ud83d\udd3b Weak |\n| 16. Maintains value throughout | 4 \u26a1 Solid |\n\n**Domain Average: 3.75 / 5**\n\n---\n\n# Total Score\n\n**53 / 80**\n\n**Overall:** \u26a0 Strong discovery and rapport. Moderate presentation. The biggest money leak is after pricing.\n\n---\n\n# \ud83d\udfe2 What You Did Well\n\n### 1. You established a collaborative but confident agenda immediately.\n\n> *\"At the end, I'm going to build out kind of a higher-level strategy for you... and if we're a good fit, great. If we're not, I'm going to point you in the right direction...\"*\n\nThis immediately lowered pressure while positioning yourself as the guide instead of someone desperate to make a sale.\n\n---\n\n### 2. You listened exceptionally well.\n\nThroughout the call you referenced things Jenna had already shared instead of forcing your own agenda.\n\nFor example:\n\n> *\"Based on everything you've shared... I think the done-for-you would be better.\"*\n\nThat recommendation felt earned rather than random.\n\n---\n\n### 3. You delivered pricing without apologizing.\n\n> *\"The done with you is $9,000... the done for you is $15,000... ongoing after that is $2,500.\"*\n\nNo rambling.\n\nNo discounting.\n\nNo \"I know that's expensive.\"\n\nThat is exactly how pricing should sound.\n\n---\n\n# \ud83d\udd34 Top 3 Conversion Killers\n\n## 1. You sold features instead of the future.\n\nThe recommendation became a list of deliverables.\n\n> *\"Audit... growth blueprint... growth course... ad frameworks... retention systems... AI tools... Slack support...\"*\n\nThat's a brochure.\n\nJenna already believes agencies can do marketing.\n\nShe needs to believe **your agency will double her spa revenue.**\n\n### Replacement Script\n\n> \"Here's what I believe is possible. Right now your spa is on pace for roughly $300,000 a year. Based on everything you've shared, I don't think the issue is demand\u2014I think it's monetization and acquisition. Our job is to help you build a system that consistently fills high-value treatments so you're much closer to the $600,000 target you told me you want.\"\n\nNow you're selling *her dream*, not your process. This aligns with the transformation-first recommendation in the training material. \ue200filecite\ue202turn0file1\ue201\n\n---\n\n## 2. You accepted the budget objection too quickly.\n\nWhen Jenna said:\n\n> *\"It's likely going to be out of budget...\"*\n\nYou immediately moved into financing.\n\nYou never found out if budget was actually the objection.\n\n### Replacement Script\n\n> \"Can I ask you something? If the investment weren't the issue, would this be exactly the partner you'd want to move forward with?\"\n\nThen:\n\n> \"Help me understand what feels uncomfortable about the investment.\"\n\nOnly after that would you discuss payment options.\n\n---\n\n## 3. You never created a decision moment.\n\nAfter presenting pricing, the conversation drifted into:\n\n- team structure\n- copywriting\n- AI\n- operations\n\nThose are buying questions, but they became information sessions instead of closing opportunities.\n\n### Replacement Script\n\nAfter answering those questions:\n\n> \"Based on everything we've talked about today, do you feel like we're the right partner to help you hit that goal of doubling spa revenue?\"\n\nIf yes:\n\n> \"Perfect. Let's talk about what getting started looks like.\"\n\nYou need to guide them to a decision rather than waiting for one. This matches the scorecard's emphasis on asking for commitment and staying in the conversation. \ue200filecite\ue202turn0file3\ue201 \ue200filecite\ue202turn0file5\ue201\n\n---\n\n# \ud83c\udfaf The One Thing Drill\n\nFor your next five consults, every time you catch yourself explaining **what your program includes**, stop and ask yourself:\n\n**\"Have I painted the future yet?\"**\n\nIf not, pause and say something like:\n\n> \"Here's what success looks like twelve months from now...\"\n\nThat one habit will dramatically increase perceived value because prospects buy the outcome, not the list of deliverables. \ue200filecite\ue202turn0file1\ue201\n\n---\n\n### Final Thoughts\n\nThis was **not** a weak consultation.\n\nIn fact, I think your discovery was one of the strongest parts of the call. Jenna clearly liked you, trusted you, and stayed highly engaged for nearly an hour.\n\nThe biggest opportunity isn't rapport\u2014it's conversion.\n\nOnce you reached pricing, you shifted from **leading** to **answering questions**. The call became educational instead of directional. That's likely where this sale slowed down.\n\nWith a stronger transformation-focused presentation and a more direct close after the budget concern surfaced, I'd expect this call to move from the low 50s into the high 60s or 70s on the scorecard.\n\n**Want to role-play those pricing and budget objection moments so you can practice the response live?**"
+          ]
+        },
+        "create_time": 1782397752.439511,
+        "id": "a0fac81f-7385-4041-9332-4b4674f32630",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": null,
+              "cloud_doc_url": null,
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_000000009aa471f593fe38e3dabbae86",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "5ef3cd3c-d691-491b-b11d-6d419c67a333",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "Pasted text.txt",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            },
+            {
+              "alt": null,
+              "cloud_doc_url": null,
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_00000000be58720cadf1153c07832f8e",
+              "input_pointer": {
+                "file_index": 1,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "676a5a27-af22-478d-9d91-448bbca00645",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "KB_04_ The Value Maximizer (Transformation & Clarity).pdf",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            },
+            {
+              "alt": null,
+              "cloud_doc_url": null,
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_000000002614720cb18f445113b0556b",
+              "input_pointer": {
+                "file_index": 3,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "b7bfa980-4d83-445b-947d-e3d74468ad33",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "KB_01_ Master Consult Conversion Scorecard (The Rubric).pdf",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            },
+            {
+              "alt": null,
+              "cloud_doc_url": null,
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_000000008904720ca2e89b40d30c55bc",
+              "input_pointer": {
+                "file_index": 5,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "81132058-44ef-40e5-807c-299a68569ea4",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "KB_03_ The Objection Bible (Decision Guidance & Persuasion).pdf",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            },
+            {
+              "alt": null,
+              "cloud_doc_url": null,
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_00000000be58720cadf1153c07832f8e",
+              "input_pointer": {
+                "file_index": 1,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "676a5a27-af22-478d-9d91-448bbca00645",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "KB_04_ The Value Maximizer (Transformation & Clarity).pdf",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "bec41a40-b26c-4621-892e-6244703f86d7"
+        }
+      },
+      "parent": "9a4ec9fc-2801-46a9-a7ed-189b0de7f42e"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Call Evaluation Feedback",
+  "update_time": 1782397779.80139,
+  "voice": null
+}

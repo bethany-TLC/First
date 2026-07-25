@@ -1,0 +1,72 @@
+{
+  "conversation_id": "6a56b75f-36dc-83e8-9380-6d027eeebb1a",
+  "conversation_template_id": null,
+  "create_time": 1784067941.064242,
+  "current_node": "00368e58-2524-4580-b97c-a1e55edb0bea",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a56b75f-36dc-83e8-9380-6d027eeebb1a",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "00368e58-2524-4580-b97c-a1e55edb0bea": {
+      "id": "00368e58-2524-4580-b97c-a1e55edb0bea",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a smoother, more natural version:\n\n:::writing{variant=\"chat_message\" id=\"58314\"}\nHi John! I also wanted to let you know that I spoke with Bethany, and she would really like the opportunity to speak with you personally. If your partner is available, she\u2019d love to have him join the conversation as well so everyone can be on the same page.\n\nIf there\u2019s a time that works for both of you this week, great. If it makes more sense to wait until he\u2019s back from traveling, we\u2019re happy to work around your schedules. Just let me know what works best for you both, and we\u2019ll get something set up!\n:::"
+          ]
+        },
+        "create_time": 1784067940.965421,
+        "id": "00368e58-2524-4580-b97c-a1e55edb0bea",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "b5bd83d8-da69-4710-b26b-1a201215b5b1"
+        }
+      },
+      "parent": "bbb214e0-af2b-4455-bc8d-e883af1705d5"
+    },
+    "bbb214e0-af2b-4455-bc8d-e883af1705d5": {
+      "id": "bbb214e0-af2b-4455-bc8d-e883af1705d5",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "I also wanted to let you know that I had spoken to Bethany and she wanted to speak with you personally and your partner IF he is available, So if there's a time this week with you or if for when he gets back from traveling that would work better. We would love to get on a call with you. \n\nMake this a better response to John"
+          ]
+        },
+        "create_time": 1784067940.657251,
+        "id": "bbb214e0-af2b-4455-bc8d-e883af1705d5",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "fca66ea1-cdbf-4cb3-951f-7fb749953f14"
+    },
+    "fca66ea1-cdbf-4cb3-951f-7fb749953f14": {
+      "id": "fca66ea1-cdbf-4cb3-951f-7fb749953f14",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Improving Response to John",
+  "update_time": 1784067946.279842,
+  "voice": null
+}

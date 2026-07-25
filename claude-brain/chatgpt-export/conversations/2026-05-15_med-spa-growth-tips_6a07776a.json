@@ -1,0 +1,330 @@
+{
+  "conversation_id": "6a07776a-d748-83ea-8edb-88b1ebac4464",
+  "conversation_template_id": null,
+  "create_time": 1778874225.532891,
+  "current_node": "f61a8839-d85b-487d-af8c-6b7b80bbed45",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a07776a-d748-83ea-8edb-88b1ebac4464",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "1d02f744-b9ac-4825-a687-db3c185beb56": {
+      "id": "1d02f744-b9ac-4825-a687-db3c185beb56",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "I\u2019m Bethany Anne, founder of The Luxora Collective, where we help med spa owners scale through smarter revenue systems, retention strategies, and growth consulting. If you own or manage a med spa doing $500K to $3M a year and feel like you\u2019re working too hard for what you\u2019re keeping, this channel is for you. I\u2019ve spent years inside the aesthetics industry as an operator, multi-location manager, and consultant, seeing firsthand where practices lose money, why memberships fail, and how weak follow-up costs owners thousands every month. On this channel you\u2019ll find revenue leak breakdowns, membership and pricing strategy, front desk conversion training, retention systems, client experience improvements, and real-world growth strategies that actually work. Book a Revenue Audit: https://theluxoracollective.co | Business inquiries: bethany@theluxoracollective.co Helping owners build profitable, luxury practices with stronger systems, better retention, and less daily chaos. Real growth wins!!."
+          ]
+        },
+        "create_time": 1778874314.66686,
+        "id": "1d02f744-b9ac-4825-a687-db3c185beb56",
+        "metadata": {
+          "content_references": [],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Past chat",
+                "citation_uuid": "a883732b-ae76-49fa-889a-90f5bb6ce909",
+                "conversation_context_type": "past_conversation",
+                "conversation_title": "Med Spa Lead Review",
+                "end_idx": -1,
+                "index": 31,
+                "matched_text": "",
+                "prompt_text": null,
+                "pub_date": 1778034955.886551,
+                "reason": null,
+                "refs": [],
+                "snippet": "Perfect for owners doing $500K-$3M/year.",
+                "start_idx": -1,
+                "title": "Med Spa Lead Review",
+                "type": "conversation_context_citation",
+                "url": "/c/69faa8a7-4144-83ea-b33f-6b544829b574"
+              },
+              "citation_uuid": "a883732b-ae76-49fa-889a-90f5bb6ce909",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "3f9622e4-7fa8-4253-ab74-07c50e88100d"
+        }
+      },
+      "parent": "51bd6e64-69ef-40af-9e83-93c18acffb80"
+    },
+    "234d352f-3d98-48de-b094-23168167e68a": {
+      "id": "234d352f-3d98-48de-b094-23168167e68a",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "is this close to the orginal"
+          ]
+        },
+        "create_time": 1778874344.658,
+        "id": "234d352f-3d98-48de-b094-23168167e68a",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "1d02f744-b9ac-4825-a687-db3c185beb56"
+    },
+    "265b083e-99b2-4fb4-8278-5605531e36d7": {
+      "id": "265b083e-99b2-4fb4-8278-5605531e36d7",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "less than 1000"
+          ]
+        },
+        "create_time": 1778874238.96,
+        "id": "265b083e-99b2-4fb4-8278-5605531e36d7",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "7cc3fd3b-fbbe-4d5d-80d8-dc8ad90bc885"
+    },
+    "4d45aa38-f338-47a9-ae54-10ad33195959": {
+      "id": "4d45aa38-f338-47a9-ae54-10ad33195959",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "make this less thatn 100 characaters: Bethany Anne of Luxora Collective where we focus on Med spa growth strategy, revenue systems, and consulting for aesthetic practice owners ready to scale. If you own or manage a med spa doing $500K to $3M a year and you feel like you're working too hard for what you're keeping, this channel is for you.\r\n\r\nI've spent decades inside the aesthetic industry as an operator, a multi-location manager, and a consultant who walks into practices as a secret shopper and finds the money everyone else missed. I know exactly where med spa revenue leaks, why memberships fail, what your front desk is costing you, and how to turn one-time Botox clients into lifetime members worth $30,000+ over their relationship with your practice.\r\n\r\nOn this channel you'll find: \u2192 Revenue leak breakdowns and audit walkthroughs \u2192 Membership architecture and pricing strategy \u2192 Front desk conversion and sales training for aesthetic teams \u2192 Lifetime client value and retention systems \u2192 Behind-the-scenes of what actually moves the needle in a med spa\r\n\r\n\ud83d\udcde Book a free revenue audit call: [link] \ud83c\udf10 Website: theluxoracollective.co \ud83d\udce9 Business inquiries: bethany@theluxoracollective.co"
+          ]
+        },
+        "create_time": 1778874225.044,
+        "id": "4d45aa38-f338-47a9-ae54-10ad33195959",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "4fa4f5dc-026a-46c3-bcfc-6e495f199daa": {
+      "id": "4fa4f5dc-026a-46c3-bcfc-6e495f199daa",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "exactly 1000"
+          ]
+        },
+        "create_time": 1778874280.447,
+        "id": "4fa4f5dc-026a-46c3-bcfc-6e495f199daa",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "ae5f7449-0e7d-40b9-b39f-c7fe2fc3c882"
+    },
+    "51bd6e64-69ef-40af-9e83-93c18acffb80": {
+      "id": "51bd6e64-69ef-40af-9e83-93c18acffb80",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "thoughts",
+          "source_analysis_msg_id": "f4dae235-dc68-4f9a-afa2-30d2118d22b5",
+          "thoughts": [
+            {
+              "chunks": [],
+              "content": "",
+              "finished": true,
+              "summary": ""
+            }
+          ]
+        },
+        "create_time": 1778874288.122971,
+        "id": "51bd6e64-69ef-40af-9e83-93c18acffb80",
+        "metadata": {
+          "model_slug": "gpt-5-5",
+          "parent_id": "8fa57b2f-0f2b-442e-bf72-d9f07fd9c8ec"
+        }
+      },
+      "parent": "4fa4f5dc-026a-46c3-bcfc-6e495f199daa"
+    },
+    "7cc3fd3b-fbbe-4d5d-80d8-dc8ad90bc885": {
+      "id": "7cc3fd3b-fbbe-4d5d-80d8-dc8ad90bc885",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Bethany Anne | Helping med spas scale with smarter revenue, retention & growth systems."
+          ]
+        },
+        "create_time": 1778874225.38822,
+        "id": "7cc3fd3b-fbbe-4d5d-80d8-dc8ad90bc885",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "492702c4-1041-4765-9b1d-d24873acf578"
+        }
+      },
+      "parent": "4d45aa38-f338-47a9-ae54-10ad33195959"
+    },
+    "ae5f7449-0e7d-40b9-b39f-c7fe2fc3c882": {
+      "id": "ae5f7449-0e7d-40b9-b39f-c7fe2fc3c882",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "I\u2019m Bethany Anne of \ue200url\ue202The Luxora Collective\ue202https://theluxoracollective.co\ue201, where we help med spa owners scale through smarter revenue systems, retention strategies, and growth consulting.\n\nIf you own or manage a med spa doing $500K to $3M a year and feel like you\u2019re working too hard for what you\u2019re keeping, this channel is for you.\n\nI\u2019ve spent years inside the aesthetics industry as an operator, multi-location manager, and consultant. I\u2019ve seen firsthand where revenue leaks happen, why memberships fail, what weak follow-up costs practices, and how to turn one-time clients into long-term recurring revenue.\n\nOn this channel you\u2019ll find:\n\u2022 Revenue leak breakdowns  \n\u2022 Membership & pricing strategy  \n\u2022 Front desk conversion training  \n\u2022 Retention & lifetime value systems  \n\u2022 Real med spa growth strategies that actually work  \n\n\ud83d\udcde Book a Revenue Audit: [link]  \n\ud83c\udf10 \ue200url\ue202theluxoracollective.co\ue202https://theluxoracollective.co\ue201  \n\ud83d\udce9 bethany@theluxoracollective.co"
+          ]
+        },
+        "create_time": 1778874239.399008,
+        "id": "ae5f7449-0e7d-40b9-b39f-c7fe2fc3c882",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "[The Luxora Collective](https://theluxoracollective.co?utm_source=chatgpt.com)",
+              "prefix": null,
+              "prompt_text": "[The Luxora Collective](https://theluxoracollective.co?utm_source=chatgpt.com)",
+              "render_as": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "[theluxoracollective.co](https://theluxoracollective.co?utm_source=chatgpt.com)",
+              "prefix": null,
+              "prompt_text": "[theluxoracollective.co](https://theluxoracollective.co?utm_source=chatgpt.com)",
+              "render_as": null,
+              "type": "alt_text"
+            }
+          ],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Past chat",
+                "citation_uuid": "6453f126-fc29-4ad2-b739-a99b0478f422",
+                "conversation_context_type": "past_conversation",
+                "conversation_title": "Med Spa Lead Review",
+                "end_idx": -1,
+                "index": 31,
+                "matched_text": "",
+                "prompt_text": null,
+                "pub_date": 1778034955.886551,
+                "reason": null,
+                "refs": [],
+                "snippet": "Perfect for owners doing $500K-$3M/year.",
+                "start_idx": -1,
+                "title": "Med Spa Lead Review",
+                "type": "conversation_context_citation",
+                "url": "/c/69faa8a7-4144-83ea-b33f-6b544829b574"
+              },
+              "citation_uuid": "6453f126-fc29-4ad2-b739-a99b0478f422",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "265b083e-99b2-4fb4-8278-5605531e36d7"
+        }
+      },
+      "parent": "265b083e-99b2-4fb4-8278-5605531e36d7"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "f61a8839-d85b-487d-af8c-6b7b80bbed45": {
+      "id": "f61a8839-d85b-487d-af8c-6b7b80bbed45",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Yes. It keeps the core themes and positioning from your original while tightening it up to fit the character limit:\n\n- Med spa growth strategy & consulting\n- $500K\u2013$3M owner audience\n- Working too hard for too little profit\n- Your operator/multi-location background\n- Revenue leaks, memberships, retention\n- Front desk + follow-up issues\n- Real-world growth systems\n- Revenue audit CTA\n\nWhat got trimmed:\n- \u201csecret shopper\u201d mention\n- detailed bullet list formatting\n- the \u201c$30,000+ lifetime value\u201d line\n- some emotional/storytelling language\n\nThe shorter version reads cleaner and more platform-friendly while still sounding like you and keeping the Luxora positioning intact."
+          ]
+        },
+        "create_time": 1778874344.915441,
+        "id": "f61a8839-d85b-487d-af8c-6b7b80bbed45",
+        "metadata": {
+          "content_references": [],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Memory",
+                "citation_uuid": "f254a902-42db-4cd2-aeb3-d52b13ab9ad7",
+                "conversation_context_type": "user_memory",
+                "end_idx": -1,
+                "index": 18,
+                "matched_text": "",
+                "memory_id": "e8395e09-6fe9-4299-90d6-63e8f6aa601d",
+                "prompt_text": null,
+                "reason": "You position Luxora as a done-with-you partner",
+                "refs": [],
+                "snippet": "Luxora acts as a premium, done-with-you revenue growth partner for $500K\u2013$2M med spas",
+                "start_idx": -1,
+                "title": "You position Luxora as a done-with-you partner",
+                "type": "conversation_context_citation",
+                "url": "#settings/Personalization"
+              },
+              "citation_uuid": "f254a902-42db-4cd2-aeb3-d52b13ab9ad7",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "234d352f-3d98-48de-b094-23168167e68a"
+        }
+      },
+      "parent": "234d352f-3d98-48de-b094-23168167e68a"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Med Spa Growth Tips",
+  "update_time": 1778874350.228871,
+  "voice": null
+}

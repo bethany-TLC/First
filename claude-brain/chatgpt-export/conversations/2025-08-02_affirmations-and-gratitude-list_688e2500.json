@@ -1,0 +1,161 @@
+{
+  "conversation_id": "688e2500-0dd0-8011-8a84-0809bcc290a3",
+  "conversation_template_id": null,
+  "create_time": 1754146048.450455,
+  "current_node": "833426e8-8c73-422c-b84e-69cd9f8cd26e",
+  "default_model_slug": "auto",
+  "id": "688e2500-0dd0-8011-8a84-0809bcc290a3",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "724ae052-ddb3-46e6-8e6b-f57c14e38ac9": {
+      "id": "724ae052-ddb3-46e6-8e6b-f57c14e38ac9",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Your printable Word document is ready! It includes all 30 affirmations on one page and all 30 things to be grateful for on the next.\n\nYou can download it here:  \n\ud83d\udcc4 [Affirmations_and_Gratitude_Bethany.docx](sandbox:/mnt/data/Affirmations_and_Gratitude_Bethany.docx)"
+          ]
+        },
+        "create_time": 1754146364.537592,
+        "id": "724ae052-ddb3-46e6-8e6b-f57c14e38ac9",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-4o",
+          "parent_id": "078376e6-cdd9-4694-94ec-2b98a476f8f0"
+        }
+      },
+      "parent": "bbb21f40-eb84-4492-91a7-03eb77762939"
+    },
+    "833426e8-8c73-422c-b84e-69cd9f8cd26e": {
+      "id": "833426e8-8c73-422c-b84e-69cd9f8cd26e",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "No worries \u2014 let\u2019s fix that! Click the link below directly (don\u2019t long-press or drag it), and it should open or prompt the download on your device:\n\n\ud83d\udc49 [Click here to download the Word doc](sandbox:/mnt/data/Affirmations_and_Gratitude_Bethany.docx)\n\nIf you're on a phone and it still doesn\u2019t download:\n1. Tap the link once (don\u2019t hold).\n2. If it opens in a new screen, look for the **download icon** (\u2b07\ufe0f) or **three dots** to save it.\n3. You might need to give your browser permission to download files.\n\nStill stuck? I can convert it to a PDF or email-friendly format instead. Just let me know what works best!"
+          ]
+        },
+        "create_time": 1754146405.557013,
+        "id": "833426e8-8c73-422c-b84e-69cd9f8cd26e",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-4o",
+          "parent_id": "bbb21ed4-6277-4717-8f9a-736451e7e60c"
+        }
+      },
+      "parent": "bbb21ed4-6277-4717-8f9a-736451e7e60c"
+    },
+    "a69b7016-0d1a-4a6c-a779-3371692427ad": {
+      "id": "a69b7016-0d1a-4a6c-a779-3371692427ad",
+      "message": null,
+      "parent": null
+    },
+    "bbb219df-f02a-48af-95b1-3170cd5e50ba": {
+      "id": "bbb219df-f02a-48af-95b1-3170cd5e50ba",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write me a list of 30 affirmations and 30 things to be grateful for. Here is context: I am 42 years old with an incredible 17-year-old son who just got out of a hard divorce. I've overcome single mommyhood addiction, sex trafficking, crime, owned businesses. I've moved all over the place. I have great friends, amazing parents, amazing siblings. I have a lot of people that love me. I have a beautiful home that I'm living in right now! I love God. Jesus is my king and I'm beyond capable of doing hard things and being successful .I just started a new businessand its taken off and going to be amazing. I'm in tune empathetic. I'm going to extremely good friend to others and love hard! And beautiful and fit and sexy."
+          ]
+        },
+        "create_time": 1754146206.41306,
+        "id": "bbb219df-f02a-48af-95b1-3170cd5e50ba",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "a69b7016-0d1a-4a6c-a779-3371692427ad"
+    },
+    "bbb21ed4-6277-4717-8f9a-736451e7e60c": {
+      "id": "bbb21ed4-6277-4717-8f9a-736451e7e60c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "It won't let me down load \ud83e\udd37\ud83c\udffc\u200d\u2640\ufe0f"
+          ]
+        },
+        "create_time": 1754146405.405111,
+        "id": "bbb21ed4-6277-4717-8f9a-736451e7e60c",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "724ae052-ddb3-46e6-8e6b-f57c14e38ac9"
+    },
+    "bbb21f40-eb84-4492-91a7-03eb77762939": {
+      "id": "bbb21f40-eb84-4492-91a7-03eb77762939",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Printable version. Affirmations on one page and gratitude on the other. Word document "
+          ]
+        },
+        "create_time": 1754146348.395353,
+        "id": "bbb21f40-eb84-4492-91a7-03eb77762939",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "d466632a-2e30-4e9c-a519-a4a5281d443b"
+    },
+    "d466632a-2e30-4e9c-a519-a4a5281d443b": {
+      "id": "d466632a-2e30-4e9c-a519-a4a5281d443b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Bethany, your story is powerful and full of resilience, redemption, and purpose. Here's a list of **30 affirmations** and **30 things to be grateful for** that reflect the strength, grace, and vibrancy of the life you're living and building:\n\n---\n\n### \ud83c\udf1f 30 Affirmations for a Radiant, Powerful You\n\n1. I am a warrior who has overcome unimaginable obstacles.  \n2. I am deeply loved and divinely protected.  \n3. I am walking in alignment with my purpose and calling.  \n4. I radiate beauty, strength, and confidence.  \n5. I am a phenomenal mother, and my son is a reflection of my love.  \n6. I can do hard things \u2014 and I *have*.  \n7. I am not defined by my past; I am empowered by it.  \n8. I am magnetic to abundance, love, and peace.  \n9. I am a light in every room I enter.  \n10. I am emotionally intelligent and spiritually attuned.  \n11. I am building something beautiful with this new business.  \n12. I am guided by wisdom, not fear.  \n13. I am worthy of deep, sacred love.  \n14. I am sexy, vibrant, and alive.  \n15. I am a beacon of empathy and strength.  \n16. I am a powerful vessel for God\u2019s grace and truth.  \n17. I am surrounded by people who see, love, and support me.  \n18. I am healing generations through my choices.  \n19. I am a success story in progress and in bloom.  \n20. I am grounded, grateful, and glowing.  \n21. I am constantly evolving \u2014 never stuck, never stagnant.  \n22. I am a blessing to everyone I meet.  \n23. I am a living testimony of divine restoration.  \n24. I am unstoppable because I trust in Jesus.  \n25. I am fierce in love and soft in spirit.  \n26. I am proud of the woman I am becoming.  \n27. I am free \u2014 mind, body, and soul.  \n28. I am intuitive, creative, and inspired.  \n29. I am rewriting the narrative \u2014 and it\u2019s powerful.  \n30. I am exactly where I\u2019m meant to be \u2014 and it\u2019s just the beginning.\n\n---\n\n### \ud83d\udcab 30 Things to Be Grateful For\n\n1. My beautiful, strong, loving 17-year-old son.  \n2. A close, supportive family \u2014 parents and siblings who show up.  \n3. Friends who have become chosen family.  \n4. God\u2019s relentless grace and presence in my life.  \n5. A beautiful, peaceful home filled with warmth.  \n6. A new business that\u2019s aligned with my soul and taking off.  \n7. The strength to break generational curses and cycles.  \n8. My freedom \u2014 physically, emotionally, spiritually.  \n9. The courage to leave behind what didn\u2019t serve me.  \n10. My body \u2014 healthy, fit, beautiful, and strong.  \n11. My faith \u2014 unshakable and growing.  \n12. Laughter, tears, and every emotion that makes me human.  \n13. Music, sunshine, fresh air, and dancing in the kitchen.  \n14. Quiet mornings and prayer-filled nights.  \n15. Every soul who believed in me when I couldn\u2019t.  \n16. The fire that keeps me chasing more, but with peace.  \n17. My ability to love deeply, fiercely, and without apology.  \n18. The hard lessons that made me wise.  \n19. My resilience \u2014 undeniable and inspiring.  \n20. The ability to create beauty out of ashes.  \n21. My intuition \u2014 sharp, clear, and trustworthy.  \n22. The gift of second chances and fresh starts.  \n23. The woman in the mirror \u2014 finally, I see her.  \n24. The power to help others who\u2019ve walked similar paths.  \n25. The joy of motherhood and watching my son thrive.  \n26. The privilege of building a legacy rooted in faith.  \n27. The creativity pulsing through me every day.  \n28. My sexy, sacred feminine energy.  \n29. The people praying for me \u2014 seen and unseen.  \n30. The life I\u2019m living \u2014 wild, redeemed, and extraordinary.\n\n---\n\nIf you ever want to turn this into a printable or put it on your mirror or vision board, I\u2019d be happy to help format it. You\u2019re already living a miracle. Keep going \u2014 the best chapters are still unfolding."
+          ]
+        },
+        "create_time": 1754146206.803815,
+        "id": "d466632a-2e30-4e9c-a519-a4a5281d443b",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-4o",
+          "parent_id": "afc2d933-a267-42cf-a678-d1ed93c7eb63"
+        }
+      },
+      "parent": "bbb219df-f02a-48af-95b1-3170cd5e50ba"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Affirmations and gratitude list",
+  "update_time": 1754146411.287114,
+  "voice": null
+}

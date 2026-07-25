@@ -1,0 +1,71 @@
+{
+  "conversation_id": "69090f8d-452c-8332-9a20-a070e476f0f3",
+  "conversation_template_id": null,
+  "create_time": 1762201522.648166,
+  "current_node": "4b7f1d04-24a9-4ad7-83c4-245944fe958b",
+  "default_model_slug": "gpt-5",
+  "id": "69090f8d-452c-8332-9a20-a070e476f0f3",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "4b7f1d04-24a9-4ad7-83c4-245944fe958b": {
+      "id": "4b7f1d04-24a9-4ad7-83c4-245944fe958b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "\"you didn't deserve what he did to you.\"  \nyes, i did. i had no self-respect. i kept forgiving things i shouldn\u2019t have. i knew i needed to walk away, but i couldn\u2019t. i wasn\u2019t holding on to him\u2014I was holding on to the idea of what life could have been. i ignored every sign because i wanted peace, stability, and a version of us that never really existed. i stayed because i cared, because i believed in something that wasn\u2019t real. and that was my biggest mistake."
+          ]
+        },
+        "create_time": 1762201522.525691,
+        "id": "4b7f1d04-24a9-4ad7-83c4-245944fe958b",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "ac14fac7-d2c9-47a9-aa44-c05241bff398"
+        }
+      },
+      "parent": "bbb21138-9923-40bf-891c-3f32ebdf5b3d"
+    },
+    "50fc0e10-405d-40b1-908b-c927f65bc1aa": {
+      "id": "50fc0e10-405d-40b1-908b-c927f65bc1aa",
+      "message": null,
+      "parent": null
+    },
+    "bbb21138-9923-40bf-891c-3f32ebdf5b3d": {
+      "id": "bbb21138-9923-40bf-891c-3f32ebdf5b3d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "\"you didn't deserve what he did to you.\"\nyes, i did. i had no self-respect. i kept forgiving things i shouldn't have. i knew i needed to walk away, but i couldn't. i wanted it to be him so badly that i ignored all the signs. i kept hoping he would change, that he would choose me the way i chose him. but deep down, i knew he wouldn't. i stayed because i loved him more than i loved myself, and that was my biggest mistake.\n\nRewrite this post and take the love part out but say cared for him and not wanting him but the life"
+          ]
+        },
+        "create_time": 1762201522.437859,
+        "id": "bbb21138-9923-40bf-891c-3f32ebdf5b3d",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "50fc0e10-405d-40b1-908b-c927f65bc1aa"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Rewrite conversation excerpt",
+  "update_time": 1762201527.133007,
+  "voice": null
+}

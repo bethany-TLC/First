@@ -1,0 +1,72 @@
+{
+  "conversation_id": "69b46bb2-f170-832f-9222-1e4a30460e4d",
+  "conversation_template_id": null,
+  "create_time": 1773431805.933288,
+  "current_node": "16cea374-52dd-446e-9152-6e5a6fbbf2cb",
+  "default_model_slug": "gpt-5-3",
+  "id": "69b46bb2-f170-832f-9222-1e4a30460e4d",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "16cea374-52dd-446e-9152-6e5a6fbbf2cb": {
+      "id": "16cea374-52dd-446e-9152-6e5a6fbbf2cb",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Hey Tracy!\n\nI wanted to give you a quick heads up that I booked a call with Viktor Michael on March 26th at 1 PM CST. This lead actually came through our TLC email campaign, and when it first landed on my desk I immediately thought it might be a really interesting opportunity for collaboration rather than a traditional prospect.\n\nThey are not a med spa themselves, but they operate very much inside the aesthetics ecosystem. From what I can tell, they are in med spas regularly and have developed an aftercare product line specifically for post-injection care. Because of that, it felt like a natural overlap with what we are both doing in the industry. My first thought was that there could be a strategic partnership opportunity where all three of us could potentially support each other rather than approaching it as a standard client relationship.\n\nWith that in mind, I put together a proposal introducing the idea of a collaboration between them, AIA, and TLC. The angle I positioned was that they already have strong proximity to med spas through their aftercare line, while we bring the training, education, and growth systems side of the industry. If structured correctly, it could be a really nice ecosystem play where everyone benefits and it opens doors across multiple clinics.\n\nI\u2019m attaching the proposal I sent so you can see how I framed it. After you take a look, I\u2019d love your thoughts. Do you want to join the call with me on the 26th so we can explore the opportunity together from the start, or would you prefer that I take the initial call, vet them a bit more, and then loop you in once we have a clearer sense of fit and potential?\n\nEither way works for me. I just wanted to run it by you first since it could potentially be a really aligned partnership.\n\nLet me know what you think!"
+          ]
+        },
+        "create_time": 1773431805.823904,
+        "id": "16cea374-52dd-446e-9152-6e5a6fbbf2cb",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "ffdc36de-8f43-46e6-9a66-0b28786baa30"
+        }
+      },
+      "parent": "e0b173f5-9a0d-49a9-adf8-6531c415ca13"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "e0b173f5-9a0d-49a9-adf8-6531c415ca13": {
+      "id": "e0b173f5-9a0d-49a9-adf8-6531c415ca13",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "can you make this better and longer. expalin that when this lead came acorss my desk i thought how perfect it would be to collab with them seeing how they are in med spas every day and they have an after care line for after injectoiongd . Hey Tracy! I wanted to let you know I've booked a call with Viktor Michael on the 26th of March at 1pm cst. This was one of our leads from our TLC email campaign  I decided to see if we could coallb with them seeing how they were not a Med Spa but still in the industry. I wanted to show you the proposal I sent them about working together (us three) as a collaboration with them and us: AIA and TLC. After reviewing it would you let me know if you want to be on that call with me or do you want me to vet them first before looping you in? "
+          ]
+        },
+        "create_time": 1773431805.594,
+        "id": "e0b173f5-9a0d-49a9-adf8-6531c415ca13",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Collaboration Proposal with Viktor",
+  "update_time": 1773431944.699155,
+  "voice": null
+}

@@ -1,0 +1,72 @@
+{
+  "conversation_id": "6996148f-61e4-8330-8be0-02ebfd6c2cb2",
+  "conversation_template_id": null,
+  "create_time": 1771443366.441025,
+  "current_node": "37dc3827-1e9a-4205-af2f-5b477a6e0ec3",
+  "default_model_slug": "gpt-5-2",
+  "id": "6996148f-61e4-8330-8be0-02ebfd6c2cb2",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "37dc3827-1e9a-4205-af2f-5b477a6e0ec3": {
+      "id": "37dc3827-1e9a-4205-af2f-5b477a6e0ec3",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a polished teaser paragraph that feels newsletter-ready and clearly points readers to the website without giving everything away:\n\n> Members of the College Access & Success A-Team recently stepped inside a Career & College Readiness Lab at JT Moore Middle School and saw firsthand how hands-on, real-world learning is helping students build confidence, independence, and early career awareness before high school. From immersive career modules to meaningful conversations about how middle school models can better prepare students and families for what\u2019s next, the visit highlighted why experiential learning matters more than ever. **Read the full story and explore key takeaways on our website.**\n\nIf you want it slightly shorter, more energetic, or more mission-driven, I can adjust the tone in seconds."
+          ]
+        },
+        "create_time": 1771443366.319212,
+        "id": "37dc3827-1e9a-4205-af2f-5b477a6e0ec3",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "77be0854-227a-4278-b0ec-e5e79ae6ca06"
+        }
+      },
+      "parent": "b08028c9-7f82-49c4-9b98-4088e6f50b12"
+    },
+    "b08028c9-7f82-49c4-9b98-4088e6f50b12": {
+      "id": "b08028c9-7f82-49c4-9b98-4088e6f50b12",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "turn this into a teaser pharagrph for a newletter that ponits them to go to website to read the eintre article: Members of the College Access & Success A-Team recently visited a Career & College Readiness (CCR) Lab at\u00a0JT Moore Middle School to explore how hands-on career exposure can strengthen students\u2019 transition from middle to high school. The lab, part of Metro Nashville Public Schools\u2019 Innovative School Models initiative, gives students the opportunity to rotate through immersive career modules\u2014such as health sciences, construction, and technology\u2014where they complete real-world, hands-on tasks. During the visit, team members observed strong student engagement, independence, and problem-solving as learners navigated multi-step activities designed to build both confidence and career awareness.\n\nThe visit also sparked important conversation about how different middle school models\u2014such as STEAM programs, career clubs, and CCR labs\u2014can work together to ensure all students receive meaningful exposure to a wide range of career pathways before entering high school. Participants discussed how experiences like these can strengthen advising conversations, support informed high school decision-making, and help families begin thinking earlier about academic and career goals. The lab visit reinforced the value of experiential learning as a critical bridge between middle school exploration and high school pathways."
+          ]
+        },
+        "create_time": 1771450990.841,
+        "id": "b08028c9-7f82-49c4-9b98-4088e6f50b12",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Career Readiness Lab Visit",
+  "update_time": 1771443381.710937,
+  "voice": null
+}

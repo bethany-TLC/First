@@ -1,0 +1,72 @@
+{
+  "conversation_id": "6a404655-f6e8-83e8-aa51-8b7c456b491a",
+  "conversation_template_id": null,
+  "create_time": 1782597241.648858,
+  "current_node": "083115a1-6e16-4800-bae3-b35cf2edd958",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a404655-f6e8-83e8-aa51-8b7c456b491a",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "083115a1-6e16-4800-bae3-b35cf2edd958": {
+      "id": "083115a1-6e16-4800-bae3-b35cf2edd958",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "What a meaningful idea. Here's a caption you could use:\n\n:::writing{variant=\"social_post\" id=\"82147\"}\nIf I could go back and tell the woman in the first picture what the next 11 years would hold, she would have been absolutely floored.\n\nI'd tell her she's going to make mistakes. She's going to trust people who don't have her best interests at heart. She's going to experience heartbreak, disappointment, and seasons that make her question everything.\n\nBut I'd also tell her not to lose hope.\n\nBecause every lesson, every setback, and every hard season is shaping the woman she'll become. A woman who is stronger, wiser, more resilient, and more grounded than she ever imagined.\n\nI'm so incredibly proud of you. You kept going when it would've been easier to quit. You never stopped believing that a better life was possible.\n\nAnd what an amazing outcome it's been.\n\nHere's to the woman you were, the woman you are, and the incredible future that's still ahead.\n:::"
+          ]
+        },
+        "create_time": 1782597241.587079,
+        "id": "083115a1-6e16-4800-bae3-b35cf2edd958",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "19ee1546-1662-4749-afb4-0f218bc28268"
+        }
+      },
+      "parent": "bbb216e1-130e-4a54-a5e7-5951a8ae9dec"
+    },
+    "93b3f5de-199d-44da-b448-f2e25c9d3f52": {
+      "id": "93b3f5de-199d-44da-b448-f2e25c9d3f52",
+      "message": null,
+      "parent": null
+    },
+    "bbb216e1-130e-4a54-a5e7-5951a8ae9dec": {
+      "id": "bbb216e1-130e-4a54-a5e7-5951a8ae9dec",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write a short little message about a picture of me in 2015 versus now. Talk about if you could tell her or the next 11 years was going to look like she would have been floored. Tell her how proud you are of her and it's okay to have made mistakes and trusted those who did not have her best interest at heart. Tell her what an amazing outcome it's been"
+          ]
+        },
+        "create_time": 1782597241.325164,
+        "id": "bbb216e1-130e-4a54-a5e7-5951a8ae9dec",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "93b3f5de-199d-44da-b448-f2e25c9d3f52"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Message to My Past Self",
+  "update_time": 1782597244.884419,
+  "voice": null
+}

@@ -1,0 +1,166 @@
+{
+  "conversation_id": "6a3fd530-cdc8-83e8-83b9-765d1e45209d",
+  "conversation_template_id": null,
+  "create_time": 1782568251.728732,
+  "current_node": "9ce1a7fe-a269-42a1-88ee-e33bfd17b3b1",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a3fd530-cdc8-83e8-83b9-765d1e45209d",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "4da6f1fc-7ff7-4130-9fa7-fa522b741129": {
+      "id": "4da6f1fc-7ff7-4130-9fa7-fa522b741129",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "You could keep it warm while also clarifying what your business actually does:\n\n> Haha, I don't think I've done a great job explaining what we're building. \ud83d\ude0a\n>\n> We're actually a growth partner for med spa owners, not just a marketing agency. Marketing is only one piece of what we do.\n>\n> Our process starts with a Revenue Leak Audit to identify where a practice is losing money. Then we build a customized Market Blueprint, implement patient acquisition systems (Meta ads, reactivation, referrals, etc.), optimize their sales and consultation process, and improve retention so they generate more revenue from the patients they already have.\n>\n> So yes, we absolutely run conversion campaigns, but only after we've made sure the rest of the business is set up to convert and retain those leads. Otherwise, it's easy to spend a lot on ads without seeing a return. That's why so many people feel like Facebook ads don't work, when in reality it's usually everything that happens before and after the click.\n>\n> We're trying to build predictable, sustainable growth, not just generate more leads. That's the difference. \ud83d\ude0a"
+          ]
+        },
+        "create_time": 1782568251.645975,
+        "id": "4da6f1fc-7ff7-4130-9fa7-fa522b741129",
+        "metadata": {
+          "content_references": [],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Memory",
+                "citation_uuid": "bf8c980c-7c6b-4dd8-8a2d-950bd2e0780c",
+                "conversation_context_type": "general_memory",
+                "end_idx": -1,
+                "index": 1,
+                "matched_text": "",
+                "prompt_text": null,
+                "reason": "You\u2019re a med-spa growth partner with a Revenue Leak Audit process.",
+                "refs": [],
+                "snippet": "Core shift (June 2026): Offer clarified to three pillars: (1) Revenue Leak Audit (front-end entry), (2) Run acquisition lead generation (Meta + reactivation + qualification + show-up), (3) Access to Playbooks (Growth Course).",
+                "start_idx": -1,
+                "title": "You\u2019re a med-spa growth partner with a Revenue Leak Audit process.",
+                "type": "conversation_context_citation",
+                "url": "#settings/Personalization"
+              },
+              "citation_uuid": "bf8c980c-7c6b-4dd8-8a2d-950bd2e0780c",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "1e69465f-da3e-4bc1-af9e-ee92d843d977"
+        }
+      },
+      "parent": "bbb21f74-009f-4682-9480-158f38584df6"
+    },
+    "9ce1a7fe-a269-42a1-88ee-e33bfd17b3b1": {
+      "id": "9ce1a7fe-a269-42a1-88ee-e33bfd17b3b1",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "You could say:\n\n> Haha, I probably haven't done the best job explaining what we're doing. \ud83d\ude04\n>\n> We actually partner with med spa owners to help them grow. We do everything from finding revenue they're already missing, to improving conversions and retention, and yes, we also run Meta ads to bring in new patients.\n>\n> The ads are definitely expensive. We're spending around $6,000 to $7,000 a month right now, so we're testing, optimizing, and dialing everything in. It's a big investment, but when it's done right, the ROI can be huge. That's the fun (and stressful!) part of building this thing. \ud83d\ude05"
+          ]
+        },
+        "create_time": 1782568292.459689,
+        "id": "9ce1a7fe-a269-42a1-88ee-e33bfd17b3b1",
+        "metadata": {
+          "content_references": [],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Memory",
+                "citation_uuid": "032fd4fe-74ab-4f6e-b3a4-3416395dee63",
+                "conversation_context_type": "general_memory",
+                "end_idx": -1,
+                "index": 1,
+                "matched_text": "",
+                "prompt_text": null,
+                "reason": "You use a Revenue Leak Audit to find missing revenue.",
+                "refs": [],
+                "snippet": "Revenue Leak Audit",
+                "start_idx": -1,
+                "title": "You use a Revenue Leak Audit to find missing revenue.",
+                "type": "conversation_context_citation",
+                "url": "#settings/Personalization"
+              },
+              "citation_uuid": "032fd4fe-74ab-4f6e-b3a4-3416395dee63",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "bbb21ada-37a0-48fa-940d-aba52b1b18b2"
+        }
+      },
+      "parent": "bbb21ada-37a0-48fa-940d-aba52b1b18b2"
+    },
+    "bbb21ada-37a0-48fa-940d-aba52b1b18b2": {
+      "id": "bbb21ada-37a0-48fa-940d-aba52b1b18b2",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Make it more friendly and less long. Explain what we do but also explain that we are also running meta ads. They are very expensive. We're spending like $6 $7,000 a month on them"
+          ]
+        },
+        "create_time": 1782568292.247816,
+        "id": "bbb21ada-37a0-48fa-940d-aba52b1b18b2",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "4da6f1fc-7ff7-4130-9fa7-fa522b741129"
+    },
+    "bbb21f74-009f-4682-9480-158f38584df6": {
+      "id": "bbb21f74-009f-4682-9480-158f38584df6",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Respond to my brother-in-law who apparently has no idea what we're doing over here: I've seen a few different ones. \n\nI hear you on the marketing expense. Tough to turn it around that's for sure!\n\nWhat's the goal of your ads? \n\nAre you targeting med spa business owners to help them convert customers into clients?\n\nAre you doing conversion campaigns yet?\n\nI've played with FB ads in the past but wasted a lot of money."
+          ]
+        },
+        "create_time": 1782568251.347476,
+        "id": "bbb21f74-009f-4682-9480-158f38584df6",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "c7366957-fd5b-4ee5-81ea-3ddef63abb64"
+    },
+    "c7366957-fd5b-4ee5-81ea-3ddef63abb64": {
+      "id": "c7366957-fd5b-4ee5-81ea-3ddef63abb64",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Med Spa Growth Strategy",
+  "update_time": 1782568297.94905,
+  "voice": null
+}

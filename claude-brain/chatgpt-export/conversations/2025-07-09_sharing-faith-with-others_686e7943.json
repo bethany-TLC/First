@@ -1,0 +1,71 @@
+{
+  "conversation_id": "686e7943-db54-8011-9fa0-0ce4dadf9ae4",
+  "conversation_template_id": null,
+  "create_time": 1752070468.265897,
+  "current_node": "5e990a0a-afff-4462-83d1-e68be7f1ecee",
+  "default_model_slug": "auto",
+  "id": "686e7943-db54-8011-9fa0-0ce4dadf9ae4",
+  "is_archived": true,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "5e990a0a-afff-4462-83d1-e68be7f1ecee": {
+      "id": "5e990a0a-afff-4462-83d1-e68be7f1ecee",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Coming from a Christian point of view, when someone says, *\u201cI don\u2019t know what I believe in,\u201d* you can respond with honesty, grace, and curiosity. Here\u2019s a heartfelt yet respectful way you might reply:\n\n---\n\n**\"I get that\u2014faith, God, purpose\u2026 those are big questions, and it makes sense to wrestle with them. I believe in Jesus because He met me where I was, not where I thought I had to be. It wasn\u2019t about religion or rules\u2014it was about relationship. And if you\u2019re ever open to talking more about it, I\u2019d love to share what that\u2019s looked like in my life. No pressure, just real conversation.\"**\n\n---\n\nYou can adjust based on your relationship and the vibe of the moment. The key is to offer truth without trying to convince\u2014let your peace and love do the talking. Often, people aren\u2019t looking for a lecture; they\u2019re looking to be seen, heard, and invited."
+          ]
+        },
+        "create_time": 1752070468.49998,
+        "id": "5e990a0a-afff-4462-83d1-e68be7f1ecee",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-4o",
+          "parent_id": "42656723-3946-4ecf-b96b-496731b95752"
+        }
+      },
+      "parent": "bbb21c8b-8a94-4425-b470-1fee5fc07983"
+    },
+    "bbb21c8b-8a94-4425-b470-1fee5fc07983": {
+      "id": "bbb21c8b-8a94-4425-b470-1fee5fc07983",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Coming from a Christian point of view, what do I say to someone that says they don't know what they believe in"
+          ]
+        },
+        "create_time": 1752070468.273682,
+        "id": "bbb21c8b-8a94-4425-b470-1fee5fc07983",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "f36a8153-9b47-4998-8a36-6ef81b55de82"
+    },
+    "f36a8153-9b47-4998-8a36-6ef81b55de82": {
+      "id": "f36a8153-9b47-4998-8a36-6ef81b55de82",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Sharing Faith with Others",
+  "update_time": 1752094752.237387,
+  "voice": null
+}

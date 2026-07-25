@@ -1,0 +1,118 @@
+{
+  "conversation_id": "6a4e766b-9994-83e8-9de5-5bdcb3d1b63f",
+  "conversation_template_id": null,
+  "create_time": 1783527039.730778,
+  "current_node": "aef130b2-2721-4464-bc7e-e91c858a7b85",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a4e766b-9994-83e8-9de5-5bdcb3d1b63f",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "46eb0141-1e8a-4310-ba59-6cd543e3249b": {
+      "id": "46eb0141-1e8a-4310-ba59-6cd543e3249b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "The best-performing med spa reactivation texts don't feel like marketing\u2014they feel like a personal check-in from the practice. The goal is to start a conversation, not sell a treatment.\n\nHere are some that consistently work well.\n\n### 1. \"We Miss You\" (General Reactivation)\n**Best for:** Clients who haven't been in 6-18 months.\n\n> Hi {{First Name}}! \ud83d\ude0a It's {{Staff Name}} from {{MedSpa}}. We realized it's been a little while since we've seen you and wanted to check in. How have you been? We're reserving a few appointments for returning clients this month if you've been thinking about coming back. Would you like me to send over our availability?\n\n---\n\n### 2. The VIP Check-In\n**Best for:** Higher-value clients.\n\n> Hi {{First Name}}! This is {{Staff Name}} at {{MedSpa}}. We were reviewing our favorite clients and noticed we haven't seen you in a while. We wanted to personally reach out and see how everything has been going. Is there anything you've been wanting to work on lately? We'd love to help.\n\n---\n\n### 3. \"Treatment Reminder\"\n**Botox/Filler**\n\n> Hi {{First Name}}! We noticed it may be about time for your next treatment. Most patients like to stay on a regular schedule to keep their results looking natural. If you'd like, I can check what appointments we have available over the next couple weeks.\n\n---\n\n### 4. Seasonal Refresh\n\n> Hi {{First Name}}! Summer is here, and many of our patients are coming in for skin refreshes before vacations and events. If you've been thinking about treating yourself, I'd be happy to help you find a time that works.\n\n---\n\n### 5. \"We Have Something New\"\n\n> Hi {{First Name}}! We recently added some exciting new treatments that I immediately thought you might love. \ud83d\ude0a Would you like me to send over a quick list and see if anything catches your eye?\n\n---\n\n### 6. Birthday / Anniversary\n\n> Happy Birthday month, {{First Name}}! \ud83c\udf89 Everyone at {{MedSpa}} hopes you have an amazing celebration. We'd love to help you celebrate yourself too. Let me know if you'd like me to reserve you an appointment.\n\n---\n\n### 7. \"Checking In\"\n\nThis one feels incredibly human.\n\n> Hi {{First Name}}! This is {{Staff Name}} at {{MedSpa}}. I was looking through our patient list today and realized we haven't seen you in a while. Just wanted to check in and see how you've been! \ud83d\ude0a\n\n---\n\n### 8. The Honest One\n\n> Hi {{First Name}}! It's been a little while since your last visit, and I wanted to see if there was anything we could have done better. We truly value your feedback, and if you've been thinking about coming back, we'd love another opportunity to take great care of you.\n\n---\n\n### 9. Weight Loss / Wellness\n\n> Hi {{First Name}}! Just checking in to see how you're doing! If your wellness or weight-loss goals are still on your mind, we'd love to help you get back on track. Let me know if you'd like to chat about what's new.\n\n---\n\n### 10. The Curiosity Text (One of my favorites)\n\n> Hi {{First Name}}! Quick question...have you done anything for yourself lately? \ud83d\ude0a\n\n(Wait for a response.)\n\nIf they say no:\n\n> Then we should probably fix that. \ud83d\ude0a We'd love to help you take a little time for yourself. Want me to send over a few openings?\n\nThis creates much higher engagement than sending everything in one message.\n\n---\n\n## High-Converting Two-Step Sequence\n\n**Text #1**\n\n> Hi {{First Name}}! This is {{Staff Name}} from {{MedSpa}}. Quick question\u2026have you been thinking about doing anything for your skin or wellness lately?\n\nWait for the reply.\n\nIf they say \"Yes\":\n\n> Perfect! What have you been thinking about?\n\nNow you have a real conversation instead of pitching.\n\n---\n\n## If They Don't Respond (3\u20135 Days Later)\n\n> Just wanted to bump this to the top of your messages \ud83d\ude0a No pressure at all\u2014I just didn't want you to miss out if you've been thinking about coming back. Let me know if you'd like me to save you a spot.\n\n---\n\n## If You're Offering a Promotion\n\nInstead of:\n\n> \"$100 off Botox!\"\n\nTry:\n\n> Hi {{First Name}}! We have a few VIP appointments available this month, and we're extending one of our returning-patient offers. I thought of you because it's been a little while since your last visit. Would you like me to send you the details?\n\nThis approach creates curiosity and avoids sounding overly promotional.\n\n### Best Practices\n- Keep the first message under about 250 characters when possible.\n- End with a simple question to encourage a reply.\n- Personalize with the client's first name and, if possible, mention their last treatment.\n- Avoid listing multiple services or discounts in the opening text.\n- Focus on starting a conversation rather than making a sale.\n\nThe highest-performing reactivation campaigns are typically **conversation-first**, where the first text gets a response and the second message is tailored based on the client's interests. This generally leads to significantly better response and booking rates than sending a one-size-fits-all promotional blast."
+          ]
+        },
+        "create_time": 1783527039.659137,
+        "id": "46eb0141-1e8a-4310-ba59-6cd543e3249b",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "f766d102-846b-436e-9363-a175917173db"
+        }
+      },
+      "parent": "fcea6926-7f37-457e-a48e-4cbf69f8a2fc"
+    },
+    "6a3aa551-ca6b-42b7-80fb-8147d2cdf903": {
+      "id": "6a3aa551-ca6b-42b7-80fb-8147d2cdf903",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "what if it too all the clients, not just old"
+          ]
+        },
+        "create_time": 1783527140.223,
+        "id": "6a3aa551-ca6b-42b7-80fb-8147d2cdf903",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "46eb0141-1e8a-4310-ba59-6cd543e3249b"
+    },
+    "aef130b2-2721-4464-bc7e-e91c858a7b85": {
+      "id": "aef130b2-2721-4464-bc7e-e91c858a7b85",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "If you're texting **your entire database** (active clients, inactive clients, new leads, and old leads), the biggest mistake is making assumptions like \"we miss you\" or \"it's time for Botox.\" Those messages immediately feel irrelevant to part of your audience.\n\nInstead, use a broad conversation starter that applies to everyone.\n\nHere are some of the highest-converting options:\n\n### Option 1: The Simple Check-In \u2b50 (My favorite)\n\n> Hi {{First Name}}! \ud83d\ude0a It's {{Staff Name}} from {{MedSpa}}. Just checking in to see how you're doing! Have you been thinking about doing anything for yourself lately\u2014whether it's skincare, wellness, weight loss, or just a little self-care?\n\n---\n\n### Option 2: The Curiosity Text\n\n> Hi {{First Name}}! Quick question...what's one thing you've been wanting to improve or feel more confident about lately?\n\nThis gets people talking rather than feeling sold to.\n\n---\n\n### Option 3: The Summer Version\n\n> Hi {{First Name}}! \u2600\ufe0f Summer has officially arrived, and many of our patients are refreshing their skin, wellness, and confidence before vacations and events. Is there anything you've been thinking about treating this season?\n\n---\n\n### Option 4: Educational\n\n> Hi {{First Name}}! We recently added several new treatments and updated some of our most popular services. If you're curious about what might be the best fit for your goals, I'd be happy to point you in the right direction!\n\n---\n\n### Option 5: VIP Feel\n\n> Hi {{First Name}}! We just opened a handful of appointments over the next couple of weeks and wanted to check in with some of our patients first. If you've been thinking about coming in, I'd be happy to help you find a time.\n\n---\n\n### Option 6: The Human Text\n\n> Hi {{First Name}}! This is {{Staff Name}} from {{MedSpa}}. No sales pitch\u2014I just wanted to check in and see how you've been. \ud83d\ude0a Anything you've been wanting to work on lately?\n\n---\n\n### Option 7: Self-Care\n\n> Hi {{First Name}}! Just a reminder that taking care of yourself isn't selfish. \ud83d\udc99 Is there anything you've been putting off that you'd like to finally prioritize? We'd love to help.\n\n---\n\n## The Highest-Performing Sequence\n\n### Text #1\n\n> Hi {{First Name}}! \ud83d\ude0a Quick question...if you could improve one thing about your skin, body, or overall wellness right now, what would it be?\n\nWait for a reply.\n\n---\n\n### If they respond...\n\n> Thanks for sharing! Based on that, I have a few ideas that could be a great fit. Would you like me to send over some recommendations?\n\nNow you're having a real conversation instead of pushing an offer.\n\n---\n\n## Another Sequence That Works Really Well\n\n**Text 1**\n\n> Hi {{First Name}}! This is {{Staff Name}} from {{MedSpa}}. We have a quick question for you\u2026\n\n(Wait.)\n\nIf they respond \"Yes?\" or \"What's up?\"\n\n> If we could help you achieve one aesthetic or wellness goal before the end of the year, what would it be?\n\nResponse rates are often higher because the first message sparks curiosity without overwhelming people.\n\n---\n\n## My Top Recommendation\n\nIf you're texting **everyone in your CRM**, I'd use this:\n\n> **Hi {{First Name}}! \ud83d\ude0a It's {{Staff Name}} from {{MedSpa}}. We wanted to check in and ask\u2014what's one thing you'd love to improve or feel more confident about right now? Whether it's your skin, wellness, weight loss, or something else, we'd love to help point you in the right direction.**\n\nIt feels personal, works for both existing clients and leads, opens the door to multiple service lines, and invites a conversation rather than a transaction. That conversational approach generally leads to stronger engagement than leading with a discount or a promotional blast."
+          ]
+        },
+        "create_time": 1783527139.062535,
+        "id": "aef130b2-2721-4464-bc7e-e91c858a7b85",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "6a3aa551-ca6b-42b7-80fb-8147d2cdf903"
+        }
+      },
+      "parent": "6a3aa551-ca6b-42b7-80fb-8147d2cdf903"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "fcea6926-7f37-457e-a48e-4cbf69f8a2fc": {
+      "id": "fcea6926-7f37-457e-a48e-4cbf69f8a2fc",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "what are some good medspa reactivacation text to old/new clinets should say"
+          ]
+        },
+        "create_time": 1783527040.804,
+        "id": "fcea6926-7f37-457e-a48e-4cbf69f8a2fc",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Medspa Reactivation Texts",
+  "update_time": 1783527187.256694,
+  "voice": null
+}

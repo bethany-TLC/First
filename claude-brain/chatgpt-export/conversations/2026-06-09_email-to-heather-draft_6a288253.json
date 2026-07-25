@@ -1,0 +1,190 @@
+{
+  "conversation_id": "6a288253-369c-83e8-956d-72e78086baaf",
+  "conversation_template_id": null,
+  "create_time": 1781039701.283265,
+  "current_node": "6adea4cf-86e3-4751-a106-1097279241ff",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a288253-369c-83e8-956d-72e78086baaf",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "06a79125-b1c7-46a8-a16f-f265716603e3": {
+      "id": "06a79125-b1c7-46a8-a16f-f265716603e3",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "You can attach Joshua's acceptance letter and send something like this:\n\n:::writing{variant=\"email\" id=\"67184\" subject=\"Scholarship Award for Joshua [Last Name]\"}\nDear Financial Aid Team,\n\nI hope you are doing well.\n\nI recently spoke with a member of your Financial Aid Department regarding a scholarship award for Joshua [Last Name], an incoming student at Lipscomb University. Per our conversation, I am attaching documentation confirming Joshua's acceptance of a $2,500 scholarship awarded through Alignment Nashville.\n\nWe would like to coordinate the payment of these scholarship funds directly to Joshua's student account. Please let us know the appropriate process and provide any instructions, forms, or direct deposit information needed for us to remit the funds.\n\nIf there is any additional documentation required from our organization or from Joshua, please let us know and we will be happy to provide it promptly.\n\nThank you for your assistance. We appreciate your help in ensuring these scholarship funds are properly applied to support Joshua's education at Lipscomb.\n\nWarm regards,\n\nBethany Gifford  \nAlignment Nashville  \n[Phone Number]  \n[Email Address]\n\nAttachment: Scholarship Acceptance Letter\n:::\n\nIf you know Joshua's student ID number, include it in the email as well\u2014it will help the Financial Aid office locate his account much faster."
+          ]
+        },
+        "create_time": 1781040297.812449,
+        "id": "06a79125-b1c7-46a8-a16f-f265716603e3",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "60274fc6-0116-4b22-9429-7746360f056d"
+        }
+      },
+      "parent": "41094bed-9048-4160-bae2-2fe963d66647"
+    },
+    "302be01c-c8a0-4944-9e8f-24f65863b0a5": {
+      "id": "302be01c-c8a0-4944-9e8f-24f65863b0a5",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here's a polished email you can send to Heather:\n\n:::writing{variant=\"email\" id=\"58421\" subject=\"Lipscomb Scholarship Funding Process\"}\nHi Heather,\n\nI wanted to give you a quick update regarding Joshua's scholarship funds.\n\nI was able to get in touch with the Financial Aid Department at Lipscomb and spoke with a representative who explained the process for applying the scholarship to Joshua's account. He recommended that we send an email to financialaid@lipscomb.edu along with documentation showing Joshua's acceptance of the $2,500 scholarship award.\n\nOnce they receive that information, their team will contact us with instructions for submitting the funds via direct deposit so the scholarship can be applied appropriately to his student account.\n\nAdditionally, he mentioned that he plans to reach out to Joshua regarding a program called Backpack Pay, which may provide opportunities for him to apply for additional scholarships if he's interested.\n\nWould you like me to go ahead and send the email to Financial Aid and coordinate the next steps, or would you prefer to take it from here? I'm happy to help either way.\n\nThank you!\n\nBethany\n:::\n\nThis version keeps it professional, informative, and gives Heather a clear next step."
+          ]
+        },
+        "create_time": 1781039701.195108,
+        "id": "302be01c-c8a0-4944-9e8f-24f65863b0a5",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "c800dcb3-f6fb-4693-a71d-e7068c381016"
+        }
+      },
+      "parent": "d92f64dd-43c4-4c04-b006-5fe2cf1cc707"
+    },
+    "41094bed-9048-4160-bae2-2fe963d66647": {
+      "id": "41094bed-9048-4160-bae2-2fe963d66647",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "now write an email to lipscomb and give them the infor theyneed to move foward and get us our info to pay them "
+          ]
+        },
+        "create_time": 1781040297.442,
+        "id": "41094bed-9048-4160-bae2-2fe963d66647",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "302be01c-c8a0-4944-9e8f-24f65863b0a5"
+    },
+    "6adea4cf-86e3-4751-a106-1097279241ff": {
+      "id": "6adea4cf-86e3-4751-a106-1097279241ff",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ":::writing{variant=\"email\" id=\"73216\" subject=\"Scholarship Award for Joshua Rodriguez\"}\nDear Financial Aid Team,\n\nI hope you are doing well.\n\nI recently spoke with a member of your Financial Aid Department regarding a scholarship award for Joshua Rodriguez, an incoming student at Lipscomb University. Per our conversation, I have attached documentation confirming Joshua's acceptance of a $2,500 scholarship awarded through Alignment Nashville.\n\nWe would like to coordinate the payment of these scholarship funds directly to Joshua's student account. Please let us know the appropriate process and provide any instructions, forms, or direct deposit information needed for us to remit the funds.\n\nIf there is any additional documentation required from our organization or from Joshua, please let us know and we will be happy to provide it promptly.\n\nThank you for your assistance. We appreciate your help in ensuring these scholarship funds are properly applied to support Joshua's education at Lipscomb.\n\nWarm regards,\n\nBethany Gifford  \nAlignment Nashville  \n[Phone Number]  \n[Email Address]\n\nAttachment: Scholarship Acceptance Letter\n:::"
+          ]
+        },
+        "create_time": 1781040328.524202,
+        "id": "6adea4cf-86e3-4751-a106-1097279241ff",
+        "metadata": {
+          "content_references": [],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Past chat",
+                "citation_uuid": "9d77376d-4769-47ba-890a-3e6940950609",
+                "conversation_context_type": "past_conversation",
+                "conversation_title": "Lipscomb Scholarship Payment Contact",
+                "end_idx": -1,
+                "index": 0,
+                "matched_text": "",
+                "prompt_text": null,
+                "pub_date": 1781039198.262473,
+                "reason": null,
+                "refs": [],
+                "snippet": "We are trying to make sure that the crant money gets put onto his account.",
+                "start_idx": -1,
+                "title": "Lipscomb Scholarship Payment Contact",
+                "type": "conversation_context_citation",
+                "url": "/c/6a288040-9648-83e8-b955-9426230bf8aa"
+              },
+              "citation_uuid": "9d77376d-4769-47ba-890a-3e6940950609",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "87d99dab-1a64-417a-baa1-9ccc75e61500"
+        }
+      },
+      "parent": "f44b44ae-46d5-47c9-be26-66452b490273"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "d92f64dd-43c4-4c04-b006-5fe2cf1cc707": {
+      "id": "d92f64dd-43c4-4c04-b006-5fe2cf1cc707",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write an email to Heather letting her know that I contacted Lipscomb, was able to get a hold of the financial aid department, spoke with a gentleman who recommended we send an email to financialaid@lipscomb.edu with the proof of his acceptance letter of the $2,500. At that point, they will go ahead and contact us back and let us know a direct deposit method that we can send the $2,500. He also recommended that he would be in contact with Joshua to let him know that there is a program called Backpack Pay and he can apply for more scholarships if that's something that he wishes to do. Please ask her if she would like me to conduct that email or if she would like to take it from here."
+          ]
+        },
+        "create_time": 1781039700.933,
+        "id": "d92f64dd-43c4-4c04-b006-5fe2cf1cc707",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "f44b44ae-46d5-47c9-be26-66452b490273": {
+      "id": "f44b44ae-46d5-47c9-be26-66452b490273",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Yoshoa Rodriguez"
+          ]
+        },
+        "create_time": 1781040328.31,
+        "id": "f44b44ae-46d5-47c9-be26-66452b490273",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "06a79125-b1c7-46a8-a16f-f265716603e3"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Email to Heather Draft",
+  "update_time": 1781040426.216622,
+  "voice": null
+}

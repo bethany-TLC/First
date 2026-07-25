@@ -1,0 +1,176 @@
+{
+  "conversation_id": "68eeb79d-0114-8328-8ac8-7bca7c510a5d",
+  "conversation_template_id": null,
+  "create_time": 1760475039.392806,
+  "current_node": "2788ffc8-2f6d-478b-9162-a86063bf3035",
+  "default_model_slug": "gpt-5",
+  "id": "68eeb79d-0114-8328-8ac8-7bca7c510a5d",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "1beb185b-9da8-4c4a-9a87-22707a3aa5b1": {
+      "id": "1beb185b-9da8-4c4a-9a87-22707a3aa5b1",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "based on the transcript how much money are they spending on marketing rihg tnow"
+          ]
+        },
+        "create_time": 1760475316.656,
+        "id": "1beb185b-9da8-4c4a-9a87-22707a3aa5b1",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "f14766b9-a4e7-413a-9a97-f99d5aa76324"
+    },
+    "2788ffc8-2f6d-478b-9162-a86063bf3035": {
+      "id": "2788ffc8-2f6d-478b-9162-a86063bf3035",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "From the transcript of your meeting with Jodi Mehlenbacher and her team at Thrive Wellness\u30107\u2020Thrive-Wellness-New-Era-Intel-Growth-and-Collaboration-Meeting-a71c1a8b-6693.pdf\u3011, there is **no mention of significant paid marketing spend** currently.  \n\nHere\u2019s what can be inferred directly from their statements:\n\n---\n\n### \ud83d\udd39 Key Mentions About Marketing Spend\n\n1. **Organic-Focused Growth**  \n   > \u201cYou guys are like amazing through organic stuff. Is most of your booking coming through the website?\u201d  \n   > \u201cAll of it. Unless they call.\u201d  \n   \u2192 This shows **they rely almost entirely on organic traffic** (social media, referrals, and direct booking) rather than paid ads.\n\n2. **Limited Paid Ads**  \n   > \u201cWe really just launched our ads, like, two weeks ago, so it\u2019s really just brand new.\u201d  \n   \u2192 They\u2019ve **only recently started** a paid campaign \u2014 likely small-scale, test-phase spending.\n\n3. **CRM/Automation Tools**  \n   - They\u2019re using **Mailchimp** and **Aesthetic Record** \u2014 both relatively low-cost software.\n   - No mention of external marketing agencies or high-cost lead-gen platforms.\n\n4. **No Active Chatbot or Paid Funnels**  \n   > \u201cWe had one when we were with Growth99\u2026 but it really didn\u2019t help us funnel anything that we wouldn\u2019t have gotten anyway.\u201d  \n   \u2192 They previously paid for Growth99 (a marketing platform) but **canceled** due to low ROI.\n\n---\n\n### \ud83d\udcb0 Estimated Current Marketing Spend\n\nBased on the conversation:\n- **Mailchimp subscription:** ~$100\u2013$200/month  \n- **Aesthetic Record CRM (with online booking):** ~$400\u2013$600/month  \n- **New ads just launched:** likely a **$500\u2013$1,500/month test budget**  \n- **Total estimated active marketing spend:** **$1,000\u2013$2,000/month** maximum\n\nThey\u2019re effectively running on **1\u20132% of monthly revenue** in marketing\u2014extremely lean for a $1M+ med spa. Most of their client flow still comes from **organic channels, reputation, and internal systems**.\n\n---\n\nWould you like me to include a **\u201cMarketing Efficiency Analysis\u201d** section in their growth plan\u2014showing ROI potential if they shifted from $2K/month organic to a structured $8K\u2013$10K/month hybrid (paid + AI-powered funnel)?"
+          ]
+        },
+        "create_time": 1760475317.555205,
+        "id": "2788ffc8-2f6d-478b-9162-a86063bf3035",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": null,
+              "cloud_doc_url": null,
+              "fff_metadata": null,
+              "id": "file_00000000db146230818b555e29b09784",
+              "input_pointer": {
+                "file_index": null,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "7b1ac2df-e492-4f6f-b831-8a0eadd27978",
+                "message_index": 7
+              },
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_name": null,
+                "publication_year": "None"
+              },
+              "name": "Thrive-Wellness-New-Era-Intel-Growth-and-Collaboration-Meeting-a71c1a8b-6693.pdf",
+              "snippet": "",
+              "source": "my_files",
+              "type": "file"
+            }
+          ],
+          "model_slug": "gpt-5",
+          "parent_id": "e7ab2328-3b6a-4a02-a9f6-838196167eb2"
+        }
+      },
+      "parent": "1beb185b-9da8-4c4a-9a87-22707a3aa5b1"
+    },
+    "9e8862b6-4651-4aba-8287-37cd223aa58c": {
+      "id": "9e8862b6-4651-4aba-8287-37cd223aa58c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "take this transcript and come up with a growth plan that involves a few steps and options: B2B partnership angle for their medspa, promoting course as well as gain B2b connections for that too.: "
+          ]
+        },
+        "create_time": 1760475036.081,
+        "id": "9e8862b6-4651-4aba-8287-37cd223aa58c",
+        "metadata": {
+          "attachments": [
+            {
+              "file_token_size": 19796,
+              "id": "file_00000000db146230818b555e29b09784",
+              "mime_type": "application/pdf",
+              "name": "Thrive-Wellness-New-Era-Intel-Growth-and-Collaboration-Meeting-a71c1a8b-6693.pdf",
+              "size": 267573,
+              "source": "local"
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "f14766b9-a4e7-413a-9a97-f99d5aa76324": {
+      "id": "f14766b9-a4e7-413a-9a97-f99d5aa76324",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a **Growth Plan for Thrive Wellness** based on your transcript with Jodi Mehlenbacher\u30107\u2020Thrive-Wellness-New-Era-Intel-Growth-and-Collaboration-Meeting-a71c1a8b-6693.pdf\u3011\u2014designed to expand both their **Med Spa** and **Academy (course)** through B2B partnerships, digital distribution, and collaborative scaling opportunities.  \n\n---\n\n## \ud83c\udf1f Growth Plan Overview  \nThrive Wellness has already reached a strong $1M+ annual revenue with consistent patient flow and a proven brand. The next stage is **strategic expansion**\u2014leveraging the *Thrive Academy* as a scalable asset, creating recurring B2B revenue, and deepening partnerships that multiply reach without adding operational strain.\n\n---\n\n## PHASE 1: B2B Partnership Expansion (Med Spa + Academy)\n\n### **1. Strategic Brand Collaborations**\n**Goal:** Position Thrive as a \u201cpreferred education and consulting partner\u201d for device manufacturers, pharmaceutical reps, and practice management platforms.  \n**Steps:**  \n- Develop a co-branded **\u201cPowered by Thrive Academy\u201d** training bundle for aesthetic reps (Allergan, Galderma, Lumenis, Sciton, etc.).  \n- Include a **discounted course license** with device purchases\u2014training new owners on how to launch, price, and scale their med spa operations.  \n- Create referral agreements with vendors, offering 10\u201315% affiliate commissions on course enrollments.\n\n**Outcomes:**  \n- New B2B revenue streams without additional ad spend  \n- Strengthened industry credibility and franchise-level exposure  \n\n---\n\n### **2. Local B2B Referral Ecosystem**\n**Goal:** Build a recurring client pipeline through cross-industry partnerships.  \n**Steps:**  \n- Partner with complementary businesses\u2014gyms, salons, photographers, real estate teams, and luxury boutiques\u2014for client cross-promotions.  \n- Offer **Thrive Wellness \u201cWellness Passport\u201d** cards: each partner distributes a discount or free mini-consult offer.  \n- Host quarterly **Partner Nights** at the spa to film collaborative content and drive referral campaigns.\n\n**Outcomes:**  \n- Consistent high-quality referrals  \n- Elevated brand awareness and social proof  \n\n---\n\n### **3. Professional Network Alliances**\n**Goal:** Use the Thrive Academy to attract aspiring injectors and future spa owners.  \n**Steps:**  \n- Partner with nursing schools, NP programs, and training academies to offer Thrive Academy courses as part of continuing education or post-graduate pathways.  \n- Provide a referral-tier structure: 10% referral commission + access to a free \u201cScale Strategy Call\u201d for every 5 students referred.  \n\n**Outcomes:**  \n- Long-term B2B lead generation  \n- Position Thrive as an education hub, not just a med spa  \n\n---\n\n## PHASE 2: Course Growth & Digital Scale\n\n### **1. Course Licensing for B2B Partners**\n**Goal:** Package the Academy into modular licensing tiers.  \n**Options:**  \n- **White-Label License:** Offer to consultants, coaches, and med-spa vendors to resell under their brand with attribution to Thrive.  \n- **Corporate Access License:** For device companies or franchise owners to train multiple teams at scale.  \n- **Bundle Offer:** Include the \u201cMed Spa Master Course\u201d in partnership with New Era Intel\u2019s Fully Booked CRM\u2122 or AI SDR packages for new clients.\n\n**Pricing Models:**  \n- Per-location license (e.g., $2,000 / location / year)  \n- Rev-share model (60 / 40 split on enrollments through partner channels)  \n\n---\n\n### **2. AI-Enabled Course Support**\n**Goal:** Implement \u201cBlaze AI\u201d as a digital course assistant to reduce support load and increase retention.  \n**Steps:**  \n- Train Blaze AI on all course modules, templates, and FAQs to answer student and franchise questions in real time.  \n- Embed inside the Thrive Academy portal and in all B2B partner dashboards.  \n\n**Outcome:**  \n- Reduced manual follow-up and higher completion rates  \n- Competitive differentiation through AI-driven education  \n\n---\n\n### **3. B2B Content Marketing**\n**Goal:** Establish Thrive as a thought leader through collaborative education.  \n**Steps:**  \n- Launch a monthly **\u201cThrive Business Breakdown\u201d** webinar co-hosted by New Era Intel, spotlighting topics like:\n  - \u201cHow to Cross-Sell Laser & Injectable Services\u201d\n  - \u201cHiring & Training Your First Injector\u201d\n  - \u201cFrom Injector to CEO: The Thrive Model\u201d  \n- Record, repurpose, and distribute snippets across LinkedIn, YouTube, and newsletters.  \n- Add a \u201cWork with Thrive\u201d funnel on the website for B2B inquiries.  \n\n**Outcome:**  \n- Increased inbound partnerships  \n- Warm traffic for both the med spa and Academy  \n\n---\n\n## PHASE 3: Revenue & Execution Options\n\n| Option | Description | Investment | Est. ROI |\n|--------|--------------|-------------|----------|\n| **Option A:** Affiliate & Vendor Partnerships | Integrate Thrive course bundles into device vendor and rep networks | Low (mainly time) | 3\u00d7 ROI within 90 days |\n| **Option B:** B2B Local Ecosystem Launch | Implement cross-promotion partnerships and quarterly events | Moderate ($2\u20133K/event) | 5\u00d7 ROI via referrals & memberships |\n| **Option C:** Digital Course Licensing | Scale course sales via franchise & consulting partners | Medium ($10K system setup) | 7\u00d7 ROI by month 6 |\n| **Option D:** Blaze AI Integration | AI-powered assistant for franchise or course delivery | High ($15K setup) | 10\u00d7 ROI by year-end through automation savings |\n\n---\n\n## PHASE 4: Next Steps\n\n1. **Co-Develop B2B Pitch Deck:**  \n   Combine Thrive\u2019s Academy assets and New Era Intel\u2019s tech capabilities into one partnership proposal.  \n2. **Create 3 Pilot Partners:**  \n   Identify one **device company**, one **training academy**, and one **local business network** to test the model.  \n3. **Launch \u201cThrive Certified Partner Program\u201d:**  \n   Invite select med spas and consultants to represent Thrive\u2019s course or participate in shared-revenue collaborations.  \n4. **Host Joint Webinar:**  \n   \u201cHow to Build a 7-Figure Med Spa Without Burnout\u201d\u2014to promote both the Academy and New Era Intel.  \n\n---\n\nWould you like me to turn this into a **formatted Growth Plan PDF** (with your New Era Intel branding, sections, and ROI table styled for presentation)? It would be ready to send to Jodi and her team."
+          ]
+        },
+        "create_time": 1760475039.367163,
+        "id": "f14766b9-a4e7-413a-9a97-f99d5aa76324",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": null,
+              "cloud_doc_url": null,
+              "fff_metadata": null,
+              "id": "file_00000000db146230818b555e29b09784",
+              "input_pointer": {
+                "file_index": null,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "7b1ac2df-e492-4f6f-b831-8a0eadd27978",
+                "message_index": 7
+              },
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_name": null,
+                "publication_year": "None"
+              },
+              "name": "Thrive-Wellness-New-Era-Intel-Growth-and-Collaboration-Meeting-a71c1a8b-6693.pdf",
+              "snippet": "",
+              "source": "my_files",
+              "type": "file"
+            }
+          ],
+          "model_slug": "gpt-5",
+          "parent_id": "fb5fe52f-6eef-4577-b4e5-a747459e2406"
+        }
+      },
+      "parent": "9e8862b6-4651-4aba-8287-37cd223aa58c"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Growth plan for B2B expansion",
+  "update_time": 1760478698.398714,
+  "voice": null
+}

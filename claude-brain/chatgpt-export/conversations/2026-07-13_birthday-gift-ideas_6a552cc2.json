@@ -1,0 +1,556 @@
+{
+  "conversation_id": "6a552cc2-97b4-83e8-9aeb-2d5b4dfe29e5",
+  "conversation_template_id": null,
+  "create_time": 1783966936.763055,
+  "current_node": "d2f1b8d9-8f72-4254-9260-599560ca5bde",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a552cc2-97b4-83e8-9aeb-2d5b4dfe29e5",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "467dd18d-b652-48f6-a981-c665fcf8ac18": {
+      "id": "467dd18d-b652-48f6-a981-c665fcf8ac18",
+      "message": null,
+      "parent": null
+    },
+    "68e74bbf-94cf-47dd-bb21-43b8def345a5": {
+      "id": "68e74bbf-94cf-47dd-bb21-43b8def345a5",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content": "Thought for 12s",
+          "content_type": "reasoning_recap"
+        },
+        "create_time": 1783966948.868306,
+        "id": "68e74bbf-94cf-47dd-bb21-43b8def345a5",
+        "metadata": {
+          "model_slug": "gpt-5-5",
+          "parent_id": "5a4aff3c-afc9-48db-9d15-591210c2c1d7"
+        }
+      },
+      "parent": "bbb21c70-604d-4442-b61c-46960a0dd86c"
+    },
+    "bbb21c70-604d-4442-b61c-46960a0dd86c": {
+      "id": "bbb21c70-604d-4442-b61c-46960a0dd86c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "I need suggestions on what to get my boyfriend for his birthday next week. We've been together for 11 months. But known each other for seven years. "
+          ]
+        },
+        "create_time": 1783966936.365145,
+        "id": "bbb21c70-604d-4442-b61c-46960a0dd86c",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "467dd18d-b652-48f6-a981-c665fcf8ac18"
+    },
+    "d2f1b8d9-8f72-4254-9260-599560ca5bde": {
+      "id": "d2f1b8d9-8f72-4254-9260-599560ca5bde",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Given what I know about you two, I wouldn't buy him something generic. You've known each other for **7 years**, been together **11 months**, and from everything you've shared, he's your **best friend, travel buddy, and partner in adventure**. The gift should feel personal and memorable.\n\nHere are the ideas I'd rank highest:\n\n### 1. A \"7 Years in the Making\" Experience (My favorite)\nInstead of one gift, make it a birthday adventure.\n\nInclude:\n- Breakfast together\n- An activity he'd love (go-karts would fit your style since you two enjoy unique experiences)\n- An incredible steak dinner\n- End the night with a handwritten letter telling him how crazy it is that after seven years of friendship, you finally found your person.\n\nThat letter will probably be what he remembers most.\n\n### 2. A Custom Leather Weekender Bag\nSince you two travel all the time, get him a high-quality leather duffel with his initials or last name embossed.\n\nEvery trip the two of you take, he'll use it.\n\n### 3. Build a \"Adventure Box\"\nFill it with things that represent your relationship:\n- Favorite snacks\n- A bottle of bourbon or whiskey if he enjoys it\n- A framed picture of you two\n- Tickets for a future adventure\n- A handwritten coupon book (\"One surprise road trip,\" \"Breakfast in bed,\" etc.)\n\n### 4. Something for the Farm\nI remember he loves building things and working on the farm.\n\nIdeas:\n- A personalized metal farm sign with the family name.\n- A custom leather tool belt.\n- A premium pocket knife engraved with a meaningful date or short message.\n\n### 5. GoPro or DJI Action Camera\nSince he rides BMX/mountain bikes and likes adventures, this is something he'll actually use.\n\n### 6. A Professional Couples Photo Session\nNot cheesy.\n\nA fun outdoor shoot that captures this season of life together, then have your favorite photo framed.\n\n### 7. Luxury Watch\nIf your budget allows, a nice watch becomes something he'll wear every day and think of you.\n\n### 8. \"Open When...\" Letters\nWrite 10-20 sealed letters:\n- Open when you miss me.\n- Open when you're stressed.\n- Open when you need motivation.\n- Open when you need to laugh.\n- Open on our one-year anniversary.\n\nGuys often keep these for years.\n\n### 9. Custom Metal Wall Art\nSince he likes making things and has a farm, a custom steel sign with his property, family name, or a meaningful design would be unique.\n\n### 10. A Surprise Weekend\nYou already love traveling together. Book one night somewhere neither of you has been. Keep the destination a surprise until you're in the car.\n\n## If money truly isn't an issue...\n\nI'd combine a few things:\n\n- A beautiful leather weekender bag.\n- A handwritten letter.\n- A framed photo of the two of you.\n- A surprise overnight getaway with an amazing dinner.\n\nThat combination feels thoughtful rather than just expensive.\n\nOne question: **What's your budget?** Around **$300**, **$1,000**, or are you thinking **$2,000+**? That will help narrow down ideas that feel just right for him."
+          ]
+        },
+        "create_time": 1783966948.206142,
+        "id": "d2f1b8d9-8f72-4254-9260-599560ca5bde",
+        "metadata": {
+          "content_references": [],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": "",
+                "attribution": "Past chat",
+                "category": "memory",
+                "end_idx": 0,
+                "matched_text": "",
+                "prompt_text": null,
+                "pub_date": 1754775997.004967,
+                "refs": [],
+                "retrieval_origin": "pca",
+                "snippet": "Writ me a post about Having fun with friends/future traveling buddies eating, laughing planning ",
+                "start_idx": 0,
+                "title": "Fun with friends post",
+                "type": "grouped_webpages",
+                "url": "https://chatgpt.com/c/6897c19a-066c-832b-a920-f81a371f7be4"
+              },
+              "citation_uuid": "9cd05914-f8c4-48f5-81b7-0135c4bdf962",
+              "deleted": false,
+              "feedback": null,
+              "retrieval_origin": "pca"
+            },
+            {
+              "citation": {
+                "alt": "",
+                "attribution": "Past chat",
+                "category": "memory",
+                "end_idx": 0,
+                "matched_text": "",
+                "prompt_text": null,
+                "pub_date": 1783961111.304845,
+                "refs": [],
+                "retrieval_origin": "pca",
+                "snippet": "Write a post about another great weekend in Tampa meeting with my Limitless family and enjoying the best restaurants in town! Talk about the six course meal at ASH to the fresh seafood in Clearwater to the best brunch in Florida at On Swann! Sprinkles with a fun night with the crew at lower deck watching the embarrassing UFC fight. And best of all doing life and adventures with my favorite person my man my travel buddy, my best friend",
+                "start_idx": 0,
+                "title": "Tampa Weekend Adventures",
+                "type": "grouped_webpages",
+                "url": "https://chatgpt.com/c/6a55157c-9414-83e8-8fef-968db4066b1f"
+              },
+              "citation_uuid": "65ddf6a2-3610-4c11-963a-107f14f3233d",
+              "deleted": false,
+              "feedback": null,
+              "retrieval_origin": "pca"
+            },
+            {
+              "citation": {
+                "alt": "",
+                "attribution": "Past chat",
+                "category": "memory",
+                "end_idx": 0,
+                "matched_text": "",
+                "prompt_text": null,
+                "pub_date": 1766074148.750739,
+                "refs": [],
+                "retrieval_origin": "pca",
+                "snippet": "My mom and dad are trying to figure out what to get my new boyfriend of six months. For Christmas. He used to be a BMX and mountain bike rider for the world's and hes into realistate, selling heavy machinery, riding, hanging out with friends, puma clothing and guns and making stuff at the farm. What should they get him ",
+                "start_idx": 0,
+                "title": "Gift ideas for boyfriend",
+                "type": "grouped_webpages",
+                "url": "https://chatgpt.com/c/694426dc-7fb8-8333-8ed8-0e4d729a9698"
+              },
+              "citation_uuid": "8fd00122-c361-4397-bc0b-cc07fa8dcb8d",
+              "deleted": false,
+              "feedback": null,
+              "retrieval_origin": "pca"
+            },
+            {
+              "citation": {
+                "alt": "",
+                "attribution": "Past chat",
+                "category": "memory",
+                "end_idx": 0,
+                "matched_text": "",
+                "prompt_text": null,
+                "pub_date": 1769269107.221735,
+                "refs": [],
+                "retrieval_origin": "pca",
+                "snippet": "Valentines gift for boyfriend that we've been dating for 6 months but know each other for 6 yrs",
+                "start_idx": 0,
+                "title": "Valentine's Gift Ideas",
+                "type": "grouped_webpages",
+                "url": "https://chatgpt.com/c/6974e75d-d5f0-832d-95a3-e585ca2cc990"
+              },
+              "citation_uuid": "5eee49c5-1f30-474f-995d-92706ae07dcf",
+              "deleted": false,
+              "feedback": null,
+              "retrieval_origin": "pca"
+            },
+            {
+              "citation": {
+                "alt": "",
+                "attribution": "Past chat",
+                "category": "memory",
+                "end_idx": 0,
+                "matched_text": "",
+                "prompt_text": null,
+                "pub_date": 1762274409.268588,
+                "refs": [],
+                "retrieval_origin": "pca",
+                "snippet": "What should I get my new boyfriend who I'm falling in love with who's been my friend for years who loves puma, BMX, and being a man's man. ",
+                "start_idx": 0,
+                "title": "Gift ideas for boyfriend",
+                "type": "grouped_webpages",
+                "url": "https://chatgpt.com/c/690a2c50-ac48-8331-ae36-231e916dfb6b"
+              },
+              "citation_uuid": "aa81fb6a-d119-4de9-8c94-be0f06ac80d5",
+              "deleted": false,
+              "feedback": null,
+              "retrieval_origin": "pca"
+            },
+            {
+              "citation": {
+                "alt": "",
+                "attribution": "Past chat",
+                "category": "memory",
+                "end_idx": 0,
+                "matched_text": "",
+                "prompt_text": null,
+                "pub_date": 1783560719.554733,
+                "refs": [],
+                "retrieval_origin": "pca",
+                "snippet": "I'm headed to Tampa Friday, Saturday, Sunday, July 10th, 11th and 12th and then all day event Saturday. But we want to find something to do at 10:00 Friday all day and a swanky place to eat and drink. And maybe so they entertainment or somewhere to go. Give me a bunch of ideas that I could take my boyfriend. That would be fun, unique and interesting",
+                "start_idx": 0,
+                "title": "Tampa Weekend Ideas",
+                "type": "grouped_webpages",
+                "url": "https://chatgpt.com/c/6a4ef9da-5b3c-83e8-979e-d7054a40a99b"
+              },
+              "citation_uuid": "1ebb87fc-3395-472d-b1f9-64dd419c7520",
+              "deleted": false,
+              "feedback": null,
+              "retrieval_origin": "pca"
+            },
+            {
+              "citation": {
+                "alt": "",
+                "attribution": "Past chat",
+                "category": "memory",
+                "end_idx": 0,
+                "matched_text": "",
+                "prompt_text": null,
+                "pub_date": 1773532888.74305,
+                "refs": [],
+                "retrieval_origin": "pca",
+                "snippet": "  Make the sunset more sunsetty and make me and my boyfriend kissing in the rear view mirror",
+                "start_idx": 0,
+                "title": "Sunset and Kiss Edit",
+                "type": "grouped_webpages",
+                "url": "https://chatgpt.com/c/69b5f6d7-b08c-8327-8143-0d2066eec3b2"
+              },
+              "citation_uuid": "d11e3d83-f1f3-4f9e-b06f-a7d6402ace55",
+              "deleted": false,
+              "feedback": null,
+              "retrieval_origin": "pca"
+            },
+            {
+              "citation": {
+                "alt": "",
+                "attribution": "Past chat",
+                "category": "memory",
+                "end_idx": 0,
+                "matched_text": "",
+                "prompt_text": null,
+                "pub_date": 1775313108.745355,
+                "refs": [],
+                "retrieval_origin": "pca",
+                "snippet": " This is what I ended up buying. Please give a quick brief breakdown of each and what time to take them and why they are good for you so that I can send this to my boyfriend be because I bought him one of each as well",
+                "start_idx": 0,
+                "title": "Rho Glutathione vs Neumi Swish",
+                "type": "grouped_webpages",
+                "url": "https://chatgpt.com/c/69d07825-797c-832a-8ec2-84945063228e"
+              },
+              "citation_uuid": "8a9c34ed-8945-425d-a5f1-8b05ceec1872",
+              "deleted": false,
+              "feedback": null,
+              "retrieval_origin": "pca"
+            },
+            {
+              "citation": {
+                "alt": "",
+                "attribution": "Past chat",
+                "category": "memory",
+                "end_idx": 0,
+                "matched_text": "",
+                "prompt_text": null,
+                "pub_date": 1781917419.649902,
+                "refs": [],
+                "retrieval_origin": "pca",
+                "snippet": " Write me a post about a year later. Finally feeling like myself again. A boss ass bitch who's finally rewriting our future. It's in a racing the last 7 years of bullshit, narcissistic repression and sucking the fucking life out of me. I feel like myself again. Again I feel back to normal. I have the life I'm dreaming and creating. I have the most amazing son I'm so proud of. I have the most insanely incredible boyfriend who is literally my person the business and it's about too change the history of my entire  bloodline",
+                "start_idx": 0,
+                "title": "Rewriting My Future",
+                "type": "grouped_webpages",
+                "url": "https://chatgpt.com/c/6a35e68d-0b4c-83e8-a677-80167a149b15"
+              },
+              "citation_uuid": "af9bcfcf-6f55-4a46-9fa7-c258a636fe0f",
+              "deleted": false,
+              "feedback": null,
+              "retrieval_origin": "pca"
+            },
+            {
+              "citation": {
+                "alt": "",
+                "attribution": "Past chat",
+                "category": "memory",
+                "end_idx": 0,
+                "matched_text": "",
+                "prompt_text": null,
+                "pub_date": 1777319800.715499,
+                "refs": [],
+                "retrieval_origin": "pca",
+                "snippet": " Can you turn this text to my boyfriend into a text to his mom who was very concerned about me last night due to my high blood pressure. Just let her know how thankful I am that she was concerned and I listened to her and her husband Tom and went in today and got on some meds",
+                "start_idx": 0,
+                "title": "Text to Boyfriend's Mom",
+                "type": "grouped_webpages",
+                "url": "https://chatgpt.com/c/69efbf56-e644-83ea-8fb9-e1e49c8fd4be"
+              },
+              "citation_uuid": "41eda1dc-9af5-485d-9b77-74b8d672bf16",
+              "deleted": false,
+              "feedback": null,
+              "retrieval_origin": "pca"
+            },
+            {
+              "citation": {
+                "alt": "",
+                "attribution": "Gmail",
+                "category": "apps",
+                "end_idx": 0,
+                "matched_text": "",
+                "prompt_text": null,
+                "pub_date": 1760557440.0,
+                "refs": [],
+                "retrieval_origin": "pca",
+                "snippet": "From: Michael Beresford michael@moorspa.com\nHi Bethany - my apologies - my Windows Calendar was off so I didn't get my usual reminder! Can we reschedule? On Wed, 15 Oct 2025 at 12:01, Bethany Gifford (via Calendly) <notifications@calendly.com> wrote: Hi Michael Beresford,",
+                "start_idx": 0,
+                "title": "Re: Reminder: 30 minute Meet and Greet with Bethany Gifford at 12:00pm (Pacific Time - US & Canada) on Thursday, October 16, 2025",
+                "type": "grouped_webpages",
+                "url": "https://mail.google.com/mail/#all/199e966cf542e4bc"
+              },
+              "citation_uuid": "5c8471ed-0ed9-4d4b-82a8-620ff094a163",
+              "deleted": false,
+              "feedback": null,
+              "retrieval_origin": "pca"
+            },
+            {
+              "citation": {
+                "alt": "",
+                "attribution": "Gmail",
+                "category": "apps",
+                "end_idx": 0,
+                "matched_text": "",
+                "prompt_text": null,
+                "pub_date": 1760557837.0,
+                "refs": [],
+                "retrieval_origin": "pca",
+                "snippet": "From: Michael Beresford michael@moorspa.com\nThanks and done. On Wed, 15 Oct 2025 at 12:46, Bethany Gifford <bethany@neweraintel.com> wrote: No worries, I actually saw that you had declined this the other day. I would love to reschedule with you, just pick a day and time that works best for you: https://calendly.com/neweraintel/meet-and-greet",
+                "start_idx": 0,
+                "title": "Re: Reminder: 30 minute Meet and Greet with Bethany Gifford at 12:00pm (Pacific Time - US & Canada) on Thursday, October 16, 2025",
+                "type": "grouped_webpages",
+                "url": "https://mail.google.com/mail/#all/199e96ce3dd27291"
+              },
+              "citation_uuid": "277b4fc3-f4cc-4754-9d9c-987dbe49d50f",
+              "deleted": false,
+              "feedback": null,
+              "retrieval_origin": "pca"
+            },
+            {
+              "citation": {
+                "alt": "",
+                "attribution": "Gmail",
+                "category": "apps",
+                "end_idx": 0,
+                "matched_text": "",
+                "prompt_text": null,
+                "pub_date": 1760380809.0,
+                "refs": [],
+                "retrieval_origin": "pca",
+                "snippet": "From: Michael Beresford michael@moorspa.com\nMichael Beresford has accepted this invitation. Event Name 30 minute Meet and Greet",
+                "start_idx": 0,
+                "title": "Accepted: Michael Beresford and Bethany Gifford @ Thu Oct 16, 2025 2pm - 2:30pm (CDT) (bethany@neweraintel.com)",
+                "type": "grouped_webpages",
+                "url": "https://mail.google.com/mail/#all/199dedf71a679575"
+              },
+              "citation_uuid": "eab7f904-8000-4622-911e-10ca3fa9b1af",
+              "deleted": false,
+              "feedback": null,
+              "retrieval_origin": "pca"
+            },
+            {
+              "citation": {
+                "alt": "",
+                "attribution": "Files",
+                "category": "files",
+                "end_idx": 0,
+                "matched_text": "",
+                "prompt_text": null,
+                "pub_date": null,
+                "refs": [],
+                "retrieval_origin": "pca",
+                "snippet": "Like whenever I go out of town because I travel sometimes. Like, I'll. I'll be like, in town.\r\nLike, okay, I'm in town. You don't have to pay for my travel or my hotel. Like, you just pay for my services. And they're like, okay, good, you know, because they get a little expensive. Yeah, but. But that's only 2500 for the actual service and the report. And then I help them, and then they usually turn into a client because, like, I can find 100 things that they need help with right off the bat. But",
+                "start_idx": 0,
+                "title": "Pasted text.txt",
+                "type": "grouped_webpages",
+                "url": "file://my_files/file_00000000f884722fb898c60f43b493c0"
+              },
+              "citation_uuid": "4bc45a78-757c-4152-99f2-f3e46bfab8a8",
+              "deleted": false,
+              "feedback": null,
+              "retrieval_origin": "pca"
+            },
+            {
+              "citation": {
+                "alt": "",
+                "attribution": "Files",
+                "category": "files",
+                "end_idx": 0,
+                "matched_text": "",
+                "prompt_text": null,
+                "pub_date": null,
+                "refs": [],
+                "retrieval_origin": "pca",
+                "snippet": "Again, this is not, you do not need to be reading this word for word. You can obviously make it natural. You're in the industry. \r\nYou know what it's like to, I don't want to say suffer, but you know what it's like to be in the backstages of a med spa and it's hard. Their systems aren't working, their front desk sucks, you know, or it's their niece's best friend's cousin that they hired and you know, they're on Instagram talking to their boyfriend all day, like, stop. So we want to partner with ",
+                "start_idx": 0,
+                "title": "Pasted text.txt",
+                "type": "grouped_webpages",
+                "url": "file://my_files/file_00000000eb0871f69d7a9ab72b6385ec"
+              },
+              "citation_uuid": "a2179d8e-12b0-4df8-9086-dc3548675f43",
+              "deleted": false,
+              "feedback": null,
+              "retrieval_origin": "pca"
+            },
+            {
+              "citation": {
+                "alt": "",
+                "attribution": "Files",
+                "category": "files",
+                "end_idx": 0,
+                "matched_text": "",
+                "prompt_text": null,
+                "pub_date": null,
+                "refs": [],
+                "retrieval_origin": "pca",
+                "snippet": "It's only going to get better. So, yeah, like, tell me a little bit about yourself, like where you sit stationed right now and, you know.\r\nYeah, Originally New Jersey born. I started. I worked in hospital networks up there. I actually worked for the criminally insane. So I worked at some of the psychiatric hospitals up there. Moved down this way into Florida about 10 years ago. Kind of loved getting away from the cold, and so I just stayed out this way. I moved out towards the Gulf. I'm out in S",
+                "start_idx": 0,
+                "title": "Pasted text.txt",
+                "type": "grouped_webpages",
+                "url": "file://my_files/file_00000000d83471f5b1a945a7b1a8521a"
+              },
+              "citation_uuid": "a447357e-a09f-4357-8ac7-661f9fb89d49",
+              "deleted": false,
+              "feedback": null,
+              "retrieval_origin": "pca"
+            },
+            {
+              "citation": {
+                "alt": "",
+                "attribution": "Files",
+                "category": "files",
+                "end_idx": 0,
+                "matched_text": "",
+                "prompt_text": null,
+                "pub_date": null,
+                "refs": [],
+                "retrieval_origin": "pca",
+                "snippet": "So let's not.\r\nIt said everything that, you know. Yeah, so it said everything that were meaning to say. I mean, it funneled correctly. I was like, oh, perfect. So it was more for the math oriented person, you know, the data oriented person, which they're out there, you know, and a lot like, you know, Eric, you were saying, you know, we need numbers as far as our guarantee goes. Like, you're right. You know, like we. For some people, yes. For most people, no. But in this industry. But there are g",
+                "start_idx": 0,
+                "title": "Pasted text.txt",
+                "type": "grouped_webpages",
+                "url": "file://my_files/file_0000000014c471f5baf89b56913c9696"
+              },
+              "citation_uuid": "d0f6cd9d-dbaa-4a3e-bce9-e61a031b70a0",
+              "deleted": false,
+              "feedback": null,
+              "retrieval_origin": "pca"
+            },
+            {
+              "citation": {
+                "alt": "",
+                "attribution": "Files",
+                "category": "files",
+                "end_idx": 0,
+                "matched_text": "",
+                "prompt_text": null,
+                "pub_date": null,
+                "refs": [],
+                "retrieval_origin": "pca",
+                "snippet": "And once that lead gets to you, that's where the ball drops and that's where we're seeing a lot of revenue leaks and a lot of wasted ad spend, wasted marketing money because we're not actually being able to convert that person into becoming a lifetime client. So I'm going to pull up something here just real quick. My screen. We do. There we go. My little one pager. So within the 90 days, we help you solidify your KPIs, we help you create SOPs for your staff. We not only create a market blueprint",
+                "start_idx": 0,
+                "title": "Pasted text.txt",
+                "type": "grouped_webpages",
+                "url": "file://my_files/file_00000000376c71f59e6801698f49b2f7"
+              },
+              "citation_uuid": "95ebc025-74ab-4141-b7a3-6bb616d3f7ca",
+              "deleted": false,
+              "feedback": null,
+              "retrieval_origin": "pca"
+            },
+            {
+              "citation": {
+                "alt": "",
+                "attribution": "Files",
+                "category": "files",
+                "end_idx": 0,
+                "matched_text": "",
+                "prompt_text": null,
+                "pub_date": null,
+                "refs": [],
+                "retrieval_origin": "pca",
+                "snippet": "You get a micro needling and I can get three treatments in right before your, you bring the kids to school for their first day of school. How's that sound? Yeah, yeah. That's the difference.\r\n\r\nBethany Anne (33:20): Me, that's like also what I hear is service based. Like when, when you take that and bump it up a notch and be like outcome, you know, and it's not that, it's not, it's not like, you know, here's a couple treatments. It's like, let's, let's get them on a Year long moment, you know, l",
+                "start_idx": 0,
+                "title": "Pasted text.txt",
+                "type": "grouped_webpages",
+                "url": "file://my_files/file_00000000fe00720c885c5ab080ffb6f3"
+              },
+              "citation_uuid": "9e8f86e4-089f-4a48-b552-0a1816090ad6",
+              "deleted": false,
+              "feedback": null,
+              "retrieval_origin": "pca"
+            },
+            {
+              "citation": {
+                "alt": "",
+                "attribution": "Files",
+                "category": "files",
+                "end_idx": 0,
+                "matched_text": "",
+                "prompt_text": null,
+                "pub_date": null,
+                "refs": [],
+                "retrieval_origin": "pca",
+                "snippet": "Like, we. Every single detail to get that level.\r\nOf reach and exposure is what our.\r\nTeam does from a scripting, editing, strategy, messaging side. Like all of it.\r\nWe handle for you.\r\nSomething to mention too, with the reason.\r\nThat it probably didn't work with this current social media girl.\r\nI don't even have to know if.\r\nI look her up on Instagram. On social media, what is her following and view count? Personally, I don't know. Is it substantial? Is it like, does she have over a hundred tho",
+                "start_idx": 0,
+                "title": "Pasted text.txt",
+                "type": "grouped_webpages",
+                "url": "file://my_files/file_00000000c19071fbb7f68e9eaabf6887"
+              },
+              "citation_uuid": "033d8264-d611-46d5-aeb7-f0e240b15d50",
+              "deleted": false,
+              "feedback": null,
+              "retrieval_origin": "pca"
+            },
+            {
+              "citation": {
+                "alt": "",
+                "attribution": "Files",
+                "category": "files",
+                "end_idx": 0,
+                "matched_text": "",
+                "prompt_text": null,
+                "pub_date": null,
+                "refs": [],
+                "retrieval_origin": "pca",
+                "snippet": "Various activities and books are shared throughout the presentation so participants can experience them and see how integrated into a common language.  Participants are encouraged to consider what the needs are in their learning environments\tAn extensive list of books and activities will be provided to participants.  Although not all on the list will be shared in the presentation, participants will see how the activities (classroom/school wide strategies) help implement a common language and be ",
+                "start_idx": 0,
+                "title": "Pasted text.txt",
+                "type": "grouped_webpages",
+                "url": "file://my_files/file_00000000b47071f788e7b2b06a2aeb6a"
+              },
+              "citation_uuid": "d90b955a-f335-499e-bcf0-0cab384dbbb7",
+              "deleted": false,
+              "feedback": null,
+              "retrieval_origin": "pca"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "68e74bbf-94cf-47dd-bb21-43b8def345a5"
+        }
+      },
+      "parent": "68e74bbf-94cf-47dd-bb21-43b8def345a5"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Birthday Gift Ideas",
+  "update_time": 1783966962.464079,
+  "voice": null
+}

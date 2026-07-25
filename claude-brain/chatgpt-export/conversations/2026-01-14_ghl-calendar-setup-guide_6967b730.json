@@ -1,0 +1,184 @@
+{
+  "conversation_id": "6967b730-c0f0-8325-b664-b6f9531c9e90",
+  "conversation_template_id": null,
+  "create_time": 1768404798.183567,
+  "current_node": "7dbb67a6-8cf6-4e70-b886-6d0a36f66179",
+  "default_model_slug": "gpt-5-2",
+  "id": "6967b730-c0f0-8325-b664-b6f9531c9e90",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "274fbe6e-d8a8-4566-9127-cb4bfcca7320": {
+      "id": "274fbe6e-d8a8-4566-9127-cb4bfcca7320",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "This is a **very common GoHighLevel confusion**, and the key thing to understand is this:\n\n\ud83d\udc49 **GHL does NOT send booking notifications to your calendar by default**  \n\ud83d\udc49 **There is no \u201cemail sender\u201d you whitelist to make it appear on your calendar**\n\nInstead, you must either **sync the calendar correctly** or **add an internal notification workflow**.\n\nI\u2019ll break this down cleanly so you know exactly what\u2019s happening and how to fix it.\n\n---\n\n## First: Why This Is Happening (Important)\n\nWhen someone books via your **GHL calendar link**:\n\n- \u2705 The **contact** gets a confirmation email\n- \u274c **You do NOT automatically get**:\n  - A calendar invite\n  - A pop-up\n  - A booking email\n  - A calendar reminder\n\nUnless you explicitly configure it.\n\nSo there is **no mystery email address** being blocked by Google or Outlook.\n\n---\n\n## Option 1 (BEST PRACTICE): Sync GHL \u2192 Your Google Calendar\n\nThis is what makes bookings **actually land on your calendar**.\n\n### Step-by-Step\n\n1. Go to **Settings \u2192 Profile**\n2. Scroll to **Calendar Configuration**\n3. Click **Connect Google Account**\n4. Select the Google account you want bookings to appear on\n5. Make sure:\n   - \u2705 Correct Google calendar is selected\n   - \u2705 Sync is ON\n\nNow when someone books:\n- The appointment **appears on your Google Calendar**\n- You get your **normal Google notifications**\n- No email permissions required\n\n### Test it\n- Book a test call\n- Refresh Google Calendar\n- You should see the event instantly\n\nIf you do not, the calendar is not properly connected.\n\n---\n\n## Option 2: Add an Internal Booking Notification (Highly Recommended)\n\nThis is separate from the calendar and ensures you **never miss a booking**.\n\n### Create a Simple Workflow\n\nGo to **Automation \u2192 Workflows**\n\n**Trigger**\n- Appointment Status = **Booked**\n- Select your calendar\n\n**Action**\n- Send Email \u2192 **To User (You)**\n\n### Example Internal Notification Email\n\nSubject:\n```\n\ud83d\udcc5 New Call Booked: {{contact.first_name}}\n```\n\nBody:\n```\nA new call has been booked.\n\nName: {{contact.first_name}} {{contact.last_name}}\nTime: {{appointment.start_time}}\nCalendar: {{appointment.calendar_name}}\n\nMeeting Link:\n{{appointment.meeting_location}}\n```\n\nNow:\n- You get an email every time someone books\n- You\u2019re notified even if your calendar sync glitches\n\n---\n\n## Option 3: Add SMS or App Notification (Power User Move)\n\nYou can also:\n- Send yourself an SMS\n- Use GHL mobile app push notifications\n\nThis is clutch if you book high-ticket calls.\n\n---\n\n## Important Clarification About \u201cWhat Email Is It Coming From?\u201d\n\nTo be very clear:\n\n- \u274c There is NO booking email sent to you by default\n- \u274c There is NO sender email to whitelist\n- \u2705 The event only appears if:\n  - Calendar sync is connected **OR**\n  - You create a workflow notification\n\nIf someone told you \u201ccheck spam\u201d or \u201cwhitelist GHL\u201d \u2014 that advice is incorrect in this case.\n\n---\n\n## My Recommendation for You (Luxora-Level Setup)\n\nDo **ALL THREE**:\n1. Sync Google Calendar\n2. Internal email notification workflow\n3. Optional SMS alert\n\nThat gives you:\n- Calendar visibility\n- Immediate awareness\n- Backup protection\n\n---\n\nIf you want, next I can:\n- Walk you through **why your Google Calendar sync might not be firing**\n- Audit your calendar + workflow setup\n- Help you build a **no-show-proof booking system**\n\nJust tell me which one you want."
+          ]
+        },
+        "create_time": 1768416223.623411,
+        "id": "274fbe6e-d8a8-4566-9127-cb4bfcca7320",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "fda7add4-f005-4d80-a355-872d78f821ac"
+        }
+      },
+      "parent": "bbb21650-b4f1-48c9-a9e7-7ec10c6f0895"
+    },
+    "2c9c0bed-9110-408f-9042-f00bd0079342": {
+      "id": "2c9c0bed-9110-408f-9042-f00bd0079342",
+      "message": null,
+      "parent": null
+    },
+    "37f111e2-f18a-40b4-9756-26b8b25ee555": {
+      "id": "37f111e2-f18a-40b4-9756-26b8b25ee555",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Perfect question. This is **exactly** what GoHighLevel (GHL) is good at once it\u2019s set up correctly. I\u2019ll walk you through this **step-by-step**, clean and simple, no fluff.\n\nI\u2019ll assume:\n- You\u2019re using **GoHighLevel**\n- You want **automatic email reminders**\n- You want your **Zoom / Google Meet / custom meeting link** included automatically\n- You want this to feel professional and hands-off\n\n---\n\n## PART 1: Create the Calendar in GoHighLevel\n\n### 1. Go to Calendars\nIn GHL:\n- Settings \u2192 **Calendars**\n- Click **+ Create Calendar**\n\n### 2. Calendar Settings\nFill in:\n\n- **Calendar Name:**  \n  Example: `Luxora Discovery Call`\n\n- **Calendar Type:**  \n  Choose **Round Robin** (if multiple team members)  \n  or **Single User** (just you)\n\n- **Assign User:**  \n  Select yourself (or team)\n\n- **Meeting Location**\n  Choose **Custom**\n  Paste your meeting link here:\n  - Zoom link  \n  - Google Meet link  \n  - Riverside link  \n  - Whatever you use  \n\nThis is IMPORTANT because GHL can dynamically insert this into reminders.\n\nExample:\n```\nZoom Link: https://zoom.us/j/XXXX\n```\n\nSave.\n\n---\n\n## PART 2: Connect Your Email + SMS (Critical)\n\nBefore reminders work correctly, make sure:\n\n### Email\n- Settings \u2192 **Email Services**\n- Connect:\n  - Google Workspace or\n  - Mailgun (recommended if you\u2019re scaling)\n\n### SMS (Optional but powerful)\n- Settings \u2192 **Phone Numbers**\n- Make sure a number is assigned\n\nIf email isn\u2019t connected, reminders will NOT send.\n\n---\n\n## PART 3: Create the Reminder Workflow (This Is the Magic)\n\nGHL does **not** auto-send reminders unless you tell it to.\n\n### 1. Go to Automation \u2192 Workflows\nClick **+ Create Workflow**\n\n### 2. Choose Trigger\nSelect:\n- **Appointment Status**\n- Status: **Booked**\n- Calendar: Select your new calendar\n\nThis tells GHL: *when someone books, start automation*\n\n---\n\n## PART 4: Add Email Reminder With Meeting Link\n\n### Email #1 \u2013 Confirmation (Immediately)\n\nAdd Action:\n- **Send Email**\n\nExample email copy:\n```\nSubject: Your Call Is Confirmed \u2705\n\nHi {{contact.first_name}},\n\nYour call is booked!\n\n\ud83d\udcc5 Date & Time:\n{{appointment.start_time}}\n\n\ud83d\udd17 Join the call here:\n{{appointment.meeting_location}}\n\nIf anything comes up, you can reschedule here:\n{{appointment.reschedule_link}}\n\nLooking forward to connecting,\nBethany\n```\n\nIMPORTANT merge fields:\n- `{{appointment.meeting_location}}` \u2190 this pulls your Zoom/Meet link automatically\n- `{{appointment.start_time}}`\n\n---\n\n### Email #2 \u2013 24 Hours Before\n\nAdd:\n- **Wait \u2192 1 Day Before Appointment**\n- **Send Email**\n\nExample:\n```\nSubject: Reminder: Your Call Tomorrow\n\nJust a quick reminder about your call tomorrow.\n\n\ud83d\udd17 Meeting Link:\n{{appointment.meeting_location}}\n\nTalk soon,\nBethany\n```\n\n---\n\n### Email #3 \u2013 1 Hour Before (Optional but powerful)\n\nAdd:\n- **Wait \u2192 1 Hour Before Appointment**\n- **Send Email**\n\nShort and sweet.\n\n---\n\n## PART 5: (Optional but HIGHLY Recommended) SMS Reminder\n\nAdd action:\n- **Send SMS**\n\nExample:\n```\nHi {{contact.first_name}}, this is a reminder for your call starting soon.\n\nJoin here:\n{{appointment.meeting_location}}\n\n\u2013 Bethany\n```\n\nThis dramatically reduces no-shows.\n\n---\n\n## PART 6: Test Everything (Do NOT Skip)\n\n1. Book a test appointment using the calendar link\n2. Confirm:\n   - Confirmation email arrives\n   - Meeting link shows correctly\n   - Reminder timing works\n\nIf the meeting link doesn\u2019t show:\n- Go back to **Calendar \u2192 Meeting Location**\n- Make sure the link is entered there, not just in the email\n\n---\n\n## Pro Tips (Luxora-Level Polish)\n\n- Use **calendar-specific workflows** so each offer has its own messaging\n- Add a **pre-call prep email** (what to expect, who it\u2019s for, who it\u2019s not)\n- Add a **no-show workflow** that auto-follows up if they don\u2019t attend\n- Add a **post-call workflow** with next steps + recap\n\n---\n\nIf you want, next I can:\n- Build you **exact email + SMS copy** for Luxora Discovery Calls  \n- Help you reduce no-shows to under **10%**\n- Or help you set this up for **multiple offers** (Discovery, Strategy, VIP)\n\nJust tell me which direction you want to go."
+          ]
+        },
+        "create_time": 1768404798.024241,
+        "id": "37f111e2-f18a-40b4-9756-26b8b25ee555",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "fc9f6d9e-6ef6-4623-8be7-b4f8de723bdc"
+        }
+      },
+      "parent": "bbb2180c-9acd-46ab-a0bd-561c0cb40008"
+    },
+    "466d44d3-ab0d-42b5-9c0e-c0e722e08dbe": {
+      "id": "466d44d3-ab0d-42b5-9c0e-c0e722e08dbe",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a **clean, step-by-step way to set this up in GoHighLevel (GHL)** so you get **email reminders** and your **meeting link is automatically included** for every booking.\n\nI\u2019ll break this into **3 short sections** so you can follow it once and be done.\n\n---\n\n## 1\ufe0f\u20e3 Create or Connect Your Calendar in GHL\n\n**Path:**\nSettings \u2192 Calendars \u2192 **Connections**\n\n### Option A: Connect Google Calendar (recommended)\n1. Click **Connect**\n2. Sign into your Google account\n3. Choose the calendar you want GHL to write to\n4. Save\n\nThis prevents double booking and keeps everything synced.\n\n---\n\n## 2\ufe0f\u20e3 Set Up the Booking Calendar (Availability + Meeting Link)\n\n**Path:**\nSettings \u2192 Calendars \u2192 **Calendar Settings** \u2192 Create New (or edit existing)\n\n### Key Settings to Configure\n\n**Calendar Type**\n- Choose **Round Robin** (team) or **Personal**\n\n**Availability**\n- Set your working days and time blocks\n- Add buffer times if needed\n\n**Meeting Location (THIS IS IMPORTANT)**\n- Choose **Custom**\n- Paste your meeting link:\n  - Zoom\n  - Google Meet\n  - Riverside\n  - Calendly (if routing)\n- Example:\n  ```\n  Zoom Meeting Link:\n  https://zoom.us/j/XXXXXXXX\n  ```\n\nGHL will automatically insert this link into confirmations and reminders.\n\n---\n\n## 3\ufe0f\u20e3 Turn On Email (and SMS) Reminders Automatically\n\nThis is controlled by **Workflows**, not the calendar itself.\n\n### Create the Reminder Workflow\n\n**Path:**\nAutomation \u2192 Workflows \u2192 **Create Workflow**\n\n**Trigger**\n- Appointment Status = **Booked**\n- Select your specific calendar\n\n---\n\n### Add These Actions (Best Practice)\n\n**Action 1: Confirmation Email (Immediately)**\n- Action: **Send Email**\n- Include dynamic fields:\n  - {{appointment.start_time}}\n  - {{appointment.location}} \u2190 this pulls your meeting link automatically\n  - {{contact.first_name}}\n\n**Action 2: Reminder Email (24 hours before)**\n- Action: **Wait**\n  - 1 day before appointment\n- Action: **Send Email**\n\n**Action 3: Reminder Email (1 hour before)**\n- Action: **Wait**\n  - 1 hour before appointment\n- Action: **Send Email**\n\nOptional but powerful:\n- Add SMS reminders using the same structure\n\n---\n\n## 4\ufe0f\u20e3 What to Put in the Email (Simple Template)\n\n**Subject:**\nYour Call Is Booked \u2714\n\n**Body:**\nHi {{contact.first_name}},\n\nYour call is confirmed for  \n{{appointment.start_time}}\n\nJoin here at the time of the call:  \n{{appointment.location}}\n\nIf you need to reschedule, please use the link in your confirmation email.\n\nLooking forward to connecting,  \nBethany\n\n---\n\n## 5\ufe0f\u20e3 Final Test (Do NOT Skip This)\n1. Book a test appointment\n2. Confirm:\n   - Calendar blocks correctly\n   - Confirmation email arrives\n   - Meeting link is included\n   - Reminder emails fire\n\n---\n\n### Pro Tip (Luxora-Level Polish)\nAdd:\n- A **pre-call questionnaire**\n- A **calendar no-show prevention SMS**\n- A **post-call follow-up workflow**\n\nIf you want, I can:\n- Build the exact **email copy**\n- Create the **workflow for you**\n- Optimize this for **sales calls, podcast bookings, or consults**\n\nJust tell me which calendar type you\u2019re setting up."
+          ]
+        },
+        "create_time": 1768404798.021738,
+        "id": "466d44d3-ab0d-42b5-9c0e-c0e722e08dbe",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "32d418b7-eaaa-4ecc-a197-9cbf9e285e38"
+        }
+      },
+      "parent": "bbb2180c-9acd-46ab-a0bd-561c0cb40008"
+    },
+    "7dbb67a6-8cf6-4e70-b886-6d0a36f66179": {
+      "id": "7dbb67a6-8cf6-4e70-b886-6d0a36f66179",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Perfect. I\u2019ll walk you through this **exactly as you would click it in GoHighLevel**, step by step, so you can build it once and never think about it again.\n\nThis will do **two things**:\n1. Email you **immediately** when someone books  \n2. Email you **reminders** before the call so nothing slips\n\nNo tech fluff. Just the clicks.\n\n---\n\n# GOAL  \nWhen someone books your GHL calendar:\n- \u2705 You get an instant \u201cNew Booking\u201d email  \n- \u2705 You get reminder emails (24 hours + 1 hour before)\n\n---\n\n## STEP 1: Create the Workflow\n\n1. Go to **Automation**\n2. Click **Workflows**\n3. Click **+ Create Workflow**\n4. Choose **Start from Scratch**\n5. Name it:\n   ```\n   INTERNAL \u2013 Booking Notifications & Reminders\n   ```\n6. Click **Create**\n\n---\n\n## STEP 2: Set the Trigger (This Is Critical)\n\n1. Click **+ Add Trigger**\n2. Select **Appointment Status**\n3. Configure:\n   - **Status:** Booked\n   - **Calendar:** Select the exact calendar they are booking from\n4. Save Trigger\n\nThis tells GHL:\n> \u201cEvery time someone books THIS calendar, run this workflow.\u201d\n\n---\n\n## STEP 3: Immediate Email Notification to YOU\n\n1. Click **+ Add Action**\n2. Choose **Send Email**\n\n### Email Settings\n- **Send To:** User  \n- **User:** Select **your name**  \n  (NOT Contact \u2014 this is the most common mistake)\n\n### Email Content (Copy/Paste Friendly)\n\n**Subject:**\n```\n\ud83d\udcc5 New Call Booked \u2013 {{contact.first_name}} {{contact.last_name}}\n```\n\n**Body:**\n```\nYou have a new call booked.\n\nClient: {{contact.first_name}} {{contact.last_name}}\nEmail: {{contact.email}}\nPhone: {{contact.phone}}\n\nDate & Time:\n{{appointment.start_time}}\n\nCalendar:\n{{appointment.calendar_name}}\n\nMeeting Link:\n{{appointment.meeting_location}}\n```\n\n3. Save Action\n\n\u2705 At this point, you\u2019ll get an email every time someone books.\n\n---\n\n## STEP 4: Add 24-Hour Reminder Email (To You)\n\n1. Click **+ Add Action**\n2. Choose **Wait**\n3. Set:\n   - **Wait until:** 1 day before appointment\n4. Save\n\n### Add Email Action After the Wait\n\n- **Send To:** User  \n- **User:** You\n\n**Subject:**\n```\n\u23f0 Reminder: Call Tomorrow \u2013 {{contact.first_name}}\n```\n\n**Body:**\n```\nReminder that you have a call scheduled for tomorrow.\n\nClient: {{contact.first_name}} {{contact.last_name}}\nTime:\n{{appointment.start_time}}\n\nJoin Link:\n{{appointment.meeting_location}}\n```\n\nSave.\n\n---\n\n## STEP 5: Add 1-Hour Reminder Email (To You)\n\nRepeat the same pattern:\n\n1. **Add Action \u2192 Wait**\n   - Wait until **1 hour before appointment**\n2. **Add Action \u2192 Send Email**\n   - Send To: User\n   - User: You\n\n**Subject:**\n```\n\ud83d\udea8 Call Starting Soon \u2013 {{contact.first_name}}\n```\n\n**Body:**\n```\nYour call starts in about 1 hour.\n\nClient: {{contact.first_name}} {{contact.last_name}}\nTime:\n{{appointment.start_time}}\n\nMeeting Link:\n{{appointment.meeting_location}}\n```\n\nSave.\n\n---\n\n## STEP 6: Publish the Workflow (Don\u2019t Forget This)\n\nTop right corner:\n- Toggle **Draft \u2192 Publish**\n\nIf it\u2019s not published, nothing will fire.\n\n---\n\n## STEP 7: Test It (Mandatory)\n\n1. Open your GHL calendar booking link\n2. Book a test appointment using a personal email\n3. Confirm:\n   - You get the **instant booking email**\n   - You see the reminder emails scheduled\n   - Meeting link appears correctly\n\nIf you don\u2019t get the email:\n- Double-check **Send To = User**\n- Make sure you selected the **correct calendar**\n- Confirm your email is connected under **Settings \u2192 Profile**\n\n---\n\n## OPTIONAL BUT POWERFUL UPGRADES\n\n### Add SMS Reminder to Yourself\nGreat if you\u2019re mobile.\n\n```\n\ud83d\udea8 New call booked with {{contact.first_name}} at {{appointment.start_time}}\n```\n\n### Add Slack or App Notification\nIf you live inside Slack or the GHL app.\n\n---\n\n## Common Mistakes (Avoid These)\n\n- \u274c Sending to Contact instead of User\n- \u274c Not selecting the correct calendar\n- \u274c Forgetting to publish\n- \u274c Assuming GHL auto-notifies you (it does not)\n\n---\n\n## Final Recommendation for You\n\nFor a founder booking high-value calls:\n- Workflow notifications = **non-negotiable**\n- Calendar sync = backup\n- SMS reminder = elite setup\n\nIf you want, next I can:\n- Send you **screenshots-style click map**\n- Help you clone this for **multiple calendars**\n- Add **no-show protection logic**\n\nJust tell me."
+          ]
+        },
+        "create_time": 1768417170.899558,
+        "id": "7dbb67a6-8cf6-4e70-b886-6d0a36f66179",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "bbb21ad0-957a-45bd-9528-4926e04f248d"
+        }
+      },
+      "parent": "bbb21ad0-957a-45bd-9528-4926e04f248d"
+    },
+    "bbb21650-b4f1-48c9-a9e7-7ec10c6f0895": {
+      "id": "bbb21650-b4f1-48c9-a9e7-7ec10c6f0895",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "When somebody books with my GHL calendar link they get an email from my email saying details of their calendar booking. But it is not coming to my calendar as a reminder or notification that someone booked. What email would it be coming from so that I can give it permission to show up on my calendar"
+          ]
+        },
+        "create_time": 1768416221.523441,
+        "id": "bbb21650-b4f1-48c9-a9e7-7ec10c6f0895",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "37f111e2-f18a-40b4-9756-26b8b25ee555"
+    },
+    "bbb2180c-9acd-46ab-a0bd-561c0cb40008": {
+      "id": "bbb2180c-9acd-46ab-a0bd-561c0cb40008",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "How do I set up a calendar to get email reminders and put my meeting link in ghl?"
+          ]
+        },
+        "create_time": 1768404797.742815,
+        "id": "bbb2180c-9acd-46ab-a0bd-561c0cb40008",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "2c9c0bed-9110-408f-9042-f00bd0079342"
+    },
+    "bbb21ad0-957a-45bd-9528-4926e04f248d": {
+      "id": "bbb21ad0-957a-45bd-9528-4926e04f248d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Walk me through how to add this workflow so that I, the person that they're booking with, gets an email notification and reminders."
+          ]
+        },
+        "create_time": 1768417170.660497,
+        "id": "bbb21ad0-957a-45bd-9528-4926e04f248d",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "274fbe6e-d8a8-4566-9127-cb4bfcca7320"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "GHL Calendar Setup Guide",
+  "update_time": 1768417220.140634,
+  "voice": null
+}

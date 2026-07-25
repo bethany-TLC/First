@@ -1,0 +1,71 @@
+{
+  "conversation_id": "69fd1e86-e92c-83ea-ae28-aac427a5d844",
+  "conversation_template_id": null,
+  "create_time": 1778196109.371033,
+  "current_node": "ad3acc3c-c15a-45e4-a23a-ff0138294549",
+  "default_model_slug": "gpt-5-5",
+  "id": "69fd1e86-e92c-83ea-ae28-aac427a5d844",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "86de61af-3254-462f-b70d-4d93069cfcce": {
+      "id": "86de61af-3254-462f-b70d-4d93069cfcce",
+      "message": null,
+      "parent": null
+    },
+    "ad3acc3c-c15a-45e4-a23a-ff0138294549": {
+      "id": "ad3acc3c-c15a-45e4-a23a-ff0138294549",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Hey, thanks for checking in.\n\nAs long as the agreement has been signed and the onboarding checklist has been completed, we\u2019re good to move forward with the meeting. Please let me know if you\u2019d still like to meet once those items are wrapped up.\n\nWe\u2019re really looking forward to getting your growth plan off the ground and supporting you all through this next phase."
+          ]
+        },
+        "create_time": 1778196109.289909,
+        "id": "ad3acc3c-c15a-45e4-a23a-ff0138294549",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "84b6b836-9565-40d1-940f-f2e953cdf348"
+        }
+      },
+      "parent": "bbb21e5d-a300-4104-8934-0eb1583e48aa"
+    },
+    "bbb21e5d-a300-4104-8934-0eb1583e48aa": {
+      "id": "bbb21e5d-a300-4104-8934-0eb1583e48aa",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "That's more professional: Hey thanks for checking in.\n\nAs long as the agreement has been signed and the onbaruchevklist complete we can meet. Peas let me know if you'd like to still meet with those requirements. Really looking forward to getting our growth plan off the ground for you all"
+          ]
+        },
+        "create_time": 1778196109.081786,
+        "id": "bbb21e5d-a300-4104-8934-0eb1583e48aa",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "86de61af-3254-462f-b70d-4d93069cfcce"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Professional Meeting Confirmation",
+  "update_time": 1778196111.572713,
+  "voice": null
+}

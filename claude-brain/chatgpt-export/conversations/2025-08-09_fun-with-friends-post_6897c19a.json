@@ -1,0 +1,161 @@
+{
+  "conversation_id": "6897c19a-066c-832b-a920-f81a371f7be4",
+  "conversation_template_id": null,
+  "create_time": 1754775997.475619,
+  "current_node": "972ff665-81a0-41f9-9846-e0aece39f714",
+  "default_model_slug": "auto",
+  "id": "6897c19a-066c-832b-a920-f81a371f7be4",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "1eff4c09-facd-45e5-bc2f-eab422cbe72b": {
+      "id": "1eff4c09-facd-45e5-bc2f-eab422cbe72b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a light, upbeat version you could post:  \n\n---\n\nNothing better than good food, loud laughs, and wild ideas with friends who just might be your future travel crew. \ud83d\uddfa\ufe0f\u2708\ufe0f  \nOne moment we\u2019re eating dessert, the next we\u2019re mapping out bucket-list adventures like we\u2019ve already packed our bags.  \nHere\u2019s to the people who make every plan feel like a memory in the making. \ud83e\udd42\ud83c\udf7d\ufe0f\u2728  \n\n---\n\nDo you want me to make you a **shorter, more Instagram-caption style** version too?"
+          ]
+        },
+        "create_time": 1754775997.276006,
+        "id": "1eff4c09-facd-45e5-bc2f-eab422cbe72b",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "89b278f3-6589-435c-86f9-564e2bb08338"
+        }
+      },
+      "parent": "bbb213d6-8f69-4031-80c3-a6ae3b095994"
+    },
+    "2aef2569-4895-4367-95a8-6aaf77c4e2a4": {
+      "id": "2aef2569-4895-4367-95a8-6aaf77c4e2a4",
+      "message": null,
+      "parent": null
+    },
+    "5a3329ed-2d3f-4f2a-95bd-c9a5a24e659d": {
+      "id": "5a3329ed-2d3f-4f2a-95bd-c9a5a24e659d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Got it \u2014 you\u2019re not just *planning*; the trip is happening!  \nHere\u2019s a fun version for that:  \n\n---\n\nWhen your \u201clet\u2019s grab dinner\u201d turns into \u201clet\u2019s plan our epic adventure.\u201d \ud83c\udf7d\ufe0f\u2708\ufe0f  \nLaughing over appetizers, swapping stories, and finalizing all the little details for a trip we\u2019ve been dreaming about.  \nNext stop: memories we\u2019ll be laughing about for years. \ud83d\uddfa\ufe0f\u2728  \n\n---  \n\nWant me to also give you a **short, punchy version** for social?"
+          ]
+        },
+        "create_time": 1754776020.163577,
+        "id": "5a3329ed-2d3f-4f2a-95bd-c9a5a24e659d",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "bbb21711-46aa-4e1e-98f2-1dcfddbab7bb"
+        }
+      },
+      "parent": "bbb21711-46aa-4e1e-98f2-1dcfddbab7bb"
+    },
+    "972ff665-81a0-41f9-9846-e0aece39f714": {
+      "id": "972ff665-81a0-41f9-9846-e0aece39f714",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Alright, here\u2019s your post locked in for the trip you\u2019re actually taking:  \n\n---\n\nNothing beats a night of great food, nonstop laughs, and plotting out the adventures ahead with my favorite travel crew. \ud83c\udf7d\ufe0f\u2708\ufe0f  \nIn just a little while, these conversations turn into real-life memories \u2014 and I cannot wait. Here\u2019s to friendship, fun, and the journey that\u2019s about to begin. \ud83d\uddfa\ufe0f\u2728  \n\n---"
+          ]
+        },
+        "create_time": 1754776029.078103,
+        "id": "972ff665-81a0-41f9-9846-e0aece39f714",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "bbb2175a-5a62-43fc-a54a-27646e105e03"
+        }
+      },
+      "parent": "bbb2175a-5a62-43fc-a54a-27646e105e03"
+    },
+    "bbb213d6-8f69-4031-80c3-a6ae3b095994": {
+      "id": "bbb213d6-8f69-4031-80c3-a6ae3b095994",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Writ me a post about Having fun with friends/future traveling buddies eating, laughing planning "
+          ]
+        },
+        "create_time": 1754775997.004967,
+        "id": "bbb213d6-8f69-4031-80c3-a6ae3b095994",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "2aef2569-4895-4367-95a8-6aaf77c4e2a4"
+    },
+    "bbb21711-46aa-4e1e-98f2-1dcfddbab7bb": {
+      "id": "bbb21711-46aa-4e1e-98f2-1dcfddbab7bb",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "We are already going in atirp together so"
+          ]
+        },
+        "create_time": 1754776020.058424,
+        "id": "bbb21711-46aa-4e1e-98f2-1dcfddbab7bb",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "1eff4c09-facd-45e5-bc2f-eab422cbe72b"
+    },
+    "bbb2175a-5a62-43fc-a54a-27646e105e03": {
+      "id": "bbb2175a-5a62-43fc-a54a-27646e105e03",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "No"
+          ]
+        },
+        "create_time": 1754776028.968281,
+        "id": "bbb2175a-5a62-43fc-a54a-27646e105e03",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "5a3329ed-2d3f-4f2a-95bd-c9a5a24e659d"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Fun with friends post",
+  "update_time": 1754776031.10756,
+  "voice": null
+}

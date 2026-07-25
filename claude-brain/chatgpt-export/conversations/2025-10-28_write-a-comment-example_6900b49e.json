@@ -1,0 +1,71 @@
+{
+  "conversation_id": "6900b49e-65e8-8333-b01d-265df5b352db",
+  "conversation_template_id": null,
+  "create_time": 1761653943.354971,
+  "current_node": "d415a89a-ecc5-4725-8306-f4568539fd61",
+  "default_model_slug": "gpt-5",
+  "id": "6900b49e-65e8-8333-b01d-265df5b352db",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "bbb216ba-dc3e-45b5-96c1-ae6ade7b9f48": {
+      "id": "bbb216ba-dc3e-45b5-96c1-ae6ade7b9f48",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write a comment on a post about your friend being a strong Christian mother. An example. Talk about how the devil takes husbands away but you stayed strong and those kids will remember that."
+          ]
+        },
+        "create_time": 1761653943.028768,
+        "id": "bbb216ba-dc3e-45b5-96c1-ae6ade7b9f48",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "eaf82104-a354-4b69-afeb-b05665c13d56"
+    },
+    "d415a89a-ecc5-4725-8306-f4568539fd61": {
+      "id": "d415a89a-ecc5-4725-8306-f4568539fd61",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s an example comment you could post that sounds heartfelt, faith-filled, and strong without sounding bitter or preachy:  \n\n---\n\nYou\u2019ve walked through storms most people will never understand and still kept your faith unshaken. The enemy tried to break your family apart, but you stood firm in God\u2019s promises and refused to let darkness win. Your kids will never forget that their mama fought through pain with prayer, grace, and unshakable strength. You\u2019re living proof that God restores, protects, and provides \u2014 even when the devil tries to take everything.  \n\n---\n\nWould you like me to make it a bit **shorter and more social-media friendly** (for a Facebook or Instagram comment), or keep it **as-is** for a longer, more emotional tone?"
+          ]
+        },
+        "create_time": 1761653943.191285,
+        "id": "d415a89a-ecc5-4725-8306-f4568539fd61",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "07787102-a2be-4574-958b-b32499482302"
+        }
+      },
+      "parent": "bbb216ba-dc3e-45b5-96c1-ae6ade7b9f48"
+    },
+    "eaf82104-a354-4b69-afeb-b05665c13d56": {
+      "id": "eaf82104-a354-4b69-afeb-b05665c13d56",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Write a comment example",
+  "update_time": 1761653950.02142,
+  "voice": null
+}

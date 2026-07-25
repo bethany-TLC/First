@@ -1,0 +1,231 @@
+{
+  "conversation_id": "6980bbc1-a3b8-8325-86f7-41821a3d4ab3",
+  "conversation_template_id": null,
+  "create_time": 1770044368.088841,
+  "current_node": "cb13ca07-20dc-4fad-aa77-cc73dbb1def8",
+  "default_model_slug": "gpt-5-2",
+  "id": "6980bbc1-a3b8-8325-86f7-41821a3d4ab3",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "221fab0f-232a-4fe0-9f84-3c8a4204d8c3": {
+      "id": "221fab0f-232a-4fe0-9f84-3c8a4204d8c3",
+      "message": null,
+      "parent": null
+    },
+    "6ba07d09-682c-4ae4-af01-ca0075b40b99": {
+      "id": "6ba07d09-682c-4ae4-af01-ca0075b40b99",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "I love this idea \ud83d\ude04 and I can absolutely do it.\n\nQuick thing first (important): since this would be **a caricature of *you***, I need at least **one photo of you** to work from. That\u2019s required so I don\u2019t guess your face.\n\nHere\u2019s what to do next \ud83d\udc47  \n**Upload 1\u20133 photos** where:\n- Your face is clearly visible (good lighting)\n- Straight-on or slightly angled is perfect\n- One polished/professional look is ideal (since this is brand-adjacent)\n\nOnce you upload it, I\u2019ll create a **fully custom caricature** that reflects:\n- You as the founder of **The Luxora Collective**\n- Your role as a growth partner, strategist, and podcast host\n- The luxury, high-end, powerful feminine vibe you\u2019re building\n\nIf you want, tell me which direction you prefer (or say \u201cyou choose\u201d):\n\n**Style options**\n1. Luxe illustrated CEO (fashion-forward, confident, elegant)\n2. Editorial cartoon (Vanity Fair / New Yorker energy)\n3. Playful but powerful caricature (approachable, witty, boss energy)\n4. Ultra-polished brand mascot version (perfect for website, IG, decks)\n\nAs soon as you drop the photo, I\u2019ll take it from there \ud83d\udd25"
+          ]
+        },
+        "create_time": 1770044367.966271,
+        "id": "6ba07d09-682c-4ae4-af01-ca0075b40b99",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "f15b4bb9-3836-4264-b169-3e36809431c8"
+        }
+      },
+      "parent": "bbb214bf-deeb-44c7-96f9-d83bc60ec8e2"
+    },
+    "bbb210d7-2f0b-4720-9a25-164b5646ad41": {
+      "id": "bbb210d7-2f0b-4720-9a25-164b5646ad41",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_00000000f61472309c0629ae1a8b6ac7",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 1074,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 158690,
+              "width": 720
+            },
+            {
+              "asset_pointer": "sediment://file_00000000693471f8a062ad3e4a85dc4e",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 1064,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 192830,
+              "width": 720
+            },
+            {
+              "asset_pointer": "sediment://file_0000000096f871fda7d0ee981d76c2bc",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 1086,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 173826,
+              "width": 720
+            },
+            {
+              "asset_pointer": "sediment://file_00000000582c71f8a7c230bbb774fb83",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 1079,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 185815,
+              "width": 720
+            },
+            {
+              "asset_pointer": "sediment://file_000000007f7c71fd981b26e7fd03731b",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 1074,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 222694,
+              "width": 720
+            },
+            "CEO luxe"
+          ]
+        },
+        "create_time": 1770044506.666691,
+        "id": "bbb210d7-2f0b-4720-9a25-164b5646ad41",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "6ba07d09-682c-4ae4-af01-ca0075b40b99"
+    },
+    "bbb214bf-deeb-44c7-96f9-d83bc60ec8e2": {
+      "id": "bbb214bf-deeb-44c7-96f9-d83bc60ec8e2",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "\n\u201cCreate a caricature of me and my job based on everything you know about me.\u201d"
+          ]
+        },
+        "create_time": 1770044367.821957,
+        "id": "bbb214bf-deeb-44c7-96f9-d83bc60ec8e2",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "221fab0f-232a-4fe0-9f84-3c8a4204d8c3"
+    },
+    "cb13ca07-20dc-4fad-aa77-cc73dbb1def8": {
+      "id": "cb13ca07-20dc-4fad-aa77-cc73dbb1def8",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "create_time": 1770044578.075261,
+        "id": "cb13ca07-20dc-4fad-aa77-cc73dbb1def8",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "a9a52033-8d3d-4730-a05d-21b227715bed"
+        }
+      },
+      "parent": "bbb210d7-2f0b-4720-9a25-164b5646ad41"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Caricature Request Details",
+  "update_time": 1770044582.570276,
+  "voice": null
+}

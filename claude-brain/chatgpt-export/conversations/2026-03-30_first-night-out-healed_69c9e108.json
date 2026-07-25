@@ -1,0 +1,79 @@
+{
+  "conversation_id": "69c9e108-74b8-832f-82c4-80326b1d6024",
+  "conversation_template_id": null,
+  "create_time": 1774838044.609683,
+  "current_node": "b75da849-55a5-4c69-b979-b74f13d7bcc0",
+  "default_model_slug": "gpt-5-3",
+  "id": "69c9e108-74b8-832f-82c4-80326b1d6024",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "72acee9e-b8c4-4433-8ce7-8d327ee9122b": {
+      "id": "72acee9e-b8c4-4433-8ce7-8d327ee9122b",
+      "message": null,
+      "parent": null
+    },
+    "b75da849-55a5-4c69-b979-b74f13d7bcc0": {
+      "id": "b75da849-55a5-4c69-b979-b74f13d7bcc0",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a polished, elevated post that still feels like *you*:\n\n---\n\nFirst night out since surgery\u2026 and wow, what a moment \ud83e\udd79\u2728\n\nWalking into \ue200entity\ue202[\"restaurant\",\"Aba\",\"Nashville, TN, USA\"]\ue201 tonight felt like stepping back into *life* again. The energy, the ambiance, the swanky vibe\u2026 it was everything. But what made it unforgettable wasn\u2019t just the setting\u2026 it was who I was with.\n\nMy best friend.  \nMy protector.  \nMy confidant.  \nMy adventure partner.  \nThe man I prayed for and didn\u2019t even fully realize I deserved.\n\nThis year has already held so much. Healing. Growth. Letting go. Rebuilding. And tonight was one of those moments where everything just clicked\u2026 like God gently whispering, \u201cSee? I\u2019ve got you.\u201d\n\nBecause somehow, through everything I\u2019ve walked through the past few years, I still get to smile like this. I still get to *shine*. I still get to feel joy, love, and deep gratitude.\n\nAnd that right there\u2026 that\u2019s everything.\n\nI love this life. I love where I am. I love who I\u2019m becoming. And I love Tennessee for being the place where it all started coming back together \ud83e\udd0d\n\nGod\u2019s timing is never wrong. Not once.\n\n\u2728 Here\u2019s to healing, happiness, and nights that remind you just how far you\u2019ve come."
+          ]
+        },
+        "create_time": 1774838044.445006,
+        "id": "b75da849-55a5-4c69-b979-b74f13d7bcc0",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "Aba",
+              "prefix": null,
+              "prompt_text": "Aba",
+              "render_as": null,
+              "type": "alt_text"
+            }
+          ],
+          "model_slug": "gpt-5-3",
+          "parent_id": "1b2d48c7-f608-485b-b54f-3470a099b42c"
+        }
+      },
+      "parent": "bbb21d36-0c09-458b-9fe3-5f49c694146c"
+    },
+    "bbb21d36-0c09-458b-9fe3-5f49c694146c": {
+      "id": "bbb21d36-0c09-458b-9fe3-5f49c694146c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Make me a pat about going out on the town for the first time since my major surgery with the man of dreams. My best friend, my protector, my confident, my adventure buddy. Talk about how swanky Aba in Nashville was and how everything that has happened this years so far keeps reminding me of how good God is and everything works out the way it should and I love my life and ability to still shien and be happy and be grateful even though so much has happened to me in the past few years. I love TN and the way things are all going toghether "
+          ]
+        },
+        "create_time": 1774838044.307579,
+        "id": "bbb21d36-0c09-458b-9fe3-5f49c694146c",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "72acee9e-b8c4-4433-8ce7-8d327ee9122b"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "First Night Out Healed",
+  "update_time": 1774838053.900118,
+  "voice": null
+}

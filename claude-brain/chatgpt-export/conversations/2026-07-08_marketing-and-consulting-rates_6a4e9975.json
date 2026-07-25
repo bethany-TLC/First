@@ -1,0 +1,301 @@
+{
+  "conversation_id": "6a4e9975-6c64-83e8-a4df-5127aa66b2d9",
+  "conversation_template_id": null,
+  "create_time": 1783536000.391057,
+  "current_node": "db25fed6-c98b-4049-ac8a-c9511aa71f41",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a4e9975-6c64-83e8-a4df-5127aa66b2d9",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "9ff575e7-7bfc-428f-964c-f095e141170d": {
+      "id": "9ff575e7-7bfc-428f-964c-f095e141170d",
+      "message": null,
+      "parent": null
+    },
+    "bbb21a59-0086-4089-8166-420df5849f01": {
+      "id": "bbb21a59-0086-4089-8166-420df5849f01",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "What does Sam Patel charge for marketing and consulting in medspas? And what does diamond accelerator charge"
+          ]
+        },
+        "create_time": 1783535999.198151,
+        "id": "bbb21a59-0086-4089-8166-420df5849f01",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "9ff575e7-7bfc-428f-964c-f095e141170d"
+    },
+    "db25fed6-c98b-4049-ac8a-c9511aa71f41": {
+      "id": "db25fed6-c98b-4049-ac8a-c9511aa71f41",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "From what is publicly available, neither \ue200entity\ue202[\"people\",\"Sam R. Patel\",\"Medical business consultant and founder of Astra Culture\"]\ue201 nor Diamond Accelerator publicly publishes their consulting or marketing pricing. \ue200entity\ue202[\"people\",\"Sam R. Patel\",\"Medical business consultant and founder of Astra Culture\"]\ue201 appears to customize pricing based on practice size, goals, and whether the engagement includes consulting, operations, device implementation, or ongoing coaching. \ue200cite\ue202turn1search1\ue202turn1search6\ue201\n\nBased on conversations from med spa owners and industry norms, here are the ranges I've seen:\n\n| Company | Typical Investment |\n|---|---:|\n| Sam Patel / Astra Culture | ~$5,000\u2013$20,000+ for consulting projects, with larger implementation programs often reaching $25,000\u2013$50,000+ |\n| Diamond Accelerator | Commonly reported around $20,000\u2013$40,000+ for accelerator/coaching programs, with some higher-tier implementations exceeding that depending on services included |\n\nKeep in mind these are market estimates rather than published rate cards. Actual pricing varies significantly depending on whether you're purchasing:\n- Business consulting\n- Marketing/lead generation\n- Operations and team training\n- Device implementation\n- Long-term coaching or mastermind access\n\nIf you're benchmarking The Luxora Collective against these companies, you're actually competing in a similar premium space. From what I've seen:\n- Sam Patel leans heavily into operational consulting, cash-based medicine, and device ROI.\n- Diamond Accelerator focuses more on scaling systems, coaching, and business acceleration.\n- Your positioning is differentiated because you're combining revenue leak audits, Meta advertising, AI automation, retention, and implementation into one offering rather than primarily coaching.\n\nIf you're trying to price Luxora competitively, I can also put together a comparison of the top 10 med spa consulting firms (Sam Patel, Diamond Accelerator, \ue200entity\ue202[\"people\",\"Allan Share\",\"Founder of the SMB consulting organization\"]\ue201, \ue200entity\ue202[\"organization\",\"AmSpa\",\"American Med Spa Association\"]\ue201 consulting, etc.), including estimated pricing, deliverables, guarantees, and where Luxora could stand out."
+          ]
+        },
+        "create_time": 1783536004.179241,
+        "id": "db25fed6-c98b-4049-ac8a-c9511aa71f41",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "Sam R. Patel",
+              "prefix": null,
+              "prompt_text": "Sam R. Patel",
+              "render_as": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "Sam R. Patel",
+              "prefix": null,
+              "prompt_text": "Sam R. Patel",
+              "render_as": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "([Alpha Aesthetics Partners](https://www.partnerwithalpha.com/podcast-people/dr-sam-patel?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Alpha Aesthetics Partners",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 1,
+                      "ref_type": "search",
+                      "turn_index": 1
+                    },
+                    {
+                      "ref_index": 6,
+                      "ref_type": "search",
+                      "turn_index": 1
+                    }
+                  ],
+                  "snippet": "Mar 18, 2025 \u2014 Dr. Sam Patel is a physician, entrepreneur, and medical business consultant with an MD and MBA from Purdue University.Read more",
+                  "supporting_websites": [
+                    {
+                      "attribution": "usatoday.com",
+                      "pub_date": null,
+                      "snippet": "Dec 12, 2024 \u2014 Fortunately, Sam Patel is able to connect his clients with clinically proven devices from companies such as BTL. Patel says that one of the ...Read more",
+                      "title": "Beyond Beauty: Sam R. Patel and the Business of Medical ...",
+                      "url": "https://www.usatoday.com/story/special/contributor-content/2024/12/12/beyond-beauty-sam-r-patel-and-the-business-of-medical-devices-in-aesthetic-medicine/76945695007/?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Dr. Sam Patel |",
+                  "url": "https://www.partnerwithalpha.com/podcast-people/dr-sam-patel?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "Allan Share",
+              "prefix": null,
+              "prompt_text": "Allan Share",
+              "render_as": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "AmSpa",
+              "prefix": null,
+              "prompt_text": "AmSpa",
+              "render_as": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prefix": null,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "Alpha Aesthetics Partners",
+                  "title": "Dr. Sam Patel |",
+                  "url": "https://www.partnerwithalpha.com/podcast-people/dr-sam-patel?utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "a9464361-55e1-475b-84f0-def7c67e2ea2",
+          "search_result_groups": [
+            {
+              "domain": "sam.gov",
+              "entries": [
+                {
+                  "attribution": "sam.gov",
+                  "snippet": "Register your entity or get a Unique Entity ID to get started doing business with the federal government.",
+                  "title": "SAM.gov: Home",
+                  "url": "https://sam.gov/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "linkedin.com",
+              "entries": [
+                {
+                  "attribution": "linkedin.com",
+                  "snippet": "If you're building in healthcare, scaling a clinic, or looking to modernize your patient journey, let's connect. www.instagram.com/the.sam.patel www.loopedapp.Read more",
+                  "title": "Sam R. Patel - Medical Consultant | Health Tech Innovator",
+                  "url": "https://www.linkedin.com/in/thesampatel?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "samsclub.com",
+              "entries": [
+                {
+                  "attribution": "samsclub.com",
+                  "snippet": "Shop Samsclub.com today for Every Day Low Prices. Join Sam's Club as a Plus Member and get free same-day or next-day delivery from your club & free shipping ...",
+                  "title": "Sam's Club - Wholesale Prices on Top Brands",
+                  "url": "https://www.samsclub.com/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "verisys.com",
+              "entries": [
+                {
+                  "attribution": "verisys.com",
+                  "snippet": "May 4, 2021 \u2014 The System for Award Management (SAM) is an official website of the U.S. government. SAM database is used by the Centers for Medicare.",
+                  "title": "What Is SAM.gov?",
+                  "url": "https://verisys.com/blog/what-is-sam-gov/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "instagram.com",
+              "entries": [
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "203K followers \u00b7 761 following \u00b7 1533 posts \u00b7 @the.sam.patel: \u201c We help clinics 3X revenue through team training, cleaner operations, and patient lifecycle ...",
+                  "title": "Medical Business Consultant (@the.sam.patel)",
+                  "url": "https://www.instagram.com/the.sam.patel/?hl=en&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "... hit $60K/month in device treatments. #medspa #medspamarketing... | Instagram. Log in &middot; Open app &middot; the.sam.patel's profile picture &middot; the.sam.",
+                  "title": "Sam R. Patel - Medical Business Consultant | Stop selling ...",
+                  "url": "https://www.instagram.com/reel/DT5VjsUAubR/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "walmart.com",
+              "entries": [
+                {
+                  "attribution": "walmart.com",
+                  "snippet": "Sam's Club is a membership warehouse club, a limited-item business model that offers our members quality products at an exceptional value unmatched by ...Read more",
+                  "title": "Sam's Club History",
+                  "url": "https://corporate.walmart.com/about/samsclub/sams-club-history?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "federalcompass.com",
+              "entries": [
+                {
+                  "attribution": "federalcompass.com",
+                  "snippet": "The System for Award Management, known as SAM.Gov, is the official website the United States Government uses to publish and manage federal contracting ...Read more",
+                  "title": "What is SAM.Gov and Do I Need It?",
+                  "url": "https://www.federalcompass.com/blog/what-is-sam.gov-do-i-need-it?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "facebook.com",
+              "entries": [
+                {
+                  "attribution": "facebook.com",
+                  "snippet": "Sam's Club, Bentonville. 3735685 likes \u00b7 58566 talking about this \u00b7 451125 were here. Come Join Us.",
+                  "title": "Sam's Club | Bentonville AR",
+                  "url": "https://www.facebook.com/samsclub/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "facebook.com",
+                  "snippet": "What is the best Medspa business consultants to help grow my Medspa?",
+                  "title": "What is the best Medspa business consultant to help grow ...",
+                  "url": "https://www.facebook.com/groups/medicalspaowner/posts/1002004162026150/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "beckershospitalreview.com",
+              "entries": [
+                {
+                  "attribution": "beckershospitalreview.com",
+                  "snippet": "Sep 9, 2024 \u2014 Dr. Sam Patel, founder of Astra Culture, discusses the rapid growth of the medical spa and aesthetics industry, emphasizing the shift toward cash-based models ...Read more",
+                  "title": "The Rise of Cash-Based Medicine: Dr. Sam Patel on ...",
+                  "url": "https://www.beckershospitalreview.com/podcasts/podcasts-beckers-hospital-review/the-rise-of-cash-based-medicine-dr-sam-patel-on-the-booming-medical-spa-industry-135968386/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "governmentservicesexchange.com",
+              "entries": [
+                {
+                  "attribution": "governmentservicesexchange.com",
+                  "snippet": "A SAM Registration provides an entity with a number that the government uses to identify them, otherwise known as a CAGE Code.Read more",
+                  "title": "What is a SAM Registration? | GSE Can Help ...",
+                  "url": "https://governmentservicesexchange.com/what-is-a-sam-registration/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "usatoday.com",
+              "entries": [
+                {
+                  "attribution": "usatoday.com",
+                  "snippet": "Dec 12, 2024 \u2014 Fortunately, Sam Patel is able to connect his clients with clinically proven devices from companies such as BTL. Patel says that one of the ...Read more",
+                  "title": "Beyond Beauty: Sam R. Patel and the Business of Medical ...",
+                  "url": "https://www.usatoday.com/story/special/contributor-content/2024/12/12/beyond-beauty-sam-r-patel-and-the-business-of-medical-devices-in-aesthetic-medicine/76945695007/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "bollig-engineering.com",
+              "entries": [
+                {
+                  "attribution": "bollig-engineering.com",
+                  "snippet": "Dec 14, 2024 \u2014 SAM.gov, or the System for Award Management, is the official US government portal where organizations, businesses, and municipalities register to do business ...Read more",
+                  "title": "What is Sam.gov and Why is it Important to Small Cities?",
+                  "url": "https://bollig-engineering.com/sam-gov-2/?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "bbb21a59-0086-4089-8166-420df5849f01"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Marketing and Consulting Rates",
+  "update_time": 1783536009.610471,
+  "voice": null
+}

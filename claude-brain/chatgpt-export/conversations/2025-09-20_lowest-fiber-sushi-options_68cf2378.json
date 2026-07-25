@@ -1,0 +1,71 @@
+{
+  "conversation_id": "68cf2378-3ffc-832d-a022-a86d67bd2b89",
+  "conversation_template_id": null,
+  "create_time": 1758405504.258233,
+  "current_node": "648c7a59-bdc2-4b2e-945e-e9a8676281f8",
+  "default_model_slug": "gpt-5",
+  "id": "68cf2378-3ffc-832d-a022-a86d67bd2b89",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "648c7a59-bdc2-4b2e-945e-e9a8676281f8": {
+      "id": "648c7a59-bdc2-4b2e-945e-e9a8676281f8",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "The sushi menu items with the **lowest fiber content** are generally those made with **refined white rice, seafood, and minimal vegetables**. Here\u2019s a breakdown:  \n\n### Lowest Fiber Sushi Options  \n- **Nigiri (fish over rice):** Very low in fiber since it\u2019s just white rice plus fish.  \n- **Sashimi (just raw fish, no rice):** **Zero fiber** (pure protein and fat).  \n- **Simple rolls (tuna roll, salmon roll, yellowtail roll):** Very low fiber, usually 1\u20132g or less per roll, since they only contain fish, white rice, and seaweed.  \n- **Tamago nigiri (egg over rice):** Low fiber, similar to fish nigiri.  \n\n### Higher Fiber Sushi to Avoid (if you want lowest fiber)  \n- Rolls with **vegetables** (avocado, cucumber, asparagus, etc.) \u2192 adds fiber.  \n- Rolls with **brown rice** \u2192 higher fiber than white rice.  \n- Seaweed salad, edamame, or veggie-heavy rolls \u2192 more fiber.  \n\n\ud83d\udc49 **Absolute lowest fiber choice:** **Sashimi**, since it contains no rice, no vegetables, and no fiber at all.  \n\nWould you like me to make you a **ranked list of sushi items from lowest to highest fiber** so you can easily scan options when ordering?"
+          ]
+        },
+        "create_time": 1758405504.079293,
+        "id": "648c7a59-bdc2-4b2e-945e-e9a8676281f8",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "3944fdbf-b8df-420b-9e3e-e5e42c65a4bf"
+        }
+      },
+      "parent": "bbb21dd0-745d-43f3-822c-df22ebbb60b9"
+    },
+    "bbb21dd0-745d-43f3-822c-df22ebbb60b9": {
+      "id": "bbb21dd0-745d-43f3-822c-df22ebbb60b9",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Lowest fiber item on sushi item"
+          ]
+        },
+        "create_time": 1758405503.895772,
+        "id": "bbb21dd0-745d-43f3-822c-df22ebbb60b9",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "e56b0d45-0cdc-45db-8824-54e2b1901cf0"
+    },
+    "e56b0d45-0cdc-45db-8824-54e2b1901cf0": {
+      "id": "e56b0d45-0cdc-45db-8824-54e2b1901cf0",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Lowest fiber sushi options",
+  "update_time": 1758405510.700572,
+  "voice": null
+}

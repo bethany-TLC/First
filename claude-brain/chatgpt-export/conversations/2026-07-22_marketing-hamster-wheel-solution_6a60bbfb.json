@@ -1,0 +1,72 @@
+{
+  "conversation_id": "6a60bbfb-8f50-83ea-ac07-87cb0a7a1469",
+  "conversation_template_id": null,
+  "create_time": 1784724528.648307,
+  "current_node": "a942a21f-6e8c-4e1e-a9aa-9802b798f6e6",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a60bbfb-8f50-83ea-ac07-87cb0a7a1469",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "55723bd3-9eca-4e15-88f5-d68afabe2358": {
+      "id": "55723bd3-9eca-4e15-88f5-d68afabe2358",
+      "message": null,
+      "parent": null
+    },
+    "a942a21f-6e8c-4e1e-a9aa-9802b798f6e6": {
+      "id": "a942a21f-6e8c-4e1e-a9aa-9802b798f6e6",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ":::writing{variant=\"social_post\" id=\"49281\"}\nStop chasing one-off appointments.\n\nIf your marketing only brings in random Botox visits that never come back, you're stuck on the marketing hamster wheel.\n\nMore ads.\nMore leads.\nMore spending.\nThe same revenue.\n\nThe problem usually isn't that you need *more* leads. It's that your business isn't designed to turn those leads into loyal, high-value patients.\n\nThe practices that grow the fastest don't just generate appointments.\nThey create systems that increase show rates, improve consultations, convert patients into memberships, encourage referrals, and keep clients coming back year after year.\n\nThat's how you turn a $600 appointment into a $6,000+ lifetime client.\n\nIf you're tired of constantly wondering where next month's revenue is coming from, let's fix the real bottlenecks in your practice.\n\n\ud83d\udcf2 Send me a DM or book a Growth Strategy Call. I'll show you exactly where your practice is leaking revenue and how to build a predictable growth system that lasts.\n\n#MedSpa #MedicalSpa #AestheticPractice #MedSpaMarketing #PracticeGrowth #PatientRetention #MembershipProgram #MedicalAesthetics #BusinessGrowth #TheLuxoraCollective\n:::\n\nIf you'd like, I can also make this more bold and polarizing, or turn it into a carousel with slide-by-slide copy."
+          ]
+        },
+        "create_time": 1784724528.547445,
+        "id": "a942a21f-6e8c-4e1e-a9aa-9802b798f6e6",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "2b943150-6f2b-472f-b04c-40c063e6721f"
+        }
+      },
+      "parent": "bbb21b5c-450d-435c-9333-b890b2493abf"
+    },
+    "bbb21b5c-450d-435c-9333-b890b2493abf": {
+      "id": "bbb21b5c-450d-435c-9333-b890b2493abf",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write an Instagram post for getting off the marketing hamster wheel and giving me. A call so I can help you turn these one off leads into lifetime clients"
+          ]
+        },
+        "create_time": 1784724528.231631,
+        "id": "bbb21b5c-450d-435c-9333-b890b2493abf",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "55723bd3-9eca-4e15-88f5-d68afabe2358"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Marketing Hamster Wheel Solution",
+  "update_time": 1784724580.174728,
+  "voice": null
+}

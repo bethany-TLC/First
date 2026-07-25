@@ -1,0 +1,116 @@
+{
+  "conversation_id": "692885b3-c670-832e-b2c9-0442745fd6cf",
+  "conversation_template_id": null,
+  "create_time": 1764263355.867012,
+  "current_node": "87375f1e-cc48-4367-9ea2-e5d7398b1e3b",
+  "default_model_slug": "gpt-5-1",
+  "id": "692885b3-c670-832e-b2c9-0442745fd6cf",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "01de932b-011b-46bb-8e72-557ad8468c38": {
+      "id": "01de932b-011b-46bb-8e72-557ad8468c38",
+      "message": null,
+      "parent": null
+    },
+    "87375f1e-cc48-4367-9ea2-e5d7398b1e3b": {
+      "id": "87375f1e-cc48-4367-9ea2-e5d7398b1e3b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a revised version with champagne, tutus, and turkey hats:\n\n---\n\nWe showed up to the Turkey Trot in tutus and turkey hats, no coffee in sight\u2026 just a bottle of champagne tucked under someone\u2019s arm like it was part of the gear list. The start line was cold, the vibes were loud, and the laughs hit harder than the miles.\n\nThere is something about starting Thanksgiving with your girls, looking ridiculous on purpose, running mostly for bragging rights, and celebrating each checkpoint with a sip of bubbly like it\u2019s a marathon in Paris.\n\nGrateful for friendships that don\u2019t take themselves too seriously, that make fitness feel like fun, and that turn a holiday morning into a story we\u2019ll be laughing about long after dessert.\n\nTurkey hats, champagne, tutus, and a finish line worth the feast.\n\n---  \n\nWant to add a funny one-liner at the end?"
+          ]
+        },
+        "create_time": 1764263378.889056,
+        "id": "87375f1e-cc48-4367-9ea2-e5d7398b1e3b",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-1",
+          "parent_id": "bbb21e6c-9e22-49ad-835f-f866df7f9159"
+        }
+      },
+      "parent": "bbb21e6c-9e22-49ad-835f-f866df7f9159"
+    },
+    "bbb21b00-fa20-4a8d-80c3-8a2591e54d27": {
+      "id": "bbb21b00-fa20-4a8d-80c3-8a2591e54d27",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Right to post about going to the turkey trout on Thanksgiving with your girls \n"
+          ]
+        },
+        "create_time": 1764263355.261765,
+        "id": "bbb21b00-fa20-4a8d-80c3-8a2591e54d27",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "01de932b-011b-46bb-8e72-557ad8468c38"
+    },
+    "bbb21e6c-9e22-49ad-835f-f866df7f9159": {
+      "id": "bbb21e6c-9e22-49ad-835f-f866df7f9159",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Add in champagne. No coffee tutus and turkey hats"
+          ]
+        },
+        "create_time": 1764263378.269221,
+        "id": "bbb21e6c-9e22-49ad-835f-f866df7f9159",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "e2176ac3-5f8d-4e8e-b1d0-5902090b1255"
+    },
+    "e2176ac3-5f8d-4e8e-b1d0-5902090b1255": {
+      "id": "e2176ac3-5f8d-4e8e-b1d0-5902090b1255",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a simple, warm, fun post about going to the Turkey Trot with your girls, without being cheesy or overdone:\n\n---\n\nWe showed up for the Turkey Trot with cold hands, messy ponytails, and zero regrets. There\u2019s something about starting Thanksgiving with your girls that just hits different. You laugh more than you run, you pace yourself with coffee, and somehow the miles feel lighter when you\u2019re talking about life, goals, and who\u2019s making mac and cheese for dinner.\n\nGrateful for friendship that shows up early, sweats through the chaos, and celebrates the season with real joy. Thanksgiving feels better when you earn your feast together.\n\nHere\u2019s to strong legs, good people, and a holiday that starts with a finish line.\n\n---  \n\nWant it more funny, more sentimental, or more short and punchy?"
+          ]
+        },
+        "create_time": 1764263356.513635,
+        "id": "e2176ac3-5f8d-4e8e-b1d0-5902090b1255",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-1",
+          "parent_id": "65958f66-0663-4707-a413-b52a2979ea9a"
+        }
+      },
+      "parent": "bbb21b00-fa20-4a8d-80c3-8a2591e54d27"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Post about Turkey Trot",
+  "update_time": 1764263382.231145,
+  "voice": null
+}

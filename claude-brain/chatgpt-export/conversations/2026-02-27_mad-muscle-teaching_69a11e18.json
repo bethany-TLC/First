@@ -1,0 +1,689 @@
+{
+  "conversation_id": "69a11e18-9e4c-8331-8f5a-672fa81b0f1b",
+  "conversation_template_id": null,
+  "create_time": 1772166686.456312,
+  "current_node": "799d41f0-6d87-4542-ac3f-98d7840814a1",
+  "default_model_slug": "gpt-5-2",
+  "id": "69a11e18-9e4c-8331-8f5a-672fa81b0f1b",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "799d41f0-6d87-4542-ac3f-98d7840814a1": {
+      "id": "799d41f0-6d87-4542-ac3f-98d7840814a1",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a **typical structure of the workout plan you\u2019d get inside the \ue200entity\ue202[\"company\",\"Mad Muscles\",\"fitness app\"]\ue201 app** (note that it is **personalized** based on your profile, goals, schedule, and equipment, so what you see in the app will differ slightly for you) \ue200cite\ue202turn0search2\ue201\n\n### \ud83d\udccc Core Workout Plan Overview\n\n**1. Personalized Daily Workouts**  \nEach day you open the app you\u2019ll get a tailored session based on your goals (build muscle, lose weight, get shredded, etc.). You\u2019ll see:  \n- **What body part you\u2019re training**  \n- **How long the session will take**  \n- **List of exercises with video tutorials and instructions**  \n- **Equipment needed (if any)**  \nThis is all generated automatically for you \ue200cite\ue202turn0search24\ue201\n\n**2. Exercise Variety**  \nWorkouts include a mix of:  \n- **Strength training** (classic resistance work)  \n- **High-Intensity Interval Training (HIIT)**  \n- **Calisthenics** (bodyweight strength)  \n- **Tai Chi or mindful movement**  \n- **Chair workouts or gentle sessions**  \n- **Indoor walking routines**  \nThese can be swapped based on your preferences \ue200cite\ue202turn0search21\ue201\n\n**3. Weekly Schedule**  \nYou choose how many days you want to train, and the app adjusts your weekly plan. You can also change your workout days any time \ue200cite\ue202turn0search3\ue201\n\n---\n\n### \ud83d\udcc5 Example Week (Typical Themes)\n\nBelow is a *general example* of how a week could be structured \u2014 this isn\u2019t exact from the app but reflects the kinds of workouts Mad Muscles generates:\n\n| Day | Workout Type | Focus |\n|-----|--------------|-------|\n| Monday | Strength | Upper body strength work (push/pull) |\n| Tuesday | HIIT | Cardio + fat burn |\n| Wednesday | Calisthenics | Full-body bodyweight movements |\n| Thursday | Strength | Lower body & core |\n| Friday | Chair or Tai Chi | Mobility / recovery |\n| Saturday | Mixed | Optional challenge or walk |\n| Sunday | Rest | Recovery day |\n\n> The app picks exact exercises, reps, and sets for you based on your specific goals \ue200cite\ue202turn0search18\ue201\n\n---\n\n### \ud83e\udde0 What Each Session Includes\n\nFor *each* workout day, the app will show you:\n\n\u2705 Clear instructions and **video demonstrations**  \n\u2705 Estimated **workout duration**  \n\u2705 **Progress metrics** (calories, steps, consistency)  \n\u2705 Option to **swap exercises** if something doesn\u2019t suit you  \nAll guided so that you don\u2019t have to plan on your own \ue200cite\ue202turn0search5\ue201\n\n---\n\n### \ud83c\udfcb\ufe0f Optional Program Types You Can Switch To  \nInside your profile you can change your workout type to match your preference:\n\n- HIIT  \n- Strength  \n- Calisthenics  \n- Chair Yoga / Chair Workouts  \n- Basic programs (short daily routines)  \n- Indoor walking  \n- Military-style workouts  \n- Tai Chi variations  \n- Senior-friendly routines  \nThis lets you adjust focus over time \ue200cite\ue202turn0search21\ue201\n\n---\n\n### Summary\n\n**Your Mad Muscles workout plan is:**\n- Tailored to your goals and schedule  \n- A mix of strength, cardio, mobility, and functional sessions  \n- Delivered day-by-day inside the app  \n- Adjustable for intensity, preference, and equipment availability  \n- Supported with demo videos and cues \ue200cite\ue202turn0search2\ue201\n\n---\n\nIf you want, tell me **your specific goal** (muscle gain, fat loss, beginner vs advanced, equipment you have) and I can mock up a **custom weekly workout plan based on that**."
+          ]
+        },
+        "create_time": 1772166759.706814,
+        "id": "799d41f0-6d87-4542-ac3f-98d7840814a1",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "Mad Muscles",
+              "prompt_text": "Mad Muscles",
+              "type": "alt_text"
+            },
+            {
+              "alt": "([support.madmuscles.com](https://support.madmuscles.com/hc/en-gb/articles/10720504243986-What-does-the-plan-include?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "support.madmuscles.com",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 2,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Oct 24, 2024 \u2014 We combine static and dynamic exercises to get the best result. We guarantee that you'll see the first body changes after 8 workouts.",
+                  "supporting_websites": [],
+                  "title": "What does the plan include? \u2013 MadMuscles",
+                  "url": "https://support.madmuscles.com/hc/en-gb/articles/10720504243986-What-does-the-plan-include?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([support.madmuscles.com](https://support.madmuscles.com/hc/en-gb/articles/7110105691410-Getting-Started?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "support.madmuscles.com",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 24,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Oct 24, 2024 \u2014 The MadMuscles app is designed to make your journey towards your goal easy and effective. It's almost like your personal coach that guides you step-by-step.",
+                  "supporting_websites": [],
+                  "title": "Getting Started \u2013 MadMuscles",
+                  "url": "https://support.madmuscles.com/hc/en-gb/articles/7110105691410-Getting-Started?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([support.madmuscles.com](https://support.madmuscles.com/hc/en-gb/articles/10723281795858-How-do-I-change-the-workout-type?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "support.madmuscles.com",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 21,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Jun 30, 2025 \u2014 Choose a needed workout type - HIIT, Strength, Calisthenics, Chair Yoga, Basic Workout Program, Basic Workouts for Seniors, Indoor Walking, ...",
+                  "supporting_websites": [],
+                  "title": "How do I change the workout type?",
+                  "url": "https://support.madmuscles.com/hc/en-gb/articles/10723281795858-How-do-I-change-the-workout-type?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([support.madmuscles.com](https://support.madmuscles.com/hc/en-gb/articles/10721726518546-How-many-workouts-does-the-MadMuscles-app-have-a-week?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "support.madmuscles.com",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 3,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Mar 18, 2025 \u2014 You can adjust your weekly workout schedule in your program settings. In this article, you'll learn how to do it.",
+                  "supporting_websites": [],
+                  "title": "How many workouts does the MadMuscles app have a ...",
+                  "url": "https://support.madmuscles.com/hc/en-gb/articles/10721726518546-How-many-workouts-does-the-MadMuscles-app-have-a-week?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([support.madmuscles.com](https://support.madmuscles.com/hc/en-gb/categories/7148139914642-Workouts-Progress?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "support.madmuscles.com",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 18,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Find out more about MadMuscles training and tracking your progress. Workouts: HIIT Program, High-Intensity Interval Training (HIIT) is the way to go when it ...",
+                  "supporting_websites": [],
+                  "title": "Workouts & Progress - MadMuscles",
+                  "url": "https://support.madmuscles.com/hc/en-gb/categories/7148139914642-Workouts-Progress?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([App Store](https://apps.apple.com/us/app/madmuscles-workouts-diet/id1526814298?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "App Store",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 5,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "MadMuscles is a fitness app designed to help people gain muscle, lose weight, look hot and feel incredible. We make workouts accessible, effective and ...",
+                  "supporting_websites": [],
+                  "title": "MadMuscles: Workouts & Diet - App Store - Apple",
+                  "url": "https://apps.apple.com/us/app/madmuscles-workouts-diet/id1526814298?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([support.madmuscles.com](https://support.madmuscles.com/hc/en-gb/articles/10723281795858-How-do-I-change-the-workout-type?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "support.madmuscles.com",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 21,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Jun 30, 2025 \u2014 Choose a needed workout type - HIIT, Strength, Calisthenics, Chair Yoga, Basic Workout Program, Basic Workouts for Seniors, Indoor Walking, ...",
+                  "supporting_websites": [],
+                  "title": "How do I change the workout type?",
+                  "url": "https://support.madmuscles.com/hc/en-gb/articles/10723281795858-How-do-I-change-the-workout-type?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([support.madmuscles.com](https://support.madmuscles.com/hc/en-gb/articles/10720504243986-What-does-the-plan-include?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "support.madmuscles.com",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 2,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Oct 24, 2024 \u2014 We combine static and dynamic exercises to get the best result. We guarantee that you'll see the first body changes after 8 workouts.",
+                  "supporting_websites": [],
+                  "title": "What does the plan include? \u2013 MadMuscles",
+                  "url": "https://support.madmuscles.com/hc/en-gb/articles/10720504243986-What-does-the-plan-include?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "support.madmuscles.com",
+                  "title": "What does the plan include? \u2013 MadMuscles",
+                  "url": "https://support.madmuscles.com/hc/en-gb/articles/10720504243986-What-does-the-plan-include?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "App Store",
+                  "title": "MadMuscles: Workouts & Diet - App Store - Apple",
+                  "url": "https://apps.apple.com/us/app/madmuscles-workouts-diet/id1526814298?utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "model_slug": "gpt-5-2",
+          "parent_id": "3e13ad8f-66f8-4e28-b54e-dbce4f22610e",
+          "search_result_groups": [
+            {
+              "domain": "madmuscles.com",
+              "entries": [
+                {
+                  "attribution": "madmuscles.com",
+                  "snippet": "Our app features a range of workouts catering to different fitness levels, including those just starting out.",
+                  "title": "Workouts",
+                  "url": "https://support.madmuscles.com/hc/en-gb/sections/7148143707410-Workouts?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "madmuscles.com",
+                  "snippet": "We combine static and dynamic exercises to get the best result. You will see first body changes after 8 workouts. Meal plan based on your goal.",
+                  "title": "MadMuscles: Personalized workout program",
+                  "url": "https://madmuscles.com/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "madmuscles.com",
+                  "snippet": "To adjust your schedule, uncheck the days you don't want to work out and tap on the days you'd like to have workouts. Click Save and your workout schedule will ...",
+                  "title": "How do I change my workout schedule?",
+                  "url": "https://support.madmuscles.com/hc/en-gb/articles/7147680929682-How-do-I-change-my-workout-schedule?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "madmuscles.com",
+                  "snippet": "Sep 11, 2024 \u2014 The exercises included in the program focus on all the major muscle groups, ensuring a balanced and effective workout. Each session is crafted ...",
+                  "title": "Basic Workout Program",
+                  "url": "https://support.madmuscles.com/hc/en-gb/articles/21289462170514-Basic-Workout-Program?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "madmuscles.com",
+                  "snippet": "MadMuscles is a workout app. Get a workout schedule that is tailored to you. Get desired body without a trainer. Just take a 4-minute quiz.",
+                  "title": "MadMuscles Review",
+                  "url": "https://madmuscles.com/review?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "madmuscles.com",
+                  "snippet": "Sep 11, 2024 \u2014 Our Basic Workouts for Seniors program is designed to help you stay active, enhance your balance, and improve your overall health.",
+                  "title": "Basic Workouts for Seniors",
+                  "url": "https://support.madmuscles.com/hc/en-gb/articles/21289844910098-Basic-Workouts-for-Seniors?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "madmuscles.com",
+                  "snippet": "Jan 13, 2026 \u2014 You can easily switch your workout days in the My program tab. Press 3 horizontal lines in the upper right corner, then select Workout schedule ...",
+                  "title": "How can I change the number of workouts per week?",
+                  "url": "https://support.madmuscles.com/hc/en-gb/articles/7147749505682-How-can-I-change-the-number-of-workouts-per-week?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "youtube.com",
+              "entries": [
+                {
+                  "attribution": "youtube.com",
+                  "snippet": "Presenting MAD MUSCLE Monday Push (Hypertrophy) Shredded Fat Loss Program and created by Guru Mann.",
+                  "title": "MAD MUSCLE: Monday Push (Hypertrophy) Shredded ...",
+                  "url": "https://www.youtube.com/watch?v=2uCfcYA4P6Y&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "youtube.com",
+                  "snippet": "Mad Muscles is more than a fitness app it's a smart struing solution backed by experts and data security if you want to train smarter not harder.",
+                  "title": "Mad Muscles Review \u2013 App Overview Based on Real User ...",
+                  "url": "https://www.youtube.com/watch?v=mgTLp3cZxJ0&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "youtube.com",
+                  "snippet": "Mad Muscles builds a custom workout based on your goals body type and schedule whether you're working out at home in the gym it adapts to you.",
+                  "title": "Mad Muscles App Review - Smart Plans & Easy Subscription ...",
+                  "url": "https://www.youtube.com/watch?v=uddzxEZR3nA&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "youtube.com",
+                  "snippet": "Matt Muscles is the perfect solution for me everything I need is in one place a personalized plan trainer support meal tracking and progress monitoring.",
+                  "title": "mad muscle program review",
+                  "url": "https://www.youtube.com/watch?v=-lhy38bET3Q&utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "google.com",
+              "entries": [
+                {
+                  "attribution": "google.com",
+                  "snippet": "MadMuscles is a fitness app designed to help people gain muscle, lose weight, look better and feel incredible. We make workouts accessible, effective and ...Read more",
+                  "title": "MadMuscles: Workouts & Diet - Apps on Google Play",
+                  "url": "https://play.google.com/store/apps/details?hl=en&id=com.amomedia.madmuscles&listing=adaptive&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "google.com",
+                  "snippet": "MadMuscles is a fitness app designed to help people gain muscle, lose weight, look better and feel incredible. We make workouts accessible, effective and ...Read more",
+                  "title": "MadMuscles: Workouts & Diet - Apps on Google Play",
+                  "url": "https://play.google.com/store/apps/details?hl=en_US&id=com.amomedia.madmuscles&listing=adaptive&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "google.com",
+                  "snippet": "Our workouts are designed for people with different fitness levels, lifestyles and goals: gain muscle, lose weight or get shredded. MadMuscles helps to work on ...",
+                  "title": "MadMuscles: Workouts & Diet - Apps on Google Play",
+                  "url": "https://play.google.com/store/apps/details?hl=en_US&id=com.amomedia.madmuscles&utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "reddit.com",
+              "entries": [
+                {
+                  "attribution": "reddit.com",
+                  "snippet": "I found the app interface very user-friendly, with clear functions, but sometimes I had difficulties finding workouts for specific muscle groups.",
+                  "title": "Madmuscles review \u2013 my real experience after 30 days ...",
+                  "url": "https://www.reddit.com/r/workout/comments/1kqd9lz/madmuscles_review_my_real_experience_after_30/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "fightmatrix.com",
+              "entries": [
+                {
+                  "attribution": "fightmatrix.com",
+                  "snippet": "Mar 7, 2025 \u2014 MadMuscles is the best app experience for training in functional strength, endurance, and performance optimization.Read more",
+                  "title": "Mad Muscles Review 2025 \u2013 The Ultimate Fitness App for ...",
+                  "url": "https://www.fightmatrix.com/2025/03/07/mad-muscles-review-2025-the-ultimate-fitness-app-for-strength-conditioning/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "topendsports.com",
+              "entries": [
+                {
+                  "attribution": "topendsports.com",
+                  "snippet": "Personalized Training Programs. The Mad Muscles App Review highlights how its tailored fitness plans, focusing on strength, weight loss, and endurance, offer a ...",
+                  "title": "Mad Muscles Review 2025 - Apps - Topend Sports",
+                  "url": "https://www.topendsports.com/fitness/products/apps/mad-muscles.htm?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "scribd.com",
+              "entries": [
+                {
+                  "attribution": "scribd.com",
+                  "snippet": "The MadMuscles app provides users with a personal workout plan, meal plan, and progress tracker. It includes a workout library with exercises divided by goal ...",
+                  "title": "Mad Muscles | PDF | Meal | Nutrition",
+                  "url": "https://www.scribd.com/document/650009488/MadMuscles?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "scribd.com",
+                  "snippet": "The document outlines a personalized workout program from MadMuscles aimed at helping an individual reach their goal weight of 200 lbs by June 24, 2025.Read more",
+                  "title": "Personalized Workout Program - MadMuscles | PDF",
+                  "url": "https://www.scribd.com/document/878699018/Personalized-Workout-Program-MadMuscles?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "phothi-ratana.co.th",
+              "entries": [
+                {
+                  "attribution": "phothi-ratana.co.th",
+                  "snippet": "Aug 6, 2025 \u2014 MadMuscles helps you stay accountable with daily check-ins, reminders, motivational insights, and progress tracking. This is huge &mdash; ...",
+                  "title": "Can a Fitness App Really Help You Build Better Habits?",
+                  "url": "https://www.phothi-ratana.co.th/forum/topic/624890/madmuscles%3A-can-a-fitness-app-really-help-you-build-better-habits?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "resident.com",
+              "entries": [
+                {
+                  "attribution": "resident.com",
+                  "snippet": "Mar 18, 2025 \u2014 Using automatic workout plan correction that works as a virtual personal trainer, this app provides professional training to everyone. Mad ...",
+                  "title": "Mad Muscles Review \u2013 Best Fitness App 2025 with Real ...",
+                  "url": "https://resident.com/resource-guide/2025/03/18/mad-muscles-review-transparent-pricing-real-fitness-results-in-2025?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "instagram.com",
+              "entries": [
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "Build your perfect body Get your personalised workout plan: \u00b7 Showing up is the real win. \u00b7 If your muscles are working and your focus is there, that's a ...",
+                  "title": "MadMuscles | Workout program (@madmuscles_app)",
+                  "url": "https://www.instagram.com/madmuscles_app/?hl=en&utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "yahoo.com",
+              "entries": [
+                {
+                  "attribution": "yahoo.com",
+                  "snippet": "Jun 18, 2025 \u2014 The app is compatible with multiple trendy devices to optimize your exercise routine in real time. It counts steps, calories, and activity duration.",
+                  "title": "MadMuscles Review on Fitness Trends 2025",
+                  "url": "https://finance.yahoo.com/news/madmuscles-review-fitness-trends-2025-120000890.html?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "theyeshivaworld.com",
+              "entries": [
+                {
+                  "attribution": "theyeshivaworld.com",
+                  "snippet": "MadMuscles is a versatile fitness app. It offers unique training plans and expert advice and meets a variety of fitness needs for everyone.Read more",
+                  "title": "Mad Muscles Review: Subscription Insights and Benefits",
+                  "url": "https://www.theyeshivaworld.com/news/general/2371649/mad-muscles-review-subscription-insights-and-benefits.html?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "tmcnet.com",
+              "entries": [
+                {
+                  "attribution": "tmcnet.com",
+                  "snippet": "Sep 30, 2025 \u2014 The biggest advantage of MadMuscles is that it's more focused on calisthenics. No equipment or special gear is needed. All training programs ...Read more",
+                  "title": "Mad Muscles vs Centr: Which Fitness App Is Best for ...",
+                  "url": "https://www.tmcnet.com/topics/articles/2025/09/30/462787-mad-muscles-vs-centr-which-fitness-app-best.htm?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "bbb2127d-9755-4f29-93a8-41d68b8686b2"
+    },
+    "90626f14-c2a6-40cf-9ada-7bd1cc11859a": {
+      "id": "90626f14-c2a6-40cf-9ada-7bd1cc11859a",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "**\ue200entity\ue202[\"company\",\"Mad Muscles\",\"fitness app\"]\ue201** teaches **structured strength training and body-recomposition fundamentals**, primarily through app-based programs.\n\n\ue200image_group\ue202{\"query\":[\"strength training workout\",\"home bodyweight workout\",\"muscle building workout\",\"HIIT bodyweight exercises\"]}\ue201\n\n### What Mad Muscles focuses on\n- **Strength & muscle building**\n  Progressive workouts using bodyweight, dumbbells, or gym equipment.\n- **Fat loss & toning**\n  Training plans designed to burn fat while preserving or building lean muscle.\n- **Beginner-friendly fitness education**\n  How to perform exercises safely, with form cues and progression guidance.\n- **Short, consistent workouts**\n  Many programs are designed to fit into busy schedules (20\u201345 minutes).\n- **Home or gym flexibility**\n  You can follow plans at home or in a gym setting.\n- **Basic nutrition guidance**\n  High-level advice around calories, protein, and healthy habits (not clinical nutrition).\n\n### What it does *not* deeply teach\n- Advanced athletic performance programming\n- Medical or therapeutic fitness\n- Highly personalized coaching beyond app inputs\n- Deep nutrition science or meal planning at a professional level\n\n### Best fit for\n- Beginners or intermediates who want **clear structure**\n- People restarting fitness or building consistency\n- Users who prefer **guided plans over DIY workouts**\n\nIf you want, tell me **why you\u2019re asking** (personal fitness, comparing apps, or evaluating it for clients). I can break down whether Mad Muscles actually fits your goal or suggest a better alternative."
+          ]
+        },
+        "create_time": 1772166686.386735,
+        "id": "90626f14-c2a6-40cf-9ada-7bd1cc11859a",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "Mad Muscles",
+              "entity_data": null,
+              "extra_params": {
+                "disambiguation": "fitness app"
+              },
+              "metadata": null,
+              "name": "Mad Muscles",
+              "notes": null,
+              "prompt_text": "Mad Muscles",
+              "type": "entity"
+            },
+            {
+              "alt": "![Image](https://darebee.com/images/workouts/super-strength-workout.jpg)\n\n![Image](https://hips.hearstapps.com/hmg-prod/images/shirtless-man-exercing-push-ups-on-sport-field-royalty-free-image-1715251662.jpg)\n\n![Image](https://www.puregym.com/media/nvrfnxfy/training-splits-1.jpg?quality=80)\n\n![Image](https://public-files.gumroad.com/0vhvdlz96ziireh5ofs9m8cz81f9)",
+              "images": [
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 1316,
+                      "width": 930
+                    },
+                    "content_url": "https://darebee.com/images/workouts/super-strength-workout.jpg",
+                    "preview_url": null,
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.49066666666666664,
+                      "center_y_percent": 0.13883677298311445
+                    },
+                    "thumbnail_size": {
+                      "height": 533,
+                      "width": 375
+                    },
+                    "thumbnail_url": "https://images.openai.com/thumbnails/url/CO5ZYHicu5meUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw7O9DH1yk13s6x0j9eNsogM1s1PM7FwLkvPyInMSsk0KfBw8g8yKrfIL_ZOVyu2NTQAAP_jJLw",
+                    "title": "Super Strength Workout",
+                    "url": "https://darebee.com/workouts/super-strength-workout.html?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "strength training workout",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 1365,
+                      "width": 2197
+                    },
+                    "content_url": "https://hips.hearstapps.com/hmg-prod/images/shirtless-man-exercing-push-ups-on-sport-field-royalty-free-image-1715251662.jpg",
+                    "preview_url": null,
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.28421052631578947,
+                      "center_y_percent": 0.1977401129943503
+                    },
+                    "thumbnail_size": {
+                      "height": 177,
+                      "width": 285
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-1/fTJcCUd9nuC5QgQJBK0L5950WPChdy5GFHkAYM1tyYe1WH2oWm5EXRhmdvul9mN7GL-zVHcT5y8ict1NfE20KJu_g2vFR1nU3BHXI0C-BlvchRHMSLdGH1_4tmRSCnCqYuKHMvyE4a6i7eE5AEjcmg",
+                    "title": "32 Bodyweight Exercises to Pack on Muscle at Home",
+                    "url": "https://www.menshealth.com/uk/building-muscle/a756325/10-best-bodyweight-exercises-for-men/?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "home bodyweight workout",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 1500,
+                      "width": 1000
+                    },
+                    "content_url": "https://www.puregym.com/media/nvrfnxfy/training-splits-1.jpg?quality=80",
+                    "preview_url": null,
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.3825136612021858,
+                      "center_y_percent": 0.09090909090909091
+                    },
+                    "thumbnail_size": {
+                      "height": 275,
+                      "width": 183
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-1/i7O5omee8bUViHp3C5GMWPc8LoX15G44wEFIaTLIIq-N90ILIWaeYEiq5r4v8IX9RVjBXHctjJU46nJUtXg0LofBP3L0Q6taF2uN-iWdKUYZM8de9VxDIeOgU_t1FXiY--Vz1ZxqXDM7Lvb3pTiBPQ",
+                    "title": "The Best Gym Workout Plan For Gaining Muscle | PureGym",
+                    "url": "https://www.puregym.com/blog/the-best-gym-workout-plan-for-gaining-muscle/?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "muscle building workout",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 1422,
+                      "width": 1005
+                    },
+                    "content_url": "https://public-files.gumroad.com/0vhvdlz96ziireh5ofs9m8cz81f9",
+                    "preview_url": null,
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.4656084656084656,
+                      "center_y_percent": 0.10112359550561797
+                    },
+                    "thumbnail_size": {
+                      "height": 267,
+                      "width": 189
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-1/S3sYeHlw2iZaCbHSa5WQtruEeM9HMf0FIky_8MFTsxQTj7eLgwp_8FIRTP-gcexaiebdvI61F_cxtwE1aj3vW8MRq762sHSjX1FjXxF2u3j8ZsLd3kqxrv-kBxqnN_JW8OVMWWNtVb9XAFG0V46d9w",
+                    "title": "10 WEEK MUSCLE BUILDING WORKOUT PROGRAM",
+                    "url": "https://zerogravitysquad.gumroad.com/l/muscle?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "muscle building workout",
+                  "image_search_system": null
+                }
+              ],
+              "prompt_text": "![Image](https://darebee.com/images/workouts/super-strength-workout.jpg)\n\n![Image](https://hips.hearstapps.com/hmg-prod/images/shirtless-man-exercing-push-ups-on-sport-field-royalty-free-image-1715251662.jpg)\n\n![Image](https://www.puregym.com/media/nvrfnxfy/training-splits-1.jpg?quality=80)\n\n![Image](https://public-files.gumroad.com/0vhvdlz96ziireh5ofs9m8cz81f9)",
+              "type": "image_group"
+            }
+          ],
+          "model_slug": "gpt-5-2",
+          "parent_id": "59d65f3b-512b-4aec-af3a-849474b05893"
+        }
+      },
+      "parent": "bbb21646-0962-413e-8143-a001210e2970"
+    },
+    "bbb2127d-9755-4f29-93a8-41d68b8686b2": {
+      "id": "bbb2127d-9755-4f29-93a8-41d68b8686b2",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Give me their workout plan "
+          ]
+        },
+        "create_time": 1772166758.789638,
+        "id": "bbb2127d-9755-4f29-93a8-41d68b8686b2",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "90626f14-c2a6-40cf-9ada-7bd1cc11859a"
+    },
+    "bbb21646-0962-413e-8143-a001210e2970": {
+      "id": "bbb21646-0962-413e-8143-a001210e2970",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "What does mad muscle teach"
+          ]
+        },
+        "create_time": 1772166686.176594,
+        "id": "bbb21646-0962-413e-8143-a001210e2970",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "bc905f2e-d02e-49aa-81e0-921591a4f511"
+    },
+    "bc905f2e-d02e-49aa-81e0-921591a4f511": {
+      "id": "bc905f2e-d02e-49aa-81e0-921591a4f511",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Mad Muscle Teaching",
+  "update_time": 1772166763.854176,
+  "voice": null
+}

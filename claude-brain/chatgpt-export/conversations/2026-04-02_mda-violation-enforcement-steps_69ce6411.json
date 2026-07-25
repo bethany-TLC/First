@@ -1,0 +1,132 @@
+{
+  "conversation_id": "69ce6411-0ba4-8330-9948-3ad8ddd22d65",
+  "conversation_template_id": null,
+  "create_time": 1775133724.502107,
+  "current_node": "17615b0d-9908-4220-a2eb-37a83f9423b9",
+  "default_model_slug": "gpt-5-3",
+  "id": "69ce6411-0ba4-8330-9948-3ad8ddd22d65",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "17615b0d-9908-4220-a2eb-37a83f9423b9": {
+      "id": "17615b0d-9908-4220-a2eb-37a83f9423b9",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "If your ex violated your **Marital Dissolution Agreement (MDA)**, you actually have a very clear legal path to enforce it. Here\u2019s how to think about it step by step:\n\n---\n\n## 1. Confirm the Violation\nMake sure what happened is **specifically covered in the MDA or final divorce order** (because the court only enforces what\u2019s written).\n\nExamples:\n- Not paying money owed  \n- Not transferring assets  \n- Violating custody/visitation terms  \n- Ignoring agreed responsibilities  \n\n\ud83d\udc49 If it\u2019s in the agreement and they didn\u2019t follow it, that\u2019s enforceable.\n\n---\n\n## 2. Document Everything\nBefore doing anything, gather proof:\n- Texts, emails, bank records  \n- Copies of the MDA and final decree  \n- Timeline of what happened and when  \n\nThe more organized you are, the stronger your case.\n\n---\n\n## 3. File a \u201cPetition for Contempt\u201d\nIn Tennessee, you enforce an MDA by filing a **contempt action** in the same court that handled your divorce.\n\nThis is usually called:\n- **Petition for Civil Contempt** (most common)\n\nYou\u2019re basically telling the judge:\n> \u201cThey had a court order and willfully chose not to follow it.\u201d\n\n---\n\n## 4. What the Court Can Do\nIf the judge finds them in contempt, they can:\n- Order them to **pay what they owe**\n- Make them **comply immediately**\n- Award you **attorney\u2019s fees**\n- In serious cases, even **jail time**\n\n---\n\n## 5. If There Was Abuse (Important)\nWhat you mentioned about strangulation is **very serious**. That can fall under:\n- \ue200entity\ue202[\"legal_concept\",\"Domestic Violence\",\"criminal and civil law\"]\ue201  \n- Potential criminal charges and/or protective orders  \n\nIf that incident wasn\u2019t already handled legally, you may also have options like:\n- Filing or enforcing an **Order of Protection**\n- Bringing it up in court as part of your contempt case (especially if it impacts safety or compliance)\n\n---\n\n## 6. Getting a Lawyer (Even Pro Bono)\nSince you asked earlier about pro bono help in Nashville, you can reach out to:\n\n- \ue200entity\ue202[\"organization\",\"Legal Aid Society of Middle Tennessee and the Cumberlands\",\"nonprofit legal aid organization\"]\ue201  \n- \ue200entity\ue202[\"organization\",\"Tennessee Alliance for Legal Services\",\"statewide legal assistance network\"]\ue201  \n- \ue200entity\ue202[\"organization\",\"Nashville Bar Association\",\"professional legal organization\"]\ue201 (they have referral programs)\n\nTell them clearly:\n- You need help filing **contempt of MDA**\n- There was **domestic violence involved**\n\nThat combination often prioritizes your case.\n\n---\n\n## 7. If You Need to Act Fast\nIf there\u2019s urgency (safety or financial harm):\n- You can file **pro se** (on your own) at the courthouse clerk  \n- Ask for forms for \u201ccontempt\u201d or \u201cenforcement of divorce decree\u201d  \n\n---\n\n## Real Talk\nYou\u2019re not being dramatic or difficult for enforcing this.  \nAn MDA is a **court order**, not a suggestion.\n\nIf he violated it, the court takes that seriously, especially with:\n- Financial harm  \n- Safety concerns  \n- Pattern of noncompliance  \n\n---\n\nIf you want, tell me exactly what he did (money, custody, assets, etc.), and I can help you map out **exactly what to file and how to word it** so you walk in prepared."
+          ]
+        },
+        "create_time": 1775133724.402929,
+        "id": "17615b0d-9908-4220-a2eb-37a83f9423b9",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "Domestic Violence",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "criminal and civil law"
+              },
+              "id": null,
+              "metadata": null,
+              "name": "Domestic Violence",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Domestic Violence",
+              "type": "entity"
+            },
+            {
+              "alt": "Legal Aid Society of Middle Tennessee and the Cumberlands",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "nonprofit legal aid organization"
+              },
+              "id": null,
+              "metadata": null,
+              "name": "Legal Aid Society of Middle Tennessee and the Cumberlands",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Legal Aid Society of Middle Tennessee and the Cumberlands",
+              "type": "entity"
+            },
+            {
+              "alt": "Tennessee Alliance for Legal Services",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "statewide legal assistance network"
+              },
+              "id": null,
+              "metadata": null,
+              "name": "Tennessee Alliance for Legal Services",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Tennessee Alliance for Legal Services",
+              "type": "entity"
+            },
+            {
+              "alt": "Nashville Bar Association",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "professional legal organization"
+              },
+              "id": null,
+              "metadata": null,
+              "name": "Nashville Bar Association",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Nashville Bar Association",
+              "type": "entity"
+            }
+          ],
+          "model_slug": "gpt-5-3",
+          "parent_id": "831fa701-ce47-442e-a5c5-a34b43271c6c"
+        }
+      },
+      "parent": "bbb212f4-8188-45d5-896c-76f22177f746"
+    },
+    "bbb212f4-8188-45d5-896c-76f22177f746": {
+      "id": "bbb212f4-8188-45d5-896c-76f22177f746",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "If my ex violated the MDA what do I fo"
+          ]
+        },
+        "create_time": 1775133724.227022,
+        "id": "bbb212f4-8188-45d5-896c-76f22177f746",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "fd7ed40f-6272-4554-8abe-a177086e7b20"
+    },
+    "fd7ed40f-6272-4554-8abe-a177086e7b20": {
+      "id": "fd7ed40f-6272-4554-8abe-a177086e7b20",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "MDA Violation Enforcement Steps",
+  "update_time": 1775133749.719447,
+  "voice": null
+}

@@ -1,0 +1,166 @@
+{
+  "conversation_id": "6a120dac-4b18-83ea-b896-56c86b025c78",
+  "conversation_template_id": null,
+  "create_time": 1779568093.191797,
+  "current_node": "bbb21d4f-916b-4d9c-b6b6-3e0632f88fe3",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a120dac-4b18-83ea-b896-56c86b025c78",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "11047d0d-5391-42e3-bf66-4209c3a18dd6": {
+      "id": "11047d0d-5391-42e3-bf66-4209c3a18dd6",
+      "message": null,
+      "parent": null
+    },
+    "6f4d981c-6abb-44b1-a797-31389d65bfbe": {
+      "id": "6f4d981c-6abb-44b1-a797-31389d65bfbe",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "I wasn't able to generate the image due to an error on my side."
+          ]
+        },
+        "create_time": 1779568093.08794,
+        "id": "6f4d981c-6abb-44b1-a797-31389d65bfbe",
+        "metadata": {
+          "parent_id": "dc74b2ba-2406-4c72-8b4b-7b8eafa49c23"
+        }
+      },
+      "parent": "bbb21000-95ed-4d18-9f0c-09fea7b66c55"
+    },
+    "bbb21000-95ed-4d18-9f0c-09fea7b66c55": {
+      "id": "bbb21000-95ed-4d18-9f0c-09fea7b66c55",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_000000006fcc71f787037c15d741d201",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 4080,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 352730,
+              "width": 3072
+            },
+            "Maky my legs crossed instead of open and unwrinkle his shirt and make him looking at camera. Keep our exact faces."
+          ]
+        },
+        "create_time": 1779568092.234324,
+        "id": "bbb21000-95ed-4d18-9f0c-09fea7b66c55",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_000000006fcc71f787037c15d741d201",
+              "mime_type": "image/jpeg",
+              "name": "1000018560.jpg",
+              "size": 352730
+            }
+          ],
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "11047d0d-5391-42e3-bf66-4209c3a18dd6"
+    },
+    "bbb217c1-c39d-4e77-8ada-8acb5ae10808": {
+      "id": "bbb217c1-c39d-4e77-8ada-8acb5ae10808",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Try again "
+          ]
+        },
+        "create_time": 1779568100.635482,
+        "id": "bbb217c1-c39d-4e77-8ada-8acb5ae10808",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "6f4d981c-6abb-44b1-a797-31389d65bfbe"
+    },
+    "bbb21d4f-916b-4d9c-b6b6-3e0632f88fe3": {
+      "id": "bbb21d4f-916b-4d9c-b6b6-3e0632f88fe3",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Take my left hand out and put my left arm behindy back. Make him be looking at the camera"
+          ]
+        },
+        "create_time": 1779568333.940524,
+        "id": "bbb21d4f-916b-4d9c-b6b6-3e0632f88fe3",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "bbb21f20-05e5-447e-9632-6577930d89fc"
+    },
+    "bbb21f20-05e5-447e-9632-6577930d89fc": {
+      "id": "bbb21f20-05e5-447e-9632-6577930d89fc",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "I'm the girl, cross my legs not his"
+          ]
+        },
+        "create_time": 1779568208.090071,
+        "id": "bbb21f20-05e5-447e-9632-6577930d89fc",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "bbb217c1-c39d-4e77-8ada-8acb5ae10808"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Image Generation Error",
+  "update_time": 1779568394.836506,
+  "voice": null
+}

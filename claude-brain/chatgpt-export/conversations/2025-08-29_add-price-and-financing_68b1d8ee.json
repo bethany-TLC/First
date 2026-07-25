@@ -1,0 +1,72 @@
+{
+  "conversation_id": "68b1d8ee-d638-832c-b3be-ac412b130334",
+  "conversation_template_id": null,
+  "create_time": 1756485885.594183,
+  "current_node": "46e7b4b6-2851-44ee-9805-a7554ffcf2c8",
+  "default_model_slug": "auto",
+  "id": "68b1d8ee-d638-832c-b3be-ac412b130334",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "3c407b6a-f0b3-487a-bcc6-021fb6dbbb01": {
+      "id": "3c407b6a-f0b3-487a-bcc6-021fb6dbbb01",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Add in your exact price point and financing option (e.g., $1,500/session or 3-pack for $4,000 with 0% interest monthly payment plans) into this paragraph:  \n\r\nStill seeing sagging skin, fine lines, and sun damage even after spending thousands on creams, facials, and treatments? Here\u2019s the truth: most of what\u2019s out there barely scratches the surface. Old-school CO\u2082 lasers are too harsh, with painful recovery and weeks of downtime. Surgery? Invasive, risky, and not what you really want.\r\nThat\u2019s why at A Prestige Aesthetics we brought in AgeJET, the breakthrough plasma resurfacing treatment. Unlike traditional lasers, AgeJET doesn\u2019t cut or burn the skin. Instead, it uses advanced plasma energy to stimulate deep collagen production, tighten skin, and restore youthful texture\u2014all with less risk, less downtime, and more comfort. No scalpel. No weeks of hiding. Just real, visible transformation.\r\nImagine looking in the mirror and seeing tighter, lifted skin. Fine lines softened. Sun damage and uneven tone fading away. Your natural glow, restored. AgeJET works on the areas women care about most: the eyes, mouth, neck, and jawline. It\u2019s non-surgical. It\u2019s safe for most skin types. And it delivers results you\u2019ll actually see in weeks not years.\r\nMost women put themselves last\u2026 until it\u2019s too late. Book today and finally put YOU first before another season slips away.\r\nDon\u2019t wait another year staring at the same wrinkles. Click below to book your consultation today and claim your spot before they\u2019re gone. Limited consultations are available now.\r\n\nPlease write in English language."
+          ]
+        },
+        "create_time": 1756485884.873,
+        "id": "3c407b6a-f0b3-487a-bcc6-021fb6dbbb01",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "46e7b4b6-2851-44ee-9805-a7554ffcf2c8": {
+      "id": "46e7b4b6-2851-44ee-9805-a7554ffcf2c8",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s your paragraph with the price point and financing option added in naturally and persuasively:  \n\n---\n\nStill seeing sagging skin, fine lines, and sun damage even after spending thousands on creams, facials, and treatments? Here\u2019s the truth: most of what\u2019s out there barely scratches the surface. Old-school CO\u2082 lasers are too harsh, with painful recovery and weeks of downtime. Surgery? Invasive, risky, and not what you really want.  \n\nThat\u2019s why at A Prestige Aesthetics we brought in AgeJET, the breakthrough plasma resurfacing treatment. Unlike traditional lasers, AgeJET doesn\u2019t cut or burn the skin. Instead, it uses advanced plasma energy to stimulate deep collagen production, tighten skin, and restore youthful texture\u2014all with less risk, less downtime, and more comfort. No scalpel. No weeks of hiding. Just real, visible transformation.  \n\nImagine looking in the mirror and seeing tighter, lifted skin. Fine lines softened. Sun damage and uneven tone fading away. Your natural glow, restored. AgeJET works on the areas women care about most: the eyes, mouth, neck, and jawline. It\u2019s non-surgical. It\u2019s safe for most skin types. And it delivers results you\u2019ll actually see in weeks not years.  \n\nTreatments start at just **$1,500 per session**, or choose our most popular **3-treatment package for $4,000 with 0% interest monthly payment plans** available\u2014so you can invest in your skin without the financial stress.  \n\nMost women put themselves last\u2026 until it\u2019s too late. Book today and finally put YOU first before another season slips away.  \n\nDon\u2019t wait another year staring at the same wrinkles. Click below to book your consultation today and claim your spot before they\u2019re gone. Limited consultations are available now.  \n\n---  \n\nWould you like me to make a **shorter ad version** too (like for Facebook/Instagram), with the price point and financing highlighted right up front?"
+          ]
+        },
+        "create_time": 1756485885.457217,
+        "id": "46e7b4b6-2851-44ee-9805-a7554ffcf2c8",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "50e2cd9f-ce90-4bc3-99ba-5b21034f502c"
+        }
+      },
+      "parent": "3c407b6a-f0b3-487a-bcc6-021fb6dbbb01"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Add price and financing",
+  "update_time": 1756485907.145683,
+  "voice": null
+}

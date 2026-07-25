@@ -1,0 +1,72 @@
+{
+  "conversation_id": "6a3165e0-df7c-83e8-9447-434da584c2a0",
+  "conversation_template_id": null,
+  "create_time": 1781622260.920792,
+  "current_node": "ac743ee5-4974-4e79-9c7b-60fd4bc0d1f9",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a3165e0-df7c-83e8-9447-434da584c2a0",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "ac743ee5-4974-4e79-9c7b-60fd4bc0d1f9": {
+      "id": "ac743ee5-4974-4e79-9c7b-60fd4bc0d1f9",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here's a warm introduction email you can send:\n\n:::writing{variant=\"email\" id=\"58341\" subject=\"Introduction: Casey & DJ\"}\nDJ,\n\nI wanted to make an introduction to Casey. I think there may be an opportunity for the two of you to help each other.\n\nCasey owns and operates a growing aesthetic practice and is currently looking for both an experienced injector and a strong front desk/patient concierge team member to support her growth. Knowing the work Scrub Ops does and the network you've built within the industry, I immediately thought of you.\n\nCasey, DJ is the founder of Scrub Ops and has become a fantastic resource for practices looking to find quality talent and operational support within the aesthetics space. He understands the unique challenges of hiring in our industry and may be a great person to connect with as you continue building your team.\n\nI'll let you two take it from here, but I had a feeling this could be a valuable conversation for both sides.\n\nLooking forward to seeing what comes of it.\n\nBest,\n\nBethany Gifford  \nCo-Founder & CEO | The Luxora Collective  \nGrowth Partners for Med Spa Owners Ready to Scale  \nbethany@theluxoracollective.co\n:::\n\nIf Casey is the owner of a specific practice, I can make it more personal by mentioning her practice name, location, and what type of injector/front desk role she's trying to fill."
+          ]
+        },
+        "create_time": 1781622260.824754,
+        "id": "ac743ee5-4974-4e79-9c7b-60fd4bc0d1f9",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "9cdae138-5694-491a-a85f-75ec193214ad"
+        }
+      },
+      "parent": "cdbc8955-7195-42bb-834f-d1ca60105e04"
+    },
+    "cdbc8955-7195-42bb-834f-d1ca60105e04": {
+      "id": "cdbc8955-7195-42bb-834f-d1ca60105e04",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "write Dj and connect him with Casey, she needs a new injector and a new front desk. "
+          ]
+        },
+        "create_time": 1781622260.678,
+        "id": "cdbc8955-7195-42bb-834f-d1ca60105e04",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Intro Email for Casey",
+  "update_time": 1781622304.458717,
+  "voice": null
+}

@@ -1,0 +1,264 @@
+{
+  "conversation_id": "6a0f1ad5-e818-83ea-83d8-1888f87efdab",
+  "conversation_template_id": null,
+  "create_time": 1779374813.317955,
+  "current_node": "74237f84-f403-48e3-b292-2f9bd393d2d9",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a0f1ad5-e818-83ea-83d8-1888f87efdab",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "0451ea02-1fdf-4357-8cb5-968407eb1b81": {
+      "id": "0451ea02-1fdf-4357-8cb5-968407eb1b81",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "just list jacques not bethanys"
+          ]
+        },
+        "create_time": 1779374836.709,
+        "id": "0451ea02-1fdf-4357-8cb5-968407eb1b81",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "b932fbd3-3d0a-4c1b-9fad-52de6decb3e1"
+    },
+    "0df8da76-e5ed-4c31-a31e-f60fac5076d2": {
+      "id": "0df8da76-e5ed-4c31-a31e-f60fac5076d2",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "write Derrick an email follow up with a recap and give him Jeannies info and also add in what im providing him as afar as the profit ebetweek apointments and our onepaer of what we can hep with"
+          ]
+        },
+        "create_time": 1779385927.5,
+        "id": "0df8da76-e5ed-4c31-a31e-f60fac5076d2",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_00000000c38c722f8b48b57c101cc5b0",
+              "is_big_paste": true,
+              "library_file_id": "libfile_12ebbe2c5df481919c38a651bb600e4d",
+              "mime_type": "text/plain",
+              "name": "Pasted text(39).txt",
+              "size": 30477,
+              "source": "local"
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "fbfb29bb-951d-47c5-bdb0-da3ce9827a45"
+    },
+    "74237f84-f403-48e3-b292-2f9bd393d2d9": {
+      "id": "74237f84-f403-48e3-b292-2f9bd393d2d9",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a polished follow-up email you can send Derrick:\n\n:::writing{variant=\"email\" id=\"58421\" subject=\"Great Speaking With You Today + Resources & Next Steps\"}\nHi Derrick,\n\nIt was great speaking with you today and learning more about you, your wife, and everything you are building with Forever Young in Charlotte. I really enjoyed hearing your background and vision for blending wellness and aesthetics together in a more meaningful way.\n\nI can absolutely relate to the challenge of trying to work both in the business and on the business at the same time. Especially in a newer practice, it can feel like there are never enough hours in the day while also trying to build deeper community awareness and stronger systems internally.\n\nA few things really stood out to me from our conversation:\n\u2022 Your wellness side is already showing strong traction, especially peptides and HRT\n\u2022 You clearly understand the long-term value of client relationships and retention\n\u2022 There is a huge opportunity to continue expanding your local community presence and partnerships\n\u2022 Your practice has the flexibility to create stronger memberships, packages, and transformation-style offers that can dramatically increase client lifetime value\n\nAs promised, I\u2019m attaching:\n\u2022 Our \u201cProfit Between Appointments\u201d resource\n\u2022 A one-pager overview of how The Luxora Collective helps med spas and wellness practices grow from the inside out\n\nI also wanted to connect you with Jeannie, who I mentioned on the call. She specializes heavily in local partnerships, collaborations, community outreach, and helping practices establish stronger local visibility and referral ecosystems.\n\nJeannie:\n[Insert Jeannie\u2019s Name]\n[Insert Phone Number]\n[Insert Email]\n\nI genuinely think she could be an incredible resource for helping you build more local momentum while you continue scaling.\n\nI\u2019d also still love to walk you through a complimentary Revenue Leak Audit sometime soon. That process helps us identify where practices are unintentionally losing revenue across memberships, retention, consultations, follow-up, packages, conversions, and internal systems. Based on our conversation today, I already see several opportunities that could likely move the needle fairly quickly for you.\n\nThank you again for taking the time to connect today. You and your wife have built something with a lot of potential, and I\u2019m excited to stay connected however I can help.\n\nHope you get some much-needed sleep tonight as well \ud83d\ude0a\n\nBest,\nBethany Anne\nCo-Founder & CEO | The Luxora Collective\nGrowth Partners for Med Spa Owners Ready to Scale\n\n\ud83d\udce7 bethany@theluxoracollective.co\n\ud83c\udf10 www.theluxoracollective.co\n:::"
+          ]
+        },
+        "create_time": 1779385928.44502,
+        "id": "74237f84-f403-48e3-b292-2f9bd393d2d9",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "19a0d9d9-79aa-49dd-b5d2-e327d3958333"
+        }
+      },
+      "parent": "0df8da76-e5ed-4c31-a31e-f60fac5076d2"
+    },
+    "9b9da614-3bf6-47b9-aced-9f2e689b9064": {
+      "id": "9b9da614-3bf6-47b9-aced-9f2e689b9064",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "now make a quick recap for alex and ashley on what we talked about and our action items "
+          ]
+        },
+        "create_time": 1779374964.428,
+        "id": "9b9da614-3bf6-47b9-aced-9f2e689b9064",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "e80f1539-239c-4348-8a9f-b0e7a5b13d64"
+    },
+    "b932fbd3-3d0a-4c1b-9fad-52de6decb3e1": {
+      "id": "b932fbd3-3d0a-4c1b-9fad-52de6decb3e1",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "## Summary for Jacques Call With Alex\n\nJacques needs to focus on simplifying operations, launching quick-win campaigns, and helping Alex structure offers and memberships that actually increase client lifetime value. \ue200filecite\ue202turn0file0\ue202L1-L1\ue201\n\n### Immediate Priorities for Jacques\n\n#### 1. Finish the Reactivation Campaign\nJacques needs to:\n- Build the reactivation campaign inside the CRM\n- Prepare text/email outreach for existing clients\n- Focus on:\n  - GLP-1 + wellness\n  - Emsculpt Neo\n  - Summer body packages\n  - Peptide add-ons\n- Wait for Alex/team to export client lists from Athena/other CRMs\n- Once lists are uploaded, campaign should be ready to launch immediately\n\nGoal:\nBring existing patients back into aesthetics quickly using bundled offers instead of single-device promotions.\n\n---\n\n#### 2. Help Structure the Summer Offer\nMain campaign direction:\n- NOT single machine ads\n- Position it as a complete transformation/treatment plan\n\nOffer ideas discussed:\n- GLP-1 + peptides\n- Emsculpt Neo\n- Body contouring\n- Optional add-on discounts for Accutite/FaceTite/lipo procedures\n- \u201cSummer Body\u201d or \u201cTransformation\u201d package angle\n\nBethany emphasized:\n- Solve the client\u2019s emotional goal\n- Sell outcomes, not devices\n\n---\n\n#### 3. Build Membership Strategy\nJacques needs to help organize:\n- Tiered memberships\n- Upsells\n- Retention systems\n- Package combinations\n\nDirection discussed:\n- Multiple membership tiers\n- Flexible options clients can choose from monthly\n- Combine:\n  - facials\n  - injectables\n  - lasers\n  - peptides\n  - wellness treatments\n\nKey focus:\nIncrease recurring revenue and client retention.\n\n---\n\n#### 4. Organize Services by Location\nAlex is uploading:\n- Price lists\n- Memberships\n- Services by office/location\n- Which providers perform which procedures\n\nJacques needs to:\n- Separate offerings by location\n- Understand machine/provider limitations\n- Help tailor packages by office\n\n---\n\n#### 5. CRM + Automation Responsibilities\nJacques is responsible for:\n- CRM workflows\n- Reactivation automations\n- Text/email campaigns\n- AI outreach if needed\n- Tracking campaign performance\n\nHe also needs to coordinate better inside the main Slack channel instead of DMs so visibility/accountability stays centralized.\n\n---\n\n## Key Strategic Direction Bethany Wants Jacques Following\n\n### Focus Areas\n- Lifetime value\n- Memberships\n- Packages\n- Retention\n- Reactivation\n- Outcome-based marketing\n- Emotional transformation messaging\n\n### Avoid\n- Random one-off ads\n- Single treatment/device promotions\n- Generic med spa marketing\n\n---\n\n## Deliverables Jacques Should Create\n\n### Campaigns\n- Reactivation campaign\n- Summer body campaign\n- GLP-1 + Neo package campaign\n\n### Systems\n- Membership structure examples\n- Tiered package ideas\n- CRM automations\n- Text/email nurture flows\n\n### Marketing Angles\n- \u201cNon-surgical transformation\u201d\n- Summer confidence/body goals\n- Wellness + aesthetics combined\n- Personalized treatment plans\n\n---\n\n## Information Jacques Still Needs From Alex\n- Exported client lists\n- Updated machine/service lists per location\n- Provider capabilities by office\n- Peptide menu\n- Finalized package pricing\n- Event dates for future rollout/event promotions\n\n"
+          ]
+        },
+        "create_time": 1779374813.229025,
+        "id": "b932fbd3-3d0a-4c1b-9fad-52de6decb3e1",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": null,
+              "cloud_doc_url": "",
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_000000008e0c71f8ba1e8cc809e8bb79",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": 1,
+                "line_range_start": 1,
+                "message_id": "c5460731-2f21-4c10-9218-47d0f9ee26ee",
+                "message_index": 0
+              },
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "Pasted text.txt",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "3e4ec3e2-f8d0-48ed-b970-a63af639db9e"
+        }
+      },
+      "parent": "c9764da4-d9b1-4ee7-b640-5dc50a400335"
+    },
+    "c9764da4-d9b1-4ee7-b640-5dc50a400335": {
+      "id": "c9764da4-d9b1-4ee7-b640-5dc50a400335",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "summarize this for Jacques call with alex on what he neds to do with her and create: "
+          ]
+        },
+        "create_time": 1779374811.226,
+        "id": "c9764da4-d9b1-4ee7-b640-5dc50a400335",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_000000008e0c71f8ba1e8cc809e8bb79",
+              "is_big_paste": true,
+              "library_file_id": "libfile_b1e76658fc808191a8ce190ff9e876bf",
+              "mime_type": "text/plain",
+              "name": "Pasted text(38).txt",
+              "size": 56068,
+              "source": "local"
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "e80f1539-239c-4348-8a9f-b0e7a5b13d64": {
+      "id": "e80f1539-239c-4348-8a9f-b0e7a5b13d64",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "- Finish building the reactivation campaign in the CRM\n- Create text/email outreach for existing patients\n- Focus campaigns around:\n  - GLP-1\n  - Peptides\n  - Emsculpt Neo\n  - Summer body transformations\n  - Bundled treatment plans instead of single-device ads\n- Prepare campaigns now so they can launch immediately once Alex uploads patient lists\n- Help structure a \u201cSummer Body\u201d transformation package\n- Include optional add-ons like Accutite/FaceTite discounts after weight loss\n- Create examples of tiered memberships\n- Build recurring revenue membership options with flexible treatment choices\n- Help organize services/packages by location\n- Understand which providers and machines belong to each office\n- Build CRM automations for:\n  - Reactivation\n  - Follow-up\n  - Text campaigns\n  - Email nurture\n  - AI outreach if needed\n- Keep all communication inside the shared Slack channel instead of DMs\n- Help develop:\n  - Package ideas\n  - Upsells\n  - Retention systems\n  - Membership rollout strategy\n- Focus marketing on:\n  - Outcomes\n  - Emotional transformation\n  - Confidence\n  - Wellness + aesthetics combined\n- Avoid generic \u201csingle treatment\u201d ads\n- Wait for Alex to upload:\n  - Client export lists\n  - Service lists by location\n  - Provider capability breakdowns\n  - Peptide menu\n  - Updated pricing\n- Prepare for future event rollout campaigns once dates are finalized"
+          ]
+        },
+        "create_time": 1779374837.12001,
+        "id": "e80f1539-239c-4348-8a9f-b0e7a5b13d64",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "bae4ce4d-7be4-4575-870f-8c6888044704"
+        }
+      },
+      "parent": "0451ea02-1fdf-4357-8cb5-968407eb1b81"
+    },
+    "fbfb29bb-951d-47c5-bdb0-da3ce9827a45": {
+      "id": "fbfb29bb-951d-47c5-bdb0-da3ce9827a45",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ":::writing{variant=\"chat_message\" id=\"48271\"}\nHey Alex & Ashley! Great call today. Just wanted to send over a quick recap and action items so we all stay aligned moving forward \ud83d\ude0a\n\nMain focus right now:\n\u2022 Build out stronger memberships and packages\n\u2022 Launch the reactivation campaign\n\u2022 Create more \u201coutcome based\u201d offers instead of promoting single devices\n\u2022 Focus heavily on retention, upsells, and recurring revenue\n\nCurrent campaign direction:\nWe are moving toward a Summer Body / Wellness Transformation style offer that incorporates:\n\u2022 GLP-1 / peptides\n\u2022 Emsculpt Neo\n\u2022 Body contouring\n\u2022 Wellness + aesthetic treatment plans\n\u2022 Optional upgrades like Accutite / FaceTite\n\nAction Items:\n\nAlex\n\u2022 Upload updated service + machine lists by location\n\u2022 Upload provider capability breakdowns\n\u2022 Upload peptide menu + updated pricing\n\u2022 Work on getting exported patient lists from Athena/CRMs for reactivation campaigns\n\u2022 Coordinate event dates once finalized\n\nAshley\n\u2022 Continue giving feedback on what clients are actually asking for and responding to\n\u2022 Help guide what membership/package ideas make the most sense for your clientele\n\u2022 Keep notes on popular treatments, objections, and trends you\u2019re seeing in treatment rooms\n\nJacques\n\u2022 Build CRM reactivation campaigns\n\u2022 Prepare text/email workflows\n\u2022 Build sample membership structures + bundled package ideas\n\u2022 Start preparing automation + nurture sequences\n\nOther Notes:\n\u2022 We\u2019ll be creating tiered memberships with more flexibility/options\n\u2022 We want memberships to feel exciting, customizable, and outcome-driven\n\u2022 Packages should focus on full transformations, not individual treatments\n\u2022 Please try to keep communication inside the main Slack channel when possible so everyone stays aligned and updated\n\nExcited to get rolling on this with you guys \ud83d\udd25\n:::"
+          ]
+        },
+        "create_time": 1779374964.803906,
+        "id": "fbfb29bb-951d-47c5-bdb0-da3ce9827a45",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "9b9da614-3bf6-47b9-aced-9f2e689b9064"
+        }
+      },
+      "parent": "9b9da614-3bf6-47b9-aced-9f2e689b9064"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Jacques Call Summary",
+  "update_time": 1779386024.943933,
+  "voice": null
+}

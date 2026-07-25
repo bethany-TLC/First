@@ -1,0 +1,71 @@
+{
+  "conversation_id": "691a9b05-00ec-832f-b3f5-8e004a10227a",
+  "conversation_template_id": null,
+  "create_time": 1763351334.651572,
+  "current_node": "e48d163f-bd6f-48aa-bea4-47a3999184cb",
+  "default_model_slug": "gpt-5-1",
+  "id": "691a9b05-00ec-832f-b3f5-8e004a10227a",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "771ea1a9-dc4c-41b2-9fd9-b98a03c15324": {
+      "id": "771ea1a9-dc4c-41b2-9fd9-b98a03c15324",
+      "message": null,
+      "parent": null
+    },
+    "bbb21638-3bfc-4e4a-ae82-98a57e33622b": {
+      "id": "bbb21638-3bfc-4e4a-ae82-98a57e33622b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write a review with no emdashes. About the best photo shoot house ever. Super remedy and modern and tons of picture spots.in Austin "
+          ]
+        },
+        "create_time": 1763351334.362031,
+        "id": "bbb21638-3bfc-4e4a-ae82-98a57e33622b",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "771ea1a9-dc4c-41b2-9fd9-b98a03c15324"
+    },
+    "e48d163f-bd6f-48aa-bea4-47a3999184cb": {
+      "id": "e48d163f-bd6f-48aa-bea4-47a3999184cb",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here is a polished review with no emdashes, warm energy, and plenty of excitement:\n\n**Review: The Best Photo Shoot House in Austin**\n\nThis was honestly the best photo shoot house I have ever used. The space is super modern, incredibly clean, and designed with so much intention. Everywhere you look there are beautiful places to capture photos, from the natural light pouring through the large windows to the stylish decor in every room. \n\nThe house feels like it was built for creativity. Every corner gives you a new vibe and a fresh backdrop. It is perfect for lifestyle shoots, branding sessions, fashion photos, and content creation of any kind. The layout is easy to work with, the lighting is amazing, and the entire space feels welcoming and inspiring.\n\nI cannot recommend this photo shoot house enough. Austin has a lot of great spots, but this one truly stands out. I will absolutely book again."
+          ]
+        },
+        "create_time": 1763351334.503533,
+        "id": "e48d163f-bd6f-48aa-bea4-47a3999184cb",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-1",
+          "parent_id": "1db50b4a-f9ba-4b30-abfe-8b1ecd3ce63f"
+        }
+      },
+      "parent": "bbb21638-3bfc-4e4a-ae82-98a57e33622b"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Photo shoot house review",
+  "update_time": 1763351339.90604,
+  "voice": null
+}

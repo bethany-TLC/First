@@ -1,0 +1,72 @@
+{
+  "conversation_id": "6a3088ff-6064-83e8-afc0-172961d75faa",
+  "conversation_template_id": null,
+  "create_time": 1781565820.968545,
+  "current_node": "a0f8aabe-eded-44b6-b167-8e346a502836",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a3088ff-6064-83e8-afc0-172961d75faa",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "3792b94c-dc5c-4408-88b1-de8238086fb0": {
+      "id": "3792b94c-dc5c-4408-88b1-de8238086fb0",
+      "message": null,
+      "parent": null
+    },
+    "a0f8aabe-eded-44b6-b167-8e346a502836": {
+      "id": "a0f8aabe-eded-44b6-b167-8e346a502836",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here's a version that sounds like you\u2014grateful, energized, reflective, and a little relieved to be home:\n\n:::writing{variant=\"social_post\" id=\"58241\"}\nWhat an incredible weekend in Las Vegas with the Limitless family.\n\nI came here expecting to learn. I left with so much more.\n\nOver the last few days, I had the opportunity to be fully immersed in a room filled with agency owners, entrepreneurs, mentors, and leaders who are operating at levels that inspire me to think bigger, move faster, and become better. Every conversation, every session, every late-night discussion seemed to bring another lesson, another breakthrough, or another perspective I hadn't considered before.\n\nOne of the greatest gifts wasn't just the knowledge\u2014it was the people. The friendships formed, the stories shared, the laughs, the celebrations, and the moments in between are the things I'll remember long after the event is over. There is something powerful about being surrounded by people who genuinely want to see you win.\n\nA huge thank you to Gil and the entire Limitless team for putting together such an amazing experience. The amount of time, effort, and intention that goes into creating an environment where people can learn, grow, connect, and push each other forward does not go unnoticed. I am incredibly grateful to be part of a community that pours into its members every step of the way.\n\nI feel blessed to be surrounded by successful people who are committed to helping others grow, challenge their limits, and build extraordinary businesses\u2014while still knowing how to have a freaking good time along the way.\n\nVegas treated me very well, but I can honestly say I am happy to be out of there. My mind is full, my heart is grateful, and I'm heading home with new friendships, unforgettable memories, and enough inspiration to fuel the next chapter.\n\nMemories made for a lifetime. Now it's time to put everything into action.\n\n#Limitless #GrowthMindset #Entrepreneurship #AgencyLife #BusinessGrowth #Grateful #LevelUp\n:::"
+          ]
+        },
+        "create_time": 1781565820.916882,
+        "id": "a0f8aabe-eded-44b6-b167-8e346a502836",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "ad74023a-cd32-4a73-8983-4cb7a257a537"
+        }
+      },
+      "parent": "bbb211b7-3500-46fa-8514-b2604342558d"
+    },
+    "bbb211b7-3500-46fa-8514-b2604342558d": {
+      "id": "bbb211b7-3500-46fa-8514-b2604342558d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write a post about my incredible weekend in Las Vegas with the Limitless team. Talk about an incredible opportunity to be immersed in the agency world. Surrounded by mentors pouring into us every second of the way. Talk about how grateful you are to those who put on such an amazing event. Talk about all the new amazing friends that I met, experiences that I had, and life lessons that were there learned. Thank you to Gil and the team. Talk about how blessed I am to be surrounded by such successful people who are dedicated to our growth and know how to have a freaking good time along the way. Mention that Vegas treated me well but I am so happy to be out of there. Memories made for a lifetime."
+          ]
+        },
+        "create_time": 1781565820.71089,
+        "id": "bbb211b7-3500-46fa-8514-b2604342558d",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "3792b94c-dc5c-4408-88b1-de8238086fb0"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Limitless Vegas Weekend",
+  "update_time": 1781565827.091337,
+  "voice": null
+}

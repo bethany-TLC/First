@@ -1,0 +1,112 @@
+{
+  "conversation_id": "69cc2ae4-ecc0-8326-b56f-f30ac6b9efaa",
+  "conversation_template_id": null,
+  "create_time": 1774988014.305023,
+  "current_node": "f4ecd8a7-2e0b-479d-b513-bf6a70f5339e",
+  "default_model_slug": "gpt-5-3",
+  "id": "69cc2ae4-ecc0-8326-b56f-f30ac6b9efaa",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "36af06a0-0d5b-44c0-aee8-e702d3e9440e": {
+      "id": "36af06a0-0d5b-44c0-aee8-e702d3e9440e",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "give me the top 5 main points of her buisness"
+          ]
+        },
+        "create_time": 1774988013.46,
+        "id": "36af06a0-0d5b-44c0-aee8-e702d3e9440e",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_00000000f50471fd929cf682d49550d5",
+              "is_big_paste": false,
+              "library_file_id": "libfile_fcdaef81ae608191b54db7cc29a570f1",
+              "mime_type": "application/pdf",
+              "name": "IntegraLife Spa - Call Preparation Sheet.docx.pdf",
+              "size": 126218,
+              "source": "library"
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "f4ecd8a7-2e0b-479d-b513-bf6a70f5339e": {
+      "id": "f4ecd8a7-2e0b-479d-b513-bf6a70f5339e",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here are the **top 5 main points of her business** based on the call prep sheet:\n\n---\n\n### 1. **Established, Trust-Based Legacy Business**\n- Nearly **30 years in operation (since 1996)**  \n- Strong **long-term client loyalty** with many repeat clients (5\u201315+ years)  \n- Built from the ground up by the owner, creating deep trust and credibility  \n\n---\n\n### 2. **Clinical, Results-Driven Positioning**\n- Focus is on **real skin transformation**, not just relaxation  \n- Offers advanced treatments like **RF microneedling, injectables, lasers, and peels**  \n- Supported by a **facial plastic surgeon (Dr. Nassif)** which adds medical authority \ue200filecite\ue202turn0file0\ue201  \n\n---\n\n### 3. **Full-Service, One-Stop Aesthetic Destination**\n- Combines **treatments + injectables + skincare + retail products**  \n- Has a **proprietary skincare line (Integraderm)** exclusive to the spa  \n- Also sells premium brands like SkinCeuticals and Revision  \n\n---\n\n### 4. **Massive Digital and Marketing Gap**\n- Very **underdeveloped online presence** (low social following, no TikTok, outdated website)  \n- **No paid ads or tracking systems** in place  \n- Historically relied on **discount platforms like Groupon**, signaling weak acquisition systems  \n\n---\n\n### 5. **Strong Foundation with Untapped Growth Potential**\n- Business has **credibility, results, and loyalty**, but lacks modern systems  \n- Key opportunities:\n  - Improve **client acquisition (beyond repeat clients)**\n  - Build **automated systems (booking, follow-ups, no-show reduction)**\n  - Increase **retail sales and recurring revenue**\n  - Leverage content and doctor credibility for **premium positioning**\n\n---\n\nIf you want, I can turn this into a **call strategy (exact questions + how to position Luxora)** so you walk in and close this clean."
+          ]
+        },
+        "create_time": 1774988014.112747,
+        "id": "f4ecd8a7-2e0b-479d-b513-bf6a70f5339e",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": null,
+              "cloud_doc_url": "",
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_00000000f50471fd929cf682d49550d5",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "dc237c1e-b6de-455c-a875-b8afe9783107",
+                "message_index": 0
+              },
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": "None"
+              },
+              "name": "IntegraLife Spa - Call Preparation Sheet.docx.pdf",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            }
+          ],
+          "model_slug": "gpt-5-3",
+          "parent_id": "47c4c42e-a488-49ad-aa34-db6564d3bacf"
+        }
+      },
+      "parent": "36af06a0-0d5b-44c0-aee8-e702d3e9440e"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Top 5 Business Points",
+  "update_time": 1774988028.775492,
+  "voice": null
+}

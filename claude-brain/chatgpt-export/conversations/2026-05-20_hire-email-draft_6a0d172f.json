@@ -1,0 +1,213 @@
+{
+  "conversation_id": "6a0d172f-cc88-83ea-92e8-16954373e5d9",
+  "conversation_template_id": null,
+  "create_time": 1779242813.713443,
+  "current_node": "6d262107-c12d-438a-9518-9eddf9e43831",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a0d172f-cc88-83ea-92e8-16954373e5d9",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "32500db8-40d9-47f0-a945-eadbcd2f4fe6": {
+      "id": "32500db8-40d9-47f0-a945-eadbcd2f4fe6",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "write a hire email from aanchal from me to our new setter, base it off of our converation and go back over the deatils with her also talk about hwat i am attahcing: "
+          ]
+        },
+        "create_time": 1779242813.642,
+        "id": "32500db8-40d9-47f0-a945-eadbcd2f4fe6",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_00000000eb0871f69d7a9ab72b6385ec",
+              "is_big_paste": true,
+              "library_file_id": "libfile_6f24afbff57c8191be047f7a6596dedf",
+              "mime_type": "text/plain",
+              "name": "Pasted text(36).txt",
+              "size": 38415,
+              "source": "local"
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "4153d7b1-3a95-466a-a3ea-7e529d9762b2": {
+      "id": "4153d7b1-3a95-466a-a3ea-7e529d9762b2",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a polished hire/welcome email from Aanchal that recaps the conversation, outlines expectations, and references the attached materials. Based on your conversation transcript. \ue200filecite\ue202turn0file0\ue202L1-L1\ue201\n\n:::writing{variant=\"email\" id=\"48271\" subject=\"Welcome to The Luxora Collective\"}\nHi [Her Name],\n\nIt was so great speaking with you again! Bethany and the team are incredibly excited to officially welcome you into The Luxora Collective family. We really enjoyed getting to know you better and truly feel like your background, energy, and understanding of the aesthetics industry make you a fantastic fit for what we are building.\n\nAs discussed on our call, your initial role will focus primarily on setter outreach and relationship building within the med spa and aesthetics space. The goal is to generate warm, qualified conversations and book Revenue Leak Audit calls with our team. We are looking for quality over quantity, and we want every practice introduced to us to feel genuinely supported, educated, and understood.\n\nTo recap some of the key details we discussed:\n\n\u2022 Commission structure:\n  - $29 paid per booked qualified audit appointment\n  - $250 additional commission if the client closes\n  - Opportunity to transition into a closer role as we continue scaling\n\n\u2022 Outreach methods:\n  - LinkedIn\n  - Instagram DMs\n  - Email outreach\n  - Phone/networking outreach if comfortable\n\n\u2022 Ideal clients:\n  - Independent med spa owners\n  - Practices typically doing $500K\u2013$2M annually\n  - Owners struggling with growth, systems, retention, memberships, conversions, or scaling\n\n\u2022 Communication:\n  - For now, we\u2019ll keep communication organized via email while Slack is being finalized\n  - You\u2019ll always have support available from both Bethany and myself for questions, scripting, objections, or guidance\n\nAttached you will find several onboarding materials and resources to help you get started, including:\n- Setter agreement/contract\n- Outreach and partnership scripts\n- Luxora deliverables overview\n- Growth Engine framework\n- KPI reference materials\n- Appointment booking/tracking information\n\nThese materials are simply to help guide and support you. We absolutely want you to personalize conversations naturally in your own voice while keeping messaging professional, warm, and consultative rather than overly \u201csalesy.\u201d\n\nOne thing Bethany emphasized that I think is important to repeat: we are building a very tight-knit ecosystem and team culture here at Luxora. Integrity, professionalism, positivity, and genuine relationship-building matter deeply to us. We are looking for people who want to grow long term with the company, and we are very excited about the potential opportunity ahead for you here.\n\nPlease review everything thoroughly once received, and if you have any questions at all, never hesitate to reach out. We are here to support you every step of the way.\n\nWe are truly excited to have you onboard and cannot wait to get started together!\n\nWelcome to The Luxora Collective.\n\nWarmly,\n\nAanchal  \nThe Luxora Collective\n:::"
+          ]
+        },
+        "create_time": 1779242813.567288,
+        "id": "4153d7b1-3a95-466a-a3ea-7e529d9762b2",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": null,
+              "cloud_doc_url": "",
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_00000000eb0871f69d7a9ab72b6385ec",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": 1,
+                "line_range_start": 1,
+                "message_id": "815af135-daa3-4cdd-a337-9c99d4fafb4d",
+                "message_index": 0
+              },
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "Pasted text.txt",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            }
+          ],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Past chat",
+                "citation_uuid": "4679d972-43ed-4a1e-a3c0-6c88f2853c1d",
+                "conversation_context_type": "past_conversation",
+                "conversation_title": "High Ticket Setter/Closer",
+                "end_idx": -1,
+                "index": 1,
+                "matched_text": "",
+                "prompt_text": null,
+                "pub_date": 1778785618.239175,
+                "reason": null,
+                "refs": [],
+                "snippet": "we pay $29 an appointmnet and WHEN they close you get 250.",
+                "start_idx": -1,
+                "title": "High Ticket Setter/Closer",
+                "type": "conversation_context_citation",
+                "url": "/c/6a061d06-ecd8-83ea-a6c6-a9abfceb5ec5"
+              },
+              "citation_uuid": "4679d972-43ed-4a1e-a3c0-6c88f2853c1d",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "44b531c5-e7d0-4f71-84d0-a4b4bbb4878b"
+        }
+      },
+      "parent": "32500db8-40d9-47f0-a945-eadbcd2f4fe6"
+    },
+    "6d262107-c12d-438a-9518-9eddf9e43831": {
+      "id": "6d262107-c12d-438a-9518-9eddf9e43831",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Got it \u2014 here\u2019s the corrected version coming directly from Aanchal as the onboarding/welcome email after your conversation with her.\n\n:::writing{variant=\"email\" id=\"51742\" subject=\"Welcome to The Luxora Collective\"}\nHi [Her Name],\n\nI hope you are doing well!\n\nBethany asked me to reach out and officially welcome you to The Luxora Collective. We are all very excited about the opportunity to have you join the team and are looking forward to getting you onboarded and rolling.\n\nBethany really enjoyed speaking with you and feels very confident in both your background and your ability to connect with med spa owners in a natural, professional way. We are building a very close-knit team and ecosystem here, so finding the right people matters a lot to us, and we are excited to move forward with you.\n\nAttached you will find the onboarding materials and resources discussed on your call with Bethany, including:\n- Independent contractor agreement\n- Outreach and partnership scripts\n- Luxora deliverables overview\n- Growth Engine framework\n- KPI reference materials\n- Appointment booking/tracking information\n\nAs discussed, your initial role will primarily focus on setter outreach and relationship building within the aesthetics and med spa industry. The goal is to create warm conversations and book qualified Revenue Leak Audit calls with our team.\n\nThe commission structure is as follows:\n- $29 per qualified booked appointment\n- $250 additional commission if the client closes\n- Opportunity for future growth into a closer role as the company continues scaling\n\nBethany also mentioned that we want everyone to feel fully supported throughout the process. You will never be expected to \u201cwing it.\u201d We will provide guidance, resources, scripts, training support, and ongoing communication as needed to help you feel confident and successful.\n\nA few important reminders:\n- Please keep outreach warm, professional, and relationship-focused\n- No spam-style messaging or posting links publicly in Facebook groups\n- Focus on genuine conversations and identifying practices that truly need help with growth, systems, retention, memberships, marketing, or scaling\n\nFor now, we will keep communication primarily through email while we finalize a few things internally with Slack onboarding.\n\nPlease review all attached documents thoroughly, especially the agreement, and let us know if you have any questions at all. We are happy to help however we can.\n\nWe are excited to have you joining us and look forward to growing together!\n\nWarmly,\n\nAanchal  \nThe Luxora Collective\n:::"
+          ]
+        },
+        "create_time": 1779242851.157161,
+        "id": "6d262107-c12d-438a-9518-9eddf9e43831",
+        "metadata": {
+          "content_references": [],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Past chat",
+                "citation_uuid": "fd8fb777-18d4-4278-8a3e-b9da27aed926",
+                "conversation_context_type": "past_conversation",
+                "conversation_title": "High Ticket Setter/Closer",
+                "end_idx": -1,
+                "index": 1,
+                "matched_text": "",
+                "prompt_text": null,
+                "pub_date": 1778785618.239175,
+                "reason": null,
+                "refs": [],
+                "snippet": "we pay $29 an appointmnet and WHEN they close you get 250.",
+                "start_idx": -1,
+                "title": "High Ticket Setter/Closer",
+                "type": "conversation_context_citation",
+                "url": "/c/6a061d06-ecd8-83ea-a6c6-a9abfceb5ec5"
+              },
+              "citation_uuid": "fd8fb777-18d4-4278-8a3e-b9da27aed926",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "1cb13d0d-347e-45d6-9d3d-73d8c2eb3943"
+        }
+      },
+      "parent": "7c321328-27f1-4d6e-8927-7171c3debde5"
+    },
+    "7c321328-27f1-4d6e-8927-7171c3debde5": {
+      "id": "7c321328-27f1-4d6e-8927-7171c3debde5",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "she has never talked to hte setter i have, i told her my assaitnt would email her so go that approach"
+          ]
+        },
+        "create_time": 1779242851.297,
+        "id": "7c321328-27f1-4d6e-8927-7171c3debde5",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "4153d7b1-3a95-466a-a3ea-7e529d9762b2"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Hire Email Draft",
+  "update_time": 1779243084.433656,
+  "voice": null
+}

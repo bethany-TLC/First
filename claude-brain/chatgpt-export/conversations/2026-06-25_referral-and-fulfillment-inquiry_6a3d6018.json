@@ -1,0 +1,118 @@
+{
+  "conversation_id": "6a3d6018-ad00-83e8-ad99-e04f5290d6bd",
+  "conversation_template_id": null,
+  "create_time": 1782407305.377326,
+  "current_node": "8562e71b-833a-415b-875d-b742838cb91d",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a3d6018-ad00-83e8-ad99-e04f5290d6bd",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "8562e71b-833a-415b-875d-b742838cb91d": {
+      "id": "8562e71b-833a-415b-875d-b742838cb91d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here's a warm, professional introduction you can send:\n\n:::writing{variant=\"email\" id=\"81642\" subject=\"Introduction: Mark & Brandy\"}\nHi Mark and Brandy,\n\nI wanted to introduce the two of you because I think this could be a great fit.\n\n**Mark**, meet **Brandy**. Brandy shared with me that the company managing her ads hasn't been doing a great job, and she's looking to get her campaigns turned back on as soon as possible. I immediately thought of you.\n\n**Brandy**, meet **Mark**. Mark is with Automate Clients. We've recently started working together, and so far the experience has been fantastic. Their team has been incredibly responsive, organized, and great to work with. I told Mark about your situation and thought it would be worthwhile for you two to connect.\n\nI'll let you both take it from here. I hope this turns into a great partnership!\n\nBest,\n\nBethany\n:::"
+          ]
+        },
+        "create_time": 1782407535.814513,
+        "id": "8562e71b-833a-415b-875d-b742838cb91d",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "a12734dc-e8ac-4c3e-a4fa-c1b4aa430088"
+        }
+      },
+      "parent": "bbb21319-d76d-4119-992b-90f4592ed115"
+    },
+    "a4c1adfb-426f-412d-bd5b-c96631879fa3": {
+      "id": "a4c1adfb-426f-412d-bd5b-c96631879fa3",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ":::writing{variant=\"chat_message\" id=\"52741\"}\nHey Mark,\n\nThanks so much! It's been a great experience so far, and James has been awesome to work with.\n\nI actually referred someone to you the other day. Her name is Brandy, and I'll make a warm introduction so you two can connect. She's in desperate need of getting her ads turned back on, so I think she'd really benefit from chatting with you.\n\nThings have been moving quickly on our end. We just interviewed our first closer and he's an absolute gem. We're really excited about him. We have four more interviews today, so hopefully we'll have our sales team in place soon.\n\nOur onboarding process has been going really smoothly. Right now I'm just waiting on the sales scripts and VSL scripts so we can really hit the ground running.\n\nWe do have one campaign that's performing really well this week. I've had a few calls come in and actually just closed another client this morning, so that's been exciting. I'm definitely looking forward to having some closing help soon.\n\nI'm genuinely excited about what we're building together.\n\nOne thing I'd love to pick your brain on when we get a chance is white label fulfillment. We were planning to outsource fulfillment for our clients to one of two companies, but we were just told both have pretty poor reputations. I'd love to hear your thoughts and recommendations when things settle down a bit.\n\nLooking forward to connecting soon!\n:::\n"
+          ]
+        },
+        "create_time": 1782407305.303814,
+        "id": "a4c1adfb-426f-412d-bd5b-c96631879fa3",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "12085bcb-6e42-4872-a6b4-32bb39f7c724"
+        }
+      },
+      "parent": "bbb21dd8-8b6c-4652-bb34-efac5387cce0"
+    },
+    "a4e6b270-c7c1-489c-bcef-f871ec427899": {
+      "id": "a4e6b270-c7c1-489c-bcef-f871ec427899",
+      "message": null,
+      "parent": null
+    },
+    "bbb21319-d76d-4119-992b-90f4592ed115": {
+      "id": "bbb21319-d76d-4119-992b-90f4592ed115",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Now write me a warm introduction email between Mark and Brandy, Brandy told me that the person running her ads was not doing a very good job and she's looking to get those turned back on ASAP and just let her know. So far we've had a great interaction with Mark's company etc"
+          ]
+        },
+        "create_time": 1782407535.622577,
+        "id": "bbb21319-d76d-4119-992b-90f4592ed115",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "a4c1adfb-426f-412d-bd5b-c96631879fa3"
+    },
+    "bbb21dd8-8b6c-4652-bb34-efac5387cce0": {
+      "id": "bbb21dd8-8b6c-4652-bb34-efac5387cce0",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write mark back and say I. Actually referred somebody to him the other day. Her name is Brandy. I will do a warm introduction to you through her and you can chat with her. She is in desperate need to get her ads turned back on. We also just interviewed our first closer. He is an absolute gem. Pretty excited. We have four more interviews today. Our onboarding process has been going pretty smooth. I'm still waiting for the sales scripts and vSL scripts So we can hit the ground running. If we do have one campaign that is doing pretty good this week. I've had a few calls, just closed another one this morning. And looking forward to getting some closing help for sure. Really excited about our future together. \n\nI also wanted to tap your brain about white label fulfillment for our clients. We work going to outsource it two different company and we were just told they are awful. So I'd like to have that conversation as some point, especially when we wrap up\n\nThis is what he said: Hi Bethany,It's been a pleasure having you on board. I spoke with James and I heard that its going great on both side,glad to hear things are off to a great start!Our goal is to make sure it only gets better from here \u2014 so if there's ever anything you need, just reach out and we'll be right there.I also wanted to ask \u2014 if you know any other business owners who could benefit from what we do at Automate Clients, we'd love a warm introduction. And as a thank-you, if they come on board, we'll pay you up to $1,000.No pressure at all \u2014 just make the intro and we'll handle everything from there.Thanks again for trusting us, [Name]. We're excited about what's ahead!MarkAutomate Clients"
+          ]
+        },
+        "create_time": 1782407304.927699,
+        "id": "bbb21dd8-8b6c-4652-bb34-efac5387cce0",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "a4e6b270-c7c1-489c-bcef-f871ec427899"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Referral and Fulfillment Inquiry",
+  "update_time": 1782407539.738866,
+  "voice": null
+}

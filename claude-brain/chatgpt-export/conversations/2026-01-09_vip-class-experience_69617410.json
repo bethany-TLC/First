@@ -1,0 +1,72 @@
+{
+  "conversation_id": "69617410-2f94-832f-a9ec-164de4037b83",
+  "conversation_template_id": null,
+  "create_time": 1767994413.59597,
+  "current_node": "6cac9faf-d408-4a2f-bb0d-efdcf8658431",
+  "default_model_slug": "gpt-5-2",
+  "id": "69617410-2f94-832f-a9ec-164de4037b83",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "3f1fbbbc-e1f4-4319-baec-6714395a40ee": {
+      "id": "3f1fbbbc-e1f4-4319-baec-6714395a40ee",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "rewrite this review of the vip meeting today make it laonger and excited and enocourgingto tothers to attend thenext one if they can. : Huge win today was being apart of Gil's VIP class in Tampa! SO much knowledge and golden nuggets that I walked away with so much conviction and direction that I'm now laser focuaesd on 2026 growth that I can barley stand it! "
+          ]
+        },
+        "create_time": 1767994412.079,
+        "id": "3f1fbbbc-e1f4-4319-baec-6714395a40ee",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "6cac9faf-d408-4a2f-bb0d-efdcf8658431": {
+      "id": "6cac9faf-d408-4a2f-bb0d-efdcf8658431",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Absolutely. Here is a longer, high-energy, encouraging rewrite with conviction and excitement, and no em dashes:\n\n---\n\nHuge win today being part of Gil\u2019s VIP class in Tampa. I honestly cannot say enough about how powerful this experience was. The depth of knowledge, the clarity, and the sheer number of golden nuggets shared in that room were next level. This was not surface-level motivation. It was real strategy, real perspective, and real execution guidance from someone who truly understands how to build at a high level.\n\nI walked away with so much conviction and direction that I feel completely locked in on my 2026 growth vision. Everything feels sharper. Cleaner. More intentional. I am laser focused in a way that is honestly hard to contain. When you leave an experience feeling energized, grounded, and crystal clear on your next moves, you know you were in the right room.\n\nIf you ever have the opportunity to attend one of these VIP sessions, do it. Get in the room. Invest the time. Surround yourself with people who are thinking bigger, moving smarter, and executing with precision. Days like today are the ones that change trajectories."
+          ]
+        },
+        "create_time": 1767994413.427531,
+        "id": "6cac9faf-d408-4a2f-bb0d-efdcf8658431",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "40f910c7-16b5-4866-a55d-88a508066400"
+        }
+      },
+      "parent": "3f1fbbbc-e1f4-4319-baec-6714395a40ee"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "VIP Class Experience",
+  "update_time": 1767994441.431328,
+  "voice": null
+}

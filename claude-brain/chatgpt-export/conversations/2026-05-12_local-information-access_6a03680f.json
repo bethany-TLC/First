@@ -1,0 +1,261 @@
+{
+  "conversation_id": "6a03680f-7d54-83ea-8b54-25f417f97b22",
+  "conversation_template_id": null,
+  "create_time": 1778608208.411461,
+  "current_node": "73b90e57-54ad-4454-88e2-0d58dc01432b",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a03680f-7d54-83ea-8b54-25f417f97b22",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "11f5bc85-00e3-4d74-ba49-b788c18e7b65": {
+      "id": "11f5bc85-00e3-4d74-ba49-b788c18e7b65",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "we are writeing a mailchimp article about this, can you condense it and make it coming from alighment nashville: How do you find out what\u2019s happening in your community?\r\nWhen a school board rezones a neighborhood, local news is how families find out in time to respond. When a health clinic opens, it\u2019s how neighbors learn it exists. When disaster strikes, it\u2019s how people know where to go, what to do, and how to stay safe.\r\nThat kind of information shapes real decisions every day.\r\nBut it only works if it\u2019s reaching people in ways that are timely, relevant, and easy to access.\r\nRight now, access to local information isn\u2019t equal across Middle Tennessee. Some communities have strong, reliable ways to stay informed. Others face real gaps.\r\nPress Forward Middle Tennessee is working to better understand that landscape\u2014and we need to hear directly from you.\r\nWe\u2019re helping share a short, 8-10 minute survey to learn:\r\nHow you get local news and information\r\nWhat sources you trust\r\nWhere information is missing or hard to find\r\nYour input will help guide future support for local news and community information across all 40 counties in our region. That includes where resources are invested, what gets strengthened, and how communities stay connected.\r\nThis work is made possible by the Community Foundation of Middle Tennessee and The Healing Trust, with research support from The Sycamore Institute.\r"
+          ]
+        },
+        "create_time": 1778608210.47,
+        "id": "11f5bc85-00e3-4d74-ba49-b788c18e7b65",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "73b90e57-54ad-4454-88e2-0d58dc01432b": {
+      "id": "73b90e57-54ad-4454-88e2-0d58dc01432b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "## Celebrating Excellence at the 2026 Academies of Nashville Awards\n\n\ue200entity\ue202[\"organization\",\"Alignment Nashville\",\"Nashville education and community partnership organization\"]\ue201 was proud to join \ue200entity\ue202[\"organization\",\"Metro Nashville Public Schools\",\"Nashville public school district\"]\ue201 and host sponsor \ue200entity\ue202[\"company\",\"Deloitte\",\"global professional services company\"]\ue201 for an incredible evening celebrating the students, educators, schools, and community partners who make the Academies of Nashville such a powerful model for student success.\n\nThis year\u2019s AON Awards recognized excellence in innovation, partnership, experiential learning, college and career readiness, and academic achievement across the district. From outstanding educators and industry partners to high-achieving academies and student-focused initiatives, the evening highlighted the collaboration and commitment driving student success throughout Nashville.\n\nCongratulations again to all of this year\u2019s award winners and nominees, including McGavock High School\u2019s Academy of Life Science & Law, named Academy of the Year, along with the many educators, partners, and schools recognized for their impact and leadership.\n\nThank you to everyone who joined us in celebrating the incredible work happening across the Academies of Nashville and for continuing to invest in the future of our students and community."
+          ]
+        },
+        "create_time": 1778609373.613851,
+        "id": "73b90e57-54ad-4454-88e2-0d58dc01432b",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "Alignment Nashville",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "Nashville education and community partnership organization"
+              },
+              "id": "PI2327CCVMt3ISyQ",
+              "metadata": null,
+              "name": "Alignment Nashville",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Alignment Nashville",
+              "type": "entity"
+            },
+            {
+              "alt": "Metro Nashville Public Schools",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "Nashville public school district"
+              },
+              "id": "-XGQHaHAsJJ09_jO",
+              "metadata": null,
+              "name": "Metro Nashville Public Schools",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Metro Nashville Public Schools",
+              "type": "entity"
+            },
+            {
+              "alt": "Deloitte",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "global professional services company"
+              },
+              "id": "DaoaaNSGxpeASkB9",
+              "metadata": null,
+              "name": "Deloitte",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Deloitte",
+              "type": "entity"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "6a267011-970c-42e0-9903-83f080962286"
+        }
+      },
+      "parent": "856ae6b5-62ba-4585-870a-4e863e2ed924"
+    },
+    "856ae6b5-62ba-4585-870a-4e863e2ed924": {
+      "id": "856ae6b5-62ba-4585-870a-4e863e2ed924",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_00000000f5a871f8bb274f6807bc7e42",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 2000,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 321635,
+              "width": 1429
+            },
+            "can you now create a new article blrub on a recap of the aon awards to put into the newslette"
+          ]
+        },
+        "create_time": 1778609375.033,
+        "id": "856ae6b5-62ba-4585-870a-4e863e2ed924",
+        "metadata": {
+          "attachments": [
+            {
+              "height": 2000,
+              "id": "file_00000000f5a871f8bb274f6807bc7e42",
+              "is_big_paste": false,
+              "library_file_id": "libfile_42b61c5f2a84819184624ffc1edccc08",
+              "mime_type": "image/jpeg",
+              "name": "Thanks for Coming to the AON Awards 2026.jpg",
+              "size": 321635,
+              "source": "library",
+              "width": 1429
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "d935586e-ebdc-4c2e-885d-9bbbe27ac84b"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "d935586e-ebdc-4c2e-885d-9bbbe27ac84b": {
+      "id": "d935586e-ebdc-4c2e-885d-9bbbe27ac84b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "## Why Local Information Matters\n\nAt \ue200entity\ue202[\"organization\",\"Alignment Nashville\",\"Nashville education and community partnership organization\"]\ue201, we know strong communities depend on access to clear, trustworthy local information.\n\nWhether it\u2019s a school rezoning, a new health clinic, or emergency updates during a crisis, local news helps families make important decisions every day. But across Middle Tennessee, not everyone has equal access to timely and reliable information.\n\nThat\u2019s why Press Forward Middle Tennessee is gathering community input through a short 8\u201310 minute survey focused on:\n\n- How people receive local news and information  \n- Which sources they trust  \n- Where information is difficult to access or missing altogether  \n\nThe feedback will help guide future investments in local news and community information across all 40 counties in our region, helping communities stay informed, connected, and supported.\n\nThis effort is supported by the \ue200entity\ue202[\"organization\",\"Community Foundation of Middle Tennessee\",\"Middle Tennessee nonprofit foundation\"]\ue201 and \ue200entity\ue202[\"organization\",\"The Healing Trust\",\"Tennessee health philanthropy organization\"]\ue201, with research support from \ue200entity\ue202[\"organization\",\"The Sycamore Institute\",\"Tennessee public policy research organization\"]\ue201."
+          ]
+        },
+        "create_time": 1778608208.232942,
+        "id": "d935586e-ebdc-4c2e-885d-9bbbe27ac84b",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "Alignment Nashville",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "Nashville education and community partnership organization"
+              },
+              "id": "PI2327CCVMt3ISyQ",
+              "metadata": null,
+              "name": "Alignment Nashville",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Alignment Nashville",
+              "type": "entity"
+            },
+            {
+              "alt": "Community Foundation of Middle Tennessee",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "Middle Tennessee nonprofit foundation"
+              },
+              "id": "1lU-MWzKAdWOyJ3X",
+              "metadata": null,
+              "name": "Community Foundation of Middle Tennessee",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Community Foundation of Middle Tennessee",
+              "type": "entity"
+            },
+            {
+              "alt": "The Healing Trust",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "Tennessee health philanthropy organization"
+              },
+              "id": "-7P8v_L0fJnHjRaD",
+              "metadata": null,
+              "name": "The Healing Trust",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "The Healing Trust",
+              "type": "entity"
+            },
+            {
+              "alt": "The Sycamore Institute",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "Tennessee public policy research organization"
+              },
+              "id": "OTE_6NX5biEkT-Zz",
+              "metadata": null,
+              "name": "The Sycamore Institute",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "The Sycamore Institute",
+              "type": "entity"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "13074089-1c46-4c4e-839b-b00339a482b6"
+        }
+      },
+      "parent": "11f5bc85-00e3-4d74-ba49-b788c18e7b65"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Local Information Access",
+  "update_time": 1778609387.456964,
+  "voice": null
+}

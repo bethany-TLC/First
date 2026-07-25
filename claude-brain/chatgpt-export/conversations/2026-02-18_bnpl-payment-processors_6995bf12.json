@@ -1,0 +1,1287 @@
+{
+  "conversation_id": "6995bf12-042c-832c-a0aa-f39567228d87",
+  "conversation_template_id": null,
+  "create_time": 1771421459.892291,
+  "current_node": "2d646f52-a898-4031-99df-d6e7b4a6d03e",
+  "default_model_slug": "gpt-5-2",
+  "id": "6995bf12-042c-832c-a0aa-f39567228d87",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "2d646f52-a898-4031-99df-d6e7b4a6d03e": {
+      "id": "2d646f52-a898-4031-99df-d6e7b4a6d03e",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "If your agency wants a **payment processor that handles recurring/retainer billing well AND also lets you offer Buy Now, Pay Later (BNPL) options to clients**, here\u2019s how the main options stack up:\n\n## Best Options for Agencies with Retainers and BNPL\n\n### **1) PayPal Business**\n**Best for:** agencies who want simple recurring billing + BNPL in one platform\n\n**Why it\u2019s good:**\n- Built-in **recurring payments and subscription/retainer invoicing**\n- **PayPal Pay Later** shows BNPL options at checkout automatically for eligible buyers\n- Very familiar to clients and trusted\n- Works on websites, invoices, and links you send directly\n\n**Limitations:**\n- Pay Later doesn\u2019t always show for all customers (depends on eligibility)\n- Fees can be higher than Stripe for card payments\n\n**Best fit:** agencies that send invoices and links for retainers and want a BNPL option without complicated integrations\n\n---\n\n### **2) Square**\n**Best for:** agencies who bill retainers and want in-person or card-on-file billing\n\n**Why it\u2019s good:**\n- Recurring payment support with **Square Subscriptions**\n- **Afterpay with Square** lets clients choose BNPL at checkout (requires merchant enrollment)\n- Easy to send payment links, hosted invoices, and store card info\n- Good analytics and ecosystem for service businesses\n\n**Limitations:**\n- BNPL is partner-based (Afterpay) rather than fully native\n- Not as flexible for complex subscription tiers as Stripe\n\n**Best fit:** agencies with both online and in-person client payment needs\n\n---\n\n### **3) Stripe**\n**Best for:** agencies who want the most powerful billing system\n\n**Why it\u2019s good:**\n- Extremely robust **recurring billing/retainers**\n- Works with **Stripe Billing** for retainer plans, usage-based billing, automated renewals, and dunning\n- Has integrations with multiple BNPL providers (e.g., Klarna, Affirm, Afterpay) via **Payment Methods**\n- Strong for custom checkout flows and client portals\n\n**Limitations:**\n- BNPL isn\u2019t *native* (it\u2019s via third-party payment methods)\n- Slightly more development setup than PayPal/Square if you want BNPL at checkout\n\n**Best fit:** agencies that anticipate heavy automation, scaling, and advanced billing logic\n\n---\n\n### **4) Shopify Payments + Shop Pay Installments**\n**Not ideal for agencies with retainers unless you sell products or packaged services**\n\n**Why:**\n- Great for ecommerce and installment options\n- Not built for service-based recurring retainers\n\n---\n\n## Quick Recommendation Based on Your Agency Goals\n\n| Agency Priority | Best Processor |\n|----------------|----------------|\n| Simple retainers + easy BNPL | **PayPal Business** |\n| Retainers + in-person payments | **Square** |\n| Advanced recurring billing + scalability | **Stripe** |\n| Ecommerce + installments | **Shopify Payments** |\n\n---\n\n## How They Handle Retainers + BNPL\n\n**PayPal**\n- You can set up recurring billing for retainers\n- Customer sees Pay Later if eligible when paying\n\n**Square**\n- Subscribers/clients can be billed automatically\n- Afterpay adds BNPL choice at checkout/payment link\n\n**Stripe**\n- Recurring billing is highly customizable\n- You can enable BNPL payment methods that show at checkout\n\n---\n\n## Bottom Line\n\nIf you want **the least friction for agency clients paying retainers** with a BNPL option tossed in, **PayPal Business** is usually the easiest to adopt quickly.  \nIf you want **power and scalability** with more control and customization, **Stripe + BNPL integrations** is the most flexible long-term choice.\n\nIf you tell me your **billing frequency**, **platform** (web, client portal, CRM you're using), and **whether you want automatic card-on-file charges**, I can recommend a precise setup for your agency."
+          ]
+        },
+        "create_time": 1771421532.196301,
+        "id": "2d646f52-a898-4031-99df-d6e7b4a6d03e",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "c79a5545-140e-4d6b-af05-d7cd48132641"
+        }
+      },
+      "parent": "bbb2171e-d786-425d-9c97-11fb2c9a8017"
+    },
+    "63dff870-fc68-4a3c-9139-0d9d65201a28": {
+      "id": "63dff870-fc68-4a3c-9139-0d9d65201a28",
+      "message": null,
+      "parent": null
+    },
+    "72ba8326-7479-490c-b92f-4450cb82c2bb": {
+      "id": "72ba8326-7479-490c-b92f-4450cb82c2bb",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "If you want a **payment processor that works similarly to Stripe (accepts payments online, handles cards, subscriptions, etc.) and also lets you offer Buy Now, Pay Later-style options**, there *aren\u2019t many platforms that bundle BNPL as a *core* feature by themselves.* Most processors rely on third-party BNPL partners, but some platforms do offer more integrated BNPL support.\ue200cite\ue202turn0search0\ue201\n\nHere are the main choices worth considering:\n\n### \u2705 **PayPal for Business**\n- Full payment processing service like Stripe (cards, wallets, invoices).\n- **Has its own BNPL option (\u201cPay Later\u201d)** built into the checkout experience for merchants.\ue200cite\ue202turn0search0\ue201  \n- Very widely accepted and familiar to customers.\n\n### \u2705 **Shopify Payments + Shop Pay Installments**\n- If you\u2019re on Shopify, Shopify Payments (Shopify\u2019s built-in processor) includes **Shop Pay Installments**, a built-in BNPL option for customers at checkout.\ue200cite\ue202turn0search12\ue201  \n- Works natively without needing separate BNPL apps.\n\n### \ud83d\udd04 **Square**\n- A full payment processor with online and in-person payments.\ue200cite\ue202turn0search7\ue201  \n- **Square partners with Afterpay** to offer BNPL at checkout, though it\u2019s technically through a partner, not a built-in Square-issued BNPL loan.\n\n### \ud83c\udf0d **Adyen**\n- Enterprise-level payment processing alternative to Stripe, handles global payments, cards, wallets, etc.\ue200cite\ue202turn0search44\ue201  \n- Doesn\u2019t *natively issue* BNPL but integrates with BNPL networks in more advanced setups.\n\n### \ud83d\udee0 Other Options (Separate BNPL Services)\nThese aren\u2019t processors *by themselves*, but merchants often integrate them into their checkout alongside a primary processor:\n\n- **Affirm** \u2013 long-term installment financing.\ue200cite\ue202turn0search1\ue201  \n- **Klarna** \u2013 flexible pay-in-4, pay later options.\ue200cite\ue202turn0search22\ue201  \n- **Afterpay / Sezzle / Zip** \u2013 BNPL payment methods you can add at checkout.\ue200cite\ue202turn0search1\ue201\n\n---\n\n### **Key Difference to Stripe**\nStripe *does* let you offer BNPL, but it does so by integrating third-party providers within its platform \u2014 not issuing BNPL itself.\ue200cite\ue202turn0search4\ue201\n\nA processor that\u2019s *like Stripe but with BNPL built in* basically boils down to **PayPal (native Pay Later)** and **Shopify Payments with Shop Pay Installments** \u2014 both combine broad payment processing with an easy BNPL offering.\n\nIf you tell me the **platform you\u2019re selling on (e.g., Shopify, WooCommerce, custom site, course checkout)**, I can recommend the best way to set this up so customers see BNPL at checkout without having to juggle separate integrations."
+          ]
+        },
+        "create_time": 1771421497.70985,
+        "id": "72ba8326-7479-490c-b92f-4450cb82c2bb",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "([TechnologyAdvice](https://technologyadvice.com/blog/sales/stripe-alternatives/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "TechnologyAdvice",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Apr 15, 2025 \u2014 Buy Now, Pay Later (BNPL) options: PayPal is the only provider on this list that offers a native buy now, pay later option. Other providers ...Read more",
+                  "supporting_websites": [],
+                  "title": "Top 6 Stripe Alternatives",
+                  "url": "https://technologyadvice.com/blog/sales/stripe-alternatives/?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([TechnologyAdvice](https://technologyadvice.com/blog/sales/stripe-alternatives/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "TechnologyAdvice",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Apr 15, 2025 \u2014 Buy Now, Pay Later (BNPL) options: PayPal is the only provider on this list that offers a native buy now, pay later option. Other providers ...Read more",
+                  "supporting_websites": [],
+                  "title": "Top 6 Stripe Alternatives",
+                  "url": "https://technologyadvice.com/blog/sales/stripe-alternatives/?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Onramp Funds](https://www.onrampfunds.com/resources/8-best-bnpl-providers-for-ecommerce-2025?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Onramp Funds",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 12,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Sep 21, 2025 \u2014 Shop Pay Installments provides a built-in \"buy now, pay later\" (BNPL) option exclusively for Shopify merchants. Its ...Read more",
+                  "supporting_websites": [],
+                  "title": "8 Best BNPL Providers for eCommerce 2025",
+                  "url": "https://www.onrampfunds.com/resources/8-best-bnpl-providers-for-ecommerce-2025?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Zapier](https://zapier.com/blog/best-payment-gateways/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Zapier",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 7,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Jan 7, 2026 \u2014 PayPal for first-time users. Stripe for rich analytics. Shopify Payments for eCommerce stores. Square for selling both online and offline.Read more",
+                  "supporting_websites": [],
+                  "title": "The 7 best online payment processing services in 2026",
+                  "url": "https://zapier.com/blog/best-payment-gateways/?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Wikipedia](https://en.wikipedia.org/wiki/Adyen?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Wikipedia",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 44,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [],
+                  "title": "Adyen",
+                  "url": "https://en.wikipedia.org/wiki/Adyen?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([G2](https://www.g2.com/products/affirm/competitors/alternatives?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "G2",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 1,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "The best overall Affirm alternative is Sezzle. Other similar apps like Affirm are Klarna, Afterpay, Zip for Business, and Splitit.",
+                  "supporting_websites": [],
+                  "title": "Top 10 Affirm Alternatives & Competitors",
+                  "url": "https://www.g2.com/products/affirm/competitors/alternatives?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Denefits - Complete Payment Options](https://www.denefits.com/top-10-buy-now-pay-later-bnpl-companies/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Denefits - Complete Payment Options",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 22,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Nov 21, 2025 \u2014 The top list of BNPL companies in 2026 includes Affirm, Klarna, Denefits, AfterPay, PayPal, Sezzle, Splitit, Zip Co., PayZen, and Sunbit.",
+                  "supporting_websites": [],
+                  "title": "Top 10 Buy Now Pay Later (BNPL) Companies in 2026",
+                  "url": "https://www.denefits.com/top-10-buy-now-pay-later-bnpl-companies/?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([G2](https://www.g2.com/products/affirm/competitors/alternatives?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "G2",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 1,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "The best overall Affirm alternative is Sezzle. Other similar apps like Affirm are Klarna, Afterpay, Zip for Business, and Splitit.",
+                  "supporting_websites": [],
+                  "title": "Top 10 Affirm Alternatives & Competitors",
+                  "url": "https://www.g2.com/products/affirm/competitors/alternatives?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Stripe](https://stripe.com/guides/buy-now-pay-later?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Stripe",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 4,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "For example, with Stripe, once approved, our team will help you integrate the BNPL service into your website, and you'll be able to provide buy now, pay later ...Read more",
+                  "supporting_websites": [],
+                  "title": "What is buy now, pay later? BNPL platforms for businesses",
+                  "url": "https://stripe.com/guides/buy-now-pay-later?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "TechnologyAdvice",
+                  "title": "Top 6 Stripe Alternatives",
+                  "url": "https://technologyadvice.com/blog/sales/stripe-alternatives/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Onramp Funds",
+                  "title": "8 Best BNPL Providers for eCommerce 2025",
+                  "url": "https://www.onrampfunds.com/resources/8-best-bnpl-providers-for-ecommerce-2025?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Zapier",
+                  "title": "The 7 best online payment processing services in 2026",
+                  "url": "https://zapier.com/blog/best-payment-gateways/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Wikipedia",
+                  "title": "Adyen",
+                  "url": "https://en.wikipedia.org/wiki/Adyen?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "G2",
+                  "title": "Top 10 Affirm Alternatives & Competitors",
+                  "url": "https://www.g2.com/products/affirm/competitors/alternatives?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Denefits - Complete Payment Options",
+                  "title": "Top 10 Buy Now Pay Later (BNPL) Companies in 2026",
+                  "url": "https://www.denefits.com/top-10-buy-now-pay-later-bnpl-companies/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Stripe",
+                  "title": "What is buy now, pay later? BNPL platforms for businesses",
+                  "url": "https://stripe.com/guides/buy-now-pay-later?utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "model_slug": "gpt-5-2",
+          "parent_id": "7d8a4d35-809d-43a2-87dc-3b7e1b0bed78",
+          "search_result_groups": [
+            {
+              "domain": "wise.com",
+              "entries": [
+                {
+                  "attribution": "wise.com",
+                  "snippet": "Best payment gateway options compared \u00b7 Stripe \u00b7 PayPal \u00b7 Square \u00b7 Payoneer \u00b7 Adyen \u00b7 Verifone (Previously 2Checkout) \u00b7 Braintree.",
+                  "title": "Best payment gateway: Top 7 in 2025",
+                  "url": "https://wise.com/us/blog/best-payment-gateway?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "stripe.com",
+              "entries": [
+                {
+                  "attribution": "stripe.com",
+                  "snippet": "Stripe is a financial services platform that helps all types of businesses accept payments, build flexible billing models, and manage money movement.",
+                  "title": "Stripe | Financial Infrastructure to Grow Your Revenue",
+                  "url": "https://stripe.com/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "clearlypayments.com",
+              "entries": [
+                {
+                  "attribution": "clearlypayments.com",
+                  "snippet": "Dec 3, 2023 \u2014 Adyen: Single platform for accepting payments globally (International). Affirm: Allows consumers to buy now and pay over time (United States).Read more",
+                  "title": "A Big List of Payment Gateways",
+                  "url": "https://www.clearlypayments.com/blog/big-list-of-payment-gateways/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "fastspring.com",
+              "entries": [
+                {
+                  "attribution": "fastspring.com",
+                  "snippet": "Aug 27, 2025 \u2014 Adyen is an end-to-end solution for payment processing, data, and financial management. In addition to payment processing, Adyen offers features ...Read more",
+                  "title": "Stripe Alternatives for 2025: In-Depth Guide and 8 Options",
+                  "url": "https://fastspring.com/blog/stripe-alternatives/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "whop.com",
+              "entries": [
+                {
+                  "attribution": "whop.com",
+                  "snippet": "Nov 6, 2025 \u2014 Whop, Adyen, and BlueSnap excel for high-volume merchants due to scalable infrastructure, flexible pricing, multi-currency support, and robust ...",
+                  "title": "Best payment processing companies for ecommerce",
+                  "url": "https://whop.com/blog/payment-processing-ecommerce/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "whop.com",
+                  "snippet": "Smart routing to boost payment acceptance; BNPL options with Klarna, Sezzle, Splitit, and Afterpay. BNPL lets you confidently sell more high-ticket offers like ...Read more",
+                  "title": "10 best BNPL providers for your business [2026]",
+                  "url": "https://whop.com/blog/best-bnpl-providers/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "nuvei.com",
+              "entries": [
+                {
+                  "attribution": "nuvei.com",
+                  "snippet": "Embedded finance means offering integrated financial services at online checkout or point of sale (POS). It generally involves non-financial institutions.Read more",
+                  "title": "What is Embedded Finance?",
+                  "url": "https://www.nuvei.com/posts/embedded-finance?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "technologyadvice.com",
+              "entries": [
+                {
+                  "attribution": "technologyadvice.com",
+                  "snippet": "Aug 21, 2024 \u2014 Buy Now, Pay Later (BNPL) options: PayPal has a native BNPL option that's user-friendly for both businesses and customers. Dispute ...",
+                  "title": "Best Online Payment Processors",
+                  "url": "https://technologyadvice.com/blog/sales/online-payment-processors/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "elasticpath.com",
+              "entries": [
+                {
+                  "attribution": "elasticpath.com",
+                  "snippet": "Oct 27, 2021 \u2014 8 Top Payment Processors \u00b7 PayPal \u00b7 Stripe \u00b7 Adyen \u00b7 Braintree \u00b7 Cybersource \u00b7 Square \u00b7 Stax \u00b7 Klarna.",
+                  "title": "8 Top Payment Processors",
+                  "url": "https://www.elasticpath.com/blog/8-top-payment-processors?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "seamlesschex.com",
+              "entries": [
+                {
+                  "attribution": "seamlesschex.com",
+                  "snippet": "Dec 16, 2025 \u2014 Alternatives to Stripe and PayPal for high-risk merchants. Compare top processors like SeamlessChex, PayKings & Zen Payments.",
+                  "title": "The Best Alternatives to Stripe and PayPal in 2026",
+                  "url": "https://www.seamlesschex.com/blog/alternatives-to-stripe-and-paypal?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "businessleadershiptoday.com",
+              "entries": [
+                {
+                  "attribution": "businessleadershiptoday.com",
+                  "snippet": "The 12 best alternatives to Stripe, Square, PayPal, and other big tech payment processors include: Stax Payments Ayden WePay Authorize.net Braintree ...",
+                  "title": "The 12 Best Alternatives to Stripe, Square, PayPal, and ...",
+                  "url": "https://businessleadershiptoday.com/stripe-competitors-alternatives-to-stripe-square-paypal/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "codica.com",
+              "entries": [
+                {
+                  "attribution": "codica.com",
+                  "snippet": "Dec 16, 2024 \u2014 These solutions are Stripe Connect, Braintree, Dwolla, PayPal Commerce Platform, Mangopay, Adyen, and Exactly.",
+                  "title": "11 Best Marketplace Payment Solutions for 2025 - Codica",
+                  "url": "https://www.codica.com/blog/best-payment-solutions-for-online-marketplaces/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "theretailexec.com",
+              "entries": [
+                {
+                  "attribution": "theretailexec.com",
+                  "snippet": "Jan 13, 2026 \u2014 Affirm enables businesses to integrate buy-now-pay-later options for customers, no matter where they're buying. You can use Affirm to show your ...Read more",
+                  "title": "The 14 Best Buy Now, Pay Later Platforms of 2026, ...",
+                  "url": "https://theretailexec.com/tools/best-bnpl-platforms/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "gocardless.com",
+              "entries": [
+                {
+                  "attribution": "gocardless.com",
+                  "snippet": "Those seeking alternatives to PayPal and Stripe often turn to Square. One of its key features is its ability to work both online and off as a POS application.Read more",
+                  "title": "The 5 Best Stripe Alternatives in 2026",
+                  "url": "https://gocardless.com/guides/posts/top-5-stripe-alternatives/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "xflowpay.com",
+              "entries": [
+                {
+                  "attribution": "xflowpay.com",
+                  "snippet": "Oct 6, 2025 \u2014 If you're looking for a Stripe alternative that truly understands your cross-border payment needs, Xflow is the answer. Sign up today and ...Read more",
+                  "title": "Best Stripe Alternatives for Global Payments in 2026",
+                  "url": "https://www.xflowpay.com/blog/stripe-alternatives?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "statrys.com",
+              "entries": [
+                {
+                  "attribution": "statrys.com",
+                  "snippet": "Jan 7, 2025 \u2014 This article will explore the best payment gateways for US businesses and provide tips on choosing the right one.",
+                  "title": "6 Best Payment Gateways in the US in 2025",
+                  "url": "https://statrys.com/blog/best-payment-gateways-in-the-us?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "airwallex.com",
+              "entries": [
+                {
+                  "attribution": "airwallex.com",
+                  "snippet": "Jun 30, 2025 \u2014 Airwallex, PayPal, Adyen, Payoneer, and Shopify Payments are all alternatives to Stripe, each with its own strengths.Read more",
+                  "title": "Top 5 Stripe Alternatives & Competitors in the US 2025",
+                  "url": "https://www.airwallex.com/us/blog/stripe-alternatives-and-competitors?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "reddit.com",
+              "entries": [
+                {
+                  "attribution": "reddit.com",
+                  "snippet": "If you're looking at alternatives to Stripe, check out secure payment services like Paytia. They all support API integration, strong payment ...Read more",
+                  "title": "Payment processing service for an AI marketplace (Stripe ...",
+                  "url": "https://www.reddit.com/r/startups/comments/1o708sz/payment_processing_service_for_an_ai_marketplace/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "reddit.com",
+                  "snippet": "I found some alternatives like Adyen. Its only around 0.20\u20ac per transaction. Does anyone have some experience with Adyen and would you recommend it?",
+                  "title": "What are the best and cheapest payment Gateways? Is ...",
+                  "url": "https://www.reddit.com/r/vuejs/comments/18vblzf/what_are_the_best_and_cheapest_payment_gateways/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "reddit.com",
+                  "snippet": "PayPal \u2013 Universally trusted and globally recognized. \u00b7 2Checkout (Verifone) \u2013 Supports global credit card payments with localized checkout ...Read more",
+                  "title": "Payment processor alternatives for Stripe",
+                  "url": "https://www.reddit.com/r/PaymentProcessing/comments/1n7k4tg/payment_processor_alternatives_for_stripe/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "youtube.com",
+              "entries": [
+                {
+                  "attribution": "youtube.com",
+                  "snippet": "Stripe works for many businesses, but it's not the only choice. Check out 6 alternatives whether you need high-risk processing or ...",
+                  "title": "Best Stripe Alternatives",
+                  "url": "https://www.youtube.com/watch?v=HjKzzTFPnR0&utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "shipfusion.com",
+              "entries": [
+                {
+                  "attribution": "shipfusion.com",
+                  "snippet": "Aug 16, 2024 \u2014 Afterpay allows consumers to make larger purchases at online and brick-and-mortar retailers through two BNPL financing plans. Its solutions are ...Read more",
+                  "title": "The 8 Best Buy Now Pay Later Companies In Ecommerce ...",
+                  "url": "https://www.shipfusion.com/blog/buy-now-pay-later-companies?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "depositfix.com",
+              "entries": [
+                {
+                  "attribution": "depositfix.com",
+                  "snippet": "Alternatives to Stripe: Discover the top 5 picks for 2025 and why DepositFix is the best choice with low fees, easy CRM integration, and seamless payment ...",
+                  "title": "Alternatives to Stripe: Why DepositFix is the Best Choice",
+                  "url": "https://www.depositfix.com/blog/alternatives-to-stripe?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "spocket.co",
+              "entries": [
+                {
+                  "attribution": "spocket.co",
+                  "snippet": "May 13, 2025 \u2014 Explore the best Stripe alternatives in 2025, comparing top payment gateways like Square, PayPal, Shopify Payments, and more.",
+                  "title": "Top Stripe Alternatives in 2025: Best Payment Solutions for ...",
+                  "url": "https://www.spocket.co/blogs/stripe-alternatives?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "chargeflow.io",
+              "entries": [
+                {
+                  "attribution": "chargeflow.io",
+                  "snippet": "Sep 16, 2024 \u2014 Discover the best Shopify Payments alternatives for 2024, including Stripe, PayPal, and Klarna ... are available through processors like Adyen.",
+                  "title": "Top Shopify Payments Alternatives 2024",
+                  "url": "https://www.chargeflow.io/blog/best-shopify-payments-alternatives-for-2024-comparison-guide?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "unibee.dev",
+              "entries": [
+                {
+                  "attribution": "unibee.dev",
+                  "snippet": "Nov 7, 2025 \u2014 Looking for Stripe competitors? Dive into our review of payment processors that cater to diverse business requirements and growth.",
+                  "title": "Best 19 Stripe Alternatives for 2025",
+                  "url": "https://unibee.dev/blog/top-19-stripe-alternatives/?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "bbb2166c-81eb-4b23-892f-e5a3e6bd2e42"
+    },
+    "bbb2166c-81eb-4b23-892f-e5a3e6bd2e42": {
+      "id": "bbb2166c-81eb-4b23-892f-e5a3e6bd2e42",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "What about a payment processor that is like stripe that just so happens to offer by not pay later"
+          ]
+        },
+        "create_time": 1771421496.255628,
+        "id": "bbb2166c-81eb-4b23-892f-e5a3e6bd2e42",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "c67eddb6-1207-4794-9065-77c5d6775335"
+    },
+    "bbb2171e-d786-425d-9c97-11fb2c9a8017": {
+      "id": "bbb2171e-d786-425d-9c97-11fb2c9a8017",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Which one of those payment processors are best for agencies that have retainers"
+          ]
+        },
+        "create_time": 1771421531.949791,
+        "id": "bbb2171e-d786-425d-9c97-11fb2c9a8017",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "72ba8326-7479-490c-b92f-4450cb82c2bb"
+    },
+    "bbb21a18-694e-4938-b852-ddae1c9a2ff3": {
+      "id": "bbb21a18-694e-4938-b852-ddae1c9a2ff3",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "It's another payment processor that agencies can use that. Have a buy now. Pay later other than stripe, wave, fan bases."
+          ]
+        },
+        "create_time": 1771421459.602884,
+        "id": "bbb21a18-694e-4938-b852-ddae1c9a2ff3",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "63dff870-fc68-4a3c-9139-0d9d65201a28"
+    },
+    "c67eddb6-1207-4794-9065-77c5d6775335": {
+      "id": "c67eddb6-1207-4794-9065-77c5d6775335",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Yes! If you and your agency want a **payment processor that supports \u201cBuy Now, Pay Later\u201d (BNPL) style checkout options** *other than Stripe, Wave, or Fanbase*, there are several solid alternatives you can explore. BNPL is typically offered through partners that handle the installment financing, and you can integrate these with your checkout or payment flow.\n\n### **Popular BNPL Options Agencies Can Use**\nThese are providers that let merchants offer customers the ability to pay over time while you get paid up front:\n\n**1. PayPal Pay Later** \u2013 This is PayPal\u2019s installment payment option that lets customers pay in multiple installments (like Pay in 4) through their PayPal checkout. It\u2019s one of the easiest ways to add BNPL because many customers already trust PayPal. \ue200cite\ue202turn0search1\ue202turn0search7\ue201\n\n**2. Affirm** \u2013 A well-known BNPL provider where customers can split payments into installments (interest-free or with interest depending on terms). Affirm integrates with many ecommerce platforms and merchant checkouts. \ue200cite\ue202turn0search14\ue202turn0search40\ue201\n\n**3. Afterpay** \u2013 Owned by Block (the same company behind Square), it lets merchants offer interest-free installments over a short period (typically four payments). Square merchants can even enable Afterpay BNPL directly. \ue200cite\ue202turn0search15\ue202turn0search38\ue201\n\n**4. Klarna** \u2013 A major global BNPL provider that offers flexible payment splits (e.g., pay in four, or longer financing plans). It\u2019s widely used by online merchants and can be integrated into various checkout systems. \ue200cite\ue202turn0search2\ue201\n\n**5. Sezzle** \u2013 Another BNPL option that lets customers split purchases into installments without interest (if paid on time). It integrates with many online platforms and cart systems. \ue200cite\ue202turn0search17\ue201\n\n**6. Zip (formerly Quadpay)** \u2013 Offers flexible installment plans across many online merchants and includes APIs and widgets you can embed for checkout. \ue200cite\ue202turn0search21\ue201\n\n**7. Splitit** \u2013 Different approach: it uses the customer\u2019s existing credit card to spread payments over time rather than issuing new credit. \ue200cite\ue202turn0search3\ue202turn0search28\ue201\n\n---\n\n### **How Agencies Typically Use BNPL**\nAgencies often integrate these BNPL providers into:\n\n\u2022 **Ecommerce checkouts** (Shopify, WooCommerce, BigCommerce, custom carts)  \n\u2022 **Embedded payment forms** for digital products or services  \n\u2022 **Client purchase flows** for high-ticket services, coaching, or courses  \n\nInstead of acting as a payment processor alone, BNPL providers often **work alongside** your payment processor (e.g., PayPal, Adyen, Square, or a gateway) to give customers the \u201cbuy now, pay later\u201d option. \ue200cite\ue202turn0search11\ue201\n\nIf you want **BNPL specifically built into your checkout flow**, you\u2019ll typically choose one of the above and integrate it alongside or within your existing payment processor/gateway. Let me know what platform you\u2019re using (ecommerce, booking tools, course checkout, etc.) and I can suggest the best way to integrate BNPL!"
+          ]
+        },
+        "create_time": 1771421461.491336,
+        "id": "c67eddb6-1207-4794-9065-77c5d6775335",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "([Shopify](https://www.shopify.com/blog/bnpl-companies?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Shopify",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 1,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 7,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Jan 20, 2025 \u2014 PayPal is one of the most popular online payment processing platforms. As of August 2020, it also offers BNPL with millions of online merchants.",
+                  "supporting_websites": [
+                    {
+                      "attribution": "FinTech Magazine",
+                      "pub_date": null,
+                      "snippet": "Aug 28, 2024 \u2014 PayPal Pay in 4 is a BNPL service ... This offering complements PayPal's existing 'Pay Later' options, including Easy Payments and PayPal Credit.",
+                      "title": "Top 10: Buy Now, Pay Later Platforms",
+                      "url": "https://fintechmagazine.com/articles/top-10-buy-now-pay-later-platforms?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "8 Buy Now, Pay Later Companies for Your Business (2025)",
+                  "url": "https://www.shopify.com/blog/bnpl-companies?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Denefits - Complete Payment Options](https://www.denefits.com/top-10-buy-now-pay-later-bnpl-companies/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Denefits - Complete Payment Options",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 14,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 40,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Nov 21, 2025 \u2014 The top list of BNPL companies in 2026 includes Affirm, Klarna, Denefits, AfterPay, PayPal, Sezzle, Splitit, Zip Co., PayZen, and Sunbit.",
+                  "supporting_websites": [
+                    {
+                      "attribution": "Wikipedia",
+                      "pub_date": null,
+                      "snippet": "",
+                      "title": "Affirm Holdings",
+                      "url": "https://en.wikipedia.org/wiki/Affirm_Holdings?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Top 10 Buy Now Pay Later (BNPL) Companies in 2026",
+                  "url": "https://www.denefits.com/top-10-buy-now-pay-later-bnpl-companies/?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Square](https://squareup.com/us/en/buy-now-pay-later?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Square",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 15,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 38,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "With Afterpay, Square merchants can let customers pay in four interest-free installments over six weeks. See how Afterpay works \u2192. How do I set up buy now, pay ...Read more",
+                  "supporting_websites": [
+                    {
+                      "attribution": "Wikipedia",
+                      "pub_date": null,
+                      "snippet": "",
+                      "title": "Afterpay",
+                      "url": "https://en.wikipedia.org/wiki/Afterpay?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Bring in more business with buy now, pay later.",
+                  "url": "https://squareup.com/us/en/buy-now-pay-later?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Built In](https://builtin.com/articles/fintech-payments-companies-examples?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Built In",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 2,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Dec 4, 2025 \u2014 Klarna makes a buy-now-pay-later product that e-commerce companies use to cater to customers who prefer flexible payment options. With ...Read more",
+                  "supporting_websites": [],
+                  "title": "25 Top Payment Processing Companies 2025 | Built In",
+                  "url": "https://builtin.com/articles/fintech-payments-companies-examples?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Edvisors](https://www.edvisors.com/money-management/credit/buy-now-pay-later-companies/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Edvisors",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 17,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Feb 11, 2025 \u2014 Some of the most popular BNPL options include Affirm, Afterpay, Klarna, Sezzle, PayPal Credit, Zip and Splitit.",
+                  "supporting_websites": [],
+                  "title": "7 Popular Buy Now Pay Later Companies",
+                  "url": "https://www.edvisors.com/money-management/credit/buy-now-pay-later-companies/?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Whop](https://whop.com/blog/best-bnpl-providers/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Whop",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 21,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "5 days ago \u2014 Zip Pay is a Buy Now, Pay Later provider that lets U.S. customers split purchases into four interest-free payments ...",
+                  "supporting_websites": [],
+                  "title": "8 best BNPL providers for your business [2026]",
+                  "url": "https://whop.com/blog/best-bnpl-providers/?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Onramp Funds](https://www.onrampfunds.com/resources/8-best-bnpl-providers-for-ecommerce-2025?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Onramp Funds",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 3,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 28,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Sep 21, 2025 \u2014 Splitit takes a unique approach in the Buy Now, Pay Later (BNPL) market by leveraging customers' existing credit cards to set up installment ...",
+                  "supporting_websites": [
+                    {
+                      "attribution": "Splitit",
+                      "pub_date": null,
+                      "snippet": "Splitit enables the merchant to offer you the ability to pay in installments using your existing credit card with no added fees.",
+                      "title": "Splitit: Buy Now Pay Later - Using Your Own Credit Card",
+                      "url": "https://www.splitit.com/us/?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "8 Best BNPL Providers for eCommerce 2025",
+                  "url": "https://www.onrampfunds.com/resources/8-best-bnpl-providers-for-ecommerce-2025?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([stripe.com](https://stripe.com/guides/buy-now-pay-later?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "stripe.com",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 11,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Buy now, pay later services\u2014such as Affirm, Afterpay, Klarna, and Zip\u2014are used by a wide variety of businesses, especially ecommerce retailers, to increase ...",
+                  "supporting_websites": [],
+                  "title": "What is buy now, pay later? BNPL platforms for businesses",
+                  "url": "https://stripe.com/guides/buy-now-pay-later?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "Shopify",
+                  "title": "8 Buy Now, Pay Later Companies for Your Business (2025)",
+                  "url": "https://www.shopify.com/blog/bnpl-companies?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Denefits - Complete Payment Options",
+                  "title": "Top 10 Buy Now Pay Later (BNPL) Companies in 2026",
+                  "url": "https://www.denefits.com/top-10-buy-now-pay-later-bnpl-companies/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Square",
+                  "title": "Bring in more business with buy now, pay later.",
+                  "url": "https://squareup.com/us/en/buy-now-pay-later?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Built In",
+                  "title": "25 Top Payment Processing Companies 2025 | Built In",
+                  "url": "https://builtin.com/articles/fintech-payments-companies-examples?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Edvisors",
+                  "title": "7 Popular Buy Now Pay Later Companies",
+                  "url": "https://www.edvisors.com/money-management/credit/buy-now-pay-later-companies/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Whop",
+                  "title": "8 best BNPL providers for your business [2026]",
+                  "url": "https://whop.com/blog/best-bnpl-providers/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Onramp Funds",
+                  "title": "8 Best BNPL Providers for eCommerce 2025",
+                  "url": "https://www.onrampfunds.com/resources/8-best-bnpl-providers-for-ecommerce-2025?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "stripe.com",
+                  "title": "What is buy now, pay later? BNPL platforms for businesses",
+                  "url": "https://stripe.com/guides/buy-now-pay-later?utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "model_slug": "gpt-5-2",
+          "parent_id": "fde21de8-89f1-4fe1-a06e-151a19e2ce5d",
+          "search_result_groups": [
+            {
+              "domain": "wise.com",
+              "entries": [
+                {
+                  "attribution": "wise.com",
+                  "snippet": "Oct 28, 2025 \u2014 1. Finix: Ideal for Platforms & Marketplaces ... Finix is an easy-to-use payment processor with a flexible and transparent pricing model.Read more",
+                  "title": "7 Cheapest Payment Processing Services for Small ...",
+                  "url": "https://wise.com/us/blog/cheapest-payment-processing?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "checkout.com",
+              "entries": [
+                {
+                  "attribution": "checkout.com",
+                  "snippet": "Apr 1, 2025 \u2014 These options include four interest-free payments every two weeks to longer payment plans of up to 36 months. When choosing a BNPL provider, ...Read more",
+                  "title": "How does buy now pay later (BNPL) work for merchants?",
+                  "url": "https://www.checkout.com/blog/how-does-buy-now-pay-later-bnpl-work-for-merchants?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "ratepay.com",
+              "entries": [
+                {
+                  "attribution": "ratepay.com",
+                  "snippet": "16 Nov 2025 \u2014 There are countless \u201cBuy Now, Pay Later\u201d (BNPL) providers in the B2C market. Most offer apps for both Apple and Android devices, ...Read more",
+                  "title": "Buy now pay later apps and their features",
+                  "url": "https://www.ratepay.com/en/resources/blog/buy-now-pay-later-apps?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "nerdwallet.com",
+              "entries": [
+                {
+                  "attribution": "nerdwallet.com",
+                  "snippet": "6 days ago \u2014 After looking at 25 payment processors, we chose Square, Stripe, PayPal, Helcim and Finix.",
+                  "title": "5 Best Payment Processors for Small Business in 2026",
+                  "url": "https://www.nerdwallet.com/business/software/learn/payment-processors?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "fintechmagazine.com",
+              "entries": [
+                {
+                  "attribution": "fintechmagazine.com",
+                  "snippet": "Aug 28, 2024 \u2014 PayPal Pay in 4 is a BNPL service ... This offering complements PayPal's existing 'Pay Later' options, including Easy Payments and PayPal Credit.",
+                  "title": "Top 10: Buy Now, Pay Later Platforms",
+                  "url": "https://fintechmagazine.com/articles/top-10-buy-now-pay-later-platforms?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "justt.ai",
+              "entries": [
+                {
+                  "attribution": "justt.ai",
+                  "snippet": "Buy Now, Pay Later (BNPL) is a payment solution that allows cardholders to purchase goods or services immediately while deferring full payment to a later date, ...Read more",
+                  "title": "Buy Now, Pay Later (BNPL): How It Works + Merchant Guide",
+                  "url": "https://justt.ai/glossary/buy-now-pay-later-bnpl/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "kansascityfed.org",
+              "entries": [
+                {
+                  "attribution": "kansascityfed.org",
+                  "snippet": "Dec 1, 2021 \u2014 Some banks and merchant payment processors also partner with BNPL firms to enable merchants to offer BNPL payment options.Read more",
+                  "title": "The Rise of Buy Now, Pay Later: Bank and Payment ...",
+                  "url": "https://www.kansascityfed.org/research/payments-system-research-briefings/the-rise-of-buy-now-pay-later-bank-and-payment-network-perspectives-and-regulatory-considerations/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "technologyadvice.com",
+              "entries": [
+                {
+                  "attribution": "technologyadvice.com",
+                  "snippet": "Apr 15, 2025 \u2014 Buy Now, Pay Later (BNPL) options: PayPal is the only provider on this list that offers a native buy now, pay later option. Other providers ...Read more",
+                  "title": "Top 6 Stripe Alternatives",
+                  "url": "https://technologyadvice.com/blog/sales/stripe-alternatives/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "g2.com",
+              "entries": [
+                {
+                  "attribution": "g2.com",
+                  "snippet": "This type of software can also benefit marketplace providers such as Etsy or eBay, which use BNPL to allow their sellers to receive installment payments.Read more",
+                  "title": "Best Installment Payment and Buy Now Pay Later (BNPL ...",
+                  "url": "https://www.g2.com/categories/installment-payment-and-buy-now-pay-later-bnpl?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "whop.com",
+              "entries": [
+                {
+                  "attribution": "whop.com",
+                  "snippet": "Feb 10, 2026 \u2014 Top payment processors for 2026 include Stripe, PayPal, Adyen, Square, and more. Compare fees, multi-currency support, and features to find ...",
+                  "title": "Top 23 payment processors for 2026: fast, flexible, and ...",
+                  "url": "https://whop.com/blog/payment-processors/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "fastspring.com",
+              "entries": [
+                {
+                  "attribution": "fastspring.com",
+                  "snippet": "Aug 27, 2025 \u2014 Verifone is a Stripe alternative that can act as your MoR or just as a payment service provider. This gives them the flexibility to support ...Read more",
+                  "title": "Stripe Alternatives for 2025: In-Depth Guide and 8 Options",
+                  "url": "https://fastspring.com/blog/stripe-alternatives/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "merchantriskcouncil.org",
+              "entries": [
+                {
+                  "attribution": "merchantriskcouncil.org",
+                  "snippet": "Comparison Graph on BNPL Vendors ; Late Fees, Up to $10 (U.S.), 1.5% of purchase amount, reported to credit bureaus ; Interest Rates, 19.99% -- U.S. 18.9% -- UK ...Read more",
+                  "title": "Buy Now, Pay Later Payments",
+                  "url": "https://merchantriskcouncil.org/learning/resource-center/member-news/blog/2020/buy-now-pay-later-payments?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "elasticpath.com",
+              "entries": [
+                {
+                  "attribution": "elasticpath.com",
+                  "snippet": "Oct 27, 2021 \u2014 8 Top Payment Processors \u00b7 PayPal \u00b7 Stripe \u00b7 Adyen \u00b7 Braintree \u00b7 Cybersource \u00b7 Square \u00b7 Stax \u00b7 Klarna.Read more",
+                  "title": "8 Top Payment Processors",
+                  "url": "https://www.elasticpath.com/blog/8-top-payment-processors?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "papayaglobal.com",
+              "entries": [
+                {
+                  "attribution": "papayaglobal.com",
+                  "snippet": "Nov 5, 2024 \u2014 Discover the top 10 best payment companies that offer innovative solutions for secure, fast, and versatile transactions.",
+                  "title": "Top 10 Best Payments Providers Companies",
+                  "url": "https://www.papayaglobal.com/blog/top-10-best-payment-companies/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "uschamber.com",
+              "entries": [
+                {
+                  "attribution": "uschamber.com",
+                  "snippet": "Oct 27, 2025 \u2014 Learn how BNPL platforms like Klarna, Affirm, and Afterpay use AI, retail partnerships, and debit cards to help merchants attract customers ...",
+                  "title": "Expand Your Small Business with New Buy Now, Pay Later ...",
+                  "url": "https://www.uschamber.com/co/good-company/launch-pad/buy-now-pay-later-small-business?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "thrivecart.com",
+              "entries": [
+                {
+                  "attribution": "thrivecart.com",
+                  "snippet": "Dec 17, 2025 \u2014 Buy Now Pay Later ... PayPal offers several levels of payment processing options for the customer, including Pay Later and PayPal Credit.Read more",
+                  "title": "9 Best Payment Gateways for Your Business",
+                  "url": "https://thrivecart.com/blog/best-payment-gateways/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "wix.com",
+              "entries": [
+                {
+                  "attribution": "wix.com",
+                  "snippet": "Give your customers more financial freedom with installment pay options like Affirm, Afterpay, Clearpay, Klarna, Sezzle and PayPal Pay Later. Add Installments.",
+                  "title": "Buy now pay later for business | Offer Installment pay",
+                  "url": "https://www.wix.com/ecommerce/buy-now-pay-later?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "fiserv.com",
+              "entries": [
+                {
+                  "attribution": "fiserv.com",
+                  "snippet": "Split payments enable consumers to typically pay for small-ticket items in four monthly installments over six weeks, with no interest and no impact on the ...Read more",
+                  "title": "Best Practices for Implementing a Buy Now Pay Later ...",
+                  "url": "https://www.carat.fiserv.com/en-us/resources/best-practices-for-implementing-buy-now-pay-later/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "solidgate.com",
+              "entries": [
+                {
+                  "attribution": "solidgate.com",
+                  "snippet": "Jun 10, 2025 \u2014 Buy Now, Pay Later is a short-term, interest-free loan that lets consumers immediately buy products and split payments into smaller, manageable installments.Read more",
+                  "title": "Buy Now, Pay Later (BNPL) for businesses",
+                  "url": "https://solidgate.com/blog/buy-now-pay-later-bnpl-merchants-guide/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "swipesum.com",
+              "entries": [
+                {
+                  "attribution": "swipesum.com",
+                  "snippet": "Oct 1, 2024 \u2014 We'll explore the top 5 payment processors tailored for small businesses, including Swipesum, PayPal, Square, Shopify Payments, and Quickbooks.Read more",
+                  "title": "Top 5 Payment Processor for Small Business Online",
+                  "url": "https://www.swipesum.com/insights/top-5-payment-processor-for-small-business-online?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "splitit.com",
+              "entries": [
+                {
+                  "attribution": "splitit.com",
+                  "snippet": "Splitit enables the merchant to offer you the ability to pay in installments using your existing credit card with no added fees.",
+                  "title": "Splitit: Buy Now Pay Later - Using Your Own Credit Card",
+                  "url": "https://www.splitit.com/us/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "thinkific.com",
+              "entries": [
+                {
+                  "attribution": "thinkific.com",
+                  "snippet": "Buy Now, Pay Later (BNPL) providers offer flexible and interest-free payment options to your learners, making your offering more affordable.Read more",
+                  "title": "TCommerce: Buy Now, Pay Later (BNPL) Payment Options",
+                  "url": "https://support.thinkific.com/hc/en-us/articles/12448134209303-TCommerce-Buy-Now-Pay-Later-BNPL-Payment-Options?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "chetu.com",
+              "entries": [
+                {
+                  "attribution": "chetu.com",
+                  "snippet": "By increasing purchasing power and providing flexible payment options for subscriptions, event tickets, premium content, and other merchandise, BNPL integration ...",
+                  "title": "Buy Now Pay Later (BNPL) Expands Beyond E-Commerce",
+                  "url": "https://www.chetu.com/blogs/payments/buy-now-pay-later-growth-beyond-ecommerce.php?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "google.com",
+              "entries": [
+                {
+                  "attribution": "google.com",
+                  "snippet": "Oct 2, 2025 \u2014 Google Pay users can pay with Buy Now, Pay Later (BNPL) options from popular providers in the market when they checkout with Google Pay.Read more",
+                  "title": "Buy Now, Pay Later | Google Pay API",
+                  "url": "https://developers.google.com/pay/api/web/guides/resources/bnpl?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "bbb21a18-694e-4938-b852-ddae1c9a2ff3"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "BNPL Payment Processors",
+  "update_time": 1771421537.400573,
+  "voice": null
+}

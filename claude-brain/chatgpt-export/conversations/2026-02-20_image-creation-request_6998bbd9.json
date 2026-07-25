@@ -1,0 +1,164 @@
+{
+  "conversation_id": "6998bbd9-56e8-832b-a9dc-cda571069433",
+  "conversation_template_id": null,
+  "create_time": 1771617243.499673,
+  "current_node": "1923b177-93c7-4f17-83d7-99107d6a0d03",
+  "default_model_slug": "gpt-5-2",
+  "id": "6998bbd9-56e8-832b-a9dc-cda571069433",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "1923b177-93c7-4f17-83d7-99107d6a0d03": {
+      "id": "1923b177-93c7-4f17-83d7-99107d6a0d03",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "create_time": 1771618559.835285,
+        "id": "1923b177-93c7-4f17-83d7-99107d6a0d03",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "2c3dc104-d0ab-48c2-b40d-5b1b1c34cd87"
+        }
+      },
+      "parent": "bbb21901-349f-41c9-aeb6-9ca54020d0c8"
+    },
+    "68fa3ed6-9271-46c9-aba9-f638cea91c68": {
+      "id": "68fa3ed6-9271-46c9-aba9-f638cea91c68",
+      "message": null,
+      "parent": null
+    },
+    "bbb2178d-cf61-4fa1-982b-26961b60fc71": {
+      "id": "bbb2178d-cf61-4fa1-982b-26961b60fc71",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_00000000260471f8875090e504527a01",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 3648,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 242101,
+              "width": 2736
+            },
+            "Using the uploaded image as a reference, create a highly detailed, ultra-clear image of the subject in an outdoor environment just after a light rain. Keep the subject recognizable and sharply in focus, with no motion blur or softness. The scene should feel freshly washed: wet pavement, subtle reflections, and a shallow puddle nearby catching warm sunset light. Use golden-hour lighting with clean highlights and natural contrast, allowing reflections to feel realistic rather than glossy or exaggerated. Add a very light drizzle in the air for atmosphere, delicate and sparse, without obscuring details. The overall image should feel crisp, neat, and cinematic\u2014clean lines, clear textures, and realistic depth\u2014like a high-resolution photograph taken moments after the rain has passed. Avoid haze, fog, heavy rain, lens blur, or dreamy effects."
+          ]
+        },
+        "create_time": 1771617242.879106,
+        "id": "bbb2178d-cf61-4fa1-982b-26961b60fc71",
+        "metadata": {
+          "content_references": [],
+          "image_prompt_id": "post-rain-sunset",
+          "image_results": [],
+          "image_send_uuid": "954c1e74-1a57-4515-b5c9-4617295b5b07"
+        }
+      },
+      "parent": "68fa3ed6-9271-46c9-aba9-f638cea91c68"
+    },
+    "bbb21901-349f-41c9-aeb6-9ca54020d0c8": {
+      "id": "bbb21901-349f-41c9-aeb6-9ca54020d0c8",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_00000000bc2071fd96c26184bffa0c75",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 3648,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 262732,
+              "width": 2736
+            },
+            "Make one for him too"
+          ]
+        },
+        "create_time": 1771618524.632056,
+        "id": "bbb21901-349f-41c9-aeb6-9ca54020d0c8",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "fe853567-ef69-450f-b105-8d0d4e20877e"
+    },
+    "fe853567-ef69-450f-b105-8d0d4e20877e": {
+      "id": "fe853567-ef69-450f-b105-8d0d4e20877e",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "create_time": 1771617280.527632,
+        "id": "fe853567-ef69-450f-b105-8d0d4e20877e",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "fe682001-a1aa-4489-a42a-a2091ad3af47"
+        }
+      },
+      "parent": "bbb2178d-cf61-4fa1-982b-26961b60fc71"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Image Creation Request",
+  "update_time": 1771618563.81616,
+  "voice": null
+}

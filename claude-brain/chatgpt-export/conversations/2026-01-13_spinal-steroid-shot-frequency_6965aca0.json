@@ -1,0 +1,71 @@
+{
+  "conversation_id": "6965aca0-d168-8325-958f-840ef0370826",
+  "conversation_template_id": null,
+  "create_time": 1768271015.743368,
+  "current_node": "1dbb3b92-453f-46e5-855d-61fcd2dbbe26",
+  "default_model_slug": "gpt-5-2",
+  "id": "6965aca0-d168-8325-958f-840ef0370826",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "1dbb3b92-453f-46e5-855d-61fcd2dbbe26": {
+      "id": "1dbb3b92-453f-46e5-855d-61fcd2dbbe26",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "In general, **spinal steroid injections are limited to about 2\u20134 per year per spinal region**. Most physicians space them **at least 6\u201312 weeks apart**.\n\nHere is how it usually breaks down:\n\n### Typical guidelines\n- **Maximum per year:**  \n  - Commonly **3 injections in 12 months**  \n  - Some specialists allow up to **4**, but that is usually the upper limit\n- **Spacing:**  \n  - **Minimum 6 weeks** between injections  \n  - Often **8\u201312 weeks** is preferred\n- **By location:**  \n  - Cervical (neck), thoracic (mid-back), and lumbar (low back) are counted **separately**, but still carefully monitored\n\n### Why there is a limit\nSteroid injections are effective, but repeated use can cause:\n- Bone thinning (osteoporosis)\n- Disc and cartilage degeneration\n- Suppressed immune response\n- Blood sugar spikes (especially important if you are pre-diabetic or diabetic)\n- Hormonal suppression (adrenal fatigue-like symptoms)\n- Reduced effectiveness over time\n\n### How doctors decide if you should repeat one\nA repeat injection is usually considered if:\n- You had **at least 50\u201370% pain relief**\n- Relief lasted **several weeks to months**\n- Symptoms returned and are clearly from the same source\n- You are using injections as part of a broader plan (PT, rehab, posture correction, strength work)\n\nIf an injection only helps a few days or not at all, most pain specialists **do not recommend repeating it**.\n\n### Important nuance\nThese injections are best used as:\n- A **bridge** to healing (physical therapy, nerve calming, strengthening)\n- A way to reduce inflammation enough to allow movement and rehab  \nThey are **not meant to be a long-term stand-alone solution**.\n\nIf you want, tell me:\n- Which area you are getting injections (neck, mid-back, low back)\n- How much relief you got and for how long\n- Whether this is disc-related, nerve compression, or facet joint pain\n\nI can help you gauge whether another shot makes sense or if a different approach would be smarter right now."
+          ]
+        },
+        "create_time": 1768271015.683661,
+        "id": "1dbb3b92-453f-46e5-855d-61fcd2dbbe26",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "89f0e5fc-4f5e-4f0c-b2da-37dc6057aefc"
+        }
+      },
+      "parent": "bbb21c25-013a-45bd-a0c0-7a3fd441ccd9"
+    },
+    "bbb21c25-013a-45bd-a0c0-7a3fd441ccd9": {
+      "id": "bbb21c25-013a-45bd-a0c0-7a3fd441ccd9",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "How often can I get spinal steroid shots"
+          ]
+        },
+        "create_time": 1768271015.438855,
+        "id": "bbb21c25-013a-45bd-a0c0-7a3fd441ccd9",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "f9f66766-d372-48d4-b729-07a0eb8b4288"
+    },
+    "f9f66766-d372-48d4-b729-07a0eb8b4288": {
+      "id": "f9f66766-d372-48d4-b729-07a0eb8b4288",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Spinal Steroid Shot Frequency",
+  "update_time": 1768271029.983329,
+  "voice": null
+}

@@ -1,0 +1,140 @@
+{
+  "conversation_id": "69dbed9a-2a94-8325-b5f1-05e75686a52d",
+  "conversation_template_id": null,
+  "create_time": 1776020892.130648,
+  "current_node": "bbb210bb-a1b0-4eac-94fb-7d93f56365ea",
+  "default_model_slug": "gpt-5-3",
+  "id": "69dbed9a-2a94-8325-b5f1-05e75686a52d",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "864a6b44-61d1-45a2-b142-fc637601a98d": {
+      "id": "864a6b44-61d1-45a2-b142-fc637601a98d",
+      "message": null,
+      "parent": null
+    },
+    "b74f95bc-8c9f-4994-a041-713f132fa0f9": {
+      "id": "b74f95bc-8c9f-4994-a041-713f132fa0f9",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "create_time": 1776020920.036583,
+        "id": "b74f95bc-8c9f-4994-a041-713f132fa0f9",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "74f04fc0-eb97-40f9-a888-3c7515bc6d0b"
+        }
+      },
+      "parent": "bbb215e0-4fbe-4ba7-bc62-98f2cec4cfe8"
+    },
+    "bbb210bb-a1b0-4eac-94fb-7d93f56365ea": {
+      "id": "bbb210bb-a1b0-4eac-94fb-7d93f56365ea",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "No put me in all four frames"
+          ]
+        },
+        "create_time": 1776021073.481884,
+        "id": "bbb210bb-a1b0-4eac-94fb-7d93f56365ea",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "b74f95bc-8c9f-4994-a041-713f132fa0f9"
+    },
+    "bbb215e0-4fbe-4ba7-bc62-98f2cec4cfe8": {
+      "id": "bbb215e0-4fbe-4ba7-bc62-98f2cec4cfe8",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_00000000cfbc722fa3862803a73033ff",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 1021,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 221791,
+              "width": 1333
+            },
+            {
+              "asset_pointer": "sediment://file_00000000c130722fbc92294297026abb",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 3648,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 424352,
+              "width": 2736
+            },
+            "Make this image, but with me in it"
+          ]
+        },
+        "create_time": 1776020891.266784,
+        "id": "bbb215e0-4fbe-4ba7-bc62-98f2cec4cfe8",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "image_send_uuid": "71fccd17-3864-4408-bb8f-c81fa86b8367"
+        }
+      },
+      "parent": "864a6b44-61d1-45a2-b142-fc637601a98d"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Image with me",
+  "update_time": 1776021085.634138,
+  "voice": null
+}

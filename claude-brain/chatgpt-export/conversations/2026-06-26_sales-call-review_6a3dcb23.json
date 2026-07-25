@@ -1,0 +1,570 @@
+{
+  "conversation_id": "6a3dcb23-47d4-83e8-a57c-52583539e080",
+  "conversation_template_id": "g-69e1104abd1c8191a1d85cd576cd9edf",
+  "create_time": 1782434608.599781,
+  "current_node": "13efc43a-ec8f-41ab-b159-33a4e80ff9c3",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a3dcb23-47d4-83e8-a57c-52583539e080",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "00f3b2d3-038e-4eeb-b265-64de496c1475": {
+      "id": "00f3b2d3-038e-4eeb-b265-64de496c1475",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here's a polished intro you can place at the top of the training document:\n\n> **This is an excellent example of what a high-converting consultation should sound like.** Notice how the closer doesn't rush into pitching the offer\u2014instead, she takes the time to deeply understand the prospect's business, builds trust through thoughtful questions, and uncovers the real challenges beneath the surface. Throughout the call, she leads with confidence, validates what's already working, and positions the solution as the logical next step rather than a hard sell. As you listen, pay close attention to her pacing, discovery, and ability to guide the conversation while keeping the prospect feeling heard and understood. These are the skills that consistently create high-converting sales conversations."
+          ]
+        },
+        "create_time": 1782434962.410714,
+        "id": "00f3b2d3-038e-4eeb-b265-64de496c1475",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "ff6ac982-705f-4a28-bda8-4bc658f0b61e"
+        }
+      },
+      "parent": "a16a9b24-1a67-496e-97fb-8d3a5b6d8e1e"
+    },
+    "13efc43a-ec8f-41ab-b159-33a4e80ff9c3": {
+      "id": "13efc43a-ec8f-41ab-b159-33a4e80ff9c3",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "It looks like the same transcript was uploaded again\u2014the content is identical to the onboarding call with Natasha that starts with:\n\n> \"Before we move forward, Natasha, did you have any other questions, concerns, thoughts, ideas?\" \ue200filecite\ue202turn3file0\ue201\n\nSo I don't think the new sales call made it through.\n\nPlease upload the correct transcript (or paste it directly into the chat), and I'll produce the same training document format as before:\n\n- **Introduction Paragraph**\n- **Overall Score (/80)**\n- **Score by Domain**\n- **\ud83d\udfe2 What They Did Extremely Well**\n- **\ud83d\udd34 Top 3 Coaching Opportunities**\n- **Biggest Lessons for Your Closers**\n- **Final Take**\n\nin the same polished style as the first review."
+          ]
+        },
+        "create_time": 1782435298.290172,
+        "id": "13efc43a-ec8f-41ab-b159-33a4e80ff9c3",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": null,
+              "cloud_doc_url": null,
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_00000000fd0c71f698c3b7e72c669094",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "9f02caed-fb2b-46cb-9780-fb4dc78f2827",
+                "message_index": 3
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "Pasted text.txt",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "a6ed0553-add3-47ad-9d04-51ea1b32f32b"
+        }
+      },
+      "parent": "804064b8-b048-46f5-975d-e3c2664e6da9"
+    },
+    "2272c6c0-84e5-4da0-b0b7-d5756698e43a": {
+      "id": "2272c6c0-84e5-4da0-b0b7-d5756698e43a",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "## Introduction\n\n**This is an excellent example of what a world-class onboarding and commitment call should sound like after the sale has been made.** Notice how the closer doesn't shift into a transactional \"paperwork\" mindset. Instead, she continues building certainty, reinforces the client's decision, creates excitement about what's ahead, and makes the onboarding process feel like the beginning of a partnership\u2014not the end of a sale. Throughout the call, she keeps momentum high, answers questions with confidence, sets clear expectations, and continuously paints the vision for what's possible. This is how you reduce buyer's remorse, increase implementation, and create clients who are excited to engage from day one. \ue200filecite\ue202turn1file0\ue201\n\n---\n\n# Overall Score: **77/80** \u2705 Dialed In\n\n| Domain | Score | Notes |\n|--------|------:|------|\n| Authority & Presence | **19/20** | Calm, confident, highly relational while remaining the expert. |\n| Clarity & Onboarding Presentation | **20/20** | Outstanding expectation setting and next-step communication. |\n| Excitement & Client Buy-In | **19/20** | Continuously reinforced the client's decision and built excitement. |\n| Objection Handling & Client Experience | **19/20** | Every concern was handled confidently while maintaining momentum. |\n\n---\n\n# \ud83d\udfe2 What She Did Extremely Well\n\n### 1. She reinforced the buying decision immediately.\n\nRather than treating this as an administrative call, she reminded Natasha why she made the right decision.\n\n> \"We are so excited to have you on board... you kind of seem like the perfect fit.\"\n\nThis immediately reduces buyer's remorse and makes the client feel chosen\u2014not just sold.\n\n---\n\n### 2. She made onboarding feel valuable.\n\nMany companies simply send documents.\n\nBethany explained *why* every onboarding step mattered.\n\nFor example:\n\n> \"The sooner the better... that allows us to get your market blueprint completed.\"\n\nInstead of paperwork...\n\n\u2026it became progress.\n\nThat's a huge difference psychologically.\n\n---\n\n### 3. She consistently painted the future.\n\nThroughout the conversation she naturally referenced:\n\n- future events\n- partnerships\n- marketing\n- memberships\n- sales training\n- networking\n- grand reopening\n- team development\n\nShe kept expanding Natasha's vision.\n\nThe client never felt like she was buying coaching.\n\nShe felt like she was building the future of her business.\n\n---\n\n### 4. She removed friction before it appeared.\n\nEvery time there was a potential concern she answered it before it became a problem.\n\nExamples:\n\n> \"If you can't upload everything right away, that's okay.\"\n\n> \"We'll work at your pace.\"\n\n> \"We'll move as fast as you want.\"\n\nThat flexibility dramatically lowers implementation resistance.\n\n---\n\n### 5. She treated the relationship like a partnership.\n\nOne of the strongest themes throughout the call was:\n\n> \"We're excited.\"\n\n> \"We're going to build this.\"\n\n> \"We're going to rock the next 90 days.\"\n\nThe language consistently communicated **we**, not **you**.\n\nThat creates ownership on both sides.\n\n---\n\n# \ud83d\udd34 Three Coaching Opportunities\n\n## 1. Trim some administrative explanations.\n\nA few onboarding explanations became more detailed than necessary.\n\nFor example, lengthy explanations around:\n\n- EIN verification\n- government phone approvals\n- CRM protection\n- Slack logistics\n\nCould be condensed.\n\nA tighter version might sound like:\n\n> \"We'll handle all of the technical setup for you. The onboarding checklist simply gives us the access we need so we can start producing results immediately.\"\n\nLess process.\n\nMore outcome.\n\n---\n\n## 2. Redirect conversational tangents slightly faster.\n\nThe AI discussion...\n\nCars...\n\nChildren...\n\nTechnology...\n\nWhile enjoyable, added nearly ten minutes to the meeting.\n\nRelationship building is valuable, but maintaining momentum keeps energy high.\n\n---\n\n## 3. Finish with one stronger vision statement.\n\nThe ending was positive.\n\nIt could become unforgettable.\n\nSomething like:\n\n> \"Three months from now, my goal is for your team to be more confident, your marketing to be producing consistently, and for you to finally feel like you're running the business instead of the business running you.\"\n\nThat gives the client one final emotional picture to leave with.\n\n---\n\n# Biggest Lessons for Your Team\n\n### \u2705 The sale isn't over when the payment is made.\n\nThis call is a perfect example of how onboarding creates long-term client success.\n\n---\n\n### \u2705 Reinforce every buying decision.\n\nPeople naturally experience uncertainty after investing.\n\nGreat closers don't ignore it.\n\nThey increase certainty.\n\n---\n\n### \u2705 Make implementation feel exciting.\n\nBethany constantly connected every onboarding task to a future result.\n\nClients implement faster when they understand *why* each step matters.\n\n---\n\n### \u2705 Continue leading.\n\nShe never became passive after the agreement was signed.\n\nShe continued directing:\n\n- next meetings\n- onboarding\n- scheduling\n- team involvement\n- implementation timeline\n\nLeadership continues after the close.\n\n---\n\n### \u2705 Build a partnership\u2014not a customer relationship.\n\nOne of the biggest reasons this onboarding feels so strong is because Natasha never feels like she has been handed off.\n\nShe feels like she has gained a team that's genuinely invested in her success.\n\n## Final Take\n\nThis is an outstanding onboarding call and one every closer and client success team member should study. It demonstrates that the client experience doesn't end when the contract is signed\u2014it begins there. Bethany does an exceptional job of reinforcing certainty, creating excitement, removing implementation friction, and setting clear expectations for what comes next. By the end of the conversation, Natasha isn't just committed financially\u2014she's emotionally invested in the partnership, eager to get started, and confident she's made the right decision. That's exactly how great onboarding should feel. \ue200filecite\ue202turn1file0"
+          ]
+        },
+        "create_time": 1782435140.234162,
+        "id": "2272c6c0-84e5-4da0-b0b7-d5756698e43a",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": null,
+              "cloud_doc_url": null,
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_00000000aef871f6a841f69c952ca532",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "3165330f-e483-400f-83f4-2e0511e60c6a",
+                "message_index": 1
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "Pasted text.txt",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            },
+            {
+              "alt": null,
+              "prefix": null,
+              "prompt_text": null,
+              "type": "hidden"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "1fb4da97-564e-4a26-81c4-26fe8fc25756"
+        }
+      },
+      "parent": "6e62b2fc-2329-491c-91f9-d5bb353bbb06"
+    },
+    "50a61bbb-de54-4772-98d2-8e0d6021b235": {
+      "id": "50a61bbb-de54-4772-98d2-8e0d6021b235",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "please review this amazing sales call, I'll be sending this to our closers so they can review it and learn from it: "
+          ]
+        },
+        "create_time": 1782434608.614,
+        "id": "50a61bbb-de54-4772-98d2-8e0d6021b235",
+        "metadata": {
+          "attachments": [
+            {
+              "file_token_size": 14175,
+              "id": "file_00000000d25c71f69a6c39ad42700035",
+              "is_big_paste": true,
+              "name": "Pasted text.txt",
+              "size": 56302,
+              "source": "local"
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "5f1ee845-8934-4bbf-bb8b-2cabeabf132b": {
+      "id": "5f1ee845-8934-4bbf-bb8b-2cabeabf132b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "LET'S GO. This is a **very strong consultation** and absolutely worth using as a training example for your closers. It isn't perfect, but it's an excellent demonstration of how to build trust, diagnose the real business problem, and lead a prospect into a decision. \ue200filecite\ue202turn0file0\ue201\n\n# Overall Score: **72/80** \u2705 Dialed In\n\n| Domain | Score | Notes |\n|--------|------:|------|\n| Authority & Presence | **18/20** | Strong leadership, calm certainty, excellent rapport. |\n| Clarity & Plan Presentation | **17/20** | Clear diagnosis and compelling strategy, with a few opportunities to simplify further. |\n| Urgency & Decision Guidance | **18/20** | Guided the conversation well and stayed in control through hesitation. |\n| Pricing Delivery & Objection Handling | **19/20** | Confident investment discussion and handled concerns without becoming defensive. |\n\n---\n\n# \ud83d\udfe2 What She Did Extremely Well\n\n### 1. She framed the conversation immediately.\n\nInstead of jumping into a pitch, she established exactly how the meeting would work.\n\n> \"I want to understand exactly where your practice is today... Ultimately I just want to see if we're a good fit...\"\n\nThis instantly lowered resistance while positioning herself as the guide rather than someone trying to make a sale.\n\n---\n\n### 2. She let the prospect talk.\n\nNatalie spoke for long stretches early in the call.\n\nThat was intentional.\n\nRather than interrupting, Bethany gathered:\n\n- business history\n- revenue\n- team dynamics\n- leadership struggles\n- marketing\n- hiring\n- emotional pain\n\nBy the time she presented the solution, the prospect had already sold herself on needing help.\n\n---\n\n### 3. She diagnosed before prescribing.\n\nOne of the strongest moments:\n\n> \"Something is working... you're doing $2.5 million. We don't need to turn your business upside down. We need to identify the gaps.\"\n\nThat's incredibly effective.\n\nShe didn't manufacture problems.\n\nShe acknowledged success first.\n\nThen positioned optimization instead of reinvention.\n\nThat dramatically reduces resistance.\n\n---\n\n### 4. She continuously tied problems together.\n\nRather than treating every issue separately, she connected them.\n\nFor example:\n\n- injector turnover\n- weak management\n- poor retention\n- marketing inefficiency\n- lack of memberships\n\nAll became symptoms of one larger operational system.\n\nThat creates a much stronger case for a comprehensive solution.\n\n---\n\n### 5. She sold confidence instead of tactics.\n\nThroughout the conversation she repeatedly communicated:\n\n> \"We see this every day.\"\n\n> \"We've helped owners just like you.\"\n\n> \"It's not an overhaul.\"\n\nThat language increases certainty without overloading the prospect with unnecessary detail, which aligns well with strong consult principles around authority and value presentation. \ue200filecite\ue202turn0file4\ue201 \ue200filecite\ue202turn0file1\ue201\n\n---\n\n# \ud83d\udd34 Three Coaching Opportunities\n\n## 1. She occasionally allowed long tangents.\n\nNatalie is naturally verbose.\n\nThere were several five-minute stretches discussing:\n\n- California politics\n- skincare\n- previous employees\n- management stories\n\nA stronger redirect would have been:\n\n> \"That's really helpful context. Let me bring us back to something important because I think it's at the root of everything you're describing...\"\n\nThat keeps momentum high while still making the prospect feel heard.\n\n---\n\n## 2. The strategy section could have been more personalized.\n\nBethany explained what Luxor does well.\n\nHowever, an even stronger close would have sounded like:\n\n> \"Imagine six months from now...\n>\n> You aren't worrying about one injector leaving because your systems protect the business.\n>\n> Your memberships create predictable recurring revenue.\n>\n> Your managers actually lead the team.\n>\n> And you're back over the $3 million mark.\"\n\nPeople buy the future they're stepping into, not just the process they'll go through. \ue200filecite\ue202turn0file1\ue201\n\n---\n\n## 3. Tighten the founder story.\n\nHer personal background establishes credibility, but it runs several minutes.\n\nA condensed version would preserve authority while maintaining momentum:\n\n> \"I've operated multi-million-dollar aesthetic practices, led large teams, and spent years solving exactly these kinds of operational problems. That's why I know the issues you're describing are fixable.\"\n\nThe remainder of the call could then stay focused on the prospect.\n\n---\n\n# Biggest Lessons for Your Closers\n\n### \u2705 Diagnose before presenting.\n\nThis call is a masterclass in understanding the business before discussing the offer.\n\n---\n\n### \u2705 Normalize the client's situation.\n\nBethany repeatedly communicated:\n\n> \"We see this all the time.\"\n\nThat lowers shame.\n\nClients buy faster when they stop feeling like they're uniquely broken.\n\n---\n\n### \u2705 Validate what is already working.\n\nInstead of saying everything needed fixing, she said:\n\n> \"You're already doing $2.5 million.\"\n\nThat acknowledgement earned the right to discuss improvements.\n\n---\n\n### \u2705 Sell optimization, not reconstruction.\n\nOne of the most persuasive themes throughout the call was:\n\n> \"We're not coming in to flip your business upside down.\"\n\nFor established business owners, that's a much safer and more believable message than promising a complete overhaul.\n\n---\n\n### \u2705 Keep the emotional temperature calm.\n\nThere was never pressure.\n\nNever urgency for urgency's sake.\n\nNever talking over the prospect.\n\nShe remained confident, relaxed, and in control throughout, which reinforced her authority. \ue200filecite\ue202turn0file4\ue201\n\n# Final Take\n\nThis is the kind of consultation I'd want every closer to study because it demonstrates several high-level behaviors consistently:\n\n- Strong framing from the outset.\n- Excellent discovery that uncovers both business and emotional pain.\n- Clear authority without coming across as combative.\n- A recommendation positioned as optimization rather than reinvention.\n- Confident movement toward the next step while maintaining rapport.\n\nIf you're using this as a training asset, I'd encourage your closers to pay special attention to **how little Bethany talks about the offer until she fully understands the prospect's world**. That discipline is a major reason the conversation feels consultative rather than transactional."
+          ]
+        },
+        "create_time": 1782434613.298926,
+        "id": "5f1ee845-8934-4bbf-bb8b-2cabeabf132b",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": null,
+              "cloud_doc_url": null,
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_00000000d25c71f69a6c39ad42700035",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "46262d40-1559-4281-a53d-77323aa6c7b4",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "Pasted text.txt",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            },
+            {
+              "alt": null,
+              "cloud_doc_url": null,
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_000000005b04720c8ad5c175be458f8b",
+              "input_pointer": {
+                "file_index": 4,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "be51e2c6-8a72-4399-a877-ae057c41c9bb",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "KB_02_ The Certainty Manual (Authority & Presence).pdf",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            },
+            {
+              "alt": null,
+              "cloud_doc_url": null,
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_00000000be58720cadf1153c07832f8e",
+              "input_pointer": {
+                "file_index": 1,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "9b3989b0-9fbf-42b1-966a-8651392f1e2c",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "KB_04_ The Value Maximizer (Transformation & Clarity).pdf",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            },
+            {
+              "alt": null,
+              "cloud_doc_url": null,
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_00000000be58720cadf1153c07832f8e",
+              "input_pointer": {
+                "file_index": 1,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "9b3989b0-9fbf-42b1-966a-8651392f1e2c",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "KB_04_ The Value Maximizer (Transformation & Clarity).pdf",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            },
+            {
+              "alt": null,
+              "cloud_doc_url": null,
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_000000005b04720c8ad5c175be458f8b",
+              "input_pointer": {
+                "file_index": 4,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "be51e2c6-8a72-4399-a877-ae057c41c9bb",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "KB_02_ The Certainty Manual (Authority & Presence).pdf",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "bae63ce0-d59a-41f5-a3f8-9ac03e11c6db"
+        }
+      },
+      "parent": "50a61bbb-de54-4772-98d2-8e0d6021b235"
+    },
+    "6e62b2fc-2329-491c-91f9-d5bb353bbb06": {
+      "id": "6e62b2fc-2329-491c-91f9-d5bb353bbb06",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "OK NOW DO THE SAME TYPE  OF DIAGNOSIS AND INTRO PARAGRAPH FOR THIS CALL DONE RIGHT: "
+          ]
+        },
+        "create_time": 1782435140.645,
+        "id": "6e62b2fc-2329-491c-91f9-d5bb353bbb06",
+        "metadata": {
+          "attachments": [
+            {
+              "file_token_size": 10371,
+              "id": "file_00000000aef871f6a841f69c952ca532",
+              "is_big_paste": true,
+              "name": "Pasted text.txt",
+              "size": 39509,
+              "source": "local"
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "00f3b2d3-038e-4eeb-b265-64de496c1475"
+    },
+    "804064b8-b048-46f5-975d-e3c2664e6da9": {
+      "id": "804064b8-b048-46f5-975d-e3c2664e6da9",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "create_time": 1782435298.847,
+        "id": "804064b8-b048-46f5-975d-e3c2664e6da9",
+        "metadata": {
+          "attachments": [
+            {
+              "file_token_size": 10371,
+              "id": "file_00000000fd0c71f698c3b7e72c669094",
+              "is_big_paste": true,
+              "name": "Pasted text.txt",
+              "size": 39509,
+              "source": "local"
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "ddf1d2b5-5dc4-48ed-8717-b4171e1c87e8"
+    },
+    "a16a9b24-1a67-496e-97fb-8d3a5b6d8e1e": {
+      "id": "a16a9b24-1a67-496e-97fb-8d3a5b6d8e1e",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "WRTIE ME A SMALL INTRO PARAGRAPH EXPLING THIS TYPE OF CALL "
+          ]
+        },
+        "create_time": 1782434963.036,
+        "id": "a16a9b24-1a67-496e-97fb-8d3a5b6d8e1e",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "5f1ee845-8934-4bbf-bb8b-2cabeabf132b"
+    },
+    "b33c0561-83c3-42b4-a1e8-0202879f7d3e": {
+      "id": "b33c0561-83c3-42b4-a1e8-0202879f7d3e",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "WHOOOOPS THIS WAS THE CALL I MEANT TO GIVE YOU: "
+          ]
+        },
+        "create_time": 1782435279.129,
+        "id": "b33c0561-83c3-42b4-a1e8-0202879f7d3e",
+        "metadata": {
+          "attachments": [
+            {
+              "file_token_size": 10371,
+              "id": "file_00000000251c71f6acfaf389abc67904",
+              "is_big_paste": true,
+              "name": "Pasted text.txt",
+              "size": 39509,
+              "source": "local"
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "2272c6c0-84e5-4da0-b0b7-d5756698e43a"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "ddf1d2b5-5dc4-48ed-8717-b4171e1c87e8": {
+      "id": "ddf1d2b5-5dc4-48ed-8717-b4171e1c87e8",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "It looks like the file that came through is actually the **same onboarding call** (Natasha, onboarding, Slack, onboarding checklist, Meta ads, etc.) that we just reviewed. It begins with:\n\n> \"Before we move forward, Natasha, did you have any other questions, concerns, thoughts, ideas?\" \ue200filecite\ue202turn2file0\ue201\n\nand continues through the onboarding process, scheduling calls, Slack setup, and implementation planning.\n\nIf you meant to send a **different sales consultation**, it looks like the upload didn't replace the previous file.\n\nGo ahead and upload the correct transcript, and I'll give you the exact same format:\n\n- **Introduction paragraph**\n- **Overall score (out of 80)**\n- **Score by domain**\n- **\ud83d\udfe2 What They Did Well**\n- **\ud83d\udd34 Top Coaching Opportunities**\n- **Biggest Lessons for Your Closers**\n- **Final Take**\n\nusing the same style and level of detail as the previous review."
+          ]
+        },
+        "create_time": 1782435278.625751,
+        "id": "ddf1d2b5-5dc4-48ed-8717-b4171e1c87e8",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": null,
+              "cloud_doc_url": null,
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_00000000251c71f6acfaf389abc67904",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "98f898a9-8876-4c4d-8124-e39dc6a6d901",
+                "message_index": 2
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "Pasted text.txt",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "534f5e0f-07e1-409d-a9a9-3994e1bb7864"
+        }
+      },
+      "parent": "b33c0561-83c3-42b4-a1e8-0202879f7d3e"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Sales Call Review",
+  "update_time": 1782435302.713939,
+  "voice": null
+}

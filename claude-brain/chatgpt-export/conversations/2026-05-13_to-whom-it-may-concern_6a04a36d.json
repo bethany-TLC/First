@@ -1,0 +1,147 @@
+{
+  "conversation_id": "6a04a36d-f144-83ea-9b84-3b9537e7bf65",
+  "conversation_template_id": null,
+  "create_time": 1778688904.311385,
+  "current_node": "aee657d2-beea-4daa-aab3-de991759f43c",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a04a36d-f144-83ea-9b84-3b9537e7bf65",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "18eacff0-bb11-4474-b0c1-4f3c506e1cb5": {
+      "id": "18eacff0-bb11-4474-b0c1-4f3c506e1cb5",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "To Whom It May Concern,\n\nOur patient may return to work on light duty with the following restrictions:\n\n\u2022 No lifting, pushing, or pulling greater than 12 pounds  \n\u2022 Remote work is recommended when possible  \n\u2022 Restrictions are contingent upon the patient\u2019s pain levels, medication use, and ongoing recovery status pending upcoming MRI imaging and follow-up evaluation in June 2026  \n\nIf the patient is experiencing increased pain requiring heavy pain medication, she should not operate a vehicle and should remain remote/off-site if possible until symptoms improve.\n\nAt this time, a definitive end date for restrictions cannot yet be determined, as recovery and work capacity remain dependent on clinical progress and upcoming diagnostic review.\n\nPlease contact our office with any questions.\n\nSincerely,  \n[Provider Name / Practice Name]"
+          ]
+        },
+        "create_time": 1778688904.13235,
+        "id": "18eacff0-bb11-4474-b0c1-4f3c506e1cb5",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "754b042f-312e-453c-990e-8453981db62d"
+        }
+      },
+      "parent": "bbb212cb-d6b9-47a7-a9f9-ae8068f23cb5"
+    },
+    "aee657d2-beea-4daa-aab3-de991759f43c": {
+      "id": "aee657d2-beea-4daa-aab3-de991759f43c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a more polished and professional version that still sounds human and apologetic:\n\n:::writing{variant=\"email\" id=\"48271\" subject=\"Updated Work Restrictions\"}\nI apologize for the delay in getting this over to you. I had to follow up with the surgeon\u2019s office multiple times by phone and email before they were able to provide the documentation.\n\nMy surgeon is taking a conservative approach with my recovery, but I explained that I do need to begin resuming work responsibilities in some capacity. Based on that conversation, he agreed to allow me to return with restrictions in place.\n\nWith that said, I would like to resume coming into the office on Mondays and begin handling the mail again. If at any point I am unable to drive due to pain or medication, I will communicate that as soon as possible.\n\nThank you again for your patience and understanding.\n:::"
+          ]
+        },
+        "create_time": 1778700375.004545,
+        "id": "aee657d2-beea-4daa-aab3-de991759f43c",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "df5bccbe-87b1-4bac-aa0d-b6e742c54257"
+        }
+      },
+      "parent": "bbb21b75-07cf-4179-a43a-5a7d815a37f0"
+    },
+    "b70bf80e-50cc-4335-9019-fa8cfae028df": {
+      "id": "b70bf80e-50cc-4335-9019-fa8cfae028df",
+      "message": null,
+      "parent": null
+    },
+    "bbb212cb-d6b9-47a7-a9f9-ae8068f23cb5": {
+      "id": "bbb212cb-d6b9-47a7-a9f9-ae8068f23cb5",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_000000001288722fa69b9ff04fd44b42",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 2244,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 136888,
+              "width": 1008
+            },
+            "Create the exact verbage for to whom it may concern"
+          ]
+        },
+        "create_time": 1778688903.845014,
+        "id": "bbb212cb-d6b9-47a7-a9f9-ae8068f23cb5",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_000000001288722fa69b9ff04fd44b42",
+              "mime_type": "image/png",
+              "name": "1000017873.png",
+              "size": 136888
+            }
+          ],
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "b70bf80e-50cc-4335-9019-fa8cfae028df"
+    },
+    "bbb21b75-07cf-4179-a43a-5a7d815a37f0": {
+      "id": "bbb21b75-07cf-4179-a43a-5a7d815a37f0",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Please rewrite this email to sound more formal but still apologetic:Sorry this took so long. I had to call and email them everyday to get something. \n\nMy surgeron is being conservative but I told him I have to resume work at some capacity so he said ok but with restrictions. \n\nWith this said, I'd like to return to the office Mondays and go back to getting the mail. And if for some reason I can't drive I'll let you know. "
+          ]
+        },
+        "create_time": 1778700374.761427,
+        "id": "bbb21b75-07cf-4179-a43a-5a7d815a37f0",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "18eacff0-bb11-4474-b0c1-4f3c506e1cb5"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "To Whom It May Concern",
+  "update_time": 1778700379.392243,
+  "voice": null
+}

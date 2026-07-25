@@ -1,0 +1,232 @@
+{
+  "conversation_id": "69fe3111-5448-83ea-8b28-cec449eb83e7",
+  "conversation_template_id": null,
+  "create_time": 1778266387.162788,
+  "current_node": "af970e27-aaa0-431c-9673-a4e576a33987",
+  "default_model_slug": "gpt-5-3",
+  "id": "69fe3111-5448-83ea-8b28-cec449eb83e7",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "386a8559-c26b-4992-bd80-ff8896773c2f": {
+      "id": "386a8559-c26b-4992-bd80-ff8896773c2f",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "now tkae the trasncript from above and this script and maek it fit more along the lines of how i did it, but make it short and topic based so i can just fly through a one pager of highights we need to go ovr on next kick off call: "
+          ]
+        },
+        "create_time": 1778267879.491,
+        "id": "386a8559-c26b-4992-bd80-ff8896773c2f",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_000000000594720c8ce87283cc06e2b7",
+              "is_big_paste": false,
+              "library_file_id": "libfile_b76d7fa0e4f8819187d2305596504ac3",
+              "mime_type": "application/pdf",
+              "name": "LUXORA KICKOFF CALL SCRIPT (2).pdf",
+              "size": 117416,
+              "source": "library"
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "e828616f-eca1-4075-9b7a-2e3a9d7309b1"
+    },
+    "92088ef7-34ce-4f8b-8dc1-a2bb771030cf": {
+      "id": "92088ef7-34ce-4f8b-8dc1-a2bb771030cf",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Subject: Kickoff Recap + Next Steps\n\nHi Dr. Hyder,\n\nI wanted to give you a quick recap of our kickoff call and share how everything is moving forward.\n\nOverall, the call went really well. We connected with Ashley and Alexandra, walked through what the next 90 days will look like, and aligned on the biggest opportunities inside the practice right now. The main areas we\u2019ll be focusing on first are increasing utilization of existing services and devices, improving membership and package performance, tightening follow-up and retention systems, and getting stronger visibility and structure around scheduling and patient flow. There is a lot of untapped potential, especially in Medford, and we\u2019re excited about what we can build there.\n\nWe also outlined the structure of how we\u2019ll be working together:\n- Biweekly strategy calls (we\u2019ve tentatively set Thursdays at 9:30am EST)\n- A dedicated tech call with our integration lead (Jacques) to handle CRM, tracking, and automation\n- A Market Blueprint review call where we\u2019ll present detailed data and strategy for both locations\n\nWe are currently building out your Market Blueprint now, which will guide a lot of the initial decisions around positioning, offers, and growth opportunities.\n\nI\u2019ve also attached the revised agreement. The updated section has been highlighted so you can easily review what was adjusted.\n\nIn terms of homework, we\u2019ve asked the team to:\n- Complete the onboarding checklist fully, including access details and key business inputs  \n- Begin working through the KPI and LTV tracking so we have a clear baseline  \n- Upload all assets, logins, and relevant materials into Slack  \n- Start reviewing and following the implementation checklist so we can move quickly  \n\nWe\u2019ve also given them access to all playbooks and frameworks they\u2019ll be using throughout the process.\n\nOne thing I want to make sure we\u2019re aligned on is your level of involvement. Going forward, how hands-on would you like to be?  \n\nWe\u2019re happy to:\n- Keep you closely involved in strategy and join key calls  \n- Or provide structured updates and summaries while working more directly with the team  \n\nIf helpful, I can also send you biweekly updates after each call so you have full visibility into progress, wins, and next steps.\n\nJust let me know what level of interaction you\u2019d prefer so we can align with your expectations.\n\nWe\u2019re genuinely excited about this partnership. There is a lot of opportunity here, and the team is great. We\u2019re looking forward to building something strong with them.\n\nTalk soon,  \nBethany"
+          ]
+        },
+        "create_time": 1778266386.953561,
+        "id": "92088ef7-34ce-4f8b-8dc1-a2bb771030cf",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "49381ff6-7a98-48ba-92b5-76875e26f175"
+        }
+      },
+      "parent": "bf46cb09-e259-4069-a5e1-a03daa8a72fd"
+    },
+    "af970e27-aaa0-431c-9673-a4e576a33987": {
+      "id": "af970e27-aaa0-431c-9673-a4e576a33987",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Got it. Here\u2019s a **clean, reusable version** you can use on any kickoff call. It keeps your tone, structure, and authority but removes anything client-specific.\n\n---\n\n## **KICKOFF CALL 2 \u2013 HIGH LEVEL FLOW (UNIVERSAL)**\n\n### **1. OPENING FRAME (SET THE TONE)**\n- This is a partnership, not a passive service  \n- We move fast, communicate fast, and implement fast  \n- Slack is our command center  \n\n---\n\n### **2. QUICK RECAP (WHAT WE TYPICALLY SEE)**\n- Most businesses we work with are:\n  - Not fully utilizing what they already have  \n  - Missing structure in follow-up and booking  \n  - Leaving revenue on the table in retention  \n  - Operating without clear visibility on numbers  \n\nAnchor:  \n\ud83d\udc49 It\u2019s usually not a lead problem. It\u2019s a system problem.\n\n---\n\n### **3. BIG OPPORTUNITY AREAS**\n- **Utilization**\n  - Services, team, or assets not being fully leveraged  \n\n- **Conversion**\n  - Leads not booking or showing  \n  - Consults not consistently closing  \n\n- **Retention**\n  - No clear system for repeat visits  \n  - No strong membership or package structure  \n\n---\n\n### **4. REVENUE LEAKS (CORE DIAGNOSIS)**\n- Slow or inconsistent follow-up  \n- Weak booking systems  \n- No structured client journey  \n- Lack of ownership across team roles  \n- No clear offer strategy  \n\nAnchor:  \n\ud83d\udc49 Fix these and revenue increases without needing more traffic.\n\n---\n\n### **5. OFFER + CAMPAIGN DIRECTION**\n- We do not compete on price  \n- We build **authority-driven offers**  \n\nFocus:\n- 1\u20132 core \u201chero\u201d offers  \n- Clear messaging tied to outcomes  \n- Campaigns that feed into higher value services  \n\n---\n\n### **6. HOW THIS FITS INTO OUR SYSTEM**\n- **Market Blueprint** \u2192 positioning, messaging, strategy  \n- **Conversion Engine** \u2192 booking, follow-up, pipeline  \n- **Revenue Multiplier** \u2192 retention, memberships, LTV  \n\n---\n\n### **7. TIMELINE (SIMPLE + CLEAR)**\n**Weeks 1\u20132**\n- Finalize strategy + messaging  \n\n**Weeks 2\u20133**\n- Tech + systems setup  \n- Campaign + offer build  \n\n**Weeks 3\u20134**\n- Launch  \n\n**Weeks 4\u201312**\n- Optimize, scale, and build retention  \n\n---\n\n### **8. TEAM ALIGNMENT**\n- Front-facing team \u2192 booking + experience  \n- Providers / sales \u2192 conversion  \n- Leadership \u2192 decisions + accountability  \n\nAnchor:  \n\ud83d\udc49 We guide strategy, but execution has to happen internally.\n\n---\n\n### **9. NEXT STEPS**\n- Complete onboarding fully  \n- Upload assets + logins  \n- Confirm access to systems  \n- Start baseline KPI tracking  \n- Stay active in Slack  \n\n---\n\n### **10. CALL STRUCTURE GOING FORWARD**\n- Biweekly strategy calls (non-negotiable)  \n- Tech/setup call  \n- Ongoing Slack communication  \n\n---\n\n### **CLOSE**\n\u201cYou\u2019ve already built something strong.  \nNow we\u2019re going to structure it, scale it, and make it predictable.\u201d\n\n\ud83d\udc49 If you stay engaged and implement, this works.\n\n---\n\nIf you want, I can also create:\n- a **super punchy 60-second version** for when you\u2019re tight on time  \n- or a **slide deck version** that matches Luxora branding"
+          ]
+        },
+        "create_time": 1778268019.378043,
+        "id": "af970e27-aaa0-431c-9673-a4e576a33987",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "e2815191-3ca7-496e-b21a-fcb7f102f0ed"
+        }
+      },
+      "parent": "e2815191-3ca7-496e-b21a-fcb7f102f0ed"
+    },
+    "bf46cb09-e259-4069-a5e1-a03daa8a72fd": {
+      "id": "bf46cb09-e259-4069-a5e1-a03daa8a72fd",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "write dr hyder an email letting him know about how our meetining went and any go over wht we talked about ina nut shell and let him know how excited we are to work withthese girls. let him know about th biweekly call scheduel and the tech call and market blueprint call also let him know the new revise agrement has been attached for him and that they highlighted the part that was fixed. let him know what homework i gave the girls and the check lists that they are to be followig. aslo ask him going forward how much involved he would like me to include him in or just give him updates, ask for specifa amount of interaction he is expecting from us direclty with him so we can be clear. i can give him biweekly followups with our calls if hed like too: "
+          ]
+        },
+        "create_time": 1778266385.297,
+        "id": "bf46cb09-e259-4069-a5e1-a03daa8a72fd",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_000000007a0c720c98db5d4fac791b70",
+              "is_big_paste": true,
+              "library_file_id": "libfile_3ea543dd0f108191b842f843a38c3fdb",
+              "mime_type": "text/plain",
+              "name": "Pasted text(28).txt",
+              "size": 44927,
+              "source": "local"
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "d28d16a5-4518-4712-a9cc-49884ae0350d": {
+      "id": "d28d16a5-4518-4712-a9cc-49884ae0350d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "now write a mini recap for the girls inside slack channel so they know what thy are needing to specificly do next"
+          ]
+        },
+        "create_time": 1778267099.174,
+        "id": "d28d16a5-4518-4712-a9cc-49884ae0350d",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "92088ef7-34ce-4f8b-8dc1-a2bb771030cf"
+    },
+    "e2815191-3ca7-496e-b21a-fcb7f102f0ed": {
+      "id": "e2815191-3ca7-496e-b21a-fcb7f102f0ed",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "make it generic so i can use it with another company"
+          ]
+        },
+        "create_time": 1778268018.975,
+        "id": "e2815191-3ca7-496e-b21a-fcb7f102f0ed",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "f1383224-6fa0-4b1c-b937-6e6602d6836f"
+    },
+    "e828616f-eca1-4075-9b7a-2e3a9d7309b1": {
+      "id": "e828616f-eca1-4075-9b7a-2e3a9d7309b1",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Hey ladies! Quick recap from today so we\u2019re all aligned on what\u2019s next \ud83d\udc47\n\n**What we\u2019re focused on first:**\nWe\u2019re going to hone in on getting Medford fully activated, increasing utilization on the treatments/devices you already have, and tightening up memberships, packages, and follow-up so nothing is slipping through the cracks.\n\n**Immediate next steps for you both:**\n\u2022 Finish onboarding checklist completely (especially logins, access, and missing fields)  \n\u2022 Drop BOTH location details + anything we may need (addresses, services, machines) into Slack  \n\u2022 Upload assets into Slack: current ads, creatives, menus, pricing, membership details, etc.  \n\u2022 Send over that spreadsheet of devices/services by location (this will help us move faster)  \n\u2022 Start filling out KPI + LTV numbers as best as you can (we\u2019ll help refine)  \n\u2022 Get into Slack and use it as your main communication hub with us  \n\n**What\u2019s happening on our end:**\n\u2022 We\u2019re building your Market Blueprint (this is big and will guide everything)  \n\u2022 Preparing initial strategy around offers, positioning, and campaigns  \n\u2022 Getting ready for your tech call with Jacques (he\u2019ll handle all CRM + integrations)  \n\n**Upcoming calls:**\n\u2022 Market Blueprint Call: Wednesday @ 10am EST  \n\u2022 Biweekly Calls: Thursdays @ 9:30am EST  \n\u2022 Tech Call: We\u2019ll confirm shortly based on availability  \n\nAlso, since you have that event coming up in June, we\u2019re going to prioritize making sure you\u2019re set up to maximize that from a revenue + exposure standpoint \ud83d\udc4f\n\nBiggest thing: stay active in Slack, ask questions, and move through the checklist. The faster we move together, the faster we win.\n\nWe\u2019re excited to build this with you both \ud83d\udca5"
+          ]
+        },
+        "create_time": 1778267099.557174,
+        "id": "e828616f-eca1-4075-9b7a-2e3a9d7309b1",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "d28d16a5-4518-4712-a9cc-49884ae0350d"
+        }
+      },
+      "parent": "d28d16a5-4518-4712-a9cc-49884ae0350d"
+    },
+    "f1383224-6fa0-4b1c-b937-6e6602d6836f": {
+      "id": "f1383224-6fa0-4b1c-b937-6e6602d6836f",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Got it. I tightened this into a clean, **Bethany-style one-pager** you can literally run the next call off of fast, with only what matters from your actual convo + your Luxora structure.\n\n---\n\n## **KICKOFF CALL 2 \u2013 HIGH LEVEL FLOW (RUN OF SHOW)**\n\n### **1. OPENING FRAME (FAST RESET)**\n- This is a partnership, not passive  \n- Speed + communication + execution = results  \n- Slack is where everything happens  \n\n---\n\n### **2. QUICK RECAP (WHAT WE ALIGNED ON)**\n- Multi-location complexity (Medford vs other location)  \n- Underutilized services + devices (major opportunity)  \n- No dedicated aesthetic front desk \u2192 leakage point  \n- Membership exists but not being leveraged  \n- Staff turnover \u2192 inconsistency in execution  \n- Event in June \u2192 immediate opportunity  \n\nAnchor:\n\ud83d\udc49 You don\u2019t have a lead problem. You have a system + utilization problem.\n\n---\n\n### **3. BIG OPPORTUNITY AREAS (FOCUS)**\n- **Medford = primary growth driver**\n  - Higher demographic\n  - Better space\n  - More services + devices sitting unused  \n\n- **Service Utilization**\n  - Hydrafacial, SkinPen, lasers, body treatments not fully pushed  \n  - Machines sitting idle = lost revenue daily  \n\n- **Cross-selling opportunity**\n  - Ophthalmology \u2192 Aesthetics crossover  \n\n---\n\n### **4. REVENUE LEAKS (CALL OUT CLEARLY)**\n- No structured follow-up system  \n- Booking inconsistency  \n- No front desk ownership for aesthetics  \n- Membership not visible or positioned  \n- No consistent offer strategy  \n\nAnchor:\n\ud83d\udc49 We fix these \u2192 revenue increases without needing more leads\n\n---\n\n### **5. OFFER + CAMPAIGN DIRECTION**\n- Not running discount Botox ads  \n- Building **authority-based offers**  \n- Focus:\n  - Summer-safe treatments  \n  - Medford-specific offers  \n  - Event-driven campaigns  \n\n- Identify:\n  - 1\u20132 hero offers\n  - Tie into packages + memberships  \n\n---\n\n### **6. HOW THIS FITS INTO LUXORA SYSTEM**\n- **Market Blueprint** \u2192 where to play + how to position  \n- **Conversion Engine** \u2192 booking, follow-up, CRM  \n- **Revenue Multiplier** \u2192 memberships, packages, retention  \n\n---\n\n### **7. TIMELINE (KEEP IT SIMPLE)**\n**Weeks 1\u20132**\n- Market Blueprint finalized  \n- Messaging locked  \n\n**Weeks 2\u20133**\n- Tech + CRM integration (Jacques)  \n- Offer + campaign build  \n\n**Weeks 3\u20134**\n- Launch  \n\n**Weeks 4\u201312**\n- Optimize + scale  \n- Build retention systems  \n\n---\n\n### **8. EVENT STRATEGY (PRIORITY)**\n- June event = leverage moment  \n- Use:\n  - Partnerships (local businesses nearby)  \n  - Offers tied to event  \n  - Lead capture + rebooking strategy  \n\n---\n\n### **9. TEAM ROLES (IMPORTANT)**\n- Ashley \u2192 in-clinic insights, services, client behavior  \n- Alexandra \u2192 operations, systems, execution  \n- Us \u2192 strategy, structure, growth engine  \n\nAnchor:\n\ud83d\udc49 We guide everything, but execution happens on your side\n\n---\n\n### **10. NEXT STEPS (CLEAR + DIRECT)**\n- Finish onboarding fully  \n- Upload:\n  - Assets\n  - Logins\n  - Service/device breakdown  \n- Get KPI + LTV baseline started  \n- Be active in Slack  \n\n---\n\n### **11. CALL STRUCTURE MOVING FORWARD**\n- Biweekly calls = strategy + decisions  \n- Tech call with Jacques = setup + integrations  \n- Market Blueprint call = full strategy walkthrough  \n\n---\n\n### **CLOSE**\n\u201cYou\u2019ve already built something strong.  \nNow we structure it, scale it, and make it predictable.\u201d\n\n\ud83d\udc49 If you stay engaged and move fast\u2026 this works.\n\n---\n\nIf you want, I can tighten this even more into a **literal script you read word-for-word** or turn it into a **1-slide visual deck version**."
+          ]
+        },
+        "create_time": 1778267880.095269,
+        "id": "f1383224-6fa0-4b1c-b937-6e6602d6836f",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "5c10f0ee-ab9c-4047-92d5-c564eed91155"
+        }
+      },
+      "parent": "386a8559-c26b-4992-bd80-ff8896773c2f"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Email Summary and Next Steps",
+  "update_time": 1778268031.663952,
+  "voice": null
+}

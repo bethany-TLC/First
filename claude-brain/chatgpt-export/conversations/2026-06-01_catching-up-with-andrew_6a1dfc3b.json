@@ -1,0 +1,71 @@
+{
+  "conversation_id": "6a1dfc3b-d6b4-83e8-8030-3a385ef78742",
+  "conversation_template_id": null,
+  "create_time": 1780350081.743687,
+  "current_node": "757649e1-1ad1-40f5-9542-0f322df06ae6",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a1dfc3b-d6b4-83e8-8030-3a385ef78742",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "48e14bb5-a053-421f-9e73-4de50d4aacd5": {
+      "id": "48e14bb5-a053-421f-9e73-4de50d4aacd5",
+      "message": null,
+      "parent": null
+    },
+    "757649e1-1ad1-40f5-9542-0f322df06ae6": {
+      "id": "757649e1-1ad1-40f5-9542-0f322df06ae6",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here's a warm, personal version that sounds like you're catching up with an old friend after a whirlwind year:\n\n:::writing{variant=\"email\" id=\"58371\" subject=\"It's Been a Minute\"}\nHey Andrew,\n\nMan, it's been way too long. I was thinking about you the other day and realized I should probably give you the condensed version of what the last year of my life has looked like.\n\nIn short... absolute chaos. \ud83d\ude02\n\nOver the past year I've gone through a divorce, navigated some pretty significant abuse-related challenges from that chapter of my life, had major neck surgery, started a business from the ground up, and somehow found myself dating my best friend in the middle of all of it.\n\nMy son, Donivan, just graduated high school, which feels impossible to say out loud. In a few months he'll be heading off to the Air Force, and my mama heart is not handling that transition particularly well. There have been lots of tears, lots of proud moments, and plenty of \"where did the time go?\" conversations with myself.\n\nProfessionally, I've been building a business focused on helping aesthetic and wellness practices grow. It's been exciting, terrifying, rewarding, exhausting, and every other emotion you can imagine. Some days I feel like I'm crushing it. Other days I feel like I'm barely keeping my head above water. Truthfully, there have been moments where I've completely lost my mind along the way, but somehow God keeps carrying me through the next step.\n\nFor now, I'm still at Alignment Nashville while I continue building the business. The goal is to eventually grow it enough that I can be a full-time entrepreneur and focus entirely on what I'm creating. I'm not quite there yet, but I'm working toward it every day.\n\nLife definitely doesn't look anything like I thought it would a few years ago, but I'm learning to be okay with that. A lot has been stripped away, but a lot has been rebuilt too.\n\nI'd love to hear what you've been up to and how life has been treating you. Hopefully things have been a little less eventful on your end than they've been on mine.\n\nMiss ya, buddy.\n\nBethany\n:::\n\nThis keeps it honest, resilient, and a little humorous without feeling overly heavy."
+          ]
+        },
+        "create_time": 1780350081.652347,
+        "id": "757649e1-1ad1-40f5-9542-0f322df06ae6",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "5197deec-a3f3-4026-9c01-10e2169f6603"
+        }
+      },
+      "parent": "bbb21585-8ee8-4299-afe5-e512aeb4e8f4"
+    },
+    "bbb21585-8ee8-4299-afe5-e512aeb4e8f4": {
+      "id": "bbb21585-8ee8-4299-afe5-e512aeb4e8f4",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write an email to my old coworker from alignment Nashville named Andrew. Let him know in a nutshell what I've been doing for the past year AKA divorce, major abuse, neck surgery, dating my best friend, starting a business, etc. talk about my kid graduating high school and he's going in the Air Force. Losing my shit along the way trying to stay above water. Tell him I'm staying at the time at Nashville for now, but hoping my business takes off to the point where I can be a soul entrepreneur"
+          ]
+        },
+        "create_time": 1780350081.412094,
+        "id": "bbb21585-8ee8-4299-afe5-e512aeb4e8f4",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "48e14bb5-a053-421f-9e73-4de50d4aacd5"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Catching Up with Andrew",
+  "update_time": 1780350091.69057,
+  "voice": null
+}

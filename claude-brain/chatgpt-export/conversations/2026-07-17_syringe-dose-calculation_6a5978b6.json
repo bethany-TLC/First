@@ -1,0 +1,651 @@
+{
+  "conversation_id": "6a5978b6-35c0-83e8-a72e-797c60b31595",
+  "conversation_template_id": null,
+  "create_time": 1784248539.049546,
+  "current_node": "dca96551-41ab-4cbf-972b-c6758c317912",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a5978b6-35c0-83e8-a72e-797c60b31595",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "073ae840-c7ff-41d4-b639-fcc4e3eb1049": {
+      "id": "073ae840-c7ff-41d4-b639-fcc4e3eb1049",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "thoughts",
+          "source_analysis_msg_id": "8e280f1d-9e9f-4581-9233-68a502cca198",
+          "thoughts": [
+            {
+              "chunks": [],
+              "content": "",
+              "finished": true,
+              "summary": "Searched various websites and platforms for information"
+            }
+          ]
+        },
+        "create_time": 1784248542.783314,
+        "id": "073ae840-c7ff-41d4-b639-fcc4e3eb1049",
+        "metadata": {
+          "model_slug": "gpt-5-5",
+          "parent_id": "5f4dd254-074e-4d60-9620-ed93b8854c89",
+          "tool_icons": [
+            "globe"
+          ]
+        }
+      },
+      "parent": "bbb21484-ea5f-4ecd-9e98-59606b248ca4"
+    },
+    "1939653b-b181-41da-9be9-6f4b58e9e5c5": {
+      "id": "1939653b-b181-41da-9be9-6f4b58e9e5c5",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Based on what you've shared:\n\n- **Medication:** Semaglutide\n- **Concentration:** **2.5 mg/mL**\n- **Prescribed dose:** **0.2 mg**\n\nThe calculation is:\n\n- 0.2 mg \u00f7 2.5 mg/mL = **0.08 mL**\n\nOn your **0.5 mL (50-unit) insulin syringe**:\n- **50 units = 0.5 mL**\n- Therefore, **0.08 mL = 8 units**.\n\nSince your syringe is numbered every 5 units (10, 15, 20, etc.), **8 units is two small tick marks before the \"10\" mark**, assuming each small tick represents 1 unit (which is standard on most U-100 insulin syringes).\n\nSo you would draw up **8 units (0.08 mL)**.\n\nIf you want, you can also upload a photo of your syringe, and I'll point to the exact line you should fill to."
+          ]
+        },
+        "create_time": 1784248641.239911,
+        "id": "1939653b-b181-41da-9be9-6f4b58e9e5c5",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "bbb217f6-f054-4794-8b6e-324aab66e834"
+        }
+      },
+      "parent": "bbb217f6-f054-4794-8b6e-324aab66e834"
+    },
+    "247ee04e-ab77-4d47-9fc8-130ecd09e3d7": {
+      "id": "247ee04e-ab77-4d47-9fc8-130ecd09e3d7",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content": "Worked for a few seconds",
+          "content_type": "reasoning_recap"
+        },
+        "create_time": 1784248542.811822,
+        "id": "247ee04e-ab77-4d47-9fc8-130ecd09e3d7",
+        "metadata": {
+          "model_slug": "gpt-5-5",
+          "parent_id": "073ae840-c7ff-41d4-b639-fcc4e3eb1049"
+        }
+      },
+      "parent": "073ae840-c7ff-41d4-b639-fcc4e3eb1049"
+    },
+    "309e9269-32f5-43e3-ab33-40d89b3389cf": {
+      "id": "309e9269-32f5-43e3-ab33-40d89b3389cf",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content": "Worked for a second",
+          "content_type": "reasoning_recap"
+        },
+        "create_time": 1784248588.481128,
+        "id": "309e9269-32f5-43e3-ab33-40d89b3389cf",
+        "metadata": {
+          "model_slug": "gpt-5-5",
+          "parent_id": "de72e20c-66a2-48f1-8100-e6b2bba3fc6c"
+        }
+      },
+      "parent": "bbb2199a-7e78-4daf-a84a-2a07687268c6"
+    },
+    "399df0ef-d1d2-43b3-84cc-12697ef37f38": {
+      "id": "399df0ef-d1d2-43b3-84cc-12697ef37f38",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Yes, please upload a clear photo of your syringe.\n\nA good photo should:\n- Show the **entire syringe** from the needle to the plunger.\n- Have the **number markings** (10, 15, 20, etc.) clearly visible.\n- Be taken straight on (not at an angle) in good lighting.\n\nOnce I see it, I'll point out exactly where **8 units** is on your specific syringe."
+          ]
+        },
+        "create_time": 1784248664.774218,
+        "id": "399df0ef-d1d2-43b3-84cc-12697ef37f38",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "bbb2191a-0bf5-4c18-b5cc-0d6a0e9f3949"
+        }
+      },
+      "parent": "bbb2191a-0bf5-4c18-b5cc-0d6a0e9f3949"
+    },
+    "56af1625-b7f3-4b95-b6e7-8c1e13f59652": {
+      "id": "56af1625-b7f3-4b95-b6e7-8c1e13f59652",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content": "Worked for a second",
+          "content_type": "reasoning_recap"
+        },
+        "create_time": 1784248699.111873,
+        "id": "56af1625-b7f3-4b95-b6e7-8c1e13f59652",
+        "metadata": {
+          "model_slug": "gpt-5-5",
+          "parent_id": "4bd09ac8-81aa-4f53-956f-49e1859b2d9f"
+        }
+      },
+      "parent": "bbb21052-ac15-44a8-b433-6f9d52a0b690"
+    },
+    "a9b9cdfa-bba9-4dfa-b1ca-3e0e22d17838": {
+      "id": "a9b9cdfa-bba9-4dfa-b1ca-3e0e22d17838",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Thanks for clarifying.\n\nIf your prescription is:\n\n- **Dose:** 0.2 mg\n- **Concentration:** 2.5 mg/mL\n\nThen the calculation is:\n\n- 0.2 mg \u00f7 2.5 mg/mL = **0.08 mL**\n\nOn a **50-unit (0.5 mL) U-100 insulin syringe**:\n- **0.08 mL = 8 units**\n\n**So you would draw the medication up to the 8-unit mark** (the 8th notch if each small marking is 1 unit).\n\nIf you tell me **the name of the medication** (for example, semaglutide or another medication), I can double-check that this matches the prescribed concentration."
+          ]
+        },
+        "create_time": 1784248586.897068,
+        "id": "a9b9cdfa-bba9-4dfa-b1ca-3e0e22d17838",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "309e9269-32f5-43e3-ab33-40d89b3389cf"
+        }
+      },
+      "parent": "309e9269-32f5-43e3-ab33-40d89b3389cf"
+    },
+    "bbb21052-ac15-44a8-b433-6f9d52a0b690": {
+      "id": "bbb21052-ac15-44a8-b433-6f9d52a0b690",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_00000000de7c71f59b76edef2d05a0ae",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 4080,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "mime_type": "image/jpeg",
+              "size_bytes": 243782,
+              "width": 3072
+            },
+            {
+              "asset_pointer": "sediment://file_00000000ea7471f5a10823d5e9e794a0",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 4080,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "mime_type": "image/jpeg",
+              "size_bytes": 235270,
+              "width": 3072
+            },
+            {
+              "asset_pointer": "sediment://file_0000000081d471f5a31ee45c7ea96322",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 4080,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "mime_type": "image/jpeg",
+              "size_bytes": 228434,
+              "width": 3072
+            }
+          ]
+        },
+        "create_time": 1784248697.589072,
+        "id": "bbb21052-ac15-44a8-b433-6f9d52a0b690",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_00000000de7c71f59b76edef2d05a0ae",
+              "mime_type": "image/jpeg",
+              "name": "image-1784248676396.jpg",
+              "size": 243782
+            },
+            {
+              "id": "file_00000000ea7471f5a10823d5e9e794a0",
+              "mime_type": "image/jpeg",
+              "name": "image-1784248686071.jpg",
+              "size": 235270
+            },
+            {
+              "id": "file_0000000081d471f5a31ee45c7ea96322",
+              "mime_type": "image/jpeg",
+              "name": "image-1784248695590.jpg",
+              "size": 228434
+            }
+          ],
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "399df0ef-d1d2-43b3-84cc-12697ef37f38"
+    },
+    "bbb21484-ea5f-4ecd-9e98-59606b248ca4": {
+      "id": "bbb21484-ea5f-4ecd-9e98-59606b248ca4",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "I have a 50cc ml.5 units and my prescription calls for 2 mg 2.5 mg ml with injection supplies. How much do I pull up in this thing that has 50 notches on it?"
+          ]
+        },
+        "create_time": 1784248538.55981,
+        "id": "bbb21484-ea5f-4ecd-9e98-59606b248ca4",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "cd6a9e49-222e-409f-b73a-22540c35145b"
+    },
+    "bbb217f6-f054-4794-8b6e-324aab66e834": {
+      "id": "bbb217f6-f054-4794-8b6e-324aab66e834",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "It says semaglutide 2.5 mg/ml injectable. And there's 10, 15, 20, 25, 30, 35, 40, 45, 50 cc/ml units on my tiny little syringe. How much do I pull up if it's telling me to do 0.2 milligrams?"
+          ]
+        },
+        "create_time": 1784248640.095708,
+        "id": "bbb217f6-f054-4794-8b6e-324aab66e834",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "a9b9cdfa-bba9-4dfa-b1ca-3e0e22d17838"
+    },
+    "bbb2191a-0bf5-4c18-b5cc-0d6a0e9f3949": {
+      "id": "bbb2191a-0bf5-4c18-b5cc-0d6a0e9f3949",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Upload a photo."
+          ]
+        },
+        "create_time": 1784248664.549905,
+        "id": "bbb2191a-0bf5-4c18-b5cc-0d6a0e9f3949",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "1939653b-b181-41da-9be9-6f4b58e9e5c5"
+    },
+    "bbb2199a-7e78-4daf-a84a-2a07687268c6": {
+      "id": "bbb2199a-7e78-4daf-a84a-2a07687268c6",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "No, it says 0.2 mg( 2.5 mg/ml("
+          ]
+        },
+        "create_time": 1784248586.511325,
+        "id": "bbb2199a-7e78-4daf-a84a-2a07687268c6",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "e1e49f6a-bf8d-4a86-bd97-e5d483c60b7b"
+    },
+    "cd6a9e49-222e-409f-b73a-22540c35145b": {
+      "id": "cd6a9e49-222e-409f-b73a-22540c35145b",
+      "message": null,
+      "parent": null
+    },
+    "dca96551-41ab-4cbf-972b-c6758c317912": {
+      "id": "dca96551-41ab-4cbf-972b-c6758c317912",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Thanks for uploading the photos. I can read the prescription label clearly.\n\nYour prescription says:\n\n- **Semaglutide**\n- **Strength:** 2.5 mg/mL\n- **Dose:** 0.2 mg\n- **Directions:** **\"Withdraw and inject 8 units subcutaneously once weekly for 4 weeks.\"**\n\nSo the pharmacy has already done the calculation for you.\n\nOn your syringe:\n- **Draw the plunger to the 8-unit mark.**\n- Since your syringe is labeled every 5 units (5, 10, 15, etc.), **8 units is the second small tick mark below the \"10\"** (assuming the small ticks are 1 unit each, which they are on standard U-100 insulin syringes).\n\nYou're using the correct syringe, and **8 units** is the correct amount for your first weekly dose based on the prescription shown.\n\nOne tip: when measuring, line up the **top (needle-side) edge of the black rubber stopper** with the **8-unit** mark, not the bottom edge of the stopper.\n\nYou've got the right dose: **8 units once a week for 4 weeks.**"
+          ]
+        },
+        "create_time": 1784248697.825033,
+        "id": "dca96551-41ab-4cbf-972b-c6758c317912",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "56af1625-b7f3-4b95-b6e7-8c1e13f59652"
+        }
+      },
+      "parent": "56af1625-b7f3-4b95-b6e7-8c1e13f59652"
+    },
+    "e1e49f6a-bf8d-4a86-bd97-e5d483c60b7b": {
+      "id": "e1e49f6a-bf8d-4a86-bd97-e5d483c60b7b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "I want to make sure I don't accidentally tell you the wrong dose, because the way it's written is ambiguous.\n\nCan you tell me exactly which of these your prescription says?\n\n- **Dose:** 2 mg\n- **Concentration:** 2.5 mg/mL\n\nIf that's correct, then:\n\n- 2 mg \u00f7 2.5 mg/mL = **0.8 mL**\n- On a U-100 insulin syringe, **0.8 mL = 80 units**. \ue200cite\ue202turn0search1\ue202turn0search0\ue201\n\nA syringe with **50 notches (50 units/0.5 mL)** only holds **0.5 mL**, so **80 units will not fit in that syringe**. \ue200cite\ue202turn0search1\ue202turn0search0\ue201\n\nPlease either:\n1. Upload a photo of the prescription label, **or**\n2. Type exactly what the label says (including the drug name, strength, and directions).\n\nI'll calculate the exact line you should draw to."
+          ]
+        },
+        "create_time": 1784248541.150665,
+        "id": "e1e49f6a-bf8d-4a86-bd97-e5d483c60b7b",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "([Rite Aid](https://riteaid.com/peptides/guides/insulin-syringe-units?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Rite Aid",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1782950400.0,
+                  "refs": [
+                    {
+                      "ref_index": 1,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [
+                    {
+                      "attribution": "MedlinePlus",
+                      "pub_date": null,
+                      "snippet": "",
+                      "title": "Giving an insulin injection: MedlinePlus Medical Encyclopedia",
+                      "url": "https://medlineplus.gov/ency/patientinstructions/000660.htm?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Insulin Syringe Units: How to Read and Convert Them | Rite Aid",
+                  "url": "https://riteaid.com/peptides/guides/insulin-syringe-units?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Rite Aid](https://riteaid.com/peptides/guides/insulin-syringe-units?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Rite Aid",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1782950400.0,
+                  "refs": [
+                    {
+                      "ref_index": 1,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [
+                    {
+                      "attribution": "MedlinePlus",
+                      "pub_date": null,
+                      "snippet": "",
+                      "title": "Giving an insulin injection: MedlinePlus Medical Encyclopedia",
+                      "url": "https://medlineplus.gov/ency/patientinstructions/000660.htm?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Insulin Syringe Units: How to Read and Convert Them | Rite Aid",
+                  "url": "https://riteaid.com/peptides/guides/insulin-syringe-units?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prefix": null,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "Rite Aid",
+                  "title": "Insulin Syringe Units: How to Read and Convert Them | Rite Aid",
+                  "url": "https://riteaid.com/peptides/guides/insulin-syringe-units?utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "247ee04e-ab77-4d47-9fc8-130ecd09e3d7",
+          "search_result_groups": [
+            {
+              "domain": "medlineplus.gov",
+              "entries": [
+                {
+                  "attribution": "medlineplus.gov",
+                  "snippet": "Giving an insulin injection  URL of this page: //medlineplus.gov/ency/patientinstructions/000660.htm  GIVING AN INSULIN INJECTION  To use the sharing features on this page, please enable JavaScript....",
+                  "title": "Giving an insulin injection: MedlinePlus Medical Encyclopedia",
+                  "url": "https://medlineplus.gov/ency/patientinstructions/000660.htm?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "helloregimen.com",
+              "entries": [
+                {
+                  "attribution": "helloregimen.com",
+                  "snippet": "UNITS TO ML CALCULATOR (INSULIN SYRINGE)  Convert insulin-syringe units to volume in mL on a U-100, U-50, or U-40 syringe. Add your concentration to also see the dose in mg.  Updated June 2026  I wan...",
+                  "title": "Units to mL Calculator: Insulin Syringe Conversion | Regimen",
+                  "url": "https://helloregimen.com/tools/units-to-ml-calculator?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "helloregimen.com",
+                  "snippet": "UNITS VS ML VS MG \u2014 THE COMPLETE SYRINGE MEASUREMENT GUIDE  April 5, 2026  8 min read  Share this article  Copy link[Button: \ud835\udd4f][Button: Reddit]  The Bottom Line  Units, mL, and mg measure three diffe...",
+                  "title": "Syringe Units to mL to mg Converter + Chart (2026) | Regimen",
+                  "url": "https://helloregimen.com/blog/units-vs-ml-vs-mg-syringe-guide?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "dosingcalc.com",
+              "entries": [
+                {
+                  "attribution": "dosingcalc.com",
+                  "snippet": "INSULIN SYRINGE GUIDE: UNDERSTANDING UNITS  9 min read \u00b7 Updated July 1, 2026  By the DosingCalc editorial team. Numbers and dose ranges are checked against the sources listed on our editorial standa...",
+                  "title": "Insulin Syringe Guide: Understanding Units | DosingCalc",
+                  "url": "https://dosingcalc.com/guides/insulin-syringe-guide?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "donedose.com",
+              "entries": [
+                {
+                  "attribution": "donedose.com",
+                  "snippet": "SYRINGE CALCULATOR  This tells you which line to pull the plunger to on a U-100 (1 mL) or 30-unit (0.3 mL) insulin syringe for your dose, and warns you if the draw would overfill the syringe.  1.   2...",
+                  "title": "Syringe Calculator: Units on an Insulin Syringe | Done Dose",
+                  "url": "https://www.donedose.com/calculators/syringe-calculator?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "peptitools.com",
+              "entries": [
+                {
+                  "attribution": "peptitools.com",
+                  "snippet": "guide May 17, 2026  HOW TO READ AN INSULIN SYRINGE FOR PEPTIDE DOSING  Insulin syringes use unit markings, not milliliters. Understanding the difference between units and mL is essential for accurate...",
+                  "title": "How to Read an Insulin Syringe for Peptides | PeptiTools",
+                  "url": "https://www.peptitools.com/articles/how-to-read-insulin-syringe-peptide-dosing?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "insulin-calculator.org",
+              "entries": [
+                {
+                  "attribution": "insulin-calculator.org",
+                  "snippet": "HOW TO READ AN INSULIN SYRINGE  By Ryan Mitchell \u00b7 Reviewed against ISMP safe-practice guidance \u00b7 Updated July 2026  Insulin syringes are marked in units, not milliliters \u2014 and that single fact preve...",
+                  "title": "How to Read an Insulin Syringe: Units, Markings & mL Chart",
+                  "url": "https://insulin-calculator.org/blogs/how-to-read-insulin-syringe/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "heydosi.com",
+              "entries": [
+                {
+                  "attribution": "heydosi.com",
+                  "snippet": "Tools\u00b7March 30, 2026  SYRINGE UNIT CONVERTER  Convert between mL, units, and IU for insulin syringes.  QUICK REFERENCE  mL  | Units (U-100) --- | --- 0.01 mL  | 1 unit 0.05 mL  | 5 units 0.10 mL  | 1...",
+                  "title": "Syringe Unit Converter - mL to Units for Insulin Syringes",
+                  "url": "https://heydosi.com/en/tools/syringe-calculator?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "peptidesolver.com",
+              "entries": [
+                {
+                  "attribution": "peptidesolver.com",
+                  "snippet": "INSULIN SYRINGE UNITS EXPLAINED  Insulin syringes are marked in units, not milliliters. A U-100 syringe has 100 units per mL. Understanding the unit markings - and which syringe size to use for which...",
+                  "title": "U-100 Insulin Syringe Units: Read & Convert | PeptideSolver",
+                  "url": "https://www.peptidesolver.com/insulin-syringe-units-explained/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "shotlee.app",
+              "entries": [
+                {
+                  "attribution": "shotlee.app",
+                  "snippet": "\ud83e\uddeeFree Calculator\u2705Updated 2026  SYRINGE UNIT CALCULATOR  Convert mL, mg & mcg to insulin syringe units  Convert milliliters, milligrams, and micrograms into U-100 insulin syringe units with the refere...",
+                  "title": "Syringe Calculator: Convert mL, mg & mcg to Units",
+                  "url": "https://www.shotlee.app/syringe-calculator?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "sharecare.com",
+              "entries": [
+                {
+                  "attribution": "sharecare.com",
+                  "snippet": "Image: question  WHAT DO I NEED TO KNOW WHEN BUYING SYRINGES FOR MY INSULIN?  Image: American Diabetes Association  American Diabetes Association  Image: answer  The syringe consists of a needle, bar...",
+                  "title": "What do I need to know when buying syringes for my insulin? | Insulin Injections - Sharecare",
+                  "url": "https://www.sharecare.com/health/insulin-injections/know-before-buying-syringes-insulin?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "247ee04e-ab77-4d47-9fc8-130ecd09e3d7"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Syringe Dose Calculation",
+  "update_time": 1784248702.39115,
+  "voice": null
+}

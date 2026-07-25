@@ -1,0 +1,71 @@
+{
+  "conversation_id": "6a049e33-6930-83ea-82a6-50f792fbe013",
+  "conversation_template_id": null,
+  "create_time": 1778687553.215433,
+  "current_node": "f534cd04-e703-4fc8-bd35-f9a7e3b3883b",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a049e33-6930-83ea-82a6-50f792fbe013",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "04e88aaa-f498-4d3f-bc12-2ecd190b5c1a": {
+      "id": "04e88aaa-f498-4d3f-bc12-2ecd190b5c1a",
+      "message": null,
+      "parent": null
+    },
+    "bbb21c93-135c-4641-a524-1ac7b7d000c2": {
+      "id": "bbb21c93-135c-4641-a524-1ac7b7d000c2",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Reply back to my ex who is asking. For our socials: You can get mine from our taxes and Ds from past enrollment. No SSNs will be given out via email that is subject to hacking and fraud "
+          ]
+        },
+        "create_time": 1778687552.692684,
+        "id": "bbb21c93-135c-4641-a524-1ac7b7d000c2",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "04e88aaa-f498-4d3f-bc12-2ecd190b5c1a"
+    },
+    "f534cd04-e703-4fc8-bd35-f9a7e3b3883b": {
+      "id": "f534cd04-e703-4fc8-bd35-f9a7e3b3883b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ":::writing{variant=\"chat_message\" id=\"48271\"}\nYou can obtain mine from our prior tax filings and D\u2019s information from past enrollment records. We will not be providing Social Security numbers over email due to the obvious security, fraud, and hacking risks.\n:::"
+          ]
+        },
+        "create_time": 1778687553.098902,
+        "id": "f534cd04-e703-4fc8-bd35-f9a7e3b3883b",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "a8bd7a07-2745-47c6-b951-74ad1af6cb2b"
+        }
+      },
+      "parent": "bbb21c93-135c-4641-a524-1ac7b7d000c2"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Reply to Ex Request",
+  "update_time": 1778687557.564681,
+  "voice": null
+}

@@ -1,0 +1,153 @@
+{
+  "conversation_id": "6995dbfc-c6c0-8327-8f6c-47850ddae2a0",
+  "conversation_template_id": null,
+  "create_time": 1771428902.817178,
+  "current_node": "f9dbeeb2-54c0-4e12-8f2e-e9aa4c5eadd0",
+  "default_model_slug": "gpt-5-2",
+  "id": "6995dbfc-c6c0-8327-8f6c-47850ddae2a0",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "7e78eb37-0d03-4193-baa7-909fc48c7d4b": {
+      "id": "7e78eb37-0d03-4193-baa7-909fc48c7d4b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_000000009da071f59aefb3031667f132",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 2048,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 2343997,
+              "width": 1536
+            },
+            "CAN YOU LIST THE FIRST, LAST NAME AND EMAILS FROM THIS DOCUMENT"
+          ]
+        },
+        "create_time": 1771436528.354,
+        "id": "7e78eb37-0d03-4193-baa7-909fc48c7d4b",
+        "metadata": {
+          "attachments": [
+            {
+              "height": 2048,
+              "id": "file_000000009da071f59aefb3031667f132",
+              "is_big_paste": false,
+              "mime_type": "image/jpeg",
+              "name": "IMG_8824.jpeg",
+              "size": 2343997,
+              "source": "local",
+              "width": 1536
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "ad7a7596-f57c-4c61-bf36-93c7fbf38eed": {
+      "id": "ad7a7596-f57c-4c61-bf36-93c7fbf38eed",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "CSV"
+          ]
+        },
+        "create_time": 1771436574.278,
+        "id": "ad7a7596-f57c-4c61-bf36-93c7fbf38eed",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "c27068c1-22a5-475f-939a-71c62c830147"
+    },
+    "c27068c1-22a5-475f-939a-71c62c830147": {
+      "id": "c27068c1-22a5-475f-939a-71c62c830147",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "I carefully read and transcribed the sign-up sheet. Below is a **clean list of First Name, Last Name, and Email** based directly on the document. Where handwriting was unclear, I preserved the most likely spelling and noted minor uncertainty.\n\n---\n\n### Newsletter Sign-Up List\n\n1. **Louise Collin**  \n   louise.collin@firstbankonline.com\n\n2. **Shannon (last name unclear)**  \n   sshannon@firstbankonline.com\n\n3. **Lenai Augustine**  \n   lenai.augustine@gmail.com\n\n4. **Ashley Horner**  \n   ashleyhorner010@gmail.com\n\n5. **Stephanie Thibodeaux**  \n   stephaniethib@yahoo.com\n\n6. **Jessi Layton**  \n   jessi.layton@firstbankonline.com\n\n7. **Andrea Capeda**  \n   andrea.capeda@firstbankonline.com\n\n8. **Drew Utley**  \n   utley.drew@yahoo.com\n\n9. **Sam Watson**  \n   sgowls@hotmail.com\n\n10. **Austin Sema**  \n    austin.sema@firstbankonline.com\n\n11. **Kayla Barnes**  \n    kbarnes@firstbankonline.com\n\n12. **Lizzie Hogan**  \n    edhogan93@gmail.com\n\n13. **Marie Atkins**  \n    matkins77@gmail.com\n\n14. **Mark Hickman**  \n    mark.hickman@firstbankonline.com\n\n15. **Marvieka Adams**  \n    marvieka.adams@firstbankonline.com\n\n16. **Melinda Gibson**  \n    mgibson@firstbankonline.com\n\n17. **Cynthia Yager**  \n    signanyager@yahoo.com *(handwriting slightly unclear)*\n\n18. **Celest Davis**  \n    info@creativegirlsrock.org\n\n19. **Starr Rhee**  \n    srhee@nashvilledebate.org\n\n20. **Twyla Allen**  \n    twyla.allen@gmail.com\n\n21. **Laura Murrell**  \n    lamur47@gmail.com\n\n---\n\nIf you want, I can also:\n- Convert this into a **CSV or Excel file**\n- Separate **corporate vs personal emails**\n- Clean and standardize formatting for **CRM or email marketing upload**\n- Flag **possible typos** for confirmation before outreach\n\nJust tell me what you want next."
+          ]
+        },
+        "create_time": 1771428902.62213,
+        "id": "c27068c1-22a5-475f-939a-71c62c830147",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "f557cf44-7930-461e-bfa5-adf9cfdd6f7e"
+        }
+      },
+      "parent": "7e78eb37-0d03-4193-baa7-909fc48c7d4b"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "f9dbeeb2-54c0-4e12-8f2e-e9aa4c5eadd0": {
+      "id": "f9dbeeb2-54c0-4e12-8f2e-e9aa4c5eadd0",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here is the CSV, ready to copy-paste or upload:\n\n```csv\nFirst Name,Last Name,Email\nLouise,Collin,louise.collin@firstbankonline.com\nShannon,,sshannon@firstbankonline.com\nLenai,Augustine,lenai.augustine@gmail.com\nAshley,Horner,ashleyhorner010@gmail.com\nStephanie,Thibodeaux,stephaniethib@yahoo.com\nJessi,Layton,jessi.layton@firstbankonline.com\nAndrea,Capeda,andrea.capeda@firstbankonline.com\nDrew,Utley,utley.drew@yahoo.com\nSam,Watson,sgowls@hotmail.com\nAustin,Sema,austin.sema@firstbankonline.com\nKayla,Barnes,kbarnes@firstbankonline.com\nLizzie,Hogan,edhogan93@gmail.com\nMarie,Atkins,matkins77@gmail.com\nMark,Hickman,mark.hickman@firstbankonline.com\nMarvieka,Adams,marvieka.adams@firstbankonline.com\nMelinda,Gibson,mgibson@firstbankonline.com\nCynthia,Yager,signanyager@yahoo.com\nCelest,Davis,info@creativegirlsrock.org\nStarr,Rhee,srhee@nashvilledebate.org\nTwyla,Allen,twyla.allen@gmail.com\nLaura,Murrell,lamur47@gmail.com\n```\n\nIf you want this:\n- cleaned for **HubSpot, GoHighLevel, Mailchimp, or Apollo**\n- split into **work vs personal emails**\n- deduplicated or enriched\n\njust tell me where you\u2019re uploading it."
+          ]
+        },
+        "create_time": 1771428948.45893,
+        "id": "f9dbeeb2-54c0-4e12-8f2e-e9aa4c5eadd0",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "48d2e530-161e-4e7b-b732-164d373f0e61"
+        }
+      },
+      "parent": "ad7a7596-f57c-4c61-bf36-93c7fbf38eed"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Email List Extraction",
+  "update_time": 1771428966.670767,
+  "voice": null
+}

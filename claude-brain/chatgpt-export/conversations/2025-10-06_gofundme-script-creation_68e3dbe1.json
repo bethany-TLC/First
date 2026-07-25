@@ -1,0 +1,71 @@
+{
+  "conversation_id": "68e3dbe1-c490-832a-8717-61609e1831e6",
+  "conversation_template_id": null,
+  "create_time": 1759763435.546455,
+  "current_node": "da094fdc-bba1-4a38-8450-291f7e8dd14f",
+  "default_model_slug": "gpt-5",
+  "id": "68e3dbe1-c490-832a-8717-61609e1831e6",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "b5fdb97d-140e-463a-832b-dff9e2722fa6": {
+      "id": "b5fdb97d-140e-463a-832b-dff9e2722fa6",
+      "message": null,
+      "parent": null
+    },
+    "bbb21839-8242-41f4-9336-55af2569b197": {
+      "id": "bbb21839-8242-41f4-9336-55af2569b197",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Create a GoFundMe script that talks about saving the cats on the island of Hawaii"
+          ]
+        },
+        "create_time": 1759763434.901844,
+        "id": "bbb21839-8242-41f4-9336-55af2569b197",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "b5fdb97d-140e-463a-832b-dff9e2722fa6"
+    },
+    "da094fdc-bba1-4a38-8450-291f7e8dd14f": {
+      "id": "da094fdc-bba1-4a38-8450-291f7e8dd14f",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a **GoFundMe campaign script** you can use (or adapt) for saving the cats on the island of Hawaii:  \n\n---\n\n# \ud83d\udc3e Save the Cats of Hawaii Island \ud83c\udf3a  \n\n**Aloha friends, animal lovers, and kind-hearted supporters,**  \n\nThe Big Island of Hawaii is known for its breathtaking beaches, volcanoes, and lush beauty\u2014but there\u2019s a heartbreaking crisis hidden behind the paradise. Thousands of abandoned and stray cats are struggling to survive every single day. Many are hungry, sick, or injured, with no one to care for them.  \n\nWithout immediate help, countless cats will continue to suffer. But together, we can change that.  \n\n---\n\n## \ud83d\udc94 The Problem\n- Hawaii has one of the highest rates of abandoned and feral cats in the U.S.  \n- Many of these cats are born into colonies without food, shelter, or medical care.  \n- Without spay/neuter programs and proper support, the population keeps growing, leading to unnecessary suffering.  \n\n---\n\n## \ud83c\udf1f Our Mission\nWe are raising funds to:  \n- Provide **food and clean water** for local cat colonies.  \n- Support **spay and neuter clinics** to stop the cycle of overpopulation.  \n- Cover **medical care** for sick and injured cats.  \n- Create **safe shelters** where cats can rest and recover.  \n\nEvery dollar raised will go directly toward saving lives and giving these cats the second chance they deserve.  \n\n---\n\n## \ud83d\udc31 Why It Matters\nThese cats didn\u2019t choose this life. They are victims of abandonment, neglect, and lack of resources. By helping them, we not only save lives but also protect Hawaii\u2019s fragile ecosystem, which is impacted by unmanaged feral populations.  \n\n---\n\n## \ud83c\udf3a How You Can Help\n1. **Donate** whatever you can\u2014every contribution makes a difference.  \n2. **Share** this campaign with your friends, family, and social networks.  \n3. **Sponsor** a cat with a recurring donation to provide food and care.  \n\n---\n\n## \ud83d\ude4f Mahalo from the Cats of Hawaii\nYour kindness can transform suffering into safety, hunger into nourishment, and fear into love. Together, we can create a future where the cats of Hawaii no longer struggle alone\u2014but thrive in peace.  \n\nPlease join us in this mission. \ud83d\udc95  \n\n**\u27a1\ufe0f Donate today and help us save the cats of Hawaii.**  \n\n---\n\nWould you like me to also make a **shorter social media version** (with emojis and hashtags) that you can post alongside the GoFundMe link to drive more donations?"
+          ]
+        },
+        "create_time": 1759763435.29499,
+        "id": "da094fdc-bba1-4a38-8450-291f7e8dd14f",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "40e63541-4b2c-4081-80da-5e17cdb89f6c"
+        }
+      },
+      "parent": "bbb21839-8242-41f4-9336-55af2569b197"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "GoFundMe script creation",
+  "update_time": 1759763448.043808,
+  "voice": null
+}

@@ -1,0 +1,116 @@
+{
+  "conversation_id": "68f18264-60cc-832f-a315-aa049d4202da",
+  "conversation_template_id": null,
+  "create_time": 1760658042.094548,
+  "current_node": "7a29b2b0-ca7d-4860-baa1-8db391058de8",
+  "default_model_slug": "gpt-5",
+  "id": "68f18264-60cc-832f-a315-aa049d4202da",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "196ff63d-2d9b-4e50-9c78-18d23efe4057": {
+      "id": "196ff63d-2d9b-4e50-9c78-18d23efe4057",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here are a few perfect ways to respond \u2014 depending on the tone and depth you want to express without saying \u201cI love you\u201d just yet:  \n\n---\n\n**\u2728 Warm and heartfelt**\n> \u201cThat means the world to me. You have no idea how much I adore hearing that from you.\u201d\n\n---\n\n**\ud83d\udcab Playful and romantic**\n> \u201cCareful with words like that... you\u2019re making it really hard not to melt over here.\u201d\n\n---\n\n**\ud83c\udf39 Genuine but restrained**\n> \u201cYou always know exactly what to say. Thank you for making me feel so seen.\u201d\n\n---\n\n**\ud83d\udd25 Slightly flirty, emotionally honest**\n> \u201cYou\u2019re pretty amazing yourself, you know that? I feel so lucky that we found each other.\u201d\n\n---\n\n**\ud83d\udcad Deep and subtle (when you want to hint at love without saying it)**\n> \u201cYou make my heart feel at home in a way I didn\u2019t expect. Thank you for being who you are.\u201d\n\n---\n\nWould you like me to tailor the response to sound more **playful**, **romantic**, or **emotionally deep** based on how your relationship feels right now?"
+          ]
+        },
+        "create_time": 1760658041.944581,
+        "id": "196ff63d-2d9b-4e50-9c78-18d23efe4057",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "51add4b1-9723-4a30-ad9e-97c977f71cff"
+        }
+      },
+      "parent": "bbb21be7-ca7a-4b7a-ac1e-46eaa2caf308"
+    },
+    "5f9c1068-676c-49d8-aa6b-740fb6ee5bf4": {
+      "id": "5f9c1068-676c-49d8-aa6b-740fb6ee5bf4",
+      "message": null,
+      "parent": null
+    },
+    "7a29b2b0-ca7d-4860-baa1-8db391058de8": {
+      "id": "7a29b2b0-ca7d-4860-baa1-8db391058de8",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here are a few versions of that text, depending on how you want it to feel:  \n\n---\n\n**\u2764\ufe0f Soft and romantic**  \n> I\u2019m in a crowded room surrounded by familiar faces, but all I can think about is you and how much I want to be with you.  \n\n---\n\n**\ud83d\udd25 More passionate**  \n> I\u2019m in a room full of people, but my mind keeps drifting to you. It\u2019s crazy how even when I\u2019m surrounded by everything else, you\u2019re the only thing I want.  \n\n---\n\n**\ud83d\udcab Simple and sincere**  \n> I\u2019m in a room full of people I know, but none of it feels right because all I can think about is you.  \n\n---\n\nWould you like me to make it sound **more flirty** or **more emotional**?"
+          ]
+        },
+        "create_time": 1760662733.017221,
+        "id": "7a29b2b0-ca7d-4860-baa1-8db391058de8",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "873f88ff-ed38-4dfb-b02f-51003ebaaf0d"
+        }
+      },
+      "parent": "bbb212fb-72ba-4310-82c1-043fad761f61"
+    },
+    "bbb212fb-72ba-4310-82c1-043fad761f61": {
+      "id": "bbb212fb-72ba-4310-82c1-043fad761f61",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write a text: I'm in a rower room surrounded by familiar people and all I can think about is you and wanting to be with you"
+          ]
+        },
+        "create_time": 1760662732.875989,
+        "id": "bbb212fb-72ba-4310-82c1-043fad761f61",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "196ff63d-2d9b-4e50-9c78-18d23efe4057"
+    },
+    "bbb21be7-ca7a-4b7a-ac1e-46eaa2caf308": {
+      "id": "bbb21be7-ca7a-4b7a-ac1e-46eaa2caf308",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "If the man you're starting to date who you are madly in love with sends you an audio clip that says I just want to let you know that you're absolutely amazing and you really want to tell him I love you but you can't say that yet. What would you say?"
+          ]
+        },
+        "create_time": 1760658041.853924,
+        "id": "bbb21be7-ca7a-4b7a-ac1e-46eaa2caf308",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "5f9c1068-676c-49d8-aa6b-740fb6ee5bf4"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Response ideas for love",
+  "update_time": 1760662738.253843,
+  "voice": null
+}

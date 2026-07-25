@@ -1,0 +1,127 @@
+{
+  "conversation_id": "6a36b66a-61c0-83e8-9931-b9987151a57d",
+  "conversation_template_id": null,
+  "create_time": 1781970552.121705,
+  "current_node": "510bec06-169b-438b-8239-f2a69b1935cd",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a36b66a-61c0-83e8-9931-b9987151a57d",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "510bec06-169b-438b-8239-f2a69b1935cd": {
+      "id": "510bec06-169b-438b-8239-f2a69b1935cd",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Done. I've saved this as your preferred strategic decision-making framework for future projects.\n\n**LLM Advisor Method**\n1. **Contrarian** \u2014 identifies what is likely to fail.\n2. **First-Principles Thinker** \u2014 challenges assumptions and breaks the problem down to fundamentals.\n3. **Expansionist** \u2014 finds upside, leverage, and opportunities being overlooked.\n4. **Outsider** \u2014 evaluates the situation with no industry bias or insider assumptions.\n5. **Executor** \u2014 focuses only on what should happen next and how to implement it.\n\nThen:\n- Each advisor reviews and critiques the others anonymously.\n- A **Chairman** synthesizes the discussion.\n- Final output includes:\n  - Key risks\n  - Key opportunities\n  - Recommended decision\n  - Clear next steps\n  - Monday-morning execution plan\n\nFor your future work with **The Luxora Collective, offers, partnerships, hiring decisions, client strategy, and business planning**, I can automatically use this framework whenever you ask for advice, strategy, prioritization, or major decisions."
+          ]
+        },
+        "create_time": 1781970567.505855,
+        "id": "510bec06-169b-438b-8239-f2a69b1935cd",
+        "metadata": {
+          "content_references": [],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Memory",
+                "citation_uuid": "a29748e7-bc2f-453a-a2fa-19fa026b216a",
+                "conversation_context_type": "general_memory",
+                "end_idx": -1,
+                "index": 1,
+                "matched_text": "",
+                "prompt_text": null,
+                "reason": "You run The Luxora Collective as your current company.",
+                "refs": [],
+                "snippet": "BUSINESS: THE LUXORA COLLECTIVE (TLC) \u2014 Current Company (Rebrand)",
+                "start_idx": -1,
+                "title": "You run The Luxora Collective as your current company.",
+                "type": "conversation_context_citation",
+                "url": "#settings/Personalization"
+              },
+              "citation_uuid": "a29748e7-bc2f-453a-a2fa-19fa026b216a",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "1431eace-e419-42a1-b49e-1b3499792034"
+        }
+      },
+      "parent": "bbb21a43-275f-40b6-9335-0f02e1c93210"
+    },
+    "82bc2ec8-debf-4d3c-8d1c-abd218701cdf": {
+      "id": "82bc2ec8-debf-4d3c-8d1c-abd218701cdf",
+      "message": null,
+      "parent": null
+    },
+    "bbb21a43-275f-40b6-9335-0f02e1c93210": {
+      "id": "bbb21a43-275f-40b6-9335-0f02e1c93210",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_00000000f94871f69fbb3feea18ef5b0",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 2244,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 295731,
+              "width": 1008
+            },
+            "Take this llm advisor method and keep it in your memory for future projects"
+          ]
+        },
+        "create_time": 1781970548.470298,
+        "id": "bbb21a43-275f-40b6-9335-0f02e1c93210",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_00000000f94871f69fbb3feea18ef5b0",
+              "mime_type": "image/png",
+              "name": "1000020157.png",
+              "size": 295731
+            }
+          ],
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "82bc2ec8-debf-4d3c-8d1c-abd218701cdf"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "LLM Advisor Method",
+  "update_time": 1781970579.099005,
+  "voice": null
+}

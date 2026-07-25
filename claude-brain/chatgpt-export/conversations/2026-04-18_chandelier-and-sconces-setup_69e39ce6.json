@@ -1,0 +1,95 @@
+{
+  "conversation_id": "69e39ce6-aa40-83ea-a6d2-acf1063bd8ad",
+  "conversation_template_id": null,
+  "create_time": 1776524532.108912,
+  "current_node": "bbb21c52-067c-4f05-b5de-1431fe3ca8c9",
+  "default_model_slug": "gpt-5-3",
+  "id": "69e39ce6-aa40-83ea-a6d2-acf1063bd8ad",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "4d30970d-64c6-4b45-b0b0-4dd611f8f896": {
+      "id": "4d30970d-64c6-4b45-b0b0-4dd611f8f896",
+      "message": null,
+      "parent": null
+    },
+    "bbb21c52-067c-4f05-b5de-1431fe3ca8c9": {
+      "id": "bbb21c52-067c-4f05-b5de-1431fe3ca8c9",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_00000000d66871f8bea2c1acb99c0c65",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 975,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 164866,
+              "width": 1000
+            },
+            {
+              "asset_pointer": "sediment://file_00000000f89071fdbd493755f73dc05d",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 1207,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 467717,
+              "width": 994
+            },
+            "Take this picture of chandelier and put the two sconces one on each side. I'm trying to see if it would make. A good back drop for my video vsl"
+          ]
+        },
+        "create_time": 1776524520.054637,
+        "id": "bbb21c52-067c-4f05-b5de-1431fe3ca8c9",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "image_send_uuid": "84b81794-cc3f-4109-acdb-da35448a84d6"
+        }
+      },
+      "parent": "4d30970d-64c6-4b45-b0b0-4dd611f8f896"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Chandelier and Sconces Setup",
+  "update_time": 1776524551.152636,
+  "voice": null
+}

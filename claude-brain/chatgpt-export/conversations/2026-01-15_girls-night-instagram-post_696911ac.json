@@ -1,0 +1,71 @@
+{
+  "conversation_id": "696911ac-ed14-832f-8b68-f731fcc9d995",
+  "conversation_template_id": null,
+  "create_time": 1768493523.912388,
+  "current_node": "2d05205d-7e4e-4d39-860f-5b09aca2cfc3",
+  "default_model_slug": "gpt-5-2",
+  "id": "696911ac-ed14-832f-8b68-f731fcc9d995",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "2d05205d-7e4e-4d39-860f-5b09aca2cfc3": {
+      "id": "2d05205d-7e4e-4d39-860f-5b09aca2cfc3",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Girls night done right \ud83e\udd0d\u2728  \nThe **best Caesar salad**, a couple of drinks, and a good old scary movie that makes you laugh and jump at the same time. Mama\u2019s homemade popcorn in the bowl, cozy blankets everywhere, and puppy love stealing the show on the couch \ud83d\udc36\ud83c\udf7f  \n\nSometimes the sweetest nights aren\u2019t fancy at all. Just good food, good company, a little suspense, and a whole lot of love. Grateful for these simple moments that fill my cup. \ud83d\udcab"
+          ]
+        },
+        "create_time": 1768493523.829069,
+        "id": "2d05205d-7e4e-4d39-860f-5b09aca2cfc3",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "ea505943-b8df-49f5-9ef9-8bca90e1b72e"
+        }
+      },
+      "parent": "bbb21b8f-24e3-4692-b4ac-a4d11520c19f"
+    },
+    "bbb21b8f-24e3-4692-b4ac-a4d11520c19f": {
+      "id": "bbb21b8f-24e3-4692-b4ac-a4d11520c19f",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write a Instagram post about girls night with the best ceaser salad, drinks and a good old scary movie with mamas homemade popcorn and puppy love"
+          ]
+        },
+        "create_time": 1768493523.719155,
+        "id": "bbb21b8f-24e3-4692-b4ac-a4d11520c19f",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "dd7c0e38-83d3-4f83-a3c2-dcef5b360369"
+    },
+    "dd7c0e38-83d3-4f83-a3c2-dcef5b360369": {
+      "id": "dd7c0e38-83d3-4f83-a3c2-dcef5b360369",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Girls night Instagram post",
+  "update_time": 1768493532.558568,
+  "voice": null
+}

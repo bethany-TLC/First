@@ -1,0 +1,71 @@
+{
+  "conversation_id": "68a3911b-431c-8320-8fcf-cfd35b30b0a2",
+  "conversation_template_id": null,
+  "create_time": 1755549998.890437,
+  "current_node": "29aee277-f55e-472e-af42-3cb9a9380783",
+  "default_model_slug": "auto",
+  "id": "68a3911b-431c-8320-8fcf-cfd35b30b0a2",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "1890913f-caec-4dc1-88d8-7826e59c912a": {
+      "id": "1890913f-caec-4dc1-88d8-7826e59c912a",
+      "message": null,
+      "parent": null
+    },
+    "29aee277-f55e-472e-af42-3cb9a9380783": {
+      "id": "29aee277-f55e-472e-af42-3cb9a9380783",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Great question, Bethany. If you\u2019ve negotiated a **5% revenue-share deal** with a MedSpa client, the key is **clear tracking, transparent reporting, and automation wherever possible** so you\u2019re not chasing numbers every month. Here\u2019s how you can set it up:  \n\n---\n\n## \ud83d\udd11 Steps to Track Your 5% Revenue Share\n\n### 1. **Define \u201cRevenue\u201d Clearly in Contract**\n- Is it **gross revenue** (all sales before expenses) or **net revenue** (after refunds, discounts, etc.)?  \n- Does it include **package pre-purchases, memberships, retail sales, injectables, wellness programs**?  \n- Spell this out in your agreement so there\u2019s no confusion.\n\n---\n\n### 2. **Get Direct Access to Reports**\nOptions:\n- **Practice Management Software** (e.g., Aesthetic Record, PatientNow, Zenoti, Nextech, Boulevard):  \n  Ask for a **monthly revenue report export** (usually CSV, Excel, or PDF).\n- **POS / Merchant Processor** (Stripe, Square, Authorize.net):  \n  Can pull **gross revenue directly from payment system**.\n- **Accounting Software** (QuickBooks, Xero):  \n  If the MedSpa uses one, you can ask for a **\u201cSales by Month\u201d** report.  \n\n---\n\n### 3. **Automate Tracking**\n- **Google Sheets + Zapier/Make**:  \n  Set up a dashboard where monthly revenue flows in automatically from their booking/POS system. Formula auto-calculates your **5% cut**.  \n- **Client Dashboard**: If you already give them dashboards (like Diamond Accelerator), build a tab for \u201cRevenue Share\u201d that updates with their reported numbers.  \n- **Bank Deposit Verification**: Some consultants tie their rev-share to **deposits shown in Stripe/Square reports** (to avoid underreporting).\n\n---\n\n### 4. **Reconciliation Process**\n- Agree on a **monthly close-out date** (e.g., 5th of each month for the prior month).  \n- Client exports revenue report \u2192 you confirm \u2192 invoice them for 5%.  \n- Or, even better: **Auto-withdraw via ACH/Stripe** if they agree to direct billing.\n\n---\n\n### 5. **Build in Accountability**\n- **Audit Clause**: Add in contract that you have the right to request supporting documentation (POS reports, booking logs, etc.) quarterly or annually.  \n- **Minimum Guarantee**: If revenue drops or tracking gets messy, you still have a base fee.  \n\n---\n\n### 6. **Tools You Can Use**\n- **GHL (GoHighLevel)** \u2013 track lead \u2192 booking \u2192 revenue if integrated with Stripe.  \n- **QuickBooks Online / Wave Accounting** \u2013 easy client report pulls.  \n- **Google Looker Studio** \u2013 create a client-facing dashboard with live numbers.  \n\n---\n\n\u2705 **Pro tip for peace of mind**: Tie rev-share to **documented sales numbers** (reports, merchant deposits, or accounting exports), not just \u201cwhat the client tells you.\u201d That way you\u2019re protected.  \n\n---\n\nDo you want me to **draft a sample Rev-Share Tracking Sheet (Google Sheets/Excel)** for you that auto-calculates your 5% when your client inputs their monthly revenue?"
+          ]
+        },
+        "create_time": 1755549998.508886,
+        "id": "29aee277-f55e-472e-af42-3cb9a9380783",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "28e70726-9343-43ab-a0d3-98991202cbe9"
+        }
+      },
+      "parent": "bbb2144a-49af-497c-b6f2-fce0c032879d"
+    },
+    "bbb2144a-49af-497c-b6f2-fce0c032879d": {
+      "id": "bbb2144a-49af-497c-b6f2-fce0c032879d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "How can track my 5% rev-share from my MedSpa client "
+          ]
+        },
+        "create_time": 1755549998.313484,
+        "id": "bbb2144a-49af-497c-b6f2-fce0c032879d",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "1890913f-caec-4dc1-88d8-7826e59c912a"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Track 5% revenue share",
+  "update_time": 1755550015.392312,
+  "voice": null
+}

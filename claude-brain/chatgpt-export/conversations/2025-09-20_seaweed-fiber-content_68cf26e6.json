@@ -1,0 +1,71 @@
+{
+  "conversation_id": "68cf26e6-bbf4-832b-a761-5ed758461d9e",
+  "conversation_template_id": null,
+  "create_time": 1758406380.879177,
+  "current_node": "e1e6fd4f-5600-455c-878d-361dd4f2137b",
+  "default_model_slug": "gpt-5",
+  "id": "68cf26e6-bbf4-832b-a761-5ed758461d9e",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "bbb2151b-a346-467c-8ac3-3abc8e6fb02f": {
+      "id": "bbb2151b-a346-467c-8ac3-3abc8e6fb02f",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Does seaweed have fiber\n"
+          ]
+        },
+        "create_time": 1758406380.349333,
+        "id": "bbb2151b-a346-467c-8ac3-3abc8e6fb02f",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "e49abc35-da23-43c9-997d-d78a611b82a2"
+    },
+    "e1e6fd4f-5600-455c-878d-361dd4f2137b": {
+      "id": "e1e6fd4f-5600-455c-878d-361dd4f2137b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Yes \u2014 seaweed does have fiber.  \n\nSeaweed (like nori, wakame, kelp, and kombu) is naturally rich in **dietary fiber**, particularly **soluble fiber** such as alginates, carrageenan, and agar. These fibers can help with digestion, promote a feeling of fullness, and support gut health.  \n\n- **Nori (the sheets used for sushi)** has about **0.5\u20131 g of fiber per sheet**.  \n- **Wakame and kelp** (used in soups or salads) are also good fiber sources, usually providing **2\u20134 g per 100 g (cooked)**.  \n- Seaweed snacks (roasted nori chips) are usually low in calories but still give you a small fiber boost.  \n\nWould you like me to pull together a quick list of **lowest-fiber sushi options** for you, since seaweed is usually included in sushi?"
+          ]
+        },
+        "create_time": 1758406380.621947,
+        "id": "e1e6fd4f-5600-455c-878d-361dd4f2137b",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "9a03dc38-003d-4b28-9816-1e61f4e311a2"
+        }
+      },
+      "parent": "bbb2151b-a346-467c-8ac3-3abc8e6fb02f"
+    },
+    "e49abc35-da23-43c9-997d-d78a611b82a2": {
+      "id": "e49abc35-da23-43c9-997d-d78a611b82a2",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Seaweed fiber content",
+  "update_time": 1758406388.276757,
+  "voice": null
+}

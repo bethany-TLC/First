@@ -1,0 +1,272 @@
+{
+  "conversation_id": "6963d2bb-a3f4-8329-8614-f9c87f0220ae",
+  "conversation_template_id": null,
+  "create_time": 1768149789.025046,
+  "current_node": "b08c8fc5-a0e4-447a-8775-a05a5363640d",
+  "default_model_slug": "gpt-5-2",
+  "id": "6963d2bb-a3f4-8329-8614-f9c87f0220ae",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "54fa73dd-3dd3-4c1f-9249-b8580d938319": {
+      "id": "54fa73dd-3dd3-4c1f-9249-b8580d938319",
+      "message": null,
+      "parent": null
+    },
+    "b08c8fc5-a0e4-447a-8775-a05a5363640d": {
+      "id": "b08c8fc5-a0e4-447a-8775-a05a5363640d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "\ue200image_group\ue202{\"aspect_ratio\":\"16:9\",\"query\":[\"Tampa Riverwalk downtown\",\"St. Petersburg Florida waterfront\",\"The Dal\u00ed Museum St. Petersburg exterior\",\"CW Gin Joint Tampa interior\",\"Bern's Steak House dessert room\"]}\ue201\n\nTampa was the perfect way to kick off my first adventure of the year, and honestly, I could not have asked for a better start to a brand-new chapter.\n\nFrom the moment I hit the **\ue200entity\ue202[\"point_of_interest\",\"Tampa Riverwalk\",\"downtown Tampa, FL, US\"]\ue201**, I was in full soak-it-all-in mode. Downtown was alive, the water was glowing, and somehow it was a perfect 80 degrees in January. Sunshine, palm trees, and that effortless Florida energy that makes you slow down and breathe a little deeper.\n\nWe made our way over to **\ue200entity\ue202[\"city\",\"St. Petersburg\",\"Florida Gulf Coast city\"]\ue201**, which completely stole my heart. The highlight was the **\ue200entity\ue202[\"point_of_interest\",\"The Dal\u00ed Museum\",\"St. Petersburg, FL, US\"]\ue201**. Walking through that space felt surreal. Creative, bold, and slightly dreamlike in the best way. It was one of those moments that reminds you how important art, imagination, and perspective really are.\n\nOne of my favorite nights was spent at **\ue200entity\ue202[\"restaurant\",\"CW Gin Joint\",\"Tampa, FL, US\"]\ue201**, laughing way too hard and having the best time with Battaned Rodger. Cozy vibes, incredible drinks, and the kind of conversation that makes time disappear. Those are the nights you wish you could bottle up and keep.\n\nAnd then came a true first for me. Dessert at **\ue200entity\ue202[\"restaurant\",\"Bern's Steak House\",\"Tampa, FL, US\"]\ue201**. If you know, you know. The dessert room alone feels like stepping into another world, but the real star was my flight of tawny port. Rich, smooth, indulgent, and the perfect way to end the evening. It felt celebratory, intentional, and honestly a little symbolic.\n\nThis trip was more than just a getaway. It felt like a reset. A reminder that life is meant to be enjoyed, explored, and fully lived. Sunshine in January, art that moves you, laughter that stays with you, and new experiences that mark the beginning of something fresh.\n\nHere\u2019s to first adventures, new chapters, and saying yes to moments that feel really, really good. \ud83c\udf34\u2728"
+          ]
+        },
+        "create_time": 1768149788.925352,
+        "id": "b08c8fc5-a0e4-447a-8775-a05a5363640d",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "![Image](https://cloudfront-us-east-1.images.arcpublishing.com/tbt/63MFRMWPDRCP5L2ANXLCUD523M.JPG)\n\n![Image](https://assets.simpleviewinc.com/simpleview/image/upload/c_limit%2Ch_1200%2Cq_75%2Cw_1200/v1/clients/visitflorida/ST_PETE_BEACH_DON_CESAR_RESORT_AERIAL_SUNRISE_d62ce507-e1b0-47b2-9cb7-153f263b66e4.jpg)\n\n![Image](https://thedali.org/wp-content/uploads/2020/08/1200x500-Dali-Museum-Building-Daytime.jpg)\n\n![Image](https://thedali.org/wp-content/uploads/2020/07/home-hero.jpg)\n\n![Image](https://www.hok.com/wp-content/uploads/2019/05/Dali-Museum-Exterior-03-1900.jpg)",
+              "images": [
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 2242,
+                      "width": 3363
+                    },
+                    "content_url": "https://cloudfront-us-east-1.images.arcpublishing.com/tbt/63MFRMWPDRCP5L2ANXLCUD523M.JPG",
+                    "preview_url": null,
+                    "scores": {
+                      "grader_score": 0.75,
+                      "retrieval_score": null
+                    },
+                    "show_url": true,
+                    "source": "serpapi_bulk",
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.6727272727272727,
+                      "center_y_percent": 0.6284153005464481
+                    },
+                    "thumbnail_size": {
+                      "height": 183,
+                      "width": 275
+                    },
+                    "thumbnail_url": "https://images.openai.com/thumbnails/url/feAzL3icu5mVUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw4JCMqNNzX1y3PKco8sTfUqcMuwKEkzLbaMck6P8LMoD8uP8M429HMPLir38AzMNS8NUSsGAIAQJm0",
+                    "title": "Downtown Tampa guide: How to explore Riverwalk and beyond ...",
+                    "url": "https://www.tampabay.com/life-culture/guides/2023/08/10/visit-downtown-tampa-florida-riverwalk-armature-works-sparkman-wharf/?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "Tampa Riverwalk downtown",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 799,
+                      "width": 1200
+                    },
+                    "content_url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit%2Ch_1200%2Cq_75%2Cw_1200/v1/clients/visitflorida/ST_PETE_BEACH_DON_CESAR_RESORT_AERIAL_SUNRISE_d62ce507-e1b0-47b2-9cb7-153f263b66e4.jpg",
+                    "preview_url": null,
+                    "scores": {
+                      "grader_score": 0.75,
+                      "retrieval_score": null
+                    },
+                    "show_url": true,
+                    "source": "serpapi_bulk",
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.5163636363636364,
+                      "center_y_percent": 0.6010928961748634
+                    },
+                    "thumbnail_size": {
+                      "height": 183,
+                      "width": 275
+                    },
+                    "thumbnail_url": "https://images.openai.com/thumbnails/url/WjhRn3icu5mZUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw4sKfG3cM9JjXQtzPWoCnJKcoovsfArza_ISDVO8811LzXIMvaJqnArcMt3yyw1j0xXKwYAca8m1g",
+                    "title": "St Pete Beach Florida - Things to Do & Attractions",
+                    "url": "https://www.visitflorida.com/places-to-go/central-west/st-pete-beach/?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "St. Petersburg Florida waterfront",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 500,
+                      "width": 1200
+                    },
+                    "content_url": "https://thedali.org/wp-content/uploads/2020/08/1200x500-Dali-Museum-Building-Daytime.jpg",
+                    "preview_url": null,
+                    "scores": {
+                      "grader_score": 0.75,
+                      "retrieval_score": null
+                    },
+                    "show_url": true,
+                    "source": "serpapi_bulk",
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.13218390804597702,
+                      "center_y_percent": 0.896551724137931
+                    },
+                    "thumbnail_size": {
+                      "height": 145,
+                      "width": 348
+                    },
+                    "thumbnail_url": "https://images.openai.com/thumbnails/url/HxxKYnicu5mZUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw5M98vP8_A2DMx0KvEzDfBK9jQxcs_UTXfNNTfycncOzrHMDQ8xKioITXdLLYs3jnBUKwYAQGglKw",
+                    "title": "Visitor Information - Salvador Dal\u00ed Museum",
+                    "url": "https://thedali.org/visit/visitor-information/?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "The Dal\u00ed Museum St. Petersburg exterior",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 1046,
+                      "width": 2560
+                    },
+                    "content_url": "https://thedali.org/wp-content/uploads/2020/07/home-hero.jpg",
+                    "preview_url": null,
+                    "scores": {
+                      "grader_score": 0.75,
+                      "retrieval_score": null
+                    },
+                    "show_url": true,
+                    "source": "serpapi_bulk",
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.8632478632478633,
+                      "center_y_percent": 0.7692307692307693
+                    },
+                    "thumbnail_size": {
+                      "height": 143,
+                      "width": 351
+                    },
+                    "thumbnail_url": "https://images.openai.com/thumbnails/url/yPRUJXicu5mVUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw5KNjLzTc-OdIowdjZJCTJ38w43KEgOcXGPdEmLCAirzAnLMzSKT_Esy8lOCfctSItwUisGAGSYJfU",
+                    "title": "The Dal\u00ed Home - Salvador Dal\u00ed Museum",
+                    "url": "https://thedali.org/?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "The Dal\u00ed Museum St. Petersburg exterior",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 1270,
+                      "width": 1900
+                    },
+                    "content_url": "https://www.hok.com/wp-content/uploads/2019/05/Dali-Museum-Exterior-03-1900.jpg",
+                    "preview_url": null,
+                    "scores": {
+                      "grader_score": 0.75,
+                      "retrieval_score": null
+                    },
+                    "show_url": true,
+                    "source": "serpapi_bulk",
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.8618181818181818,
+                      "center_y_percent": 0.8087431693989071
+                    },
+                    "thumbnail_size": {
+                      "height": 183,
+                      "width": 275
+                    },
+                    "thumbnail_url": "https://images.openai.com/thumbnails/url/dPeoKXicu5mVUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw4KMXdO83TMcnU2jsg3zyn1T_OKirCIqIzPNrV0cQw2znZ3NCoIinIyNa7wzs12Nw4MUSsGAGM6JT0",
+                    "title": "The Dal\u00ed Museum - HOK",
+                    "url": "https://www.hok.com/projects/view/the-dali-museum/?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "The Dal\u00ed Museum St. Petersburg exterior",
+                  "image_search_system": null
+                }
+              ],
+              "prompt_text": "![Image](https://cloudfront-us-east-1.images.arcpublishing.com/tbt/63MFRMWPDRCP5L2ANXLCUD523M.JPG)\n\n![Image](https://assets.simpleviewinc.com/simpleview/image/upload/c_limit%2Ch_1200%2Cq_75%2Cw_1200/v1/clients/visitflorida/ST_PETE_BEACH_DON_CESAR_RESORT_AERIAL_SUNRISE_d62ce507-e1b0-47b2-9cb7-153f263b66e4.jpg)\n\n![Image](https://thedali.org/wp-content/uploads/2020/08/1200x500-Dali-Museum-Building-Daytime.jpg)\n\n![Image](https://thedali.org/wp-content/uploads/2020/07/home-hero.jpg)\n\n![Image](https://www.hok.com/wp-content/uploads/2019/05/Dali-Museum-Exterior-03-1900.jpg)",
+              "type": "image_group"
+            },
+            {
+              "alt": "Tampa Riverwalk",
+              "entity_data": null,
+              "extra_params": {
+                "disambiguation": "downtown Tampa, FL, US"
+              },
+              "metadata": null,
+              "name": "Tampa Riverwalk",
+              "prompt_text": "Tampa Riverwalk",
+              "type": "entity"
+            },
+            {
+              "alt": "St. Petersburg",
+              "entity_data": null,
+              "extra_params": {
+                "disambiguation": "Florida Gulf Coast city"
+              },
+              "metadata": null,
+              "name": "St. Petersburg",
+              "prompt_text": "St. Petersburg",
+              "type": "entity"
+            },
+            {
+              "alt": "The Dal\u00ed Museum",
+              "entity_data": null,
+              "extra_params": {
+                "disambiguation": "St. Petersburg, FL, US"
+              },
+              "metadata": null,
+              "name": "The Dal\u00ed Museum",
+              "prompt_text": "The Dal\u00ed Museum",
+              "type": "entity"
+            },
+            {
+              "alt": "CW Gin Joint",
+              "prompt_text": "CW Gin Joint",
+              "type": "alt_text"
+            },
+            {
+              "alt": "Bern's Steak House",
+              "prompt_text": "Bern's Steak House",
+              "type": "alt_text"
+            }
+          ],
+          "model_slug": "gpt-5-2",
+          "parent_id": "e588fa38-a66c-4653-91e4-87a5bbb13691"
+        }
+      },
+      "parent": "bbb2188b-da9a-469c-a8b2-c87d8b7c86c1"
+    },
+    "bbb2188b-da9a-469c-a8b2-c87d8b7c86c1": {
+      "id": "bbb2188b-da9a-469c-a8b2-c87d8b7c86c1",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write a post about my trip to Tampa. Include downtown Riverwalk, st Pete and the Dali museum, talk about perfect 80dehrees weather in January and how much fun at the CW Gin place with battened Rodger and then my first dessert restaurant called Berns with my flight of Tawny port.. talk about first  adventure of the year and a great start to a new chapter "
+          ]
+        },
+        "create_time": 1768149788.783621,
+        "id": "bbb2188b-da9a-469c-a8b2-c87d8b7c86c1",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "54fa73dd-3dd3-4c1f-9249-b8580d938319"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Tampa Trip Highlights",
+  "update_time": 1768149809.199624,
+  "voice": null
+}

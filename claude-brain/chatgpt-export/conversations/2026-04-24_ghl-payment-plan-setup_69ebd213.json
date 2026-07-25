@@ -1,0 +1,102 @@
+{
+  "conversation_id": "69ebd213-541c-83ea-9fba-76f04de42a4b",
+  "conversation_template_id": null,
+  "create_time": 1777062442.430778,
+  "current_node": "46d2819d-ec0e-473d-9afb-e595dbedb502",
+  "default_model_slug": "gpt-5-3",
+  "id": "69ebd213-541c-83ea-9fba-76f04de42a4b",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "46d2819d-ec0e-473d-9afb-e595dbedb502": {
+      "id": "46d2819d-ec0e-473d-9afb-e595dbedb502",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "You\u2019re very close. This is doable inside **\ue200entity\ue202[\"software\",\"GoHighLevel\",\"CRM marketing platform\"]\ue201**, but the key is understanding how their payments actually work.\n\nShort answer:  \n\ud83d\udc49 You don\u2019t \u201cadd\u201d a payment plan directly inside the page builder.  \n\ud83d\udc49 You create it in **Payments \u2192 Products**, then attach it to your checkout.\n\nHere\u2019s exactly how to set up **down payment + payment plan** \ud83d\udc47\n\n---\n\n## Step 1: Create the Payment Plan (with Down Payment)\n\nGo to:\n**Payments \u2192 Products \u2192 + New Product**\n\nWhen creating the product:\n\n- **Pricing Type:** Choose **Payment Plan**\n- Then configure:\n  - **Initial Payment (Down Payment)** \u2192 this is where you set the upfront amount\n  - **Recurring Payments** \u2192 set:\n    - number of payments\n    - frequency (monthly, weekly, etc.)\n    - amount per payment\n\nExample:\n- Down payment: $1,500  \n- Then: $1,000/month for 6 months\n\nThis creates ONE product that handles both.\n\n---\n\n## Step 2: (Optional) Create Multiple Options\n\nIf you want choices on your checkout page like:\n- Pay in full\n- Payment plan option 1\n- Payment plan option 2\n\nYou need to create **separate products** for each.\n\n---\n\n## Step 3: Add to Your Checkout Page\n\nGo to your funnel or website page:\n\n- Open your **Order Form / Checkout Page**\n- Click on the **Order Form element**\n- In settings:\n  - Select your product(s)\n  - Enable **multiple products** if you want options\n\n---\n\n## Step 4: Make It Look Clean (Important)\n\nGHL will stack products, which can look messy if you don\u2019t organize it.\n\nBest practice:\n- Rename products clearly:\n  - \u201cPay in Full (Save $X)\u201d\n  - \u201cPayment Plan (Split into 6 Payments)\u201d\n- Use descriptions to explain:\n  - what\u2019s due today\n  - what\u2019s billed later\n\n---\n\n## Step 5: If You Want a TRUE \u201cToggle\u201d Experience\n\nGHL doesn\u2019t natively do a clean toggle (like Stripe checkout).\n\nTwo better options:\n\n### Option A (Simple)\nUse multiple product options inside the order form  \n\u2192 fastest, most common\n\n### Option B (Cleaner UX)\nCreate:\n- separate buttons:\n  - \u201cPay in Full\u201d\n  - \u201cPayment Plan\u201d\n- each links to a **separate checkout page**\n\n\ud83d\udc49 This converts better for high-ticket offers (what you\u2019re doing)\n\n---\n\n## Step 6: Stripe Setup Check\n\nMake sure inside your **\ue200entity\ue202[\"software\",\"Stripe\",\"payment processing platform\"]\ue201** integration:\n- Subscriptions are enabled\n- Your product is mapped correctly\n\n---\n\n## Pro Tip (Based on Your Luxora Model)\n\nFor your offer, I would structure it like:\n\n- **Option 1:** Pay in Full (with incentive)\n- **Option 2:** Payment Plan with Down Payment\n  - \u201cSecure your spot today for $X\u201d\n  - \u201cRemaining split into X payments\u201d\n\n\ud83d\udc49 This framing increases conversions and reduces hesitation\n\n---\n\n## Common Mistake to Avoid\n\n\u274c Trying to build payment plans inside the page builder  \n\u274c Using \u201cone-time product\u201d and expecting installments  \n\u274c Not clearly showing what\u2019s charged today vs later  \n\n---\n\nIf you want, I can map out the exact structure for your **Luxora Growth Engine checkout** so it feels premium and closes like a sales page instead of a generic GHL form."
+          ]
+        },
+        "create_time": 1777062442.350003,
+        "id": "46d2819d-ec0e-473d-9afb-e595dbedb502",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "GoHighLevel",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "CRM marketing platform"
+              },
+              "id": null,
+              "metadata": null,
+              "name": "GoHighLevel",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "GoHighLevel",
+              "type": "entity"
+            },
+            {
+              "alt": "Stripe",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "payment processing platform"
+              },
+              "id": null,
+              "metadata": null,
+              "name": "Stripe",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Stripe",
+              "type": "entity"
+            }
+          ],
+          "model_slug": "gpt-5-3",
+          "parent_id": "20011a5e-083b-447b-b5b3-6e72f130aa4a"
+        }
+      },
+      "parent": "bbb2109a-bf22-43c5-8437-2a159a9c4308"
+    },
+    "bbb2109a-bf22-43c5-8437-2a159a9c4308": {
+      "id": "bbb2109a-bf22-43c5-8437-2a159a9c4308",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "I'm on GHL and I have a site. It's app.gohighlevel.com, and then my checkout page. I want to add a place on my checkout page that has been fully created for me that allows me to add a different type of payment plan and also a down payment. How do I do that?"
+          ]
+        },
+        "create_time": 1777062442.128987,
+        "id": "bbb2109a-bf22-43c5-8437-2a159a9c4308",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "f381b84b-36e2-40e8-b3f4-4d3cf04b8d8b"
+    },
+    "f381b84b-36e2-40e8-b3f4-4d3cf04b8d8b": {
+      "id": "f381b84b-36e2-40e8-b3f4-4d3cf04b8d8b",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "GHL Payment Plan Setup",
+  "update_time": 1777062461.015958,
+  "voice": null
+}

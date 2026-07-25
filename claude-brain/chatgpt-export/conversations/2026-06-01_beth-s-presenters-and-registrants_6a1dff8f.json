@@ -1,0 +1,120 @@
+{
+  "conversation_id": "6a1dff8f-cec8-83e8-90ea-02650cec3ef8",
+  "conversation_template_id": null,
+  "create_time": 1780350865.29465,
+  "current_node": "332739e1-691f-473d-af2d-9977a4e8f4ed",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a1dff8f-cec8-83e8-90ea-02650cec3ef8",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "2962a00d-a66f-46e9-b1eb-fc2c46dd174f": {
+      "id": "2962a00d-a66f-46e9-b1eb-fc2c46dd174f",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "thoughts",
+          "source_analysis_msg_id": "26f480e9-0a20-41f8-a728-ce3e396e84b3",
+          "thoughts": [
+            {
+              "chunks": [],
+              "content": "",
+              "finished": true,
+              "summary": ""
+            }
+          ]
+        },
+        "create_time": 1780350871.098145,
+        "id": "2962a00d-a66f-46e9-b1eb-fc2c46dd174f",
+        "metadata": {
+          "model_slug": "gpt-5-5",
+          "parent_id": "1dc6680d-fb10-4017-87d0-688e326ed31d"
+        }
+      },
+      "parent": "4ecb4748-cfb9-4c7f-988f-c9360a0a4410"
+    },
+    "332739e1-691f-473d-af2d-9977a4e8f4ed": {
+      "id": "332739e1-691f-473d-af2d-9977a4e8f4ed",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "From the files provided:\n\n### 1. How many of Beth's department (roster attached) are also accepted as presenters?\n\n**5 people** from Beth's department roster also appear on the accepted presenters list:\n\n| Name | Job Title |\n|--------|--------|\n| Emily Baran | BCBA Behavior Specialist |\n| David Crnobori | BCBA Behavior Specialist |\n| Leah Dalrymple | Social and Emotional Learning Specialist |\n| Lauren Michels | BCBA Behavior Specialist |\n| Sarah Shuster | BCBA Behavior Specialist |\n\n**Total: 5 presenters**\n\n---\n\n### 2. How many Pheedloop registrants are also presenters?\n\nI can't determine this from the files currently attached.\n\nThe files provided are:\n- **PGD Employee Roster.xlsx** (department roster)\n- **Speakers-table-download.csv** (accepted presenters)\n\nTo answer the registrant question, I'll need the **Pheedloop Registrants export** (CSV or Excel file containing attendee/registrant names and/or emails).\n\nOnce you upload the registrants file, I can tell you:\n- How many registrants are also presenters\n- Exactly which registrants are presenters\n- A matching spreadsheet if needed."
+          ]
+        },
+        "create_time": 1780350880.675703,
+        "id": "332739e1-691f-473d-af2d-9977a4e8f4ed",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "a688fd34-432b-4523-b5ca-2afe1da8ce8a"
+        }
+      },
+      "parent": "2962a00d-a66f-46e9-b1eb-fc2c46dd174f"
+    },
+    "4ecb4748-cfb9-4c7f-988f-c9360a0a4410": {
+      "id": "4ecb4748-cfb9-4c7f-988f-c9360a0a4410",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "1. How many of Beth's department (roster attached) are also accepted as presenters? Which ones?\r\n2. How many Pheedloop registrants are also presenters? Which ones?"
+          ]
+        },
+        "create_time": 1780350870.172,
+        "id": "4ecb4748-cfb9-4c7f-988f-c9360a0a4410",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_0000000087d871f7be7c9d96c41a229a",
+              "is_big_paste": false,
+              "library_file_id": "libfile_6bd58fd4690481918187e7ce74915513",
+              "mime_type": "text/csv",
+              "name": "Speakers-table-download.csv",
+              "size": 37349,
+              "source": "library"
+            },
+            {
+              "id": "file_000000003700722f9b4738127840937b",
+              "is_big_paste": false,
+              "library_file_id": "libfile_69bef4c6a5c08191b137075abc4e2859",
+              "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+              "name": "PGD Employee Roster.xlsx",
+              "size": 10035,
+              "source": "library"
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Beth's Presenters and Registrants",
+  "update_time": 1780360977.332266,
+  "voice": null
+}

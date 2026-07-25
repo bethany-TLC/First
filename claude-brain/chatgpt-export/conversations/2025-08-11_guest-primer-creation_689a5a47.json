@@ -1,0 +1,118 @@
+{
+  "conversation_id": "689a5a47-f828-8320-b091-2068aee6b116",
+  "conversation_template_id": null,
+  "create_time": 1754946153.830342,
+  "current_node": "e0b3f3ef-0262-40b0-be4c-be6c6c200d93",
+  "default_model_slug": "auto",
+  "id": "689a5a47-f828-8320-b091-2068aee6b116",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "05485947-5680-495f-8fe5-bb5d342979fa": {
+      "id": "05485947-5680-495f-8fe5-bb5d342979fa",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "questions adn emjoies at front of bullet points\n\nPlease write in English language."
+          ]
+        },
+        "create_time": 1755013059.448,
+        "id": "05485947-5680-495f-8fe5-bb5d342979fa",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "74b6c319-e6be-44cd-99b6-245ddbad0d17"
+    },
+    "74b6c319-e6be-44cd-99b6-245ddbad0d17": {
+      "id": "74b6c319-e6be-44cd-99b6-245ddbad0d17",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a polished guest primer for **Jena Rangnow of Beam Wellness** based on your transcript:\n\n---\n\n## Guest Primer: Jena Rangnow  \n**Founder & CEO, Beam Wellness**  \n**Podcast:** The Aesthetic Edge with Bethany Gifford\n\n---\n\n### About Jena Rangnow & Beam Wellness  \nJena Rangnow is the founder and driving force behind **Beam Wellness**, a wellness device company specializing in affordable, effective red light therapy solutions. Her flagship product, the **Beam Blanket**, is a cutting-edge red light therapy blanket embedded with 2,000 red and infrared LEDs, designed as an accessible alternative to prohibitively expensive $3,000 panels. From this innovative beginning, Beam Wellness has expanded its portfolio to **nine wellness products**, with plans for an additional 10 alternative wellness devices, including grounding technology.\n\nJena\u2019s background includes running a marketing business focused on estheticians during college, where she honed her expertise in social media-driven customer acquisition and creating compelling before-and-after content. This foundation informs her approach to product development and marketing at Beam Wellness.\n\n---\n\n### Business & Market Overview  \nBeam Wellness targets both **treatment rooms in med spas** and **direct-to-consumer retail**, bridging dual revenue streams that leverage peer-reviewed research recommending consistent daily use. The company currently markets to the large US med spa industry \u2014 estimated at **84,000 locations** \u2014 with aggressive outreach via AI-driven cold email campaigns sending **15,000 emails per month**, with scalability potential toward 80,000 emails, supported by AI technology from Jena\u2019s husband\u2019s startup.\n\nBeam Wellness has gained significant visibility through **two CBS television features**, bolstering its direct-to-consumer marketing efforts. The company operates a Dallas-based warehouse for fulfillment and maintains a fully functional e-commerce platform.\n\n---\n\n### Podcast Collaboration & Format  \nBethany Gifford hosts **The Aesthetic Edge**, a podcast for decision-makers across the aesthetic industry including med spa owners, dermatologists, plastic surgeons, operators, and estheticians. With 20 episodes recorded and 8-10 slated for launch, the podcast will soon engage a New York advertising team to promote episodes once 10-12 are released.\n\n- **Interview Format:**  \n  - One-hour recording via Riverside platform  \n  - Edited down to 20-30 minutes  \n  - Full editing rights and final approval granted to Jena before publication  \n  - Option to cancel if unsatisfied  \n\n---\n\n### Marketing & Partnership Opportunities  \n- **Affiliate Program:** Jena will receive access to a podcast-specific affiliate portal offering a **10% commission** for podcast promotion. Customers gain a **10% discount** incentive to boost engagement.  \n- **AI & Database Tools:** New Era Intel offers AI-powered tools and an extensive database to efficiently reach med spa owners and aesthetic professionals, a critical asset for growth and outreach.  \n- **Founder-Led Marketing Focus:** The podcast will spotlight founder-driven marketing strategies, a key theme relevant to Jena\u2019s entrepreneurial journey and Beam Wellness\u2019 growth.\n\n---\n\n### Action Items  \n**Bethany Gifford:**  \n- Send this guest primer with interview questions within 24 hours.  \n- Set up affiliate program link with podcast tracking for Jena.  \n- Schedule podcast recording for Wednesday, November 20th at 1:00 PM Central Time.\n\n**Jena Rangnow:**  \n- Provide affiliate portal access link via email for commission management.  \n- Prepare for the podcast interview with good lighting, professional background, and makeup.  \n- Review the guest primer upon receipt to prepare for the conversation.\n\n---\n\nIf you want me to include sample interview questions or tweak this for a specific tone or length, just say the word!"
+          ]
+        },
+        "create_time": 1754946153.49326,
+        "id": "74b6c319-e6be-44cd-99b6-245ddbad0d17",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-4-1-mini",
+          "parent_id": "490677c9-b266-417c-a2d9-55b4abdd712a"
+        }
+      },
+      "parent": "9142db1c-36e5-4262-b76c-e762c7474339"
+    },
+    "9142db1c-36e5-4262-b76c-e762c7474339": {
+      "id": "9142db1c-36e5-4262-b76c-e762c7474339",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "create a guest primer for Jena Rangow of Beam Wellness using this transcript: \r\nBethany Gifford, owner of a growth consultancy, transitioned from managing 12 plastic surgeons to founding New Era Intel focused on aesthetic practices post-burnout.\r\nBeam Blanket, Jena Rangnow's flagship product, was developed to offer affordable red light therapy alternatives to expensive $3,000 panels, now expanding to a portfolio of nine products.\r\nBeam Wellness utilizing AI tools for market analysis and customer outreach through cold email campaigns of 15,000 monthly.\r\nThe company gained significant visibility with two CBS television features, enhancing its direct-to-consumer marketing strategy for increased exposure.\r\nBethany's podcast aims at aesthetic industry decision-makers and has recorded 20 episodes, planning to launch 8-10 with a New York advertising team post-release of 10-12 episodes.\r\nThe podcast interview format will consist of one-hour recordings edited down to 20-30 minutes, offering Jena final approval before publication.\r\nA 10% affiliate commission program will promote podcast content while incentivizing customers with a 10% discount, enhancing partnerships.\r\nAI-powered tools and database access from New Era Intel were discussed as vital resources to efficiently reach med spa owners and aesthetic professionals.\r\nFounder-led marketing strategies were identified as a critical topic for the podcast, aimed at resonating with the target audience.\r\nOpportunities for collaboration on marketing strategies and product promotions were emphasized as a way to boost mutual growth for both parties.\r\n\r\nNotes\r\nInitial Introductions and Background (01:38 - 05:20)\r\nBethany Gifford introduced herself as owner of a growth consultancy agency working with aesthetic practices, having previously worked in dermatology for a decade managing 12 plastic surgeons, 8 doctors, and 44 women before burning out.\r\nBethany transitioned through a marketing agency that failed during COVID, took time off, and now runs New Era Intel consultancy focusing on aesthetic practices.\r\nJena Rangnow operates Beam Wellness, manufacturing wellness devices with flagship product being the Beam Blanket - a red light therapy blanket with 2000 red and infrared LEDs.\r\nJena's background includes running a marketing business serving estheticians during college, focusing on social media customer acquisition and before/after content.\r\nBeam Wellness Product Development (04:20 - 07:28)\r\nBeam Blanket originated from Jena's frustration with expensive $3,000 panels and lack of affordable home options, leading to prototype creation with engineering friends using LEDs soldered into a washcloth.\r\nCompany expanded from one product to nine products in portfolio with 10 additional alternative wellness products in pipeline including grounding technology.\r\nProducts serve dual revenue streams: treatment room revenue-generating assets for spas and retail take-home products for consistent daily use as recommended by peer-reviewed literature.\r\nBusiness Model and Market Reach (15:46 - 19:50)\r\nTarget market includes 84,000 med spas in the United States according to Bethany's AI tools and database.\r\nCurrent marketing includes cold email campaigns of 15,000 emails monthly, with potential to scale to 80,000 like Jena's husband's AI startup.\r\nBeam Wellness achieved CBS television coverage twice for direct-to-consumer market exposure.\r\nCompany operates with Dallas warehouse for product fulfillment and fully functional e-commerce website.\r\n\ufe0f Podcast Opportunity Discussion (08:59 - 13:55)\r\nBethany's podcast targets aesthetic industry decision makers including med spa owners, dermatology clinics, plastic surgeons, operators, and estheticians.\r\n20 episodes recorded, 8-10 launched with plans for advertising team from New York to promote once 10-12 episodes are published.\r\nInterview format: approximately one hour recording edited to 20-30 minutes, conducted via Riverside software platform with full editing capabilities.\r\nJena will receive full editing rights and approval before publication, with option to cancel if unsatisfied.\r\nMarketing and Partnership Opportunities (14:21 - 19:19)\r\n10% affiliate commission program available for podcast promotion with customer 10% discount incentive.\r\nNew Era Intel offers AI-powered tools and database access to reach med spa owners and aesthetic professionals.\r\nFounder-led marketing strategy discussion point identified as key topic for podcast interview.\r\n\r\nAction items\r\nBethany Gifford\r\nSend guest primer document with interview questions within 24 hours (21:25)\r\nSet up affiliate program link for Jena with podcast-specific tracking (16:24)\r\nSchedule podcast recording for Wednesday, November 20th at 1:00 PM Central Time (20:48)\r\nJena Rangnow\r\nProvide affiliate portal access link via email for commission management and payout tracking (21:13)\r\nPrepare for podcast interview with good lighting, professional background, and makeup (13:57)\r\nReview guest primer document when received for interview preparation (21:25)\r\n\nPlease write in English language."
+          ]
+        },
+        "create_time": 1754946153.27,
+        "id": "9142db1c-36e5-4262-b76c-e762c7474339",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "placeholder-request-WEB:d33dfadd-172c-443b-86cb-07bcdb148894-29"
+    },
+    "e0b3f3ef-0262-40b0-be4c-be6c6c200d93": {
+      "id": "e0b3f3ef-0262-40b0-be4c-be6c6c200d93",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s your updated **Guest Primer for Jena Rangnow** with interview questions and emojis at the front of bullet points:  \n\n---\n\n## Guest Primer: Jena Rangnow  \n**Founder & CEO, Beam Wellness**  \n**Podcast:** The Aesthetic Edge with Bethany Gifford  \n\n---\n\n### About Jena Rangnow & Beam Wellness  \nJena Rangnow is the founder and driving force behind **Beam Wellness**, a wellness device company specializing in affordable, effective red light therapy solutions. Her flagship product, the **Beam Blanket**, is a cutting-edge red light therapy blanket embedded with 2,000 red and infrared LEDs, designed as an accessible alternative to prohibitively expensive $3,000 panels. From this innovative beginning, Beam Wellness has expanded its portfolio to **nine wellness products**, with plans for an additional 10 alternative wellness devices, including grounding technology.  \n\nJena\u2019s background includes running a marketing business focused on estheticians during college, where she honed her expertise in social media-driven customer acquisition and creating compelling before-and-after content. This foundation informs her approach to product development and marketing at Beam Wellness.  \n\n---\n\n### Business & Market Overview  \nBeam Wellness targets both **treatment rooms in med spas** and **direct-to-consumer retail**, bridging dual revenue streams that leverage peer-reviewed research recommending consistent daily use. The company currently markets to the large US med spa industry \u2014 estimated at **84,000 locations** \u2014 with aggressive outreach via AI-driven cold email campaigns sending **15,000 emails per month**, with scalability potential toward 80,000 emails, supported by AI technology from Jena\u2019s husband\u2019s startup.  \n\nBeam Wellness has gained significant visibility through **two CBS television features**, bolstering its direct-to-consumer marketing efforts. The company operates a Dallas-based warehouse for fulfillment and maintains a fully functional e-commerce platform.  \n\n---\n\n### Podcast Collaboration & Format  \nBethany Gifford hosts **The Aesthetic Edge**, a podcast for decision-makers across the aesthetic industry including med spa owners, dermatologists, plastic surgeons, operators, and estheticians. With 20 episodes recorded and 8-10 slated for launch, the podcast will soon engage a New York advertising team to promote episodes once 10-12 are released.  \n\n- \ud83c\udf99 **Interview Format:**  \n  - \u23f1 One-hour recording via Riverside platform  \n  - \u2702 Edited down to 20-30 minutes  \n  - \u2705 Full editing rights and final approval granted to Jena before publication  \n  - \u274c Option to cancel if unsatisfied  \n\n---\n\n### Marketing & Partnership Opportunities  \n- \ud83e\udd1d **Affiliate Program:** 10% commission for podcast promotion with customers receiving a 10% discount incentive.  \n- \ud83d\udca1 **AI & Database Tools:** Access to New Era Intel\u2019s AI-powered tools and extensive database to reach med spa owners and aesthetic professionals.  \n- \ud83d\ude80 **Founder-Led Marketing Focus:** Highlighting Jena\u2019s journey and strategies for founder-driven growth.  \n\n---\n\n### Interview Questions  \n- \ud83d\udcac Can you share the origin story of the Beam Blanket and how it evolved from prototype to best-seller?  \n- \ud83d\udcac How do you decide which products to add to your wellness portfolio?  \n- \ud83d\udcac What role has AI played in expanding Beam Wellness\u2019 market reach?  \n- \ud83d\udcac How do you balance direct-to-consumer marketing with targeting med spa treatment rooms?  \n- \ud83d\udcac What was the impact of your CBS television features on your brand?  \n- \ud83d\udcac What are the top challenges you\u2019ve faced in scaling a wellness product line?  \n- \ud83d\udcac Why do you believe founder-led marketing resonates so strongly with customers?  \n- \ud83d\udcac Where do you see Beam Wellness in the next 3\u20135 years?  \n\n---\n\n### Action Items  \n**Bethany Gifford:**  \n- \ud83d\udcc4 Send this guest primer with interview questions within 24 hours.  \n- \ud83d\udd17 Set up affiliate program link with podcast tracking for Jena.  \n- \ud83d\uddd3 Schedule podcast recording for Wednesday, November 20th at 1:00 PM Central Time.  \n\n**Jena Rangnow:**  \n- \ud83d\udce7 Provide affiliate portal access link via email for commission management.  \n- \ud83d\udc84 Prepare for the podcast interview with good lighting, professional background, and makeup.  \n- \ud83d\udcd6 Review the guest primer to prepare for the conversation.  \n\n---\n\nBethany, if you want, I can also make this **shorter and more visually branded** so it looks like a media kit PDF you can send to Jena. That way it feels polished and \u201cofficial.\u201d"
+          ]
+        },
+        "create_time": 1755013059.714091,
+        "id": "e0b3f3ef-0262-40b0-be4c-be6c6c200d93",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "f305be25-75af-4347-b519-36d88574a91e"
+        }
+      },
+      "parent": "05485947-5680-495f-8fe5-bb5d342979fa"
+    },
+    "placeholder-request-WEB:d33dfadd-172c-443b-86cb-07bcdb148894-29": {
+      "id": "placeholder-request-WEB:d33dfadd-172c-443b-86cb-07bcdb148894-29",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Guest primer creation",
+  "update_time": 1755018810.180268,
+  "voice": null
+}

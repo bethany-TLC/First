@@ -1,0 +1,164 @@
+{
+  "conversation_id": "687a86f8-5fb0-8011-8b07-a263d2a9d35f",
+  "conversation_template_id": null,
+  "create_time": 1752860408.568169,
+  "current_node": "73baa91c-d41f-4b13-a47a-e86b5f6f2b85",
+  "default_model_slug": "auto",
+  "id": "687a86f8-5fb0-8011-8b07-a263d2a9d35f",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "036edbda-602e-4e9e-b3dd-80a4620bb8c2": {
+      "id": "036edbda-602e-4e9e-b3dd-80a4620bb8c2",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Absolutely! Here\u2019s a version tailored specifically for med spa owners and practitioners:\n\n**\"Are you the owner and/or a provider at your practice? Please share the name of your business and include any links (like your website, Instagram, or LinkedIn) that would help me get familiar with your work before our call.\"**\n\nLet me know if you want to include a specific type of practitioner (e.g., injector, NP) or if this is for a particular offer or program."
+          ]
+        },
+        "create_time": 1752860465.651093,
+        "id": "036edbda-602e-4e9e-b3dd-80a4620bb8c2",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-4o",
+          "parent_id": "1f80ec2d-c7a1-4d00-abb1-b5eb8fce1e34"
+        }
+      },
+      "parent": "1f80ec2d-c7a1-4d00-abb1-b5eb8fce1e34"
+    },
+    "1868cae6-7ba2-4caa-b046-edf349edb4b9": {
+      "id": "1868cae6-7ba2-4caa-b046-edf349edb4b9",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "redo this question for my calendly meeting: Please share what company/person your working for/with and provide your/their  website, linkedin or any other information that will be useful for our call and that will allow me to prepare for our time together."
+          ]
+        },
+        "create_time": 1752860426.589,
+        "id": "1868cae6-7ba2-4caa-b046-edf349edb4b9",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "1f80ec2d-c7a1-4d00-abb1-b5eb8fce1e34": {
+      "id": "1f80ec2d-c7a1-4d00-abb1-b5eb8fce1e34",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "tailor it towrads owner and practiontions too"
+          ]
+        },
+        "create_time": 1752860465.244,
+        "id": "1f80ec2d-c7a1-4d00-abb1-b5eb8fce1e34",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "6307f961-3aed-4ba1-8844-7b937763dcd3"
+    },
+    "6307f961-3aed-4ba1-8844-7b937763dcd3": {
+      "id": "6307f961-3aed-4ba1-8844-7b937763dcd3",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Sure! Here's a more polished and concise version of that question for your Calendly:\n\n**\"Who are you working with or representing, and could you please share any relevant links (website, LinkedIn, etc.) that will help me prepare for our conversation?\"**\n\nOr, if you prefer a slightly warmer tone:\n\n**\"Tell me a bit about who you're working with or representing, and feel free to include any links (like a website or LinkedIn) that can help me get to know you and prepare for our chat!\"** \n\nLet me know if you want it more formal, casual, or tailored for a specific type of meeting."
+          ]
+        },
+        "create_time": 1752860426.614725,
+        "id": "6307f961-3aed-4ba1-8844-7b937763dcd3",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-4o",
+          "parent_id": "8d168bc1-f7db-4af6-8210-65ee864ee8f2"
+        }
+      },
+      "parent": "1868cae6-7ba2-4caa-b046-edf349edb4b9"
+    },
+    "73baa91c-d41f-4b13-a47a-e86b5f6f2b85": {
+      "id": "73baa91c-d41f-4b13-a47a-e86b5f6f2b85",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a complete and polished version of the question you can use in your **Calendly booking form**, combining both the warm tone and all the details you want:\n\n---\n\n**\"Are you the owner and/or a provider at your practice? Please share the name of your business, your role (owner, injector, NP, etc.), and include any relevant links\u2014like your website, Instagram, or LinkedIn. This will help me learn more about you and your practice so I can come fully prepared for our time together!\"**\n\n---\n\nLet me know if you'd like a version that's more casual, shorter, or aligned with a specific offer (like your med spa audits or podcast prep)."
+          ]
+        },
+        "create_time": 1752860480.411694,
+        "id": "73baa91c-d41f-4b13-a47a-e86b5f6f2b85",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-4o",
+          "parent_id": "e5c5d4a5-fe6d-4cf8-928e-9bf4dea8124e"
+        }
+      },
+      "parent": "e5c5d4a5-fe6d-4cf8-928e-9bf4dea8124e"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "e5c5d4a5-fe6d-4cf8-928e-9bf4dea8124e": {
+      "id": "e5c5d4a5-fe6d-4cf8-928e-9bf4dea8124e",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "amd add in first message deatisl"
+          ]
+        },
+        "create_time": 1752860480.503,
+        "id": "e5c5d4a5-fe6d-4cf8-928e-9bf4dea8124e",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "036edbda-602e-4e9e-b3dd-80a4620bb8c2"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Redo meeting question",
+  "update_time": 1752860512.182672,
+  "voice": null
+}

@@ -1,0 +1,71 @@
+{
+  "conversation_id": "69f20006-d7a0-83ea-b83e-dcdb7eea2765",
+  "conversation_template_id": null,
+  "create_time": 1777467445.64208,
+  "current_node": "4617337c-d2c0-4d8a-8962-26bbe04dc280",
+  "default_model_slug": "gpt-5-3",
+  "id": "69f20006-d7a0-83ea-b83e-dcdb7eea2765",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "4617337c-d2c0-4d8a-8962-26bbe04dc280": {
+      "id": "4617337c-d2c0-4d8a-8962-26bbe04dc280",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Subject: Let\u2019s connect today + coordinate a full team call\n\nHi Rudy,\n\nThank you for the thoughtful note, I really appreciate the transparency.\n\nI\u2019d absolutely love to get a time on the calendar where all four of us can connect, you, Doc, myself, and my business partner Eric. I think that kind of conversation will be the most valuable once we\u2019re aligned and ready to map things out more fully.\n\nThat said, I would still really enjoy connecting with you today as planned. It would be helpful to get a clearer picture of what\u2019s currently going on in the practice, especially with the laser being down, and to see where things stand heading into May. I can also answer any immediate questions you have and make sure you\u2019re set up to move quickly once you\u2019re ready.\n\nNo pressure at all on timing. I respect that you\u2019re being intentional here, and if May is the right window, we\u2019ll be ready to support you then.\n\nLooking forward to talking with you tomorrow morning.\n\nWarm regards,  \nBethany"
+          ]
+        },
+        "create_time": 1777467445.497033,
+        "id": "4617337c-d2c0-4d8a-8962-26bbe04dc280",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "ffd2b989-0e79-4308-98f8-a9246db6a3fc"
+        }
+      },
+      "parent": "bbb21c25-ada7-4e4e-90e0-f9be1bee3d3d"
+    },
+    "6d53c5fd-1804-4022-a222-161d12f072ea": {
+      "id": "6d53c5fd-1804-4022-a222-161d12f072ea",
+      "message": null,
+      "parent": null
+    },
+    "bbb21c25-ada7-4e4e-90e0-f9be1bee3d3d": {
+      "id": "bbb21c25-ada7-4e4e-90e0-f9be1bee3d3d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Respond to him and let him know that I'd love to set up a time for all four of us to be on the phone, that I'd love to set up a time for all of us to be on the phone including my business partner Eric, But I'd still love to talk to him today and get a little bit better picture of what's going on and see if there's any questions I can answer you:  Hey Bethany,I'd enjoy a follow-up if you'd like at\u00a0**8am HST Wednesday, April 29**.\u00a0 However, Doc is not available.\u00a0 Her email address is carrie@awazul. If you'd like to postpone the call so we can get together as a foursome including Aanchal, I'm totally on board.\u00a0 I'd rather free up your resource for hotter prospects.\u00a0 We won't be making a move\u00a0*this month*\u00a0but should May be decent\u00a0and we can get our primary laser fixed that has been out of commission for three weeks, there is a high probability\u00a0of\u00a0 May close.\u00a0\nEither way, I'll be in the\u00a0office and ready for the call tomorrow.\nWarm\u00a0regards,\nRudy"
+          ]
+        },
+        "create_time": 1777467445.254753,
+        "id": "bbb21c25-ada7-4e4e-90e0-f9be1bee3d3d",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "6d53c5fd-1804-4022-a222-161d12f072ea"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Phone Call Coordination",
+  "update_time": 1777467454.397589,
+  "voice": null
+}

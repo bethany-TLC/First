@@ -1,0 +1,117 @@
+{
+  "conversation_id": "69f6a290-1920-83ea-99ae-2eb4e3296ea7",
+  "conversation_template_id": null,
+  "create_time": 1777771261.212536,
+  "current_node": "7c1a737a-9550-49a7-b666-57246e55c6b7",
+  "default_model_slug": "gpt-5-3",
+  "id": "69f6a290-1920-83ea-99ae-2eb4e3296ea7",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "7c1a737a-9550-49a7-b666-57246e55c6b7": {
+      "id": "7c1a737a-9550-49a7-b666-57246e55c6b7",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Started the day exactly how I love it\u2026 meeting up with my girls, wandering through rows of plants, laughing, getting a little distracted, and leaving with more than we planned \ud83c\udf3f\n\nThen just like that, I got whisked away by my man\u2026 margaritas in hand, soaking up the sunshine, and somehow ended up doing the most random and fun British shopping run in \ue200entity\ue202[\"place\",\"Smyrna\",\"Smyrna, TN, USA\"]\ue201 like we were on a little adventure with no plan and all the time in the world.\n\nNext stop\u2026 the tulip festival in \ue200entity\ue202[\"place\",\"Nolensville\",\"Nolensville, TN, USA\"]\ue201 \ud83c\udf37  \nAnd I swear\u2026 not only was it beautiful, but I found the best Tupperware I\u2019ve ever seen in my life. Like\u2026 unexpectedly life-changing \ud83d\ude02\n\nWe slowed it all down after that\u2026 wrapped up together, watching the \ue200entity\ue202[\"sports_event\",\"Kentucky Derby\",\"horse race\"]\ue201, just existing in that calm, safe, happy space. And then\u2026 the sunset. The kind that makes you pause and just feel everything.\n\nAnd in that moment, it hit me\u2026\n\nAll the love I\u2019ve poured into people, into life, into showing up even when it wasn\u2019t easy\u2026 it\u2019s finally coming back to me.\n\nIn the simplest moments.  \nIn the right people.  \nIn the peace I\u2019ve been craving.\n\nMy life couldn\u2019t be better \ud83e\udd0d"
+          ]
+        },
+        "create_time": 1777771261.106848,
+        "id": "7c1a737a-9550-49a7-b666-57246e55c6b7",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "Smyrna",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "Smyrna, TN, USA"
+              },
+              "id": "i6LqWgCUcxCPOqcw",
+              "metadata": null,
+              "name": "Smyrna",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Smyrna",
+              "type": "entity"
+            },
+            {
+              "alt": "Nolensville",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "Nolensville, TN, USA"
+              },
+              "id": "qwPeadNbmrt2h1pL",
+              "metadata": null,
+              "name": "Nolensville",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Nolensville",
+              "type": "entity"
+            },
+            {
+              "alt": "Kentucky Derby",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "horse race"
+              },
+              "id": "V9ixkyIdBqZ3AKcy",
+              "metadata": null,
+              "name": "Kentucky Derby",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Kentucky Derby",
+              "type": "entity"
+            }
+          ],
+          "model_slug": "gpt-5-3",
+          "parent_id": "5dec4966-4809-4ef4-a75e-2ccf904dfa39"
+        }
+      },
+      "parent": "bbb215e2-f5ed-4459-be03-4dc89a26a2ad"
+    },
+    "bbb215e2-f5ed-4459-be03-4dc89a26a2ad": {
+      "id": "bbb215e2-f5ed-4459-be03-4dc89a26a2ad",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write. Almost about meeting up with the girls to do some plant shopping then whisked away with my man for some margaritas, fun British shipping in Smyrna and then to the tulip festival in nolensvilles where I got the best tupperwere I've I've ever seen, then watched the Kentucky derby in his arms and ended with the sunset. My life couldn't be better... Talk about finally feeling that all the love I put out to others is coming back to me "
+          ]
+        },
+        "create_time": 1777771260.909463,
+        "id": "bbb215e2-f5ed-4459-be03-4dc89a26a2ad",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "c32aa838-8bf0-4724-ab61-55d5d3e711fe"
+    },
+    "c32aa838-8bf0-4724-ab61-55d5d3e711fe": {
+      "id": "c32aa838-8bf0-4724-ab61-55d5d3e711fe",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Life in Full Bloom",
+  "update_time": 1777771268.432593,
+  "voice": null
+}

@@ -1,0 +1,72 @@
+{
+  "conversation_id": "69cafd09-1a90-8328-9747-2a6e5d5a005a",
+  "conversation_template_id": null,
+  "create_time": 1774910746.753235,
+  "current_node": "a26bb89b-0f4b-43bf-b2e0-e8e16ebcf2fb",
+  "default_model_slug": "gpt-5-3",
+  "id": "69cafd09-1a90-8328-9747-2a6e5d5a005a",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "1a8a19af-b2ec-4514-9a30-b50574efb006": {
+      "id": "1a8a19af-b2ec-4514-9a30-b50574efb006",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "make this sound less bithcy: Regarding the social\u00a0media content for the next shoot, I agree we need to focus on organic shoots. Last time we met I needed to get ad shoots and seeing how I paid for the podcast studio out of my own pocket I didn't think adding in 20mins of our own paid ads was an issue, but we are done with those so we can now focus on medspa shoots.\u00a0"
+          ]
+        },
+        "create_time": 1774910746.287,
+        "id": "1a8a19af-b2ec-4514-9a30-b50574efb006",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "a26bb89b-0f4b-43bf-b2e0-e8e16ebcf2fb": {
+      "id": "a26bb89b-0f4b-43bf-b2e0-e8e16ebcf2fb",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a cleaner, more professional version that still gets your point across without the edge:\n\n---\n\nRegarding the social media content for the next shoot, I agree that we should focus on organic content. During our last session, I needed to prioritize ad shoots, and since I covered the cost of the podcast studio myself, I included a short segment for paid ads. Now that those are complete, we can fully shift our focus to medspa-specific content moving forward.  \n\n---\n\nIf you want it slightly warmer or more collaborative, I can soften it even more."
+          ]
+        },
+        "create_time": 1774910746.597492,
+        "id": "a26bb89b-0f4b-43bf-b2e0-e8e16ebcf2fb",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "59818fc0-3727-41ca-8708-61b3db8ac125"
+        }
+      },
+      "parent": "1a8a19af-b2ec-4514-9a30-b50574efb006"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Social media content revision",
+  "update_time": 1774910758.65867,
+  "voice": null
+}

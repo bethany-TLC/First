@@ -1,0 +1,71 @@
+{
+  "conversation_id": "689d7c37-4350-8329-aaaf-d6972abab7ee",
+  "conversation_template_id": null,
+  "create_time": 1755151448.855082,
+  "current_node": "98b013b0-fccd-4997-b1c9-291b686a9ec3",
+  "default_model_slug": "auto",
+  "id": "689d7c37-4350-8329-aaaf-d6972abab7ee",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "98b013b0-fccd-4997-b1c9-291b686a9ec3": {
+      "id": "98b013b0-fccd-4997-b1c9-291b686a9ec3",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a short, warm version you could send:  \n\n\"Had so much fun reconnecting after all these years \u2014 it\u2019s like we picked up right where we left off. I truly respect and admire how you\u2019ve grown, and I love that we\u2019re both hustling in this season of life while keeping our kids at the center. \u2764\ufe0f\"  \n\nWant me to also give you a more playful/funny version?"
+          ]
+        },
+        "create_time": 1755151448.539033,
+        "id": "98b013b0-fccd-4997-b1c9-291b686a9ec3",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "66c92a69-128d-40c5-a1b5-8e476da76364"
+        }
+      },
+      "parent": "bbb21a6d-7621-401e-9137-c7b23abb907e"
+    },
+    "b702c38d-f6bf-4a0d-be3c-a18f50440c2c": {
+      "id": "b702c38d-f6bf-4a0d-be3c-a18f50440c2c",
+      "message": null,
+      "parent": null
+    },
+    "bbb21a6d-7621-401e-9137-c7b23abb907e": {
+      "id": "bbb21a6d-7621-401e-9137-c7b23abb907e",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write a short but sweet text about having so much fun reconnecting after so many years and it's like we just left off where we started. Respect and admire how you've grown and I love how we're hustling in the state of life and focusing on our children"
+          ]
+        },
+        "create_time": 1755151448.384246,
+        "id": "bbb21a6d-7621-401e-9137-c7b23abb907e",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "b702c38d-f6bf-4a0d-be3c-a18f50440c2c"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Reconnect message draft",
+  "update_time": 1755151451.736985,
+  "voice": null
+}

@@ -1,0 +1,71 @@
+{
+  "conversation_id": "69cfd2f8-b3f4-832e-9019-71a2608ec88a",
+  "conversation_template_id": null,
+  "create_time": 1775227692.474415,
+  "current_node": "061b4167-74f1-45dc-a278-03c48019043c",
+  "default_model_slug": "gpt-5-3",
+  "id": "69cfd2f8-b3f4-832e-9019-71a2608ec88a",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "061b4167-74f1-45dc-a278-03c48019043c": {
+      "id": "061b4167-74f1-45dc-a278-03c48019043c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ":::writing{variant=\"email\" id=\"84721\" subject=\"Meeting Scheduled for Tuesday\"}\nHi Tianna,\n\nI\u2019ve gone ahead and scheduled our appointment for Tuesday the 7th at 1:00 PM Eastern and have sent over the calendar invite.\n\nLooking forward to connecting with you then. Please let me know if anything comes up in the meantime.\n\nBest,  \n[Your Name]\n:::"
+          ]
+        },
+        "create_time": 1775227692.299569,
+        "id": "061b4167-74f1-45dc-a278-03c48019043c",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "90b3ece1-bdcb-430c-bbab-35fc0d32a8ea"
+        }
+      },
+      "parent": "bbb21e32-bd18-4214-8881-d4727daa0075"
+    },
+    "2c8651f7-8f9a-4785-a0e8-bfdff0123503": {
+      "id": "2c8651f7-8f9a-4785-a0e8-bfdff0123503",
+      "message": null,
+      "parent": null
+    },
+    "bbb21e32-bd18-4214-8881-d4727daa0075": {
+      "id": "bbb21e32-bd18-4214-8881-d4727daa0075",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write a proper response to your boss asking you to schedule an appointment that the client is cc'd on email. It would be an example of hey Tianna, I have sent over the calendar invite for Tuesday the 7th at 1:00 Eastern. Looking forward to meeting you then. "
+          ]
+        },
+        "create_time": 1775227692.116843,
+        "id": "bbb21e32-bd18-4214-8881-d4727daa0075",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "2c8651f7-8f9a-4785-a0e8-bfdff0123503"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Email Appointment Confirmation",
+  "update_time": 1775227698.435734,
+  "voice": null
+}

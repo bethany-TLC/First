@@ -1,0 +1,71 @@
+{
+  "conversation_id": "6a0b0d37-0840-83ea-b595-125f4d58ab25",
+  "conversation_template_id": null,
+  "create_time": 1779109229.003031,
+  "current_node": "69e3fac4-57b2-4616-a137-c1a439c0fc8c",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a0b0d37-0840-83ea-b595-125f4d58ab25",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "69e3fac4-57b2-4616-a137-c1a439c0fc8c": {
+      "id": "69e3fac4-57b2-4616-a137-c1a439c0fc8c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ":::writing{variant=\"chat_message\" id=\"48271\"}\nGood morning Eric, we have our team meeting at noon CST today and it would mean a lot to have you there. Consistency brings clarity, and right now we just need to keep moving forward together.\n\nRome wasn\u2019t built in a day, and agencies don\u2019t hit million dollar months in 6 months. It takes time to build traction, systems, momentum, and trust. The important thing is that we are on the right path.\n\nThe team is showing up every day, putting in long hours, and fighting for the vision we all created together. Let\u2019s start this week strong, keep morale high, and continue moving the needle forward as a team.\n:::"
+          ]
+        },
+        "create_time": 1779109228.923053,
+        "id": "69e3fac4-57b2-4616-a137-c1a439c0fc8c",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "18dddab4-c2e4-4ba6-b5ff-9ee7b4bedac6"
+        }
+      },
+      "parent": "bbb21fe7-5cf5-420f-9c19-ecaadf27e031"
+    },
+    "91bbf4be-93e9-4078-a922-f6271c0eef28": {
+      "id": "91bbf4be-93e9-4078-a922-f6271c0eef28",
+      "message": null,
+      "parent": null
+    },
+    "bbb21fe7-5cf5-420f-9c19-ecaadf27e031": {
+      "id": "bbb21fe7-5cf5-420f-9c19-ecaadf27e031",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Rewrite this text to my business partner Eric. Make it short and to the point. Please mention that consistency brings clarity. We just need to keep moving forward. Rome was not built in one day. And agencies are not million dollar months in 6 months. It takes a little bit of time to gain traction and we are on the right path. : Good morning Eric, we have our team meeting at noon CST today and your presence would mean a lot. We are all over here sticking with it and some of us are working 12-15 hrs days  (for free) to make this business thrive and we all need our TLC team moral to stay in tact. That includes you. Please consider jumping back in and helping us complete the dream we created and have spent so long making into something great. Let's start this week out on a positive note and keep moving the needle forward together. \n\nhttps://www.instagram.com/reel/DYSwLBxjxfH/?igsh=bDhudzh0ODA3YjUx"
+          ]
+        },
+        "create_time": 1779109228.608352,
+        "id": "bbb21fe7-5cf5-420f-9c19-ecaadf27e031",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "91bbf4be-93e9-4078-a922-f6271c0eef28"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Business Partner Motivation",
+  "update_time": 1779109233.25963,
+  "voice": null
+}

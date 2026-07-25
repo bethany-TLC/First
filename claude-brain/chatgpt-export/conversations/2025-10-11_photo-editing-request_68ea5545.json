@@ -1,0 +1,94 @@
+{
+  "conversation_id": "68ea5545-4308-8326-b930-288622a3c0b9",
+  "conversation_template_id": null,
+  "create_time": 1760187741.664294,
+  "current_node": "da95073f-25ae-4eb2-bd9a-128276229a82",
+  "default_model_slug": "gpt-5",
+  "id": "68ea5545-4308-8326-b930-288622a3c0b9",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "4b2fa8cf-831c-4ea5-9d75-ca75931168de": {
+      "id": "4b2fa8cf-831c-4ea5-9d75-ca75931168de",
+      "message": null,
+      "parent": null
+    },
+    "bbb21ee9-21b6-4824-8a7c-6bf3652a30d8": {
+      "id": "bbb21ee9-21b6-4824-8a7c-6bf3652a30d8",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_00000000ecd861f7bf1caad34162be71",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 2918,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 240399,
+              "width": 2189
+            },
+            "Make this photo black and white. Believe my eye area colored"
+          ]
+        },
+        "create_time": 1760187741.393777,
+        "id": "bbb21ee9-21b6-4824-8a7c-6bf3652a30d8",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "4b2fa8cf-831c-4ea5-9d75-ca75931168de"
+    },
+    "da95073f-25ae-4eb2-bd9a-128276229a82": {
+      "id": "da95073f-25ae-4eb2-bd9a-128276229a82",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "create_time": 1760187841.729853,
+        "id": "da95073f-25ae-4eb2-bd9a-128276229a82",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "f5f20e71-b658-46f5-afb1-c03780efd384"
+        }
+      },
+      "parent": "bbb21ee9-21b6-4824-8a7c-6bf3652a30d8"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Photo editing request",
+  "update_time": 1760187844.459334,
+  "voice": null
+}

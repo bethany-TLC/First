@@ -1,0 +1,72 @@
+{
+  "conversation_id": "69a892e8-12dc-832d-ba24-e75d87357aa9",
+  "conversation_template_id": null,
+  "create_time": 1772655349.272072,
+  "current_node": "28acd533-6ba0-4dd1-8de4-207123b472dc",
+  "default_model_slug": "gpt-5-2",
+  "id": "69a892e8-12dc-832d-ba24-e75d87357aa9",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "28acd533-6ba0-4dd1-8de4-207123b472dc": {
+      "id": "28acd533-6ba0-4dd1-8de4-207123b472dc",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Use **\u201cbut\u201d** in this case. It creates contrast and highlights the problem your service solves.\n\n**Why:**  \n- **\u201cBut\u201d** signals: *you\u2019re doing well, however something is broken.*  \n- **\u201cAnd\u201d** feels additive, not corrective, so the pain point loses impact.\n\nFor ad copy, contrast tends to convert better.\n\n### Recommended version\n**\u201cIf your clinic is generating under $2.5M annually but your show rate, follow-up, and recurring revenue systems are not optimized, we will build a custom Blueprint for your practice.\u201d**\n\nYou could also tighten it slightly for ads:\n\n**\u201cIf your clinic is generating under $2.5M annually but your show rate, follow-up, and recurring revenue systems aren\u2019t optimized, we\u2019ll build a custom Blueprint for your practice.\u201d**\n\nOr a **stronger ad version**:\n\n**\u201cIf your clinic is generating under $2.5M annually but your show rate, follow-up, and recurring revenue systems aren\u2019t optimized, you\u2019re leaving serious revenue on the table. We\u2019ll build a custom Blueprint for your practice.\u201d**\n\nIf you'd like, I can also help turn this into **a full Meta ad hook + primary text that converts for med spas**, aligned with the Luxora Growth Engine positioning."
+          ]
+        },
+        "create_time": 1772655349.176753,
+        "id": "28acd533-6ba0-4dd1-8de4-207123b472dc",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "6230abf6-c120-47f7-9b6e-082ef02f3fe2"
+        }
+      },
+      "parent": "85395599-11a2-48e0-886d-1838a7cd3870"
+    },
+    "85395599-11a2-48e0-886d-1838a7cd3870": {
+      "id": "85395599-11a2-48e0-886d-1838a7cd3870",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "If your clinic is generating under $2.5M annually but your show rate, follow up, and recurring revenue systems are not optimized, we will build a custom Blueprint for your practice.   SHOUDL WE USE BUT OR AND in front of your show rate"
+          ]
+        },
+        "create_time": 1772655348.906,
+        "id": "85395599-11a2-48e0-886d-1838a7cd3870",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Show rate vs And vs But",
+  "update_time": 1772655357.349054,
+  "voice": null
+}

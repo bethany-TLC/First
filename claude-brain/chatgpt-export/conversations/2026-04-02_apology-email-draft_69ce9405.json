@@ -1,0 +1,175 @@
+{
+  "conversation_id": "69ce9405-cb64-832c-9cf6-82456354f8d0",
+  "conversation_template_id": null,
+  "create_time": 1775145996.334085,
+  "current_node": "25d64c50-4a1b-4edf-8968-5fd7beea2854",
+  "default_model_slug": "gpt-5-3",
+  "id": "69ce9405-cb64-832c-9cf6-82456354f8d0",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "1676afd5-09c8-4959-85fc-e9508191f6d1": {
+      "id": "1676afd5-09c8-4959-85fc-e9508191f6d1",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "pleae write her an email coming form me apologizing for the mihap on the call but id love to get her on call tomorrow: "
+          ]
+        },
+        "create_time": 1775145995.475,
+        "id": "1676afd5-09c8-4959-85fc-e9508191f6d1",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_0000000098f0722fb34c308ac429133b",
+              "is_big_paste": true,
+              "library_file_id": "libfile_e6f79154e2bc8191a30b3fb308ab36a0",
+              "mime_type": "text/plain",
+              "name": "Pasted text.txt",
+              "size": 14985,
+              "source": "local"
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "25d64c50-4a1b-4edf-8968-5fd7beea2854": {
+      "id": "25d64c50-4a1b-4edf-8968-5fd7beea2854",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Got it. I will not use em dashes moving forward.\n\nHere is your revised email:\n\n---\n\n**Subject: So sorry about earlier, would love to reconnect tomorrow**\n\nHi Chelsea,\n\nI wanted to reach out personally and apologize for how our call ended earlier. Eric had to step away unexpectedly, and I am so sorry we were not able to give you the full time and attention you deserved.\n\nI also want to say how much I appreciated the conversation we did have. What you have built is incredibly impressive. Going from a tanning salon to a med spa doing around $79K months and projecting close to $900K in your first year is not normal growth. That tells me you have something very strong in place.\n\nWhat really stood out to me was what you said about this being a systems problem, not a lead problem.\n\nYou already have strong traffic and are investing heavily in marketing. Your cryo offer is clearly working as a gateway. You have a loyal team and great client experience. And you are willing to invest back into the business.\n\nBut right now everything is split across multiple agencies, platforms, and processes. That is why it feels inconsistent day to day and hard to predict what next month will look like.\n\nThat is exactly where we help.\n\nOur focus is bringing everything into one clear, structured system so your growth becomes predictable and scalable. That includes your lead flow, booking and follow up, front desk process, consultations, treatment plan conversions, and long term retention.\n\nYou are at a really important stage right now. You have already proven the model works. Now it is about tightening the systems so you can confidently scale past $1M without the stress and guesswork.\n\nI would love to get you back on the calendar and walk you through exactly what this could look like for your business specifically.\n\nAre you available for a quick call tomorrow?\n\nLooking forward to reconnecting,  \nBethany"
+          ]
+        },
+        "create_time": 1775146084.721831,
+        "id": "25d64c50-4a1b-4edf-8968-5fd7beea2854",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "f3ac06a0-29c7-4442-818c-29f4b8b5d94a"
+        }
+      },
+      "parent": "f3ac06a0-29c7-4442-818c-29f4b8b5d94a"
+    },
+    "99804ab7-ee0e-493c-a967-d7d49da7d985": {
+      "id": "99804ab7-ee0e-493c-a967-d7d49da7d985",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Subject: So sorry about earlier today \u2014 would love to reconnect\n\nHi Chelsea,\n\nI wanted to personally reach out and apologize for how our call ended earlier. I\u2019m so sorry for the abrupt interruption \u2014 I completely understand why we had to pause, and I hope everything is okay on your end.\n\nI also just want to say how much I was looking forward to that conversation. From what you shared, it\u2019s incredibly clear you\u2019ve built something special, and you\u2019re exactly the kind of practice we love working with \u2014 strong foundation, real momentum, just needing the right systems to scale it cleanly.\n\nI would love to get you rescheduled and continue where we left off. Would you be open to jumping on a quick call tomorrow? I\u2019ll make sure everything is smooth and fully focused on you this time.\n\nLet me know what your schedule looks like, and I\u2019ll make it work on my end.\n\nLooking forward to reconnecting,  \nBethany"
+          ]
+        },
+        "create_time": 1775145996.197919,
+        "id": "99804ab7-ee0e-493c-a967-d7d49da7d985",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "c280bf37-cc15-4967-9d61-cf214457f27e"
+        }
+      },
+      "parent": "1676afd5-09c8-4959-85fc-e9508191f6d1"
+    },
+    "ab3ea19a-43af-4bbd-9959-d8f260cd3a3b": {
+      "id": "ab3ea19a-43af-4bbd-9959-d8f260cd3a3b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Subject: So sorry about earlier \u2014 would love to reconnect tomorrow\n\nHi Chelsea,\n\nI wanted to reach out personally and apologize for the way our call got cut short earlier. Eric had to step away unexpectedly, and I\u2019m so sorry we weren\u2019t able to give you the full time and attention you deserved on that call.\n\nThat said, I was really excited listening to everything you shared. What you\u2019ve built is incredibly impressive \u2014 going from a tanning salon to a med spa doing ~$79K months and projecting close to $900K in your first year is not normal growth. That tells me you already have the demand, the work ethic, and the client experience dialed in.\n\nWhat stood out most to me was exactly what you said \u2014 this isn\u2019t a lead problem, it\u2019s a systems problem.\n\nYou have:\n\u2022 Strong acquisition (you\u2019re spending ~$10\u201311K/month and driving traffic)  \n\u2022 A proven gateway offer (your cryo funnel is clearly working)  \n\u2022 A dedicated team and great client experience  \n\u2022 Real momentum and willingness to invest  \n\nBut right now it\u2019s fragmented across multiple agencies, multiple systems, and no single source of truth \u2014 which is why things feel inconsistent day-to-day and unpredictable month-to-month.\n\nThat is exactly where we come in.\n\nOur entire focus is building one cohesive revenue system that connects everything:\n\u2192 Your ads and acquisition channels  \n\u2192 Booking + follow-up + no-show reduction  \n\u2192 Front desk and consultation flow  \n\u2192 Treatment plan conversion  \n\u2192 Retention, packages, and long-term client value  \n\nSo instead of guessing what tomorrow looks like, you walk in knowing exactly what drives revenue and how to scale it.\n\nYou\u2019re honestly at a really pivotal stage right now \u2014 you\u2019ve already proven the model works, now it\u2019s about structuring it so you can confidently push past $1M without the chaos.\n\nI would love to get you back on the calendar and walk you through exactly what that could look like for your business specifically.\n\nAre you available for a quick call tomorrow? I\u2019ll make sure we pick up right where we left off and keep it fully focused on helping you get clarity on next steps.\n\nLooking forward to reconnecting,  \nBethany"
+          ]
+        },
+        "create_time": 1775146058.842048,
+        "id": "ab3ea19a-43af-4bbd-9959-d8f260cd3a3b",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "e1e9445c-c4f1-4fde-b09c-5f2053569849"
+        }
+      },
+      "parent": "e1e9445c-c4f1-4fde-b09c-5f2053569849"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "e1e9445c-c4f1-4fde-b09c-5f2053569849": {
+      "id": "e1e9445c-c4f1-4fde-b09c-5f2053569849",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "no Eric was the one who had to get off call  and please put in her info she shared and talk about how we can totola help her"
+          ]
+        },
+        "create_time": 1775146058.472,
+        "id": "e1e9445c-c4f1-4fde-b09c-5f2053569849",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "99804ab7-ee0e-493c-a967-d7d49da7d985"
+    },
+    "f3ac06a0-29c7-4442-818c-29f4b8b5d94a": {
+      "id": "f3ac06a0-29c7-4442-818c-29f4b8b5d94a",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "NEVER put emdashes in any of myo ouputs please"
+          ]
+        },
+        "create_time": 1775146084.384,
+        "id": "f3ac06a0-29c7-4442-818c-29f4b8b5d94a",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "ab3ea19a-43af-4bbd-9959-d8f260cd3a3b"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Apology Email Draft",
+  "update_time": 1775146114.466609,
+  "voice": null
+}

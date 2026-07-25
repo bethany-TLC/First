@@ -1,0 +1,1069 @@
+{
+  "conversation_id": "6a5cfc41-8060-83ea-84c4-11b036b43f50",
+  "conversation_template_id": null,
+  "create_time": 1784478810.503543,
+  "current_node": "443bf787-ad78-4e93-add5-2c8932d6ca87",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a5cfc41-8060-83ea-84c4-11b036b43f50",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "145b8e76-082c-4cb5-a030-3925080c0014": {
+      "id": "145b8e76-082c-4cb5-a030-3925080c0014",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Based on your route (I-65 South \u2192 Montgomery \u2192 US-331 South \u2192 Santa Rosa Beach), the wineries from the North Alabama Wine Trail are actually **2+ hours east of your route**, so I wouldn't recommend them unless you're intentionally taking a scenic detour.\n\nHere are the best stops that are actually close to your drive:\n\n\ue200image_group\ue202{\"layout\":\"carousel\",\"query\":[\"Morgan Creek Vineyards Harpersville Alabama tasting room\",\"Peach Park Clanton Alabama\",\"Priester's Pecans Fort Deposit Alabama\",\"Bates House of Turkey Greenville Alabama\"]}\ue201\n\n### \ud83c\udf77 Morgan Creek Vineyards (Best winery option)\n\ue200entity\ue202[\"point_of_interest\",\"Morgan Creek Vineyards\",\"Harpersville, Alabama\"]\ue201\n* About **35-40 minutes east of I-65** (near Clanton).\n* Beautiful vineyard with complimentary tastings and tours.\n* Worth it if you don't mind about an hour round-trip detour. \ue200cite\ue202turn0search0\ue201\n\n### \ud83c\udf51 Peach Park (Clanton)\n\ue200entity\ue202[\"point_of_interest\",\"Peach Park\",\"Clanton, Alabama\"]\ue201\n* Right off **I-65 Exit 205**.\n* Fresh peach ice cream, bakery, sandwiches, gifts, and a fun place to stretch your legs. \ue200cite\ue202turn0search2\ue201\n\n### \ud83e\udd5c Priester's Pecans (Fort Deposit)\n\ue200entity\ue202[\"point_of_interest\",\"Priester's Pecans\",\"Fort Deposit, Alabama\"]\ue201\n* Directly off I-65.\n* Great pecan treats, sandwiches, fudge, coffee, and clean restrooms. A classic beach-trip stop. \ue200cite\ue202turn0search1\ue202turn0reddit24\ue201\n\n### \ud83e\udd83 Bates House of Turkey (Greenville)\n\ue200entity\ue202[\"restaurant\",\"Bates House of Turkey\",\"Greenville, AL, USA\"]\ue201\n\ue200entity_metadata\ue202[\"restaurant\",\"two-lines\",\"Bates House of Turkey\",\"Greenville, AL, USA\"]\ue201\n* Less than 5 minutes off I-65.\n* Famous for turkey, dressing, sandwiches, and homemade pies. Frequently recommended by Alabama travelers. \ue200cite\ue202turn0reddit24\ue202turn0reddit23\ue201\n\nIf you're looking for **a winery with lunch and a pretty patio**, **Morgan Creek Vineyards** is your only worthwhile stop that's reasonably close to your route.\n\nIf you're okay with a **30-45 minute scenic detour once you're in Florida**, I can also recommend a few excellent wineries, breweries, and hidden gems around **30A, Santa Rosa Beach, and Destin**."
+          ]
+        },
+        "create_time": 1784478811.833863,
+        "id": "145b8e76-082c-4cb5-a030-3925080c0014",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "![Image](https://images.openai.com/static-rsc-4/DG-MhW89t4OtDT3w3m3mJDnPqEsVBvFQszb6FIfTrQg1hSCf3t5zNL-f_ChhPxrl5F8E-QGlzOyyHQIf68BPUbu44oB8mJs3ZpB6hFuYdUlBNuoRWA37MXz8XJ-f7LDIJI8dYVBVbhjXJArVA2af-UhLgSPpzM9HABQjFmpyF_uq7NO_1geFOzQX2fTRTy4i?purpose=fullsize)\n\n![Image](https://images.openai.com/static-rsc-4/zVWJ_llG-OTl_QJVBhpwUIiewCUsr-PMh6ZJHfJVx-Ss7Xc2VHB4OKFIykMFzc5FBuRO3tC-gb8OFh_HHAI0YpnH5_bl_ry_o-RQ0wSJmf6hYFLiATIKNa8fYercBIh54UVoUVDOON2aTM-Guv4ybJadp-6-WRBWkF8Jwyu-exBeQ_7lPnPMjnKpysAMnvUP?purpose=fullsize)\n\n![Image](https://images.openai.com/static-rsc-4/dnqX9rS2aBt9SdKnT1sZkQtWKp2Um7LGMB4nSsVl4df9qZaggHMH4sBxK_mOPRH_AdS_4FbzN4vbQwkdlMHuehZDSgDp86XP8WBDmVTbz1E3NOQG1KlC1r4VMr78e5B3CO3rmvasnpXjh4Vfvc4-Pos3kSWe6-OipefUV9zM3NWtmwN-501anoUFpCO9yoI8?purpose=fullsize)\n\n![Image](https://images.openai.com/static-rsc-4/3lbtJhfvbTLzyVZwUrJiDFo5nD-_dAoODN6fsSz6WxU9_PX2s7krhL5jHD_yFkdYynx0CPWMR5MPa8WrB2YkiXS_SQ2nkxJ-lW37Vbjuvj2n74L6oFV40pBZWzeDtlrCTLdlylt7lk4hGU_RdsnZ6ALdO6KKiA-ErbweIqQyZ8P_o0Okfe_y-ghQ3YN0AnBJ?purpose=fullsize)\n\n![Image](https://images.openai.com/static-rsc-4/wvh3yoSyXdoIZ6EKhyg8KrZHEjOp8624VF-1nEuDvwL6WbqKHE1SWQUbplwa_vVI1kiXY3taKGJyp_hQE6-Qvk4qGcrAIAJyYYfnF1Og0ttSIkwtUZTRdOUewzqKCTKs6g9evmtNAZgbte-vZab0e2_oar0DMFyjEoAfL_XIMDsi8KHU2pF0DoTi1m-ZUrGf?purpose=fullsize)",
+              "images": [
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 427,
+                      "width": 640
+                    },
+                    "content_url": "https://images.openai.com/static-rsc-4/DG-MhW89t4OtDT3w3m3mJDnPqEsVBvFQszb6FIfTrQg1hSCf3t5zNL-f_ChhPxrl5F8E-QGlzOyyHQIf68BPUbu44oB8mJs3ZpB6hFuYdUlBNuoRWA37MXz8XJ-f7LDIJI8dYVBVbhjXJArVA2af-UhLgSPpzM9HABQjFmpyF_uq7NO_1geFOzQX2fTRTy4i?purpose=fullsize",
+                    "original_content_url": "https://cdn0.weddingwire.com/vendor/192358/3_2/640/jpg/301631620-5119535254842726-8126435040683251107-n_51_1853291-166198365785484.jpeg",
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.421875,
+                      "center_y_percent": 0.5199063231850117
+                    },
+                    "thumbnail_render_mode": "thumbnail_only",
+                    "thumbnail_size": {
+                      "height": 427,
+                      "width": 640
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-4/cOMN8-2bPq8XSmCvZV6LZ69J5rlyOkmVT2Okrk1_K4MO5KJWYepq-8YspigcJfdhdIXvPrRIjT0Kavge7G8sUMvEtXLKe2yABavH9CaGk4KU5FRJyzUqCy2t6TufdTmWxjinET3uwoln1kIiUD29ielWYfT0PDDAR4ulB9j9YH8?purpose=inline",
+                    "title": "The Winery at Wolf Creek Plantation - Reviews, Photos & Deals 2026 - Americus, GA - WeddingWire",
+                    "url": "https://www.weddingwire.com/biz/the-winery-at-wolf-creek-plantation/ba6c8201601c7ebb.html?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "Morgan Creek Vineyards Harpersville Alabama tasting room",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 1152,
+                      "width": 2048
+                    },
+                    "content_url": "https://images.openai.com/static-rsc-4/zVWJ_llG-OTl_QJVBhpwUIiewCUsr-PMh6ZJHfJVx-Ss7Xc2VHB4OKFIykMFzc5FBuRO3tC-gb8OFh_HHAI0YpnH5_bl_ry_o-RQ0wSJmf6hYFLiATIKNa8fYercBIh54UVoUVDOON2aTM-Guv4ybJadp-6-WRBWkF8Jwyu-exBeQ_7lPnPMjnKpysAMnvUP?purpose=fullsize",
+                    "original_content_url": "https://peach-park.website/assets/images/restaurant-exterior.jpeg",
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.56298828125,
+                      "center_y_percent": 0.4027777777777778
+                    },
+                    "thumbnail_render_mode": "thumbnail_only",
+                    "thumbnail_size": {
+                      "height": 860,
+                      "width": 1529
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-4/HHPHeg_TiwLcNZcsNAkhHi5slSnkdTTY9jLAyL_WtKxt_nhqmGPTakgUFur4pvRSo4O-ra52ikbXq6YEazYZYRKZ4a6VEHHVheLgd1z7DgRd03k8wl6Ip1yGQWJa0MvZFe0iXjO4gYVn9iaytY6wRi_8L0Jmb-eXUvHG7iGgghU?purpose=inline",
+                    "title": "Peach Park \u2013 Fresh Produce, BBQ & Ice Cream in Clanton, AL",
+                    "url": "https://peach-park.eniplaces.com/?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "Peach Park Clanton Alabama",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 2560,
+                      "width": 1920
+                    },
+                    "content_url": "https://images.openai.com/static-rsc-4/dnqX9rS2aBt9SdKnT1sZkQtWKp2Um7LGMB4nSsVl4df9qZaggHMH4sBxK_mOPRH_AdS_4FbzN4vbQwkdlMHuehZDSgDp86XP8WBDmVTbz1E3NOQG1KlC1r4VMr78e5B3CO3rmvasnpXjh4Vfvc4-Pos3kSWe6-OipefUV9zM3NWtmwN-501anoUFpCO9yoI8?purpose=fullsize",
+                    "original_content_url": "https://samplingthesouth.com/wp-content/uploads/2024/02/IMG_5440-scaled.jpeg",
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.4901041666666667,
+                      "center_y_percent": 0.33359375
+                    },
+                    "thumbnail_render_mode": "thumbnail_only",
+                    "thumbnail_size": {
+                      "height": 1365,
+                      "width": 1024
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-4/1Sb7j31FtgV_54n33ww2Al8xv5oj0RBsp7kI5sN-RYZyQuZpv4k1PwTKq5affO6zMn7Im0XO7oom8P4LfDNImEzmqA-F9eYASFbFfRlqiU42Vy5BuPvBgznuMnGZz_qeErwUhfQBIL2jCBgL8MRtykqDcCoKk7gEDEON2i23hBA?purpose=inline",
+                    "title": "Sampling the South",
+                    "url": "https://samplingthesouth.com/sampling-fort-deposit-alabama/?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "Priester's Pecans Fort Deposit Alabama",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 653,
+                      "width": 980
+                    },
+                    "content_url": "https://images.openai.com/static-rsc-4/3lbtJhfvbTLzyVZwUrJiDFo5nD-_dAoODN6fsSz6WxU9_PX2s7krhL5jHD_yFkdYynx0CPWMR5MPa8WrB2YkiXS_SQ2nkxJ-lW37Vbjuvj2n74L6oFV40pBZWzeDtlrCTLdlylt7lk4hGU_RdsnZ6ALdO6KKiA-ErbweIqQyZ8P_o0Okfe_y-ghQ3YN0AnBJ?purpose=fullsize",
+                    "original_content_url": "https://static.wixstatic.com/media/f45b3c_9ec7522c56124b74b8e49017197e7771~mv2.jpg/v1/fill/w_980%2Ch_653%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/f45b3c_9ec7522c56124b74b8e49017197e7771~mv2.jpg",
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.503061224489796,
+                      "center_y_percent": 0.20214395099540583
+                    },
+                    "thumbnail_render_mode": "thumbnail_only",
+                    "thumbnail_size": {
+                      "height": 653,
+                      "width": 980
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-4/3LKisRLV7LxicVoiRDYp8Xp19A_yvjWE7dEdPrt44zwZjmHgUmUShLgD47bmVd5oWpuBte_bON2VKIgzOcEaiBAwwePhhxLBJ3oislFbCV7jcjLas9P9YV3zlB3jhCDn2SXKlQw4_IN7FXyGI2oxbumcrXByAHmooFfLyo6mQE4?purpose=inline",
+                    "title": "ABOUT | Bates Turkey Farm",
+                    "url": "https://www.batesturkey.com/about-the-farm?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "Bates House of Turkey Greenville Alabama",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 1062,
+                      "width": 1600
+                    },
+                    "content_url": "https://images.openai.com/static-rsc-4/wvh3yoSyXdoIZ6EKhyg8KrZHEjOp8624VF-1nEuDvwL6WbqKHE1SWQUbplwa_vVI1kiXY3taKGJyp_hQE6-Qvk4qGcrAIAJyYYfnF1Og0ttSIkwtUZTRdOUewzqKCTKs6g9evmtNAZgbte-vZab0e2_oar0DMFyjEoAfL_XIMDsi8KHU2pF0DoTi1m-ZUrGf?purpose=fullsize",
+                    "original_content_url": "https://3.bp.blogspot.com/-K-WRzbbFchE/Uwzrh8BSKlI/AAAAAAAACrc/Cs0CzFavrbM/s1600/DSC_0399.JPG",
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.775625,
+                      "center_y_percent": 0.3427495291902072
+                    },
+                    "thumbnail_render_mode": "thumbnail_only",
+                    "thumbnail_size": {
+                      "height": 860,
+                      "width": 1296
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-4/FVDOmDmQ2Wt9vmYBiikO7sXTLEUpcj8WzLyAKUqUCwjNHWjqhGk6MVZYBHHUP2y8sJ0IIeXsezSgt1DSME7V0y8jR0IcgQqj3zB1tmdLt5dwfXSgncFXSlOZI-3OVbSBW0xbboK1BJTxUFruGNYlCv78mf2Ytu9emeKiNdwEaNY?purpose=inline",
+                    "title": "Priester's Pecans Alabama at Madeline Mair blog",
+                    "url": "https://storage.googleapis.com/dungaxtcljmyve/priester-s-pecans-alabama.html?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "Priester's Pecans Fort Deposit Alabama",
+                  "image_search_system": null
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "image_group"
+            },
+            {
+              "alt": "Morgan Creek Vineyards",
+              "prefix": null,
+              "prompt_text": "Morgan Creek Vineyards",
+              "render_as": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "([Morgan Creek Winery](https://www.morgancreekwinery.com/visit/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Morgan Creek Winery",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [],
+                  "title": "Visit",
+                  "url": "https://www.morgancreekwinery.com/visit/?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "Peach Park",
+              "prefix": null,
+              "prompt_text": "Peach Park",
+              "render_as": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "([Sweet Grown Alabama](https://www.sweetgrownalabama.org/posts/2021/06/17/roadtrip?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Sweet Grown Alabama",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1623888000.0,
+                  "refs": [
+                    {
+                      "ref_index": 2,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [],
+                  "title": "Sweet Grown Alabama's Best Summer Road Trip Pit Stops",
+                  "url": "https://www.sweetgrownalabama.org/posts/2021/06/17/roadtrip?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "Priester's Pecans",
+              "prefix": null,
+              "prompt_text": "Priester's Pecans",
+              "render_as": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "([Wanderlog](https://wanderlog.com/drive/between/58433/58426/montgomery-to-santa-rosa-beach-drive?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Wanderlog",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1680825600.0,
+                  "refs": [
+                    {
+                      "ref_index": 1,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 24,
+                      "ref_type": "reddit",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [
+                    {
+                      "attribution": "Reddit",
+                      "pub_date": null,
+                      "snippet": "",
+                      "title": "Driving down from Nashville to Gulf shores this weekend, will be in southern Alabama by the time were looking for something to eat. Are there any noteworthy places to eat that might be a good bit off of the highway?",
+                      "url": "https://www.reddit.com/r/Alabama/comments/1ktwjr3?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "30 Best Stops Between Montgomery and Santa Rosa Beach",
+                  "url": "https://wanderlog.com/drive/between/58433/58426/montgomery-to-santa-rosa-beach-drive?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "Bates House of Turkey",
+              "prefix": null,
+              "prompt_text": "Bates House of Turkey",
+              "render_as": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "Bates House of Turkey\n[Web](https://www.bateshouseturkey.com/?utm_source=chatgpt.com)\nAddress: 1001 Fort Dale Rd, Greenville, AL 36037, United States\nPhone: +1 334-382-6123",
+              "entity_data": {
+                "address": "1001 Fort Dale Rd, Greenville, AL 36037, United States",
+                "categories": [
+                  "Restaurant"
+                ],
+                "city": "Greenville",
+                "country_code": "US",
+                "country_name": "United States",
+                "description": "Long-running, wood-paneled restaurant focusing on turkey sandwiches & plates with classic sides.",
+                "description_cite": null,
+                "distance_meters": 3375.537319059049,
+                "enriched_description": null,
+                "hours": [
+                  {
+                    "day": 5,
+                    "end": "1800",
+                    "start": "0800"
+                  },
+                  {
+                    "day": 1,
+                    "end": "1800",
+                    "start": "0800"
+                  },
+                  {
+                    "day": 6,
+                    "end": "1800",
+                    "start": "0800"
+                  },
+                  {
+                    "day": 0,
+                    "end": "1800",
+                    "start": "0900"
+                  },
+                  {
+                    "day": 4,
+                    "end": "1800",
+                    "start": "0800"
+                  },
+                  {
+                    "day": 2,
+                    "end": "1800",
+                    "start": "0800"
+                  },
+                  {
+                    "day": 3,
+                    "end": "1800",
+                    "start": "0800"
+                  }
+                ],
+                "id": "ChIJX74RXB88jogR61znxTI3kyM",
+                "image_url": "https://images.openai.com/static-rsc-1/vm6YBzp5YONwm2g78eWFq6xkXYCzWBVYDhzi5zm-rd1wrN5gEfH5NIt6ib9VK8mJOSATJnBwLYJiLe8ZVJqDMDSa1yvvbhlRCZsNuYe73nob3csltF47Ylu0fwC1_ViA?utm_source=chatgpt.com",
+                "image_urls": [
+                  "https://images.openai.com/static-rsc-1/ekVpUaehXOdcsjGfXIVxXOM8gX3hRV2ld2hMSFBe4kzZHHxp6zjo91V5J1v4vgaQShJcH6Oci-KuFlLC8VqpKAwehjuJcLu5pBlk3xyI7SARkkpFMkYYZ3TsiLY2VMU7Vbu4iQXSDTRTmdHOIBB2bw?utm_source=chatgpt.com"
+                ],
+                "is_closed_permanently": false,
+                "is_closed_temporarily": false,
+                "latitude": 31.85208,
+                "location": "Greenville, AL, USA",
+                "longitude": -86.641767,
+                "name": "Bates House of Turkey",
+                "phone": "+1 334-382-6123",
+                "price": null,
+                "price_str": "$",
+                "provider_images": null,
+                "provider_logo_dark_url": "https://cdn.openai.com/chatgpt/clients/business-logos/yelp_logo_white.png",
+                "provider_logo_url": "https://cdn.openai.com/chatgpt/clients/business-logos/yelp_logo.png",
+                "reconciled_thumbnails": [
+                  {
+                    "image_url": "https://images.openai.com/static-rsc-1/vm6YBzp5YONwm2g78eWFq6xkXYCzWBVYDhzi5zm-rd1wrN5gEfH5NIt6ib9VK8mJOSATJnBwLYJiLe8ZVJqDMDSa1yvvbhlRCZsNuYe73nob3csltF47Ylu0fwC1_ViA",
+                    "obfuscated_provider": "yelp-feed"
+                  },
+                  {
+                    "image_url": "https://images.openai.com/static-rsc-1/ekVpUaehXOdcsjGfXIVxXOM8gX3hRV2ld2hMSFBe4kzZHHxp6zjo91V5J1v4vgaQShJcH6Oci-KuFlLC8VqpKAwehjuJcLu5pBlk3xyI7SARkkpFMkYYZ3TsiLY2VMU7Vbu4iQXSDTRTmdHOIBB2bw",
+                    "obfuscated_provider": "tripadvisor-feed"
+                  },
+                  {
+                    "image_url": "https://images.openai.com/static-rsc-4/dgnlq8xM98jF1J0X6lvxU8xU8Yjt6hxidARgOoZO3cjKPJPFiXh0V9GUndgXBncfO9_CRORsDj6h34RrAT4iBPZYNjQNZP6vt3uNhr9-e-Bnno4XlNPnbtwvpdJQMDuwd65ox80E3MjA1J-rmDjmxKT1roOssT2gywTdKSM9Frv9CW0IAvOWx3Yr947_6wNOB8kq1zXT8kkqUG8Py_s2nw?purpose=preview",
+                    "obfuscated_provider": "image-places"
+                  },
+                  {
+                    "image_url": "https://images.openai.com/static-rsc-1/hycoJc3vRYNOykQSugD3gj55jYk2BhMzB7eh6PmdSYSSpu9CXD5JgiR02NAPoy-62pTthSJumR9KNVx95dv-z8Tp0AECPz9lYg4RawOgfD6tbsulITjc9pVbgrxk_F4yz1DvspdX8HxaQ0tPlKxaS3_Vn4XJOdq55S0BC7-PSYVYc6eugDpOOYaFF4lBFyWczGxchxvvHolYNkORh_rgwo5qDBB7btguuKvpgXUT_zQlCDKoYfF2jxHR6-eOtv2kvz4orjRhyAYvwzvlqv2RhO29BrF6z1QtT_Hjsldbuo0",
+                    "obfuscated_provider": "b3"
+                  }
+                ],
+                "review_count": 179,
+                "special_hours": null,
+                "state": "AL",
+                "website_url": "https://www.bateshouseturkey.com/?utm_source=chatgpt.com",
+                "yelp_menu_url": "https://www.yelp.com/menu/bates-house-of-turkey-greenville?adjust_creative=openai&utm_campaign=yelp_feed&utm_medium=feed_v2&utm_source=chatgpt.com",
+                "zipcode": "36037"
+              },
+              "entity_type": "restaurant",
+              "metadata": {
+                "location": "Greenville, AL, USA",
+                "map_url": "https://www.google.com/maps/dir/?api=1&destination=Bates+House+of+Turkey%2C+1001+Fort+Dale+Rd%2C+Greenville%2C+AL+36037%2C+United+States&utm_source=chatgpt.com"
+              },
+              "name": "Bates House of Turkey",
+              "prefix": null,
+              "prompt_text": "### Bates House of Turkey\nId: ChIJX74RXB88jogR61znxTI3kyM\nDistance Meters: 3375.537319059049\nRating Scale: 5\nAddress: 1001 Fort Dale Rd, Greenville, AL 36037, United States\nDescription: Long-running, wood-paneled restaurant focusing on turkey sandwiches & plates with classic sides.\nRating: 3.8\nReview Count: 179\nPrice Str: $\nCategories: Restaurant\nHours: day=5 start='0800' end='1800', day=1 start='0800' end='1800', day=6 start='0800' end='1800', day=0 start='0900' end='1800', day=4 start='0800' end='1800', day=2 start='0800' end='1800', day=3 start='0800' end='1800'\nIs Open: True\nNext Open Hour: day=0 start='0900' end='1800'\nPhone: +1 334-382-6123\nIs Closed Permanently: False\nIs Closed Temporarily: False\nCountry Code: US\nCountry Name: United States\nCity: Greenville\nState: AL\nZipcode: 36037\nTags: Outdoor seating, Delivery, On-site services, Takeaway, Dine-in, Serves local specialty, Lunch, Dinner, Solo dining, Wheelchair-accessible car park, Wheelchair-accessible entrance, Wheelchair-accessible seating, Wheelchair-accessible toilet, Coffee, Comfort food, Healthy options, Private dining room, Quick bite, Small plates, Vegan options, Lunch, Dinner, Catering, Counter service, Dessert, Seating, No table service, Toilet, Casual, Cosy, Quiet, Family friendly, Good for groups, Tourists, Doesn't accept reservations, Cheques, Credit cards, Debit cards, NFC mobile payments, Good for kids, High chairs, Kids' menu, Free of charge street parking, Free parking lot, Paid parking lot, Dogs allowed outside",
+              "type": "entity_metadata"
+            },
+            {
+              "alt": "([Reddit](https://www.reddit.com/r/Alabama/comments/1ktwjr3?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Reddit",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1748039616.03,
+                  "refs": [
+                    {
+                      "ref_index": 24,
+                      "ref_type": "reddit",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 23,
+                      "ref_type": "reddit",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [
+                    {
+                      "attribution": "Reddit",
+                      "pub_date": null,
+                      "snippet": "",
+                      "title": "Roadtripping through AL next month\u2026",
+                      "url": "https://www.reddit.com/r/Alabama/comments/ti0pxu?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Driving down from Nashville to Gulf shores this weekend, will be in southern Alabama by the time were looking for something to eat. Are there any noteworthy places to eat that might be a good bit off of the highway?",
+                  "url": "https://www.reddit.com/r/Alabama/comments/1ktwjr3?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prefix": null,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "Morgan Creek Winery",
+                  "title": "Visit",
+                  "url": "https://www.morgancreekwinery.com/visit/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Sweet Grown Alabama",
+                  "title": "Sweet Grown Alabama's Best Summer Road Trip Pit Stops",
+                  "url": "https://www.sweetgrownalabama.org/posts/2021/06/17/roadtrip?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Wanderlog",
+                  "title": "30 Best Stops Between Montgomery and Santa Rosa Beach",
+                  "url": "https://wanderlog.com/drive/between/58433/58426/montgomery-to-santa-rosa-beach-drive?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Reddit",
+                  "title": "Driving down from Nashville to Gulf shores this weekend, will be in southern Alabama by the time were looking for something to eat. Are there any noteworthy places to eat that might be a good bit off of the highway?",
+                  "url": "https://www.reddit.com/r/Alabama/comments/1ktwjr3?utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "8a265fc7-e6b1-4b5e-9066-065fa9e2cfae",
+          "search_result_groups": [
+            {
+              "domain": "iexitapp.com",
+              "entries": [
+                {
+                  "attribution": "iexitapp.com",
+                  "snippet": "Exit 212 Clanton, AL Chevron Left (NE) - 0.21 miles 3300 Lay Dam Rd Clanton, AL 35046-4060 $3.599 Exit 208 Clanton, AL Chevron Right (W) - 1.62 miles 405 Lay Dam Rd Clanton, AL 35045-2915 $3.559 Chevr...",
+                  "title": "Chevron along I-65 exits in Alabama | iExit Interstate Exit Guide",
+                  "url": "https://www.iexitapp.com/exits/Alabama/I-65/South/656/Chevron/50?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "iexitapp.com",
+                  "snippet": "Exit 219 Jemison, AL Chevron Left (NE) - 0.09 miles 12771 County Rd 42 Jemison, AL 35085-4718 $3.799 Exit 212 Clanton, AL Chevron Left (NE) - 0.21 miles 3300 Lay Dam Rd Clanton, AL 35046-4060 $3.699 E...",
+                  "title": "Chevron along I-65 exits in Alabama | iExit Interstate Exit Guide",
+                  "url": "https://www.iexitapp.com/exits/Alabama/I-65/South/656/Chevron/50?order=rank&origin=by_state&utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "corbinfarmswinery.com",
+              "entries": [
+                {
+                  "attribution": "corbinfarmswinery.com",
+                  "snippet": "Established in 2005  Family owned. Committed to Quality.   Image: OZAN WINERY LOCATION  FIND YOUR FAVORITES NEARBY!  OZAN WINERY LOCATION  I-65 | DIRECTIONS | EXIT 228    BIG NEWS !!  Corbin Farms is...",
+                  "title": "Home - Corbin Farms Winery",
+                  "url": "https://www.corbinfarmswinery.com/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "ozanwine.com",
+              "entries": [
+                {
+                  "attribution": "ozanwine.com",
+                  "snippet": "DIRECTIONS  WINERY & DISTILLERY  Interstate 65 Exit 228 - ( 1 Mile ) Follow The Signs.  `iframe`  You\u2019re in the right place! When you visit there\u2019ll be nice folks sipping wine, and tasting cheese ins...",
+                  "title": "DIRECTIONS - Ozan Vineyard & Cellars",
+                  "url": "https://www.ozanwine.com/directions/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "daytripanywhere.com",
+              "entries": [
+                {
+                  "attribution": "daytripanywhere.com",
+                  "snippet": "WINERIES & VINEYARDS NEAR MONTGOMERY, AL  12 wineries within driving distance of Montgomery  12 wineries within a day's drive of Montgomery, AL \u2014 including Chautauqua Vineyards & Winery, Wills Creek...",
+                  "title": "Best Wineries Near Montgomery, AL \u2014 Day Trips 2026 | Day Trip Anywhere",
+                  "url": "https://daytripanywhere.com/wineries/near/montgomery?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "inbirmingham.com",
+              "entries": [
+                {
+                  "attribution": "inbirmingham.com",
+                  "snippet": "ALABAMA WINE TRAIL- SHELBY TRAIL  Image  ALABAMA WINE TRAIL- SHELBY TRAIL  Wine enthusiasts often are surprised to find vineyards and wineries in the Birmingham area. Be sure to sample the robust mus...",
+                  "title": "Alabama Wine Trail- Shelby Trail - Greater Birmingham Convention & Visitors Bureau - Birmingham, AL",
+                  "url": "https://inbirmingham.com/things-to-do/alabama-wine-trail-shelby-trail/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "pickyourown.org",
+              "entries": [
+                {
+                  "attribution": "pickyourown.org",
+                  "snippet": "11728 County Road 37, Clanton, AL 35045. Phone: (205) 755-4203. Phone: 205-280-0242. Alternate phone: 205-755-4203. Email: jimdurbinfarms@gmail.com.. Open: March through August 30 (call for hours and...",
+                  "title": "Montgomery and southeastern Alabama U-Pick farms: Find a pick your own farm near you in Montgomery and southeastern Alabama for fruit, vegetables, pumpkins, organic foods,local produce and more!",
+                  "url": "https://mail.pickyourown.org/ALmontg.htm?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "pickyourown.org",
+                  "snippet": "Phone: 205-755-9763. Open: All day/7 days a week; Crops available: June and July; Please call before you come. Directions: From Clanton, take Al. Hwy. 22, turn left on Co. Road 37, and right on Co. Ro...",
+                  "title": "Montgomery and southeastern Alabama U-Pick farms: Find a pick your own farm near you in Montgomery and southeastern Alabama for fruit, vegetables, pumpkins, organic foods,local produce and more!",
+                  "url": "https://www.pickyourown.org/ALmontg.htm?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "eniplaces.com",
+              "entries": [
+                {
+                  "attribution": "eniplaces.com",
+                  "snippet": "PEACH PARK  Enjoy fresh produce and Southern comfort in one stop  View Menu  OUR STORY  Image: #  Nestled conveniently along I-65 in Clanton, Alabama, Peach Park is more than just a roadside stop \u2014 it...",
+                  "title": "Peach Park \u2013 Fresh Produce, BBQ & Ice Cream in Clanton, AL",
+                  "url": "https://peach-park.eniplaces.com/?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "8a265fc7-e6b1-4b5e-9066-065fa9e2cfae"
+    },
+    "443bf787-ad78-4e93-add5-2c8932d6ca87": {
+      "id": "443bf787-ad78-4e93-add5-2c8932d6ca87",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "If you mean **Sipsey Vineyard & Winery**, it's actually a **great option** for your trip because it's much closer to I-65 than the other North Alabama wineries.\n\n\ue200image_group\ue202{\"query\":[\"Sipsey Vineyard and Winery Cullman tasting room\",\"Sipsey Vineyard and Winery Double Springs Alabama\"]}\ue201\n\nThere are actually **two locations**:\n\n- **Cullman Tasting Room**: Just a few minutes off **I-65**, making it an easy stop without adding much time. They offer tastings of Appalachian wines, muscadine wines, fruit wines, and ciders. \ue200cite\ue202turn0search2\ue202turn0search0\ue201\n- **Double Springs Winery**: This is the main winery near the \ue200entity\ue202[\"point_of_interest\",\"Sipsey Wilderness\",\"Bankhead National Forest, Alabama\"]\ue201, but it's about an hour west of I-65, so it's better suited for a separate day trip. \ue200cite\ue202turn0search1\ue202turn0search4\ue201\n\nFor your drive to Santa Rosa Beach, I'd rank the stops like this:\n\n1. **Sipsey Vineyard (Cullman)** \ud83c\udf77\n2. Peach Park \ud83c\udf51\n3. Priester's Pecans \ud83e\udd5c\n4. Bates House of Turkey \ud83e\udd83\n\nThe **Cullman tasting room** is probably your best wine stop because you can enjoy a tasting and get right back on I-65 without a major detour."
+          ]
+        },
+        "create_time": 1784478874.933049,
+        "id": "443bf787-ad78-4e93-add5-2c8932d6ca87",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "![Image](https://images.openai.com/static-rsc-4/ELOP62QPl11zRiChKbKMW-20ENHrgeGFn3-Vd9IvcZ5OzbHJzLEHqGUG4ragyy6xpQdR6Iy3GvGpI5sU6P0PQ_biKrKm7jzJ1wuUOcQ2l9IYba8TAAc19UJZ9ROEC2xNsbCtgVFR4xaw2Rftc21wy6uijGkaDqdVNnnPoeCTYrXyqzQLC0DcGpnEKpvDabG0?purpose=fullsize)\n\n![Image](https://images.openai.com/static-rsc-4/6yrVsDP-JQBzlo3w1E9jbFqo51xo28zxrcNlJcbYwTeq178XZPXSBdwBj1pczlNMEj3Tvj_HT8Sn1zJk06xPrR27z8VxQfzpg8IsyO4_Y_LSoCcXb36jbk5iAfT6Wi1WWkD47L8L0Ffrjqz0bpcDU3oupWS6KET_FoHjbrxb29s_ZzpwK4NXlD491rOXG-cG?purpose=fullsize)\n\n![Image](https://images.openai.com/static-rsc-4/76k7hl1dSrY7Cq6IJ5QsPjNM9ln5VS9Mt6BfRttVjd8MvvssRsI5r6dHoLraPOyexCzccQrK2TZmr7GNU4z43qzR2BEAiC84OxNvt-xTSdmoOrLW2dXj1ZlHkwqXnA0tSYtZvWJvxGS7TuKb8JE0oTYCZRKrXh1_g8JmQmI0KMvuYZ-XNjuvvHSBuXvoLKME?purpose=fullsize)\n\n![Image](https://images.openai.com/static-rsc-4/RRr8yzQIDWLqJkrW3YXaceHL1qcDYPgftsMubxg6oF97NKCYNp_etLSF2WCmhXcU503uTJIqmBKKadI0znt1pnwkk_X8Paib6E7oBUEuQBRMCPCyITYFDkJ84tld669dsvIIPCDNQGgZUMVMqvUyJSi92rzSwHfCp1YENhVBBe-cYF5_0u2Lk9JT7bSlxoAZ?purpose=fullsize)",
+              "images": [
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 3024,
+                      "width": 4032
+                    },
+                    "content_url": "https://images.openai.com/static-rsc-4/ELOP62QPl11zRiChKbKMW-20ENHrgeGFn3-Vd9IvcZ5OzbHJzLEHqGUG4ragyy6xpQdR6Iy3GvGpI5sU6P0PQ_biKrKm7jzJ1wuUOcQ2l9IYba8TAAc19UJZ9ROEC2xNsbCtgVFR4xaw2Rftc21wy6uijGkaDqdVNnnPoeCTYrXyqzQLC0DcGpnEKpvDabG0?purpose=fullsize",
+                    "original_content_url": "https://assets.simpleviewinc.com/simpleview/image/upload/crm/alabamamlta/IMG_1583_D65EC47E-B750-F0E5-AB106B338C852C85-d65ebe190f89198_d65ee368-ce34-41aa-3dac2945a21f684b.jpg",
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.4806547619047619,
+                      "center_y_percent": 0.4255952380952381
+                    },
+                    "thumbnail_render_mode": "thumbnail_only",
+                    "thumbnail_size": {
+                      "height": 860,
+                      "width": 1147
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-4/ZUVXSbVyJCoXkvUWrLcX4wxNxWTN9XL33otmGRLLQuQ6Dr3KmbPEaJjBrsSKET81E-U3gUxcVJS0QAm8n0N3MjzbG0MQzTKanDTipKlnpbQJtfeUAPrkbX34sb9s7DH3eURK42s46YlNRfilGsuh9RoBWuEWIyJow3SKt56yBzk?purpose=inline",
+                    "title": "Sipsey Vineyard and Winery",
+                    "url": "https://www.northalabama.org/listing/sipsey-vineyard-and-winery/4305/?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "Sipsey Vineyard and Winery Cullman tasting room",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 900,
+                      "width": 1200
+                    },
+                    "content_url": "https://images.openai.com/static-rsc-4/6yrVsDP-JQBzlo3w1E9jbFqo51xo28zxrcNlJcbYwTeq178XZPXSBdwBj1pczlNMEj3Tvj_HT8Sn1zJk06xPrR27z8VxQfzpg8IsyO4_Y_LSoCcXb36jbk5iAfT6Wi1WWkD47L8L0Ffrjqz0bpcDU3oupWS6KET_FoHjbrxb29s_ZzpwK4NXlD491rOXG-cG?purpose=fullsize",
+                    "original_content_url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit%2Cq_75%2Cw_1200/v1/crm/alabamamlta/IMG_1582_D6646D50-E84F-3668-F6E4ED825D3D807E-d66465c000bdf9c_d66478e7-0a57-d343-940789a62738b79c.jpg",
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.7991666666666667,
+                      "center_y_percent": 0.4766666666666667
+                    },
+                    "thumbnail_render_mode": "thumbnail_only",
+                    "thumbnail_size": {
+                      "height": 860,
+                      "width": 1147
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-4/12OJqMCpucMJy0DXgWg9VUudiane1Id0S1HIeXTYEXQBBfTzdXgHt6_6ZcuggG2vXIYTgGzjWbP0uekHfR1UtleLTfO8CGu_ctAXvuaH8WcH_KqKzmgaS670wg4pXuDecrjJFXqC0YWgeuhq9o5zrrjqutYsd1od8QSJFZYIXVc?purpose=inline",
+                    "title": "Sipsey Vineyard and Winery",
+                    "url": "https://www.northalabama.org/listing/sipsey-vineyard-and-winery/4305/?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "Sipsey Vineyard and Winery Cullman tasting room",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 900,
+                      "width": 1200
+                    },
+                    "content_url": "https://images.openai.com/static-rsc-4/76k7hl1dSrY7Cq6IJ5QsPjNM9ln5VS9Mt6BfRttVjd8MvvssRsI5r6dHoLraPOyexCzccQrK2TZmr7GNU4z43qzR2BEAiC84OxNvt-xTSdmoOrLW2dXj1ZlHkwqXnA0tSYtZvWJvxGS7TuKb8JE0oTYCZRKrXh1_g8JmQmI0KMvuYZ-XNjuvvHSBuXvoLKME?purpose=fullsize",
+                    "original_content_url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit%2Cq_75%2Cw_1200/v1/crm/alabamamlta/Sipsey-Outside2-2024_AA57EB30-F5B9-44A7-2C14233458C089FD-aa57e2ceff7d648_aa581557-09e4-96c1-4728a48517bf4aa4.jpg",
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.20083333333333334,
+                      "center_y_percent": 0.91
+                    },
+                    "thumbnail_render_mode": "thumbnail_only",
+                    "thumbnail_size": {
+                      "height": 860,
+                      "width": 1147
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-4/uI5-GsMkKSosqM8MDUFPhu_6wuNt4sIzyhVL0vEn-qBcuUysDPBGkaRTNxXnTxCaaeb-6gYYkCXHcGZWrGvHQ9OaEkO8OJwuNh3Ca7OH5bdUAg4RxVEIPASyFx2RNwdUH736PR2jT0NyUN5BV0YDvvx0DQHEHT9zQUvTmhB-R6o?purpose=inline",
+                    "title": "Sipsey Vineyard and Winery",
+                    "url": "https://www.northalabama.org/listing/sipsey-vineyard-and-winery/4305/?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "Sipsey Vineyard and Winery Double Springs Alabama",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 3024,
+                      "width": 4032
+                    },
+                    "content_url": "https://images.openai.com/static-rsc-4/RRr8yzQIDWLqJkrW3YXaceHL1qcDYPgftsMubxg6oF97NKCYNp_etLSF2WCmhXcU503uTJIqmBKKadI0znt1pnwkk_X8Paib6E7oBUEuQBRMCPCyITYFDkJ84tld669dsvIIPCDNQGgZUMVMqvUyJSi92rzSwHfCp1YENhVBBe-cYF5_0u2Lk9JT7bSlxoAZ?purpose=fullsize",
+                    "original_content_url": "https://assets.simpleviewinc.com/simpleview/image/upload/crm/alabamamlta/IMG_1586_D64ED748-CB4C-3B25-5D8BED83F58B0426-d64ed2abb45a12d_d64ef2f9-ec77-94e3-d21d4979ff99f897.jpg",
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.5002480158730159,
+                      "center_y_percent": 0.4156746031746032
+                    },
+                    "thumbnail_render_mode": "thumbnail_only",
+                    "thumbnail_size": {
+                      "height": 860,
+                      "width": 1147
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-4/6IX3UUHvudzu00P9XqTagFcHamqMr6yaiqu71mkB3DT70ZRzoJ87n4UOkAAfdT45nF_MSaM9Gea-OqFpdO0qy31c2TT8ThALOSYI6dlSufJwiqAf0323GScDdwwQmF00K7BkmZ-KTMkQube_B7BEz34_ZvwMRk-CC-vHWvfOwTQ?purpose=inline",
+                    "title": "Sipsey Vineyard and Winery Tasting Room",
+                    "url": "https://www.northalabama.org/listing/sipsey-vineyard-and-winery-tasting-room/4426/?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "Sipsey Vineyard and Winery Double Springs Alabama",
+                  "image_search_system": null
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "image_group"
+            },
+            {
+              "alt": "([North Alabama](https://www.northalabama.org/places-to-visit/trails/wine-tours/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "North Alabama",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 2,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [
+                    {
+                      "attribution": "From the Land of 1,000 Waterfalls",
+                      "pub_date": null,
+                      "snippet": "",
+                      "title": "Sipsey Vineyard and Winery - Quality Wines and Ciders, Wine Tastings, Winery",
+                      "url": "https://sipseywine.com/?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "North Alabama Wine Trail | Wineries & Wine Tasting",
+                  "url": "https://www.northalabama.org/places-to-visit/trails/wine-tours/?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "Sipsey Wilderness",
+              "prefix": null,
+              "prompt_text": "Sipsey Wilderness",
+              "render_as": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "([North Alabama](https://www.northalabama.org/trails/wine/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "North Alabama",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 1,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 4,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [
+                    {
+                      "attribution": "North Alabama",
+                      "pub_date": null,
+                      "snippet": "",
+                      "title": "The Happy Scientist Behind Sipsey Vineyard and Winery",
+                      "url": "https://www.northalabama.org/blog/post/the-happy-scientist-behind-sipsey-vineyard-and-winery/?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "North Alabama Wine Trail | Wineries & Wine Tasting",
+                  "url": "https://www.northalabama.org/trails/wine/?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prefix": null,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "North Alabama",
+                  "title": "North Alabama Wine Trail | Wineries & Wine Tasting",
+                  "url": "https://www.northalabama.org/places-to-visit/trails/wine-tours/?utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "fa8e5ee9-8efa-4a0d-bf30-4beb95c29a8b",
+          "search_result_groups": [
+            {
+              "domain": "sipseywine.com",
+              "entries": [
+                {
+                  "attribution": "sipseywine.com",
+                  "snippet": "DISCOVER THE ESSENCE OF APPALACHIAN WINES  Discover the Essence of Appalachian Wines Discover the Essence of Appalachian Wines Discover the Essence of Appalachian Wines  Sipsey Winery  ABOUT US  SIPS...",
+                  "title": "Sipsey Vineyard and Winery - Quality Wines and Ciders, Wine Tastings, Winery",
+                  "url": "https://sipseywine.com/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "willscreekwinery.com",
+              "entries": [
+                {
+                  "attribution": "willscreekwinery.com",
+                  "snippet": "WILLS CREEK VINEYARDS IS A PROUD MEMBER OF THE NORTH ALABAMA WINE TRAIL.  NORTH ALABAMA WINE TRAIL  Learn More  NORTH ALABAMA WINE TRAIL  JULES J. BERTA VINEYARDS  JULES J. BERTA VINEYARDS  1409 Dard...",
+                  "title": "Wills Creek Winery - Wine Trail, North Alabama Wine Trail",
+                  "url": "https://willscreekwinery.com/wine-trail?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "northalabama.org",
+              "entries": [
+                {
+                  "attribution": "northalabama.org",
+                  "snippet": "THE HAPPY SCIENTIST BEHIND SIPSEY VINEYARD AND WINERY  By Melea Hames on Jan. 08, 2026  If you have ever spent a day chasing waterfalls in the Bankhead, driving around Smith Lake, or wandering into a...",
+                  "title": "The Happy Scientist Behind Sipsey Vineyard and Winery",
+                  "url": "https://www.northalabama.org/blog/post/the-happy-scientist-behind-sipsey-vineyard-and-winery/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "northalabama.org",
+                  "snippet": "AGRICULTURE ADVENTURES TRAIL  COME SAVOR, SHOP AND SHARE SOME OF NORTH ALABAMA'S AMAZING AGRITOURISM DESTINATIONS.  Agriculture is so important to our North\u00a0Alabama region, and we\u00a0want to celebrate o...",
+                  "title": "North Alabama Agriculture Adventures Trail | Farmers Markets",
+                  "url": "https://www.northalabama.org/places-to-visit/trails/agriculture-adventure-trail/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "northalabama.org",
+                  "snippet": "SCENIC NORTH ALABAMA MOTORCYCLE ROUTE - NORTH ALABAMA WINERIES ROUTE  This is approximately a six hour route. This drive is very scenic with eye-catching views of the rivers and lakes in the area, as...",
+                  "title": "North Alabama Wineries Motorcycle Route",
+                  "url": "https://www.northalabama.org/places-to-visit/trails/motorcycle-trail/north-alabama-wineries-route/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "vinetowineguide.com",
+              "entries": [
+                {
+                  "attribution": "vinetowineguide.com",
+                  "snippet": "SIPSEY WINERY  Back to Double Springs, Alabama Wineries  SIPSEY WINERY  Double Springs, Alabama  4.0(1.0 reviews)  DESCRIPTION  SIPSEY VINEYARD AND WINERY OVERVIEW  Located amidst the scenic beauty o...",
+                  "title": "Sipsey Winery | Double Springs, Alabama Winery",
+                  "url": "https://www.vinetowineguide.com/wineries/sipsey-winery?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "atlasalabama.gov",
+              "entries": [
+                {
+                  "attribution": "atlasalabama.gov",
+                  "snippet": "TOWN OF SIPSEY  WELCOME TO THE TOWN OF SIPSEY  The town of Sipsey is located in east-central Walker County in the central part of Alabama. Sipsey\u2019s eastern town limit lies on the Sipsey Fork of the B...",
+                  "title": "Sipsey - Atlas Alabama",
+                  "url": "https://www.atlasalabama.gov/municipalities/sipsey/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "northalabamawinetrail.com",
+              "entries": [
+                {
+                  "attribution": "northalabamawinetrail.com",
+                  "snippet": "CONTACT US  CONTACT US  NORTH ALABAMA WINE TRAIL  For more information  Email: jrcoppey@gmail.com  (256) 538-5452   DROP US A LINE!  [Input]Name  [Input]Email*   JULES J. BERTA WINERY  JULES J. BERTA...",
+                  "title": "CONTACT",
+                  "url": "https://northalabamawinetrail.com/contact?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "cullmantribune.com",
+              "entries": [
+                {
+                  "attribution": "cullmantribune.com",
+                  "snippet": "\u2018WINE PEOPLE ARE HAPPY PEOPLE\u2019  By: Lauren Estes  February 21, 2025  0  6073  Sipsey Winery offers several wines (fruit and grape varietals), apple and pear ciders, wine slushies, charcuterie and, st...",
+                  "title": "\u2018Wine people are happy people\u2019 - The Cullman Tribune",
+                  "url": "https://www.cullmantribune.com/2025/02/21/wine-people-are-happy-people/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "mapquest.com",
+              "entries": [
+                {
+                  "attribution": "mapquest.com",
+                  "snippet": "SIPSEY WINERY AT THE FLYING FIFTY  Image  Save  WebsiteImage  Directions  Advertisement  515 4th St SW  Cullman, AL 35055  https://sipseywine.com  Sipsey Vineyard and Winery, located at the foothills...",
+                  "title": "Sipsey Winery at the Flying Fifty, 515 4th St SW, Cullman, AL 35055, US - MapQuest",
+                  "url": "https://www.mapquest.com/us/alabama/sipsey-winery-at-the-flying-fifty-790618146?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "fa8e5ee9-8efa-4a0d-bf30-4beb95c29a8b"
+    },
+    "8907e0e1-42b5-498e-b25a-a65677821975": {
+      "id": "8907e0e1-42b5-498e-b25a-a65677821975",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "thoughts",
+          "source_analysis_msg_id": "1f6e2902-d8ea-444b-a77e-3dee7855e5dd",
+          "thoughts": [
+            {
+              "chunks": [],
+              "content": "",
+              "finished": true,
+              "summary": "Searched various websites including sipseywine.com and Wikipedia"
+            }
+          ]
+        },
+        "create_time": 1784478875.479949,
+        "id": "8907e0e1-42b5-498e-b25a-a65677821975",
+        "metadata": {
+          "model_slug": "gpt-5-5",
+          "parent_id": "56e50561-d64d-4731-8d27-7eceec66676c",
+          "tool_icons": [
+            "globe"
+          ]
+        }
+      },
+      "parent": "bbb21775-447b-4bb8-841e-221c3117033d"
+    },
+    "8a265fc7-e6b1-4b5e-9066-065fa9e2cfae": {
+      "id": "8a265fc7-e6b1-4b5e-9066-065fa9e2cfae",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content": "Worked for a couple of seconds",
+          "content_type": "reasoning_recap"
+        },
+        "create_time": 1784478812.250486,
+        "id": "8a265fc7-e6b1-4b5e-9066-065fa9e2cfae",
+        "metadata": {
+          "model_slug": "gpt-5-5",
+          "parent_id": "d184e9e1-9fe2-484f-ac89-cd948cdda5ce"
+        }
+      },
+      "parent": "d184e9e1-9fe2-484f-ac89-cd948cdda5ce"
+    },
+    "9e2eea37-ccd9-43cb-97d4-11bf9cd98e79": {
+      "id": "9e2eea37-ccd9-43cb-97d4-11bf9cd98e79",
+      "message": null,
+      "parent": null
+    },
+    "bbb2128a-851e-4686-b09b-e1398818b6d8": {
+      "id": "bbb2128a-851e-4686-b09b-e1398818b6d8",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "We're taking the 65 to Montgomery 131 Santa Rosa, Florida. Map out a few of these that are on our way. Not far from the 65 or those locations. AI Mode\nAll\nVisual matches\nAbout this image\nSearch tools\nAI Overview\n\n\n\n+5\nJules J. Berta Vineyards, Wills Creek Winery, and High Country Cellars are excellent stops along the North Alabama Wine Trail that align perfectly with a road trip down from the I-65 state line (Alabama/Tennessee border) toward Destin, Florida. \n\nTennessee River Valley Geotourism\n +1\nA logical geographic routing across the state maps these locations directly onto your path:\n\ud83d\udccd Route Map & Stop Breakdown\n[ I-65 Alabama State Line ]\n       \u2502\n       \u25bc (Take US-431 South)\n1. Wills Creek Winery (Attalla, AL) \u2500\u2500\u25ba Mountain views & local muscadine wines\n       \u2502\n       \u25bc (Continue US-431 South)\n2. Jules J. Berta Vineyards (Albertville, AL) \u2500\u2500\u25ba Wood-fired pizza & wine slushies\n       \u2502\n       \u25bc (Take AL-9 South toward I-20)\n3. High Country Cellars (Heflin, AL) \u2500\u2500\u25ba 45+ fruit wines near Cheaha Mountain\n       \u2502\n       \u25bc (Take US-431 South / AL-167 South)\n[ Destin, Florida ]\n\ud83c\udf47 Winery Stop Details\nWills Creek Winery\nWills Creek Winery\nLocated in the hills of Duck Springs Valley, Wills Creek Winery is an ideal first detour after heading southeast from the I-65 state line. \n\nTennessee River Valley Geotourism\nAddress: 10522 Duck Springs Road, Attalla, AL 35954\nVibe: Relaxing outdoor deck overlooking a tranquil pond and vineyard layout.\nSpecialty: Traditional European-style blends, sweet muscadine varietals, and a popular weekly Sunday brunch. \nJules J. Berta Vineyards\nJules J. Berta Vineyards\nContinuing south along US-431 leads straight to Jules J. Berta Vineyards, which has repeatedly been named the Alabama Winery of the Year. \n\nHeart of Sand Mountain\nAddress: 1441 Darden Avenue, Albertville, AL 35951\nVibe: Lively, family-friendly venue featuring a beautiful lake-view patio and outdoor pizzeria.\nSpecialty: Handcrafted wood-fired pizzas, signature wine slushies, and locally grown estate wines like Syrah. \nHigh Country Cellars\nHigh Country Cellars\nBefore hitting the long southern stretch down to the coast, make a final eastern Alabama stop at High Country Cellars right off the Interstate 20 corridor.\nAddress: 849 Almon Street, Heflin, AL 36264\nVibe: A cozy, repurposed country house setting located just 30 minutes from Mount Cheaha.\nSpecialty: Over 45 custom fruit-crafted wines ranging from dry styles to unique options like Charred Peach. \n\nVisit North Alabama\n +2\nIf you need help planning, let me know:\nYour travel dates to cross-reference their seasonal hours.\nWhether you prefer dry traditional wines or sweet Southern fruit wines.\nIf you want a full list of food stops along this specific route.\nVisit Jules J. Berta Vineyards & Winery - Heart of Sand Mountain: Albertville, AL\nVisit Jules J. Berta Vineyards & Winery. Escape to the peaceful charm of Jules J. Berta Vineyards & Winery in Albertville, Alabama\u2014where families can slow down ...\n\n\nHeart of Sand Mountain\nNorth Alabama Wine Trail | Tennessee River Valley\nWineries are located within 75 miles of each other, in the mountains and valleys near rivers and streams with a scenic drive through North Alabama. The North Al...\n\n\nTennessee River Valley Geotourism\nHigh Country Cellars \u2013 Heflin, Alabama - An Innovative Pursuit - WordPress.com\nApr 8, 2015 \u2014 High Country Cellars \u2013 Heflin, Alabama. hollybekah Uncategorized April 8, 2015 February 21, 2017 1 Minute. If you hadn't heard of Heflin, Alabama then you will ...\n\n\nWordPress.com\nWills Creek Winery - Winery, Vineyards\nWills Creek WineryWills Creek WineryWills Creek Winery. 10522 Duck Springs Road. Attalla, Alabama 35954. (256) 538-5452. Weekly Sunday Brunch! Call (256) 538-54...\n\n\nWills Creek Winery\nJules J Berta Vineyards - Albertville, AL\nJules J Berta Vineyards, established in 2008 in Albertville, AL, offers a unique winery experience to the surrounding areas. Enjoy wine tastings, stunning outdo...\n\n\nJules J Berta Vineyards\nJules J. Berta Vineyards - Alabama Mountain Lakes Tourist Association\nJules J. Berta Vineyards. Visit Website. 1409 Darden Ave. Albertville, AL 35951. (256) 891-5115 \u00b7 bertavineyards@hotmail.com. We are a winery where Old World me...\n\n\nVisit North Alabama\nHigh Country Cellars Winery, Inc - Alabama Mountain Lakes Tourist Association\nHigh Country Cellars Winery, Inc. Visit Website. 849 Almon Street Heflin, AL 36264. (256) 463-3456 \u00b7 highcountrycellarsal@gmail.com. Located just 30 minutes fro...\n\n\nVisit North Alabama\nHigh Country Cellars Winery\n| Ocalla Florida. My husband likes beer more, but ended up doing the tasting with me, and is a converted wino LOL! We loved this place and the owner, who was So...\n\n\nHigh Country Cellars\n\nAsk a follow-up\n\n\n\n\n\n\n\n\nFacebook\nRonald - The WE ALL BE Group Inc. proudly presents the 2026 National Fort Pillow Massacre Commemorative Weekend\u2014 A sacred gathering dedicated to honoring the United States Colored Troops (USCTs), Union soldiers,\n\n\nKentucky Renaissance Fair... - Kentucky Renaissance Fair\nKentucky Renaissance Fair... - Kentucky Renaissance Fair\n\n\nInstagram\nThe Foothills Visitor and Adventure Guide is out and all our Bandstand and The Venue events are included, as well as a feature article! Thank you @western.wheel for putting together this wonderful\n\n\nInstagram\nPhotographed this month's cover story for @thestrollmag Ansley Park. \ud83d\udcf8 Had the opportunity to photograph artist + creative Steve Hurlburt for this month's feature story. Steve's world is deeply tied to music,\n\n\nFacebook\nUniversity of Wyoming School of Energy Resources | Laramie WY\n\n\nLive Beaches\nMap of Destin, Florida | Where is Destin, FL?\n\n\nFacebook\nFun things I did working with Toys R Us\n\n\nInstagram\nAdelaide Sangat camp\n\n\nTeen Missions\nBrumbelow's Broadcast\n\n\nFacebook\nBradstock donation to Camp Pa Qua Tuck\n\n\nFacebook\nRAVE\n\n\nFacebook\nMay Newsletter going to FF Post boxes this afternoon.\n\n\nCommunity Impact\nGrapevine - Colleyville - Southlake \u2014 March 2016 Edition | Community Impact\n\n\nFacebook\nWhere to post cooking camp flyers in Palo Alto?\n\n\nInstagram\nVisit Tarpon Springs, Fl. USA | We put together an overall video for our beloved city. . . Tag your photos & videos with @visittarponsprings #visittarponsprings to be... | Instagram\n\n\nIssuu\nPerspectives Spring 2015 by Charlotte Country Day School - Issuu\n\n\nFacebook\nKPHA MEMBER SPOTLIGHT FOR FEBRUARY, 2026: Saline County Health Department https://www.salinecountyks.gov/let-s-talk-about-it-podcast #salinecounty #LetsTalkAboutItPodcast\n\n\nAmazon.com\nDK Eyewitness Top 10 Chicago (Pocket Travel Guide): DK Eyewitness: 9780241355992: Amazon.com: Books\n\n\nFacebook\nDriving through the Avenue of the Giants\n\n\nFacebook\n9 years ago today, Neil Bosanko was called upstairs after a cancer bout. He touched so many lives and proved his influence through the SE Side. This was taken at a benefit\n\n\nDACdb\nRotary Club Newsletter\n\n\nFacebook\nFr. Gene Dore council member featured in Columbia Edition\n\n\nTwo Valleys Community Land Trust\nBlog 3 \u2014 Two Valleys Community Land Trust\n\n\nFacebook\nUPDATED! \"TAKE THE TOUR MAP!\" FAMILY-OWNED ESTABLISHMENTS FROM FWB TO 30A! (Printable) Enjoy!\n\n\nLinkedIn\ntravellervoice #ntmf #travellercommunity #inclusion #mentalhealth #culturalpride #communitywork | National Traveller Mens Forum\n\n\neBay\nUK Yours Magazine Coronation Souvenir Edition, King Charles Queen Camilla Royals | eBay\n\n\nStand Up and Play Foundation\nMedia Kit - Stand Up and Play Foundation\n\n\nInstagram\nNewsweek March Color edition Rs 1400 Advance payment free delivery only\n\n\nElection Leaflets\nMorley Borough Independents leaflet | ElectionLeaflets.org\n\n\nFacebook\nConnie Hanson - Connie Hanson added a new photo.\n\n\nIssuu\nJuniata Fall Winter 2010 by Juniata College - Issuu\n\n\nGreat River Road\nUntitled\n\n\nlaura irmis creates\nGraphic Design - LAURA IRMIS CREATES\n\n\nChampion Newspapers\nThe Let It Be Foundation closing its doors | News | championnewspapers.com\n\n\nEynsham Online\nMovement and Place: HAVE YOUR SAY (Road Sharing) - 2 Jun 2026 @ Eynsham Village - Oxfordshire\n\n\nFacebook\nSafety is the top priority at Glendale Heights Fest! Before the carnival opens at 4 pm today, the Village of Glendale Heights Community Development Department and the Glenside Fire Protection District conduct\n\n\nFacebook\nKildare Fire is apart of the OSFA magazine this quarter.\n\n\nCruise Critic Community\ngrand princess 20th December till 22nd of January - Page 9 - Australia & New Zealand Cruisers - Cruise Critic Community\n\n\nInstagram\nthe_independence_project_) \u2022 Instagram photos and videos\n\n\nFacebook\nAnstey woman loses 7 stone and transforms health\n\n\nWarriston Residents Association\nWRA News & Updates | Warriston Residents Association | Scotland\n\n\nPasteur Alumni\nUntitled\n\n$10*\n\neBay\nEASTER SEALS Promo 2006 Calendar w Pics of Beautiful Flowers | eBay\nIn stock\n\n\nChristianity Today\nThe Human Condition - Christianity Today\n\n\nFacebook\nLooking for a church to get plugged into?\n\n\nChristian Expedition\nIsrael Expedition\n\n\nFacebook\nWhat events can you connect on the summer trip map?\n\n\nCommunity Impact\nCy-Fair - Jersey Village \u2014 August 2013 Edition | Community Impact\n\n\nBaroness Jones of Moulsecoomb\nLords Diary \u2013 Baroness Jones of Moulsecoomb\n\n\nIssuu\nMiami Country Day School 2017-18 Annual Review by Miami Country Day School - Issuu\n\n\njcsentinel.com\nPage 04241812 | The Daily Sentinel | jcsentinel.com\n\n\nInstagram\nCongratulations to @gardencityhs junior, Riley McNaboe, on being selected as a cover star and Dancer of the Month for the September/October issue of Irish Dancing Magazine. This is a bucket list item\n\n\neBay\nAlaska Brochure Lot Rafting Six Mile Sea Kayaking Native Culture Raft Denali | eBay\n\n\nFacebook\nWell Shipmates, if you haven't listened to our Podcasts yet, AJ from the Radio Times has. Review of our podcast on page 109 of this week's Radio Times, excellent work Oggie in\n\n\nWorld of Ukes\nIssue5 \u2014 World of Ukes\n\n\nMason County Press\nCommunity Foundation recaps 2023 grants | MasonCountyPress.com\n\n\nInstagram\n\ud83c\udfa8 Why Apply to GO! Artists \u2013 Oldham Art Fair? \ud83c\udfa8 GO! Artists is a brilliant opportunity to showcase and sell your work at Gallery Oldham while supporting the gallery's vital projects,\n\n\nLinkedIn\nNice to be on the inside back page of \u201cIn Cumbria\u201d this month. | John Osborne\n\n\nInternational School Eindhoven\nNewsletter - International School Eindhoven\n\n\nReddit\nI found this old newsletter under a fridge. : r/VictoriaBC\n* Check website for latest pricing and availability\nIn order to show you the most relevant results, we have omitted some entries very similar to the 3 already displayed.\nIf you like, you can repeat the search with the omitted results included.\n\nResults are personalized\n-\nTry without personalization\n35613, Alabama - From your device\nUpdate location\nTerms"
+          ]
+        },
+        "create_time": 1784478810.077047,
+        "id": "bbb2128a-851e-4686-b09b-e1398818b6d8",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "9e2eea37-ccd9-43cb-97d4-11bf9cd98e79"
+    },
+    "bbb21775-447b-4bb8-841e-221c3117033d": {
+      "id": "bbb21775-447b-4bb8-841e-221c3117033d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "What about sipseys"
+          ]
+        },
+        "create_time": 1784478872.346491,
+        "id": "bbb21775-447b-4bb8-841e-221c3117033d",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "145b8e76-082c-4cb5-a030-3925080c0014"
+    },
+    "d184e9e1-9fe2-484f-ac89-cd948cdda5ce": {
+      "id": "d184e9e1-9fe2-484f-ac89-cd948cdda5ce",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "thoughts",
+          "source_analysis_msg_id": "f2cb2315-c9c1-4a58-9df1-0cbef1c12a70",
+          "thoughts": [
+            {
+              "chunks": [],
+              "content": "",
+              "finished": true,
+              "summary": "Searched various websites including wineries, Wikipedia, and Reddit"
+            }
+          ]
+        },
+        "create_time": 1784478812.246463,
+        "id": "d184e9e1-9fe2-484f-ac89-cd948cdda5ce",
+        "metadata": {
+          "model_slug": "gpt-5-5",
+          "parent_id": "7ed024fc-4c9d-4246-88eb-cc139f407101",
+          "tool_icons": [
+            "globe"
+          ]
+        }
+      },
+      "parent": "bbb2128a-851e-4686-b09b-e1398818b6d8"
+    },
+    "fa8e5ee9-8efa-4a0d-bf30-4beb95c29a8b": {
+      "id": "fa8e5ee9-8efa-4a0d-bf30-4beb95c29a8b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content": "Worked for a couple of seconds",
+          "content_type": "reasoning_recap"
+        },
+        "create_time": 1784478875.483356,
+        "id": "fa8e5ee9-8efa-4a0d-bf30-4beb95c29a8b",
+        "metadata": {
+          "model_slug": "gpt-5-5",
+          "parent_id": "8907e0e1-42b5-498e-b25a-a65677821975"
+        }
+      },
+      "parent": "8907e0e1-42b5-498e-b25a-a65677821975"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Road Trip Stops I-65",
+  "update_time": 1784478879.138413,
+  "voice": null
+}

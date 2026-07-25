@@ -1,0 +1,71 @@
+{
+  "conversation_id": "6990f75c-8034-8325-86a8-b7fc28eb6e45",
+  "conversation_template_id": null,
+  "create_time": 1771108203.277697,
+  "current_node": "e8bf72d5-7d06-4e4d-8b92-4fdccca33c00",
+  "default_model_slug": "gpt-5-2",
+  "id": "6990f75c-8034-8325-86a8-b7fc28eb6e45",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "a0895a93-4f67-4d0f-87db-c04767be13a8": {
+      "id": "a0895a93-4f67-4d0f-87db-c04767be13a8",
+      "message": null,
+      "parent": null
+    },
+    "bbb21125-bdb3-4fd8-a6da-5dff80deb6fb": {
+      "id": "bbb21125-bdb3-4fd8-a6da-5dff80deb6fb",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Createe a prompt that I can use create an ai video of me sinking under water but just my face/chest not whole body"
+          ]
+        },
+        "create_time": 1771108203.057794,
+        "id": "bbb21125-bdb3-4fd8-a6da-5dff80deb6fb",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "a0895a93-4f67-4d0f-87db-c04767be13a8"
+    },
+    "e8bf72d5-7d06-4e4d-8b92-4fdccca33c00": {
+      "id": "e8bf72d5-7d06-4e4d-8b92-4fdccca33c00",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Love this concept. It feels cinematic, powerful, and symbolic. Here\u2019s a clean, high-quality prompt you can copy into Runway, Pika, Sora, Kaiber, or any AI video tool.\n\nIf you are uploading a reference photo of yourself, include that image and then paste this:\n\n---\n\n**AI VIDEO PROMPT**\n\nUltra-realistic cinematic slow motion video of a confident woman with long brunette hair slowly sinking underwater. Only her face and upper chest are visible in frame. The camera is close up and centered, framing from just below the collarbone to slightly above the top of her head.\n\nShe maintains calm eye contact with the camera as she gently descends. Hair floats weightlessly around her face. Soft natural light beams filter down through the water from above. Tiny air bubbles rise past her skin. The mood is powerful, emotional, and ethereal rather than distressed.\n\nWater is clear blue with subtle particles catching the light. Skin tones are natural and detailed. 4K resolution, high detail, shallow depth of field, cinematic color grading, dramatic lighting, slow motion, editorial luxury aesthetic.\n\nExpression is serene and strong, not panicked. The feeling is symbolic of surrender, rebirth, and transformation.\n\nNo full body visible. No chaotic splashing. No horror elements. No drowning distress. Just calm immersion.\n\n---\n\nIf you want a darker, more dramatic Luxora vibe:\n\nAdd this line at the end:\n\nDeep emerald blue tones with subtle burgundy highlights in lighting for a luxury, high fashion campaign feel.\n\nIf you'd like, tell me what this video is for, VSL, Instagram reel, summit opener, brand film, and I can tailor the emotional tone to match your Luxora aesthetic perfectly."
+          ]
+        },
+        "create_time": 1771108203.690871,
+        "id": "e8bf72d5-7d06-4e4d-8b92-4fdccca33c00",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "9dadd445-e2ed-4d56-971f-b57be9d14168"
+        }
+      },
+      "parent": "bbb21125-bdb3-4fd8-a6da-5dff80deb6fb"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "AI video prompt creation",
+  "update_time": 1771108213.933897,
+  "voice": null
+}

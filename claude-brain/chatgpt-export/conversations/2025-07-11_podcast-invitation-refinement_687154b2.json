@@ -1,0 +1,71 @@
+{
+  "conversation_id": "687154b2-28a4-8011-a995-e5f3358a3968",
+  "conversation_template_id": null,
+  "create_time": 1752257714.406186,
+  "current_node": "74e8c505-e64c-49f6-8691-99cbbc3c07d6",
+  "default_model_slug": "auto",
+  "id": "687154b2-28a4-8011-a995-e5f3358a3968",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "0016f3ab-7c08-404a-ae13-20cf2a9bad0b": {
+      "id": "0016f3ab-7c08-404a-ae13-20cf2a9bad0b",
+      "message": null,
+      "parent": null
+    },
+    "74e8c505-e64c-49f6-8691-99cbbc3c07d6": {
+      "id": "74e8c505-e64c-49f6-8691-99cbbc3c07d6",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a polished and more professional version of your message:\n\n---\n\n**Subject:** Podcast Invitation \u2013 Featuring Your Practice on *The Aesthetic Edge*\n\nHello Dr. Downie,\n\nI hope you\u2019ve had a wonderful week!\n\nI recently had the pleasure of connecting with Wendy Pittman from Peel Haus, who shared some great insights during our conversation for my podcast, *The Aesthetic Edge*. She spoke highly of you and suggested I reach out to see if you might be interested in joining me as a guest on an upcoming episode.\n\nThe show highlights forward-thinking leaders in aesthetic medicine, and I\u2019d love the opportunity to feature you and your practice.\n\nIf this sounds like something you'd be open to exploring, I\u2019d be happy to share more details.\n\nWarm regards,  \nBethany Gifford  \nFounder, New Era Intel  \nHost of *The Aesthetic Edge*  \n\n---\n\nLet me know if you'd like a shorter or more casual version!"
+          ]
+        },
+        "create_time": 1752257714.540827,
+        "id": "74e8c505-e64c-49f6-8691-99cbbc3c07d6",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-4o",
+          "parent_id": "41b3f24a-7a48-4ae3-aa5e-9ced8da860b3"
+        }
+      },
+      "parent": "bbb2199a-3b88-4eb9-8eb1-4fdcf03a5ced"
+    },
+    "bbb2199a-3b88-4eb9-8eb1-4fdcf03a5ced": {
+      "id": "bbb2199a-3b88-4eb9-8eb1-4fdcf03a5ced",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Rewrite this message to sound better: Hello Dr Downie,\n\nI hope you  had an incredible week! \nI recently had the privilege of speaking with Wendy Pittman of Peel Haus and was able to connect with her and her practice about jumping on my podcast: The Aesthetic Edge. After our initial conversation she recommended I reach out to you to see if you'd also like to be one of guests and have yourself and your practice featured on the show. \n\nIf this sounds like something that you'd like to discuss further, please let me know."
+          ]
+        },
+        "create_time": 1752257714.41134,
+        "id": "bbb2199a-3b88-4eb9-8eb1-4fdcf03a5ced",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "0016f3ab-7c08-404a-ae13-20cf2a9bad0b"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Podcast Invitation Refinement",
+  "update_time": 1752257719.567821,
+  "voice": null
+}

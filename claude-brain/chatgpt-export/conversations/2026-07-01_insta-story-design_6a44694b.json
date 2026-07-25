@@ -1,0 +1,80 @@
+{
+  "conversation_id": "6a44694b-2618-83e8-b944-14b07d1761e6",
+  "conversation_template_id": null,
+  "create_time": 1782868323.937009,
+  "current_node": "bbb21ed9-372d-4c94-85fa-7513ebe2482f",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a44694b-2618-83e8-b944-14b07d1761e6",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "bbb21ed9-372d-4c94-85fa-7513ebe2482f": {
+      "id": "bbb21ed9-372d-4c94-85fa-7513ebe2482f",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_000000007e2c722f918d2004da0ce82f",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 980,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 208793,
+              "width": 1008
+            },
+            "Make this in Luxora font and colors and portrait to post on insta story"
+          ]
+        },
+        "create_time": 1782868323.617115,
+        "id": "bbb21ed9-372d-4c94-85fa-7513ebe2482f",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_000000007e2c722f918d2004da0ce82f",
+              "mime_type": "image/png",
+              "name": "1000020495.png",
+              "size": 208793
+            }
+          ],
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "e301a0d5-b3d9-420b-9114-ae2b615bfb47"
+    },
+    "e301a0d5-b3d9-420b-9114-ae2b615bfb47": {
+      "id": "e301a0d5-b3d9-420b-9114-ae2b615bfb47",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Insta Story Design",
+  "update_time": 1782868385.970508,
+  "voice": null
+}

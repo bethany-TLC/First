@@ -1,0 +1,612 @@
+{
+  "conversation_id": "694e0c68-9428-832b-9e0b-7b86f3386e6a",
+  "conversation_template_id": null,
+  "create_time": 1766722668.745673,
+  "current_node": "97c8efaf-debd-41fb-a353-2d34a876e898",
+  "default_model_slug": "gpt-5-2",
+  "id": "694e0c68-9428-832b-9e0b-7b86f3386e6a",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "627f48f6-3927-423d-9d51-6f38d48f6b68": {
+      "id": "627f48f6-3927-423d-9d51-6f38d48f6b68",
+      "message": null,
+      "parent": null
+    },
+    "8be75cdc-e0ae-4546-ab00-2adc0c1c6779": {
+      "id": "8be75cdc-e0ae-4546-ab00-2adc0c1c6779",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "\ue200image_group\ue202{\"query\":[\"black and white photography woman spinning red dress christmas\",\"holiday fashion editorial red dress motion blur black and white\",\"woman twirling red dress christmas lights black and white\",\"sexy elegant woman red dress christmas editorial monochrome\"],\"num_per_query\":2}\ue201"
+          ]
+        },
+        "create_time": 1766722669.925941,
+        "id": "8be75cdc-e0ae-4546-ab00-2adc0c1c6779",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "![Image](https://bentleyandlace.com/cdn/shop/files/354440143_10231598057481402_7753626651913145351_n_1.jpg?v=1766104122&width=1638)\n\n![Image](https://images.hellomagazine.com/horizon/portrait/b4ef3eec5a29-gettyimages-2716432.jpg)\n\n![Image](https://redheadillusion01-20ed.kxcdn.com/redhead/wp-content/uploads/2018/12/redhead-illusion-fashion-blog-by-menia-editorial-amazing-holiday-red-outfit-02-700x466.jpg)\n\n![Image](https://www.economyofstyle.net/wp-content/uploads/2019/11/Olivia-Rae-Designs-Dress_The-Jacket-Maker-Leather-Jacket-4c.jpg)\n\n![Image](https://i.pinimg.com/736x/31/93/da/3193da5dd67cd5ab1bd2910a1580dabd.jpg)\n\n![Image](https://bentleyandlace.com/cdn/shop/files/DSC_4986copy2.jpg?v=1753127833&width=3600)\n\n![Image](https://themoodguide.com/wp-content/uploads/2025/12/linen-red-christmas-dress.jpg)\n\n![Image](https://themoodguide.com/wp-content/uploads/2025/11/baddie-aesthetic-christmas-dress.jpg)",
+              "images": [
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 2048,
+                      "width": 1638
+                    },
+                    "content_url": "https://bentleyandlace.com/cdn/shop/files/354440143_10231598057481402_7753626651913145351_n_1.jpg?v=1766104122&width=1638",
+                    "preview_url": null,
+                    "scores": {
+                      "grader_score": 0.75,
+                      "retrieval_score": null
+                    },
+                    "show_url": true,
+                    "source": "serpapi_bulk",
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.527363184079602,
+                      "center_y_percent": 0.3147410358565737
+                    },
+                    "thumbnail_size": {
+                      "height": 251,
+                      "width": 201
+                    },
+                    "thumbnail_url": "https://images.openai.com/thumbnails/url/_BJYeXicu5mVUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw4K9AgKMinwDnQMCzOviMwuSnNN9zV2igpJDXEOKc52KTf3LCxId0otTTHICazSLfcvUysGAHwdJqs",
+                    "title": "red dresses for styled photography",
+                    "url": "https://bentleyandlace.com/products/rose-petal-length-dress-4-year-petite-5-year?srsltid=AfmBOoopqr3ncG9DMA7Q01MbZxVCjQb1gb9pduOeggd2KIC0YcHj63uV&utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "black and white photography woman spinning red dress christmas",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 1440,
+                      "width": 1080
+                    },
+                    "content_url": "https://images.hellomagazine.com/horizon/portrait/b4ef3eec5a29-gettyimages-2716432.jpg",
+                    "preview_url": null,
+                    "scores": {
+                      "grader_score": 0.75,
+                      "retrieval_score": null
+                    },
+                    "show_url": true,
+                    "source": "serpapi_bulk",
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.4896907216494845,
+                      "center_y_percent": 0.2625482625482625
+                    },
+                    "thumbnail_size": {
+                      "height": 259,
+                      "width": 194
+                    },
+                    "thumbnail_url": "https://images.openai.com/thumbnails/url/omYXq3icu5mVUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw40dS-NKi30KSxO9fIq8cgOrSwxCEgtDwp2swjzC_J2zgo0STIqM_WKdEspKgw1zQsNUCsGAJA7Jpk",
+                    "title": "15 Inspiring Vintage Christmas Photos for Timeless Holiday ...",
+                    "url": "https://www.hellomagazine.com/hfm/culture/510007/vintage-christmas-photos-timeless-holiday-style/?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "black and white photography woman spinning red dress christmas",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 466,
+                      "width": 700
+                    },
+                    "content_url": "https://redheadillusion01-20ed.kxcdn.com/redhead/wp-content/uploads/2018/12/redhead-illusion-fashion-blog-by-menia-editorial-amazing-holiday-red-outfit-02-700x466.jpg",
+                    "preview_url": null,
+                    "scores": {
+                      "grader_score": 0.75,
+                      "retrieval_score": null
+                    },
+                    "show_url": true,
+                    "source": "serpapi_bulk",
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.5636363636363636,
+                      "center_y_percent": 0.18032786885245902
+                    },
+                    "thumbnail_size": {
+                      "height": 183,
+                      "width": 275
+                    },
+                    "thumbnail_url": "https://images.openai.com/thumbnails/url/CUT24Hicu5mZUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw6JyjQLDazKNg6vKsh2q0w3LzRyzUxJ9vUpyDL0DAzM9U808cqvLEx0yYkKSLcwivRVKwYAarImZw",
+                    "title": "Redhead Illusion Editorial - An amazing Holiday Red Illusion\u2026!",
+                    "url": "https://www.redheadillusion.com/editorial-holiday-illusion-7709?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "holiday fashion editorial red dress motion blur black and white",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 1620,
+                      "width": 1080
+                    },
+                    "content_url": "https://www.economyofstyle.net/wp-content/uploads/2019/11/Olivia-Rae-Designs-Dress_The-Jacket-Maker-Leather-Jacket-4c.jpg",
+                    "preview_url": null,
+                    "scores": {
+                      "grader_score": 0.75,
+                      "retrieval_score": null
+                    },
+                    "show_url": true,
+                    "source": "serpapi_bulk",
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.43169398907103823,
+                      "center_y_percent": 0.2109090909090909
+                    },
+                    "thumbnail_size": {
+                      "height": 275,
+                      "width": 183
+                    },
+                    "thumbnail_url": "https://images.openai.com/thumbnails/url/QNuxbXicu5mZUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw5x1w3yNXUxDypw9HCLNAzPM67IMHDJinSrci-MSHIKrwyNT0ry881zyQ12NotPLLNQKwYAO58ldw",
+                    "title": "It's Time To Get Holiday RED-y - Economy of Style",
+                    "url": "https://www.economyofstyle.net/2019/11/holiday-red-style.html?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "holiday fashion editorial red dress motion blur black and white",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 800,
+                      "width": 640
+                    },
+                    "content_url": "https://i.pinimg.com/736x/31/93/da/3193da5dd67cd5ab1bd2910a1580dabd.jpg",
+                    "preview_url": null,
+                    "scores": {
+                      "grader_score": 0.75,
+                      "retrieval_score": null
+                    },
+                    "show_url": true,
+                    "source": "serpapi_bulk",
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.417910447761194,
+                      "center_y_percent": 0.2948207171314741
+                    },
+                    "thumbnail_size": {
+                      "height": 251,
+                      "width": 201
+                    },
+                    "thumbnail_url": "https://images.openai.com/thumbnails/url/_i6BuXicu5mVUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw6MjM8NCDQvKA3P9Al3DdMNSS8oNXRyTgnPS4pP1HUJtsyM9I8w9vDIqPAPMnQzNA4IUysGAH1qJbE",
+                    "title": "Beautiful red Christmas dress with Christmas lights in the background.",
+                    "url": "https://www.pinterest.com/pin/beautiful-red-christmas-dress-with-christmas-lights-in-the-background--346425396335806046/?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "woman twirling red dress christmas lights black and white",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 4760,
+                      "width": 3600
+                    },
+                    "content_url": "https://bentleyandlace.com/cdn/shop/files/DSC_4986copy2.jpg?v=1753127833&width=3600",
+                    "preview_url": null,
+                    "scores": {
+                      "grader_score": 0.75,
+                      "retrieval_score": null
+                    },
+                    "show_url": true,
+                    "source": "serpapi_bulk",
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.46153846153846156,
+                      "center_y_percent": 0.32558139534883723
+                    },
+                    "thumbnail_size": {
+                      "height": 258,
+                      "width": 195
+                    },
+                    "thumbnail_url": "https://images.openai.com/thumbnails/url/37m6QXicu5mZUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw7KM8pLN4gycS9yTHHLraws9fQtDvI38M3x984zTcsML4ry9EspKfNPDfZLdMz1TStWKwYAZHUmtA",
+                    "title": "Tinsel Twirl \u2013 Red Sequin Holiday Dress with Faux Fur Trim for ...",
+                    "url": "https://bentleyandlace.com/products/tinsel-twirl-dress-set-with-apron-bow-add-on-option-custom-colors-fabrics-editorial-couture-gown-for-special-occasions?srsltid=AfmBOopDHrcAOMWCDl5mONz6N-Du0Gkp6eriijQsujZXnPl7v7CbG9l6&utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "woman twirling red dress christmas lights black and white",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 1192,
+                      "width": 735
+                    },
+                    "content_url": "https://themoodguide.com/wp-content/uploads/2025/12/linen-red-christmas-dress.jpg",
+                    "preview_url": null,
+                    "scores": {
+                      "grader_score": 0.75,
+                      "retrieval_score": null
+                    },
+                    "show_url": true,
+                    "source": "serpapi_bulk",
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.7386363636363636,
+                      "center_y_percent": 0.23076923076923078
+                    },
+                    "thumbnail_size": {
+                      "height": 286,
+                      "width": 176
+                    },
+                    "thumbnail_url": "https://images.openai.com/thumbnails/url/W930Ynicu5mVUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw6ONAs1904tzguOKHUO9krNCTestIiMiMh1SvHycTZ3Mcsx9kwtyPA09jPI9wuKcstIVSsGAHTdJdE",
+                    "title": "Discover Your Aesthetic: Christmas Red Dresses Edition - The Mood ...",
+                    "url": "https://themoodguide.com/christmas-red-dresses/?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "sexy elegant woman red dress christmas editorial monochrome",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 1312,
+                      "width": 896
+                    },
+                    "content_url": "https://themoodguide.com/wp-content/uploads/2025/11/baddie-aesthetic-christmas-dress.jpg",
+                    "preview_url": null,
+                    "scores": {
+                      "grader_score": 0.75,
+                      "retrieval_score": null
+                    },
+                    "show_url": true,
+                    "source": "serpapi_bulk",
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.4972972972972973,
+                      "center_y_percent": 0.23161764705882354
+                    },
+                    "thumbnail_size": {
+                      "height": 272,
+                      "width": 185
+                    },
+                    "thumbnail_url": "https://images.openai.com/thumbnails/url/Q-wzfnicu5mVUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw5OLir3dwtNSjSpNIlI9zQ08nfxqnLLqcj1qbDICi9OTC8yDgn38XJP90ovdMn1Li_xVSsGAItVJu8",
+                    "title": "Discover Your Aesthetic: Christmas Red Dresses Edition - The Mood ...",
+                    "url": "https://themoodguide.com/christmas-red-dresses/?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "sexy elegant woman red dress christmas editorial monochrome",
+                  "image_search_system": null
+                }
+              ],
+              "prompt_text": "![Image](https://bentleyandlace.com/cdn/shop/files/354440143_10231598057481402_7753626651913145351_n_1.jpg?v=1766104122&width=1638)\n\n![Image](https://images.hellomagazine.com/horizon/portrait/b4ef3eec5a29-gettyimages-2716432.jpg)\n\n![Image](https://redheadillusion01-20ed.kxcdn.com/redhead/wp-content/uploads/2018/12/redhead-illusion-fashion-blog-by-menia-editorial-amazing-holiday-red-outfit-02-700x466.jpg)\n\n![Image](https://www.economyofstyle.net/wp-content/uploads/2019/11/Olivia-Rae-Designs-Dress_The-Jacket-Maker-Leather-Jacket-4c.jpg)\n\n![Image](https://i.pinimg.com/736x/31/93/da/3193da5dd67cd5ab1bd2910a1580dabd.jpg)\n\n![Image](https://bentleyandlace.com/cdn/shop/files/DSC_4986copy2.jpg?v=1753127833&width=3600)\n\n![Image](https://themoodguide.com/wp-content/uploads/2025/12/linen-red-christmas-dress.jpg)\n\n![Image](https://themoodguide.com/wp-content/uploads/2025/11/baddie-aesthetic-christmas-dress.jpg)",
+              "type": "image_group"
+            }
+          ],
+          "model_slug": "gpt-5-2",
+          "parent_id": "e9c187f8-fb2f-4621-a1e8-f27f55eee88d"
+        }
+      },
+      "parent": "bbb21e6a-1068-4366-87db-3e8c38091a98"
+    },
+    "97c8efaf-debd-41fb-a353-2d34a876e898": {
+      "id": "97c8efaf-debd-41fb-a353-2d34a876e898",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "\ue200image_group\ue202{\"query\":[\"black and white photography woman spinning red dress back view christmas\",\"woman twirling red dress back view holiday lights black and white\",\"fashion editorial back of woman red dress motion blur black and white\",\"silhouette back view woman red dress christmas black and white\"],\"num_per_query\":2}\ue201"
+          ]
+        },
+        "create_time": 1766722698.100693,
+        "id": "97c8efaf-debd-41fb-a353-2d34a876e898",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "![Image](https://st3.depositphotos.com/1007027/18213/i/1600/depositphotos_182137572-stock-photo-elegant-woman-silhouette-in-long.jpg)\n\n![Image](https://cdn.create.vista.com/api/media/small/230153440/stock-photo-back-view-woman-red-dress-posing-isolated-black)\n\n![Image](https://hips.hearstapps.com/hmg-prod/images/anthropologie-240914-anthrohh-tashima-s10-livingroom-trees-0439-courtesy-of-anthropologie-67054dab506a3.jpg)\n\n![Image](https://www.lulus.com/blog/wp-content/uploads/2024/12/2025_10_30_LULUS_HOLIDAY_04_0782.jpg)\n\n![Image](https://users-photos.b-cdn.net/153332/media/asset/3d946c5f-bcd9-4a24-bbf1-3898562b7acc_IMG_5956.jpeg?width=480)\n\n![Image](https://i.pinimg.com/736x/b9/b1/97/b9b1974881cec74ab76a14a40e836ab7.jpg)\n\n![Image](https://i.etsystatic.com/41205798/r/il/63b9a9/5316518057/il_fullxfull.5316518057_sw0u.jpg)\n\n![Image](https://i5.walmartimages.com/seo/Women-s-Christmas-Dress-Long-Sleeve-Vintage-A-Line-Holiday-Party-Dress-with-Reindeer-and-Tree-Print_6a00b178-283a-4ea4-a187-9442216e7ad1.78aebdd907493d38f12cfa4fe956ba1d.jpeg?odnBg=FFFFFF&odnHeight=768&odnWidth=768)",
+              "images": [
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 1700,
+                      "width": 1067
+                    },
+                    "content_url": "https://st3.depositphotos.com/1007027/18213/i/1600/depositphotos_182137572-stock-photo-elegant-woman-silhouette-in-long.jpg",
+                    "preview_url": null,
+                    "scores": {
+                      "grader_score": 0.75,
+                      "retrieval_score": null
+                    },
+                    "show_url": true,
+                    "source": "serpapi_bulk",
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.4550561797752809,
+                      "center_y_percent": 0.3591549295774648
+                    },
+                    "thumbnail_size": {
+                      "height": 284,
+                      "width": 178
+                    },
+                    "thumbnail_url": "https://images.openai.com/thumbnails/url/JZ0iZHicu5mZUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw4JdipICs1zijJztgjwyAvItgj0D3TMSUozSq00KjYOKM52DajM8jAozjE38_TwdPFVKwYATXklbQ",
+                    "title": "Elegant Woman Silhouette in Long Red Gown, Lady Back Rear View ...",
+                    "url": "https://depositphotos.com/photo/elegant-woman-silhouette-in-long-red-gown-lady-back-rear-view-dress-waving-on-stairs-182137572.html?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "black and white photography woman spinning red dress back view christmas",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 600,
+                      "width": 400
+                    },
+                    "content_url": "https://cdn.create.vista.com/api/media/small/230153440/stock-photo-back-view-woman-red-dress-posing-isolated-black",
+                    "preview_url": null,
+                    "scores": {
+                      "grader_score": 0.75,
+                      "retrieval_score": null
+                    },
+                    "show_url": true,
+                    "source": "serpapi_bulk",
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.4918032786885246,
+                      "center_y_percent": 0.31272727272727274
+                    },
+                    "thumbnail_size": {
+                      "height": 275,
+                      "width": 183
+                    },
+                    "thumbnail_url": "https://images.openai.com/thumbnails/url/KM_z83icu5mVUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw409ajMMbd0MgjyqPAMLvR3DHb38ywON9F1rkyNSAlJLE-tcvQ0c0tJyw8qDQ8LCiyJVCsGAGvpJjI",
+                    "title": "Back View Of Woman In Red Dress Free Stock Photo and Image 230153440",
+                    "url": "https://create.vista.com/unlimited/stock-photos/230153440/stock-photo-back-view-woman-red-dress/?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "black and white photography woman spinning red dress back view christmas",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 2000,
+                      "width": 1600
+                    },
+                    "content_url": "https://hips.hearstapps.com/hmg-prod/images/anthropologie-240914-anthrohh-tashima-s10-livingroom-trees-0439-courtesy-of-anthropologie-67054dab506a3.jpg",
+                    "preview_url": null,
+                    "scores": {
+                      "grader_score": 0.75,
+                      "retrieval_score": null
+                    },
+                    "show_url": true,
+                    "source": "serpapi_bulk",
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.24875621890547264,
+                      "center_y_percent": 0.900398406374502
+                    },
+                    "thumbnail_size": {
+                      "height": 251,
+                      "width": 201
+                    },
+                    "thumbnail_url": "https://images.openai.com/thumbnails/url/TI7ZhHicu5mVUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw508cxwcswqyvBJ9ypLCYvPSCzLTwwx9QjIifBI9w73LE9OLUv3CzVLTi2piA8wcDNMVysGAJbcJxQ",
+                    "title": "45 Christmas Tree Ribbon Ideas That Are Easy And Elegant",
+                    "url": "https://www.elledecor.com/design-decorate/trends/g13530576/ribbon-christmas-tree-ideas/?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "woman twirling red dress back view holiday lights black and white",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 1499,
+                      "width": 1000
+                    },
+                    "content_url": "https://www.lulus.com/blog/wp-content/uploads/2024/12/2025_10_30_LULUS_HOLIDAY_04_0782.jpg",
+                    "preview_url": null,
+                    "scores": {
+                      "grader_score": 0.75,
+                      "retrieval_score": null
+                    },
+                    "show_url": true,
+                    "source": "serpapi_bulk",
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.5573770491803278,
+                      "center_y_percent": 0.18545454545454546
+                    },
+                    "thumbnail_size": {
+                      "height": 275,
+                      "width": 183
+                    },
+                    "thumbnail_url": "https://images.openai.com/thumbnails/url/pKLT2Xicu5mVUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw4OLQ2Mciv1KHf28cs1cHYyj8gqKvD1zyiK8rBwTDesci3Pd7Qo9cpKjy_JjzfMzAk3VSsGAIWBJq0",
+                    "title": "What To Wear New Year's Eve: Outfit Ideas For 2025 - Lulus ...",
+                    "url": "https://www.lulus.com/blog/fashion/5-chic-new-years-eve-outfits/?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "woman twirling red dress back view holiday lights black and white",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 599,
+                      "width": 480
+                    },
+                    "content_url": "https://users-photos.b-cdn.net/153332/media/asset/3d946c5f-bcd9-4a24-bbf1-3898562b7acc_IMG_5956.jpeg?width=480",
+                    "preview_url": null,
+                    "scores": {
+                      "grader_score": 0.75,
+                      "retrieval_score": null
+                    },
+                    "show_url": true,
+                    "source": "serpapi_bulk",
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.8208955223880597,
+                      "center_y_percent": 0.24701195219123506
+                    },
+                    "thumbnail_size": {
+                      "height": 251,
+                      "width": 201
+                    },
+                    "thumbnail_url": "https://images.openai.com/thumbnails/url/QEfnFnicu5mZUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw6uTHf3qHD29SsvzPHMLUwMigp3cslzLg7KTfEpD6_wT040zM2q8PMrqzDLdgsvcQxVKwYAfP8nQQ",
+                    "title": "Woman Dress Motion Blur Editorial Fashion",
+                    "url": "https://cherrydeck.com/media/woman-dress-motion-blur-editorial-fashion-1426394?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "fashion editorial back of woman red dress motion blur black and white",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 800,
+                      "width": 617
+                    },
+                    "content_url": "https://i.pinimg.com/736x/b9/b1/97/b9b1974881cec74ab76a14a40e836ab7.jpg",
+                    "preview_url": null,
+                    "scores": {
+                      "grader_score": 0.75,
+                      "retrieval_score": null
+                    },
+                    "show_url": true,
+                    "source": "serpapi_bulk",
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.4619289340101523,
+                      "center_y_percent": 0.1015625
+                    },
+                    "thumbnail_size": {
+                      "height": 256,
+                      "width": 197
+                    },
+                    "thumbnail_url": "https://images.openai.com/thumbnails/url/uARX-nicu5mZUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw5JznRxLMuyNA3QtcwzKXVPNAkp8vMwDC8pSPEJ8s41yK8oS0r1TjNwj0rJKfYNcU1XKwYAUC4mCg",
+                    "title": "Photography Ruth Hogben",
+                    "url": "https://www.pinterest.com/pin/in-the-red--4222193376017274/?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "fashion editorial back of woman red dress motion blur black and white",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 1344,
+                      "width": 896
+                    },
+                    "content_url": "https://i.etsystatic.com/41205798/r/il/63b9a9/5316518057/il_fullxfull.5316518057_sw0u.jpg",
+                    "preview_url": null,
+                    "scores": {
+                      "grader_score": 0.75,
+                      "retrieval_score": null
+                    },
+                    "show_url": true,
+                    "source": "serpapi_bulk",
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.4371584699453552,
+                      "center_y_percent": 0.2109090909090909
+                    },
+                    "thumbnail_size": {
+                      "height": 275,
+                      "width": 183
+                    },
+                    "thumbnail_url": "https://images.openai.com/thumbnails/url/JxCcinicu5mZUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw6K93Fzds4uLPcvdzLISAp2DfAN8MopSSny8jI1D_OISk_zy_XMLtANSTQpTKpytCxWKwYAWdQmHQ",
+                    "title": "Sunset Serenade: Black Woman's Silhouette in Fiery Red Dress ...",
+                    "url": "https://www.etsy.com/listing/1547663410/sunset-serenade-black-womans-silhouette?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "silhouette back view woman red dress christmas black and white",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 768,
+                      "width": 768
+                    },
+                    "content_url": "https://i5.walmartimages.com/seo/Women-s-Christmas-Dress-Long-Sleeve-Vintage-A-Line-Holiday-Party-Dress-with-Reindeer-and-Tree-Print_6a00b178-283a-4ea4-a187-9442216e7ad1.78aebdd907493d38f12cfa4fe956ba1d.jpeg?odnBg=FFFFFF&odnHeight=768&odnWidth=768",
+                    "preview_url": null,
+                    "scores": {
+                      "grader_score": 0.75,
+                      "retrieval_score": null
+                    },
+                    "show_url": true,
+                    "source": "serpapi_bulk",
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.4622222222222222,
+                      "center_y_percent": 0.4222222222222222
+                    },
+                    "thumbnail_size": {
+                      "height": 225,
+                      "width": 225
+                    },
+                    "thumbnail_url": "https://images.openai.com/thumbnails/url/BoiAinicu5mVUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw7KDQpKzAi0TIo0cNb1czQz9CkoT0qOKDGxdPSo1HVMq8rNqcg2CE5z1w2MD8myLPQsUysGAG47Jf8",
+                    "title": "Women's Christmas Dress Long Sleeve Vintage A-Line Holiday Party ...",
+                    "url": "https://www.walmart.com/ip/Women-s-Christmas-Dress-Long-Sleeve-Vintage-A-Line-Holiday-Party-Dress-with-Reindeer-and-Tree-Print/10999865940?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "silhouette back view woman red dress christmas black and white",
+                  "image_search_system": null
+                }
+              ],
+              "prompt_text": "![Image](https://st3.depositphotos.com/1007027/18213/i/1600/depositphotos_182137572-stock-photo-elegant-woman-silhouette-in-long.jpg)\n\n![Image](https://cdn.create.vista.com/api/media/small/230153440/stock-photo-back-view-woman-red-dress-posing-isolated-black)\n\n![Image](https://hips.hearstapps.com/hmg-prod/images/anthropologie-240914-anthrohh-tashima-s10-livingroom-trees-0439-courtesy-of-anthropologie-67054dab506a3.jpg)\n\n![Image](https://www.lulus.com/blog/wp-content/uploads/2024/12/2025_10_30_LULUS_HOLIDAY_04_0782.jpg)\n\n![Image](https://users-photos.b-cdn.net/153332/media/asset/3d946c5f-bcd9-4a24-bbf1-3898562b7acc_IMG_5956.jpeg?width=480)\n\n![Image](https://i.pinimg.com/736x/b9/b1/97/b9b1974881cec74ab76a14a40e836ab7.jpg)\n\n![Image](https://i.etsystatic.com/41205798/r/il/63b9a9/5316518057/il_fullxfull.5316518057_sw0u.jpg)\n\n![Image](https://i5.walmartimages.com/seo/Women-s-Christmas-Dress-Long-Sleeve-Vintage-A-Line-Holiday-Party-Dress-with-Reindeer-and-Tree-Print_6a00b178-283a-4ea4-a187-9442216e7ad1.78aebdd907493d38f12cfa4fe956ba1d.jpeg?odnBg=FFFFFF&odnHeight=768&odnWidth=768)",
+              "type": "image_group"
+            }
+          ],
+          "model_slug": "gpt-5-2",
+          "parent_id": "b3992441-28d8-4c84-9d4d-7df3715c6edd"
+        }
+      },
+      "parent": "bbb2173e-690d-46c5-8a3b-513a7b933dc8"
+    },
+    "bbb2173e-690d-46c5-8a3b-513a7b933dc8": {
+      "id": "bbb2173e-690d-46c5-8a3b-513a7b933dc8",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Don't show face just back of women\n"
+          ]
+        },
+        "create_time": 1766722696.787889,
+        "id": "bbb2173e-690d-46c5-8a3b-513a7b933dc8",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "8be75cdc-e0ae-4546-ab00-2adc0c1c6779"
+    },
+    "bbb21e6a-1068-4366-87db-3e8c38091a98": {
+      "id": "bbb21e6a-1068-4366-87db-3e8c38091a98",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "picture of a girl spinning around during Christmas time sexy woman black and white photos with red dress\n"
+          ]
+        },
+        "create_time": 1766722667.99622,
+        "id": "bbb21e6a-1068-4366-87db-3e8c38091a98",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "627f48f6-3927-423d-9d51-6f38d48f6b68"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Christmas Red Dress Spin",
+  "update_time": 1766722703.978413,
+  "voice": null
+}

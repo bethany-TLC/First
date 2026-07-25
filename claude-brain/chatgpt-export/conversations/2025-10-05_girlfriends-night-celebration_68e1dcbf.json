@@ -1,0 +1,71 @@
+{
+  "conversation_id": "68e1dcbf-6d2c-8320-93ea-b1fa47d1049f",
+  "conversation_template_id": null,
+  "create_time": 1759632588.803618,
+  "current_node": "5afc77ce-12c6-4556-8253-bf571b2ef997",
+  "default_model_slug": "gpt-5",
+  "id": "68e1dcbf-6d2c-8320-93ea-b1fa47d1049f",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "21de4073-2153-4617-8406-01d3306386b0": {
+      "id": "21de4073-2153-4617-8406-01d3306386b0",
+      "message": null,
+      "parent": null
+    },
+    "5afc77ce-12c6-4556-8253-bf571b2ef997": {
+      "id": "5afc77ce-12c6-4556-8253-bf571b2ef997",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a warm, celebratory post you could use:  \n\n---\n\n\u2728 What a night \u2728  \n\nI\u2019m beyond grateful for the incredible women I\u2019ve met over the past year. Friendships that started as new connections have quickly turned into sisters who lift each other up, laugh until our cheeks hurt, and show up with so much love.  \n\nLast night was all about celebrating our amazing friend Laura \ud83d\udc95 She deserved to be spoiled and reminded just how much she means to us. The energy, the laughs, and the love in the room were unmatched.  \n\nThese women inspire me daily, and I can\u2019t wait for the next adventure together. Here\u2019s to more memories, more laughter, and more celebrating each other. \ud83e\udd42\ud83d\udc83\u2728  \n\n#Grateful #Girlfriends #CelebrateLife #NextAdventure  \n\n---\n\nWould you like me to make a **shorter Instagram-style version with emojis** too, so you can post across different platforms?"
+          ]
+        },
+        "create_time": 1759632588.677327,
+        "id": "5afc77ce-12c6-4556-8253-bf571b2ef997",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "9c4163ac-227b-4cd4-9530-dcd1ac243fdc"
+        }
+      },
+      "parent": "bbb21dc3-25c1-425b-8a25-4eeaf41f83a3"
+    },
+    "bbb21dc3-25c1-425b-8a25-4eeaf41f83a3": {
+      "id": "bbb21dc3-25c1-425b-8a25-4eeaf41f83a3",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write a post about having a great night with girlfriends that you've met over the past year. That have been amazing and your girlfriend Laura needed to be celebrated and love each other and can't wait for the next adventure"
+          ]
+        },
+        "create_time": 1759632588.504619,
+        "id": "bbb21dc3-25c1-425b-8a25-4eeaf41f83a3",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "21de4073-2153-4617-8406-01d3306386b0"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Girlfriends night celebration",
+  "update_time": 1759632595.37057,
+  "voice": null
+}

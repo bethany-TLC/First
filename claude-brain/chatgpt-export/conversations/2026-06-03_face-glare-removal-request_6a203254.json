@@ -1,0 +1,303 @@
+{
+  "conversation_id": "6a203254-f46c-83e8-9f2b-f5ea969f992a",
+  "conversation_template_id": null,
+  "create_time": 1780494957.121644,
+  "current_node": "bbb215c5-f8e5-40fa-99fe-4d58e13810f4",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a203254-f46c-83e8-9f2b-f5ea969f992a",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "2831f6c6-59ef-480d-aeb0-9d346d3af39d": {
+      "id": "2831f6c6-59ef-480d-aeb0-9d346d3af39d",
+      "message": null,
+      "parent": null
+    },
+    "2c5f7572-cc8f-41eb-877e-0b35b63c6a15": {
+      "id": "2c5f7572-cc8f-41eb-877e-0b35b63c6a15",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "No worries! \ud83d\ude0a If you want to revisit it later, the best approach would be to edit the original photo directly rather than regenerate it. That way your actual face, hair color, and everyone else's features stay exactly the same.\n\nJust upload the original again and say something like:\n\n> \"Only brighten my face and remove the glare/shadow from the backlight. Do not change any faces, hair, clothing, or the background.\"\n\nThat will give a much more natural result than recreating the image from scratch."
+          ]
+        },
+        "create_time": 1780495277.398441,
+        "id": "2c5f7572-cc8f-41eb-877e-0b35b63c6a15",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "bbb21320-3632-45af-bd90-d1269cdba7e1"
+        }
+      },
+      "parent": "bbb21320-3632-45af-bd90-d1269cdba7e1"
+    },
+    "5c74c125-de29-477e-ba4e-2a671c92a204": {
+      "id": "5c74c125-de29-477e-ba4e-2a671c92a204",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "create_time": 1780495259.293584,
+        "id": "5c74c125-de29-477e-ba4e-2a671c92a204",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "44bef16e-4a0a-446f-9d08-ecd6513a3d46"
+        }
+      },
+      "parent": "bbb21350-88ca-4676-a50f-c975fddda37b"
+    },
+    "9d1353f8-6ba9-4118-9032-d7e34cc29856": {
+      "id": "9d1353f8-6ba9-4118-9032-d7e34cc29856",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "create_time": 1780495102.520994,
+        "id": "9d1353f8-6ba9-4118-9032-d7e34cc29856",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "1d2aa67b-fd21-40d6-96f9-c707016c1353"
+        }
+      },
+      "parent": "bbb21e8d-5e3c-4f7e-9aaa-69db1ce41cc1"
+    },
+    "bbb21320-3632-45af-bd90-d1269cdba7e1": {
+      "id": "bbb21320-3632-45af-bd90-d1269cdba7e1",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Nvm "
+          ]
+        },
+        "create_time": 1780495277.15484,
+        "id": "bbb21320-3632-45af-bd90-d1269cdba7e1",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "5c74c125-de29-477e-ba4e-2a671c92a204"
+    },
+    "bbb21350-88ca-4676-a50f-c975fddda37b": {
+      "id": "bbb21350-88ca-4676-a50f-c975fddda37b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "No Ieamt correct the photo is us three and I was showing you that you didn't do it right. "
+          ]
+        },
+        "create_time": 1780495197.357899,
+        "id": "bbb21350-88ca-4676-a50f-c975fddda37b",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "9d1353f8-6ba9-4118-9032-d7e34cc29856"
+    },
+    "bbb215ac-fae9-402d-8601-45a38179972b": {
+      "id": "bbb215ac-fae9-402d-8601-45a38179972b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_000000005d2471fd9e8fa15561521518",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 3648,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 315502,
+              "width": 2736
+            },
+            "Can you make my face not have that glare from light behind me and make it more visible "
+          ]
+        },
+        "create_time": 1780494956.721097,
+        "id": "bbb215ac-fae9-402d-8601-45a38179972b",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_000000005d2471fd9e8fa15561521518",
+              "mime_type": "image/jpeg",
+              "name": "1000019383.jpg",
+              "size": 315502
+            }
+          ],
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "2831f6c6-59ef-480d-aeb0-9d346d3af39d"
+    },
+    "bbb215c5-f8e5-40fa-99fe-4d58e13810f4": {
+      "id": "bbb215c5-f8e5-40fa-99fe-4d58e13810f4",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_000000005bf87230a93b99dbd6559431",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 3648,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 315502,
+              "width": 2736
+            },
+            "Only brighten my face and remove the glare/shadow from the backlight. Do not change any faces, hair, clothing, or the background.\""
+          ]
+        },
+        "create_time": 1780495307.983671,
+        "id": "bbb215c5-f8e5-40fa-99fe-4d58e13810f4",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_000000005bf87230a93b99dbd6559431",
+              "mime_type": "image/jpeg",
+              "name": "1000019383.jpg",
+              "size": 315502
+            }
+          ],
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "2c5f7572-cc8f-41eb-877e-0b35b63c6a15"
+    },
+    "bbb21e8d-5e3c-4f7e-9aaa-69db1ce41cc1": {
+      "id": "bbb21e8d-5e3c-4f7e-9aaa-69db1ce41cc1",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_00000000527c71f8b8563c8d240520fc",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 3648,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 340570,
+              "width": 2736
+            },
+            "My hair is blonde an I actually look like this"
+          ]
+        },
+        "create_time": 1780495073.102365,
+        "id": "bbb21e8d-5e3c-4f7e-9aaa-69db1ce41cc1",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_00000000527c71f8b8563c8d240520fc",
+              "mime_type": "image/jpeg",
+              "name": "1000019384.jpg",
+              "size": 340570
+            }
+          ],
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "bbb215ac-fae9-402d-8601-45a38179972b"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Face glare removal request",
+  "update_time": 1780495368.433997,
+  "voice": null
+}

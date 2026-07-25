@@ -1,0 +1,72 @@
+{
+  "conversation_id": "697fdb76-d9e0-8325-9ca7-ab83fd195626",
+  "conversation_template_id": null,
+  "create_time": 1769986935.674184,
+  "current_node": "37bd791d-c199-4338-8df3-48c15ed2f6d9",
+  "default_model_slug": "gpt-5-2",
+  "id": "697fdb76-d9e0-8325-9ca7-ab83fd195626",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "1d67e894-79d4-4836-8636-013f31b1b8ef": {
+      "id": "1d67e894-79d4-4836-8636-013f31b1b8ef",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "create me an onboarding and offboarding  check list for The Luxora Growth Engine Onboarding www.theluxoracollective.co:\n\n* Said yes\n\n* Take payment w/ checkout \n\n   * Take on the call when you can\n\n* Automated: Send welcome\n\n   * Link to intake form (typeform)\n\n   * Link to schedule kick-off call\n\n   * Link to sign agreement\n\n* Pre Kick-Off Call\n\n   * Create google drive folder for client\n\n   * Send slack invite \n\n   * Check to ensure intake form and agreement have been completed + remind client if needed\n\n* Conduct Kick-off call\n\n   * Welcome \n\n   * Reconnecting / affirming vision\n\n   * Recap focus for 90-days\n\n   * Initial deliverables delivered\n\n   * Establish check-in rhythm\n\n   * Establish communication channel (slack)\n\n   * Share google drive folder with client\n\n   * Schedule upcoming meetings (every other week)\n\n      * Go over what each call focus will be on\n\n   * Schedule date for their event \n\n   * Aanchal to Schedule tech call between Jacques and client\n\n* Post Kick-off call\n\n   * Download agreement + upload to client folder\n\n   * set up client\u2019s clickup w/ tasks / project \n\nOffboarding:\n\n* Schedule a take flight \n\n* Complete feedback form\n\n* Ask for video testimonial \n\n* Offer partnership program\n\n* Send launch email"
+          ]
+        },
+        "create_time": 1769986935.38,
+        "id": "1d67e894-79d4-4836-8636-013f31b1b8ef",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "37bd791d-c199-4338-8df3-48c15ed2f6d9": {
+      "id": "37bd791d-c199-4338-8df3-48c15ed2f6d9",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Absolutely. Here is a **clean, client-ready, internal-use onboarding and offboarding checklist** for **The Luxora Growth Engine\u2122**, aligned with how you actually operate and scalable as you grow.\n\nYou can drop this straight into ClickUp, Notion, or SOP docs.\n\n---\n\n## The Luxora Growth Engine\u2122  \n### Client Onboarding Checklist\n\n### Phase 1: Commitment and Payment\n\n\u2610 Client verbally says yes  \n\u2610 Payment collected via checkout link  \n\u2610 If live on call, take payment immediately when possible  \n\u2610 Confirm start timeline and next steps verbally  \n\n---\n\n### Phase 2: Automated Welcome and Setup\n\n\u2610 Automated welcome email sent  \nIncludes:\n- Welcome message and expectations\n- Link to intake form (Typeform)\n- Link to schedule Kick-Off Call\n- Link to sign agreement\n\n\u2610 Verify email delivery and links working correctly  \n\n---\n\n### Phase 3: Pre Kick-Off Preparation\n\n\u2610 Intake form completed  \n\u2610 Agreement signed  \n\u2610 Follow up reminders sent if incomplete  \n\n\u2610 Create Google Drive client folder  \nRecommended structure:\n- 01 Agreements  \n- 02 Intake and Strategy  \n- 03 Assets and Creative  \n- 04 Reporting and Dashboards  \n- 05 Deliverables  \n\n\u2610 Upload intake responses to client folder  \n\n\u2610 Send Slack invite  \n- Create dedicated Slack channel\n- Add Luxora team members\n\n\u2610 Internal prep\n- Review intake form thoroughly\n- Identify early wins and red flags\n- Outline first 90-day focus and priorities\n\n---\n\n### Phase 4: Kick-Off Call Execution\n\n\u2610 Warm welcome and tone setting  \n\n\u2610 Reconnect to vision and why they started  \n- Reflect goals back to client\n- Reinforce Luxora as growth partner, not vendor\n\n\u2610 Recap 90-day focus  \n- Primary objective\n- Key growth levers\n- What success looks like\n\n\u2610 Deliver initial deliverables  \nExamples:\n- Market Blueprint overview\n- Early recommendations\n- Priority roadmap\n\n\u2610 Establish check-in rhythm  \n- Bi-weekly strategy calls\n- Slack for async communication\n\n\u2610 Confirm communication expectations  \n- Slack response time\n- Meeting cadence\n- Decision-making process\n\n\u2610 Share Google Drive folder live on call  \n\n\u2610 Schedule all upcoming meetings  \n- Bi-weekly calls on calendar\n- Review what each call will focus on\n\n\u2610 Confirm event or launch date if applicable  \n\n\u2610 Aanchal to schedule tech call  \n- Coordinate between Jacques and client\n- Confirm tech stack and access needs\n\n---\n\n### Phase 5: Post Kick-Off Implementation\n\n\u2610 Download signed agreement  \n\u2610 Upload agreement to client folder  \n\n\u2610 Set up ClickUp for client  \n- Create client workspace\n- Load tasks and milestones\n- Assign owners and due dates\n\n\u2610 Align internal team  \n- Review scope\n- Confirm responsibilities\n- Set delivery timelines\n\n\u2610 Begin execution of Growth Engine roadmap  \n\n---\n\n## The Luxora Growth Engine\u2122  \n### Client Offboarding Checklist\n\n### Phase 1: Transition and Wrap-Up\n\n\u2610 Schedule \u201cTake Flight\u201d call  \nPurpose:\n- Review results\n- Reflect on growth and wins\n- Position client for next phase\n\n\u2610 Prepare final reporting and summary  \n- KPIs and outcomes\n- What worked best\n- Recommendations moving forward\n\n---\n\n### Phase 2: Feedback and Social Proof\n\n\u2610 Send client feedback form  \n- Experience\n- Results\n- Suggestions\n\n\u2610 Request video testimonial  \n- Provide prompts\n- Share examples\n- Make it easy and guided\n\n---\n\n### Phase 3: Expansion or Exit\n\n\u2610 Present partnership or continuation options  \nExamples:\n- Ongoing Growth Partner retainer\n- Revenue share or licensing\n- Advisory or board-style support\n\n\u2610 Confirm decision and next steps  \n\n---\n\n### Phase 4: Final Touchpoints\n\n\u2610 Send launch or completion email  \n- Celebrate the journey\n- Highlight results\n- Public or private acknowledgment depending on client preference\n\n\u2610 Archive client in ClickUp  \n\u2610 Close Slack channel or transition if ongoing  \n\u2610 Ensure all assets are organized in Drive  \n\n---\n\nIf you want, next we can:\n- Turn this into a ClickUp template with automations  \n- Create a branded client-facing onboarding roadmap PDF  \n- Build a version for your VA or Ops Manager  \n- Add internal quality control checkpoints  \n\nJust tell me the next move."
+          ]
+        },
+        "create_time": 1769986935.58073,
+        "id": "37bd791d-c199-4338-8df3-48c15ed2f6d9",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "a665866e-f5a2-44af-99fe-eecfe948fba4"
+        }
+      },
+      "parent": "1d67e894-79d4-4836-8636-013f31b1b8ef"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Onboarding Offboarding Checklist",
+  "update_time": 1769987402.389772,
+  "voice": null
+}

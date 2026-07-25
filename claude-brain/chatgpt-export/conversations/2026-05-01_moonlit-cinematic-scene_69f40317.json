@@ -1,0 +1,79 @@
+{
+  "conversation_id": "69f40317-b3f0-83ea-9cc9-960278c6ea96",
+  "conversation_template_id": null,
+  "create_time": 1777599288.470275,
+  "current_node": "bbb218bc-4752-4611-a2ab-6c45d32b7026",
+  "default_model_slug": "gpt-5-3",
+  "id": "69f40317-b3f0-83ea-9cc9-960278c6ea96",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "5e38fdae-31bc-4be0-a0a3-4c54060d940f": {
+      "id": "5e38fdae-31bc-4be0-a0a3-4c54060d940f",
+      "message": null,
+      "parent": null
+    },
+    "bbb218bc-4752-4611-a2ab-6c45d32b7026": {
+      "id": "bbb218bc-4752-4611-a2ab-6c45d32b7026",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_0000000082b071fda874977eaa71790d",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 4080,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 231570,
+              "width": 3072
+            },
+            "Turn this Moon pic into an incredible shot"
+          ]
+        },
+        "create_time": 1777599276.249365,
+        "id": "bbb218bc-4752-4611-a2ab-6c45d32b7026",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_0000000082b071fda874977eaa71790d",
+              "mime_type": "image/jpeg",
+              "name": "file_0000000082b071fda874977eaa71790d",
+              "size": 231570
+            }
+          ],
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "5e38fdae-31bc-4be0-a0a3-4c54060d940f"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Moonlit Cinematic Scene",
+  "update_time": 1777599304.3868,
+  "voice": null
+}

@@ -1,0 +1,358 @@
+{
+  "conversation_id": "6a10c78e-25dc-83ea-ad9e-061d6018aabd",
+  "conversation_template_id": null,
+  "create_time": 1779484564.795896,
+  "current_node": "ef340a9c-5f70-47dc-9431-61ad11f986fb",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a10c78e-25dc-83ea-ad9e-061d6018aabd",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "31dde9d3-0495-4b2f-b2e6-276aaabd5326": {
+      "id": "31dde9d3-0495-4b2f-b2e6-276aaabd5326",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ":::writing{variant=\"social_post\" id=\"48271\"}\nSomewhere between med spa founder, chaos coordinator, podcast host, strategist, therapist, visionary, coffee addict, and \u201cdon\u2019t text me before caffeine\u201d lives\u2026 me. \ud83e\udd23\n\nThis little sketchbook feels like someone took every layer of who I am and threw it onto paper all at once. The polished side. The exhausted side. The dreaming side. The woman rebuilding herself while building businesses, leading teams, raising humans, chasing purpose, and somehow still remembering to help everyone else feel beautiful too.\n\nWhat I love most is that it captured the energy behind everything:\n\u2728 Big vision\n\u2728 High standards\n\u2728 Soft heart\n\u2728 Loud ambition\n\u2728 Faith over fear\n\u2728 Luxury mixed with authenticity\n\u2728 Grace mixed with grit\n\nNot gonna lie\u2026 the \u201crunning on caffeine, vision & obsessive standards\u201d part felt a little too accurate. \ud83d\ude02\n\nBut honestly, this is what entrepreneurship feels like sometimes:\nA messy sketchbook of ideas, pressure, creativity, resilience, leadership, healing, humor, and purpose all layered together.\n\nAnd somehow\u2026 it becomes art anyway. \ud83e\udd0d\n:::"
+          ]
+        },
+        "create_time": 1779484964.333362,
+        "id": "31dde9d3-0495-4b2f-b2e6-276aaabd5326",
+        "metadata": {
+          "content_references": [],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Memory",
+                "citation_uuid": "ed6afda0-9114-4210-8aba-4f98b2d28543",
+                "conversation_context_type": "user_memory",
+                "end_idx": -1,
+                "index": 2,
+                "matched_text": "",
+                "memory_id": "78dfd301-de98-4556-bcd6-302b824e2a8e",
+                "prompt_text": null,
+                "reason": "You host a podcast and interview med spa guests.",
+                "refs": [],
+                "snippet": "Bethany interviewed Mandi and Tony Goble of Face Fabulous Med Spa on her podcast.",
+                "start_idx": -1,
+                "title": "You host a podcast and interview med spa guests.",
+                "type": "conversation_context_citation",
+                "url": "#settings/Personalization"
+              },
+              "citation_uuid": "ed6afda0-9114-4210-8aba-4f98b2d28543",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "cd728d61-2110-4d89-954a-ced52adbfc20"
+        }
+      },
+      "parent": "bbb21967-1fe6-4b2e-b71c-cb4af4bdfbd5"
+    },
+    "86e6921d-dc97-4066-a8d7-d6191fcb8473": {
+      "id": "86e6921d-dc97-4066-a8d7-d6191fcb8473",
+      "message": null,
+      "parent": null
+    },
+    "9bb3be75-ae7f-4af1-9c83-f65bcd50a741": {
+      "id": "9bb3be75-ae7f-4af1-9c83-f65bcd50a741",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Please upload a photo of yourself that you want me to base the character on. Once you do, I\u2019ll create a loose sketchbook-style character page with layered doodles, expressive poses, chibi versions, notes/scribbles, and personality details inspired by everything I know about you: med spa founder energy, luxury aesthetic branding, relentless entrepreneur vibe, warm leadership, chaotic creative genius, podcast host confidence, Southern charm, and \u201crunning on caffeine and vision\u201d intensity."
+          ]
+        },
+        "create_time": 1779484564.718479,
+        "id": "9bb3be75-ae7f-4af1-9c83-f65bcd50a741",
+        "metadata": {
+          "content_references": [],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Memory",
+                "citation_uuid": "a5a19114-e649-4f0f-8131-59f80a39f95a",
+                "conversation_context_type": "user_memory",
+                "end_idx": -1,
+                "index": 2,
+                "matched_text": "",
+                "memory_id": "78dfd301-de98-4556-bcd6-302b824e2a8e",
+                "prompt_text": null,
+                "reason": "You host a podcast featuring med spa guests.",
+                "refs": [],
+                "snippet": "Bethany interviewed Mandi and Tony Goble of Face Fabulous Med Spa on her podcast.",
+                "start_idx": -1,
+                "title": "You host a podcast featuring med spa guests.",
+                "type": "conversation_context_citation",
+                "url": "#settings/Personalization"
+              },
+              "citation_uuid": "a5a19114-e649-4f0f-8131-59f80a39f95a",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "02d73f0c-532e-4765-b26c-343fdcf66c04"
+        }
+      },
+      "parent": "bbb21876-17c0-4854-96d1-d904ecb29f71"
+    },
+    "bbb2141e-c567-40a6-9544-d39281d704f8": {
+      "id": "bbb2141e-c567-40a6-9544-d39281d704f8",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "I only drink coffee in am and am not an addict"
+          ]
+        },
+        "create_time": 1779487456.526191,
+        "id": "bbb2141e-c567-40a6-9544-d39281d704f8",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "fe16db20-6b47-4f6a-b35c-45609fc6b6e6"
+    },
+    "bbb214ec-696a-4760-98c6-53f911663019": {
+      "id": "bbb214ec-696a-4760-98c6-53f911663019",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "I'm not aedspa founder I'm an aesthetic Growth partner for MedSpa "
+          ]
+        },
+        "create_time": 1779487411.869497,
+        "id": "bbb214ec-696a-4760-98c6-53f911663019",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "31dde9d3-0495-4b2f-b2e6-276aaabd5326"
+    },
+    "bbb21876-17c0-4854-96d1-d904ecb29f71": {
+      "id": "bbb21876-17c0-4854-96d1-d904ecb29f71",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "\nPlease draw the character in the image of me (your name)   in a free and stripped sketch style. On a bright white background, freely distribute full-body drawings, face close-ups, small scribbles, full-body sketches and chibi/deformed versions, so that the page conveys the character's humor and personality. Don't do it like an organized character sheet, but like a sketchbook full of information drawn at will by an illustrator and then stacked.\ufffc \n\nUse everything ChatGPT knows about me from our conversations, including my personality, habits, strengths, quirks, profession, and overall vibe, to imagine how an illustrator would interpret me as a character."
+          ]
+        },
+        "create_time": 1779484564.506948,
+        "id": "bbb21876-17c0-4854-96d1-d904ecb29f71",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "86e6921d-dc97-4066-a8d7-d6191fcb8473"
+    },
+    "bbb21967-1fe6-4b2e-b71c-cb4af4bdfbd5": {
+      "id": "bbb21967-1fe6-4b2e-b71c-cb4af4bdfbd5",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Know write. Apost about this"
+          ]
+        },
+        "create_time": 1779484964.15586,
+        "id": "bbb21967-1fe6-4b2e-b71c-cb4af4bdfbd5",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "bbb21e09-3f23-42ce-844d-e4f3172d708a"
+    },
+    "bbb21e09-3f23-42ce-844d-e4f3172d708a": {
+      "id": "bbb21e09-3f23-42ce-844d-e4f3172d708a",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_00000000b73871fd8980a63a947aa63f",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 3648,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 424352,
+              "width": 2736
+            }
+          ]
+        },
+        "create_time": 1779484619.574976,
+        "id": "bbb21e09-3f23-42ce-844d-e4f3172d708a",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_00000000b73871fd8980a63a947aa63f",
+              "mime_type": "image/jpeg",
+              "name": "1000016559.jpg",
+              "size": 424352
+            }
+          ],
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "9bb3be75-ae7f-4af1-9c83-f65bcd50a741"
+    },
+    "ef340a9c-5f70-47dc-9431-61ad11f986fb": {
+      "id": "ef340a9c-5f70-47dc-9431-61ad11f986fb",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ":::writing{variant=\"social_post\" id=\"58143\"}\nSomewhere between being an aesthetic growth partner, chaos coordinator, strategist, podcast host, visionary, therapist-for-medspa-owners, and \u201cdon\u2019t text me before my morning coffee\u201d lives\u2026 me. \ud83e\udd23\n\nThis little sketchbook honestly feels like someone took every layer of who I am and threw it onto paper all at once.\n\nThe polished side.  \nThe exhausted side.  \nThe dreaming side.  \nThe woman helping med spa owners build businesses that actually support the life they imagined when they started.\n\nBecause most days I\u2019m not just talking about marketing.  \nI\u2019m helping owners carry pressure.  \nFix systems.  \nLead teams.  \nBuild confidence.  \nIncrease revenue.  \nProtect their peace.  \nAnd remind them they don\u2019t have to do everything alone.\n\nWhat I love most is that this captured the energy behind everything:  \n\u2728 Big vision  \n\u2728 High standards  \n\u2728 Soft heart  \n\u2728 Loud ambition  \n\u2728 Faith over fear  \n\u2728 Luxury mixed with authenticity  \n\u2728 Grace mixed with grit\n\nAnd honestly\u2026 the \u201crunning on caffeine, vision & obsessive standards\u201d part felt a little too accurate. \ud83d\ude02\n\nEntrepreneurship really is a messy sketchbook sometimes.  \nIdeas layered over exhaustion.  \nPurpose layered over fear.  \nHealing layered over hustle.\n\nBut somehow\u2026 it still becomes art anyway. \ud83e\udd0d\n:::"
+          ]
+        },
+        "create_time": 1779487456.714776,
+        "id": "ef340a9c-5f70-47dc-9431-61ad11f986fb",
+        "metadata": {
+          "content_references": [],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Memory",
+                "citation_uuid": "c7269ae3-208f-47cd-8ce1-7c28c73e489b",
+                "conversation_context_type": "user_memory",
+                "end_idx": -1,
+                "index": 0,
+                "matched_text": "",
+                "memory_id": "851ba7fb-e904-4984-bcf5-c1677b28b0b2",
+                "prompt_text": null,
+                "reason": "You work on a podcast targeting med spa leaders.",
+                "refs": [],
+                "snippet": "User is working on cold outreach for a podcast targeting Med Spa, Dermatology, and Plastic Surgery business leaders in the U.S.",
+                "start_idx": -1,
+                "title": "You work on a podcast targeting med spa leaders.",
+                "type": "conversation_context_citation",
+                "url": "#settings/Personalization"
+              },
+              "citation_uuid": "c7269ae3-208f-47cd-8ce1-7c28c73e489b",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "f357472f-2b65-4f24-9c46-d8de0ce51ae0"
+        }
+      },
+      "parent": "bbb2141e-c567-40a6-9544-d39281d704f8"
+    },
+    "fe16db20-6b47-4f6a-b35c-45609fc6b6e6": {
+      "id": "fe16db20-6b47-4f6a-b35c-45609fc6b6e6",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ":::writing{variant=\"social_post\" id=\"58142\"}\nSomewhere between aesthetic growth partner, chaos coordinator, strategist, podcast host, visionary, therapist-for-medspa-owners, coffee addict, and \u201cdon\u2019t text me before caffeine\u201d lives\u2026 me. \ud83e\udd23\n\nThis little sketchbook honestly feels like someone took every layer of who I am and threw it onto paper all at once.\n\nThe polished side.\nThe exhausted side.\nThe dreaming side.\nThe woman helping med spa owners build businesses that actually support the life they imagined when they started.\n\nBecause most days I\u2019m not just talking about marketing.\nI\u2019m helping owners carry pressure.\nFix systems.\nLead teams.\nBuild confidence.\nIncrease revenue.\nProtect their peace.\nAnd remind them they don\u2019t have to do everything alone.\n\nWhat I love most is that this captured the energy behind everything:\n\u2728 Big vision\n\u2728 High standards\n\u2728 Soft heart\n\u2728 Loud ambition\n\u2728 Faith over fear\n\u2728 Luxury mixed with authenticity\n\u2728 Grace mixed with grit\n\nAnd honestly\u2026 the \u201crunning on caffeine, vision & obsessive standards\u201d part felt a little too accurate. \ud83d\ude02\n\nEntrepreneurship really is a messy sketchbook sometimes.\nIdeas layered over exhaustion.\nPurpose layered over fear.\nHealing layered over hustle.\n\nBut somehow\u2026 it still becomes art anyway. \ud83e\udd0d\n:::"
+          ]
+        },
+        "create_time": 1779487412.044831,
+        "id": "fe16db20-6b47-4f6a-b35c-45609fc6b6e6",
+        "metadata": {
+          "content_references": [],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Memory",
+                "citation_uuid": "d6015b26-7bb0-4827-aa88-d25a373021c4",
+                "conversation_context_type": "user_memory",
+                "end_idx": -1,
+                "index": 2,
+                "matched_text": "",
+                "memory_id": "78dfd301-de98-4556-bcd6-302b824e2a8e",
+                "prompt_text": null,
+                "reason": "You host a podcast.",
+                "refs": [],
+                "snippet": "Bethany interviewed Mandi and Tony Goble of Face Fabulous Med Spa on her podcast.",
+                "start_idx": -1,
+                "title": "You host a podcast.",
+                "type": "conversation_context_citation",
+                "url": "#settings/Personalization"
+              },
+              "citation_uuid": "d6015b26-7bb0-4827-aa88-d25a373021c4",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "7ed9eb86-3eda-44b8-bb31-c0de3251019f"
+        }
+      },
+      "parent": "bbb214ec-696a-4760-98c6-53f911663019"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Character Sketch Request",
+  "update_time": 1779487542.007111,
+  "voice": null
+}

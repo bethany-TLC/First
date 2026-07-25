@@ -1,0 +1,72 @@
+{
+  "conversation_id": "6984c90d-af50-8331-9f14-bd3bd9fb6517",
+  "conversation_template_id": null,
+  "create_time": 1770309912.402105,
+  "current_node": "29cfedb4-1208-4fed-b4ea-9bb06e5d9412",
+  "default_model_slug": "gpt-5-2",
+  "id": "6984c90d-af50-8331-9f14-bd3bd9fb6517",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "29cfedb4-1208-4fed-b4ea-9bb06e5d9412": {
+      "id": "29cfedb4-1208-4fed-b4ea-9bb06e5d9412",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a cleaner, more polished version that still keeps the collaborative tone but reads organized and leadership-forward.\n\n:::writing{id=\"84721\" variant=\"email\" subject=\"Launch Status Update and Next Steps\"}\nHello everyone,\n\nI wanted to share a brief status update so we are all aligned as we move closer to launch. We are in a strong position and very close to execution.\n\n**Social Media**\n- **Keisha\u2019s team** is sending video clips and photos as soon as possible so they can be delivered to the Limited team for editing.\n- They are also actively setting up and launching our social media channels.\n\n**Website**\n- **Ashley\u2019s team** is in the final stages of reviewing all website links and attaching checkout funnels.\n- **Aanchal**, please do a full walkthrough of the site to identify any links that need correction or redirection, including booking links.\n\n**Video Production**\n- **Gil\u2019s team** is on standby and ready to begin editing once the VSL footage is received.\n\n**Systems and Tech**\n- **Jacques\u2019 team** is building out the operating system and connecting Meta to our CRM.\n\n**Content and Client Delivery**\n- **Bethany** is developing a 90-day client roadmap and a Team Meeting Onboarding Playbook that med spa owners can use internally to align their teams with our deliverables.\n\n**Operations and Oversight**\n- **Eric** is coordinating with legal and financial teams and ensuring vendors stay on track.\n\n**Project Coordination**\n- **Aanchal** is attending all meetings with Gil\u2019s team, organizing our shared drive, learning ClickUp, and serving as our central point of coordination.\n\nI know everyone is eager to get this fully live. We are truly in the final stretch, and the momentum is strong. Thank you all for staying focused and collaborative as we bring this across the finish line.\n\nBest,  \nBethany"
+          ]
+        },
+        "create_time": 1770309912.276984,
+        "id": "29cfedb4-1208-4fed-b4ea-9bb06e5d9412",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "c40df512-7a10-4a01-abc0-f12a502a53b2"
+        }
+      },
+      "parent": "94e559ad-cdb8-4fd6-a169-30ab0b61201b"
+    },
+    "94e559ad-cdb8-4fd6-a169-30ab0b61201b": {
+      "id": "94e559ad-cdb8-4fd6-a169-30ab0b61201b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "rerwrite this email to sound more professional and organinzzed: Hello all,\nI wanted to keep everyone in the loop on where we are as far as launching:\nKeisha Social media team: sending over video clips and photos asap so we can get it to the Limited team to edit, they are also working on getting our socials up and running.\nAshley website team: almost done checking\u00a0all the links and attaching\u00a0the checkout funnels (Aanchal, please\u00a0go through the website to see which links need fixing or which ones need to be redirected like booking link)\nGil's team: on standby waiting for our VSL footage so they can edit\nJacques Team: working on the operating\u00a0system\u00a0and connecting Meta with our CRM.\nBethany: working\u00a0on creating a 90day roadmap plan to give to our clients and also creating a \"team meeting onboarding\" playbook for our medspa owners to give to their teams to get them onboard to implement\u00a0our deliverables.\u00a0\nEric: working with our legal team, financial\u00a0team and keeping our vendors on track.\nAanchal: attending all meetings with Gil's\u00a0team, organizing\u00a0our drive, learning Clickup and serving as our go-to rock star!\u00a0\nI know we are all anxious to get this up and going... we are SO close!\u00a0"
+          ]
+        },
+        "create_time": 1770309912.14,
+        "id": "94e559ad-cdb8-4fd6-a169-30ab0b61201b",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Launch Status Update",
+  "update_time": 1770309951.878578,
+  "voice": null
+}

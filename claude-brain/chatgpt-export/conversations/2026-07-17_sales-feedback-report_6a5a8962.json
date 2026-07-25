@@ -1,0 +1,519 @@
+{
+  "conversation_id": "6a5a8962-c0fc-83e8-ae44-21bbfadf5e99",
+  "conversation_template_id": null,
+  "create_time": 1784318321.196092,
+  "current_node": "c6177751-1a25-496c-85e7-a5712b9e1ac6",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a5a8962-c0fc-83e8-ae44-21bbfadf5e99",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "42690556-60d9-4cb2-adb9-424eb1fd41d0": {
+      "id": "42690556-60d9-4cb2-adb9-424eb1fd41d0",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "thoughts",
+          "source_analysis_msg_id": "f1e62e1d-adf7-4358-a914-33b856e43baf",
+          "thoughts": [
+            {
+              "chunks": [],
+              "content": "",
+              "finished": true,
+              "summary": "Searched multiple websites and platforms for information"
+            }
+          ]
+        },
+        "create_time": 1784318323.510468,
+        "id": "42690556-60d9-4cb2-adb9-424eb1fd41d0",
+        "metadata": {
+          "model_slug": "gpt-5-5",
+          "parent_id": "5b589e70-6eb2-4db9-8014-12743e506d3b",
+          "tool_icons": [
+            "globe"
+          ]
+        }
+      },
+      "parent": "ed08b0a9-eb39-4ed8-ad9d-8586f8570408"
+    },
+    "5a6c1e67-248b-4b06-9782-9dd7fbe8fd91": {
+      "id": "5a6c1e67-248b-4b06-9782-9dd7fbe8fd91",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "thoughts",
+          "source_analysis_msg_id": "601eb4f4-9901-4555-b460-7480630eb753",
+          "thoughts": [
+            {
+              "chunks": [],
+              "content": "",
+              "finished": true,
+              "summary": "Searched multiple websites including Close, Arxiv, and others"
+            }
+          ]
+        },
+        "create_time": 1784318323.500199,
+        "id": "5a6c1e67-248b-4b06-9782-9dd7fbe8fd91",
+        "metadata": {
+          "model_slug": "gpt-5-5",
+          "parent_id": "ced53cb6-a4d1-4e4d-b657-bd32cfeb1d0b",
+          "tool_icons": [
+            "globe"
+          ]
+        }
+      },
+      "parent": "ed08b0a9-eb39-4ed8-ad9d-8586f8570408"
+    },
+    "a92514f1-9b9e-47d5-a35e-adb07fbcaa49": {
+      "id": "a92514f1-9b9e-47d5-a35e-adb07fbcaa49",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content": "Worked for a couple of seconds",
+          "content_type": "reasoning_recap"
+        },
+        "create_time": 1784318323.514721,
+        "id": "a92514f1-9b9e-47d5-a35e-adb07fbcaa49",
+        "metadata": {
+          "model_slug": "gpt-5-5",
+          "parent_id": "42690556-60d9-4cb2-adb9-424eb1fd41d0"
+        }
+      },
+      "parent": "42690556-60d9-4cb2-adb9-424eb1fd41d0"
+    },
+    "b0b99a97-d32a-4cc8-84d4-09a875a7a64c": {
+      "id": "b0b99a97-d32a-4cc8-84d4-09a875a7a64c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content": "Worked for a couple of seconds",
+          "content_type": "reasoning_recap"
+        },
+        "create_time": 1784318323.505611,
+        "id": "b0b99a97-d32a-4cc8-84d4-09a875a7a64c",
+        "metadata": {
+          "model_slug": "gpt-5-5",
+          "parent_id": "5a6c1e67-248b-4b06-9782-9dd7fbe8fd91"
+        }
+      },
+      "parent": "5a6c1e67-248b-4b06-9782-9dd7fbe8fd91"
+    },
+    "b75fb22c-2e8a-4b97-94df-97e3642fe4e0": {
+      "id": "b75fb22c-2e8a-4b97-94df-97e3642fe4e0",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Absolutely. In fact, I can go a step further because I know your sales process and your two-call framework.\n\nInstead of giving generic AI feedback, I can produce a standardized coaching report that looks and feels like the best AI call grading platforms, but customized specifically for **The Luxora Collective's Triage and Discovery process.** Modern AI scorecards generally use structured categories with numeric scoring, evidence from the transcript, strengths, weaknesses, and specific coaching recommendations. \ue200cite\ue202turn0search0\ue202turn0search8\ue201\n\nFor every transcript you paste, I'll generate something like this:\n\n---\n\n# THE LUXORA COLLECTIVE\n## AI Call Review & Coaching Report\n\n### Executive Summary\nA concise paragraph at the top highlighting:\n\n- Biggest strengths\n- Biggest weaknesses\n- Whether this call would likely advance\n- Biggest coaching priority\n\n---\n\n# Overall Grade\n\n**Overall Score:** 84/100\n\n| Category | Score |\n|----------|------:|\n| Opening & Rapport | 9/10 |\n| Agenda & Expectations | 8/10 |\n| Discovery Questions | 15/20 |\n| Pain Diagnosis | 17/20 |\n| Qualification | 9/10 |\n| Positioning TLC | 8/10 |\n| Control of Conversation | 8/10 |\n| Next Steps / Close | 9/10 |\n| **TOTAL** | **83/100** |\n\n---\n\n# Call Diagnosis\n\n## What Went Well\n\n- Built trust quickly\n- Asked thoughtful follow-up questions\n- Prospect spoke 65% of the call\n- Good emotional connection\n- Confirmed next meeting\n\n---\n\n## Biggest Opportunities\n\n- Explained services too early\n- Didn't uncover financial impact\n- Missed decision-making process\n- Didn't ask enough \"why now?\" questions\n- Solved problems before fully diagnosing them\n\n---\n\n# Evidence From The Call\n\n### Excellent Moments\n\nQuote transcript sections.\n\nExplain WHY they worked.\n\n---\n\n### Missed Opportunities\n\nQuote transcript sections.\n\nRewrite exactly what should have been said instead.\n\n---\n\n# Coaching\n\n## Biggest Habit To Fix\n\nOne behavior.\n\nNot ten.\n\nOne.\n\n---\n\n## Say This Instead\n\nExamples:\n\nInstead of:\n\n> \"We actually do...\"\n\nSay:\n\n> \"Tell me more about what's causing that.\"\n\n---\n\n## Questions They Should Have Asked\n\nList every important missed discovery question.\n\n---\n\n# TLC Process Adherence\n\nSince I know your framework, I'll also score them on:\n\n### Triage Call\n\n\u2705 Stayed inside 20 minutes\n\n\u2705 Did NOT solution sell\n\n\u2705 Diagnosed instead of consulting\n\n\u2705 Qualified practice\n\n\u2705 Qualified goals\n\n\u2705 Qualified urgency\n\n\u2705 Qualified decision makers\n\n\u2705 Earned Discovery Call\n\n\u2705 Created curiosity\n\n\u274c Did not over-explain services\n\n\u274c Did not coach for free\n\n---\n\n### Discovery Call\n\nIf it's a Discovery instead:\n\n- Deep business diagnosis\n- Revenue leaks uncovered\n- Membership discussion\n- Retention discussion\n- Marketing discussion\n- Team discussion\n- Budget\n- Buying process\n- Proposal positioning\n- Confidence\n- Trial closes\n- Close readiness\n\n---\n\n# Coach's Notes\n\nExactly like I currently write for you.\n\nNot generic AI.\n\nFor example:\n\n> Arlene, your biggest issue wasn't your tone. It was that you continually answered questions the prospect hadn't asked yet. Every minute spent explaining our systems before earning permission is a minute the prospect isn't selling themselves. Slow down. Stay curious. Your only job on a triage call is to diagnose enough pain that the Discovery Call becomes the obvious next step.\n\n---\n\n# Action Plan\n\n### Before Your Next Call\n\n1. Ask two more follow-up questions after every pain point.\n2. Never explain backend systems on Triage.\n3. Don't solve until Discovery.\n4. Confirm all decision makers.\n5. End with curiosity, not education.\n\n---\n\n# Manager Notes\n\nA section for you to send directly to your salesperson.\n\nProfessional.\n\nConstructive.\n\nVery coachable.\n\n---\n\nSince I've now reviewed a number of your team's calls, I can also make the reports even more tailored to TLC. For example, I can automatically flag things like:\n\n- Going over the 20-minute target on triage.\n- Talking about pricing too early.\n- Giving away free consulting.\n- Explaining every service instead of diagnosing.\n- Not creating enough curiosity for the Discovery Call.\n- Missing qualification questions.\n- Not identifying all decision-makers.\n- Failing to quantify the cost of the problem.\n- Positioning TLC as a marketing agency instead of an end-to-end growth partner.\n- Not reinforcing your three-stage framework (Find the Opportunity \u2192 Fix the Leaks \u2192 Grow What Works).\n\nThat would give your team a consistent, repeatable coaching report on every transcript, making it easy to track improvement over time rather than providing one-off feedback."
+          ]
+        },
+        "create_time": 1784318322.781356,
+        "id": "b75fb22c-2e8a-4b97-94df-97e3642fe4e0",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "([Orum Help Center](https://support.orum.com/en-US/orum/article/kD2wZAK2-ai-scorecards?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Orum Help Center",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1762458400.0,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 8,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [
+                    {
+                      "attribution": "GradeMyClose",
+                      "pub_date": null,
+                      "snippet": "",
+                      "title": "How to Grade Sales Calls: The 7-Category Scorecard Used on 1,000+ Calls",
+                      "url": "https://www.grademyclose.com/blog/how-to-grade-sales-calls?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "AI Scorecards",
+                  "url": "https://support.orum.com/en-US/orum/article/kD2wZAK2-ai-scorecards?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prefix": null,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "Orum Help Center",
+                  "title": "AI Scorecards",
+                  "url": "https://support.orum.com/en-US/orum/article/kD2wZAK2-ai-scorecards?utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "a92514f1-9b9e-47d5-a35e-adb07fbcaa49",
+          "search_result_groups": [
+            {
+              "domain": "closerlabs.ai",
+              "entries": [
+                {
+                  "attribution": "closerlabs.ai",
+                  "snippet": "For Sales Leaders Who Can't Be Everywhere  REVIEW 100% OF YOUR SALES CALLS WITH AI  CloserLabs is AI that listens, scores, and coaches every rep on every call \u2014 whether they're in the field, on Zoom,...",
+                  "title": "CloserLabs | AI Sales Coaching That Reviews Every Call",
+                  "url": "https://www.closerlabs.ai/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "ratemycalls.com",
+              "entries": [
+                {
+                  "attribution": "ratemycalls.com",
+                  "snippet": "AI-powered sales call analysis \u2014 Beta  KNOW EXACTLY WHY DEALS ARE WON AND LOST.  Paste any sales call transcript and get an instant AI scorecard built on proven sales methodologies from the world's t...",
+                  "title": "Rate My Calls - Know exactly why deals are won and lost",
+                  "url": "https://ratemycalls.com/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "closerslabiq.com",
+              "entries": [
+                {
+                  "attribution": "closerslabiq.com",
+                  "snippet": "ClosersLab IQRob The Credit Guy  en  \u25cf AI Sales Call Review \u2014 Rob The Credit Guy Edition  EVERYBODY'S A CLOSER UNTIL THE PHONE RINGS.  Built on Rob The Credit Guy's million-dollar credit repair playbo...",
+                  "title": "ClosersLab IQ \u2014 AI Sales Call Grading for Credit Repair",
+                  "url": "https://closerslabiq.com/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "grademyclose.com",
+              "entries": [
+                {
+                  "attribution": "grademyclose.com",
+                  "snippet": "KNOW EXACTLY WHY you lost the deal.  Upload any sales call. Get scores, weak spots, and word-for-word scripts to fix them \u2014 in 60 seconds.  Grade your first call freeSee a sample scorecard  Free forev...",
+                  "title": "GradeMyClose \u2014 AI Sales Call Grading Tool | Score, Fix & Improve Every Call",
+                  "url": "https://www.grademyclose.com/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "grademyclose.com",
+                  "snippet": "SALES CALL SCORECARD TEMPLATE (FREE DOWNLOAD)  By Lex Thomas \u00b7 March 29, 2026  scorecards templates  THE PROBLEM WITH MOST SALES SCORECARDS  Pull up whatever scorecard your team uses right now. If it...",
+                  "title": "Sales Call Scorecard Template (Free Download)",
+                  "url": "https://www.grademyclose.com/blog/sales-call-scorecard-template?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "grademyclose.com",
+                  "snippet": "HOW TO GRADE SALES CALLS: THE 7-CATEGORY SCORECARD USED ON 1,000+ CALLS  By Lex Thomas \u00b7 March 28, 2026  scoring frameworks  WHY MOST SALES CALL GRADING IS WORTHLESS  Here is what typically happens w...",
+                  "title": "How to Grade Sales Calls: The 7-Category Scorecard Used on 1,000+ Calls",
+                  "url": "https://www.grademyclose.com/blog/how-to-grade-sales-calls?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "gong.io",
+              "entries": [
+                {
+                  "attribution": "gong.io",
+                  "snippet": "ALL ABOUT SCORECARDS  * Updated on Mar 18, 2026 * Published on Apr 11, 2024  * 6 minute(s) read  Use scorecards to give and receive structured feedback about calls, making it easier to learn, improve...",
+                  "title": "All about scorecards",
+                  "url": "https://help.gong.io/docs/all-about-scorecards?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "demodesk.com",
+              "entries": [
+                {
+                  "attribution": "demodesk.com",
+                  "snippet": "READY TO USE SCORECARD TEMPLATES  \ud83d\udca1 Tip: You can copy and paste these question sets directly into your custom scorecards in Demodesk. They\u2019re structured for immediate use. No edits needed.  Example st...",
+                  "title": "Best Practices Guide: AI Scorecards | Demodesk Help Center",
+                  "url": "https://help.demodesk.com/en/articles/11913131-best-practices-guide-ai-scorecards?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "bigmind.ai",
+              "entries": [
+                {
+                  "attribution": "bigmind.ai",
+                  "snippet": "SCORECARDS  Scorecards are AI-powered evaluation tools that help managers and revenue operations teams assess the quality of sales calls. By defining custom evaluation criteria, you can have AI autom...",
+                  "title": "Scorecards | Bigmind",
+                  "url": "https://bigmind.ai/en-US/docs/articles/scorecards?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "hivedesk.com",
+              "entries": [
+                {
+                  "attribution": "hivedesk.com",
+                  "snippet": "Home/Resources/Sales Call QA Scorecard  FREE SALES CALL QA SCORECARD TEMPLATE  Score sales calls and chats online or download the Excel template. Covers 10 areas from greeting through CRM documentati...",
+                  "title": "Free Sales Call Quality Assurance Scorecard Template | HiveDesk",
+                  "url": "https://www.hivedesk.com/resources/sales-call-quality-assurance-scorecard-template?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "kixie.com",
+              "entries": [
+                {
+                  "attribution": "kixie.com",
+                  "snippet": "CALL QUALITY ASSURANCE SCORECARD TEMPLATE  Use the following copy-ready structure as a starting point. Because every team\u2019s call flow is different, treat this as a template to customize rather than a...",
+                  "title": "Blog",
+                  "url": "https://www.kixie.com/blog/?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "a92514f1-9b9e-47d5-a35e-adb07fbcaa49"
+    },
+    "c6177751-1a25-496c-85e7-a5712b9e1ac6": {
+      "id": "c6177751-1a25-496c-85e7-a5712b9e1ac6",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Absolutely. In fact, I can make it even more tailored to **The Luxora Collective's** sales process than CloseSales.ai.\n\nInstead of generic AI feedback, I'll evaluate every transcript against **your exact two-call framework** (Triage \u2192 Discovery), your positioning, and everything we've built together.\n\nMy reports can include:\n\n| Section | What you'll get |\n|---------|-----------------|\n| **Executive Summary** | One paragraph explaining what the rep did well, where they struggled, and whether the prospect is likely to move forward. |\n| **Overall Grade** | A-F plus numerical score (0-100). |\n| **Call Scorecard** | Rapport, agenda, discovery, qualification, positioning, objection handling, communication, control, next steps, confidence. |\n| **What They Did Well** | Bullet list with transcript examples. |\n| **Critical Coaching Opportunities** | Biggest mistakes ranked by impact. |\n| **Missed Revenue Opportunities** | Every moment they could have uncovered more pain or increased value. |\n| **Script Compliance** | Did they follow TLC's triage process or go off script? |\n| **Discovery Analysis** | Which questions were asked, skipped, or rushed. |\n| **Talk Ratio Analysis** | Whether they talked too much, interrupted, lectured, or allowed the prospect to sell themselves. |\n| **Prospect Psychology** | Buying signals, hesitation, emotional triggers, commitment level. |\n| **Call Diagnosis** | Why this call will or won't convert. |\n| **Next Call Strategy** | Exactly how to approach the next call if one is scheduled. |\n| **Coaching Action Plan** | Top 3-5 things to improve before the next conversation. |\n\nFor your team specifically, I'll also automatically flag things like:\n\n- \u274c Pitching instead of discovering\n- \u274c Explaining the whole company during triage\n- \u274c Consulting for free\n- \u274c Going too deep on Call 1\n- \u274c Missing pain amplification\n- \u274c Talking about services before earning the right\n- \u274c Failing to secure all decision makers\n- \u274c Weak agenda setting\n- \u274c Weak transition into Discovery Call\n- \u274c Missing custom proposal setup\n- \u274c Not positioning Luxora as an end-to-end growth partner\n- \u274c Overpersonalizing or oversharing\n- \u274c Giving away strategy instead of creating curiosity\n\nI can also score reps against your internal standards, such as:\n\n- Discovery Discipline\n- Triage Discipline\n- Sales Leadership\n- Emotional Intelligence\n- Consultative Selling\n- Authority & Confidence\n- Luxora Brand Alignment\n- Closing Readiness\n\nThen I'll finish every report with something like:\n\n> **Manager's Summary**\n>\n> This was a **74/100 (C)** triage call. The prospect remained engaged and there is still a viable opportunity, but the rep significantly over-explained the program before fully diagnosing the practice. Several key qualification questions were skipped, causing the conversation to become educational rather than consultative. Before the next call, the rep should focus on asking deeper questions, resisting the urge to solve problems prematurely, and creating curiosity around the Discovery session where the custom growth plan will be presented.\n\nGiven how many evaluations you've had me do, I can also keep scoring consistent across your whole sales team so you can compare reps over time and identify coaching trends, much like dedicated sales QA platforms do. Structured scorecards and consistent coaching criteria are generally more effective than ad hoc feedback for improving sales performance. \ue200cite\ue202turn0search12\ue202turn0search5\ue201"
+          ]
+        },
+        "create_time": 1784318322.922704,
+        "id": "c6177751-1a25-496c-85e7-a5712b9e1ac6",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "([resource-downloads.close.com](https://resource-downloads.close.com/resources/call-review-checklist.pdf?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "resource-downloads.close.com",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1776066799.0,
+                  "refs": [
+                    {
+                      "ref_index": 12,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 5,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [
+                    {
+                      "attribution": "grademyclose.com",
+                      "pub_date": null,
+                      "snippet": "",
+                      "title": "How to Grade Sales Calls: The 7-Category Scorecard Used on 1,000+ Calls",
+                      "url": "https://www.grademyclose.com/blog/how-to-grade-sales-calls?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Call Review Checklist",
+                  "url": "https://resource-downloads.close.com/resources/call-review-checklist.pdf?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prefix": null,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "resource-downloads.close.com",
+                  "title": "Call Review Checklist",
+                  "url": "https://resource-downloads.close.com/resources/call-review-checklist.pdf?utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "b0b99a97-d32a-4cc8-84d4-09a875a7a64c",
+          "search_result_groups": [
+            {
+              "domain": "close.com",
+              "entries": [
+                {
+                  "attribution": "close.com",
+                  "snippet": "CALL DISPOSITIONS  When completed, each call has a disposition that describes the outcome of the call. Here is the list of all possible dispositions:  * Abandoned - only applicable to Predictive Diale...",
+                  "title": "Calling",
+                  "url": "https://help.close.com/docs/calling-from-close?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "close.com",
+                  "snippet": "CALLS  Call activities track inbound and outbound phone calls on a Lead.  Ask a question|Copy page|View as Markdown|More actions  A Call is made:  * via calling a lead directly or receiving an incomi...",
+                  "title": "Calls | Close | Developer API Documentation",
+                  "url": "https://developer.close.com/api/resources/activities/calls?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "close.com",
+                  "snippet": "HERE'S HOW YOU REALLY KNOW IF A SALES CALL WENT WELL  ImageSteli Efti  April 23, 2018  0 min read   You hang up the phone\u2026 An hour-long sales call is now in the books. It was a quality lead you\u2019ve be...",
+                  "title": "Here's How You REALLY Know if a Sales Call Went Well",
+                  "url": "https://www.close.com/blog/sales-call-evaluation?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "close.com",
+                  "snippet": "PRODUCT UPDATES  If you\u2019re a tech-enabled team who needs to scale without overpaying for enterprise sales software, you\u2019ve found the right sales tool.  August 31, 2018  Image  Improvement  IMPROVED M...",
+                  "title": "Close",
+                  "url": "https://www.close.com/changelog/improved-mechanism-for-providing-call-quality-feedback?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "close.com",
+                  "snippet": "SUCCESSFUL SALES CALL STRUCTURE: A 5-STEP PROCESS PLAN  Image: Steli Efti  By  Steli Efti  February 28, 2014  0 min read  Image: white calendar iconLast updated:  July 14, 2026  Image: white calendar...",
+                  "title": "Successful Sales Call Structure: A 5-Step Process Plan",
+                  "url": "https://close.com/blog/5-steps-to-desig-a-successful-sales-call-blueprint?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "grademyclose.com",
+              "entries": [
+                {
+                  "attribution": "grademyclose.com",
+                  "snippet": "SALES CALL EVALUATION FORM (FREE PDF TEMPLATE)  By Lex Thomas \u00b7 April 12, 2026  sales call evaluation sales forms call grading  A sales call evaluation form transforms random feedback into systematic...",
+                  "title": "Sales Call Evaluation Form (Free PDF Template)",
+                  "url": "https://www.grademyclose.com/blog/sales-call-evaluation-form?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "grademyclose.com",
+                  "snippet": "HOW TO GRADE SALES CALLS: THE 7-CATEGORY SCORECARD USED ON 1,000+ CALLS  By Lex Thomas \u00b7 March 28, 2026  scoring frameworks  WHY MOST SALES CALL GRADING IS WORTHLESS  Here is what typically happens w...",
+                  "title": "How to Grade Sales Calls: The 7-Category Scorecard Used on 1,000+ Calls",
+                  "url": "https://www.grademyclose.com/blog/how-to-grade-sales-calls?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "grademyclose.com",
+                  "snippet": "SALES CALL GRADING RUBRIC (FREE, PRINTABLE)  By Lex Thomas \u00b7 April 19, 2026  sales call grading sales rubric call evaluation  WHY YOU NEED A STRUCTURED GRADING RUBRIC  Most sales reps finish a call a...",
+                  "title": "Sales Call Grading Rubric (Free, Printable)",
+                  "url": "https://www.grademyclose.com/blog/sales-call-grading-rubric?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "mangoapps.com",
+              "entries": [
+                {
+                  "attribution": "mangoapps.com",
+                  "snippet": "sales  SALES CALL COACHING FORM  Use this Sales Call Coaching Form to review recorded or live sales calls, score each stage of the conversation, and capture clear coaching next steps. It helps manage...",
+                  "title": "Sales Call Coaching Form Template \u2014 Score Calls Faster | MangoApps",
+                  "url": "https://www.mangoapps.com/templates/forms/sales-call-coaching-form-2?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "mangoapps.com",
+                  "snippet": "sales  SALES CALL COACHING FORM  Use this Sales Call Coaching Form to review recorded or live sales calls, score key moments, and capture clear coaching actions for the rep. It helps managers give co...",
+                  "title": "Sales Call Coaching Form Template \u2014 Coach Calls Faster | MangoApps",
+                  "url": "https://www.mangoapps.com/templates/forms/sales-call-coaching-form?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "realestatematt.com",
+              "entries": [
+                {
+                  "attribution": "realestatematt.com",
+                  "snippet": "THIS COLD CALL EVALUATOR AI\u00a0USES A CLEAR 100-POINT SCORING SYSTEM ACROSS FIVE KEY PERFORMANCE AREAS\u2014GIVING YOU INSTANT VISIBILITY INTO WHAT\u2019S WORKING AND WHAT\u2019S FALLING FLAT.  EVERY SCORE DIRECTLY TI...",
+                  "title": "Cold Call Eval Ai (Real Estate Cold Call Evaluator)",
+                  "url": "https://www.realestatematt.com/ColdCallEvalAi%28RealEstateColdCallEvaluator%29?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "closereport.com",
+              "entries": [
+                {
+                  "attribution": "closereport.com",
+                  "snippet": "Close Report  Product  Customers  Resources  Pricing  Sign in Start free trial  Calls This Week  247  M T W T F S S  [Button: Details]  38%  Win Rate Lift  Trusted by 1,200+ reps and sales teams  WIN...",
+                  "title": "Close Report \u2014 AI sales coach for every call you make",
+                  "url": "https://www.closereport.com/?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "b0b99a97-d32a-4cc8-84d4-09a875a7a64c"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "ed08b0a9-eb39-4ed8-ad9d-8586f8570408": {
+      "id": "ed08b0a9-eb39-4ed8-ad9d-8586f8570408",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "can you take the feedback structure from closesales.ai and give me the same type of report of i paste the transcrip there"
+          ]
+        },
+        "create_time": 1784318320.585,
+        "id": "ed08b0a9-eb39-4ed8-ad9d-8586f8570408",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Sales Feedback Report",
+  "update_time": 1784318352.004491,
+  "voice": null
+}

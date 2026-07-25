@@ -1,0 +1,71 @@
+{
+  "conversation_id": "6a0797e5-e510-83ea-9ccc-2243618ed849",
+  "conversation_template_id": null,
+  "create_time": 1778882562.462086,
+  "current_node": "15eec304-7e83-4dbd-b078-7ceaa3eb7c0f",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a0797e5-e510-83ea-9ccc-2243618ed849",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "15eec304-7e83-4dbd-b078-7ceaa3eb7c0f": {
+      "id": "15eec304-7e83-4dbd-b078-7ceaa3eb7c0f",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ":::writing{variant=\"chat_message\" id=\"48271\"}\nCease all contact with me immediately. I have never sent you any message of the sort you are alleging. This is now the second time you have attempted to contact me outside the scope of our MDA agreement with false accusations that I have contacted you.\n\nYou clearly have another Bethany\u2019s number saved in your phone, as your number is not even stored in my contacts and has already been blocked.\n\nYour continued unwanted contact and repeated false accusations are considered harassment. Any further communication outside the terms and obligations of our agreement will be documented accordingly.\n:::"
+          ]
+        },
+        "create_time": 1778882562.312685,
+        "id": "15eec304-7e83-4dbd-b078-7ceaa3eb7c0f",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "36c3b8f8-708f-4e54-8505-065e2d648496"
+        }
+      },
+      "parent": "bbb21170-6f6a-4dee-84e2-4f9dc895c3f0"
+    },
+    "3fa3093a-5679-4d73-9423-b05c1239c9bb": {
+      "id": "3fa3093a-5679-4d73-9423-b05c1239c9bb",
+      "message": null,
+      "parent": null
+    },
+    "bbb21170-6f6a-4dee-84e2-4f9dc895c3f0": {
+      "id": "bbb21170-6f6a-4dee-84e2-4f9dc895c3f0",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write a more legal response: Stop contacting me! I have never text you anything of the sort. This is the second time you have attempted to contact me outside the scope of our MDA agreement accusing me of contacting you. You clearly have any other Bethany in your phone. You're phone number isn't even in my phone and has been blocked \n\nThis is considered harassment! "
+          ]
+        },
+        "create_time": 1778882562.070256,
+        "id": "bbb21170-6f6a-4dee-84e2-4f9dc895c3f0",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "3fa3093a-5679-4d73-9423-b05c1239c9bb"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Legal Response to Harassment",
+  "update_time": 1778882566.632195,
+  "voice": null
+}

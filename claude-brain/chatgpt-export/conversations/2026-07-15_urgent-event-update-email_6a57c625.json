@@ -1,0 +1,72 @@
+{
+  "conversation_id": "6a57c625-b6dc-83e8-99cc-ea996286069e",
+  "conversation_template_id": null,
+  "create_time": 1784137255.73974,
+  "current_node": "06639735-43aa-4689-9d09-7c6abf3ad678",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a57c625-b6dc-83e8-99cc-ea996286069e",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "06639735-43aa-4689-9d09-7c6abf3ad678": {
+      "id": "06639735-43aa-4689-9d09-7c6abf3ad678",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a polished version you can send:\n\n:::writing{variant=\"email\" id=\"48217\" subject=\"Urgent Event Day Update: Entry & Security Information\"}\nHi everyone,\n\n**Urgent update for event day tomorrow!**\n\nAll attendees will be asked to enter through either the **Front Entrance** or the **South Entrance** in order to proceed through the **Evolv security scanners**.\n\nPlease note that **bags may be checked for security purposes**.\n\nAttendees may park in **any available parking lot** and then proceed to one of the designated entrances listed above.\n\nWe look forward to having you with us and can\u2019t wait to see you tomorrow!\n\nBest,  \nBethany\n:::"
+          ]
+        },
+        "create_time": 1784137255.57099,
+        "id": "06639735-43aa-4689-9d09-7c6abf3ad678",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "eaaa28c3-df04-4639-9c60-ce312633bf15"
+        }
+      },
+      "parent": "dd8393ae-fe36-46bc-93a1-842905ea5491"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "dd8393ae-fe36-46bc-93a1-842905ea5491": {
+      "id": "dd8393ae-fe36-46bc-93a1-842905ea5491",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "create an email that says: Urgent update for event day! All attendees will be asked to enter through the front entrance or the South entrance tomorrow in order to file through the Evolve scanners. Bags may be checked for security reasons. Attendees may park in any lot available and proceed to these entries. We look forward to having you with us."
+          ]
+        },
+        "create_time": 1784137254.655,
+        "id": "dd8393ae-fe36-46bc-93a1-842905ea5491",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Urgent Event Update Email",
+  "update_time": 1784137889.816705,
+  "voice": null
+}

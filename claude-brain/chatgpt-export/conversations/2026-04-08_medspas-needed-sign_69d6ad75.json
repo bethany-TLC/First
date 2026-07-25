@@ -1,0 +1,49 @@
+{
+  "conversation_id": "69d6ad75-7c88-832c-acf0-68a8340ccd5d",
+  "conversation_template_id": null,
+  "create_time": 1775676804.620313,
+  "current_node": "737ddbbb-749e-4c2c-9fc4-48596af8316a",
+  "default_model_slug": "gpt-5-3",
+  "id": "69d6ad75-7c88-832c-acf0-68a8340ccd5d",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "737ddbbb-749e-4c2c-9fc4-48596af8316a": {
+      "id": "737ddbbb-749e-4c2c-9fc4-48596af8316a",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "create a sign that says medspas needed"
+          ]
+        },
+        "create_time": 1775676804.185,
+        "id": "737ddbbb-749e-4c2c-9fc4-48596af8316a",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Medspas Needed Sign",
+  "update_time": 1775731768.502025,
+  "voice": null
+}

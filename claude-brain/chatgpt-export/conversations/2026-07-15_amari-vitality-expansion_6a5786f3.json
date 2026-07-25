@@ -1,0 +1,72 @@
+{
+  "conversation_id": "6a5786f3-1c50-83e8-8db3-ae28dbc46bb0",
+  "conversation_template_id": null,
+  "create_time": 1784121120.876352,
+  "current_node": "104a837c-ca17-4ae1-89bd-005fde8521f4",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a5786f3-1c50-83e8-8db3-ae28dbc46bb0",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "104a837c-ca17-4ae1-89bd-005fde8521f4": {
+      "id": "104a837c-ca17-4ae1-89bd-005fde8521f4",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a short, polished version:\n\n:::writing{variant=\"social_post\" id=\"58321\"}\n\u2728 **Client Spotlight: Amari Vitality** \u2728\n\nWe had the privilege of visiting one of our newest clients, **Amari Vitality in Cookeville, Tennessee**, and helping prepare their team for an exciting new chapter of growth!\n\nThis may be their current location, but right next door, they\u2019re building a **beautiful new two-story spa** that we cannot wait to see come to life and eventually showcase. \ud83d\ude0d\n\nFor now, we\u2019re working behind the scenes to help make sure the strategy, systems, and foundation are ready for their next level of expansion.\n\nBig things are coming for Amari Vitality, and we\u2019re excited to be part of the journey! \ud83e\udd42\u2728\n\n#MedSpa #AmariVitality #TheLuxoraCollective #MedSpaGrowth #Aesthetics #CookevilleTN #ClientSpotlight\n:::"
+          ]
+        },
+        "create_time": 1784121120.807713,
+        "id": "104a837c-ca17-4ae1-89bd-005fde8521f4",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "cb37909c-447b-45e6-89d1-b62ee40706c2"
+        }
+      },
+      "parent": "bbb210f0-fd7e-4ffb-b9a4-db5eee4703ef"
+    },
+    "2c9edb24-510a-4597-9e45-6d48bc0b42ca": {
+      "id": "2c9edb24-510a-4597-9e45-6d48bc0b42ca",
+      "message": null,
+      "parent": null
+    },
+    "bbb210f0-fd7e-4ffb-b9a4-db5eee4703ef": {
+      "id": "bbb210f0-fd7e-4ffb-b9a4-db5eee4703ef",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write a short post about visiting one of our newest clients Amari vitality in cooksville Tennessee highlight. This is their old location and they are building a beautiful new two-story spa next door that we can't wait to showcase their new space. But for now, we had the privilege of coming in and preparing them for their newest expansion. Put hashtags MedSpa #amari vitality# the Luxora collective"
+          ]
+        },
+        "create_time": 1784121120.332456,
+        "id": "bbb210f0-fd7e-4ffb-b9a4-db5eee4703ef",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "2c9edb24-510a-4597-9e45-6d48bc0b42ca"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Amari Vitality Expansion",
+  "update_time": 1784121128.980094,
+  "voice": null
+}

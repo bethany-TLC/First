@@ -1,0 +1,71 @@
+{
+  "conversation_id": "68d00574-7074-832d-8530-61785bf25e24",
+  "conversation_template_id": null,
+  "create_time": 1758463370.833844,
+  "current_node": "c022363a-d89a-411a-82f7-0261ca6e9df7",
+  "default_model_slug": "gpt-5",
+  "id": "68d00574-7074-832d-8530-61785bf25e24",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "8c511805-d6ac-46ff-8db1-a291361e2c8d": {
+      "id": "8c511805-d6ac-46ff-8db1-a291361e2c8d",
+      "message": null,
+      "parent": null
+    },
+    "bbb21e3c-35cc-4ead-80c8-60de35ff5cae": {
+      "id": "bbb21e3c-35cc-4ead-80c8-60de35ff5cae",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Post about good friends, good times, true protection and love from those looking out for me"
+          ]
+        },
+        "create_time": 1758463370.472479,
+        "id": "bbb21e3c-35cc-4ead-80c8-60de35ff5cae",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "8c511805-d6ac-46ff-8db1-a291361e2c8d"
+    },
+    "c022363a-d89a-411a-82f7-0261ca6e9df7": {
+      "id": "c022363a-d89a-411a-82f7-0261ca6e9df7",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a polished draft you could use as a social post:  \n\n---\n\n\ud83d\udcab Good friends. Good times. True protection. \ud83d\udcab  \n\nLife feels lighter when you\u2019re surrounded by people who genuinely look out for you. The kind of love that doesn\u2019t just show up for the celebrations, but shields you in the storms too. \ud83c\udf27\ufe0f\u27a1\ufe0f\u2600\ufe0f  \n\nGrateful today for the friendships that make me laugh until my sides hurt, protect me without hesitation, and remind me that real love isn\u2019t flashy\u2014it\u2019s steady, safe, and always present. \u2764\ufe0f  \n\nHere\u2019s to more good times with the people who make life brighter and stronger. \ud83e\udd42\u2728  \n\n---  \n\nDo you want me to make a few variations\u2014like one shorter and more casual for Instagram captions, and another more thoughtful for LinkedIn?"
+          ]
+        },
+        "create_time": 1758463370.676161,
+        "id": "c022363a-d89a-411a-82f7-0261ca6e9df7",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "8cebdf19-e489-473f-af91-99b91f2bdcbe"
+        }
+      },
+      "parent": "bbb21e3c-35cc-4ead-80c8-60de35ff5cae"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Social post draft",
+  "update_time": 1758463376.100297,
+  "voice": null
+}

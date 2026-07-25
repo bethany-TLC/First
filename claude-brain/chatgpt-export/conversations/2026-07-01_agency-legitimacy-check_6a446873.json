@@ -1,0 +1,438 @@
+{
+  "conversation_id": "6a446873-c860-83e8-be5f-e45b42cf0ec3",
+  "conversation_template_id": null,
+  "create_time": 1782868117.426299,
+  "current_node": "7dc97111-7f32-40b3-9beb-4e261c895266",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a446873-c860-83e8-be5f-e45b42cf0ec3",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "1bf138cd-da2d-492f-81da-6f8943887cd8": {
+      "id": "1bf138cd-da2d-492f-81da-6f8943887cd8",
+      "message": null,
+      "parent": null
+    },
+    "7dc97111-7f32-40b3-9beb-4e261c895266": {
+      "id": "7dc97111-7f32-40b3-9beb-4e261c895266",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Based on what I can find and the screenshots you shared, I would be cautious.\n\nHere's what stands out:\n\n**Good signs:**\n- They appear to be a real business with an active website and client portal rather than a throwaway landing page. \ue200cite\ue202turn1search0\ue202turn1search1\ue201\n- The Facebook ad indicates they've been in business for 5+ years, though that's a self-reported badge from Meta, not an independent verification.\n\n**Red flags:**\n- **\"$69/month and we even cover your ad spend.\"** That pricing is extraordinarily low. Running successful Meta ads requires:\n  - strategy\n  - creative development\n  - campaign management\n  - optimization\n  - actual ad spend\n\n  Covering all of that for $69/month (or a $19 trial) is not a sustainable business model unless there are significant limitations or upsells.\n\n- The ad is very generic (\"Works for any business, anywhere\"). As someone who works exclusively with med spas, you know effective marketing is highly industry-specific.\n\n- I couldn't find a strong independent reputation such as a substantial number of Google reviews, Clutch profile, case studies, or recognized third-party reviews that would give me confidence in their track record. \ue200cite\ue202turn1search0\ue201\n\n### My guess\nI don't think this is necessarily a scam.\n\nI do think it's likely a **high-volume, low-cost lead generation offer** designed to get businesses into a sales funnel where they're later upsold to higher-priced services.\n\n### If you were considering trying them\nI would ask these questions before paying anything:\n\n- Do **you** own the Meta ad account?\n- Who pays the actual ad spend?\n- What happens after the $19 or $69 offer?\n- Are there contracts or cancellation fees?\n- Can they provide **three recent client references**?\n- What KPIs do they guarantee? Cost per lead? Appointments? ROAS?\n- Who owns the creative assets and landing pages if you leave?\n\nGiven what you do with The Luxora Collective, I'd also be curious from a competitive standpoint. Sometimes these offers are worth investigating simply to understand what competitors are promising.\n\nIf you'd like, I can also do a **deep due diligence** on Roche & Co. Media, including:\n- who owns the company,\n- where they're actually located,\n- how long they've been operating,\n- whether they have lawsuits or complaints,\n- and whether their client testimonials appear authentic."
+          ]
+        },
+        "create_time": 1782868120.357334,
+        "id": "7dc97111-7f32-40b3-9beb-4e261c895266",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "([Rochecomedia](https://www.rochecomedia.com/blog/uncategorized?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Rochecomedia",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 1
+                    },
+                    {
+                      "ref_index": 1,
+                      "ref_type": "search",
+                      "turn_index": 1
+                    }
+                  ],
+                  "snippet": "Experience the Roche & Co. Media Client Portal, your one-stop destination for streamlined access to all your media needs. Enjoy personalized services ...",
+                  "supporting_websites": [
+                    {
+                      "attribution": "Rochecomedia",
+                      "pub_date": null,
+                      "snippet": "Enabling people to grow their companies through sales Funnels. ... Sign in to Roche & Co. Media. Email. Remember me. Sign in with password. First ...Read more",
+                      "title": "Sign in to Roche & Co. Media",
+                      "url": "https://www.rochecomedia.com/contacts/sign_in?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Media Client Portal",
+                  "url": "https://www.rochecomedia.com/blog/uncategorized?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Rochecomedia](https://www.rochecomedia.com/blog/uncategorized?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Rochecomedia",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 1
+                    }
+                  ],
+                  "snippet": "Experience the Roche & Co. Media Client Portal, your one-stop destination for streamlined access to all your media needs. Enjoy personalized services ...",
+                  "supporting_websites": [],
+                  "title": "Media Client Portal",
+                  "url": "https://www.rochecomedia.com/blog/uncategorized?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prefix": null,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "Rochecomedia",
+                  "title": "Media Client Portal",
+                  "url": "https://www.rochecomedia.com/blog/uncategorized?utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Memory",
+                "citation_uuid": "b4b414ad-1f2d-4f3d-badb-4eef636b1dad",
+                "conversation_context_type": "general_memory",
+                "end_idx": -1,
+                "index": 1,
+                "matched_text": "",
+                "prompt_text": null,
+                "reason": "You position your work as med-spa marketing/growth partner.",
+                "refs": [],
+                "snippet": "Positioning: Aesthetic Growth Partner for Med Spas (not a medspa founder).",
+                "start_idx": -1,
+                "title": "You position your work as med-spa marketing/growth partner.",
+                "type": "conversation_context_citation",
+                "url": "#settings/Personalization"
+              },
+              "citation_uuid": "b4b414ad-1f2d-4f3d-badb-4eef636b1dad",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "4abb40da-f9dd-4617-913b-e35604f15577",
+          "search_result_groups": [
+            {
+              "domain": "glassdoor.com",
+              "entries": [
+                {
+                  "attribution": "glassdoor.com",
+                  "snippet": "4 Roche reviews. A free inside look at company reviews and salaries posted anonymously by employees.",
+                  "title": "Roche Digital Marketing Specialist Reviews",
+                  "url": "https://www.glassdoor.com/Reviews/Roche-Digital-Marketing-Specialist-Reviews-EI_IE3480.0%2C5_KO6%2C34.htm?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "glassdoor.com",
+                  "snippet": "Marketing Partner employees have rated Roche with 4.4 out of 5 stars, based on 23 company reviews on Glassdoor. This indicates that most Marketing Partner ...Read more",
+                  "title": "Roche Marketing Partner Reviews",
+                  "url": "https://www.glassdoor.com/Reviews/Roche-Marketing-Partner-Reviews-EI_IE3480.0%2C5_KO6%2C23.htm?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "glassdoor.com",
+                  "snippet": "Roche is a global pioneer in pharmaceuticals and diagnostics focused on advancing science to improve people's lives.Read more",
+                  "title": "Working at Roche",
+                  "url": "https://www.glassdoor.com/Overview/Working-at-Roche-EI_IE3480.11%2C16.htm?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "roche.com",
+              "entries": [
+                {
+                  "attribution": "roche.com",
+                  "snippet": "We combine life-changing diagnostics and medicines to take on the toughest healthcare challenges, those that place the greatest strain on patients, families, ...",
+                  "title": "Roche - Doing now what patients need next",
+                  "url": "https://www.roche.com/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "roche.com",
+                  "snippet": "Roche does not make job offers without prior interviews, nor do we ask for payments of any kind. Unsolicited job offers or requests for payment are fraudulent.Read more",
+                  "title": "Identifying fake job advertisements",
+                  "url": "https://careers.roche.com/global/en/identifying-fake-job-advertisements?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "roche.com",
+                  "snippet": "At Roche we want to make it easy for you to find and apply for a job, which is why we have listed here the most commonly asked questions we receive each week.Read more",
+                  "title": "FAQ",
+                  "url": "https://careers.roche.com/global/en/faq?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "rochecomedia.com",
+              "entries": [
+                {
+                  "attribution": "rochecomedia.com",
+                  "snippet": "Enabling people to grow their companies through sales Funnels. ... Sign in to Roche & Co. Media. Email. Remember me. Sign in with password. First ...Read more",
+                  "title": "Sign in to Roche & Co. Media",
+                  "url": "https://www.rochecomedia.com/contacts/sign_in?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "facebook.com",
+              "entries": [
+                {
+                  "attribution": "facebook.com",
+                  "snippet": "Please be aware of a job scam (see below) running in the US. Don't apply to any home working opportunities from Roche INC.",
+                  "title": "Please be aware of a job scam (see below) running in ...",
+                  "url": "https://www.facebook.com/RocheCareers/posts/please-be-aware-of-a-job-scam-see-below-running-in-the-us-dont-apply-to-any-home/542122179147688/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "wikipedia.org",
+              "entries": [
+                {
+                  "attribution": "wikipedia.org",
+                  "snippet": "Roche is the fifth-largest pharmaceutical company in the world by revenue [6] and the leading provider of cancer treatments globally.Read more",
+                  "title": "Roche",
+                  "url": "https://en.wikipedia.org/wiki/Roche?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "indeed.com",
+              "entries": [
+                {
+                  "attribution": "indeed.com",
+                  "snippet": "Overall it's been a great experience. While I have only been at the organization for a short period, I know I've found a spot to progress my career.Read more",
+                  "title": "reviews - Working as a Marketing Manager at Roche",
+                  "url": "https://www.indeed.com/cmp/Roche/reviews?fjobtitle=Marketing+Manager&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "indeed.com",
+                  "snippet": "Roche Employee Reviews for Marketing Manager Overall rating 4.1 Based on 2,696 reviews 1 Detailed ratings Work-life balance 4.0 4.0 out of 5. Pay and benefits ...",
+                  "title": "Roche Employee Reviews for Marketing Manager",
+                  "url": "https://www.indeed.com/cmp/Roche/reviews?fjobtitle=Marketing+Manager&ftext=Marketing+&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "indeed.com",
+                  "snippet": "Sep 14, 2024 \u2014 It was NOT a good experience working there, they scam a lot of people and I was almost involved with it. They even lied on my interview ...Read more",
+                  "title": "Working with this company causes trouble. Beware",
+                  "url": "https://www.indeed.com/cmp/Roche-Consulting/reviews/working-with-this-company-causes-trouble-beware?id=f1b6bbea3730bdea&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "indeed.com",
+                  "snippet": "A very toxic environment, unethical, backstabbing and vendetta strategies. Harrasement towards females by management, and cultural remarks from some of the ...Read more",
+                  "title": "Roche Employee Reviews for Marketing Manager",
+                  "url": "https://www.indeed.com/cmp/Roche/reviews?fcountry=ALL&fjobtitle=Marketing+Manager&ftext=Marketing+&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "indeed.com",
+                  "snippet": "I found Roche to be a great place to work. My managers and coworkers were professional, smart, and had a good attitude. The pay and benefits are excellent, as ...Read more",
+                  "title": "Good company but too woke",
+                  "url": "https://www.indeed.com/cmp/Roche/reviews/good-company-but-too-woke?id=48a9a3cb283ffd88&utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "justanswer.com",
+              "entries": [
+                {
+                  "attribution": "justanswer.com",
+                  "snippet": "Nov 14, 2011 \u2014 I was offered a position with Roche, Inc. via yahoo messenger. They said they will send a check for setting up my home.",
+                  "title": "Is a Work-From-Home Job Offer from Roche Real or Scam?",
+                  "url": "https://www.justanswer.com/general/5tv5a-offered-position-roche-inc-via-yahoo-messenger.html?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "linkedin.com",
+              "entries": [
+                {
+                  "attribution": "linkedin.com",
+                  "snippet": "Roche is a global pioneer in pharmaceuticals and diagnostics focused on advancing science to improve people's lives.Read more",
+                  "title": "Roche",
+                  "url": "https://www.linkedin.com/company/roche?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "linkedin.com",
+                  "snippet": "Dynamic professional with 16+ years of experience in digital data analysis and business intelligence. Expert in developing dashboards using Looker Studio, ...Read more",
+                  "title": "Chandra Roche - Digital Audience Analyst",
+                  "url": "https://www.linkedin.com/in/chandraroche?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "reddit.com",
+              "entries": [
+                {
+                  "attribution": "reddit.com",
+                  "snippet": "Hi everyone. So recently I joined a marketing firm (about 3 weeks in) north of Boston and I have a few concerns: * the pay seems weird. There's an hourly ...",
+                  "title": "Is this marketing firm I joined a scam?",
+                  "url": "https://www.reddit.com/r/marketing/comments/162fmnw/is_this_marketing_firm_i_joined_a_scam/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "trustpilot.com",
+              "entries": [
+                {
+                  "attribution": "trustpilot.com",
+                  "snippet": "Jan 4, 2026 \u2014 6 people have already reviewed Roche. Read about their experiences and share your own!",
+                  "title": "Read Customer Service Reviews of roche.com",
+                  "url": "https://www.trustpilot.com/review/roche.com?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "trustpilot.com",
+                  "snippet": "every review on our platform\u2014verified or not\u2014is screened by our 24/7 automated software. Poor TrustScore 2 out of 5 13 reviews 5-star. See how their reviews ...",
+                  "title": "Read Customer Service Reviews of www.roche.de",
+                  "url": "https://www.trustpilot.com/review/www.roche.de?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "trustpilot.com",
+                  "snippet": "Do you agree with JRR Marketing's 4-star rating? Check out what 30 people have written so far, and share your own experience.",
+                  "title": "JRR Marketing Reviews 30",
+                  "url": "https://www.trustpilot.com/review/josiahroche.co?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "rochecom.com",
+              "entries": [
+                {
+                  "attribution": "rochecom.com",
+                  "snippet": "We're a full-service, integrated media agency creating impactful communications for hospitality and lifestyle businesses, as well as food and drink brands.Read more",
+                  "title": "Roche Communications | Hospitality PR & Marketing Agency",
+                  "url": "https://www.rochecom.com/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "ggu.edu",
+              "entries": [
+                {
+                  "attribution": "ggu.edu",
+                  "snippet": "by R Thomas \u00b7 2001 \u00b7 Cited by 2 \u2014 In Roche v. Worldwide Media, Inc.,l the United States. District Court for the Eastern District of Virginia discussed the issue of personal jurisdiction in ...Read mor...",
+                  "title": "Roche v. Worldwide Media, Inc. - GGU Law Digital Commons",
+                  "url": "https://digitalcommons.law.ggu.edu/cgi/viewcontent.cgi?article=1815&context=ggulrev&utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "bbb21802-760e-4dda-b2bb-72c689681c8d"
+    },
+    "bbb21802-760e-4dda-b2bb-72c689681c8d": {
+      "id": "bbb21802-760e-4dda-b2bb-72c689681c8d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_000000008e30722fa6292d7a8524d62a",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 2244,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 97007,
+              "width": 1008
+            },
+            {
+              "asset_pointer": "sediment://file_000000008f74722fa24bf116bcc95e66",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 2244,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 135190,
+              "width": 1008
+            },
+            "Who is this agency and are they legit "
+          ]
+        },
+        "create_time": 1782868117.148548,
+        "id": "bbb21802-760e-4dda-b2bb-72c689681c8d",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_000000008e30722fa6292d7a8524d62a",
+              "mime_type": "image/png",
+              "name": "1000020493.png",
+              "size": 97007
+            },
+            {
+              "id": "file_000000008f74722fa24bf116bcc95e66",
+              "mime_type": "image/png",
+              "name": "1000020494.png",
+              "size": 135190
+            }
+          ],
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "1bf138cd-da2d-492f-81da-6f8943887cd8"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Agency Legitimacy Check",
+  "update_time": 1782868127.7261,
+  "voice": null
+}

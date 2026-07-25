@@ -1,0 +1,305 @@
+{
+  "conversation_id": "69f6bc78-f8a8-83ea-b7a8-934cd235e23e",
+  "conversation_template_id": null,
+  "create_time": 1777777788.944034,
+  "current_node": "4077c4d3-a055-4c87-9daa-a5f830ad4121",
+  "default_model_slug": "gpt-5-3",
+  "id": "69f6bc78-f8a8-83ea-b7a8-934cd235e23e",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "4077c4d3-a055-4c87-9daa-a5f830ad4121": {
+      "id": "4077c4d3-a055-4c87-9daa-a5f830ad4121",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "The \ue200entity\ue202[\"mobile_app\",\"Liven\",\"self-discovery wellness app\"]\ue201 app is a **mental wellness and self-improvement app**. It\u2019s designed to help you understand your thoughts, emotions, and habits, and gradually improve them.\n\n### What it does\nLiven is often described as a **\u201cself-discovery companion.\u201d** Instead of being a traditional therapy app, it focuses on helping you reflect on your daily life and build better habits. \ue200cite\ue202turn0search0\ue202turn0search5\ue201  \n\n### Key features\n- **Mood tracking** \u2013 log how you feel throughout the day  \n- **Personalized programs** \u2013 set goals like improving confidence or reducing stress  \n- **Habit & routine builder** \u2013 create small daily actions to change behavior  \n- **Reflection tools/journaling** \u2013 understand your thoughts and patterns  \n- **Guided exercises** \u2013 based on psychology techniques (like CBT-style approaches) \ue200cite\ue202turn0search1\ue202turn0search2\ue201  \n\n### What it\u2019s for\nPeople typically use it to:\n- Manage stress or anxiety  \n- Improve self-confidence or mindset  \n- Build better routines (sleep, productivity, etc.)  \n- Get more self-awareness about their emotions and behavior  \n\n### Simple explanation\nThink of Liven as a **\u201cdaily mental check-in + habit coach\u201d** in one app\u2014it helps you pause, reflect, and make small improvements over time rather than overwhelming you with big changes. \ue200cite\ue202turn0search8\ue201  \n\n---\n\nIf you want, tell me why you\u2019re considering it (stress, habits, focus, etc.), and I can tell you if it\u2019s actually worth using for your situation."
+          ]
+        },
+        "create_time": 1777712855.352691,
+        "id": "4077c4d3-a055-4c87-9daa-a5f830ad4121",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "Liven",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "self-discovery wellness app"
+              },
+              "id": "SmU4JYfiTL6VnLB9",
+              "metadata": null,
+              "name": "Liven",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Liven",
+              "type": "entity"
+            },
+            {
+              "alt": "([Liven Help Center](https://support.theliven.com/hc/en-us/articles/24136293057170-What-Is-Liven?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Liven Help Center",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 5,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Feb 18, 2026 \u2014 Liven is your self-discovery companion. It's designed to help you pause, reflect, and better understand how you think and speak to yourself.Read more",
+                  "supporting_websites": [
+                    {
+                      "attribution": "Autonomous",
+                      "pub_date": null,
+                      "snippet": "Aug 26, 2025 \u2014 The Liven app is marketed as a self-discovery companion designed to improve emotional well-being through mood tracking, habit formation, and personalized ...Read more",
+                      "title": "Liven App Review: Worth It? Pricing & Full Features",
+                      "url": "https://www.autonomous.ai/ourblog/liven-app-review-a-mental-wellness-tool-for-productivity-and-focus?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "What Is Liven?",
+                  "url": "https://support.theliven.com/hc/en-us/articles/24136293057170-What-Is-Liven?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([App Store](https://apps.apple.com/us/app/liven-discover-yourself/id6450840109?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "App Store",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 1,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 2,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Liven is your self-discovery companion, a system of tools designed to help you better understand and transform yourself.Read more",
+                  "supporting_websites": [
+                    {
+                      "attribution": "Reddit",
+                      "pub_date": null,
+                      "snippet": "I recently came across an app called Liven, which focuses on mental wellness and habit building. It uses CBT-based techniques and includes features like mood ...Read more",
+                      "title": "Has anyone tried the Liven app for habit-building or mental ...",
+                      "url": "https://www.reddit.com/r/VHA_Human_Resources/comments/1l6zvtc/has_anyone_tried_the_liven_app_for_habitbuilding/?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Liven: Discover yourself - App Store - Apple",
+                  "url": "https://apps.apple.com/us/app/liven-discover-yourself/id6450840109?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([The Everygirl](https://theeverygirl.com/liven-app-review/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "The Everygirl",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 8,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Sep 18, 2025 \u2014 The gist: The Liven app is a self-discovery companion that helps you check in with yourself in just 10 minutes a day. \u00b7 Features I used most: ...Read more",
+                  "supporting_websites": [],
+                  "title": "Liven Review: The 10-Minute Habit That Pulled Me Out of a ...",
+                  "url": "https://theeverygirl.com/liven-app-review/?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prefix": null,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "Liven Help Center",
+                  "title": "What Is Liven?",
+                  "url": "https://support.theliven.com/hc/en-us/articles/24136293057170-What-Is-Liven?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "App Store",
+                  "title": "Liven: Discover yourself - App Store - Apple",
+                  "url": "https://apps.apple.com/us/app/liven-discover-yourself/id6450840109?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "The Everygirl",
+                  "title": "Liven Review: The 10-Minute Habit That Pulled Me Out of a ...",
+                  "url": "https://theeverygirl.com/liven-app-review/?utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "instant_answer_used": true,
+          "model_slug": "gpt-5-3",
+          "parent_id": "76966298-4f6e-48ff-9c3b-b8bdf4712efd",
+          "search_result_groups": [
+            {
+              "domain": "reddit.com",
+              "entries": [
+                {
+                  "attribution": "reddit.com",
+                  "snippet": "I recently came across an app called Liven, which focuses on mental wellness and habit building. It uses CBT-based techniques and includes features like mood ...Read more",
+                  "title": "Has anyone tried the Liven app for habit-building or mental ...",
+                  "url": "https://www.reddit.com/r/VHA_Human_Resources/comments/1l6zvtc/has_anyone_tried_the_liven_app_for_habitbuilding/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "reddit.com",
+                  "snippet": "It has an app you download with guided meditation, breathing exercises, and other guided programs for different issues (procrastination, self- ...",
+                  "title": "Have you tried Liven? How does it work?? : r/productivity",
+                  "url": "https://www.reddit.com/r/productivity/comments/191th5x/have_you_tried_liven_how_does_it_work/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "theliven.com",
+              "entries": [
+                {
+                  "attribution": "theliven.com",
+                  "snippet": "Get ready for a journey of self-discovery with a science-based approach to behavioral transformations in the Liven App.",
+                  "title": "Liven | Your Well-being App & Self-Discovery Companion",
+                  "url": "https://theliven.com/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "theliven.com",
+                  "snippet": "Self-discovery journey Articles that will help you plan your self-discovery journey with the Liven app. Getting help How to contact Liven support team.Read more",
+                  "title": "Self-discovery companion | Help Center",
+                  "url": "https://support.theliven.com/hc/en-us?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "medium.com",
+              "entries": [
+                {
+                  "attribution": "medium.com",
+                  "snippet": "Liven is a tool that helps users develop strategies that allow them to become better and have a more productive view of themselves.Read more",
+                  "title": "Trying Out the Liven App: My Self-Exploration Journey",
+                  "url": "https://medium.com/%40Steven_Taylor/trying-out-the-liven-app-my-self-exploration-journey-8f9fda98db51?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "autonomous.ai",
+              "entries": [
+                {
+                  "attribution": "autonomous.ai",
+                  "snippet": "Aug 26, 2025 \u2014 The Liven app is marketed as a self-discovery companion designed to improve emotional well-being through mood tracking, habit formation, and personalized ...Read more",
+                  "title": "Liven App Review: Worth It? Pricing & Full Features",
+                  "url": "https://www.autonomous.ai/ourblog/liven-app-review-a-mental-wellness-tool-for-productivity-and-focus?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "google.com",
+              "entries": [
+                {
+                  "attribution": "google.com",
+                  "snippet": "Liven is your self-discovery companion, a system of tools designed to help you better understand and transform yourself. WHO'S LIVEN FOR?Read more",
+                  "title": "Liven: Discover yourself - Apps on Google Play",
+                  "url": "https://play.google.com/store/apps/details?hl=en&id=com.theliven.livenhabits&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "google.com",
+                  "snippet": "Liven is your self-discovery companion, a system of tools designed to help you better understand and transform yourself.Read more",
+                  "title": "Liven: Discover yourself - Apps on Google Play",
+                  "url": "https://play.google.com/store/apps/details?id=com.theliven.livenhabits&utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "liven-app.webflow.io",
+              "entries": [
+                {
+                  "attribution": "liven-app.webflow.io",
+                  "snippet": "The Liven app is a digital self-discovery tool designed to help users explore their inner patterns and build meaningful daily routines. Rather than focusing on ...",
+                  "title": "Liven App Review: Your Self-Discovery Companion",
+                  "url": "https://liven-app.webflow.io/?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "bbb21d77-55ac-4949-a74d-e5afa939ce93"
+    },
+    "bbb21d77-55ac-4949-a74d-e5afa939ce93": {
+      "id": "bbb21d77-55ac-4949-a74d-e5afa939ce93",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "What is liven app"
+          ]
+        },
+        "create_time": 1777777788.757061,
+        "id": "bbb21d77-55ac-4949-a74d-e5afa939ce93",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "d9006638-f7de-4011-ab46-47b73eedb8a7"
+    },
+    "d9006638-f7de-4011-ab46-47b73eedb8a7": {
+      "id": "d9006638-f7de-4011-ab46-47b73eedb8a7",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Liven app overview",
+  "update_time": 1777777791.627317,
+  "voice": null
+}

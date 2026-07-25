@@ -1,0 +1,96 @@
+{
+  "conversation_id": "6a4a8e30-6864-83e8-be02-5b495ca2d084",
+  "conversation_template_id": null,
+  "create_time": 1783271146.446021,
+  "current_node": "6304f125-290f-4eca-8aff-15a18b4e1649",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a4a8e30-6864-83e8-be02-5b495ca2d084",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "6304f125-290f-4eca-8aff-15a18b4e1649": {
+      "id": "6304f125-290f-4eca-8aff-15a18b4e1649",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here's a warm, reflective caption with a touch of romance:\n\n:::writing{variant=\"social_post\" id=\"79314\"}\nThis Fourth of July was one for the books. \ud83c\uddfa\ud83c\uddf8\u2764\ufe0f\n\nI got to spend the day soaking up the sunshine with my California girls, laughing by the pool, making memories, and doing life with some of my favorite people. And getting to share it all with my sweet (and ridiculously sexy \ud83d\ude09) man made it even better.\n\nWe wrapped up the night on top of the hill overlooking Middle Tennessee, surrounded by friends as fireworks lit up the sky in every direction. It honestly felt like 360 degrees of sparkles stretching as far as you could see. One of those moments where you stop talking, take it all in, and quietly thank God for where life has brought you.\n\nA year ago, life looked so different. Today, it's filled with peace, genuine friendships, unconditional love, and the kind of joy that can't be forced\u2014it has to be found.\n\nHere's to freedom, fresh starts, and making memories with the people who make life so incredibly beautiful. \u2764\ufe0f\ud83e\udd0d\ud83d\udc99\n:::\n\nIf you'd like, I can also make it a little sassier, more emotional, or more faith-centered."
+          ]
+        },
+        "create_time": 1783271146.385218,
+        "id": "6304f125-290f-4eca-8aff-15a18b4e1649",
+        "metadata": {
+          "content_references": [],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Memory",
+                "citation_uuid": "8e01392f-e86f-48d7-9ab1-e45660e247b8",
+                "conversation_context_type": "general_memory",
+                "end_idx": -1,
+                "index": 0,
+                "matched_text": "",
+                "prompt_text": null,
+                "reason": "You are Christian and reference God in your writing.",
+                "refs": [],
+                "snippet": "\u201cI love God. Jesus is my king.\u201d",
+                "start_idx": -1,
+                "title": "You are Christian and reference God in your writing.",
+                "type": "conversation_context_citation",
+                "url": "#settings/Personalization"
+              },
+              "citation_uuid": "8e01392f-e86f-48d7-9ab1-e45660e247b8",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "07957b6f-2f07-4a62-9c19-1ca531dc81f4"
+        }
+      },
+      "parent": "bbb21b55-ca98-4e93-b157-7845c74eecbf"
+    },
+    "bbb21b55-ca98-4e93-b157-7845c74eecbf": {
+      "id": "bbb21b55-ca98-4e93-b157-7845c74eecbf",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write. Fourth of July post about hanging with my California girls and my sweet and sexy man doing life with friends at the pool. Followed up with more friend time on top the hill overlooking ALL the fireworks middle TN had to offer 360 degrees of sparkles in the sky. "
+          ]
+        },
+        "create_time": 1783271146.143328,
+        "id": "bbb21b55-ca98-4e93-b157-7845c74eecbf",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "ccfc756c-3480-4fff-aafe-0ba96693b903"
+    },
+    "ccfc756c-3480-4fff-aafe-0ba96693b903": {
+      "id": "ccfc756c-3480-4fff-aafe-0ba96693b903",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Fourth of July Memories",
+  "update_time": 1783271211.643657,
+  "voice": null
+}

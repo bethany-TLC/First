@@ -1,0 +1,72 @@
+{
+  "conversation_id": "68af42b7-58c0-8323-8ff2-9ceb954da2ea",
+  "conversation_template_id": null,
+  "create_time": 1756316367.693242,
+  "current_node": "87b0702e-dc5e-4def-9226-9e9dbf89ac0f",
+  "default_model_slug": "auto",
+  "id": "68af42b7-58c0-8323-8ff2-9ceb954da2ea",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "2e6f1052-3a6e-4789-944a-14f025c51431": {
+      "id": "2e6f1052-3a6e-4789-944a-14f025c51431",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "alte this to add in heatlth and wellness clincs and practionors: Hosted by Bethany Gifford, The Aesthetic Edge is the podcast where the most innovative minds in the aesthetic space share the real strategies, stories, and secrets behind their success. From med spa owners and dermatologists to plastic surgeons and rising beauty industry disruptors, we go beyond the surface to uncover what\u2019s actually working in the world of aesthetics. \n\r\nWhether you're a seasoned practitioner, an aesthetic business owner, an aspiring entrepreneur\u2014or simply someone trying to figure out where to go, what to try, and what beauty products/treatments/procedures are worth your money\u2014this podcast is for you. We cover the newest treatments, top-rated skincare, and trusted providers across the country, so you can stay informed, inspired, and glowing from the inside out."
+          ]
+        },
+        "create_time": 1756316367.389,
+        "id": "2e6f1052-3a6e-4789-944a-14f025c51431",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "87b0702e-dc5e-4def-9226-9e9dbf89ac0f": {
+      "id": "87b0702e-dc5e-4def-9226-9e9dbf89ac0f",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a version that seamlessly weaves in **health and wellness clinics/practitioners** while keeping your original flow and tone:  \n\n---\n\n**Hosted by Bethany Gifford, The Aesthetic Edge is the podcast where the most innovative minds in the aesthetic and wellness space share the real strategies, stories, and secrets behind their success. From med spa owners, dermatologists, and plastic surgeons to functional medicine providers, wellness clinic founders, and rising industry disruptors\u2014we go beyond the surface to uncover what\u2019s actually working in the worlds of aesthetics and health.**  \n\n**Whether you're a seasoned practitioner, a wellness or aesthetic business owner, an aspiring entrepreneur\u2014or simply someone trying to figure out where to go, what to try, and which beauty, health, and wellness treatments are truly worth your money\u2014this podcast is for you. We cover the newest treatments, evidence-based wellness approaches, top-rated skincare, and trusted providers across the country, so you can stay informed, inspired, and glowing from the inside out.**  \n\n---  \n\nWould you like me to make two **versions**\u2014one that leans heavier on aesthetics and one that leans more into wellness\u2014so you can use depending on your guest?"
+          ]
+        },
+        "create_time": 1756316367.537337,
+        "id": "87b0702e-dc5e-4def-9226-9e9dbf89ac0f",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "ad75da68-bcbf-4002-ad4d-33fbdb179e0d"
+        }
+      },
+      "parent": "2e6f1052-3a6e-4789-944a-14f025c51431"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Aesthetic podcast update",
+  "update_time": 1756316409.599702,
+  "voice": null
+}

@@ -1,0 +1,185 @@
+{
+  "conversation_id": "69e4e6ba-f76c-83ea-83d6-bff92ba091bd",
+  "conversation_template_id": null,
+  "create_time": 1776608955.61369,
+  "current_node": "d4743dd0-5fb9-4be8-995c-5f25941b916d",
+  "default_model_slug": "gpt-5-3",
+  "id": "69e4e6ba-f76c-83ea-83d6-bff92ba091bd",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "3464f128-9082-466a-8d85-5917cb7e974f": {
+      "id": "3464f128-9082-466a-8d85-5917cb7e974f",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "We had the best time celebrating opening day at \ue200entity\ue202[\"local_business\",\"The Raven\",\"Nashville, TN, USA\"]\ue201 \ud83d\udda4\n\nBetween the books, the mocktails, and the overall atmosphere\u2026 it just felt so cozy and intentional in the best way. One of those places you can actually slow down and enjoy being there.\n\nSuch a fun night with us girls, lots of laughs and just a really good time all around. If you haven\u2019t been yet, you need to go \u2728"
+          ]
+        },
+        "create_time": 1776608991.038428,
+        "id": "3464f128-9082-466a-8d85-5917cb7e974f",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "The Raven",
+              "prefix": null,
+              "prompt_text": "The Raven",
+              "render_as": null,
+              "type": "alt_text"
+            }
+          ],
+          "model_slug": "gpt-5-3",
+          "parent_id": "670fb3fd-2659-4910-a6c9-5754b5f7580e"
+        }
+      },
+      "parent": "bbb21b30-8710-45c8-9fc0-4b528fea6ea2"
+    },
+    "8aa5b7df-3ea4-465f-bb44-50df92f309c5": {
+      "id": "8aa5b7df-3ea4-465f-bb44-50df92f309c5",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Had the best time celebrating opening day at \ue200entity\ue202[\"local_business\",\"The Raven\",\"Nashville, TN, USA\"]\ue201 \ud83d\udda4\n\nThe energy was unreal, every detail was so thoughtfully done, and you can just feel the intention behind the space. It\u2019s always inspiring to see something new come to life, especially when it\u2019s done this well.\n\nSo fun getting to experience it with you all. If you haven\u2019t been yet, it\u2019s definitely worth checking out \u2728"
+          ]
+        },
+        "create_time": 1776608955.544224,
+        "id": "8aa5b7df-3ea4-465f-bb44-50df92f309c5",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "The Raven",
+              "prefix": null,
+              "prompt_text": "The Raven",
+              "render_as": null,
+              "type": "alt_text"
+            }
+          ],
+          "model_slug": "gpt-5-3",
+          "parent_id": "391ee117-e57c-4937-a045-baa91d529e04"
+        }
+      },
+      "parent": "bbb211cc-4b7d-4f0f-b4d0-64bb7805f119"
+    },
+    "a5859bab-24bc-4ff7-8396-e90b637521f9": {
+      "id": "a5859bab-24bc-4ff7-8396-e90b637521f9",
+      "message": null,
+      "parent": null
+    },
+    "bbb211cc-4b7d-4f0f-b4d0-64bb7805f119": {
+      "id": "bbb211cc-4b7d-4f0f-b4d0-64bb7805f119",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write a quick post inside the Her Circle group saying how fun it was to visit The Raven on opening day"
+          ]
+        },
+        "create_time": 1776608955.3627,
+        "id": "bbb211cc-4b7d-4f0f-b4d0-64bb7805f119",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "a5859bab-24bc-4ff7-8396-e90b637521f9"
+    },
+    "bbb21b30-8710-45c8-9fc0-4b528fea6ea2": {
+      "id": "bbb21b30-8710-45c8-9fc0-4b528fea6ea2",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Say we and make it about the books, mocktials and atmosphere and good time with us girls "
+          ]
+        },
+        "create_time": 1776608990.60743,
+        "id": "bbb21b30-8710-45c8-9fc0-4b528fea6ea2",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "8aa5b7df-3ea4-465f-bb44-50df92f309c5"
+    },
+    "bbb21b3f-45de-4dfb-bedd-d3065a617d2d": {
+      "id": "bbb21b3f-45de-4dfb-bedd-d3065a617d2d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Now write me an Instagram reel post on my page about it"
+          ]
+        },
+        "create_time": 1776609237.082521,
+        "id": "bbb21b3f-45de-4dfb-bedd-d3065a617d2d",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "3464f128-9082-466a-8d85-5917cb7e974f"
+    },
+    "d4743dd0-5fb9-4be8-995c-5f25941b916d": {
+      "id": "d4743dd0-5fb9-4be8-995c-5f25941b916d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "We found our new favorite spot \ud83d\udda4\ud83d\udcda\u2728  \n\nSpent opening day at \ue200entity\ue202[\"local_business\",\"The Raven\",\"Nashville, TN, USA\"]\ue201 and it was everything\u2026 cozy corners, the cutest book selection, mocktails that actually hit, and the kind of atmosphere you don\u2019t want to leave.  \n\nJust one of those nights where you\u2019re laughing with your girls, sipping something good, flipping through books, and thinking\u2026 this is it \ud83e\udd0d  \n\nIf you\u2019re in Nashville, go experience it for yourself. It\u2019s a vibe.  \n\n#NashvilleSpots #GirlsNight #CozyVibes #NashvilleLife #BookLovers #Mocktails #NashvilleTN #TheRaven"
+          ]
+        },
+        "create_time": 1776609237.23157,
+        "id": "d4743dd0-5fb9-4be8-995c-5f25941b916d",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "The Raven",
+              "prefix": null,
+              "prompt_text": "The Raven",
+              "render_as": null,
+              "type": "alt_text"
+            }
+          ],
+          "model_slug": "gpt-5-3",
+          "parent_id": "bbb21b3f-45de-4dfb-bedd-d3065a617d2d"
+        }
+      },
+      "parent": "bbb21b3f-45de-4dfb-bedd-d3065a617d2d"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Opening Day at The Raven",
+  "update_time": 1776609242.044665,
+  "voice": null
+}

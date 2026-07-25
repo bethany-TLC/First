@@ -1,0 +1,1537 @@
+{
+  "conversation_id": "69a5f443-f940-832b-8782-4eb2b0855900",
+  "conversation_template_id": null,
+  "create_time": 1772483679.610623,
+  "current_node": "efb13a28-f974-4d6e-9d02-0e222d5ca925",
+  "default_model_slug": "gpt-5-2",
+  "id": "69a5f443-f940-832b-8782-4eb2b0855900",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "aa6cb1d1-aada-4a4d-815b-def74eae0164": {
+      "id": "aa6cb1d1-aada-4a4d-815b-def74eae0164",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_00000000697871fdaae62ec32860cc4b",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 958,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 144132,
+              "width": 558
+            },
+            {
+              "asset_pointer": "sediment://file_0000000015a471fd81fee048a16a766a",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 868,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 89935,
+              "width": 928
+            },
+            "My laptop is going to need to be replaced soon. Will you get pricing on two different models based on the attached screenshots? also need pricing and side byside comparasion"
+          ]
+        },
+        "create_time": 1772491325.273,
+        "id": "aa6cb1d1-aada-4a4d-815b-def74eae0164",
+        "metadata": {
+          "attachments": [
+            {
+              "height": 958,
+              "id": "file_00000000697871fdaae62ec32860cc4b",
+              "is_big_paste": false,
+              "library_file_id": "libfile_2263392f4a6c81919590720f4c4d8dca",
+              "mime_type": "image/png",
+              "name": "image (1).png",
+              "size": 144132,
+              "source": "library",
+              "width": 558
+            },
+            {
+              "height": 868,
+              "id": "file_0000000015a471fd81fee048a16a766a",
+              "is_big_paste": false,
+              "library_file_id": "libfile_3466212704908191bc70bbbacf9d9e13",
+              "mime_type": "image/png",
+              "name": "Screenshot 2026-02-27 at 9.45.12\u202fAM.png",
+              "size": 89935,
+              "source": "library",
+              "width": 928
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "efb13a28-f974-4d6e-9d02-0e222d5ca925": {
+      "id": "efb13a28-f974-4d6e-9d02-0e222d5ca925",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a **pricing comparison and side-by-side view** for **your two laptops** based on the screenshots:  \n\u2022 A **15-inch MacBook Air (M2, 2023)** \u2014 this will be a replacement for your current M2 15\" Air.  \n\u2022 A **13-inch MacBook Air (M1, 2020)** \u2014 your older device that you\u2019re considering upgrading from. \ue200cite\ue202turn0search0\ue201\n\n---\n\n## \ud83d\udcbb **Current Prices on Available (New or Refurb) Models**\n\n\ue200products\ue202{\"selections\":[\n[\"turn0product2\",\"15\\\" MacBook Air M2 (8GB/256GB)\"],\n[\"turn0product17\",\"15\\\" MacBook Air M2 (8GB/512GB)\"],\n[\"turn0product10\",\"15\\\" MacBook Air M2 (8GB/1TB)\"],\n[\"turn0product1\",\"13\\\" MacBook Air M1 (8GB/256GB)\"],\n[\"turn0product11\",\"13\\\" MacBook Air M1 (8GB/256GB)\"],\n[\"turn0product18\",\"13\\\" MacBook Air M1 (16GB/1TB)\"],\n[\"turn0product16\",\"13\\\" MacBook Air M1 (128GB)\"],\n[\"turn0product3\",\"13\\\" MacBook Air M1 (refurb)\"]\n]}\ue201\n\n### \ud83d\udca1 Typical Price Ranges (as of now, US listings)\n**\ud83d\udccc 15-inch MacBook Air M2 (your current model type)**  \n- **\ue200entity\ue202[\"turn0product2\",\"15\\\" MacBook Air M2 (8GB/256GB)\",0]\ue201** \u2013 ~$829 (good savings vs retail)  \n- **\ue200entity\ue202[\"turn0product17\",\"15\\\" MacBook Air M2 (8GB/512GB)\",0]\ue201** \u2013 ~$969  \n- **\ue200entity\ue202[\"turn0product10\",\"15\\\" MacBook Air M2 (8GB/1TB)\",0]\ue201** \u2013 ~$903 (1TB model option)\n\n**\ud83d\udda5 13-inch MacBook Air M1 (your older model style)**  \n- **\ue200entity\ue202[\"turn0product1\",\"13\\\" MacBook Air M1 (8GB/256GB)\",0]\ue201** \u2013 ~$764 (new or open-box)  \n- **\ue200entity\ue202[\"turn0product11\",\"13\\\" MacBook Air M1 (8GB/256GB)\",0]\ue201** \u2013 ~$579 (other retailer)  \n- **\ue200entity\ue202[\"turn0product18\",\"13\\\" MacBook Air M1 (16GB/1TB)\",0]\ue201** \u2013 ~$559 (higher storage, used grade)  \n- **\ue200entity\ue202[\"turn0product16\",\"13\\\" MacBook Air M1 (128GB)\",0]\ue201** \u2013 ~$399 (lower storage)  \n- **\ue200entity\ue202[\"turn0product3\",\"13\\\" MacBook Air M1 (refurb)\",0]\ue201** \u2013 ~$394 (refurb option)\n\n**Notes**  \n\u2022 Apple\u2019s *original retail prices* for these laptops were roughly: ~ $1,199 for 15\" M2 and ~ $999 for 13\" M1 when new from Apple\u2019s online store. \ue200cite\ue202turn0search0\ue201  \n\u2022 Current listings here are mostly used/refurb or marketplace deals since these models are not sold new on Apple\u2019s primary site anymore (older generations being phased out).\n\n---\n\n## \ud83d\udcca **Side-by-Side Comparison**\n| Feature | **15\" MacBook Air (M2, 2023)** | **13\" MacBook Air (M1, 2020)** |\n|---------|-------------------------------|------------------------------|\n| **Chip** | Apple M2 (faster, newer) | Apple M1 (older generation) |\n| **Display Size** | ~15.3-inch larger screen | ~13.3-inch smaller screen |\n| **Memory in Your Config** | 8GB unified | 8GB unified |\n| **Typical Price (used/refurb)** | ~$829\u2013$969+ | ~$394\u2013$764 |\n| **Performance** | Faster CPU/GPU | Still capable but slower |\n| **Battery Life** | Similar long-lasting (~15\u201318 hrs) | ~18 hrs in real use |\n| **Webcam** | Better 1080p camera | Older 720p camera |\n| **Ports** | MagSafe + USB-C | USB-C only |\n\n\ud83d\udcca **Key Notes from Comparisons**\n\u2022 The 15\" M2 Air is **generally superior** \u2014 bigger screen, newer chip, improved design, and slightly better performance overall. \ue200cite\ue202turn0search21\ue201  \n\u2022 The M1 13\" still runs well for everyday tasks but will age faster in performance and limits more demanding workflows (video editing, heavy multitasking).  \n\u2022 Battery life on the M1 can still be quite respectable for typical office/productivity work. \ue200cite\ue202turn0search21\ue201\n\n---\n\n## \ud83d\udca1 So What Should You Consider?\n\n### \ud83d\udcb0 **Budget Oriented**\nIf cost matters most and your tasks are lightweight (email, web, documents), a **refurb M1 13\"** might be acceptable and very cheap.\n\n### \ud83d\ude80 **Performance & Longevity**\nIf you want a laptop that will **stay fast and capable for years**, the **15\" M2** model is generally the better upgrade \u2014 it has a newer processor and larger display.\n\n### \ud83d\udcca **Future Use**\nBecause the M2 line is newer, it will get **longer support** with macOS updates and performance improvements.\n\n---\n\nIf you want a clean **summary chart** with direct Apple *retail pricing* or adjusted comparisons including battery, storage, and weight, just let me know the specific configurations you\u2019re thinking about!"
+          ]
+        },
+        "create_time": 1772483689.118434,
+        "id": "efb13a28-f974-4d6e-9d02-0e222d5ca925",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "([Apple](https://www.apple.com/shop/buy-mac/macbook-air?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Apple",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Have questions about buying a Mac? Chat with a Mac Specialist(Opens in a new window). Select a size: 13-inchFrom $999. 15-inchFrom $1199. 13-inch MacBook Air ...Read more",
+                  "supporting_websites": [],
+                  "title": "Buy MacBook Air",
+                  "url": "https://www.apple.com/shop/buy-mac/macbook-air?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "### [15\" MacBook Air M2 (8GB/256GB)](https://www.walmart.com/ip/Apple-MacBook-Air-15-2023-M2-8-Core-10-Core-GPU-3-49GHz-256GB-SSD-16GB-Memory-MQKP3LL-A-A2941-15-inch-Display-Space-Gray-Grade-A-Cosmetics-Good/19465856207?wmlspartner=wlpa&selectedSellerId=101621591&utm_source=chatgpt.com)\n*$829.00*\n\n### [15\" MacBook Air M2 (8GB/512GB)](https://www.walmart.com/ip/Apple-MacBook-Air-15-2023-Apple-M2-8-Core-10-Core-GPU-3-49GHz-512GB-SSD-16GB-Memory-MQKX3LL-A-A2941-15-inch-Display-Midnight-Grade-A-Cosmetics/19628870144?wmlspartner=wlpa&selectedSellerId=101621591&utm_source=chatgpt.com)\n*$969.00*\n\n### [15\" MacBook Air M2 (8GB/1TB)](https://www.backmarket.com/en-us/p/macbook-air-2023-153-inch-m2-8-core-and-10-core-gpu-8gb-ram-ssd-1000gb/91004aaf-355a-441d-97f6-bf6dde0e147d?utm_source=chatgpt.com)\n*$903.00*\n\n### [13\" MacBook Air M1 (8GB/256GB)](https://www.bestbuy.com/product/macbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray/JJ8ZHP82L3/sku/12062339?loc=marketplace&utm_source=chatgpt.com)\n*$764.95*\n\n### [13\" MacBook Air M1 (8GB/256GB)](https://www.macoutlet.com/product-page/macbook-air-13-2020-m1-8gb256gb-ssd?utm_source=chatgpt.com)\n*$579.00*\n\n### [13\" MacBook Air M1 (16GB/1TB)](https://www.walmart.com/ip/Apple-MacBook-Air-13-Apple-M1-8-Core-8-Core-GPU-3-2GHz-16GB-Memory-1TB-SSD-2020-Space-Gray-13-inch-Laptop-MGN73LL-A-A2337-Grade-B-cosmetics-Fair/19287153026?wmlspartner=wlpa&selectedSellerId=101621591&utm_source=chatgpt.com)\n*$559.00*\n\n### [13\" MacBook Air M1 (128GB)](https://plug.tech/products/apple-macbook-air-m1-13-inch-128gb-8-core-cpu-7-core-gpu-late-2020-silver?variant=43234506408089&fdzly=plug-organicfd&glCurrency=USD&utm_source=chatgpt.com)\n*$399.99*\n\n### [13\" MacBook Air M1 (refurb)](https://www.backmarket.com/en-us/p/macbook-air-2020-13-inch-m1-8-core-and-7-core-gpu-8gb-ram-ssd-128gb/a19cba9a-bda5-48bd-9e7b-031c76db393d?utm_source=chatgpt.com)\n*$394.04*",
+              "cite_map": {},
+              "inline_carousel": false,
+              "products": [
+                {
+                  "cite": "turn0product2",
+                  "description": null,
+                  "featured_tag": "",
+                  "id": "2295194901596119294",
+                  "image_urls": [
+                    "https://images.openai.com/static-rsc-1/Sc8svUhJYMX050CC_8gLNR_pw6Y3FhU6xQad-5pdsfXxZnDbZxleDi2f61NOtvduePXJVwU89o4hM3f8Ps7nTNrorPrXnXTmc5GHGe9NN6guolq4OP2RQtjcIamURBk5sM94m9FGDpdxueTlJX4dvsY7EHugwd8RqGH6XNr5Y-nMQusgb_2zyy2m4zt1kgc7fpAYrDUCOa5eIjvc2IHSTlOj6Ejw5befel1PGs4wLHk"
+                  ],
+                  "merchants": "Walmart - BuyMac",
+                  "metadata_sources": [
+                    "p2"
+                  ],
+                  "num_reviews": 1490,
+                  "offers": [
+                    {
+                      "available": true,
+                      "checkout_image_urls": null,
+                      "checkout_payload": null,
+                      "checkoutable": false,
+                      "debug_info": {
+                        "h": "None",
+                        "p": "1000",
+                        "source": "p2"
+                      },
+                      "details": "In stock online, Delivery $60",
+                      "is_digital": null,
+                      "merchant_name": "Walmart - BuyMac",
+                      "merchant_subtitle": null,
+                      "original_price": null,
+                      "price": "$829.00",
+                      "price_details": {
+                        "base": "$829.00",
+                        "display_price": null,
+                        "shipping": null,
+                        "tax": null,
+                        "total": "$829.00"
+                      },
+                      "product_name": "Apple MacBook Air 15 inch 2023 Apple M2 8-Core (10-Core Gpu) 3.49GHz 256gb SSD 16gb Memory Mqkp3ll/a A2941 15 inch Display Space Gray Grade A-",
+                      "provider": "p2",
+                      "tag": {
+                        "text": "Best price",
+                        "tooltip": null
+                      },
+                      "url": "https://www.walmart.com/ip/Apple-MacBook-Air-15-2023-M2-8-Core-10-Core-GPU-3-49GHz-256GB-SSD-16GB-Memory-MQKP3LL-A-A2941-15-inch-Display-Space-Gray-Grade-A-Cosmetics-Good/19465856207?wmlspartner=wlpa&selectedSellerId=101621591&utm_source=chatgpt.com"
+                    }
+                  ],
+                  "offers_see_more_boundary": 1,
+                  "popularity_metadata": null,
+                  "price": "$829.00",
+                  "product_lookup_data": {
+                    "all_ids": {
+                      "p2": [
+                        "2295194901596119294"
+                      ]
+                    },
+                    "known_ids": {},
+                    "metadata_sources": [
+                      "p1",
+                      "p3"
+                    ],
+                    "request_query": "15\" MacBook Air M2 (8GB/256GB)",
+                    "variant_options_query": null,
+                    "variant_sources": null
+                  },
+                  "product_lookup_key": {
+                    "data": "{\"request_query\":\"15\\\" MacBook Air M2 (8GB/256GB)\",\"all_ids\":{\"p2\":[\"2295194901596119294\"]},\"known_ids\":{},\"metadata_sources\":[\"p1\",\"p3\"],\"variant_sources\":null,\"last_variant_group_types\":null,\"merchant_hints\":[\"Walmart - BuyMac\"],\"provider_title\":\"Apple MacBook Air 15 inch 2023 Apple M2 8-Core (10-Core Gpu) 3.49GHz 256gb SSD 16gb Memory Mqkp3ll/a A2941 15 inch Display Space Gray Grade A-\",\"provider_metadata\":{\"p2\":{\"id_to_token_map\":{\"2295194901596119294\":\"eyJlaSI6IlpQU2xhWTIxQlBfZjVPVVBvbzN3LUFrIiwicHJvZHVjdGlkIjoiMjI5NTE5NDkwMTU5NjExOTI5NCIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjIyOTUxOTQ5MDE1OTYxMTkyOTQiLCJpbWFnZURvY2lkIjoiMTcxNzAyODI5NjQ3NDAzMDcwNzQiLCJyZHMiOiJQQ18xNzM3NDQ4MjEzNDQ5MjAyMzQ2fFBST0RfUENfMTczNzQ0ODIxMzQ0OTIwMjM0NiIsInF1ZXJ5IjoibWFjYm9vaythaXIrMTUrbTIrcHJpY2UiLCJncGNpZCI6IiIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWhUbUZ6YUhacGJHeGxMRlJsYm01bGMzTmxaU3hWYm1sMFpXUWdVM1JoZEdWeiIsImdsIjoidXMiLCJobCI6ImVuIn0=\"},\"id_to_otoken_map\":{}}}}",
+                    "last_variant_selection_group_id": null,
+                    "variant_options_query": null,
+                    "version": "1"
+                  },
+                  "provider": "deprecated",
+                  "providers": [
+                    "p2"
+                  ],
+                  "query": "deprecated",
+                  "rating": 4.7,
+                  "rating_grouped_citation": {
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": null,
+                    "refs": [],
+                    "snippet": null,
+                    "supporting_websites": [],
+                    "title": "Apple MacBook Air 15 inch 2023 Apple M2 8-Core (10-Core Gpu) 3.49GHz 256gb SSD 16gb Memory Mqkp3ll/a A2941 15 inch Display Space Gray Grade A-",
+                    "url": "https://www.walmart.com/ip/Apple-MacBook-Air-15-2023-M2-8-Core-10-Core-GPU-3-49GHz-256GB-SSD-16GB-Memory-MQKP3LL-A-A2941-15-inch-Display-Space-Gray-Grade-A-Cosmetics-Good/19465856207?wmlspartner=wlpa&selectedSellerId=101621591"
+                  },
+                  "show_price_disclosure": false,
+                  "specs": null,
+                  "title": "15\" MacBook Air M2 (8GB/256GB)",
+                  "url": "https://www.walmart.com/ip/Apple-MacBook-Air-15-2023-M2-8-Core-10-Core-GPU-3-49GHz-256GB-SSD-16GB-Memory-MQKP3LL-A-A2941-15-inch-Display-Space-Gray-Grade-A-Cosmetics-Good/19465856207?wmlspartner=wlpa&selectedSellerId=101621591&utm_source=chatgpt.com",
+                  "variants": null,
+                  "variants_error_state_message": null
+                },
+                {
+                  "cite": "turn0product17",
+                  "description": null,
+                  "featured_tag": "",
+                  "id": "9820346493805307142",
+                  "image_urls": [
+                    "https://images.openai.com/static-rsc-1/68mO7_uh0vV1I7exTBK9p7zoPz3jdrnZl5YS0c4VZWGwqBOrxLry75_YJyCktOUiVTjJn325OBg2nWpolJt82P35OZUnDmUSXN7kjxYJjM9zwp4jLpbOhvh6M5OuXqu6v5W09NzqGDcagCtzl8aoKpYbDbnwGviKsyxjX7lYuDwWQVdux4UHlBbuQh9qT9ROvmWltoxrqGeAdvhNV-VCZb3irg1dfGXCMFQP_imbDt0"
+                  ],
+                  "merchants": "Walmart - BuyMac",
+                  "metadata_sources": [
+                    "p2"
+                  ],
+                  "num_reviews": null,
+                  "offers": [
+                    {
+                      "available": true,
+                      "checkout_image_urls": null,
+                      "checkout_payload": null,
+                      "checkoutable": false,
+                      "debug_info": {
+                        "h": "None",
+                        "p": "1000",
+                        "source": "p2"
+                      },
+                      "details": "In stock online, Delivery $60",
+                      "is_digital": null,
+                      "merchant_name": "Walmart - BuyMac",
+                      "merchant_subtitle": null,
+                      "original_price": null,
+                      "price": "$969.00",
+                      "price_details": {
+                        "base": "$969.00",
+                        "display_price": null,
+                        "shipping": null,
+                        "tax": null,
+                        "total": "$969.00"
+                      },
+                      "product_name": "Apple MacBook Air 15 inch 2023 Apple M2 8-Core (10-Core Gpu) 3.49GHz 512gb SSD 16gb Memory Mqkx3ll/a A2941 15 inch Display Midnight Grade A Cosmetics,",
+                      "provider": "p2",
+                      "tag": {
+                        "text": "Best price",
+                        "tooltip": null
+                      },
+                      "url": "https://www.walmart.com/ip/Apple-MacBook-Air-15-2023-Apple-M2-8-Core-10-Core-GPU-3-49GHz-512GB-SSD-16GB-Memory-MQKX3LL-A-A2941-15-inch-Display-Midnight-Grade-A-Cosmetics/19628870144?wmlspartner=wlpa&selectedSellerId=101621591&utm_source=chatgpt.com"
+                    }
+                  ],
+                  "offers_see_more_boundary": 1,
+                  "popularity_metadata": null,
+                  "price": "$969.00",
+                  "product_lookup_data": {
+                    "all_ids": {
+                      "p2": [
+                        "9820346493805307142"
+                      ]
+                    },
+                    "known_ids": {},
+                    "metadata_sources": [
+                      "p1",
+                      "p3"
+                    ],
+                    "request_query": "15\" MacBook Air M2 (8GB/512GB)",
+                    "variant_options_query": null,
+                    "variant_sources": null
+                  },
+                  "product_lookup_key": {
+                    "data": "{\"request_query\":\"15\\\" MacBook Air M2 (8GB/512GB)\",\"all_ids\":{\"p2\":[\"9820346493805307142\"]},\"known_ids\":{},\"metadata_sources\":[\"p1\",\"p3\"],\"variant_sources\":null,\"last_variant_group_types\":null,\"merchant_hints\":[\"Walmart - BuyMac\"],\"provider_title\":\"Apple MacBook Air 15 inch 2023 Apple M2 8-Core (10-Core Gpu) 3.49GHz 512gb SSD 16gb Memory Mqkx3ll/a A2941 15 inch Display Midnight Grade A Cosmetics,\",\"provider_metadata\":{\"p2\":{\"id_to_token_map\":{\"9820346493805307142\":\"eyJlaSI6IlpQU2xhWTIxQlBfZjVPVVBvbzN3LUFrIiwicHJvZHVjdGlkIjoiOTgyMDM0NjQ5MzgwNTMwNzE0MiIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijk4MjAzNDY0OTM4MDUzMDcxNDIiLCJpbWFnZURvY2lkIjoiMTI0ODE1NzU4MzA5ODI0NTYwNjIiLCJyZHMiOiIiLCJxdWVyeSI6Im1hY2Jvb2srYWlyKzE1K20yK3ByaWNlIiwiZ3BjaWQiOiIiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0loVG1GemFIWnBiR3hsTEZSbGJtNWxjM05sWlN4VmJtbDBaV1FnVTNSaGRHVnoiLCJnbCI6InVzIiwiaGwiOiJlbiJ9\"},\"id_to_otoken_map\":{}}}}",
+                    "last_variant_selection_group_id": null,
+                    "variant_options_query": null,
+                    "version": "1"
+                  },
+                  "provider": "deprecated",
+                  "providers": [
+                    "p2"
+                  ],
+                  "query": "deprecated",
+                  "rating": null,
+                  "rating_grouped_citation": null,
+                  "show_price_disclosure": false,
+                  "specs": null,
+                  "title": "15\" MacBook Air M2 (8GB/512GB)",
+                  "url": "https://www.walmart.com/ip/Apple-MacBook-Air-15-2023-Apple-M2-8-Core-10-Core-GPU-3-49GHz-512GB-SSD-16GB-Memory-MQKX3LL-A-A2941-15-inch-Display-Midnight-Grade-A-Cosmetics/19628870144?wmlspartner=wlpa&selectedSellerId=101621591&utm_source=chatgpt.com",
+                  "variants": null,
+                  "variants_error_state_message": null
+                },
+                {
+                  "cite": "turn0product10",
+                  "description": null,
+                  "featured_tag": "",
+                  "id": "6332948657017272228",
+                  "image_urls": [
+                    "https://images.openai.com/static-rsc-1/PPSTb3LM3VHNeHTx11R75awMLhKi8FwI_tt9yYR15ltfW0fr_hemBmn9xxAb_JXBp20wXhXEio-c9zYyKcvIx6letDuxY-fgOcOirgFccvvGtIEgQQ9K_A9qblZ_9TH_nGfMct9yD0PYzgme0EkbMyH-RBEEQIZPBYoN6KgMEF4n7X8lab39kpzccA0_4vT0ZmV9UEzOL_4JqnVHFTFdXW3FFFXGCgZ7Jod4a3FwlERvSjJ-Qv7_co_YH8jQZSneeGvvNs_vBJYU_B5JE8rWqw",
+                    "https://images.openai.com/static-rsc-1/-2K5qvXZrEsb_TAF52w-sa1PY0rfPJZ65FuHZrpfVPRboYeNEQjLgBT6war0IhjJPnl1HJNJWZtOsDUKZeqisvPUbUZtAuN6ytz6fOGyybbjpySeXickJuTwmwo5xbPRer_Pg2f7RqCsKVQ2CJorh2_gO75x-nj7aaWRQjihGBy_5VTybBVAZ4UMISqSmutsKlk0xoyD6VVwT2E2eLST01ndt45gPezABWL6YeZvU6seYceELGsTsUfG3P6Giif6R_xO4yqQHz7aZ-_7LDD-QA",
+                    "https://images.openai.com/static-rsc-1/2UUZEPc57F61x44tTrC8Npvh8b4B9amCG26acKE9RybhNRKlTOAhi9SSGKknFC05op3necYDnpYeL94iiefuhMcs58yU3zMwgZ4WCQg4qetZeqtuFeh0Dr8xu4h1zT7_uA9xjIcxSuTrzTUAm5LwnaAalTtTVCnqYz6kOcfWJCJtjT54ghBuNoNkXoqa4yVG0ArY4PQCiEWEA4tZaQB_cTha0Op-AYZN2vgItFRQey76j4KZsGsiHIPyo53dTO-uz_trbgA1DaIaSUUZ2ofmkA"
+                  ],
+                  "merchants": "Back Market",
+                  "metadata_sources": [
+                    "p2"
+                  ],
+                  "num_reviews": 1490,
+                  "offers": [
+                    {
+                      "available": true,
+                      "checkout_image_urls": null,
+                      "checkout_payload": null,
+                      "checkoutable": false,
+                      "debug_info": {
+                        "h": "None",
+                        "p": "1000",
+                        "source": "p2"
+                      },
+                      "details": "Refurbished, In stock online",
+                      "is_digital": null,
+                      "merchant_name": "Back Market",
+                      "merchant_subtitle": null,
+                      "original_price": null,
+                      "price": "$903.00",
+                      "price_details": {
+                        "base": "$903.00",
+                        "display_price": null,
+                        "shipping": null,
+                        "tax": null,
+                        "total": "$903.00"
+                      },
+                      "product_name": "MacBook Air (2023) 15-inch - Apple M2 8-core and 10-core GPU - 8GB RAM - SSD 1000GB",
+                      "provider": "p2",
+                      "tag": {
+                        "text": "Best price",
+                        "tooltip": null
+                      },
+                      "url": "https://www.backmarket.com/en-us/p/macbook-air-2023-153-inch-m2-8-core-and-10-core-gpu-8gb-ram-ssd-1000gb/91004aaf-355a-441d-97f6-bf6dde0e147d?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "offers_see_more_boundary": 1,
+                  "popularity_metadata": null,
+                  "price": "$903.00",
+                  "product_lookup_data": {
+                    "all_ids": {
+                      "p2": [
+                        "6332948657017272228"
+                      ]
+                    },
+                    "known_ids": {},
+                    "metadata_sources": [
+                      "p1",
+                      "p3"
+                    ],
+                    "request_query": "15\" MacBook Air M2 (8GB/1TB)",
+                    "variant_options_query": null,
+                    "variant_sources": null
+                  },
+                  "product_lookup_key": {
+                    "data": "{\"request_query\":\"15\\\" MacBook Air M2 (8GB/1TB)\",\"all_ids\":{\"p2\":[\"6332948657017272228\"]},\"known_ids\":{},\"metadata_sources\":[\"p1\",\"p3\"],\"variant_sources\":null,\"last_variant_group_types\":null,\"merchant_hints\":[\"Back Market\"],\"provider_title\":\"MacBook Air (2023) 15-inch - Apple M2 8-core and 10-core GPU - 8GB RAM - SSD 1000GB\",\"provider_metadata\":{\"p2\":{\"id_to_token_map\":{\"6332948657017272228\":\"eyJlaSI6IlpQU2xhWTIxQlBfZjVPVVBvbzN3LUFrIiwicHJvZHVjdGlkIjoiNjMzMjk0ODY1NzAxNzI3MjIyOCIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjYzMzI5NDg2NTcwMTcyNzIyMjgiLCJpbWFnZURvY2lkIjoiOTU4MDUyOTcyODk3ODc4NTg0MiIsInJkcyI6IlBDXzE3Mzc0NDgyMTM0NDkyMDIzNDZ8UFJPRF9QQ18xNzM3NDQ4MjEzNDQ5MjAyMzQ2IiwicXVlcnkiOiJtYWNib29rK2FpcisxNSttMitwcmljZSIsImdwY2lkIjoiIiwibWlkIjoiIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJaFRtRnphSFpwYkd4bExGUmxibTVsYzNObFpTeFZibWwwWldRZ1UzUmhkR1Z6IiwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ==\"},\"id_to_otoken_map\":{}}}}",
+                    "last_variant_selection_group_id": null,
+                    "variant_options_query": null,
+                    "version": "1"
+                  },
+                  "provider": "deprecated",
+                  "providers": [
+                    "p2"
+                  ],
+                  "query": "deprecated",
+                  "rating": 4.7,
+                  "rating_grouped_citation": {
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": null,
+                    "refs": [],
+                    "snippet": null,
+                    "supporting_websites": [],
+                    "title": "MacBook Air (2023) 15-inch - Apple M2 8-core and 10-core GPU - 8GB RAM - SSD 1000GB",
+                    "url": "https://www.backmarket.com/en-us/p/macbook-air-2023-153-inch-m2-8-core-and-10-core-gpu-8gb-ram-ssd-1000gb/91004aaf-355a-441d-97f6-bf6dde0e147d"
+                  },
+                  "show_price_disclosure": false,
+                  "specs": null,
+                  "title": "15\" MacBook Air M2 (8GB/1TB)",
+                  "url": "https://www.backmarket.com/en-us/p/macbook-air-2023-153-inch-m2-8-core-and-10-core-gpu-8gb-ram-ssd-1000gb/91004aaf-355a-441d-97f6-bf6dde0e147d?utm_source=chatgpt.com",
+                  "variants": null,
+                  "variants_error_state_message": null
+                },
+                {
+                  "cite": "turn0product1",
+                  "description": null,
+                  "featured_tag": "",
+                  "id": "1434325277585982111",
+                  "image_urls": [
+                    "https://images.openai.com/static-rsc-1/HrIokJZRe3bQZYJdRtGTAHLSct4iV_bMT1R1ZBHDt_6KKBIj8JqDQIpUjcsWrfcwrnoFeMBvhcrJlM4jI5GK5v2sXV7s-2RcLlJfsl5Ut82BB3xxmncxbWx-zceZOr5meRkqlKBH_ekjXc6UDnz5GitZAUd0gc1bkAHo5fvv9SXgWwbvwDEu3qMlyycHTJtYWytmXoA4fsn-tUkX29h89xnKAP277k0UuTys2URFhfA",
+                    "https://images.openai.com/static-rsc-1/c66BmCKDozijFUPnSRKAIclT7NmEG6JCbT0m_WkAZu6p8Shh1FXcrVomiqL2M_Gv9F4qf5hR6CrN6gORhpLlzjUbiw8UEJuXqQ78SwMLU-GklhUoSpnWemyN68Vw29TYP8vjMo8m9Y-wSWh1iAKVy_ClMYt1qDz_H8Zu5qaUD_1sihuoZ2lea9N20XqUx0Z2rPsRNmHEpX1Hon7kDbUrbFX8gJ6QtKaHlSdFlfKsOJx-rP0uRiU4peUMCG-iBdBUxLZoI_cXxM8YUJZcqNsyJA",
+                    "https://images.openai.com/static-rsc-1/X_MJeJB1wIxCLf03RR2ImYObU9E_sjYcWaln2Y7YzV09AtvC_vo_Jowkf8ek94Pg0jF42a2PzRy0eyEeM4n9OKEz_Nmna-JtbcXQJbLBincXqaF-auqH6TfuH7YhZR6WBhPW4HXsdxkWI_y8IpnRT0sJJFSqNbx3MeC-gTCypE8SqmCvW14TfXC3dteI-l-5RiLhLNa6bqexLtShR8e7bMDMUGSb-SRqbX69qKOP2ag"
+                  ],
+                  "merchants": "Best Buy + others",
+                  "metadata_sources": [
+                    "p2"
+                  ],
+                  "num_reviews": 20427,
+                  "offers": [
+                    {
+                      "available": true,
+                      "checkout_image_urls": null,
+                      "checkout_payload": null,
+                      "checkoutable": false,
+                      "debug_info": {
+                        "h": "None",
+                        "p": "1000",
+                        "source": "p2"
+                      },
+                      "details": "In stock online, Delivery between Mar 3\u2009\u2013\u200914 $16.49",
+                      "is_digital": null,
+                      "merchant_name": "Best Buy",
+                      "merchant_subtitle": null,
+                      "original_price": null,
+                      "price": "$764.95",
+                      "price_details": {
+                        "base": "$764.95",
+                        "display_price": null,
+                        "shipping": null,
+                        "tax": null,
+                        "total": "$764.95"
+                      },
+                      "product_name": "MacBook Air Apple M1",
+                      "provider": "p2",
+                      "tag": null,
+                      "url": "https://www.bestbuy.com/product/macbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray/JJ8ZHP82L3/sku/12062339?loc=marketplace&utm_source=chatgpt.com"
+                    },
+                    {
+                      "available": true,
+                      "checkout_image_urls": null,
+                      "checkout_payload": null,
+                      "checkoutable": false,
+                      "debug_info": {
+                        "h": "None",
+                        "p": "1000",
+                        "source": "p2"
+                      },
+                      "details": "In stock online, Delivery between Mar 9\u2009\u2013\u200912 $9.99",
+                      "is_digital": null,
+                      "merchant_name": "URI Campus Store",
+                      "merchant_subtitle": null,
+                      "original_price": null,
+                      "price": "$799.00",
+                      "price_details": {
+                        "base": "$799.00",
+                        "display_price": null,
+                        "shipping": null,
+                        "tax": null,
+                        "total": "$799.00"
+                      },
+                      "product_name": "MacBook Air Apple M1",
+                      "provider": "p2",
+                      "tag": null,
+                      "url": "https://www.bkstr.com/uristore/product/macbook-air-13---laptop---apple-m1-chip---8gb-memory---256gb-ssd---space-gray-99295-1?utm_source=chatgpt.com"
+                    },
+                    {
+                      "available": true,
+                      "checkout_image_urls": null,
+                      "checkout_payload": null,
+                      "checkoutable": false,
+                      "debug_info": {
+                        "h": "None",
+                        "p": "1000",
+                        "source": "p2"
+                      },
+                      "details": "In stock online, Free delivery by Mar 10",
+                      "is_digital": null,
+                      "merchant_name": "eBay - trd_digital",
+                      "merchant_subtitle": null,
+                      "original_price": null,
+                      "price": "$679.95",
+                      "price_details": {
+                        "base": "$679.95",
+                        "display_price": null,
+                        "shipping": null,
+                        "tax": null,
+                        "total": "$679.95"
+                      },
+                      "product_name": "MacBook Air Apple M1",
+                      "provider": "p2",
+                      "tag": {
+                        "text": "Best price",
+                        "tooltip": null
+                      },
+                      "url": "https://www.ebay.com/itm/335568693854?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&utm_source=chatgpt.com"
+                    }
+                  ],
+                  "offers_see_more_boundary": 1,
+                  "popularity_metadata": null,
+                  "price": "$764.95",
+                  "product_lookup_data": {
+                    "all_ids": {
+                      "p2": [
+                        "1434325277585982111"
+                      ]
+                    },
+                    "known_ids": {},
+                    "metadata_sources": [
+                      "p1",
+                      "p3"
+                    ],
+                    "request_query": "13\" MacBook Air M1 (8GB/256GB)",
+                    "variant_options_query": null,
+                    "variant_sources": null
+                  },
+                  "product_lookup_key": {
+                    "data": "{\"request_query\":\"13\\\" MacBook Air M1 (8GB/256GB)\",\"all_ids\":{\"p2\":[\"1434325277585982111\"]},\"known_ids\":{},\"metadata_sources\":[\"p1\",\"p3\"],\"variant_sources\":null,\"last_variant_group_types\":null,\"merchant_hints\":[\"Best Buy\"],\"provider_title\":\"MacBook Air Apple M1\",\"provider_metadata\":{\"p2\":{\"id_to_token_map\":{\"1434325277585982111\":\"eyJlaSI6IlpQU2xhZC15RlBPR3A4NFBwTGFKdUF3IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQzNDMyNTI3NzU4NTk4MjExMSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjExNzg4OTU3ODMxNjY5NDI5NDUxIiwiaW1hZ2VEb2NpZCI6IjEzNDM2NTU4NjQ2Nzg5NDA4MTQ1IiwicmRzIjoiUENfMTE1MjMzODA3Nzg1NDQxNDg0MXxQUk9EX1BDXzExNTIzMzgwNzc4NTQ0MTQ4NDEiLCJxdWVyeSI6Im1hY2Jvb2srYWlyKzEzK20xK3ByaWNlIiwiZ3BjaWQiOiIxMTUyMzM4MDc3ODU0NDE0ODQxIiwibWlkIjoiNTc2NDYyNTM4NjQwNzg3MDQ1IiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJaFRtRnphSFpwYkd4bExGUmxibTVsYzNObFpTeFZibWwwWldRZ1UzUmhkR1Z6IiwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ==\"},\"id_to_otoken_map\":{}}}}",
+                    "last_variant_selection_group_id": null,
+                    "variant_options_query": null,
+                    "version": "1"
+                  },
+                  "provider": "deprecated",
+                  "providers": [
+                    "p2"
+                  ],
+                  "query": "deprecated",
+                  "rating": 4.7,
+                  "rating_grouped_citation": {
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": null,
+                    "refs": [],
+                    "snippet": null,
+                    "supporting_websites": [
+                      {
+                        "pub_date": null,
+                        "snippet": null,
+                        "title": "MacBook Air Apple M1",
+                        "url": "https://www.bkstr.com/uristore/product/macbook-air-13---laptop---apple-m1-chip---8gb-memory---256gb-ssd---space-gray-99295-1"
+                      },
+                      {
+                        "pub_date": null,
+                        "snippet": null,
+                        "title": "MacBook Air Apple M1",
+                        "url": "https://www.ebay.com/itm/335568693854?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item"
+                      }
+                    ],
+                    "title": "MacBook Air Apple M1",
+                    "url": "https://www.bestbuy.com/product/macbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray/JJ8ZHP82L3/sku/12062339?loc=marketplace"
+                  },
+                  "show_price_disclosure": false,
+                  "specs": null,
+                  "title": "13\" MacBook Air M1 (8GB/256GB)",
+                  "url": "https://www.bestbuy.com/product/macbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray/JJ8ZHP82L3/sku/12062339?loc=marketplace&utm_source=chatgpt.com",
+                  "variants": null,
+                  "variants_error_state_message": null
+                },
+                {
+                  "cite": "turn0product11",
+                  "description": null,
+                  "featured_tag": "",
+                  "id": "7848295360263494436",
+                  "image_urls": [
+                    "https://images.openai.com/static-rsc-1/PFA2zE3ilzYIEPiBgmbTy7RUBjthE74Lsvdr-hGHRXEuW9r2Aq36PIu2h0GvrxCWVXlfn_PzAZFYLHENescMT_MeGB54n6SotJatbESwdeXOVLSxcOp4HKzFrv_m1kXzWw70r51aEk-GuG4eP7u-TAVc0HtXbTx6DO9n3BlrLQy-6FGP-u7UTZCNIsACScwgkgDR2l8m7oX4xuFDJVbCdA9U4gH_vrWjLstsSqPfauA",
+                    "https://images.openai.com/static-rsc-1/6J99mQpF8lC4jUbZiAv5SZWXCwoplLp7ZBI2_KjnlCShuErDGMltwKhNI-QSgxN2GbobP196xjl0DQQ4vNtuQAV93jgLUEnEzOBuiOfUj-AkFEZinwspQLKvJqnh70IuPcGM49Idfu4RWgpkezckvROyM8gNJ9H5JNDIW1fVN0hXrPVBkA7nCS2e2Q3Ru6aeRpzrjhur9_StasIXQ1H0gPptFku8yN7lT3WF4SieS8w",
+                    "https://images.openai.com/static-rsc-1/EH73OU7pwBlQvyJS0H3baBcFXY1mjnpzsB4h42tUAYtodPZ6uIO86KD77eT295c-410DEvBXMouR0G3cmlIEnIwfDJ0xJGS78PW36AsYIdMrp-O03I_JZ3914ZoPCiq1d4S8RCgBUqk8iR_ftXQNgjDvqcQPkmnzoEzeE_PYu6qPE_ZMBJabeLAdZbY_XBwno3yz2G3zY7zeoKu_STTpYTfXcDzOeNAz0XMxXVfhBetJ1vIPxbihjQL2cZJlWKh8nsoqgpLZvIzgHU3PuRCHRA"
+                  ],
+                  "merchants": "Mac Outlet + others",
+                  "metadata_sources": [
+                    "p2"
+                  ],
+                  "num_reviews": 6543,
+                  "offers": [
+                    {
+                      "available": true,
+                      "checkout_image_urls": null,
+                      "checkout_payload": null,
+                      "checkoutable": false,
+                      "debug_info": {
+                        "h": "None",
+                        "p": "1008",
+                        "source": "p2"
+                      },
+                      "details": "In stock online, Free next-day delivery",
+                      "is_digital": null,
+                      "merchant_name": "Mac Outlet",
+                      "merchant_subtitle": null,
+                      "original_price": null,
+                      "price": "$579.00",
+                      "price_details": {
+                        "base": "$579.00",
+                        "display_price": null,
+                        "shipping": null,
+                        "tax": null,
+                        "total": "$579.00"
+                      },
+                      "product_name": "Apple MacBook Air M1 2020",
+                      "provider": "p2",
+                      "tag": null,
+                      "url": "https://www.macoutlet.com/product-page/macbook-air-13-2020-m1-8gb256gb-ssd?utm_source=chatgpt.com"
+                    },
+                    {
+                      "available": true,
+                      "checkout_image_urls": null,
+                      "checkout_payload": null,
+                      "checkoutable": false,
+                      "debug_info": {
+                        "h": "None",
+                        "p": "1000",
+                        "source": "p2"
+                      },
+                      "details": "Pre-owned, In stock online",
+                      "is_digital": null,
+                      "merchant_name": "eBay",
+                      "merchant_subtitle": null,
+                      "original_price": null,
+                      "price": "$660.00",
+                      "price_details": {
+                        "base": "$660.00",
+                        "display_price": null,
+                        "shipping": null,
+                        "tax": null,
+                        "total": "$660.00"
+                      },
+                      "product_name": "Apple MacBook Air M1 2020",
+                      "provider": "p2",
+                      "tag": null,
+                      "url": "https://www.ebay.com/itm/395955822605?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&utm_source=chatgpt.com"
+                    },
+                    {
+                      "available": true,
+                      "checkout_image_urls": null,
+                      "checkout_payload": null,
+                      "checkoutable": false,
+                      "debug_info": {
+                        "h": "None",
+                        "p": "1000",
+                        "source": "p2"
+                      },
+                      "details": "Pre-owned, In stock online",
+                      "is_digital": null,
+                      "merchant_name": "Mercari",
+                      "merchant_subtitle": null,
+                      "original_price": null,
+                      "price": "$527.61",
+                      "price_details": {
+                        "base": "$527.61",
+                        "display_price": null,
+                        "shipping": null,
+                        "tax": null,
+                        "total": "$527.61"
+                      },
+                      "product_name": "Apple MacBook Air M1 2020",
+                      "provider": "p2",
+                      "tag": {
+                        "text": "Best price",
+                        "tooltip": null
+                      },
+                      "url": "https://www.mercari.com/us/item/m70090543096/?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "offers_see_more_boundary": 1,
+                  "popularity_metadata": null,
+                  "price": "$579.00",
+                  "product_lookup_data": {
+                    "all_ids": {
+                      "p2": [
+                        "7848295360263494436"
+                      ]
+                    },
+                    "known_ids": {},
+                    "metadata_sources": [
+                      "p1",
+                      "p3"
+                    ],
+                    "request_query": "13\" MacBook Air M1 (8GB/256GB)",
+                    "variant_options_query": null,
+                    "variant_sources": null
+                  },
+                  "product_lookup_key": {
+                    "data": "{\"request_query\":\"13\\\" MacBook Air M1 (8GB/256GB)\",\"all_ids\":{\"p2\":[\"7848295360263494436\"]},\"known_ids\":{},\"metadata_sources\":[\"p1\",\"p3\"],\"variant_sources\":null,\"last_variant_group_types\":null,\"merchant_hints\":[\"Mac Outlet\"],\"provider_title\":\"Apple MacBook Air M1 2020\",\"provider_metadata\":{\"p2\":{\"id_to_token_map\":{\"7848295360263494436\":\"eyJlaSI6IlpQU2xhZC15RlBPR3A4NFBwTGFKdUF3IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzg0ODI5NTM2MDI2MzQ5NDQzNiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE1NjUwNTg1NjY3NzgzOTg2NjI3IiwiaW1hZ2VEb2NpZCI6IjEzOTgwMDM3OTQ4OTI2NDUxOTIwIiwicmRzIjoiUENfNjE0MTk5NzY4NzgzMTkzNjIzNHxQUk9EX1BDXzYxNDE5OTc2ODc4MzE5MzYyMzQiLCJxdWVyeSI6Im1hY2Jvb2srYWlyKzEzK20xK3ByaWNlIiwiZ3BjaWQiOiI2MDMxNDkzMjA2ODQ1Nzk0OTM4IiwibWlkIjoiIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJaFRtRnphSFpwYkd4bExGUmxibTVsYzNObFpTeFZibWwwWldRZ1UzUmhkR1Z6IiwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ==\"},\"id_to_otoken_map\":{}}}}",
+                    "last_variant_selection_group_id": null,
+                    "variant_options_query": null,
+                    "version": "1"
+                  },
+                  "provider": "deprecated",
+                  "providers": [
+                    "p2"
+                  ],
+                  "query": "deprecated",
+                  "rating": 4.7,
+                  "rating_grouped_citation": {
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": null,
+                    "refs": [],
+                    "snippet": null,
+                    "supporting_websites": [
+                      {
+                        "pub_date": null,
+                        "snippet": null,
+                        "title": "Apple MacBook Air M1 2020",
+                        "url": "https://www.ebay.com/itm/395955822605?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item"
+                      },
+                      {
+                        "pub_date": null,
+                        "snippet": null,
+                        "title": "Apple MacBook Air M1 2020",
+                        "url": "https://www.mercari.com/us/item/m70090543096/"
+                      }
+                    ],
+                    "title": "Apple MacBook Air M1 2020",
+                    "url": "https://www.macoutlet.com/product-page/macbook-air-13-2020-m1-8gb256gb-ssd"
+                  },
+                  "show_price_disclosure": false,
+                  "specs": null,
+                  "title": "13\" MacBook Air M1 (8GB/256GB)",
+                  "url": "https://www.macoutlet.com/product-page/macbook-air-13-2020-m1-8gb256gb-ssd?utm_source=chatgpt.com",
+                  "variants": null,
+                  "variants_error_state_message": null
+                },
+                {
+                  "cite": "turn0product18",
+                  "description": null,
+                  "featured_tag": "",
+                  "id": "12765860336988903349",
+                  "image_urls": [
+                    "https://images.openai.com/static-rsc-1/o9SZwHr6C1UaOxV8MxfEglUB6x2o4Hp1ucJPlfoCsnwH3JXiXsTDhwPLhsCEIUNYCv3n4K1LHM9yT8Vt_ax-VQzviZFImJ-vPVnsfBCyMeGCkaKFsKWzD4YP0X7oZNuYm5tACnJP5Tsz1TPd4n2EhnuxUbRC2fW1AVyU2qv5OkHMSyCqZb6oVOe7AHgcDAWWh7maGzFuAhzElYv7mCABi0KLK3l9B75FX0x4W84c4m8",
+                    "https://images.openai.com/static-rsc-1/4hofKzJR1wnJ9LctQoAFFMnGILtF6EwGt5GplxJsO6InAqUlpPqgwaoMbij8QBcR7Xr5nhyYtFhGEOx5wwaTvipVHglS6xfcTO1bg3lPGRCfhOrTjgQpqJFtl5m7n-B5eXG6Y0IA3eO113eH6VJYnXtYsFg15ZwmF7Xk_rx-mu_EpIe_PPNpr5IlCElgEWpS-cgwpvDgxs-DAxEbll3hWtXPrH2ElMya4J5fyGU4jrDCjqUXhgD5DbCKmz9tiwDKDpBCuqULsZbwB9gWZYZm9w",
+                    "https://images.openai.com/static-rsc-1/IrJ0UqTsdHG4A9Xx75Q5VQijW_9dzv2g8xiyFRoWD-Ag8rjluhPRqviY137UPEZuilNXJsZhVtS4rZjQCLEtm_pgCiWk8yB9fqEypqnvWeMyOkwFSSdbL8Y3SrZ_VD7suV9T-k5rqhQmSUzoK9tElNIG7xMvG1nG1f_rbjhEY7TMQyIxt6Ex_8ub5X-SL_NUzuUIgRyDCsOTWHViViw-tG_Xc7xsHs2fCZJs_NTAUQuLSjs5t93e5tVyQq1hAxEwIsopwBOoWrVd0cuqheOJyQ"
+                  ],
+                  "merchants": "Walmart - BuyMac",
+                  "metadata_sources": [
+                    "p2"
+                  ],
+                  "num_reviews": null,
+                  "offers": [
+                    {
+                      "available": true,
+                      "checkout_image_urls": null,
+                      "checkout_payload": null,
+                      "checkoutable": false,
+                      "debug_info": {
+                        "h": "None",
+                        "p": "1000",
+                        "source": "p2"
+                      },
+                      "details": "In stock online, Delivery $60",
+                      "is_digital": null,
+                      "merchant_name": "Walmart - BuyMac",
+                      "merchant_subtitle": null,
+                      "original_price": null,
+                      "price": "$559.00",
+                      "price_details": {
+                        "base": "$559.00",
+                        "display_price": null,
+                        "shipping": null,
+                        "tax": null,
+                        "total": "$559.00"
+                      },
+                      "product_name": "Apple MacBook Air 13 inch Apple M1 8-Core (8-Core Gpu) 3.2GHz 16gb Memory 1TB SSD 2020 Space Gray 13 inch Laptop Mgn73ll/a A2337 Grade B cosmetics (",
+                      "provider": "p2",
+                      "tag": {
+                        "text": "Best price",
+                        "tooltip": null
+                      },
+                      "url": "https://www.walmart.com/ip/Apple-MacBook-Air-13-Apple-M1-8-Core-8-Core-GPU-3-2GHz-16GB-Memory-1TB-SSD-2020-Space-Gray-13-inch-Laptop-MGN73LL-A-A2337-Grade-B-cosmetics-Fair/19287153026?wmlspartner=wlpa&selectedSellerId=101621591&utm_source=chatgpt.com"
+                    }
+                  ],
+                  "offers_see_more_boundary": 1,
+                  "popularity_metadata": null,
+                  "price": "$559.00",
+                  "product_lookup_data": {
+                    "all_ids": {
+                      "p2": [
+                        "12765860336988903349"
+                      ]
+                    },
+                    "known_ids": {},
+                    "metadata_sources": [
+                      "p1",
+                      "p3"
+                    ],
+                    "request_query": "13\" MacBook Air M1 (16GB/1TB)",
+                    "variant_options_query": null,
+                    "variant_sources": null
+                  },
+                  "product_lookup_key": {
+                    "data": "{\"request_query\":\"13\\\" MacBook Air M1 (16GB/1TB)\",\"all_ids\":{\"p2\":[\"12765860336988903349\"]},\"known_ids\":{},\"metadata_sources\":[\"p1\",\"p3\"],\"variant_sources\":null,\"last_variant_group_types\":null,\"merchant_hints\":[\"Walmart - BuyMac\"],\"provider_title\":\"Apple MacBook Air 13 inch Apple M1 8-Core (8-Core Gpu) 3.2GHz 16gb Memory 1TB SSD 2020 Space Gray 13 inch Laptop Mgn73ll/a A2337 Grade B cosmetics (\",\"provider_metadata\":{\"p2\":{\"id_to_token_map\":{\"12765860336988903349\":\"eyJlaSI6IlpQU2xhZC15RlBPR3A4NFBwTGFKdUF3IiwicHJvZHVjdGlkIjoiMTI3NjU4NjAzMzY5ODg5MDMzNDkiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMjc2NTg2MDMzNjk4ODkwMzM0OSIsImltYWdlRG9jaWQiOiI1NzExMzg0MjY3MDc4NDM2MzU3IiwicmRzIjoiIiwicXVlcnkiOiJtYWNib29rK2FpcisxMyttMStwcmljZSIsImdwY2lkIjoiIiwibWlkIjoiIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJaFRtRnphSFpwYkd4bExGUmxibTVsYzNObFpTeFZibWwwWldRZ1UzUmhkR1Z6IiwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ==\"},\"id_to_otoken_map\":{}}}}",
+                    "last_variant_selection_group_id": null,
+                    "variant_options_query": null,
+                    "version": "1"
+                  },
+                  "provider": "deprecated",
+                  "providers": [
+                    "p2"
+                  ],
+                  "query": "deprecated",
+                  "rating": null,
+                  "rating_grouped_citation": null,
+                  "show_price_disclosure": false,
+                  "specs": null,
+                  "title": "13\" MacBook Air M1 (16GB/1TB)",
+                  "url": "https://www.walmart.com/ip/Apple-MacBook-Air-13-Apple-M1-8-Core-8-Core-GPU-3-2GHz-16GB-Memory-1TB-SSD-2020-Space-Gray-13-inch-Laptop-MGN73LL-A-A2337-Grade-B-cosmetics-Fair/19287153026?wmlspartner=wlpa&selectedSellerId=101621591&utm_source=chatgpt.com",
+                  "variants": null,
+                  "variants_error_state_message": null
+                },
+                {
+                  "cite": "turn0product16",
+                  "description": null,
+                  "featured_tag": "",
+                  "id": "16676547795957220934",
+                  "image_urls": [
+                    "https://images.openai.com/static-rsc-1/1juLmRGv_qCG_Upl53nFcPqhAbtOWWV3awTp2i4sp_g2Gp6JLjn-sdesozfbOyZUWdM8FB3EVSF656kYeg6aZVd6RHv-3FlW83vOUCeSvJE-l1nZWMB7U_uIos-NdgFIj3GsljxVrHlQjPVV8wMibkfpb79LvNmXFKY_D4B90-WAiISldO-oZaY8256YESz4JIXkmPJMiPOzbD6JfaggPzM71kFuzztlUmzke5oGYTQ",
+                    "https://images.openai.com/static-rsc-1/IFoeq4l2AbJzVLE5CAKXSbGN2k7uW0-TCji1rGprIxZK1qcdPQb7eupQyDxvgqOEpLOQlOPVHIMjw-Hmxx7t81RYlnTVb5W_LkbhMks9D1lDoZxB0b3d0lyOfX6QWW0XfV_U8Ia0GAQFvl0u4L2kD217oktVwSaYXUvNM-4s9YD-5bVUQ5_ZeuKFOnJsdmbLaW-jf1XXJVw8eCYWWLoszau4XAAzRNK0WEO2fig5JH8",
+                    "https://images.openai.com/static-rsc-1/o-RFYfhU-CSvnxkAmbkSYxAkq_bcWCSaKQbfgMhkHiYAy66GmK-Drj8yrlrEtVJ_hEwY4yMf5Z18bLe-udo65AhSvxgbRdP_s9-I77Ww9kt5D0cn-O9_igz880Eu7FV3e90IFy2xZIMZFIAguqQAz7-NJ57-ARDZHOJegIVqP2AIiqP7BCIRC8jpCQTUSGjPTrvvhg07qhJdz50RNTnv0hgpAEDMGNQkpOZmIzdZqZk"
+                  ],
+                  "merchants": "Plug",
+                  "metadata_sources": [
+                    "p2"
+                  ],
+                  "num_reviews": 20427,
+                  "offers": [
+                    {
+                      "available": true,
+                      "checkout_image_urls": null,
+                      "checkout_payload": null,
+                      "checkoutable": false,
+                      "debug_info": {
+                        "h": "None",
+                        "p": "1000",
+                        "source": "p2"
+                      },
+                      "details": "Refurbished, In stock online",
+                      "is_digital": null,
+                      "merchant_name": "Plug",
+                      "merchant_subtitle": null,
+                      "original_price": null,
+                      "price": "$399.99",
+                      "price_details": {
+                        "base": "$399.99",
+                        "display_price": null,
+                        "shipping": null,
+                        "tax": null,
+                        "total": "$399.99"
+                      },
+                      "product_name": "Apple MacBook Air M1 13-inch 128GB 8-Core CPU 7-Core GPU (Late 2020) SIlver - Ecofriendly",
+                      "provider": "p2",
+                      "tag": {
+                        "text": "Best price",
+                        "tooltip": null
+                      },
+                      "url": "https://plug.tech/products/apple-macbook-air-m1-13-inch-128gb-8-core-cpu-7-core-gpu-late-2020-silver?variant=43234506408089&fdzly=plug-organicfd&glCurrency=USD&utm_source=chatgpt.com"
+                    }
+                  ],
+                  "offers_see_more_boundary": 1,
+                  "popularity_metadata": null,
+                  "price": "$399.99",
+                  "product_lookup_data": {
+                    "all_ids": {
+                      "p2": [
+                        "16676547795957220934"
+                      ]
+                    },
+                    "known_ids": {},
+                    "metadata_sources": [
+                      "p1",
+                      "p3"
+                    ],
+                    "request_query": "13\" MacBook Air M1 (128GB)",
+                    "variant_options_query": null,
+                    "variant_sources": null
+                  },
+                  "product_lookup_key": {
+                    "data": "{\"request_query\":\"13\\\" MacBook Air M1 (128GB)\",\"all_ids\":{\"p2\":[\"16676547795957220934\"]},\"known_ids\":{},\"metadata_sources\":[\"p1\",\"p3\"],\"variant_sources\":null,\"last_variant_group_types\":null,\"merchant_hints\":[\"Plug\"],\"provider_title\":\"Apple MacBook Air M1 13-inch 128GB 8-Core CPU 7-Core GPU (Late 2020) SIlver - Ecofriendly\",\"provider_metadata\":{\"p2\":{\"id_to_token_map\":{\"16676547795957220934\":\"eyJlaSI6IlpQU2xhZC15RlBPR3A4NFBwTGFKdUF3IiwicHJvZHVjdGlkIjoiMTY2NzY1NDc3OTU5NTcyMjA5MzQiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNjY3NjU0Nzc5NTk1NzIyMDkzNCIsImltYWdlRG9jaWQiOiIxMTM4NzI2ODY0NDU0NzE4NzY3NCIsInJkcyI6IlBDXzExNTIzMzgwNzc4NTQ0MTQ4NDF8UFJPRF9QQ18xMTUyMzM4MDc3ODU0NDE0ODQxIiwicXVlcnkiOiJtYWNib29rK2FpcisxMyttMStwcmljZSIsImdwY2lkIjoiIiwibWlkIjoiIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJaFRtRnphSFpwYkd4bExGUmxibTVsYzNObFpTeFZibWwwWldRZ1UzUmhkR1Z6IiwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ==\"},\"id_to_otoken_map\":{}}}}",
+                    "last_variant_selection_group_id": null,
+                    "variant_options_query": null,
+                    "version": "1"
+                  },
+                  "provider": "deprecated",
+                  "providers": [
+                    "p2"
+                  ],
+                  "query": "deprecated",
+                  "rating": 4.7,
+                  "rating_grouped_citation": {
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": null,
+                    "refs": [],
+                    "snippet": null,
+                    "supporting_websites": [],
+                    "title": "Apple MacBook Air M1 13-inch 128GB 8-Core CPU 7-Core GPU (Late 2020) SIlver - Ecofriendly",
+                    "url": "https://plug.tech/products/apple-macbook-air-m1-13-inch-128gb-8-core-cpu-7-core-gpu-late-2020-silver?variant=43234506408089&fdzly=plug-organicfd&glCurrency=USD"
+                  },
+                  "show_price_disclosure": false,
+                  "specs": null,
+                  "title": "13\" MacBook Air M1 (128GB)",
+                  "url": "https://plug.tech/products/apple-macbook-air-m1-13-inch-128gb-8-core-cpu-7-core-gpu-late-2020-silver?variant=43234506408089&fdzly=plug-organicfd&glCurrency=USD&utm_source=chatgpt.com",
+                  "variants": null,
+                  "variants_error_state_message": null
+                },
+                {
+                  "cite": "turn0product3",
+                  "description": null,
+                  "featured_tag": "",
+                  "id": "3916273290692292561",
+                  "image_urls": [
+                    "https://images.openai.com/static-rsc-1/Dw1ht3VOGrmyuVG_54GV68zOUCvQdEqZlLlalL5nprx8PJCIekRNwddphMnUPNOn7Oyjk9x9LDCcUjuaKFeFDswmq6IasolC-UnJVmVtwnnoNM2cqvf7UNj1vZ91-cVIpyqRZccFsTy4cdmmCuhnMFBR6JlHS-2LNEV4G1xi8VbwX3VuBvEcmBZRQgKH3bX1yztHMosRH3xBx35kkAwP3g_7UY3gRKs9gdfEsNGrceHaZNVALbiCVP6xlgFcqBnduJPBWe577vA5iUU7zrPdqw",
+                    "https://images.openai.com/static-rsc-1/AmC_MZYJmb9ffw6UzJ50sTRTohFvvWCOisiIv6zP0DvYG4kTmPX4lvPVdch80nFLU7GxTY1X5P5N-J2caiJV4uhOuKlS04Z-aM18R0mMFyp2usj53HMTzhtVemekLn5QBe2od5CaNZqT8i2YoaVN93vEVnQOK8iJHtZgBXEaSZ2Fx12VhtlJhrzpvvDfibvEmjvAyy16suMwOoVuuuD3jG7k_5hV_8Rwgb9jhPN4rmHZDk1HqX9NSFDrHX2_8vMd_LurSLYsJRSDShUNq-vuQw",
+                    "https://images.openai.com/static-rsc-1/h8uu_AdRdq6AdIB4NrU2DC7yBzcPhD-BlH22gPoz6me4A8veJfFD5Lf0DhApLGRVY1naRZP1FLJ_vmzzdaZPfLJUsGIA5eajzaBIEqJbBPDH0xfjpRV6BE_DO_SWb2Pa8Foudsi6Bcek4g3VnHACzp-01Qhewafzwy24CUfz3P7fo8fy_N7abUvpWE9My49p7OS3Y2MmWKs3pXoY07pWoGzy-BwnORpGZ5qQwbwD1r-LGIznhChw7COYe_dm8KXM"
+                  ],
+                  "merchants": "Back Market",
+                  "metadata_sources": [
+                    "p2"
+                  ],
+                  "num_reviews": 20427,
+                  "offers": [
+                    {
+                      "available": true,
+                      "checkout_image_urls": null,
+                      "checkout_payload": null,
+                      "checkoutable": false,
+                      "debug_info": {
+                        "h": "None",
+                        "p": "1000",
+                        "source": "p2"
+                      },
+                      "details": "Refurbished, In stock online",
+                      "is_digital": null,
+                      "merchant_name": "Back Market",
+                      "merchant_subtitle": null,
+                      "original_price": null,
+                      "price": "$394.04",
+                      "price_details": {
+                        "base": "$394.04",
+                        "display_price": null,
+                        "shipping": null,
+                        "tax": null,
+                        "total": "$394.04"
+                      },
+                      "product_name": "MacBook Air (2020) 13-inch - Apple M1 8-core and 7-core GPU - 8GB RAM - SSD 128GB",
+                      "provider": "p2",
+                      "tag": {
+                        "text": "Best price",
+                        "tooltip": null
+                      },
+                      "url": "https://www.backmarket.com/en-us/p/macbook-air-2020-13-inch-m1-8-core-and-7-core-gpu-8gb-ram-ssd-128gb/a19cba9a-bda5-48bd-9e7b-031c76db393d?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "offers_see_more_boundary": 1,
+                  "popularity_metadata": null,
+                  "price": "$394.04",
+                  "product_lookup_data": {
+                    "all_ids": {
+                      "p2": [
+                        "3916273290692292561"
+                      ]
+                    },
+                    "known_ids": {},
+                    "metadata_sources": [
+                      "p1",
+                      "p3"
+                    ],
+                    "request_query": "13\" MacBook Air M1 (refurb)",
+                    "variant_options_query": null,
+                    "variant_sources": null
+                  },
+                  "product_lookup_key": {
+                    "data": "{\"request_query\":\"13\\\" MacBook Air M1 (refurb)\",\"all_ids\":{\"p2\":[\"3916273290692292561\"]},\"known_ids\":{},\"metadata_sources\":[\"p1\",\"p3\"],\"variant_sources\":null,\"last_variant_group_types\":null,\"merchant_hints\":[\"Back Market\"],\"provider_title\":\"MacBook Air (2020) 13-inch - Apple M1 8-core and 7-core GPU - 8GB RAM - SSD 128GB\",\"provider_metadata\":{\"p2\":{\"id_to_token_map\":{\"3916273290692292561\":\"eyJlaSI6IlpQU2xhZC15RlBPR3A4NFBwTGFKdUF3IiwicHJvZHVjdGlkIjoiMzkxNjI3MzI5MDY5MjI5MjU2MSIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjM5MTYyNzMyOTA2OTIyOTI1NjEiLCJpbWFnZURvY2lkIjoiNDY3ODUwMDg5MzExMTQ1NDc3NyIsInJkcyI6IlBDXzExNTIzMzgwNzc4NTQ0MTQ4NDF8UFJPRF9QQ18xMTUyMzM4MDc3ODU0NDE0ODQxIiwicXVlcnkiOiJtYWNib29rK2FpcisxMyttMStwcmljZSIsImdwY2lkIjoiIiwibWlkIjoiIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJaFRtRnphSFpwYkd4bExGUmxibTVsYzNObFpTeFZibWwwWldRZ1UzUmhkR1Z6IiwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ==\"},\"id_to_otoken_map\":{}}}}",
+                    "last_variant_selection_group_id": null,
+                    "variant_options_query": null,
+                    "version": "1"
+                  },
+                  "provider": "deprecated",
+                  "providers": [
+                    "p2"
+                  ],
+                  "query": "deprecated",
+                  "rating": 4.7,
+                  "rating_grouped_citation": {
+                    "attribution_segments": null,
+                    "attributions": null,
+                    "hue": null,
+                    "pub_date": null,
+                    "refs": [],
+                    "snippet": null,
+                    "supporting_websites": [],
+                    "title": "MacBook Air (2020) 13-inch - Apple M1 8-core and 7-core GPU - 8GB RAM - SSD 128GB",
+                    "url": "https://www.backmarket.com/en-us/p/macbook-air-2020-13-inch-m1-8-core-and-7-core-gpu-8gb-ram-ssd-128gb/a19cba9a-bda5-48bd-9e7b-031c76db393d"
+                  },
+                  "show_price_disclosure": false,
+                  "specs": null,
+                  "title": "13\" MacBook Air M1 (refurb)",
+                  "url": "https://www.backmarket.com/en-us/p/macbook-air-2020-13-inch-m1-8-core-and-7-core-gpu-8gb-ram-ssd-128gb/a19cba9a-bda5-48bd-9e7b-031c76db393d?utm_source=chatgpt.com",
+                  "variants": null,
+                  "variants_error_state_message": null
+                }
+              ],
+              "prompt_text": "### 15\" MacBook Air M2 (8GB/256GB)\nDescription: None\nPrice: $829.00\nURL: https://www.walmart.com/ip/Apple-MacBook-Air-15-2023-M2-8-Core-10-Core-GPU-3-49GHz-256GB-SSD-16GB-Memory-MQKP3LL-A-A2941-15-inch-Display-Space-Gray-Grade-A-Cosmetics-Good/19465856207?wmlspartner=wlpa&selectedSellerId=101621591&utm_source=chatgpt.com\nNumber of Reviews: 1490\nRating: 4.7\nFeatured Tag: \nMerchants: Walmart - BuyMac\n\n### 15\" MacBook Air M2 (8GB/512GB)\nDescription: None\nPrice: $969.00\nURL: https://www.walmart.com/ip/Apple-MacBook-Air-15-2023-Apple-M2-8-Core-10-Core-GPU-3-49GHz-512GB-SSD-16GB-Memory-MQKX3LL-A-A2941-15-inch-Display-Midnight-Grade-A-Cosmetics/19628870144?wmlspartner=wlpa&selectedSellerId=101621591&utm_source=chatgpt.com\nNumber of Reviews: None\nRating: None\nFeatured Tag: \nMerchants: Walmart - BuyMac\n\n### 15\" MacBook Air M2 (8GB/1TB)\nDescription: None\nPrice: $903.00\nURL: https://www.backmarket.com/en-us/p/macbook-air-2023-153-inch-m2-8-core-and-10-core-gpu-8gb-ram-ssd-1000gb/91004aaf-355a-441d-97f6-bf6dde0e147d?utm_source=chatgpt.com\nNumber of Reviews: 1490\nRating: 4.7\nFeatured Tag: \nMerchants: Back Market\n\n### 13\" MacBook Air M1 (8GB/256GB)\nDescription: None\nPrice: $764.95\nURL: https://www.bestbuy.com/product/macbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray/JJ8ZHP82L3/sku/12062339?loc=marketplace&utm_source=chatgpt.com\nNumber of Reviews: 20427\nRating: 4.7\nFeatured Tag: \nMerchants: Best Buy + others\n\n### 13\" MacBook Air M1 (8GB/256GB)\nDescription: None\nPrice: $579.00\nURL: https://www.macoutlet.com/product-page/macbook-air-13-2020-m1-8gb256gb-ssd?utm_source=chatgpt.com\nNumber of Reviews: 6543\nRating: 4.7\nFeatured Tag: \nMerchants: Mac Outlet + others\n\n### 13\" MacBook Air M1 (16GB/1TB)\nDescription: None\nPrice: $559.00\nURL: https://www.walmart.com/ip/Apple-MacBook-Air-13-Apple-M1-8-Core-8-Core-GPU-3-2GHz-16GB-Memory-1TB-SSD-2020-Space-Gray-13-inch-Laptop-MGN73LL-A-A2337-Grade-B-cosmetics-Fair/19287153026?wmlspartner=wlpa&selectedSellerId=101621591&utm_source=chatgpt.com\nNumber of Reviews: None\nRating: None\nFeatured Tag: \nMerchants: Walmart - BuyMac\n\n### 13\" MacBook Air M1 (128GB)\nDescription: None\nPrice: $399.99\nURL: https://plug.tech/products/apple-macbook-air-m1-13-inch-128gb-8-core-cpu-7-core-gpu-late-2020-silver?variant=43234506408089&fdzly=plug-organicfd&glCurrency=USD&utm_source=chatgpt.com\nNumber of Reviews: 20427\nRating: 4.7\nFeatured Tag: \nMerchants: Plug\n\n### 13\" MacBook Air M1 (refurb)\nDescription: None\nPrice: $394.04\nURL: https://www.backmarket.com/en-us/p/macbook-air-2020-13-inch-m1-8-core-and-7-core-gpu-8gb-ram-ssd-128gb/a19cba9a-bda5-48bd-9e7b-031c76db393d?utm_source=chatgpt.com\nNumber of Reviews: 20427\nRating: 4.7\nFeatured Tag: \nMerchants: Back Market",
+              "type": "products"
+            },
+            {
+              "alt": "[15\" MacBook Air M2 (8GB/256GB)](https://www.walmart.com/ip/Apple-MacBook-Air-15-2023-M2-8-Core-10-Core-GPU-3-49GHz-256GB-SSD-16GB-Memory-MQKP3LL-A-A2941-15-inch-Display-Space-Gray-Grade-A-Cosmetics-Good/19465856207?wmlspartner=wlpa&selectedSellerId=101621591&utm_source=chatgpt.com)",
+              "prompt_text": "### 15\" MacBook Air M2 (8GB/256GB)\nDescription: None\nPrice: $829.00\nURL: https://www.walmart.com/ip/Apple-MacBook-Air-15-2023-M2-8-Core-10-Core-GPU-3-49GHz-256GB-SSD-16GB-Memory-MQKP3LL-A-A2941-15-inch-Display-Space-Gray-Grade-A-Cosmetics-Good/19465856207?wmlspartner=wlpa&selectedSellerId=101621591&utm_source=chatgpt.com\nNumber of Reviews: 1490\nRating: 4.7\nFeatured Tag: None\nMerchants: Walmart - BuyMac",
+              "type": "product_entity"
+            },
+            {
+              "alt": "[15\" MacBook Air M2 (8GB/512GB)](https://www.walmart.com/ip/Apple-MacBook-Air-15-2023-Apple-M2-8-Core-10-Core-GPU-3-49GHz-512GB-SSD-16GB-Memory-MQKX3LL-A-A2941-15-inch-Display-Midnight-Grade-A-Cosmetics/19628870144?wmlspartner=wlpa&selectedSellerId=101621591&utm_source=chatgpt.com)",
+              "prompt_text": "### 15\" MacBook Air M2 (8GB/512GB)\nDescription: None\nPrice: $969.00\nURL: https://www.walmart.com/ip/Apple-MacBook-Air-15-2023-Apple-M2-8-Core-10-Core-GPU-3-49GHz-512GB-SSD-16GB-Memory-MQKX3LL-A-A2941-15-inch-Display-Midnight-Grade-A-Cosmetics/19628870144?wmlspartner=wlpa&selectedSellerId=101621591&utm_source=chatgpt.com\nNumber of Reviews: None\nRating: None\nFeatured Tag: None\nMerchants: Walmart - BuyMac",
+              "type": "product_entity"
+            },
+            {
+              "alt": "[15\" MacBook Air M2 (8GB/1TB)](https://www.backmarket.com/en-us/p/macbook-air-2023-153-inch-m2-8-core-and-10-core-gpu-8gb-ram-ssd-1000gb/91004aaf-355a-441d-97f6-bf6dde0e147d?utm_source=chatgpt.com)",
+              "prompt_text": "### 15\" MacBook Air M2 (8GB/1TB)\nDescription: None\nPrice: $903.00\nURL: https://www.backmarket.com/en-us/p/macbook-air-2023-153-inch-m2-8-core-and-10-core-gpu-8gb-ram-ssd-1000gb/91004aaf-355a-441d-97f6-bf6dde0e147d?utm_source=chatgpt.com\nNumber of Reviews: 1490\nRating: 4.7\nFeatured Tag: None\nMerchants: Back Market",
+              "type": "product_entity"
+            },
+            {
+              "alt": "[13\" MacBook Air M1 (8GB/256GB)](https://www.bestbuy.com/product/macbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray/JJ8ZHP82L3/sku/12062339?loc=marketplace&utm_source=chatgpt.com)",
+              "prompt_text": "### 13\" MacBook Air M1 (8GB/256GB)\nDescription: None\nPrice: $764.95\nURL: https://www.bestbuy.com/product/macbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray/JJ8ZHP82L3/sku/12062339?loc=marketplace&utm_source=chatgpt.com\nNumber of Reviews: 20427\nRating: 4.7\nFeatured Tag: None\nMerchants: Best Buy + others",
+              "type": "product_entity"
+            },
+            {
+              "alt": "[13\" MacBook Air M1 (8GB/256GB)](https://www.macoutlet.com/product-page/macbook-air-13-2020-m1-8gb256gb-ssd?utm_source=chatgpt.com)",
+              "prompt_text": "### 13\" MacBook Air M1 (8GB/256GB)\nDescription: None\nPrice: $579.00\nURL: https://www.macoutlet.com/product-page/macbook-air-13-2020-m1-8gb256gb-ssd?utm_source=chatgpt.com\nNumber of Reviews: 6543\nRating: 4.7\nFeatured Tag: None\nMerchants: Mac Outlet + others",
+              "type": "product_entity"
+            },
+            {
+              "alt": "[13\" MacBook Air M1 (16GB/1TB)](https://www.walmart.com/ip/Apple-MacBook-Air-13-Apple-M1-8-Core-8-Core-GPU-3-2GHz-16GB-Memory-1TB-SSD-2020-Space-Gray-13-inch-Laptop-MGN73LL-A-A2337-Grade-B-cosmetics-Fair/19287153026?wmlspartner=wlpa&selectedSellerId=101621591&utm_source=chatgpt.com)",
+              "prompt_text": "### 13\" MacBook Air M1 (16GB/1TB)\nDescription: None\nPrice: $559.00\nURL: https://www.walmart.com/ip/Apple-MacBook-Air-13-Apple-M1-8-Core-8-Core-GPU-3-2GHz-16GB-Memory-1TB-SSD-2020-Space-Gray-13-inch-Laptop-MGN73LL-A-A2337-Grade-B-cosmetics-Fair/19287153026?wmlspartner=wlpa&selectedSellerId=101621591&utm_source=chatgpt.com\nNumber of Reviews: None\nRating: None\nFeatured Tag: None\nMerchants: Walmart - BuyMac",
+              "type": "product_entity"
+            },
+            {
+              "alt": "[13\" MacBook Air M1 (128GB)](https://plug.tech/products/apple-macbook-air-m1-13-inch-128gb-8-core-cpu-7-core-gpu-late-2020-silver?variant=43234506408089&fdzly=plug-organicfd&glCurrency=USD&utm_source=chatgpt.com)",
+              "prompt_text": "### 13\" MacBook Air M1 (128GB)\nDescription: None\nPrice: $399.99\nURL: https://plug.tech/products/apple-macbook-air-m1-13-inch-128gb-8-core-cpu-7-core-gpu-late-2020-silver?variant=43234506408089&fdzly=plug-organicfd&glCurrency=USD&utm_source=chatgpt.com\nNumber of Reviews: 20427\nRating: 4.7\nFeatured Tag: None\nMerchants: Plug",
+              "type": "product_entity"
+            },
+            {
+              "alt": "[13\" MacBook Air M1 (refurb)](https://www.backmarket.com/en-us/p/macbook-air-2020-13-inch-m1-8-core-and-7-core-gpu-8gb-ram-ssd-128gb/a19cba9a-bda5-48bd-9e7b-031c76db393d?utm_source=chatgpt.com)",
+              "prompt_text": "### 13\" MacBook Air M1 (refurb)\nDescription: None\nPrice: $394.04\nURL: https://www.backmarket.com/en-us/p/macbook-air-2020-13-inch-m1-8-core-and-7-core-gpu-8gb-ram-ssd-128gb/a19cba9a-bda5-48bd-9e7b-031c76db393d?utm_source=chatgpt.com\nNumber of Reviews: 20427\nRating: 4.7\nFeatured Tag: None\nMerchants: Back Market",
+              "type": "product_entity"
+            },
+            {
+              "alt": "([Apple](https://www.apple.com/shop/buy-mac/macbook-air?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Apple",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Have questions about buying a Mac? Chat with a Mac Specialist(Opens in a new window). Select a size: 13-inchFrom $999. 15-inchFrom $1199. 13-inch MacBook Air ...Read more",
+                  "supporting_websites": [],
+                  "title": "Buy MacBook Air",
+                  "url": "https://www.apple.com/shop/buy-mac/macbook-air?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([RTINGS.com](https://www.rtings.com/laptop/tools/compare/apple-macbook-air-13-m1-2020-vs-apple-macbook-air-15-m2-2023/20028/39095?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "RTINGS.com",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 21,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "The Apple MacBook Air 15 (M2, 2023) is better than the Apple MacBook Air 13 (M1, 2020) in almost every way except for battery life, as the M1 MacBook Air's ...",
+                  "supporting_websites": [],
+                  "title": "Apple MacBook Air 13 (M1, 2020) vs MacBook Air 15 (M2 ...",
+                  "url": "https://www.rtings.com/laptop/tools/compare/apple-macbook-air-13-m1-2020-vs-apple-macbook-air-15-m2-2023/20028/39095?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([RTINGS.com](https://www.rtings.com/laptop/tools/compare/apple-macbook-air-13-m1-2020-vs-apple-macbook-air-15-m2-2023/20028/39095?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "RTINGS.com",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 21,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "The Apple MacBook Air 15 (M2, 2023) is better than the Apple MacBook Air 13 (M1, 2020) in almost every way except for battery life, as the M1 MacBook Air's ...",
+                  "supporting_websites": [],
+                  "title": "Apple MacBook Air 13 (M1, 2020) vs MacBook Air 15 (M2 ...",
+                  "url": "https://www.rtings.com/laptop/tools/compare/apple-macbook-air-13-m1-2020-vs-apple-macbook-air-15-m2-2023/20028/39095?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "Apple",
+                  "title": "Buy MacBook Air",
+                  "url": "https://www.apple.com/shop/buy-mac/macbook-air?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "RTINGS.com",
+                  "title": "Apple MacBook Air 13 (M1, 2020) vs MacBook Air 15 (M2 ...",
+                  "url": "https://www.rtings.com/laptop/tools/compare/apple-macbook-air-13-m1-2020-vs-apple-macbook-air-15-m2-2023/20028/39095?utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "model_slug": "gpt-5-2",
+          "parent_id": "c9b70106-c546-4b91-985c-44dfb0ae318f",
+          "search_result_groups": [
+            {
+              "domain": "youtube.com",
+              "entries": [
+                {
+                  "attribution": "youtube.com",
+                  "snippet": "... MacBook Air Review: https://youtu.be/3-6C-CoC9ao (make sure you're subscribed to see the M4 version, out soon!) Apple Videos Playlist ...",
+                  "title": "13 inch MacBook Air vs. 15 inch - Which Should You Buy? - YouTube",
+                  "url": "https://www.youtube.com/watch?v=3LIlx1bkoB4&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "youtube.com",
+                  "snippet": "... MacBookAir #Apple.",
+                  "title": "13\" vs 15\" MacBook Air: DON'T Waste Your Money! Easy Choice?",
+                  "url": "https://www.youtube.com/watch?v=GuKSY5KL8AA&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "youtube.com",
+                  "snippet": "We're going to compare the 13 and 15in sizes compare the performance to previous models and get my overall First Impressions.",
+                  "title": "13\u201d vs 15\u201d MacBook Air M4 - Which Should You Buy?",
+                  "url": "https://www.youtube.com/watch?v=CgX_mO_KB0Y&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "youtube.com",
+                  "snippet": "The Best Apple Laptop To Buy Right Now - $799 M4 MacBook Air - What's Going On With Apple Pricing? &middot; Comments.",
+                  "title": "The Best Apple Laptop To Buy Right Now - $799 M4 MacBook ...",
+                  "url": "https://www.youtube.com/watch?v=om6OhGbBLxI&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "youtube.com",
+                  "snippet": "The new M4 MacBook Air is 18% faster in single core and 23% faster in multi-core that's when compared to the prior M3 version.",
+                  "title": "MacBook Air 13 & 15 Review (M4) \u2013 Should You Buy It?",
+                  "url": "https://www.youtube.com/watch?v=79umNOov_8w&utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "apple.com",
+              "entries": [
+                {
+                  "attribution": "apple.com",
+                  "snippet": "Switch from PC to Mac \u00b7 BuyMacBook Air 13 and 15 inch. Buy MacBook Air starting at $899 with education savings.* Shop. MacBook Air. Speed of lightness.Read more",
+                  "title": "MacBook Air 13-inch and MacBook Air 15-inch",
+                  "url": "https://www.apple.com/macbook-air/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "apple.com",
+                  "snippet": "Buy MacBook Air ; From $899 ; Add a trade-in. Answer a few questions to get your estimate. ; Finance Apple Card Monthly Installments ; New AppleCare OneCover ...Read more",
+                  "title": "Buy MacBook Air - Education",
+                  "url": "https://www.apple.com/us-edu/shop/buy-mac/macbook-air?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "apple.com",
+                  "snippet": "Compare the MacBook Air models with other Mac laptops and desktops. And find the one that's perfect for your life, your work, and your budget.",
+                  "title": "Compare MacBook Air Models",
+                  "url": "https://www.apple.com/macbook-air/compare/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "apple.com",
+                  "snippet": "MacBook Air Technical Specifications \u00b7 Up to 18 hours video streaming \u00b7 Up to 15 hours wireless web \u00b7 Built-in 53.8\u2011watt\u2011hour lithium\u2011polymer battery \u00b7 30W USB-C ...Read more",
+                  "title": "MacBook Air 13- and 15-inch with M4 Chip - Tech Specs",
+                  "url": "https://www.apple.com/macbook-air/specs/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "apple.com",
+                  "snippet": "See what makes each Mac laptop and desktop different. And find the one that's perfect for your life, your work and your budget.",
+                  "title": "Compare Mac Models",
+                  "url": "https://www.apple.com/in/mac/compare/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "apple.com",
+                  "snippet": "All models. ; MacBook Air \u00b7 - MacBook Air \u00b7 $999 ; MacBook Pro - NEW 14\u201d WITH M5 \u00b7 - MacBook Pro \u00b7 $1599 ; iMac \u00b7 - iMac \u00b7 $1299 ; Mac mini \u00b7 - Mac mini \u00b7 $599 ; Mac Studio.Read more",
+                  "title": "Buy Mac",
+                  "url": "https://www.apple.com/shop/buy-mac?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "apple.com",
+                  "snippet": "Mar 4, 2024 \u2014 The 13-inch MacBook Air with M3 starts at $1,099 (U.S.) and $999 (U.S.) for education, and the 15\u2011inch MacBook Air with M3 starts at $1,299 ...Read more",
+                  "title": "Apple unveils the new 13- and 15-inch MacBook Air with ...",
+                  "url": "https://www.apple.com/newsroom/2024/03/apple-unveils-the-new-13-and-15-inch-macbook-air-with-the-powerful-m3-chip/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "reddit.com",
+              "entries": [
+                {
+                  "attribution": "reddit.com",
+                  "snippet": "M2 chip is $200 more expensive than M1. I want to know their difference cause right now based on their price I'm more willingly to get the cheaper one.Read more",
+                  "title": "What is the difference between Macbook Air with M1 chip ...",
+                  "url": "https://www.reddit.com/r/macbook/comments/12dizba/what_is_the_difference_between_macbook_air_with/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "reddit.com",
+                  "snippet": "If you qualify for Apple education then m2 with 150 Apple 150 gc brings it down to 850 effectively and m1 is only 100 dollar cheaper than m2 ...Read more",
+                  "title": "I bought an M1 MacBook Air over the M2, it was an easy ...",
+                  "url": "https://www.reddit.com/r/macbook/comments/14mnzx1/i_bought_an_m1_macbook_air_over_the_m2_it_was_an/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "reddit.com",
+                  "snippet": "The 13\u201d has no limits and can do everything the 15\u201d can do in a smaller size. The 15\u201d will do almost everything the 13\u201d can do, but better. The ...Read more",
+                  "title": "15 inch or 13 inch MacBook Air? : r/macbookair",
+                  "url": "https://www.reddit.com/r/macbookair/comments/1b83u5d/15_inch_or_13_inch_macbook_air/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "reddit.com",
+                  "snippet": "The M1 has a faster SSD because of using 2 chips. The M2 will have a faster CPU and a larger screen and better speakers. Personally, I think ...",
+                  "title": "Should I buy the m1 macbook air 13inch or m2 ...",
+                  "url": "https://www.reddit.com/r/macbookair/comments/16cfmqa/should_i_buy_the_m1_macbook_air_13inch_or_m2/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "reddit.com",
+                  "snippet": "Hello, I need your advice to choose between these 2 laptops, either a 13\" M2 MacBook Air with 24GB RAM and 1TB SSD or a 15\" M2 MacBook Air ...Read more",
+                  "title": "13\" M2 MacBook Air or 15\" M2 MacBook Air? : r/macbook",
+                  "url": "https://www.reddit.com/r/macbook/comments/17h5u1v/13_m2_macbook_air_or_15_m2_macbook_air/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "bestbuy.com",
+              "entries": [
+                {
+                  "attribution": "bestbuy.com",
+                  "snippet": "Front. Apple - MacBook Air 13-inch Laptop - Apple M4 chip Built for ... $66.59/mo. suggested payments with 12\u2011Month Financing.Read more",
+                  "title": "Apple MacBook Air Laptops",
+                  "url": "https://www.bestbuy.com/site/macbooks/macbook-air/pcmcat378600050008.c?id=pcmcat378600050008&utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "appleinsider.com",
+              "entries": [
+                {
+                  "attribution": "appleinsider.com",
+                  "snippet": "6 days ago \u2014 MacBook Air discounts deliver prices as low as $599, with standard and upgraded models up to $600 off.",
+                  "title": "MacBook Air Deals Drop to $599 With Savings up to $600 Off",
+                  "url": "https://appleinsider.com/articles/26/01/13/pick-up-apples-macbook-air-at-up-to-600-off-with-prices-as-low-as-599?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "appleinsider.com",
+                  "snippet": "Retail prices for the 2022 MacBook Air start at $1,199 and top out at $2,499 -- however, exclusive MacBook Air deals are available on every configuration in ...Read more",
+                  "title": "MacBook Air Price M2 (10-core GPU), 16GB, 512GB, Space ...",
+                  "url": "https://prices.appleinsider.com/product/macbook-air-m2/Z15T0005G?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "appleinsider.com",
+                  "snippet": "M4 MacBook Air 15-inch Prices ; M4 15\", 24GB, 256GB, Midnight, $1,301, $98 ; M4 15\", 24GB, 512GB, Sky Blue, $1,399, $200.Read more",
+                  "title": "M4 MacBook Air 15-inch Prices",
+                  "url": "https://prices.appleinsider.com/macbook-air-15-inch-m4?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "appleinsider.com",
+                  "snippet": "Lowest Mac computer prices on Apple's MacBook Pro, MacBook Air, iMac, Mac Studio & Mac mini models.",
+                  "title": "Mac Computers 2025 Best Sale Price Deals & Discounts",
+                  "url": "https://prices.appleinsider.com/current-gen?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "costco.com",
+              "entries": [
+                {
+                  "attribution": "costco.com",
+                  "snippet": "Shop the latest Apple MacBook Air and MacBook Pro models at Costco. Enjoy unbeatable prices, exclusive member deals, and fast shipping on all MacBooks.",
+                  "title": "MacBook",
+                  "url": "https://www.costco.com/macbooks.html?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "macrumors.com",
+              "entries": [
+                {
+                  "attribution": "macrumors.com",
+                  "snippet": "While the 13-inch MacBook Air with the M3 chip starts at $1,099, making it $200 cheaper than the 15-inch model, if you choose the 13-inch ...",
+                  "title": "13-Inch vs. 15-Inch MacBook Air Buyer's Guide | MacRumors Forums",
+                  "url": "https://forums.macrumors.com/threads/13-inch-vs-15-inch-macbook-air-buyers-guide.2391905/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "reviewed.com",
+              "entries": [
+                {
+                  "attribution": "reviewed.com",
+                  "snippet": "Feb 22, 2024 \u2014 The new MacBook Air 15 M2 is bigger than the MacBook Air 13 M2, but it's not necessarily better. The MacBook Air 15 launched at $1,299, $200 ...Read more",
+                  "title": "Apple MacBook Air 13 M2 vs Apple MacBook Air 15 M2",
+                  "url": "https://www.reviewed.com/laptops/features/apple-macbook-air-13-m2-vs-apple-macbook-air-15-m2?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "reviewed.com",
+                  "snippet": "Jan 28, 2025 \u2014 While the M1 MacBook Air's display is impressive, M2 has a few improvements. The M1 uses a Liquid Retina display, which is a 13.3-inch 2560 x ...",
+                  "title": "Apple MacBook Air M1 vs M2: Which should you buy?",
+                  "url": "https://www.reviewed.com/laptops/features/apple-macbook-air-m1-vs-macbook-air-m2?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "medium.com",
+              "entries": [
+                {
+                  "attribution": "medium.com",
+                  "snippet": "The major difference is that it no longer has a tapered design. Instead of the wedge shape seen in earlier models, it has a flatter appearance.",
+                  "title": "M1 vs M2: The Clash of MacBook Air Titans",
+                  "url": "https://medium.com/%40kellyshephard/m1-vs-m2-the-clash-of-macbook-air-titans-fbfc6c4d284d?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "rtings.com",
+              "entries": [
+                {
+                  "attribution": "rtings.com",
+                  "snippet": "The Apple MacBook Air 15 (M2, 2023) is essentially the same device as the Apple MacBook Air 13 (M2, 2022) but with a larger 15.3-inch screen and ...",
+                  "title": "Apple MacBook Air 13 (M2, 2022) vs ... - RTINGS.com",
+                  "url": "https://www.rtings.com/laptop/tools/compare/apple-macbook-air-13-m2-2022-vs-apple-macbook-air-15-m2-2023/33915/39095?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "phonearena.com",
+              "entries": [
+                {
+                  "attribution": "phonearena.com",
+                  "snippet": "Apr 7, 2025 \u2014 The 13-inch version is naturally more compact at 30.41 x 21.5 x 1.13 cm, while the 15-inch version of both generations measures 34.04 x 23.76 x ...See more",
+                  "title": "MacBook Air M4 13-inch vs 15-inch: Portability versus ...",
+                  "url": "https://www.phonearena.com/reviews/apple-macbook-air-m4-13-inch-vs-15-inch_id7177?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "laptopmag.com",
+              "entries": [
+                {
+                  "attribution": "laptopmag.com",
+                  "snippet": "Jun 12, 2023 \u2014 The 15-inch MacBook Air starts at $1,299, $200 more than the base 13-inch MacBook Air. ... A powered-on, dark gray laptop with its screen folded ...Read more",
+                  "title": "15-inch MacBook Air vs 13-inch MacBook Air - Laptop Mag",
+                  "url": "https://www.laptopmag.com/features/15-inch-macbook-air-vs-13-inch-macbook-air?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "engadget.com",
+              "entries": [
+                {
+                  "attribution": "engadget.com",
+                  "snippet": "Mar 11, 2025 \u2014 It's slightly faster, thanks to the M4 chip, and also a bit cheaper with a new $999 starting price. Pros. Fast performance; Thin and light ...Read more",
+                  "title": "Apple MacBook Air M4 13-inch and 15-inch review",
+                  "url": "https://www.engadget.com/computing/laptops/apple-macbook-air-m4-13-inch-and-15-inch-review-minimal-upgrades-at-a-much-better-price-130002570.html?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "refurb.me",
+              "entries": [
+                {
+                  "attribution": "refurb.me",
+                  "snippet": "Jun 23, 2023 \u2014 The most apparent difference between the 13-inch and the 15-inch MacBook Air is their size. The MacBook 13\u2032\u2032 measures 11.97 x 8.48 x 0.44 and weighs 2.7 pounds.Read more",
+                  "title": "13-Inch vs. 15-Inch MacBook Air M2: All the Differences",
+                  "url": "https://www.refurb.me/blog/macbook-air-m2-13-vs-15-inch?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "markellisreviews.com",
+              "entries": [
+                {
+                  "attribution": "markellisreviews.com",
+                  "snippet": "Which is right for you out of the 13-Inch vs 15-Inch M2 MacBook Air? Let's find out in my full buying guide.",
+                  "title": "13-inch vs 15-inch MacBook Air: How to Choose",
+                  "url": "https://markellisreviews.com/buying-guide/13-inch-vs-15-inch-m2-macbook-air-how-to-choose/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "walmart.com",
+              "entries": [
+                {
+                  "attribution": "walmart.com",
+                  "snippet": "MacBook Air in Apple MacBook(1000+) ; 599 \u00b7 current price $599.00. Options from $409.00 \u00b7 55404.3 out of 5 Stars. 5540 reviews \u00b7 Low stock ; 359 \u00b7 current price Now ...Read more",
+                  "title": "MacBook Air in Apple MacBook - Walmart.com",
+                  "url": "https://www.walmart.com/browse/electronics/macbook-air/3944_1089430_3951_8945805_4302526?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "theverge.com",
+              "entries": [
+                {
+                  "attribution": "theverge.com",
+                  "snippet": "The best deals on MacBooks right now ; 13-inch MacBook Air (M4, 16GB RAM, 256GB SSD). $799$999 ; 15-inch MacBook Air (M4, 16GB RAM, 256GB SSD). $999$1199 ; Apple ...Read more",
+                  "title": "The best deals on MacBooks right now",
+                  "url": "https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "amazon.com",
+              "entries": [
+                {
+                  "attribution": "amazon.com",
+                  "snippet": "Apple 2025 MacBook Air 13-inch Laptop with M4 chip: Built for Apple Intelligence, 13.6-inch Liquid Retina Display, 16GB Unified Memory, 256GB SSD Storage, 12MP ...Read more",
+                  "title": "Apple 2025 MacBook Air 13-inch Laptop with M4 chip ...",
+                  "url": "https://www.amazon.com/Apple-2025-MacBook-13-inch-Laptop/dp/B0DZDC3WW5?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "everymac.com",
+              "entries": [
+                {
+                  "attribution": "everymac.com",
+                  "snippet": "Apr 7, 2025 \u2014 On March 4, 2024, Apple again cut the price of the MacBook Air \"M2\" 8 CPU/8 GPU 13-Inch and \"M2\" 8 CPU/10 GPU 13-Inch to US$999 and US$1199, ...Read more",
+                  "title": "Differences Between MacBook Air 2020 M1 and 2022 M2",
+                  "url": "https://everymac.com/systems/apple/macbook-air/macbook-air-silicon-faq/differences-between-macbook-air-m2-2022-models.html?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "iclarified.com",
+              "entries": [
+                {
+                  "attribution": "iclarified.com",
+                  "snippet": "Mar 4, 2024 \u2014 The 13-inch MacBook Air with M3 starts at $1,099 (U.S.) and $999 (U.S.) for education, and the 15\u2011inch MacBook Air with M3 starts at $1,299 ...Read more",
+                  "title": "Apple Announces New 13-inch and 15-inch MacBook Air ...",
+                  "url": "https://www.iclarified.com/92950/apple-announces-new-13inch-and-15inch-macbook-air-with-m3-chip?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "themacindex.com",
+              "entries": [
+                {
+                  "attribution": "themacindex.com",
+                  "snippet": "List prices of MacBook Air 15-inch M4 16GB 512GB in United States. Find the best deals and compare with other countries in USD.",
+                  "title": "MacBook Air in United States | USD Prices",
+                  "url": "https://themacindex.com/us/products/macbook-air/15-inch-m4-16gb-512gb-mw1h3?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "aa6cb1d1-aada-4a4d-815b-def74eae0164"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Laptop Pricing Comparison",
+  "update_time": 1772483695.672015,
+  "voice": null
+}

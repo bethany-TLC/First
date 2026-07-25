@@ -1,0 +1,120 @@
+{
+  "conversation_id": "6a21e655-6da4-83e8-a357-f112ced8e043",
+  "conversation_template_id": null,
+  "create_time": 1780606614.347954,
+  "current_node": "353ca93e-2e07-4524-b8ff-79e44d7e43b9",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a21e655-6da4-83e8-a357-f112ced8e043",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "1da0f682-c543-4b72-8b65-551deae30781": {
+      "id": "1da0f682-c543-4b72-8b65-551deae30781",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "write an emai that talks baou thatnks them fo rhteir space and I just got back some videos/pictures from our shoot (sorry it took so long)\u00a0\nSo far... here is what I have, but I have asked them to edit Matt into the other video as well as I would like to do a voice over on one of them. So stay tuned for more!\u00a0also that i am still onthe hunt for the injector but have not found a quality oneyet that ispart time. also ask matt whem he is ready to exand or advertise let me know i can help send some stuff his way. "
+          ]
+        },
+        "create_time": 1780606613.834,
+        "id": "1da0f682-c543-4b72-8b65-551deae30781",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "353ca93e-2e07-4524-b8ff-79e44d7e43b9": {
+      "id": "353ca93e-2e07-4524-b8ff-79e44d7e43b9",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here's a polished version you can send to Matt and Amy:\n\n:::writing{variant=\"email\" id=\"58241\" subject=\"A Quick Update and Thank You\"}\nHi Matt and Amy,\n\nI hope you both are doing well!\n\nFirst, thank you again for allowing us to use your beautiful space for filming. We truly appreciate your hospitality and the opportunity to spend time with you both.\n\nI just got back some of the videos and photos from our shoot (sorry it took a little longer than expected!). So far, this is what I have, but I've asked the editing team to make a few additional updates. I'd love to have Matt included in one of the other videos, and I'm planning to record a voiceover for another piece as well. So stay tuned, there will be more coming soon!\n\nOn the injector front, I'm still keeping my eyes open for you. I've spoken with several candidates, but I haven't found a quality fit yet who is looking for the type of part-time opportunity you're offering. I'll absolutely keep searching and will send anyone promising your way.\n\nAlso, Matt, whenever you're ready to expand your marketing efforts or increase patient acquisition, please let me know. I'd be happy to share some ideas and resources that could help support your growth goals.\n\nThanks again for everything. We always enjoy spending time with you both and look forward to staying in touch.\n\nWarmly,\n\nBethany Gifford  \nFounder & CEO  \nNew Era Intel  \nbethany@neweraintel.com\n:::\n"
+          ]
+        },
+        "create_time": 1780606614.240373,
+        "id": "353ca93e-2e07-4524-b8ff-79e44d7e43b9",
+        "metadata": {
+          "content_references": [],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Memory",
+                "citation_uuid": "10cda27f-5288-42fe-905c-847189329170",
+                "conversation_context_type": "user_memory",
+                "end_idx": -1,
+                "index": 11,
+                "matched_text": "",
+                "memory_id": "f5f3003a-8383-4131-a76e-5dbb1e21ce3d",
+                "prompt_text": null,
+                "reason": "You are associated with New Era Intel and lead outreach.",
+                "refs": [],
+                "snippet": "Bethany is associated with a company called New Era Intel and works in a leadership or client-facing role, managing its client relationships, B2B outreach campaigns, and performance guarantees tied to generating qualified decision-maker conversations.",
+                "start_idx": -1,
+                "title": "You are associated with New Era Intel and lead outreach.",
+                "type": "conversation_context_citation",
+                "url": "#settings/Personalization"
+              },
+              "citation_uuid": "10cda27f-5288-42fe-905c-847189329170",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "364df23d-7e57-4932-9619-26f51d2be503"
+        }
+      },
+      "parent": "1da0f682-c543-4b72-8b65-551deae30781"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "fda6ac05-97fa-42cc-882e-5637559e16f1": {
+      "id": "fda6ac05-97fa-42cc-882e-5637559e16f1",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here's a polished version you can send to Matt and Amy:\n\n:::writing{variant=\"email\" id=\"58241\" subject=\"A Quick Update + Thank You\"}\nHi Matt and Amy,\n\nI hope you're both doing well!\n\nFirst, thank you again for allowing us to come into your space and film. We always enjoy spending time with you both, and we truly appreciate your hospitality.\n\nI just got back some of the videos and photos from our shoot (sorry it took so long!). So far, here's what I have, but I've asked the editing team to make a few additional updates. I'd like them to add Matt into one of the videos, and I'm planning to record a voiceover for another one. So stay tuned, there will be more coming your way soon!\n\nOn the injector front, I'm still keeping my eyes open for you. I've talked with several candidates, but I haven't found a high-quality part-time injector that feels like the right fit yet. I'll definitely keep looking and will let you know as soon as I find someone promising.\n\nAlso, Matt, whenever you're ready to expand, increase patient volume, or start advertising more aggressively, let me know. I'd be happy to send some ideas your way and share a few strategies that could help support your growth goals.\n\nThank you both again, and Amy, thanks for jumping in and being such a fun model for us that day!\n\nLooking forward to catching up soon.\n\nWarmly,\n\nBethany Gifford  \nFounder & CEO  \nNew Era Intel  \nbethany@neweraintel.com\n:::\n"
+          ]
+        },
+        "create_time": 1780606614.207281,
+        "id": "fda6ac05-97fa-42cc-882e-5637559e16f1",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "41ac7a00-c143-42e0-ab92-7f1260e9810f"
+        }
+      },
+      "parent": "1da0f682-c543-4b72-8b65-551deae30781"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Email Polishing and Updates",
+  "update_time": 1780606670.633669,
+  "voice": null
+}

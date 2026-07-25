@@ -1,0 +1,116 @@
+{
+  "conversation_id": "69c1608b-17e4-8329-ba5b-81fa288c1b71",
+  "conversation_template_id": null,
+  "create_time": 1774280863.599413,
+  "current_node": "9411f64d-a9a0-4381-9dfd-27dae168630c",
+  "default_model_slug": "gpt-5-3",
+  "id": "69c1608b-17e4-8329-ba5b-81fa288c1b71",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "268b0142-af56-4d77-a510-10bddb7df5e8": {
+      "id": "268b0142-af56-4d77-a510-10bddb7df5e8",
+      "message": null,
+      "parent": null
+    },
+    "4ef6f6c8-3505-448c-8c48-971500101d69": {
+      "id": "4ef6f6c8-3505-448c-8c48-971500101d69",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Honestly\u2026 the biggest mistake I see is people jumping straight to \u201cmarketing\u201d before their systems are dialed in.\n\nYou can run great ads or post consistently, but if your follow-up, booking process, and client journey aren\u2019t tight, you\u2019re just leaking money.\n\nWhat actually works:\n\u2022 A clear offer people *want* (not just \u201cBotox available\u201d)  \n\u2022 Fast, consistent follow-up (within minutes, not hours)  \n\u2022 A simple booking process with reminders to reduce no-shows  \n\u2022 A way to turn first-time clients into repeat clients  \n\nOnce those are solid, *then* marketing starts working the way you expect.\n\nFor marketing specifically on a budget:\n\u2022 Paid ads with a strong offer will outperform \u201corganic only\u201d almost every time  \n\u2022 Organic content works best as trust-building, not your main lead source  \n\u2022 You don\u2019t need a big agency\u2026 you need someone who understands conversion, not just posting  \n\nIf you fix the systems first and then layer in marketing, you\u2019ll see way better ROI and actually fill your schedule instead of just getting likes \ud83d\udc4d"
+          ]
+        },
+        "create_time": 1774280863.432488,
+        "id": "4ef6f6c8-3505-448c-8c48-971500101d69",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "02417517-654f-4881-99b5-b565ce92f588"
+        }
+      },
+      "parent": "bbb212a1-a86c-47db-8b44-926cee9699ee"
+    },
+    "9411f64d-a9a0-4381-9dfd-27dae168630c": {
+      "id": "9411f64d-a9a0-4381-9dfd-27dae168630c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Biggest thing\u2026 don\u2019t jump straight to marketing.\n\nIf your follow-up, booking process, and client journey aren\u2019t solid, you\u2019ll just waste money on ads.\n\nWhat actually works:\n\u2022 Strong, clear offer  \n\u2022 Fast follow-up  \n\u2022 Easy booking + reminders  \n\nThen layer in marketing:\n\u2022 Paid ads > organic for new clients  \n\u2022 Organic builds trust, not volume  \n\nFix the systems first, then marketing will actually convert \ud83d\udc4d"
+          ]
+        },
+        "create_time": 1774280905.137352,
+        "id": "9411f64d-a9a0-4381-9dfd-27dae168630c",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "f61e06f9-101b-4b2d-9161-be1a021b0ad4"
+        }
+      },
+      "parent": "bbb211f5-8b3b-4f88-b2dd-c44d1c3a9b75"
+    },
+    "bbb211f5-8b3b-4f88-b2dd-c44d1c3a9b75": {
+      "id": "bbb211f5-8b3b-4f88-b2dd-c44d1c3a9b75",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Make this like a comment not a novel"
+          ]
+        },
+        "create_time": 1774280904.724842,
+        "id": "bbb211f5-8b3b-4f88-b2dd-c44d1c3a9b75",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "4ef6f6c8-3505-448c-8c48-971500101d69"
+    },
+    "bbb212a1-a86c-47db-8b44-926cee9699ee": {
+      "id": "bbb212a1-a86c-47db-8b44-926cee9699ee",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Respond to this short and sweet about things that the loxora does for people without mentioning the company and and make it helpful comment that would direct them back to system ls and then add markting. \n\nQuestion for the group - what marketing and/or marketing strategy do you find the most beneficial?  What would you recommend that actually works and brings in new clients/bookings?  \n\nI've looked into a couple small marketing companies (one or 2 person marketing business) that provides \"organic\" social media posts and paid social media advertisements.  I know that going with a large firm can get expensive...so I'm looking for recommendations on a budget and what to expect for marketing services.  Thank you!"
+          ]
+        },
+        "create_time": 1774280863.189112,
+        "id": "bbb212a1-a86c-47db-8b44-926cee9699ee",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "268b0142-af56-4d77-a510-10bddb7df5e8"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Marketing Strategy for Growth",
+  "update_time": 1774280909.860793,
+  "voice": null
+}

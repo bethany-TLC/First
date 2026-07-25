@@ -1,0 +1,72 @@
+{
+  "conversation_id": "68c050de-10e8-832c-920c-858473597f24",
+  "conversation_template_id": null,
+  "create_time": 1757434155.198249,
+  "current_node": "fe272916-a9ee-4c61-97aa-7e5f081e2ca9",
+  "default_model_slug": "auto",
+  "id": "68c050de-10e8-832c-920c-858473597f24",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "c592c6ce-dafc-483c-8dd3-c6d2f0718780": {
+      "id": "c592c6ce-dafc-483c-8dd3-c6d2f0718780",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "write a testimonalial video script that is 45-60 seconds long about working with Ivan and Lu Guzman and having them do the fufillment side of my aesthetic and wellness growth partnet agnecy and how amazing they are and thoruorgh and they over deliver and help create and brainstorm and grea clietn facing\n\nPlease write in English language."
+          ]
+        },
+        "create_time": 1757434154.558,
+        "id": "c592c6ce-dafc-483c-8dd3-c6d2f0718780",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "fe272916-a9ee-4c61-97aa-7e5f081e2ca9": {
+      "id": "fe272916-a9ee-4c61-97aa-7e5f081e2ca9",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a polished testimonial script you can use for a 45\u201360 second video:  \n\n---\n\n**Testimonial Video Script**  \n\n*\"Hi, I just wanted to share my experience working with Ivan and Lu Guzman. They\u2019ve been an absolute game-changer for my aesthetic and wellness growth partner agency. On the fulfillment side, they are incredibly thorough \u2014 every detail is handled with such care and precision. What I love most is that they don\u2019t just check boxes; they actually overdeliver. They help me brainstorm, create, and come up with fresh ideas that really resonate with clients.  \n\nThe client-facing side has also been amazing. They make everything seamless and professional, which gives me so much confidence in how my agency shows up. Honestly, working with Ivan and Lu feels like having true partners who care about the success of both me and my clients. I can\u2019t recommend them highly enough.\"*  \n\n---\n\nWould you like me to also write a **shorter, punchier 30-second version** you could use for social clips?"
+          ]
+        },
+        "create_time": 1757434155.144492,
+        "id": "fe272916-a9ee-4c61-97aa-7e5f081e2ca9",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "e30d7899-6f45-435a-a03c-17b919034a43"
+        }
+      },
+      "parent": "c592c6ce-dafc-483c-8dd3-c6d2f0718780"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Testimonial video script",
+  "update_time": 1757434215.588093,
+  "voice": null
+}

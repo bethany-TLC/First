@@ -1,0 +1,71 @@
+{
+  "conversation_id": "6966e6e7-b860-8325-a40c-2c447b154346",
+  "conversation_template_id": null,
+  "create_time": 1768351478.187472,
+  "current_node": "a7a89c1c-9ce1-46b6-ae41-c2e03e723f15",
+  "default_model_slug": "gpt-5-2",
+  "id": "6966e6e7-b860-8325-a40c-2c447b154346",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "a7a89c1c-9ce1-46b6-ae41-c2e03e723f15": {
+      "id": "a7a89c1c-9ce1-46b6-ae41-c2e03e723f15",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a polished, high-impact Facebook review that keeps your voice, adds credibility, and reads incredibly share-worthy:\n\n---\n\nThere are very few times that I am one million percent invested in recommending people I\u2019ve worked with, but ladies\u2026 this is one of those times.\n\nValerie and Jackie with **Trippy Cleaning** absolutely set me up for success, peace of mind, and a fresh start for 2026. They deep-cleaned my home and I am still blown away.\n\nNot only are they ridiculously affordable with flat-rate pricing, they spent **9 hours on what was quoted as a 4-hour job** because they refused to leave until everything was done right. My entire house feels brand new. They went so far above and beyond what I expected that it honestly exceeded any cleaning service experience I\u2019ve ever had.\n\nThey were incredibly thorough, professional, and genuinely pleasant to be around, which matters when you work from home like I do. On top of that, they are licensed and insured, have an unmatched work ethic, and truly take pride in their work.\n\nIf you are even thinking about getting your home deep cleaned and want the best clean of your life, seriously consider these gals. I would recommend them without hesitation to anyone I care about.\n\nFresh house. Clear mind. Total game changer."
+          ]
+        },
+        "create_time": 1768351478.10366,
+        "id": "a7a89c1c-9ce1-46b6-ae41-c2e03e723f15",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "56512f77-2a91-45b2-a196-be5c16f2f77a"
+        }
+      },
+      "parent": "bbb214c3-c51d-4704-87f0-86eab4644e8f"
+    },
+    "bbb214c3-c51d-4704-87f0-86eab4644e8f": {
+      "id": "bbb214c3-c51d-4704-87f0-86eab4644e8f",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write the best Facebook review for trippy cleaning: There are very few times that I am 1000000% invested in recommending people I've worked with, but ladies this is one of them! Valerie and Jackie literally set me up for success, peace of mind and a fresh 2026 start by deep cleaning my house. Not only are they ridiculously affordable (flat feet) but they spent 9 hours on a 4 hour job and made sure my entire home was back to brand new status! They went above and beyond to do way more than expected. They were so thorough and pleasant to be around (I work from home so Interaction matters) they are licensed and insured and have the best work ethic I've ever experienced with this type of service! If you're in the market to get the best clean of your life seriously consider these gals!\n https://www.facebook.com/share/1GcSP4QMk3/"
+          ]
+        },
+        "create_time": 1768351477.976435,
+        "id": "bbb214c3-c51d-4704-87f0-86eab4644e8f",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "ead4e10b-0dab-4024-9f92-c36b59b45c51"
+    },
+    "ead4e10b-0dab-4024-9f92-c36b59b45c51": {
+      "id": "ead4e10b-0dab-4024-9f92-c36b59b45c51",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Trippy Cleaning Review",
+  "update_time": 1768351489.605619,
+  "voice": null
+}

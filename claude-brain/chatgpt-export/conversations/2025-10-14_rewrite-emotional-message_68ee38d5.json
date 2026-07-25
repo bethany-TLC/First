@@ -1,0 +1,71 @@
+{
+  "conversation_id": "68ee38d5-9274-8331-96e9-229b881a64ee",
+  "conversation_template_id": null,
+  "create_time": 1760442588.359972,
+  "current_node": "7ccbb40f-2557-4d57-96e0-3a477c355bb5",
+  "default_model_slug": "gpt-5",
+  "id": "68ee38d5-9274-8331-96e9-229b881a64ee",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "41ddc261-8309-455f-aa1c-6aab9a7002ab": {
+      "id": "41ddc261-8309-455f-aa1c-6aab9a7002ab",
+      "message": null,
+      "parent": null
+    },
+    "7ccbb40f-2557-4d57-96e0-3a477c355bb5": {
+      "id": "7ccbb40f-2557-4d57-96e0-3a477c355bb5",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Good morning baby... sorry about my little meltdown last night \ud83e\udd74 I\u2019m not usually that emotional. You just knew exactly what I needed and came over to get me out of my head. You\u2019re seriously so good to me \ud83d\ude18"
+          ]
+        },
+        "create_time": 1760442588.16862,
+        "id": "7ccbb40f-2557-4d57-96e0-3a477c355bb5",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "ee90ca88-7ef7-40b6-983d-02f588c376db"
+        }
+      },
+      "parent": "bbb21465-97d6-4ec8-a4ff-b8b16f9c62f4"
+    },
+    "bbb21465-97d6-4ec8-a4ff-b8b16f9c62f4": {
+      "id": "bbb21465-97d6-4ec8-a4ff-b8b16f9c62f4",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Rewrite \nGood morning... I'm so sorry about my mini melt down last night \ud83e\udd74I swear I'm not usually that emotional... I love how you just sensed the entire and came over and got me out... Why are you so good to me \ud83d\ude18"
+          ]
+        },
+        "create_time": 1760442587.645714,
+        "id": "bbb21465-97d6-4ec8-a4ff-b8b16f9c62f4",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "41ddc261-8309-455f-aa1c-6aab9a7002ab"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Rewrite emotional message",
+  "update_time": 1760442591.267681,
+  "voice": null
+}

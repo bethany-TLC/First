@@ -1,0 +1,161 @@
+{
+  "conversation_id": "69a0b3ae-bafc-8330-b81b-e9d37d469bba",
+  "conversation_template_id": null,
+  "create_time": 1772139460.108334,
+  "current_node": "576f4ed3-1ed9-42fe-a67e-afb4b2970a3c",
+  "default_model_slug": "gpt-5-2",
+  "id": "69a0b3ae-bafc-8330-b81b-e9d37d469bba",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "576f4ed3-1ed9-42fe-a67e-afb4b2970a3c": {
+      "id": "576f4ed3-1ed9-42fe-a67e-afb4b2970a3c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Perfect idea. Here\u2019s a **simple, parent-friendly spreadsheet layout** you can copy directly into **Google Sheets** (or Excel) and share with **edit access** so families can update dates and times if needed.\n\n---\n\n## Sheet Title  \n**Graduation Party Schedule**\n\n### Column Headers (Row 1)\n| Student Name | Date | Start Time | End Time | Party Type / Notes | Status |\n|-------------|------|------------|----------|-------------------|--------|\n\n### Pre-Filled Rows\nYou can paste everything below directly into Google Sheets.\n\n| Student Name | Date | Start Time | End Time | Party Type / Notes | Status |\n|-------------|------|------------|----------|-------------------|--------|\n| Jojo | May 14 | Early Evening | | | Confirmed |\n| Donivan | May 15 | Evening | | Pool Party | Confirmed |\n| Sophie | May 16 | Evening | | | Confirmed |\n| Lizzy & Gracyn | May 17 | 4:00 PM | 6:00 PM | Final time pending | Tentative |\n| Bryce | May 23 | 2:00 PM | 4:00 PM | | Confirmed |\n| Quincy (Q) | May 23 | 4:30\u20135:00 PM | | After Bryce\u2019s party | Confirmed |\n| Adam | May 24 | 1:00 PM | 3:00 PM | Fixed due to venue | Confirmed |\n| Noah | May 24 | 2:00 PM | 4:00 PM | After graduation | Confirmed |\n| Madeline | May 24 | 4:00\u20135:00 PM | | Family confirmation pending | Tentative |\n\n---\n\n## How to Share With Parents (Quick Steps)\n1. Open **Google Sheets**\n2. Paste the table into a new sheet\n3. Click **Share**\n4. Set access to **Editor**\n5. Add a note at the top like:  \n   *\u201cPlease update your row if plans change so we can avoid overlaps when possible.\u201d*\n\n---\n\n## Optional (Highly Recommended)\nAdd:\n- **Dropdown** in \u201cStatus\u201d column: Confirmed / Tentative / Flexible  \n- **Conditional formatting**  \n  - Green = Confirmed  \n  - Yellow = Tentative  \n\nIf you want, I can:\n- Generate a **downloadable CSV**\n- Add **dropdowns + formatting rules**\n- Write a **polite message** you can send with the link to parents\n\nJust tell me which one you want next."
+          ]
+        },
+        "create_time": 1772140237.270098,
+        "id": "576f4ed3-1ed9-42fe-a67e-afb4b2970a3c",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "3a4b26df-0770-45a5-aecd-2116856bc606"
+        }
+      },
+      "parent": "bbb21e96-bb6b-4bad-bef2-f4db5aad9d66"
+    },
+    "76aad1a2-e5be-4858-9a7c-7e5db94510b1": {
+      "id": "76aad1a2-e5be-4858-9a7c-7e5db94510b1",
+      "message": null,
+      "parent": null
+    },
+    "7b9af22b-bfa8-44f0-8163-577e6eebda42": {
+      "id": "7b9af22b-bfa8-44f0-8163-577e6eebda42",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a **clean, consolidated list** of the graduation parties based on the **most recent updates**, organized by **student name, date, and time**. I noted where details are still flexible or pending.\n\n---\n\n### Graduation Party Schedule\n\n**Jojo**  \n- **Date:** May 14  \n- **Time:** Early evening  \n\n**Quincy (Q)**  \n- **Date:** May 23  \n- **Time:** After Bryce\u2019s party, approximately **4:30\u20135:00 PM start**\n\n**Donivan**  \n- **Date:** May 15  \n- **Time:** Evening  \n- **Details:** Pool party (confirmed to avoid conflict with Sophie)\n\n**Sophie**  \n- **Date:** May 16 (Saturday)  \n- **Time:** Evening  \n\n**Bryce**  \n- **Date:** May 23  \n- **Time:** **2:00\u20134:00 PM**  \n- **Note:** Moved from the 24th to the 23rd\n\n**Adam**  \n- **Date:** Sunday, May 24  \n- **Time:** **1:00\u20133:00 PM**  \n- **Note:** Fixed due to family and venue reservation\n\n**Noah**  \n- **Date:** Sunday, May 24 (after graduation)  \n- **Time:** **2:00\u20134:00 PM**\n\n**Madeline**  \n- **Date:** Sunday, May 24  \n- **Time:** **4:00 or 5:00 PM start**  \n- **Note:** Final time pending family confirmation\n\n---\n\nIf you want, I can also:\n- Flag **overlaps/conflicts visually**\n- Turn this into a **shareable Google Doc or table**\n- Create a **\u201cparty-hopping friendly\u201d version** for parents and kids\n\nJust tell me how you want to use it."
+          ]
+        },
+        "create_time": 1772139459.959441,
+        "id": "7b9af22b-bfa8-44f0-8163-577e6eebda42",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "6f3fcc6c-a018-44bf-a426-4fa985e9f424"
+        }
+      },
+      "parent": "bbb219cf-02aa-417f-b76b-7c5db376585e"
+    },
+    "bbb21855-24b5-48b3-98c7-603e79221c52": {
+      "id": "bbb21855-24b5-48b3-98c7-603e79221c52",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Add Lizzy and Gracyn May 17th 4-6 (final time pending)"
+          ]
+        },
+        "create_time": 1772140207.641709,
+        "id": "bbb21855-24b5-48b3-98c7-603e79221c52",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "7b9af22b-bfa8-44f0-8163-577e6eebda42"
+    },
+    "bbb219cf-02aa-417f-b76b-7c5db376585e": {
+      "id": "bbb219cf-02aa-417f-b76b-7c5db376585e",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Can you create me a list of these partiers by kids name, date and time: For those hosting graduation parties, could you send the date and time if you've already decided? We are trying to narrow down dates and times, too, and don't want to overlap if possible because I know my girls would love to be able to attend their classmates' parties as well \ud83e\udd79\nStacy, great idea!  We are shooting for May 14... early evening.\nThat's for Jojo!\nI THINK night of graduation for Q.  I can confirm that pretty quickly. \nDonivan and I were thinking a pool party on May 15 or 16 we are flexible. \nI was leaning towards a late afternoon one on May 17th (Sunday) but we are also flexible.\nWe were thinking about doing Sat the 16th for Sophie...probably evening\nWe're probably shooting for Bryce's to be the afternoon of the 24th. \nAlso, I am doing an ad in the yearbook from the senior class/senior parents with a picture of the yearbook staff and a picture of the seniors with Ms Thatcher (taken today)- \n\nIt's just gonna say thanks for working so hard on the yearbook and senior sections so our kids and us can have these memories and keepsakes for life.  Something like that.  \n\nI think I'm doing a half page ad.  \n\nI was able to get a picture of her with the seniors today:))\nAdam's is Sunday the 24th from 1-3\nThat's so kind, Gretchen!\nMadeline's party will be either May 23 or the 24th in the afternoon/early evening\nEdited to \u201cMadeline's party will be either May 23 or the 24th in the afternoon/early evening \u201d\nRight now we have Noah's party on Sunday after graduation from 2 to 4\u2026 Please let me know if that interferes with somebody else else's party\nLoved \u201cRight now we have Noah's party on Sunday after graduation from 2 to 4\u2026 Please let me know if that interferes with somebody else else's party\u201d\n\u200a\u2764\ufe0f to \u201c\u200aMadeline's party will be either May 23 or the 24th in the afternoon/early evening \u200a\u201d\u200a\nWe could do ours 3 to 5\u2026\ud83d\udc4d\ud83c\udffc\nD confirmed he will do may 15th for pool party in the evening so we don't conflict with Sophie's \nWe have family in town and have reserved a place, so Adam's needs to stay at 1-3 on Sunday the 24th. He would just be a bit late for Noah's.\nWe'll move Bryce's to the 23rd from 2-4. We'll have family already here that drive a ways so that'll be better anyway.\nWe can do Madeline's at 4 or 5pm on Sunday/24th. They can just go from one to the other.\ud83d\ude1d\r\n\r\nStill waiting to hear from family so I will let y'all know once we figure it out.\nIt is tricky. I remember that's what Zach did...party to party\nWe can do Quincy's after Bryce's on the 23rd. Like 4:30/5 start time."
+          ]
+        },
+        "create_time": 1772139459.766516,
+        "id": "bbb219cf-02aa-417f-b76b-7c5db376585e",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "76aad1a2-e5be-4858-9a7c-7e5db94510b1"
+    },
+    "bbb21e96-bb6b-4bad-bef2-f4db5aad9d66": {
+      "id": "bbb21e96-bb6b-4bad-bef2-f4db5aad9d66",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Make a spreadsheet that I can send to the parents to edit if they need to"
+          ]
+        },
+        "create_time": 1772140237.138502,
+        "id": "bbb21e96-bb6b-4bad-bef2-f4db5aad9d66",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "ef5b9472-22e8-46c5-94ec-c66220fae922"
+    },
+    "ef5b9472-22e8-46c5-94ec-c66220fae922": {
+      "id": "ef5b9472-22e8-46c5-94ec-c66220fae922",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Got it. I\u2019ve added **Lizzy and Gracyn** and updated the full list below, keeping everything clean and easy to scan.\n\n---\n\n### Graduation Party Schedule (Updated)\n\n**Jojo**  \n- **Date:** May 14  \n- **Time:** Early evening  \n\n**Quincy (Q)**  \n- **Date:** May 23  \n- **Time:** After Bryce\u2019s party, approximately **4:30\u20135:00 PM start**\n\n**Donivan**  \n- **Date:** May 15  \n- **Time:** Evening  \n- **Details:** Pool party  \n\n**Sophie**  \n- **Date:** May 16 (Saturday)  \n- **Time:** Evening  \n\n**Lizzy & Gracyn**  \n- **Date:** May 17 (Sunday)  \n- **Time:** **4:00\u20136:00 PM**  \n- **Note:** Final time pending  \n\n**Bryce**  \n- **Date:** May 23  \n- **Time:** **2:00\u20134:00 PM**\n\n**Adam**  \n- **Date:** Sunday, May 24  \n- **Time:** **1:00\u20133:00 PM**\n\n**Noah**  \n- **Date:** Sunday, May 24 (after graduation)  \n- **Time:** **2:00\u20134:00 PM**\n\n**Madeline**  \n- **Date:** Sunday, May 24  \n- **Time:** **4:00 or 5:00 PM start**  \n- **Note:** Final time pending family confirmation  \n\n---\n\nIf you want, I can also:\n- Reformat this into a **one-page printable**\n- Create a **conflict-aware timeline**\n- Turn it into a **shared Google Sheet** everyone can update  \n\nJust say the word."
+          ]
+        },
+        "create_time": 1772140207.843676,
+        "id": "ef5b9472-22e8-46c5-94ec-c66220fae922",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "bbb21855-24b5-48b3-98c7-603e79221c52"
+        }
+      },
+      "parent": "bbb21855-24b5-48b3-98c7-603e79221c52"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Graduation Party Schedule",
+  "update_time": 1772141352.215059,
+  "voice": null
+}

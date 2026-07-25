@@ -1,0 +1,72 @@
+{
+  "conversation_id": "6a409b1b-1654-83e8-a6a3-b2d9b2af01c7",
+  "conversation_template_id": null,
+  "create_time": 1782618924.329869,
+  "current_node": "ad8ac5a4-1f17-4895-86da-549d4b5100c9",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a409b1b-1654-83e8-a6a3-b2d9b2af01c7",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "2b00618d-ce94-4930-a861-144a2b74bb8e": {
+      "id": "2b00618d-ce94-4930-a861-144a2b74bb8e",
+      "message": null,
+      "parent": null
+    },
+    "ad8ac5a4-1f17-4895-86da-549d4b5100c9": {
+      "id": "ad8ac5a4-1f17-4895-86da-549d4b5100c9",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here's a polished Facebook post you can use:\n\n:::writing{variant=\"social_post\" id=\"54821\"}\nLast night was one for the books! \ud83d\udd7a\ud83c\udf89\n\nCelebrating Aubrey's epic 80s birthday party with the man of my dreams made it even more special. \u2764\ufe0f It was so good catching up with friends I haven't seen in a while, laughing way too much, and just enjoying a fun night out.\n\nOne of the things I love most about Tennessee is the sense of community. There always seems to be something fun going on, and it's a good reminder to step away from work every once in a while and simply enjoy life.\n\nGrateful for nights like these, great people, and making memories. \ud83d\udc95\n:::"
+          ]
+        },
+        "create_time": 1782618924.246833,
+        "id": "ad8ac5a4-1f17-4895-86da-549d4b5100c9",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "ca4a580e-b477-4060-9cc5-8afcae8b5849"
+        }
+      },
+      "parent": "bbb21030-fb6b-4c4c-9526-07e210cf7ad4"
+    },
+    "bbb21030-fb6b-4c4c-9526-07e210cf7ad4": {
+      "id": "bbb21030-fb6b-4c4c-9526-07e210cf7ad4",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write. Apost about atemdig. Aubreys 80s bday party with the man of dreams and seeing peeps that I have seen in a min and good to be out in the public enjoying all TN has to offer. "
+          ]
+        },
+        "create_time": 1782618923.986205,
+        "id": "bbb21030-fb6b-4c4c-9526-07e210cf7ad4",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "2b00618d-ce94-4930-a861-144a2b74bb8e"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Aubrey's 80s Party Recap",
+  "update_time": 1782618927.889399,
+  "voice": null
+}

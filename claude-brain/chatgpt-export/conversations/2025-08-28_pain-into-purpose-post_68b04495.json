@@ -1,0 +1,139 @@
+{
+  "conversation_id": "68b04495-3138-8333-9d2a-b4745c6806be",
+  "conversation_template_id": null,
+  "create_time": 1756382411.116338,
+  "current_node": "e7e5e37d-cc35-4ba2-9ebf-c8cb4e0d8156",
+  "default_model_slug": "auto",
+  "id": "68b04495-3138-8333-9d2a-b4745c6806be",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "4be01735-de26-499a-8f8d-670a8c751ae6": {
+      "id": "4be01735-de26-499a-8f8d-670a8c751ae6",
+      "message": null,
+      "parent": null
+    },
+    "bbb21487-41b4-4d35-93c4-0108b30c1385": {
+      "id": "bbb21487-41b4-4d35-93c4-0108b30c1385",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "file-service://file-YZTHiGQfUQuZBFJ6Xg66qb",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 1167,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 258039,
+              "width": 1008
+            },
+            "Write a post about not becoming bitter and resentful, but chosing to live life and turn pain into purpose. Not dwelling on negative and just living my true authentic self which is kind and loving and caring and trusting and no one can take that from me or tell me that I need to be mean or hurtful towards others or those who caused the pain "
+          ]
+        },
+        "create_time": 1756382410.451498,
+        "id": "bbb21487-41b4-4d35-93c4-0108b30c1385",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "4be01735-de26-499a-8f8d-670a8c751ae6"
+    },
+    "bbb216ed-931b-493f-a577-de82348742fd": {
+      "id": "bbb216ed-931b-493f-a577-de82348742fd",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Take out the emdashes\n"
+          ]
+        },
+        "create_time": 1756382448.019759,
+        "id": "bbb216ed-931b-493f-a577-de82348742fd",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "cf6418f1-8b44-4088-9f50-ca7be3a876db"
+    },
+    "cf6418f1-8b44-4088-9f50-ca7be3a876db": {
+      "id": "cf6418f1-8b44-4088-9f50-ca7be3a876db",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a draft you could use for your post:  \n\n---\n\nI\u2019ve made a choice\u2014pain will not turn me bitter, resentful, or cold. Life is too short to dwell on the negative or let hurt define me. Instead, I choose to turn pain into purpose.  \n\nMy authentic self is kind, loving, caring, and trusting\u2014and no one can take that from me. No amount of betrayal or heartbreak can force me to be mean, spiteful, or cruel in return. That\u2019s not who I am.  \n\nI believe in breaking cycles, not repeating them. I believe in creating safe spaces, not adding more hurt to the world. I believe in healing, not harming.  \n\nHurt may shape me, but it will never harden me. I choose love. Always. \u2764\ufe0f  \n\n---\n\nWould you like me to make a **shorter, punchier version** (good for IG/Facebook captions), or keep it as this longer reflective style?"
+          ]
+        },
+        "create_time": 1756382410.627824,
+        "id": "cf6418f1-8b44-4088-9f50-ca7be3a876db",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "7f89c18c-ff2a-47ca-bd69-16c87fdf87fc"
+        }
+      },
+      "parent": "bbb21487-41b4-4d35-93c4-0108b30c1385"
+    },
+    "e7e5e37d-cc35-4ba2-9ebf-c8cb4e0d8156": {
+      "id": "e7e5e37d-cc35-4ba2-9ebf-c8cb4e0d8156",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Got it \u2014 here\u2019s the same post without the em dashes:  \n\n---\n\nI\u2019ve made a choice: pain will not turn me bitter, resentful, or cold. Life is too short to dwell on the negative or let hurt define me. Instead, I choose to turn pain into purpose.  \n\nMy authentic self is kind, loving, caring, and trusting, and no one can take that from me. No amount of betrayal or heartbreak can force me to be mean, spiteful, or cruel in return. That\u2019s not who I am.  \n\nI believe in breaking cycles, not repeating them. I believe in creating safe spaces, not adding more hurt to the world. I believe in healing, not harming.  \n\nHurt may shape me, but it will never harden me. I choose love. Always. \u2764\ufe0f  \n\n---\n\nWant me to also make a **short version under 150 words** so you have a caption-ready option?"
+          ]
+        },
+        "create_time": 1756382448.155957,
+        "id": "e7e5e37d-cc35-4ba2-9ebf-c8cb4e0d8156",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "bbb216ed-931b-493f-a577-de82348742fd"
+        }
+      },
+      "parent": "bbb216ed-931b-493f-a577-de82348742fd"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Pain into purpose post",
+  "update_time": 1756382455.96359,
+  "voice": null
+}

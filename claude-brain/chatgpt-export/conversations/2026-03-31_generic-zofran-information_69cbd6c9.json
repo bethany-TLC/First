@@ -1,0 +1,87 @@
+{
+  "conversation_id": "69cbd6c9-5e88-832e-85ec-69bc835e951a",
+  "conversation_template_id": null,
+  "create_time": 1774966479.627547,
+  "current_node": "4a6418bf-a706-4661-9c48-1f4c8db409b9",
+  "default_model_slug": "gpt-5-3",
+  "id": "69cbd6c9-5e88-832e-85ec-69bc835e951a",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "4a6418bf-a706-4661-9c48-1f4c8db409b9": {
+      "id": "4a6418bf-a706-4661-9c48-1f4c8db409b9",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "The **generic name for Zofran** is **\ue200entity\ue202[\"medication\",\"ondansetron\",\"anti-nausea medication\"]\ue201**.\n\n### What it is used for:\n- Prevents **nausea and vomiting**\n- Commonly prescribed after:\n  - Surgery  \n  - Chemotherapy  \n  - Radiation  \n  - Severe migraines or illness-related nausea  \n\n### How it works:\nOndansetron blocks **serotonin (5-HT3) receptors**, which are responsible for triggering nausea and vomiting signals in the body.\n\n### Common forms:\n- Tablets  \n- Orally dissolving tablets (ODT)  \n- Liquid  \n- IV (in hospital settings)\n\n### Quick note for you (given your recent surgery):\nOndansetron is often part of post-op care, especially if you're taking pain meds like opioids, which can cause nausea.\n\nIf you're asking because you're deciding whether to take it again right now, tell me:\n- what time you last took it  \n- your current symptoms  \n\nI can help you time it safely with your other meds."
+          ]
+        },
+        "create_time": 1774966479.491457,
+        "id": "4a6418bf-a706-4661-9c48-1f4c8db409b9",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "ondansetron",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "anti-nausea medication"
+              },
+              "id": null,
+              "metadata": null,
+              "name": "ondansetron",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "ondansetron",
+              "type": "entity"
+            }
+          ],
+          "model_slug": "gpt-5-3",
+          "parent_id": "7b4f5e85-2513-4116-9542-d306d7d70351"
+        }
+      },
+      "parent": "bbb216b3-73bd-4fda-8b14-c4980ebb3ca5"
+    },
+    "9287129e-1696-4a41-a669-d4c614b344d5": {
+      "id": "9287129e-1696-4a41-a669-d4c614b344d5",
+      "message": null,
+      "parent": null
+    },
+    "bbb216b3-73bd-4fda-8b14-c4980ebb3ca5": {
+      "id": "bbb216b3-73bd-4fda-8b14-c4980ebb3ca5",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Generic zofran\n"
+          ]
+        },
+        "create_time": 1774966479.095825,
+        "id": "bbb216b3-73bd-4fda-8b14-c4980ebb3ca5",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "9287129e-1696-4a41-a669-d4c614b344d5"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Generic Zofran Information",
+  "update_time": 1774966489.703285,
+  "voice": null
+}

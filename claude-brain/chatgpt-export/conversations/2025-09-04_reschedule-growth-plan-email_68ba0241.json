@@ -1,0 +1,118 @@
+{
+  "conversation_id": "68ba0241-6bf8-8326-baa7-579e73114d2c",
+  "conversation_template_id": null,
+  "create_time": 1757020780.203017,
+  "current_node": "8cb778fe-0ef5-4317-b2ff-6f0c2f780055",
+  "default_model_slug": "auto",
+  "id": "68ba0241-6bf8-8326-baa7-579e73114d2c",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "095dd9a5-816a-481f-85eb-9007c57edf31": {
+      "id": "095dd9a5-816a-481f-85eb-9007c57edf31",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a polished draft you can use:  \n\n---\n\n**Subject:** Sorry We Missed You \u2014 Let\u2019s Reschedule Your Growth Plan Call  \n\nHi [First Name],  \n\nI\u2019m so sorry we weren\u2019t able to connect for your free Growth Plan/Playbook call. I know how valuable your time is, and I\u2019d still love the chance to walk you through a tailored strategy for your practice.  \n\nYou can easily reschedule at a time that works best for you using this link:  \n\ud83d\udc49 [Insert Your Scheduling Link Here]  \n\nLooking forward to connecting and diving into your growth opportunities!  \n\nWarmly,  \nBethany Gifford  \n\n---  \n\nWould you like me to make this email more **formal and professional** (consulting style), or keep it **friendly and approachable** (relationship-first)?"
+          ]
+        },
+        "create_time": 1757020780.122903,
+        "id": "095dd9a5-816a-481f-85eb-9007c57edf31",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "4667b9f7-efe7-43b3-a480-da3689d4d966"
+        }
+      },
+      "parent": "862e824b-b7c1-4349-a21b-06e2668444f0"
+    },
+    "7d9d612f-0171-48e2-8402-dceec9cf07a7": {
+      "id": "7d9d612f-0171-48e2-8402-dceec9cf07a7",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "write an email that says: hey just circling back to see how you and your practice is doing. and se if there is anyting I can do to help them. let them know we just created a customizbael playbook for them and would love to jump on a call to see if we can aid in thier grwtoh\n\nPlease write in English language."
+          ]
+        },
+        "create_time": 1757021039.909,
+        "id": "7d9d612f-0171-48e2-8402-dceec9cf07a7",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "095dd9a5-816a-481f-85eb-9007c57edf31"
+    },
+    "862e824b-b7c1-4349-a21b-06e2668444f0": {
+      "id": "862e824b-b7c1-4349-a21b-06e2668444f0",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "draft an email about reschdeuling thier free growthplan/playbook call and add my link for them to reshcedule. le them know we are sorry to have missed eachother\n\nPlease write in English language."
+          ]
+        },
+        "create_time": 1757020779.604,
+        "id": "862e824b-b7c1-4349-a21b-06e2668444f0",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "8cb778fe-0ef5-4317-b2ff-6f0c2f780055": {
+      "id": "8cb778fe-0ef5-4317-b2ff-6f0c2f780055",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a clean version of that email:  \n\n---\n\n**Subject:** Checking In + A New Growth Playbook for Your Practice  \n\nHi [First Name],  \n\nJust circling back to see how you and your practice are doing. I wanted to check in and see if there\u2019s anything I can do to support you right now.  \n\nWe\u2019ve recently created a **customizable Growth Playbook** designed specifically for practices like yours. I\u2019d love to jump on a quick call to walk you through it and explore how it could aid in your growth.  \n\nYou can grab a time that works best for you here:  \n\ud83d\udc49 [Insert Scheduling Link]  \n\nLooking forward to catching up!  \n\nBest,  \nBethany Gifford  \n\n---  \n\nDo you want me to make this more **short & casual** (like a quick check-in) or more **professional & strategic** (positioning you as a growth advisor)?"
+          ]
+        },
+        "create_time": 1757021040.248527,
+        "id": "8cb778fe-0ef5-4317-b2ff-6f0c2f780055",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "7d9d612f-0171-48e2-8402-dceec9cf07a7"
+        }
+      },
+      "parent": "7d9d612f-0171-48e2-8402-dceec9cf07a7"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Reschedule growth plan email",
+  "update_time": 1757021044.555188,
+  "voice": null
+}

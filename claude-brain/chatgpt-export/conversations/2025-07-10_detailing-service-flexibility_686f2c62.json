@@ -1,0 +1,302 @@
+{
+  "conversation_id": "686f2c62-7194-8011-9f8b-12908a0e6f48",
+  "conversation_template_id": null,
+  "create_time": 1752116322.672555,
+  "current_node": "b3fce43d-e0be-4b8b-abc4-31f7e4a9d223",
+  "default_model_slug": "auto",
+  "id": "686f2c62-7194-8011-9f8b-12908a0e6f48",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "16885fe6-9f6b-4dd7-a59b-fbb6518e6374": {
+      "id": "16885fe6-9f6b-4dd7-a59b-fbb6518e6374",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Sure! Here are a few reworded options for \u201cSchedule a request upon availability\u201d \u2014 choose the tone you prefer:\n\n### Professional & Clear:\n- **Submit a request to book \u2014 subject to availability**\n- **Request an appointment based on availability**\n- **Appointments available by request**\n\n### Friendly & Casual:\n- **Send in a request \u2014 we\u2019ll fit you in as soon as possible!**\n- **Request a time and we\u2019ll confirm based on availability**\n- **Reach out to book \u2014 spots fill up fast!**\n\nWant it to feel more urgent, VIP, or relaxed? I can adjust the tone further if you\u2019d like!"
+          ]
+        },
+        "create_time": 1752119683.201381,
+        "id": "16885fe6-9f6b-4dd7-a59b-fbb6518e6374",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-4o",
+          "parent_id": "ada5583d-b567-4ccd-885c-58a1a996f59a"
+        }
+      },
+      "parent": "ada5583d-b567-4ccd-885c-58a1a996f59a"
+    },
+    "1ec3a8a7-5ac4-45bd-84ac-173c82611c24": {
+      "id": "1ec3a8a7-5ac4-45bd-84ac-173c82611c24",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "take this script AND INCORPORTE THIS VERBAGE: \ud83d\uddd3\ufe0f Schedule details in advance at times that work best for you\n\ud83c\udfe1 We come directly to your home \u2014 no travel needed\n\u2728 Enjoy premium care with exclusive Hillwood pricing\n\ud83d\udd04 Flexible rescheduling available within our policy AND TURN IT INTO THIS SCRIPT, BUT WORD IT LIKE YOU WOULD ON A POSTER WITH BULLET POINTS AND SAME EMOJIES: \ud83d\udd39 Membership packages now offer flexible usage \u2013 use your details any time within 6 months instead of being locked to once a month.\r\n\r\n\ud83d\udd39 Every Monday we\u2019re at Hillwood Country Club offering premium on-site details for $250 per vehicle. If you decide to join a membership that day, the $250 is applied toward your package.\r\n\r\n\ud83d\udd39 For the rest of the week, we offer at-home services with the same pricing: either a one-time detail for $250 or choose one of our exclusive membership options.\r\n\r\nIt\u2019s all about flexibility, convenience, and making sure your vehicle gets the highest level of care\u2014on your schedule."
+          ]
+        },
+        "create_time": 1752116424.004,
+        "id": "1ec3a8a7-5ac4-45bd-84ac-173c82611c24",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "305639e7-de0a-4118-8e24-5f66d9e25e30": {
+      "id": "305639e7-de0a-4118-8e24-5f66d9e25e30",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Absolutely! Here's your updated script rewritten in a poster-style layout with the requested verbiage and emojis, keeping it clean, clear, and appealing:\n\n---\n\n\ud83d\udd39 **Membership packages now offer flexible usage**  \nUse your details any time within **6 months** \u2014 no more being locked into once-a-month scheduling.\n\n\ud83d\uddd3\ufe0f **Schedule details in advance**  \nChoose times that work best for **you** \u2014 we\u2019re all about convenience.\n\n\ud83c\udfe1 **We come to you**  \nNo travel needed. Enjoy professional detailing from the comfort of your own home.\n\n\u2728 **Premium care with exclusive Hillwood pricing**  \nTop-tier service, reserved for Hillwood members.\n\n\ud83d\udd04 **Need to reschedule?**  \nWe offer **flexible rescheduling** within our policy \u2014 life happens!\n\n\ud83d\udd39 **Every Monday at Hillwood Country Club**  \nOn-site premium details for **$250 per vehicle**.  \n\ud83d\udca1 *Join a membership that day and we\u2019ll apply the $250 toward your package!*\n\n\ud83d\udd39 **At-home service the rest of the week**  \nSame pricing, same quality:  \n\u2022 One-time detail for **$250**  \n\u2022 Or choose from our **exclusive membership options**\n\n---\n\nLet me know if you'd like this formatted into a flyer layout or social graphic next!"
+          ]
+        },
+        "create_time": 1752116423.71873,
+        "id": "305639e7-de0a-4118-8e24-5f66d9e25e30",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-4o",
+          "parent_id": "237fba26-9edb-4a40-a421-cb840756750a"
+        }
+      },
+      "parent": "1ec3a8a7-5ac4-45bd-84ac-173c82611c24"
+    },
+    "582d433d-3aad-46c2-8913-2ad18e09e128": {
+      "id": "582d433d-3aad-46c2-8913-2ad18e09e128",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "change: \u2728 Premium care with exclusive Hillwood pricing TO MONDAY BOOKING ONLY AT HILLWOOD COUNTRY CLUB"
+          ]
+        },
+        "create_time": 1752119110.823,
+        "id": "582d433d-3aad-46c2-8913-2ad18e09e128",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "7bd12136-1a52-4751-8c74-e45d0f876dbe"
+    },
+    "6e4f0c3b-eb9d-4761-bfa6-ff174ce81f9a": {
+      "id": "6e4f0c3b-eb9d-4761-bfa6-ff174ce81f9a",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Perfect \u2014 here\u2019s the revised poster-style script with that added detail:\n\n---\n\n\ud83d\udd39 **Membership packages now offer flexible usage**  \nUse your details any time within **6 months** \u2014 no more being locked into once-a-month scheduling.\n\n\ud83d\uddd3\ufe0f **Schedule details in advance**  \nChoose times that work best for **you** \u2014 we\u2019re all about flexibility.\n\n\ud83c\udfe1 **We come to you \u2014 Tuesdays through Sunday**  \nNo travel needed. Enjoy professional detailing from the comfort of your own home.\n\n\u2728 **Premium care with exclusive Hillwood pricing**  \nTop-tier service, reserved for Hillwood members.\n\n\ud83d\udd04 **Need to reschedule?**  \nWe offer **flexible rescheduling** within our policy \u2014 because life happens.\n\n\ud83d\udd39 **Every Monday at Hillwood Country Club**  \nOn-site premium details for **$250 per vehicle**.  \n\ud83d\udca1 *Join a membership that day and we\u2019ll apply the $250 toward your package!*\n\n\ud83d\udd39 **At-home service available Tuesday through Sunday**  \nSame pricing, same care:  \n\u2022 One-time detail for **$250**  \n\u2022 Or choose from our **exclusive membership options**\n\n---\n\nLet me know if you want a shorter version for a social caption or SMS too!"
+          ]
+        },
+        "create_time": 1752118765.945617,
+        "id": "6e4f0c3b-eb9d-4761-bfa6-ff174ce81f9a",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-4o",
+          "parent_id": "ec49fd51-e699-416a-b97a-068bf378c1fe"
+        }
+      },
+      "parent": "ec49fd51-e699-416a-b97a-068bf378c1fe"
+    },
+    "7bc058c6-2557-43a9-8947-a2f6ad4d667c": {
+      "id": "7bc058c6-2557-43a9-8947-a2f6ad4d667c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "home emojie"
+          ]
+        },
+        "create_time": 1752120591.849,
+        "id": "7bc058c6-2557-43a9-8947-a2f6ad4d667c",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "16885fe6-9f6b-4dd7-a59b-fbb6518e6374"
+    },
+    "7bd12136-1a52-4751-8c74-e45d0f876dbe": {
+      "id": "7bd12136-1a52-4751-8c74-e45d0f876dbe",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Got it! Here\u2019s a bold, poster-style version incorporating that \u201chard booking\u201d Monday message and request-based home bookings:\n\n---\n\n\ud83d\udd39 **HARD BOOKING: Every Monday at Hillwood Country Club**  \nLock in your spot for premium on-site details \u2014 **$250 per vehicle**.  \n\ud83d\udca1 *Join a membership that day and we\u2019ll credit the $250 toward your package!*\n\n\ud83c\udfe1 **Home Details: Tuesday through Sunday**  \nWe come to you \u2014 no travel needed.  \n\u2728 Enjoy the same premium care for **$250**  \n\ud83d\udce9 *Send in a request to schedule your at-home service*\n\n\ud83d\udd39 **Memberships Now More Flexible**  \nUse your details **any time within 6 months** \u2014 no more monthly limits.\n\n\ud83d\uddd3\ufe0f **Pre-schedule your appointments**  \nChoose times that work best for **you**.\n\n\ud83d\udd04 **Need to reschedule?**  \nNo problem \u2014 flexible changes available within our policy.\n\n---\n\nLet me know if you want this converted into a visual layout or a social-ready graphic!"
+          ]
+        },
+        "create_time": 1752118889.913464,
+        "id": "7bd12136-1a52-4751-8c74-e45d0f876dbe",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-4o",
+          "parent_id": "c4e3f75c-3d45-4461-940d-18207e45cde6"
+        }
+      },
+      "parent": "c4e3f75c-3d45-4461-940d-18207e45cde6"
+    },
+    "ada5583d-b567-4ccd-885c-58a1a996f59a": {
+      "id": "ada5583d-b567-4ccd-885c-58a1a996f59a",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "rerwored this: (Schedule a request upon availability)"
+          ]
+        },
+        "create_time": 1752119683.561,
+        "id": "ada5583d-b567-4ccd-885c-58a1a996f59a",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "c5a2213f-06b3-4c37-b57d-1abd1cb57f63"
+    },
+    "b3fce43d-e0be-4b8b-abc4-31f7e4a9d223": {
+      "id": "b3fce43d-e0be-4b8b-abc4-31f7e4a9d223",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here are a few great home-related emojis you can use, depending on the vibe you're going for:\n\n- \ud83c\udfe1 Cozy, residential feel (most commonly used for \"home services\")  \n- \ud83c\udfe0 Classic home icon  \n- \ud83c\udfd8\ufe0f Neighborhood vibe (if you're covering multiple homes in a community)  \n- \ud83d\udefb If you want to represent a mobile service/home visit in a fun way  \n\nFor your detailing poster, this would be the most fitting:\n\n**\ud83c\udfe1 We come to you \u2014 no travel needed.**\n\nLet me know if you'd like it paired with a car emoji too!"
+          ]
+        },
+        "create_time": 1752120591.662155,
+        "id": "b3fce43d-e0be-4b8b-abc4-31f7e4a9d223",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-4o",
+          "parent_id": "7bc058c6-2557-43a9-8947-a2f6ad4d667c"
+        }
+      },
+      "parent": "7bc058c6-2557-43a9-8947-a2f6ad4d667c"
+    },
+    "c4e3f75c-3d45-4461-940d-18207e45cde6": {
+      "id": "c4e3f75c-3d45-4461-940d-18207e45cde6",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "HARD BOOKING MONDAYS AT HILLWOOD, SEND IN A REQUEST FOR A HOME BOOINGS TUESDAY THOUGH SUNDAYS FOR 250"
+          ]
+        },
+        "create_time": 1752118890.279,
+        "id": "c4e3f75c-3d45-4461-940d-18207e45cde6",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "6e4f0c3b-eb9d-4761-bfa6-ff174ce81f9a"
+    },
+    "c5a2213f-06b3-4c37-b57d-1abd1cb57f63": {
+      "id": "c5a2213f-06b3-4c37-b57d-1abd1cb57f63",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Absolutely \u2014 here\u2019s the updated version with that line changed as requested:\n\n---\n\n\ud83d\udd39 **HARD BOOKING: Every Monday at Hillwood Country Club**  \nLock in your spot for premium on-site details \u2014 **$250 per vehicle**.  \n\ud83d\udca1 *Join a membership that day and we\u2019ll credit the $250 toward your package!*\n\n\u2728 **Monday bookings available only at Hillwood Country Club**\n\n\ud83c\udfe1 **Home Details: Tuesday through Sunday**  \nWe come to you \u2014 no travel needed.  \nEnjoy the same premium care for **$250**  \n\ud83d\udce9 *Send in a request to schedule your at-home service*\n\n\ud83d\udd39 **Memberships Now More Flexible**  \nUse your details **any time within 6 months** \u2014 no more monthly limits.\n\n\ud83d\uddd3\ufe0f **Pre-schedule your appointments**  \nChoose times that work best for **you**.\n\n\ud83d\udd04 **Need to reschedule?**  \nNo problem \u2014 flexible changes available within our policy.\n\n---\n\nLet me know if you'd like to condense this into a shorter version for text, email, or Instagram Stories."
+          ]
+        },
+        "create_time": 1752119110.489142,
+        "id": "c5a2213f-06b3-4c37-b57d-1abd1cb57f63",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-4o",
+          "parent_id": "582d433d-3aad-46c2-8913-2ad18e09e128"
+        }
+      },
+      "parent": "582d433d-3aad-46c2-8913-2ad18e09e128"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "ec49fd51-e699-416a-b97a-068bf378c1fe": {
+      "id": "ec49fd51-e699-416a-b97a-068bf378c1fe",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "We come to you\n No travel needed. Enjoy professional detailing from the comfort of your own home TUESDAYS THROUGH SUNDAY"
+          ]
+        },
+        "create_time": 1752118765.94,
+        "id": "ec49fd51-e699-416a-b97a-068bf378c1fe",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "305639e7-de0a-4118-8e24-5f66d9e25e30"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Detailing Service Flexibility",
+  "update_time": 1752120596.668276,
+  "voice": null
+}

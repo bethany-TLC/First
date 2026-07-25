@@ -1,0 +1,71 @@
+{
+  "conversation_id": "696ea4c9-e424-8332-92ba-344353dd3651",
+  "conversation_template_id": null,
+  "create_time": 1768858846.687884,
+  "current_node": "3f0e1069-641b-47dd-a57d-b7ab0a4ce415",
+  "default_model_slug": "gpt-5-2",
+  "id": "696ea4c9-e424-8332-92ba-344353dd3651",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "24ba8420-b9fa-4949-b271-40f358f60f1f": {
+      "id": "24ba8420-b9fa-4949-b271-40f358f60f1f",
+      "message": null,
+      "parent": null
+    },
+    "3f0e1069-641b-47dd-a57d-b7ab0a4ce415": {
+      "id": "3f0e1069-641b-47dd-a57d-b7ab0a4ce415",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here is a polished, heartfelt review you can post anywhere. I kept it warm, genuine, and professional, and avoided em dashes as you prefer.\n\n---\n\n\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f  \n\nYuki was absolutely amazing to work with. He is incredibly professional, kind, and clearly takes so much pride in his work. From start to finish, everything was handled with care, precision, and attention to detail.\n\nHis expertise and calm presence made the entire experience seamless, and the quality of his work truly exceeded our expectations. We are beyond thankful for everything he did and would highly recommend him to anyone looking for someone they can trust to do an outstanding job.\n\nThank you, Yuki. We are so grateful."
+          ]
+        },
+        "create_time": 1768858846.552778,
+        "id": "3f0e1069-641b-47dd-a57d-b7ab0a4ce415",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "12376e50-eced-492b-8ba0-5022c62fd40c"
+        }
+      },
+      "parent": "bbb2143f-cfe0-48b3-9a79-2b7d8ee5ab1c"
+    },
+    "bbb2143f-cfe0-48b3-9a79-2b7d8ee5ab1c": {
+      "id": "bbb2143f-cfe0-48b3-9a79-2b7d8ee5ab1c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write a review for Yuki and say how how amazing and professional he is and we were so thankful for his work"
+          ]
+        },
+        "create_time": 1768858846.382932,
+        "id": "bbb2143f-cfe0-48b3-9a79-2b7d8ee5ab1c",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "24ba8420-b9fa-4949-b271-40f358f60f1f"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Review for Yuki",
+  "update_time": 1768858852.011781,
+  "voice": null
+}

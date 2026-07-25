@@ -1,0 +1,72 @@
+{
+  "conversation_id": "6a44284d-9304-83e8-9f39-fd8e87fd729e",
+  "conversation_template_id": null,
+  "create_time": 1782851664.923771,
+  "current_node": "68daebaa-37fc-4369-9e2e-b3b26455ad24",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a44284d-9304-83e8-9f39-fd8e87fd729e",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "36f4e6c1-0535-419e-b40e-b084fe25f02c": {
+      "id": "36f4e6c1-0535-419e-b40e-b084fe25f02c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "about luxora: Could you tell us a bit more about your business?  Can you also confirm your rough annual revenue and number of full-time employees?  We look into these to ensure that when we put people in a room together, the challenges and solutions are highly relevant to everyone.  "
+          ]
+        },
+        "create_time": 1782851664.498,
+        "id": "36f4e6c1-0535-419e-b40e-b084fe25f02c",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "68daebaa-37fc-4369-9e2e-b3b26455ad24": {
+      "id": "68daebaa-37fc-4369-9e2e-b3b26455ad24",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here's a polished response you can use:\n\n:::writing{variant=\"document\" id=\"58421\"}\nThe Luxora Collective is a growth partner for medical spas and aesthetic practices. Rather than acting as a traditional marketing agency, we help established practices uncover hidden revenue opportunities, improve operational performance, and build scalable growth systems.\n\nOur work begins with a comprehensive Revenue Leak Audit and Market Blueprint, followed by implementation across patient acquisition, conversion, retention, memberships, retail strategy, provider utilization, and business operations. We also provide proven playbooks, consulting, and done-for-you growth services that help practices increase profitability without simply spending more on advertising.\n\nWe are currently in an exciting growth phase as we've recently rebranded and expanded our service offerings. Our annual revenue is currently under $1 million, and we have approximately 6 full-time team members, supported by a network of specialized contractors and strategic partners. We are looking to connect with other ambitious founders and operators facing similar scaling challenges while also sharing what we've learned from working with medical spas across the country.\n:::"
+          ]
+        },
+        "create_time": 1782851664.830303,
+        "id": "68daebaa-37fc-4369-9e2e-b3b26455ad24",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "012eea09-492b-421c-967d-e431fc524ce1"
+        }
+      },
+      "parent": "36f4e6c1-0535-419e-b40e-b084fe25f02c"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Luxora Business Overview",
+  "update_time": 1782851669.159021,
+  "voice": null
+}

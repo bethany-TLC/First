@@ -1,0 +1,72 @@
+{
+  "conversation_id": "6a560caf-7964-83e8-bf4f-0ef7b3f35441",
+  "conversation_template_id": null,
+  "create_time": 1784024280.430661,
+  "current_node": "082a8468-dc12-4c35-a34c-34f327fd8b36",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a560caf-7964-83e8-bf4f-0ef7b3f35441",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "082a8468-dc12-4c35-a34c-34f327fd8b36": {
+      "id": "082a8468-dc12-4c35-a34c-34f327fd8b36",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here's a response that keeps it professional while explaining the reasoning:\n\n:::writing{variant=\"chat_message\" id=\"58341\"}\nI actually think this approach works against the psychology we're trying to create.\n\nIf Arlene is the one calling and texting to confirm her own appointments the morning of, it can unintentionally lower her perceived value. We want prospects to feel like they're meeting with someone whose time is in demand, not someone chasing them to attend.\n\nA better approach is to have our team handle confirmation calls the day before. Then, if needed, Arlene can send a quick, friendly text the morning of that's simply checking in, not confirming attendance. Something like, \"Looking forward to speaking with you at 1:00 today!\"\n\nThat keeps her positioned as the expert, reinforces that her calendar is full, and still gives us the best chance of reducing no-shows without diminishing her authority.\n:::"
+          ]
+        },
+        "create_time": 1784024280.340222,
+        "id": "082a8468-dc12-4c35-a34c-34f327fd8b36",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "15f3c6b7-b530-42dc-afae-2e42b54e8050"
+        }
+      },
+      "parent": "bbb21f03-7ead-4846-a31a-db9f62875bd8"
+    },
+    "5b3a128d-acec-4181-af3a-8389b3faf9f6": {
+      "id": "5b3a128d-acec-4181-af3a-8389b3faf9f6",
+      "message": null,
+      "parent": null
+    },
+    "bbb21f03-7ead-4846-a31a-db9f62875bd8": {
+      "id": "bbb21f03-7ead-4846-a31a-db9f62875bd8",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "@Arlene Corona Good Morning Arlene! \nYou have 3 calls booked today, none of these leads have had a call with you before so all 3 calls are initial Discovery Calls. \n\nWe have:\n Dr. Kim - 12:00pm\n Karl Nieberlein - 1:00pm\n John Saro (he rescheduled from last week) - 2:00pm\n\nPlease call each lead to confirm their attendance first thing in the morning - if they don't answer, please send through a personalized message as we\u2019ve discussed just to touch base. \n\nI will send you the Call Prep Sheets on each lead to read over before the call:hibiscus:\n\n@Aanchal Somera I'd like to stick to friendly text on same day. If we call it needs to be the day before and by someone else to not diminish her authority on the call. Sales psychology needs to be that her time is being taken up with other clients. \n\n\nHelp me respond to Aanchal about how this is not the bat route"
+          ]
+        },
+        "create_time": 1784024279.756377,
+        "id": "bbb21f03-7ead-4846-a31a-db9f62875bd8",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "5b3a128d-acec-4181-af3a-8389b3faf9f6"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Confirmation Call Strategy",
+  "update_time": 1784024285.17256,
+  "voice": null
+}

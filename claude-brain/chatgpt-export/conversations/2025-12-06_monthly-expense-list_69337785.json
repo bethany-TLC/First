@@ -1,0 +1,123 @@
+{
+  "conversation_id": "69337785-1e74-8327-9ceb-3515d057025a",
+  "conversation_template_id": null,
+  "create_time": 1764980613.828237,
+  "current_node": "28af8a16-5307-42eb-b0b3-55f005bd19d5",
+  "default_model_slug": "gpt-5-1",
+  "id": "69337785-1e74-8327-9ceb-3515d057025a",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "28af8a16-5307-42eb-b0b3-55f005bd19d5": {
+      "id": "28af8a16-5307-42eb-b0b3-55f005bd19d5",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "based on all these files, make me a monthy expense list that i can give ot my lawyer for my asset liabilty form for my divorce. list all reoccuring monthy expenses incuding food and grocery avergea totals, etc"
+          ]
+        },
+        "create_time": 1764980612.389,
+        "id": "28af8a16-5307-42eb-b0b3-55f005bd19d5",
+        "metadata": {
+          "attachments": [
+            {
+              "file_token_size": 1848,
+              "id": "file_00000000364c720c95ec6cfe1a9f399f",
+              "mime_type": "application/pdf",
+              "name": "20250829-statements-9885-.pdf",
+              "size": 99648,
+              "source": "local"
+            },
+            {
+              "file_token_size": 2507,
+              "id": "file_000000006b9c71f5937ffd2a2f90d915",
+              "mime_type": "application/pdf",
+              "name": "20250930-statements-9885-.pdf",
+              "size": 111514,
+              "source": "local"
+            },
+            {
+              "file_token_size": 4850,
+              "id": "file_00000000b4c0720cb36008227de2e58b",
+              "mime_type": "application/pdf",
+              "name": "20251015-statements-9423-.pdf",
+              "size": 236040,
+              "source": "local"
+            },
+            {
+              "file_token_size": 2142,
+              "id": "file_00000000d644720c9e994433f7af0973",
+              "mime_type": "application/pdf",
+              "name": "20251031-statements-9885-.pdf",
+              "size": 108649,
+              "source": "local"
+            },
+            {
+              "file_token_size": 4995,
+              "id": "file_000000005b98722faa52f800070c6d20",
+              "mime_type": "application/pdf",
+              "name": "20251115-statements-9423-.pdf",
+              "size": 239108,
+              "source": "local"
+            },
+            {
+              "file_token_size": 1677,
+              "id": "file_0000000083fc720c93efc3812dda7932",
+              "mime_type": "application/pdf",
+              "name": "20251121-statements-7759-.pdf",
+              "size": 87809,
+              "source": "local"
+            },
+            {
+              "file_token_size": 1970,
+              "id": "file_000000002cf4722f8ad9487fcac63784",
+              "mime_type": "application/pdf",
+              "name": "20251128-statements-9885-.pdf",
+              "size": 103980,
+              "source": "local"
+            },
+            {
+              "file_token_size": 5789,
+              "id": "file_00000000900c722fb06d297249ae1357",
+              "mime_type": "application/pdf",
+              "name": "November 18.pdf",
+              "size": 565730,
+              "source": "local"
+            },
+            {
+              "file_token_size": 3514,
+              "id": "file_0000000026a0720c8bc1300d16b34b0c",
+              "mime_type": "application/pdf",
+              "name": "Statement_112025_2772.pdf",
+              "size": 645148,
+              "source": "local"
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Monthly expense list",
+  "update_time": 1764980623.049735,
+  "voice": null
+}

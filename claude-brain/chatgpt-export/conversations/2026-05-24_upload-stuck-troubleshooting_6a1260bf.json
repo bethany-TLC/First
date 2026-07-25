@@ -1,0 +1,190 @@
+{
+  "conversation_id": "6a1260bf-1ce4-83ea-b9a1-8596b8752dc8",
+  "conversation_template_id": null,
+  "create_time": 1779589322.601025,
+  "current_node": "a9f2f859-89af-4170-b896-1323254e840d",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a1260bf-1ce4-83ea-b9a1-8596b8752dc8",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "a9f2f859-89af-4170-b896-1323254e840d": {
+      "id": "a9f2f859-89af-4170-b896-1323254e840d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "That confirms the upload failed entirely, not just paused.\n\nMost common causes for MP4 upload failures like this:\n\n- File is too large\n- Corrupted video export\n- Special characters/file naming issue\n- Browser/Drive cache glitch\n- Temporary Google Drive issue\n- Weak or interrupted internet\n\nFastest fixes:\n\n1. Rename the file\nChange `CO088.MP4` \u2192 `video.mp4`\n\n2. Try opening the MP4 locally\nDouble-click it and confirm it actually plays all the way through.  \nIf it won\u2019t play, the export is corrupted.\n\n3. Re-export/compress it\nIf it\u2019s huge (like several GB), compress it first using:\n- HandBrake\n- CapCut export\n- VLC convert/save\n\n4. Upload a different file\nTest with a tiny image or short video.  \nIf that uploads fine, the problem is the MP4 itself.\n\n5. Try drag-and-drop directly into Drive\nInstead of using the upload picker.\n\n6. Use Chrome only\nDrive uploads fail more often in Safari/Edge sometimes.\n\n7. Clear stuck upload state\n- Refresh Drive\n- Close all Drive tabs\n- Reopen and upload again\n\nIf you want, tell me:\n- approximate file size\n- where the video came from (iPhone, CapCut, Adobe, Canva, etc.)\n- whether it plays locally\n\n\u2026and I can pinpoint the exact issue fast."
+          ]
+        },
+        "create_time": 1779589411.691139,
+        "id": "a9f2f859-89af-4170-b896-1323254e840d",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "1493e4c6-f73d-40ef-9cef-76977b38c3c7"
+        }
+      },
+      "parent": "eedbca3f-cdf6-4568-964d-a9004f1d7838"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "e3062610-f5cb-4bb6-93fe-ab6b470a90d8": {
+      "id": "e3062610-f5cb-4bb6-93fe-ab6b470a90d8",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "No, it looks stuck.\n\nIf it has been sitting on \u201cStarting upload\u2026\u201d for hours with the spinning circle and no progress bar movement, the upload likely failed or froze before it even began transferring.\n\nTry these in order:\n\n1. Cancel the upload  \n2. Refresh the browser tab completely  \n3. Re-upload the file  \n4. If it freezes again:\n   - Rename the file to something simple like `video1.mp4`\n   - Check the file size (very large MP4s can hang)\n   - Try Chrome or an incognito window\n   - Make sure Google Drive desktop sync is not conflicting\n   - Restart the browser\n\nAlso, that icon looks like Google Drive upload from the web UI. Sometimes Drive gets stuck if:\n- internet briefly dropped\n- browser memory overloaded\n- Drive session expired\n- the video is still open/exporting elsewhere\n\nIf you want, I can also help you:\n- reduce/compress the MP4 size\n- diagnose why that specific video won\u2019t upload\n- show fastest settings for large video uploads to Drive/cloud storage"
+          ]
+        },
+        "create_time": 1779589322.395832,
+        "id": "e3062610-f5cb-4bb6-93fe-ab6b470a90d8",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "a30e57ad-1e34-484b-9141-57221cf0ada3"
+        }
+      },
+      "parent": "e8b200fd-247a-421e-af2b-0acf8e4de697"
+    },
+    "e8b200fd-247a-421e-af2b-0acf8e4de697": {
+      "id": "e8b200fd-247a-421e-af2b-0acf8e4de697",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_000000001efc722fbffe79b589cb5909",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 306,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 53650,
+              "width": 603
+            },
+            "is this uploading? its been like this for hours"
+          ]
+        },
+        "create_time": 1779589322.967,
+        "id": "e8b200fd-247a-421e-af2b-0acf8e4de697",
+        "metadata": {
+          "attachments": [
+            {
+              "height": 306,
+              "id": "file_000000001efc722fbffe79b589cb5909",
+              "is_big_paste": false,
+              "library_file_id": "libfile_17f1a2693a248191939383f10437ef8b",
+              "mime_type": "image/png",
+              "name": "098fdf4f-2e3e-44b5-a540-f43219ee34b8.png",
+              "size": 53650,
+              "source": "local",
+              "width": 603
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "eedbca3f-cdf6-4568-964d-a9004f1d7838": {
+      "id": "eedbca3f-cdf6-4568-964d-a9004f1d7838",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_00000000122c722f98fcf398c118cddd",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 244,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 43281,
+              "width": 610
+            },
+            "now it says this:"
+          ]
+        },
+        "create_time": 1779589411.997,
+        "id": "eedbca3f-cdf6-4568-964d-a9004f1d7838",
+        "metadata": {
+          "attachments": [
+            {
+              "height": 244,
+              "id": "file_00000000122c722f98fcf398c118cddd",
+              "is_big_paste": false,
+              "library_file_id": "libfile_50b30e181ce08191a806cec3716369c2",
+              "mime_type": "image/png",
+              "name": "15be8258-1268-4a02-ba41-562f618ca247.png",
+              "size": 43281,
+              "source": "local",
+              "width": 610
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "e3062610-f5cb-4bb6-93fe-ab6b470a90d8"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Upload Stuck Troubleshooting",
+  "update_time": 1779589418.447412,
+  "voice": null
+}

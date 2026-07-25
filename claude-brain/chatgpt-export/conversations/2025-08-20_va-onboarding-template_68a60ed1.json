@@ -1,0 +1,256 @@
+{
+  "conversation_id": "68a60ed1-a518-8321-9b44-c4cbe81bcbb0",
+  "conversation_template_id": null,
+  "create_time": 1755713322.072951,
+  "current_node": "4604b5a8-8df3-4bc1-a2a9-3ae3b90a8df0",
+  "default_model_slug": "auto",
+  "id": "68a60ed1-a518-8321-9b44-c4cbe81bcbb0",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "209e75f5-5f49-4af4-988d-c5974e3582a1": {
+      "id": "209e75f5-5f49-4af4-988d-c5974e3582a1",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "google doc please\n\nPlease write in English language."
+          ]
+        },
+        "create_time": 1755713344.453,
+        "id": "209e75f5-5f49-4af4-988d-c5974e3582a1",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "888751b8-50c0-42d4-a8b3-d1dec4cfab07"
+    },
+    "26ec35ef-ad5d-4180-9c62-7fa9e2f074f2": {
+      "id": "26ec35ef-ad5d-4180-9c62-7fa9e2f074f2",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s the **fillable version** of your VA onboarding template \u2014 your VA can type directly into the blanks:  \n\n\ud83d\udcc2 [Download VA Onboarding Template (Fillable).docx](sandbox:/mnt/data/VA_Onboarding_Template_Fillable.docx)  \n\nDo you also want me to make a **Google Form version** for easier online filling (no file editing needed)?"
+          ]
+        },
+        "create_time": 1755713377.922469,
+        "id": "26ec35ef-ad5d-4180-9c62-7fa9e2f074f2",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "15cdfffa-38a2-4ad2-a67b-2debb5a8031b"
+        }
+      },
+      "parent": "a1487a3d-65d3-402c-b13d-9115232a8f14"
+    },
+    "2d9e8b6d-6101-4397-a401-4542b4d1cd60": {
+      "id": "2d9e8b6d-6101-4397-a401-4542b4d1cd60",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "\ud83c\udfaf Target Market Details\r\nIndustry Focus: \r\nMedSpa, Dermatology, Plastic Surgery, Health & Wellness Clinic, Aesthetic Practices, Aesthetic products (skinace, lasers, etc) \r\nJob Titles to Target: \r\nOwner, Director of Operations, CO-Owners, Founders\r\nLocation(s): \r\nUSA\r\nBusiness Type/Size: \r\nPreferably 1-30 employees, unless it is a franchise then skies the limit\r\nNotes on Ideal Client Profile (ICP): can you help me fill this part out \n\nPlease write in English language."
+          ]
+        },
+        "create_time": 1755714286.218,
+        "id": "2d9e8b6d-6101-4397-a401-4542b4d1cd60",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "7ad1529c-5d67-496b-9b9f-46a92997aa9c"
+    },
+    "4604b5a8-8df3-4bc1-a2a9-3ae3b90a8df0": {
+      "id": "4604b5a8-8df3-4bc1-a2a9-3ae3b90a8df0",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Absolutely \u2014 let\u2019s craft a clear **Ideal Client Profile (ICP)** section based on your target. Since you\u2019re focusing on aesthetics and health-related practices, here\u2019s a version you can drop directly into your template:  \n\n---\n\n**Notes on Ideal Client Profile (ICP):**  \nOur ideal clients are decision-makers and owners within the aesthetic and wellness industry who are growth-minded but often wearing many hats in their business. They value integrity, patient experience, and sustainable growth over quick wins. These clients are typically running boutique-style practices (1\u201330 employees), though we also work with franchises that want to scale operations.  \n\nThey are often:  \n- Seeking support with **lead generation, marketing, or branding**.  \n- Interested in **streamlining operations and team performance**.  \n- Looking to **expand service offerings** (ex: HRT, peptides, weight loss, new technology).  \n- Focused on building **long-term client retention and revenue consistency**.  \n- Motivated to **differentiate themselves** from competitors with a premium client experience.  \n\nWe avoid clients who are purely price-driven or not invested in strategic growth.  \n\n---\n\nWould you like me to tighten this into a **short bullet-point style** version (easy for a VA to reference quickly), or keep it in the **paragraph + bullet format** for more context?"
+          ]
+        },
+        "create_time": 1755714286.312686,
+        "id": "4604b5a8-8df3-4bc1-a2a9-3ae3b90a8df0",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "2d9e8b6d-6101-4397-a401-4542b4d1cd60"
+        }
+      },
+      "parent": "2d9e8b6d-6101-4397-a401-4542b4d1cd60"
+    },
+    "7ad1529c-5d67-496b-9b9f-46a92997aa9c": {
+      "id": "7ad1529c-5d67-496b-9b9f-46a92997aa9c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Perfect \u2705 A **Google Form** is actually the smoothest way to collect info from your VA \u2014 instead of sending back edited docs, they can just fill out the form, and everything will go neatly into a Google Sheet for you.  \n\nHere\u2019s a **Google Form structure** you can copy-paste into your account (or I can walk you through creating it step by step):  \n\n---\n\n# \ud83d\udcd1 VA Onboarding Form (Google Form Structure)  \n\n### Section 1: Account Logins  \n- **LinkedIn Username/Email** (short answer)  \n- **LinkedIn Password** (short answer)  \n- **Instantly Username/Email** (short answer)  \n- **Instantly Password** (short answer)  \n- **Podcast Platform Name** (short answer)  \n- **Podcast Username/Email** (short answer)  \n- **Podcast Password** (short answer)  \n\n---\n\n### Section 2: Target Market Details  \n- **Industry Focus** (short answer)  \n- **Job Titles to Target** (short answer)  \n- **Location(s)** (short answer)  \n- **Business Type/Size** (short answer)  \n- **Notes on Ideal Client Profile (ICP)** (paragraph)  \n\n---\n\n### Section 3: Outreach Scripts  \n- **LinkedIn Connection Request Script** (paragraph)  \n- **LinkedIn Follow-Up Messages** (paragraph)  \n- **Instantly Email Campaign Name** (short answer)  \n- **Instantly Email Scripts** (paragraph)  \n\n---\n\n### Section 4: Podcast Instructions  \n- **Podcast Host Platform** (short answer)  \n- **Podcast Editing Software** (short answer)  \n- **Steps to Edit** (paragraph)  \n- **Intro/Outro Placement** (short answer)  \n- **Preferred Style** (multiple choice: Casual / Professional / Energetic / Other)  \n- **Export Settings** (short answer)  \n\n---\n\n### Section 5: Additional Notes  \n- **Anything else I should know?** (paragraph)  \n\n---\n\n\ud83d\udc49 To set this up:  \n1. Go to [Google Forms](https://forms.google.com).  \n2. Create a **Blank Form**.  \n3. Copy each section above into your form.  \n4. Toggle required fields where needed.  \n5. Link responses to a **Google Sheet** (so you can track everything easily).  \n\n---\n\nWould you like me to **generate a ready-to-use Google Form link** for you (I\u2019d give you a template you can just duplicate), or do you prefer to build it yourself with the outline above?"
+          ]
+        },
+        "create_time": 1755713388.849186,
+        "id": "7ad1529c-5d67-496b-9b9f-46a92997aa9c",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "df5ebe6e-589a-4a3a-8a86-4ac8b7975793"
+        }
+      },
+      "parent": "df5ebe6e-589a-4a3a-8a86-4ac8b7975793"
+    },
+    "888751b8-50c0-42d4-a8b3-d1dec4cfab07": {
+      "id": "888751b8-50c0-42d4-a8b3-d1dec4cfab07",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Got it \u2705 You want a clean, easy-to-fill template you can hand to your VA so they have everything they need to manage LinkedIn, accounts, scripts, and podcast details without confusion. Here\u2019s a structured **VA Onboarding Template** you can use:  \n\n---\n\n# \ud83d\udcd1 VA Onboarding Template  \n\nThis document contains all login information, target market details, scripts, and instructions for managing LinkedIn outreach and podcast tasks. Please keep this document **confidential and secure** at all times.  \n\n---\n\n## \ud83d\udd10 Account Logins  \n\n### LinkedIn  \n- **Username/Email:** _________________________  \n- **Password:** _________________________  \n\n### Instantly (Outreach Platform)  \n- **Username/Email:** _________________________  \n- **Password:** _________________________  \n\n### Podcast Platform(s)  \n- **Platform Name:** _________________________  \n- **Username/Email:** _________________________  \n- **Password:** _________________________  \n\n---\n\n## \ud83c\udfaf Target Market Details  \n\n- **Industry Focus:** _________________________  \n- **Job Titles to Target:** _________________________  \n- **Location(s):** _________________________  \n- **Business Type/Size:** _________________________  \n- **Notes on Ideal Client Profile (ICP):**  \n  __________________________________________________________  \n\n---\n\n## \ud83d\udcac Outreach Scripts  \n\n### LinkedIn Connection Request  \n```\n[Insert script here]\n```\n\n### LinkedIn Follow-Up Messages  \n1. _________________________  \n2. _________________________  \n3. _________________________  \n\n### Instantly Email Sequences  \n- **Campaign Name:** _________________________  \n- **Scripts:**  \n  1. _________________________  \n  2. _________________________  \n\n---\n\n## \ud83c\udf99 Podcast Instructions  \n\n### Podcast Logins  \n- **Host Platform:** _________________________  \n- **Username/Email:** _________________________  \n- **Password:** _________________________  \n\n### Editing Guidelines  \n- **Software Used:** _________________________  \n- **Steps to Edit:**  \n  1. _________________________  \n  2. _________________________  \n  3. _________________________  \n\n- **Intro/Outro Placement:** _________________________  \n- **Preferred Style (casual/professional/energetic):** _________________________  \n- **Export Settings (format, resolution, etc.):** _________________________  \n\n---\n\n## \u2705 Additional Notes  \n- Keep all communication professional and consistent with brand voice.  \n- Double-check all messages before sending.  \n- Track progress in [tool/spreadsheet name].  \n\n---\n\nWould you like me to also make this into a **fillable Google Doc/Word template** (so you can just hand it off without editing), or keep it as a text outline?"
+          ]
+        },
+        "create_time": 1755713321.050707,
+        "id": "888751b8-50c0-42d4-a8b3-d1dec4cfab07",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "913fb6f4-c257-49c6-a6ce-c4d6e626bee1"
+        }
+      },
+      "parent": "9e9db96a-409a-4cfc-9bc0-bee305f0c99b"
+    },
+    "9e9db96a-409a-4cfc-9bc0-bee305f0c99b": {
+      "id": "9e9db96a-409a-4cfc-9bc0-bee305f0c99b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "create me a templeate to give to my VA that asks for LInkein help: i need to provide usernaem password and scripts i use plus a place to explain my target mareket, instantly password and username and scripts i use to reply, also add a place for podcast log ins and explaiation of how i edit\n\nPlease write in English language."
+          ]
+        },
+        "create_time": 1755713320.753,
+        "id": "9e9db96a-409a-4cfc-9bc0-bee305f0c99b",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "a1487a3d-65d3-402c-b13d-9115232a8f14": {
+      "id": "a1487a3d-65d3-402c-b13d-9115232a8f14",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "yes\n\nPlease write in English language."
+          ]
+        },
+        "create_time": 1755713366.064,
+        "id": "a1487a3d-65d3-402c-b13d-9115232a8f14",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "a7c971f5-2539-4a26-a631-beea1c4bcbf0"
+    },
+    "a7c971f5-2539-4a26-a631-beea1c4bcbf0": {
+      "id": "a7c971f5-2539-4a26-a631-beea1c4bcbf0",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s your ready-to-use Google Doc template saved as a Word file. You can upload it directly to Google Docs for sharing with your VA:  \n\n\ud83d\udcc2 [Download VA Onboarding Template.docx](sandbox:/mnt/data/VA_Onboarding_Template.docx)  \n\nDo you want me to also create a **fillable version** (with text boxes they can type into directly)?"
+          ]
+        },
+        "create_time": 1755713353.266326,
+        "id": "a7c971f5-2539-4a26-a631-beea1c4bcbf0",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "eeca65ec-a85e-401c-a328-ab9b0172585b"
+        }
+      },
+      "parent": "209e75f5-5f49-4af4-988d-c5974e3582a1"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "df5ebe6e-589a-4a3a-8a86-4ac8b7975793": {
+      "id": "df5ebe6e-589a-4a3a-8a86-4ac8b7975793",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "yes\n\nPlease write in English language."
+          ]
+        },
+        "create_time": 1755713387.986,
+        "id": "df5ebe6e-589a-4a3a-8a86-4ac8b7975793",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "26ec35ef-ad5d-4180-9c62-7fa9e2f074f2"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "VA onboarding template",
+  "update_time": 1755714300.852411,
+  "voice": null
+}

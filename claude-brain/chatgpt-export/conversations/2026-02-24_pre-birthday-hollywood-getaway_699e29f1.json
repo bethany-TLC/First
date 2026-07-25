@@ -1,0 +1,77 @@
+{
+  "conversation_id": "699e29f1-1f88-8325-ada3-1546e48fff2c",
+  "conversation_template_id": null,
+  "create_time": 1771973214.154361,
+  "current_node": "33370dd0-cc03-44a9-9840-b080365f7bf4",
+  "default_model_slug": "gpt-5-2",
+  "id": "699e29f1-1f88-8325-ada3-1546e48fff2c",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "33370dd0-cc03-44a9-9840-b080365f7bf4": {
+      "id": "33370dd0-cc03-44a9-9840-b080365f7bf4",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Whisked away to **Hollywood + Miami, Florida** for a pre-birthday weekend I did not know I needed \u2600\ufe0f\ud83c\udf34\n\nSand between my toes. Sun on my skin. City energy after dark. The perfect blend of beach calm and late-night sparkle.\n\nDinner at **\ue200entity\ue202[\"restaurant\",\"MILA\",\"Miami Beach, FL, US\"]\ue201** where I was treated like an absolute queen. From the atmosphere to the details, it was one of those moments you want to freeze in time.\n\nLate-night city adventures that turned into stories. Early mornings in comfies, coffee in hand, watching the day wake up slowly.\n\nThis trip felt like more than a getaway. It felt like a marker.  \nA new chapter.  \nA new year ahead.  \nAnd new memories already being made \ud83e\udd0d\n\nHere\u2019s to celebrating life, love, and what\u2019s next."
+          ]
+        },
+        "create_time": 1771973214.024555,
+        "id": "33370dd0-cc03-44a9-9840-b080365f7bf4",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "MILA",
+              "prompt_text": "MILA",
+              "type": "alt_text"
+            }
+          ],
+          "model_slug": "gpt-5-2",
+          "parent_id": "35e92ebf-81b7-4492-b0f0-bf7cf0780880"
+        }
+      },
+      "parent": "bbb217ce-11d9-4d4e-b816-2d95503281be"
+    },
+    "bbb217ce-11d9-4d4e-b816-2d95503281be": {
+      "id": "bbb217ce-11d9-4d4e-b816-2d95503281be",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write an Instagram post about being whisked away to Hollywood/Miami Florida for my pre birthday weekend. Talk about enjoying the sand, sun and city life. Mention eating at Mila and was made to feel like a queen. Late night City adventures and early mornings comfies. Talk about new chapter, New Year and new memories being made"
+          ]
+        },
+        "create_time": 1771973213.862571,
+        "id": "bbb217ce-11d9-4d4e-b816-2d95503281be",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "d75c9090-b423-4863-ab45-05a47a64e838"
+    },
+    "d75c9090-b423-4863-ab45-05a47a64e838": {
+      "id": "d75c9090-b423-4863-ab45-05a47a64e838",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Pre-Birthday Hollywood Getaway",
+  "update_time": 1771973221.666485,
+  "voice": null
+}

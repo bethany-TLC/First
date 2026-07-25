@@ -1,0 +1,177 @@
+{
+  "conversation_id": "6a3d1294-1f2c-83e8-b9a2-dfc93d0a9d00",
+  "conversation_template_id": null,
+  "create_time": 1782387431.008639,
+  "current_node": "bbb215cd-40cc-4256-9321-d23dac3c5c0c",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a3d1294-1f2c-83e8-b9a2-dfc93d0a9d00",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "a9cb16fe-c214-4ed2-9be3-13c7d83121c3": {
+      "id": "a9cb16fe-c214-4ed2-9be3-13c7d83121c3",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_00000000ff2471f7aba053786c7fd186",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 385,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 345224,
+              "width": 583
+            },
+            "take this exact picture and add in the we do a reveune leak audit in the description of the market blueprint. all add in under the titles: Clarity, acquisition, and expansion."
+          ]
+        },
+        "create_time": 1782387431.008,
+        "id": "a9cb16fe-c214-4ed2-9be3-13c7d83121c3",
+        "metadata": {
+          "attachments": [
+            {
+              "height": 385,
+              "id": "file_00000000ff2471f7aba053786c7fd186",
+              "is_big_paste": false,
+              "library_file_id": "libfile_1519d2e9b3d08191af2df1b671c4d84a",
+              "mime_type": "image/png",
+              "name": "3 TLC pillars.png",
+              "size": 345224,
+              "source": "local",
+              "width": 583
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "bbb213f5-7a4a-4ef6-bc7f-3f0f9df49aa2": {
+      "id": "bbb213f5-7a4a-4ef6-bc7f-3f0f9df49aa2",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "I like image too but replace the market blueprint verbiage to this: Before you spend a single dollar, we perform a deep-dive market analysis and a revenue leak audit to build a data-driven strategy that maximizes your reach and outperforms the competition."
+          ]
+        },
+        "create_time": 1782388790.27805,
+        "id": "bbb213f5-7a4a-4ef6-bc7f-3f0f9df49aa2",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "bbb2174e-2e41-4efb-a151-c5278be1ef7f"
+    },
+    "bbb215cd-40cc-4256-9321-d23dac3c5c0c": {
+      "id": "bbb215cd-40cc-4256-9321-d23dac3c5c0c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "You took out the words below the titles clarity, acquisition and expansion. So put those back. And make all the pillars the same size lengthwise. If you notice the market blueprint is a bit longer than the others and they need to be cohesive"
+          ]
+        },
+        "create_time": 1782389456.086946,
+        "id": "bbb215cd-40cc-4256-9321-d23dac3c5c0c",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "bbb213f5-7a4a-4ef6-bc7f-3f0f9df49aa2"
+    },
+    "bbb2174e-2e41-4efb-a151-c5278be1ef7f": {
+      "id": "bbb2174e-2e41-4efb-a151-c5278be1ef7f",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Take the part out. Be in the market blueprint that I told you to which was the words, revenue leak audit and then underneath the three pillars. Take that part out. Take that part out. Just alter the explanation of the market blueprint to include. We also do a revenue leak audit."
+          ]
+        },
+        "create_time": 1782388448.567398,
+        "id": "bbb2174e-2e41-4efb-a151-c5278be1ef7f",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "bbb21e66-70bd-4652-9ab7-22cae4a2b4eb"
+    },
+    "bbb21e66-70bd-4652-9ab7-22cae4a2b4eb": {
+      "id": "bbb21e66-70bd-4652-9ab7-22cae4a2b4eb",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Nope. Just put in the market blueprint description that we also do the Revenue we got. Then put the word clarity under market blueprint. Put acquisition under pillar two title acquisition engine. Then put expansion under Revenue multiplier"
+          ]
+        },
+        "create_time": 1782388207.417218,
+        "id": "bbb21e66-70bd-4652-9ab7-22cae4a2b4eb",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "a9cb16fe-c214-4ed2-9be3-13c7d83121c3"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Revenue Leak Audit",
+  "update_time": 1782389512.248905,
+  "voice": null
+}

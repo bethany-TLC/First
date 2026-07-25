@@ -1,0 +1,131 @@
+{
+  "conversation_id": "6a288eb0-638c-83e8-b831-fee47f917ba3",
+  "conversation_template_id": null,
+  "create_time": 1781042878.696421,
+  "current_node": "cb01a7fc-6011-4b40-83c1-93a99670341d",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a288eb0-638c-83e8-b831-fee47f917ba3",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "c399a995-955b-40c8-88fd-ed7eb4df3426": {
+      "id": "c399a995-955b-40c8-88fd-ed7eb4df3426",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "make it different style and change middle wording to Coffee Talk: \n\nLearning, Connecting, and Collaborating for Adult Wellness"
+          ]
+        },
+        "create_time": 1781042960.229,
+        "id": "c399a995-955b-40c8-88fd-ed7eb4df3426",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "f5d9acd0-0f8b-421e-b846-2635aeec150d"
+    },
+    "cb01a7fc-6011-4b40-83c1-93a99670341d": {
+      "id": "cb01a7fc-6011-4b40-83c1-93a99670341d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "take out join us part"
+          ]
+        },
+        "create_time": 1781043039.556,
+        "id": "cb01a7fc-6011-4b40-83c1-93a99670341d",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "c399a995-955b-40c8-88fd-ed7eb4df3426"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "f5d9acd0-0f8b-421e-b846-2635aeec150d": {
+      "id": "f5d9acd0-0f8b-421e-b846-2635aeec150d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_000000006a98722fbe4365b3574d1a84",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 381,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 322663,
+              "width": 595
+            },
+            "create me something simlar that is from Alignment Nashville"
+          ]
+        },
+        "create_time": 1781042877.015,
+        "id": "f5d9acd0-0f8b-421e-b846-2635aeec150d",
+        "metadata": {
+          "attachments": [
+            {
+              "height": 381,
+              "id": "file_000000006a98722fbe4365b3574d1a84",
+              "is_big_paste": false,
+              "library_file_id": "libfile_238ef26c8b748191b00808bb11bd15e9",
+              "mime_type": "image/png",
+              "name": "image (2).png",
+              "size": 322663,
+              "source": "local",
+              "width": 595
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Create Similar Content",
+  "update_time": 1781043080.658192,
+  "voice": null
+}

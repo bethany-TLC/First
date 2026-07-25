@@ -1,0 +1,94 @@
+{
+  "conversation_id": "69419fa3-f244-8328-8694-a5a7abdacb90",
+  "conversation_template_id": null,
+  "create_time": 1765908402.140277,
+  "current_node": "4cd35962-a6af-471e-9f68-dcb5ec1d0d56",
+  "default_model_slug": "gpt-5-2",
+  "id": "69419fa3-f244-8328-8694-a5a7abdacb90",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "4cd35962-a6af-471e-9f68-dcb5ec1d0d56": {
+      "id": "4cd35962-a6af-471e-9f68-dcb5ec1d0d56",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Those are **classic plaid pajama pants** (looks like blue flannel PJ bottoms). You can absolutely get these in adult sizes. Here are the best, easy places to find almost the exact match:\n\n### Best Matches (Adult)\n- **Old Navy**  \n  Search: *\u201cMen\u2019s Plaid Flannel Pajama Pants\u201d*  \n  Reliable quality, soft flannel, lots of blue plaid options.\n\n- **Target (Goodfellow & Co or Stars Above)**  \n  Search: *\u201cPlaid Pajama Pants\u201d*  \n  Usually seasonal but very similar patterns.\n\n- **Amazon**  \n  Search:  \n  - *\u201cMen\u2019s blue plaid pajama pants flannel\u201d*  \n  - Brands to look for: **Hanes, Fruit of the Loom, Amazon Essentials**\n\n- **Walmart**  \n  Search: *\u201cMen\u2019s plaid sleep pants\u201d*  \n  Budget friendly and nearly identical prints.\n\n### If You Want That Exact Nostalgic Vibe\n- **L.L. Bean**  \n  A bit more expensive, but classic plaid flannel that lasts forever.\n- **Lands\u2019 End**  \n  Timeless patterns, very similar to this style.\n\n### Pro Tip\nIf by **\u201cph pants\u201d** you meant **PJ pants**, that\u2019s exactly what these are. If you meant a specific brand, tell me and I\u2019ll hunt down the exact adult version.\n\nIf you want:\n- slim fit vs loose\n- women\u2019s cut vs men\u2019s\n- heavyweight cozy vs lightweight\n\nTell me and I\u2019ll narrow it down fast."
+          ]
+        },
+        "create_time": 1765908402.015913,
+        "id": "4cd35962-a6af-471e-9f68-dcb5ec1d0d56",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "19004472-f3cb-4dd8-8cb0-c18ef501646b"
+        }
+      },
+      "parent": "bbb21deb-f476-4864-bb8e-95e48855433c"
+    },
+    "9bf900e7-050e-4032-83e7-a073f9b23ca0": {
+      "id": "9bf900e7-050e-4032-83e7-a073f9b23ca0",
+      "message": null,
+      "parent": null
+    },
+    "bbb21deb-f476-4864-bb8e-95e48855433c": {
+      "id": "bbb21deb-f476-4864-bb8e-95e48855433c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_0000000062f8722f93a51de377d44742",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 2244,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 126460,
+              "width": 1008
+            },
+            "Where can I buy these ph pants but adult size"
+          ]
+        },
+        "create_time": 1765908401.813477,
+        "id": "bbb21deb-f476-4864-bb8e-95e48855433c",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "9bf900e7-050e-4032-83e7-a073f9b23ca0"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Buy adult plaid PJs",
+  "update_time": 1765908418.542801,
+  "voice": null
+}

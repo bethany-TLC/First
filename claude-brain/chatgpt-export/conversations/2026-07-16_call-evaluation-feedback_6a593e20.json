@@ -1,0 +1,245 @@
+{
+  "conversation_id": "6a593e20-5438-83e8-9c22-d9a6261fd72c",
+  "conversation_template_id": "g-69e1104abd1c8191a1d85cd576cd9edf",
+  "create_time": 1784233505.923472,
+  "current_node": "789e912d-69cb-456b-99b5-5c09661ea505",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a593e20-5438-83e8-9c22-d9a6261fd72c",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "17f2cc9a-be7e-4003-991a-fe218600c8e2": {
+      "id": "17f2cc9a-be7e-4003-991a-fe218600c8e2",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content": "Worked for 17s",
+          "content_type": "reasoning_recap"
+        },
+        "create_time": 1784233523.155515,
+        "id": "17f2cc9a-be7e-4003-991a-fe218600c8e2",
+        "metadata": {
+          "model_slug": "gpt-5-5",
+          "parent_id": "7ebc00a6-e591-4908-9cb3-db45b3c28d9d"
+        }
+      },
+      "parent": "7ebc00a6-e591-4908-9cb3-db45b3c28d9d"
+    },
+    "23d29e64-32bd-4613-a5b5-b7368206c885": {
+      "id": "23d29e64-32bd-4613-a5b5-b7368206c885",
+      "message": null,
+      "parent": null
+    },
+    "789e912d-69cb-456b-99b5-5c09661ea505": {
+      "id": "789e912d-69cb-456b-99b5-5c09661ea505",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Before the writing block: Here's a concise introduction you can send with the evaluation.\n\n:::writing{variant=\"chat_message\" id=\"43827\"}\nJer,\n\nOverall, this was a solid discovery call, but I noticed a consistent pattern that's worth correcting early because it will make Call Two much stronger. The goal of our triage calls is to qualify, uncover buying motivations, and create momentum toward the custom proposal\u2014not to build deep personal rapport. She's naturally warm, which is a strength, but she's allowing the prospect's personal stories to lead the conversation instead of using them as a bridge back to the business. The feedback below highlights where that's happening and gives specific examples and replacement language to help her stay empathetic while maintaining control of the call.\n:::"
+          ]
+        },
+        "create_time": 1784233615.470943,
+        "id": "789e912d-69cb-456b-99b5-5c09661ea505",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "bbb21144-122d-4c95-b215-070eb0a771f8"
+        }
+      },
+      "parent": "bbb21144-122d-4c95-b215-070eb0a771f8"
+    },
+    "7ebc00a6-e591-4908-9cb3-db45b3c28d9d": {
+      "id": "7ebc00a6-e591-4908-9cb3-db45b3c28d9d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "thoughts",
+          "source_analysis_msg_id": "2d79c1c6-c6fe-41e6-a47e-2f2f32c2f9cd",
+          "thoughts": [
+            {
+              "chunks": [],
+              "content": "",
+              "finished": true,
+              "summary": "Extracted text from DOCX document"
+            }
+          ]
+        },
+        "create_time": 1784233523.15159,
+        "id": "7ebc00a6-e591-4908-9cb3-db45b3c28d9d",
+        "metadata": {
+          "model_slug": "gpt-5-5",
+          "parent_id": "cd54758d-482f-41a6-b163-46ce4ff92ee3",
+          "tool_icons": [
+            "code"
+          ]
+        }
+      },
+      "parent": "bbb21293-51a5-4abb-a188-33f632c7b6d1"
+    },
+    "bbb21144-122d-4c95-b215-070eb0a771f8": {
+      "id": "bbb21144-122d-4c95-b215-070eb0a771f8",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write me a short paragraph to put in front of this so I can send it to jer"
+          ]
+        },
+        "create_time": 1784233615.274942,
+        "id": "bbb21144-122d-4c95-b215-070eb0a771f8",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "db5ffdac-ab17-4a49-abc9-f2385b420cde"
+    },
+    "bbb21293-51a5-4abb-a188-33f632c7b6d1": {
+      "id": "bbb21293-51a5-4abb-a188-33f632c7b6d1",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "She is getting too personal on these calls. Please evaluate her call and help her stop: keep in mind we do a two part call a triage call and that a custom proposal on call two "
+          ]
+        },
+        "create_time": 1784233505.207498,
+        "id": "bbb21293-51a5-4abb-a188-33f632c7b6d1",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_00000000cdb871f5934f374216fad2ea",
+              "library_file_id": "libfile_a0a82e8bfaa88191a06b7dea3ee9fc90",
+              "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "name": "Jillian-Bergeron-Discover-e52260a6-3f21-411f-8f13-8a88fdf5ba4c-2026-07-15-20-00-00.docx",
+              "size": 21342
+            }
+          ],
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "23d29e64-32bd-4613-a5b5-b7368206c885"
+    },
+    "db5ffdac-ab17-4a49-abc9-f2385b420cde": {
+      "id": "db5ffdac-ab17-4a49-abc9-f2385b420cde",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "LET'S GO. I listened to this through the lens of your sales process, and I'm evaluating it as **Call 1 (Discovery/Triage)**, not a proposal call. That changes the standard. The purpose of this call is to determine fit, gather the right information, create clarity, and earn the second appointment\u2014not to become the client's therapist or best friend. \ue200filecite\ue202turn0file0\ue201\n\nThe biggest issue isn't that she's warm.\n\nThe biggest issue is that she's **following the client's energy instead of leading the conversation.** That creates unnecessary emotional depth for a triage call and burns time that should be spent uncovering buying motivations.\n\n# Score\n\n| Authority & Presence | Score |\n|---|---:|\n| 1. Opens with certainty | 3 \u26a0 Inconsistent |\n| 2. Doesn't over-audition | 5 \u2705 Dialed In |\n| 3. Transfers certainty | 4 \u26a1 Solid |\n| 4. Leads the conversation | 2 \ud83d\udd3b Weak |\n\n**Average: 3.5/5**\n\n---\n\n| Clarity & Discovery | Score |\n|---|---:|\n| 5. Clear purpose of call | 5 \u2705 Dialed In |\n| 6. Keeps focus on business goals | 3 \u26a0 Inconsistent |\n| 7. Doesn't over-explore unnecessary details | 2 \ud83d\udd3b Weak |\n| 8. Next step is crystal clear | 5 \u2705 Dialed In |\n\n**Average: 3.75/5**\n\n---\n\n| Decision Guidance | Score |\n|---|---:|\n| 9. Moves toward second call | 5 \u2705 Dialed In |\n| 10. Maintains leadership | 2 \ud83d\udd3b Weak |\n| 11. Creates urgency | 3 \u26a0 Inconsistent |\n| 12. Redirects emotional tangents | 2 \ud83d\udd3b Weak |\n\n**Average: 3/5**\n\n---\n\n| Overall Sales Presence | Score |\n|---|---:|\n| 13. Professional confidence | 4 \u26a1 Solid |\n| 14. Builds rapport appropriately | 5 \u2705 Dialed In |\n| 15. Asks meaningful qualifying questions | 3 \u26a0 Inconsistent |\n| 16. Uses time efficiently | 2 \ud83d\udd3b Weak |\n\n**Average: 3.5/5**\n\n# **Total Score: 54/80**\n\nA decent discovery call.\n\nBut it left a lot of strategic information on the table because too much time was spent inside rapport.\n\n---\n\n# \ud83d\udfe2 What She Did Well\n\n### 1. She set expectations for the two-call process.\n\nThis was excellent.\n\n> \"If it is a good fit, then we'll schedule a second call and go deeper into a strategy session.\"\n\nThat keeps Discovery as Discovery instead of trying to sell prematurely.\n\n---\n\n### 2. She made the client feel safe.\n\nWhen Jillian disclosed her cancer history, she acknowledged it naturally.\n\n> \"I'm happy to hear you're doing better.\"\n\nEmpathy is appropriate.\n\nThe problem starts after that.\n\n---\n\n### 3. She confirmed fit before scheduling Call Two.\n\nShe never tried forcing strategy onto Discovery.\n\nThat's exactly what a triage call should do.\n\n---\n\n# \ud83d\udd34 Top 3 Conversion Killers\n\n## 1. She becomes fascinated with the client's personal story.\n\nThis happened immediately.\n\nExample:\n\n> \"What kind of cancer was it?\"\n\nfollowed by\n\n> \"How long have you been in remission?\"\n\nfollowed by\n\n> \"You look healthy. You're glowing. Are you on peptides?\"\n\nNone of these questions help qualify the prospect.\n\nThey move the conversation away from business and into friendship.\n\nThe client now has permission to continue telling personal stories.\n\n**Replacement**\n\n\"I appreciate you sharing that. I'm really glad you're healthy again. Tell me how that experience shaped the business you're building today.\"\n\nSee the difference?\n\nYou acknowledge.\n\nBridge.\n\nReturn to business.\n\n---\n\n## 2. She follows every tangent.\n\nJillian repeatedly opens side conversations.\n\nExamples include:\n\n- AI phone systems\n- acne\n- rosacea\n- childhood acne\n- energy healing\n- San Diego\n- Miami\n- shamanism\n- peptides\n\nInstead of redirecting, she joins every one.\n\nA discovery call is not networking.\n\nIt is diagnosis.\n\n**Replacement**\n\n\"That's really helpful context. Let me bring us back for a second because I want to understand the business itself.\"\n\nThat one sentence preserves rapport while keeping leadership.\n\n---\n\n## 3. She asks curiosity questions instead of buying questions.\n\nFor example:\n\n> \"Did you have acne as well?\"\n\nInteresting?\n\nYes.\n\nHelpful?\n\nNo.\n\nInstead she could have asked:\n\n> \"What made solving that problem become so important to you?\"\n\nor\n\n> \"What revenue goal would make this business feel successful over the next twelve months?\"\n\nor\n\n> \"What would have to change in the business for you to say hiring us was one of the best decisions you made?\"\n\nThose questions create future buying momentum.\n\nPersonal curiosity does not.\n\n---\n\n# The Coaching Theme\n\nThis is someone who naturally builds connection.\n\nThat's a gift.\n\nBut right now she's using **connection instead of leadership.**\n\nThe client doesn't need another friend.\n\nThey need someone who can confidently guide them through a process.\n\nFor a **Discovery/Triage Call**, teach this simple rule:\n\n**Every personal story gets one empathetic response, then one bridge back to the business.**\n\nExample:\n\nClient:\n\n> \"I had cancer.\"\n\nResponse:\n\n> \"I'm really glad you're healthy again. It sounds like that experience changed the direction of your business. Tell me what you're building now.\"\n\nDone.\n\nNo follow-up medical interview.\n\nNo discussion about remission.\n\nNo peptides.\n\nNo five-minute rabbit hole.\n\nEmpathy.\n\nBridge.\n\nLead.\n\nThat's the muscle I would coach here because it will immediately shorten the calls, improve qualification, and make Call Two far stronger. It also aligns with maintaining authority by acknowledging emotion briefly and then leading the conversation back to its purpose. \ue200filecite\ue202turn0file4\ue201\n\nIf this salesperson consistently gets \"too personal,\" I would actually build her a **\"Bridge Bank\"**\u201420 ready-to-use transition phrases that let her acknowledge emotion warmly while immediately steering the conversation back to the business. That would likely have the biggest impact on her Discovery calls."
+          ]
+        },
+        "create_time": 1784233522.451124,
+        "id": "db5ffdac-ab17-4a49-abc9-f2385b420cde",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": null,
+              "cloud_doc_url": "",
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_00000000cdb871f5934f374216fad2ea",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "fe6c83fe-1a7a-412f-a62f-0b2c93c1193f",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": "libfile_a0a82e8bfaa88191a06b7dea3ee9fc90",
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "Jillian-Bergeron-Discover-e52260a6-3f21-411f-8f13-8a88fdf5ba4c-2026-07-15-20-00-00.docx",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            },
+            {
+              "alt": null,
+              "cloud_doc_url": null,
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_000000005b04720c8ad5c175be458f8b",
+              "input_pointer": {
+                "file_index": 4,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "b757af32-fbb2-4cc9-8f03-ba43824ffed6",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "KB_02_ The Certainty Manual (Authority & Presence).pdf",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "17f2cc9a-be7e-4003-991a-fe218600c8e2"
+        }
+      },
+      "parent": "17f2cc9a-be7e-4003-991a-fe218600c8e2"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Call Evaluation Feedback",
+  "update_time": 1784233619.32696,
+  "voice": null
+}

@@ -1,0 +1,658 @@
+{
+  "conversation_id": "6a56c120-249c-83e8-97c9-061008bcaea0",
+  "conversation_template_id": null,
+  "create_time": 1784070443.726253,
+  "current_node": "dbc8e53c-83f2-4d86-9464-667316d752b0",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a56c120-249c-83e8-97c9-061008bcaea0",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "6a23a7a1-dcec-4b48-8fcd-58406bff4d06": {
+      "id": "6a23a7a1-dcec-4b48-8fcd-58406bff4d06",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "thoughts",
+          "source_analysis_msg_id": "6d9aaeca-1888-44a5-846d-01f2e02a5de9",
+          "thoughts": []
+        },
+        "create_time": 1784070474.570011,
+        "id": "6a23a7a1-dcec-4b48-8fcd-58406bff4d06",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-6-thinking",
+          "parent_id": "6d9aaeca-1888-44a5-846d-01f2e02a5de9"
+        }
+      },
+      "parent": "bbb215de-5f53-4edf-a808-7c0d90c28ae9"
+    },
+    "bbb215de-5f53-4edf-a808-7c0d90c28ae9": {
+      "id": "bbb215de-5f53-4edf-a808-7c0d90c28ae9",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Whether they are legitimate business and what their customers are saying and any potential red flags before signing a contract"
+          ]
+        },
+        "create_time": 1784070472.442839,
+        "id": "bbb215de-5f53-4edf-a808-7c0d90c28ae9",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "f2cf9c40-f1c1-4d40-9d86-7497eebc6ab4"
+    },
+    "bbb21a9c-df17-46c7-912b-2ee8e4934d7d": {
+      "id": "bbb21a9c-df17-46c7-912b-2ee8e4934d7d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Help me evaluate all those things"
+          ]
+        },
+        "create_time": 1784070443.356112,
+        "id": "bbb21a9c-df17-46c7-912b-2ee8e4934d7d",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "bc9fd7e2-2130-4c1d-920b-c248fff46be2"
+    },
+    "bc9fd7e2-2130-4c1d-920b-c248fff46be2": {
+      "id": "bc9fd7e2-2130-4c1d-920b-c248fff46be2",
+      "message": null,
+      "parent": null
+    },
+    "dbc8e53c-83f2-4d86-9464-667316d752b0": {
+      "id": "dbc8e53c-83f2-4d86-9464-667316d752b0",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Got it. You mean **AnotherZero/Nick and the PR contract**, specifically: are they legitimate, what do real customers say, and what should you watch for before signing.\n\nBased on what I found, **AnotherZero appears to be a real operating business, not an obvious scam**. They have a public website, a BBB business profile, a large volume of recent Trustpilot reviews, and a substantial trail of client testimonials across multiple platforms. \ue200cite\ue202turn712146search0\ue202turn712146search1\ue202turn712146search2\ue202turn712146search17\ue201\n\n### What customers are saying\n\nThe overwhelming theme in reviews is positive: customers frequently mention fast turnaround, responsive communication, well-written articles, and getting content distributed across a large number of news websites. Some customers specifically report placements or syndication involving names such as NBC, CBS, Fox, and other recognizable outlets. \ue200cite\ue202turn712146search2\ue202turn712146search7\ue202turn712146search12\ue202turn712146search23\ue201\n\nTrustpilot currently shows an unusually strong review profile, with hundreds of reviews and the vast majority being five stars. That is certainly a positive signal, although I would **not rely on review volume alone** when making a larger contractual commitment. \ue200cite\ue202turn712146search26\ue201\n\n### The biggest thing I would clarify before signing\n\nThere is a major difference between:\n\n**1. Earned editorial PR**  \nA journalist independently decides your story is newsworthy and writes about you.\n\n**2. Guaranteed paid placement**  \nYou pay for a sponsored, contributor, partner, or advertorial article on a specific publication.\n\n**3. Press-release syndication**  \nOne article or press release is distributed through a network and automatically appears on many local news affiliate websites.\n\nFrom the customer descriptions I found, **at least part of AnotherZero's model appears to involve content creation and broad distribution/syndication**. That can absolutely be useful for credibility, Google search results, website logos, social proof, and SEO. But it is **not necessarily the same thing as Forbes, Entrepreneur, CNBC, NBC, or Fox independently deciding to feature Bethany Gifford or The Luxora Collective editorially**. \ue200cite\ue202turn712146search18\ue202turn712146search23\ue201\n\nThat distinction is the biggest thing I would scrutinize in Nick's proposal.\n\n### My potential red flags\n\n**The contract needs to define exactly what a \"placement\" means.**  \nDo not accept language such as \"featured on major media\" without identifying whether it is a direct article on the primary publication, an affiliate website, a press-release pickup, a sponsored article, or guaranteed contributor content.\n\n**Be careful with recognizable media logos.**  \nA press release appearing on something like `local NBC affiliate website` is very different commercially from NBC News independently profiling you. You need to know precisely what you are purchasing.\n\n**Look closely at permanence.**  \nAsk whether the articles are guaranteed to remain live permanently, for a minimum period, or whether the publisher can remove them at any time.\n\n**Look for replacement guarantees.**  \nIf a promised publication rejects the article or removes it, does AnotherZero replace the placement?\n\n**Ownership matters.**  \nYou should retain the right to use the written articles, screenshots, logos where legally permitted, and links in your own marketing.\n\n**Do not let vague \"PR results\" substitute for an actual business outcome.**  \nGetting 500 syndicated links may look impressive but does not automatically create qualified med spa clients. For TLC, the question is whether the package helps position **you as the authority in aesthetic business growth** in places that your prospective clients will actually respect.\n\n### My honest read for you\n\nI **would not automatically walk away from AnotherZero**. There is enough evidence of a real business and many reported satisfied customers that I would take them seriously. \ue200cite\ue202turn712146search1\ue202turn712146search2\ue202turn712146search23\ue201\n\nHowever, I also **would not sign a significant long-term contract based solely on promises that you will be \"featured on NBC, CBS, Fox, Forbes, etc.\"** until we see exactly what those words mean contractually.\n\nFor TLC, I would care far more about:\n\n**One genuinely credible authority-building article where your ideal med spa owner will see you as an expert** than 400 syndicated copies of the same press release that technically allow someone to say, \"As seen on...\"\n\nMy recommendation is to **upload or send me the actual proposal and contract Nick gave you**. I will go line by line and flag the deliverables, cancellation terms, guarantees, ownership rights, renewal clauses, payment obligations, and any wording that gives them room to deliver something materially different from what you think you're buying."
+          ]
+        },
+        "create_time": 1784070476.852681,
+        "id": "dbc8e53c-83f2-4d86-9464-667316d752b0",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "([AnotherZero](https://www.anotherzero.com/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "AnotherZero",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 1,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 2,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 17,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "... book reached #1 in three Amazon categories during pre-launch . I highly recommend AnotherZero for anyone looking for quality PR and real results . Prince Patel.Read more",
+                  "supporting_websites": [
+                    {
+                      "attribution": "Better Business Bureau",
+                      "pub_date": null,
+                      "snippet": "Latest Reviews. Roger S. \"I had an outstanding experience with AnotherZero! They delivered exceptional REMOVEDservices for my company, REMOVED, ...Read more",
+                      "title": "AnotherZero | BBB Business Profile",
+                      "url": "https://www.bbb.org/us/ca/los-angeles/profile/public-relations-counselor/taking-wall-street-llc-1216-1000033835?utm_source=chatgpt.com"
+                    },
+                    {
+                      "attribution": "Trustpilot",
+                      "pub_date": null,
+                      "snippet": "The experience with Another Zero has been fantastic. Amanda has been super helpful throughout the whole process and I was really impressed by the high ...Read more",
+                      "title": "Read Customer Service Reviews of anotherzero.com",
+                      "url": "https://www.trustpilot.com/review/anotherzero.com?utm_source=chatgpt.com"
+                    },
+                    {
+                      "attribution": "LinkedIn",
+                      "pub_date": null,
+                      "snippet": "AnotherZero. Business Consulting and Services. Los Angeles, California 225 followers. Helping businesses add AnotherZero to their bottom line.",
+                      "title": "AnotherZero",
+                      "url": "https://www.linkedin.com/company/anotherzero?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Another Zero",
+                  "url": "https://www.anotherzero.com/?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Trustpilot](https://www.trustpilot.com/review/anotherzero.com?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Trustpilot",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 2,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 7,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 12,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 23,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "The experience with Another Zero has been fantastic. Amanda has been super helpful throughout the whole process and I was really impressed by the high ...Read more",
+                  "supporting_websites": [
+                    {
+                      "attribution": "LinkedIn",
+                      "pub_date": null,
+                      "snippet": "It hit my target market. It was a completely reasonable cost and I feel like I've made friends for life with the team at another zero.Read more",
+                      "title": "Another Zero review and testimonial | Nic Abelian posted ...",
+                      "url": "https://www.linkedin.com/posts/nabelian_anotherzero-review-and-testimonial-marissa-activity-7238651459490193408-lkwI?utm_source=chatgpt.com"
+                    },
+                    {
+                      "attribution": "LinkedIn",
+                      "pub_date": null,
+                      "snippet": "Working with Another Zero brands, it was unbelievable. I got ridiculous exposure for the company. We got a lot of recognition and brand credibility.Read more",
+                      "title": "Another Zero Review and Testimonial | Nic Abelian posted ...",
+                      "url": "https://www.linkedin.com/posts/nabelian_anotherzero-review-and-testimonial-sean-activity-7238633273612976128-El3b?utm_source=chatgpt.com"
+                    },
+                    {
+                      "attribution": "Trustpilot",
+                      "pub_date": null,
+                      "snippet": "AnotherZero has 5 stars! Check out what 862 people have written so far, and share your own experience. | Read 101-120 Reviews out of 850.",
+                      "title": "Read Customer Service Reviews of anotherzero.com",
+                      "url": "https://ca.trustpilot.com/review/anotherzero.com?page=6&utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Read Customer Service Reviews of anotherzero.com",
+                  "url": "https://www.trustpilot.com/review/anotherzero.com?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Trustpilot](https://www.trustpilot.com/review/anotherzero.com?page=9&utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Trustpilot",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 26,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "AnotherZero has 5 stars! Read 161-180 Reviews out of 899. Reviewers consistently express high satisfaction with customer service, 4-star 3-star 2-star 1-star",
+                  "supporting_websites": [],
+                  "title": "Read Customer Service Reviews of anotherzero.com",
+                  "url": "https://www.trustpilot.com/review/anotherzero.com?page=9&utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Reddit](https://www.reddit.com/r/AnotherZero/comments/1i4r6pi/anotherzero_review_and_testimonial_sa/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Reddit",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1737263882.845,
+                  "refs": [
+                    {
+                      "ref_index": 18,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 23,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "From the get-go, Nick and Amanda were absolutely fantastic\u2014super professional and always willing to go the extra mile. The entire process was ...",
+                  "supporting_websites": [
+                    {
+                      "attribution": "Trustpilot",
+                      "pub_date": null,
+                      "snippet": "AnotherZero has 5 stars! Check out what 862 people have written so far, and share your own experience. | Read 101-120 Reviews out of 850.",
+                      "title": "Read Customer Service Reviews of anotherzero.com",
+                      "url": "https://ca.trustpilot.com/review/anotherzero.com?page=6&utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "AnotherZero Review and Testimonial: S.A.",
+                  "url": "https://www.reddit.com/r/AnotherZero/comments/1i4r6pi/anotherzero_review_and_testimonial_sa/?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Better Business Bureau](https://www.bbb.org/us/ca/los-angeles/profile/public-relations-counselor/taking-wall-street-llc-1216-1000033835?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Better Business Bureau",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 1,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 2,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 23,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Latest Reviews. Roger S. \"I had an outstanding experience with AnotherZero! They delivered exceptional REMOVEDservices for my company, REMOVED, ...Read more",
+                  "supporting_websites": [
+                    {
+                      "attribution": "Trustpilot",
+                      "pub_date": null,
+                      "snippet": "The experience with Another Zero has been fantastic. Amanda has been super helpful throughout the whole process and I was really impressed by the high ...Read more",
+                      "title": "Read Customer Service Reviews of anotherzero.com",
+                      "url": "https://www.trustpilot.com/review/anotherzero.com?utm_source=chatgpt.com"
+                    },
+                    {
+                      "attribution": "Trustpilot",
+                      "pub_date": null,
+                      "snippet": "AnotherZero has 5 stars! Check out what 862 people have written so far, and share your own experience. | Read 101-120 Reviews out of 850.",
+                      "title": "Read Customer Service Reviews of anotherzero.com",
+                      "url": "https://ca.trustpilot.com/review/anotherzero.com?page=6&utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "AnotherZero | BBB Business Profile",
+                  "url": "https://www.bbb.org/us/ca/los-angeles/profile/public-relations-counselor/taking-wall-street-llc-1216-1000033835?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prefix": null,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "AnotherZero",
+                  "title": "Another Zero",
+                  "url": "https://www.anotherzero.com/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Trustpilot",
+                  "title": "Read Customer Service Reviews of anotherzero.com",
+                  "url": "https://www.trustpilot.com/review/anotherzero.com?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Reddit",
+                  "title": "AnotherZero Review and Testimonial: S.A.",
+                  "url": "https://www.reddit.com/r/AnotherZero/comments/1i4r6pi/anotherzero_review_and_testimonial_sa/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Better Business Bureau",
+                  "title": "AnotherZero | BBB Business Profile",
+                  "url": "https://www.bbb.org/us/ca/los-angeles/profile/public-relations-counselor/taking-wall-street-llc-1216-1000033835?utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Past chat",
+                "citation_uuid": "6e8b39a5-c6f9-4c2b-9d81-f54844aca059",
+                "conversation_context_type": "past_conversation",
+                "conversation_title": "AnotherZero PR Evaluation",
+                "end_idx": -1,
+                "index": 4,
+                "matched_text": "",
+                "prompt_text": null,
+                "pub_date": 1784034754.94051,
+                "reason": null,
+                "refs": [],
+                "snippet": "Evaluate anotherzero.com a guy named Nick that says he can get us published. Tell me what he's actually doing and is this something we can do ourselves or is this worth it",
+                "start_idx": -1,
+                "title": "AnotherZero PR Evaluation",
+                "type": "conversation_context_citation",
+                "url": "/c/6a5635af-eed0-83e8-8ff1-b0aa6dafb688"
+              },
+              "citation_uuid": "6e8b39a5-c6f9-4c2b-9d81-f54844aca059",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-6-thinking",
+          "parent_id": "f0a82d23-cd4b-41cc-8c5b-63cc91b414fe",
+          "search_result_groups": [
+            {
+              "domain": "anotherzero.com",
+              "entries": [
+                {
+                  "attribution": "anotherzero.com",
+                  "snippet": "\"Skilled writers well-written press release, published in just a couple of days.\" George Johnson. \"Exceptional PR Experience! extremely responsive made ...Read more",
+                  "title": "AnotherZero Testimonials & Reviews",
+                  "url": "https://anotherzero.com/testimonials?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "anotherzero.com",
+                  "snippet": "But now here's how you can get easy access to get your business featured in one of the top news and industry publications with our Instant PR Package. We ...Read more",
+                  "title": "$97 Article Feature Checkout",
+                  "url": "https://anotherzero.com/checkout-756959-test?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "anotherzero.com",
+                  "snippet": "AnotherZero provides various services to assist your business growth and online presence. These services may include content marketing, website design, SEO, ...Read more",
+                  "title": "Terms & Conditions",
+                  "url": "https://anotherzero.com/terms?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "anotherzero.com",
+                  "snippet": "After completing the intake form, we'll get started on your article. You'll receive your first draft within 24-48 hours right in your client portal.Read more",
+                  "title": "Order Confirmation",
+                  "url": "https://anotherzero.com/thankyou1-test?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "reddit.com",
+              "entries": [
+                {
+                  "attribution": "reddit.com",
+                  "snippet": "I just saw an ad on Facebook for $97 this company will write an article about you and get you featured in various high-end websites. I can\u2019t find much ...",
+                  "title": "Anyone know about AnotherZero pr and marketing",
+                  "url": "https://www.reddit.com/r/smallbusiness/comments/1qnkj2n/anyone_know_about_anotherzero_pr_and_marketing/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "reddit.com",
+                  "snippet": "they're a fraudulent company. Anyone know about AnotherZero pr and marketing ? PR firm scam, need advice",
+                  "title": "Guaranteeing Results can be legit, but watch out for scams!",
+                  "url": "https://www.reddit.com/r/PublicRelations/comments/x9e25o/guaranteeing_results_can_be_legit_but_watch_out/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "reddit.com",
+                  "snippet": "I had a wonderful time with AnotherZero PR. They are responsive, affordable, and very helpful! I would definitely recommend them and use them again.",
+                  "title": "AnotherZero (u/GoAnotherZero)",
+                  "url": "https://www.reddit.com/user/GoAnotherZero/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "trustpilot.com",
+              "entries": [
+                {
+                  "attribution": "trustpilot.com",
+                  "snippet": "AnotherZero has 5 stars! Looking at 640 reviews, reviewers overwhelmingly had a great experience with this company. Customers consistently praise the ...",
+                  "title": "Read Customer Service Reviews of anotherzero.com",
+                  "url": "https://ca.trustpilot.com/review/anotherzero.com?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "trustpilot.com",
+                  "snippet": "AnotherZero has 5 stars! Check out what 862 people have written so far, and share your own experience. | Read 101-120 Reviews out of 850.",
+                  "title": "Read Customer Service Reviews of anotherzero.com",
+                  "url": "https://ca.trustpilot.com/review/anotherzero.com?page=6&utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "linkedin.com",
+              "entries": [
+                {
+                  "attribution": "linkedin.com",
+                  "snippet": "It hit my target market. It was a completely reasonable cost and I feel like I've made friends for life with the team at another zero.Read more",
+                  "title": "Another Zero review and testimonial | Nic Abelian posted ...",
+                  "url": "https://www.linkedin.com/posts/nabelian_anotherzero-review-and-testimonial-marissa-activity-7238651459490193408-lkwI?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "linkedin.com",
+                  "snippet": "Working with Another Zero brands, it was unbelievable. I got ridiculous exposure for the company. We got a lot of recognition and brand credibility.Read more",
+                  "title": "Another Zero Review and Testimonial | Nic Abelian posted ...",
+                  "url": "https://www.linkedin.com/posts/nabelian_anotherzero-review-and-testimonial-sean-activity-7238633273612976128-El3b?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "linkedin.com",
+                  "snippet": "AnotherZero. Business Consulting and Services. Los Angeles, California 225 followers. Helping businesses add AnotherZero to their bottom line.",
+                  "title": "AnotherZero",
+                  "url": "https://www.linkedin.com/company/anotherzero?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "instagram.com",
+              "entries": [
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "Their process was efficient, collaborative, and rooted in excellence. I'm truly impressed with the quality of their work and highly recommend ...Read more",
+                  "title": "AnotherZero PR Review and Testimonial. \"Hello. Um, just ...",
+                  "url": "https://www.instagram.com/p/C74xCkcPiJ8/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "AnotherZero Review & Testimonial: Sarah Phillips Couldn't be happier with my experience\u2026 Couldn't be happier with my experience with AnotherZero!",
+                  "title": "AnotherZero (@goanotherzero)",
+                  "url": "https://www.instagram.com/goanotherzero/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "Working with Another Zero was a seamless experience from start to finish. The entire process was professional, efficient, and incredibly easy.Read more",
+                  "title": "AnotherZero PR Review and Testimonial. \"Hello. Um, just ...",
+                  "url": "https://www.instagram.com/p/C74yyq7P9Kc/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "Great experience. Amanda was very nice and informative. The service was easy and professional. I would highly recommend them to my colleagues ...Read more",
+                  "title": "AnotherZero Review & Testimonial: Gwen Great ...",
+                  "url": "https://www.instagram.com/p/DPPCPVjj1aR/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "I really love this PR company. They took my press release that I had written about my brand and my my writing and they really turned it into a ...",
+                  "title": "AnotherZero Review and Testimonial - Gina \"Hi guys, so I just ...",
+                  "url": "https://www.instagram.com/reel/C-07kRIO-lq/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "evergreenawards.com",
+              "entries": [
+                {
+                  "attribution": "evergreenawards.com",
+                  "snippet": "Unlike many competitors, AnotherZero's reputation is built on real results and client satisfaction. Our TrustPilot reviews and Better Business Bureau A+ ...Read more",
+                  "title": "AnotherZero Recognized as the Best PR and Marketing ...",
+                  "url": "https://evergreenawards.com/awards/anotherzero-recognized-as-the-best-pr-and-marketing-agency-of-2025?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "bbb.org",
+              "entries": [
+                {
+                  "attribution": "bbb.org",
+                  "snippet": "Find BBB Rated businesses and charities serving your area. Your guide to trusted BBB Ratings, customer reviews and BBB Accredited businesses.",
+                  "title": "Search the BBB Directory | Better Business ...",
+                  "url": "https://www.bbb.org/search?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "facebook.com",
+              "entries": [
+                {
+                  "attribution": "facebook.com",
+                  "snippet": "AnotherZero provided me with an excellent PR service. They went above and beyond in terms of speed and quality and I couldn't be more pleased ...Read more",
+                  "title": "AnotherZero Review & Testimonial - Nic Abelian",
+                  "url": "https://www.facebook.com/NicAbelian1/posts/anotherzero-review-testimonial-janicaanother-zero-went-beyond-expectationsanothe/587714864413303/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "scamadviser.com",
+              "entries": [
+                {
+                  "attribution": "scamadviser.com",
+                  "snippet": "In summary, we think anotherzero.com is legit and safe for consumers to access. Your Go-To Tools for Online Safety.Read more",
+                  "title": "anotherzero.com Reviews | check if site is scam or legit",
+                  "url": "https://www.scamadviser.com/check-website/anotherzero.com?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "youtube.com",
+              "entries": [
+                {
+                  "attribution": "youtube.com",
+                  "snippet": "I dug a little deeper and found the scam. I Hired a PR agency and Got FAKE Results - How I spotted the Fraud",
+                  "title": "I Hired a PR agency and Got FAKE Results - How I spotted ...",
+                  "url": "https://www.youtube.com/watch?v=Ky8t4EJO3Ss&utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "getapp.com",
+              "entries": [
+                {
+                  "attribution": "getapp.com",
+                  "snippet": "AnotherZero is a game-changing all-in-one marketing platform designed to simplify and optimize business operations, drive growth, and maximize revenue.Read more",
+                  "title": "AnotherZero 2026 Pricing, Features, Reviews & Alternatives",
+                  "url": "https://www.getapp.com/marketing-software/a/dfy-ninja/?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "f0a82d23-cd4b-41cc-8c5b-63cc91b414fe"
+    },
+    "f0a82d23-cd4b-41cc-8c5b-63cc91b414fe": {
+      "id": "f0a82d23-cd4b-41cc-8c5b-63cc91b414fe",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content": "Thought for 4s",
+          "content_type": "reasoning_recap"
+        },
+        "create_time": 1784070477.813045,
+        "id": "f0a82d23-cd4b-41cc-8c5b-63cc91b414fe",
+        "metadata": {
+          "model_slug": "gpt-5-5",
+          "parent_id": "e3ba427f-2495-4a26-96f2-d7f9730c738a"
+        }
+      },
+      "parent": "6a23a7a1-dcec-4b48-8fcd-58406bff4d06"
+    },
+    "f2cf9c40-f1c1-4d40-9d86-7497eebc6ab4": {
+      "id": "f2cf9c40-f1c1-4d40-9d86-7497eebc6ab4",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Absolutely. Send me or upload the **things you want evaluated**, and I can go through them together instead of looking at each one in isolation.\n\nBased on what we\u2019ve been working on today, I can evaluate them against the bigger TLC strategy, including whether each one:\n\n- supports your **end-to-end aesthetic growth partner** positioning or makes you sound like another generic marketing agency;\n- keeps the offer **simple enough to sell** without making TLC sound like it does 47 unrelated things;\n- clearly communicates your three real differentiators: **better acquisition, fixing the conversion/follow-up leaks, and building systems that create repeat/lifetime clients**;\n- matches what Bethany, Gil, Dave, and the other advisors have told you;\n- creates a clear path from **ad \u2192 triage \u2192 discovery \u2192 offer \u2192 close**;\n- avoids overexplaining the solution too early and killing curiosity;\n- keeps Arlene positioned with authority on calls;\n- supports the **Premium Growth Package** while identifying anything that could reasonably be \u00e0 la carte;\n- makes the guarantee and claims believable, defensible, and easy to understand;\n- and, most importantly, gives a med spa or aesthetic/wellness practice owner a clear answer to: **\u201cWhy TLC instead of another agency?\u201d**\n\nIf by \u201call those things\u201d you mean specific screenshots, files, scripts, messages, or materials, send them here and I\u2019ll give you **one consolidated evaluation with what works, what doesn\u2019t, what conflicts, and exactly what I would change**."
+          ]
+        },
+        "create_time": 1784070443.617474,
+        "id": "f2cf9c40-f1c1-4d40-9d86-7497eebc6ab4",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "cf704532-0a36-4d69-a84d-a87dae2db484"
+        }
+      },
+      "parent": "bbb21a9c-df17-46c7-912b-2ee8e4934d7d"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "TLC Strategy Evaluation",
+  "update_time": 1784070508.891064,
+  "voice": null
+}

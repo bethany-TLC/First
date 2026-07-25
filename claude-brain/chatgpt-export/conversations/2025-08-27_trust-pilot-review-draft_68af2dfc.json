@@ -1,0 +1,72 @@
+{
+  "conversation_id": "68af2dfc-e464-8324-93d1-c3142a89923a",
+  "conversation_template_id": null,
+  "create_time": 1756311194.156863,
+  "current_node": "eeba6243-4dbe-47c6-94b4-ee652fad5120",
+  "default_model_slug": "auto",
+  "id": "68af2dfc-e464-8324-93d1-c3142a89923a",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "eeba6243-4dbe-47c6-94b4-ee652fad5120": {
+      "id": "eeba6243-4dbe-47c6-94b4-ee652fad5120",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a casual, human-sounding draft you can use:  \n\n---\n\nThe Growth Partners program has been so much more than I expected\u2014it\u2019s not just an amazing program, it\u2019s a whole network of like-minded people who are all genuinely helping each other grow. The collaborations with teammates, other growth partners, and the staff have been beyond valuable. Honestly, SO worth it! And a huge shoutout to my PGP, Aditi\u2014literally the best mentor on the planet. Couldn\u2019t recommend this enough!  \n\n---\n\nWant me to make a slightly shorter version too, so it feels even more natural for Trustpilot?"
+          ]
+        },
+        "create_time": 1756311194.032747,
+        "id": "eeba6243-4dbe-47c6-94b4-ee652fad5120",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "e7493cec-78ac-461a-a6a9-6b0e3bcaef7e"
+        }
+      },
+      "parent": "feef22eb-3ea2-4b47-b901-f66db05dfb0b"
+    },
+    "feef22eb-3ea2-4b47-b901-f66db05dfb0b": {
+      "id": "feef22eb-3ea2-4b47-b901-f66db05dfb0b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "very casual non-AI looking trust pilot reveiw about the Growth Partners being more than an amazing program but also a newtork of like minded people all helping eachohter grow. the collboartions with other team mates, growth partners and staff has been SO amazing and valuable. SO worth it! and huge shout out to my PGP Aditi for being the best mentor on the planet. "
+          ]
+        },
+        "create_time": 1756311194.448,
+        "id": "feef22eb-3ea2-4b47-b901-f66db05dfb0b",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Trust pilot review draft",
+  "update_time": 1756311240.652575,
+  "voice": null
+}

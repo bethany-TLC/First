@@ -1,0 +1,72 @@
+{
+  "conversation_id": "69efd541-fba0-83ea-ac87-214e3cd9248f",
+  "conversation_template_id": null,
+  "create_time": 1777325409.729183,
+  "current_node": "c7a2cc10-086b-4b5f-b00f-04b381b96a92",
+  "default_model_slug": "gpt-5-3",
+  "id": "69efd541-fba0-83ea-ac87-214e3cd9248f",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "7cfbe3b5-f114-4cb7-94f2-6c5f3bdacc04": {
+      "id": "7cfbe3b5-f114-4cb7-94f2-6c5f3bdacc04",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "please respond to this email, say so sorry fo rthis slipping htrough the crack today and yes we are interested but need to onboard our clietns this week and circle back to this at end of week. : \r\nAshley Dyer\r\nSun, Apr 26, 11:57\u202fAM (1 day ago)\r\nto me, Eric, Aanchal\r\n\r\nHey Bethany & Eric,\r\n\r\nJust circling back on the SEO proposal from last week. I know things have been a lot on your end with the studio setup, sales calls coming in, and everything else!\r\n\r\nQuick recap of what we went over:\r\n5 cornerstone SEO posts (med spa marketing, operations, revenue growth, consultant, business coach), built at root-level URLs to rank as core pillars of the site\r\n3 location-specific landing pages, pulling double duty for organic SEO and as dedicated geo-targeted ad landing pages\r\n10% returning client discount \u2192 $3,195 total\r\n~3 week turnaround once we kick off\r\nFull proposal here.\r\n\r\nTo make this easier on your end, I'm happy to draft 2-3 angle options for each of the cornerstone posts so you don't have to come up with topics from scratch. You'd just review and pick the direction you like best.\r\n\r\nLet me know if you guys would like to get started and I'll send over an invoice.\r"
+          ]
+        },
+        "create_time": 1777325409.03,
+        "id": "7cfbe3b5-f114-4cb7-94f2-6c5f3bdacc04",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "c7a2cc10-086b-4b5f-b00f-04b381b96a92": {
+      "id": "c7a2cc10-086b-4b5f-b00f-04b381b96a92",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ":::writing{variant=\"email\" id=\"58291\" subject=\"Re: SEO Proposal\"}\nHi Ashley,\n\nI\u2019m so sorry for this slipping through the cracks on our end today, I appreciate you following up.\n\nYes, we are definitely interested. This aligns well with where we\u2019re heading. We are in the middle of onboarding several new clients this week and want to make sure we give this the proper attention it deserves.\n\nCan we circle back toward the end of this week once things settle a bit on our side? That way we can review everything more thoroughly and move forward intentionally.\n\nAppreciate you making this easy for us and offering to draft angles as well, that\u2019s super helpful.\n\nTalk soon,  \nBethany\n:::"
+          ]
+        },
+        "create_time": 1777325409.597547,
+        "id": "c7a2cc10-086b-4b5f-b00f-04b381b96a92",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "18aaa404-8ac8-4ef9-8660-0e0a8f8e14dc"
+        }
+      },
+      "parent": "7cfbe3b5-f114-4cb7-94f2-6c5f3bdacc04"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "SEO Proposal Follow-up",
+  "update_time": 1777325713.875405,
+  "voice": null
+}

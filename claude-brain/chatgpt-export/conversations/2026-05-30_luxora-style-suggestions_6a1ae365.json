@@ -1,0 +1,127 @@
+{
+  "conversation_id": "6a1ae365-e034-83e8-8c14-b81afb29fa11",
+  "conversation_template_id": null,
+  "create_time": 1780147067.503357,
+  "current_node": "086321ea-579a-477b-ae0a-72b5bc1cf306",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a1ae365-e034-83e8-8c14-b81afb29fa11",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "086321ea-579a-477b-ae0a-72b5bc1cf306": {
+      "id": "086321ea-579a-477b-ae0a-72b5bc1cf306",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "For Luxora, I would make it less generic and more diagnostic. The goal is to get them talking about the real bottleneck while reinforcing your Revenue Leak Audit positioning.\n\n**Option 1 (My Favorite)**\n> Most med spa owners don't have a lead problem. They have a revenue leak problem.\n>\n> If you could wave a magic wand and fix one thing in your practice today, what would it be?\n\n**Option 2**\n> Every growing practice hits a ceiling at some point.\n>\n> What's the biggest challenge preventing you from reaching your next revenue milestone?\n\n**Option 3**\n> We find most practices are leaking revenue somewhere between lead generation, consults, retention, memberships, or follow-up.\n>\n> Where do you feel your biggest opportunity for growth is right now?\n\n**Option 4**\n> If I walked into your practice tomorrow and could fix one thing that's costing you revenue, what would you want me to tackle first?\n\n**Option 5 (Very Luxora)**\n> Most owners know something isn't working, but they're too close to the business to see the real bottleneck.\n>\n> What's the biggest thing holding your practice back from consistent growth right now?\n\n**Option 6 (Conversational AI Style)**\n> Quick question...\n>\n> What's currently causing you the most frustration in your business right now?\n\n**Option 7 (Revenue Leak Audit Style)**\n> Before we look at solutions, I'd love to understand where you feel the pressure.\n>\n> What's the biggest challenge or bottleneck in your practice today?\n\nI would actually replace the current message with:\n\n> **Hey Bethany, Sarah from The Luxora Collective here. \ud83d\udc4b**\n>\n> Most med spa owners come to us because they're working harder than ever, but revenue isn't growing the way it should.\n>\n> Before we dive into your Revenue Leak Review, what's the biggest challenge preventing your practice from growing right now?\n\nThis feels more consultative, premium, and aligned with Luxora's positioning as a growth partner rather than a lead generation company."
+          ]
+        },
+        "create_time": 1780147067.427211,
+        "id": "086321ea-579a-477b-ae0a-72b5bc1cf306",
+        "metadata": {
+          "content_references": [],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Memory",
+                "citation_uuid": "363ceb70-27da-489b-860c-71539438eb3b",
+                "conversation_context_type": "user_memory",
+                "end_idx": -1,
+                "index": 18,
+                "matched_text": "",
+                "memory_id": "e8395e09-6fe9-4299-90d6-63e8f6aa601d",
+                "prompt_text": null,
+                "reason": "You position Luxora around a Revenue Leak Audit first.",
+                "refs": [],
+                "snippet": "process starts with a Revenue Leak Audit before any scaling;",
+                "start_idx": -1,
+                "title": "You position Luxora around a Revenue Leak Audit first.",
+                "type": "conversation_context_citation",
+                "url": "#settings/Personalization"
+              },
+              "citation_uuid": "363ceb70-27da-489b-860c-71539438eb3b",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "46854daf-df31-49f8-a0e5-507279f04be5"
+        }
+      },
+      "parent": "bbb21a2a-25a4-4299-9cbc-014f9ab8ab0b"
+    },
+    "bbb21a2a-25a4-4299-9cbc-014f9ab8ab0b": {
+      "id": "bbb21a2a-25a4-4299-9cbc-014f9ab8ab0b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_00000000ae1471f5bb8ddef59a842986",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 2244,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 120971,
+              "width": 1008
+            },
+            "I'm prove this to sound more Luxora "
+          ]
+        },
+        "create_time": 1780147067.193597,
+        "id": "bbb21a2a-25a4-4299-9cbc-014f9ab8ab0b",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_00000000ae1471f5bb8ddef59a842986",
+              "mime_type": "image/png",
+              "name": "1000019152.png",
+              "size": 120971
+            }
+          ],
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "d65e235e-8723-4837-9e22-c03445948505"
+    },
+    "d65e235e-8723-4837-9e22-c03445948505": {
+      "id": "d65e235e-8723-4837-9e22-c03445948505",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Luxora Style Suggestions",
+  "update_time": 1780147078.185801,
+  "voice": null
+}

@@ -1,0 +1,606 @@
+{
+  "conversation_id": "6a3dd493-eaf8-83e8-8f67-044e4441c388",
+  "conversation_template_id": "g-69e1104abd1c8191a1d85cd576cd9edf",
+  "create_time": 1782437015.731257,
+  "current_node": "79e9821d-a72e-4e67-9b8a-d27800a918d4",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a3dd493-eaf8-83e8-8f67-044e4441c388",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "2dc1ea29-6daa-4701-9c06-f69df9823c96": {
+      "id": "2dc1ea29-6daa-4701-9c06-f69df9823c96",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Good catch. That changes the diagnosis significantly.\n\nIf the prospect became a client, then the goal isn't to explain why the sale was lost\u2014it's to explain **how the sale was won and what could make future closes even stronger.**\n\nHere's a revised intro:\n\n> **Overall, this was a successful consultation that resulted in a new client, and it's easy to see why. Bethany built strong rapport early, established credibility through lived experience, and created an environment where Casey felt comfortable being completely transparent about the challenges in her business. Rather than resisting, Casey openly acknowledged operational gaps, asked thoughtful questions, and consistently validated Bethany's expertise throughout the conversation. The consult naturally evolved into a collaborative strategy session, positioning Bethany as a trusted advisor rather than simply a salesperson. While there were opportunities to lead with more certainty, create a stronger transformation narrative, and shorten the diagnostic phase, those refinements would likely improve efficiency and increase conviction\u2014not because this call failed, but because they would make an already successful sales process even more repeatable and scalable.** \ue200filecite\ue202turn0file0\ue201\n\nI would also note in the full diagnosis that this call demonstrates an important principle:\n\n> **The sale was largely won during the discovery.** Casey repeatedly sold herself on the need for help by articulating her own revenue goals, identifying her operational bottlenecks, and expressing openness to guidance. Bethany's role was less about overcoming objections and more about validating the diagnosis and providing a path forward. The coaching opportunity isn't to become more persuasive\u2014it's to become more efficient by moving from diagnosis into a compelling transformation and recommendation sooner, without sacrificing the rapport that clearly contributed to the client's decision to move forward. \ue200filecite\ue202turn0file0\ue201\n\nThat framing accurately reflects what happened: the call converted, while still identifying areas that could improve future conversion consistency and shorten the sales cycle."
+          ]
+        },
+        "create_time": 1782437047.94969,
+        "id": "2dc1ea29-6daa-4701-9c06-f69df9823c96",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": null,
+              "cloud_doc_url": null,
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_0000000050f4720cb6107374e16701e2",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "a75fd298-52aa-47d6-b957-44c3edd6fd52",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "Pasted text.txt",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            },
+            {
+              "alt": null,
+              "cloud_doc_url": null,
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_0000000050f4720cb6107374e16701e2",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "a75fd298-52aa-47d6-b957-44c3edd6fd52",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "Pasted text.txt",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "11bcde65-fd78-4940-a2cc-57b2d84cebd6"
+        }
+      },
+      "parent": "5eaedc72-d542-462d-abd1-aff674dbfa73"
+    },
+    "5eaedc72-d542-462d-abd1-aff674dbfa73": {
+      "id": "5eaedc72-d542-462d-abd1-aff674dbfa73",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "but it wants lost, she paid and is a clinet"
+          ]
+        },
+        "create_time": 1782437048.657,
+        "id": "5eaedc72-d542-462d-abd1-aff674dbfa73",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "6c56982e-4506-4e58-88f5-14f5eba56553"
+    },
+    "6c56982e-4506-4e58-88f5-14f5eba56553": {
+      "id": "6c56982e-4506-4e58-88f5-14f5eba56553",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "### Executive Summary\n\nThis was a **strong discovery call with high rapport but only moderate sales leadership**. Bethany built trust quickly, established credibility, and uncovered several meaningful operational issues inside the practice. Casey was highly engaged, transparent, and essentially self-diagnosed many of her own business challenges, making this a warm, collaborative conversation rather than a resistant sales call. \ue200filecite\ue202turn0file0\ue201\n\nWhere the conversation began to lose momentum was in the transition from diagnosis to ownership of the solution. Instead of leading Casey toward a compelling vision of transformation and a clear recommendation, the majority of the call remained focused on auditing current-state metrics. The prospect did much of the talking while Bethany primarily collected data, meaning the emotional gap between Casey's current frustrations and her desired future was never fully amplified. According to the sales principles in the coaching materials, high-converting consultations shift from information gathering into a single, outcome-focused recommendation that clearly explains what changes, why it matters, and what happens next. \ue200filecite\ue202turn0file1\ue201 \ue200filecite\ue202turn0file3\ue201\n\nOverall, this call positioned Bethany as knowledgeable and likable, but not yet as the decisive expert leading the buyer to a decision. The opportunity wasn't lost because of poor rapport\u2014it was lost because the conversation stayed in analysis mode longer than necessary and delayed creating urgency around the transformation Casey was ultimately seeking: scaling from approximately $500K to seven figures with predictable growth systems. \ue200filecite\ue202turn0file0\ue201"
+          ]
+        },
+        "create_time": 1782437015.626285,
+        "id": "6c56982e-4506-4e58-88f5-14f5eba56553",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": null,
+              "cloud_doc_url": null,
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_0000000050f4720cb6107374e16701e2",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "a75fd298-52aa-47d6-b957-44c3edd6fd52",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "Pasted text.txt",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            },
+            {
+              "alt": null,
+              "cloud_doc_url": null,
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_00000000be58720cadf1153c07832f8e",
+              "input_pointer": {
+                "file_index": 1,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "eea726c8-2ed0-4d9a-bd6c-b8c064b8701e",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "KB_04_ The Value Maximizer (Transformation & Clarity).pdf",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            },
+            {
+              "alt": null,
+              "cloud_doc_url": null,
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_000000002614720cb18f445113b0556b",
+              "input_pointer": {
+                "file_index": 3,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "720a9c28-a3e6-49b9-a7e9-293699995761",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "KB_01_ Master Consult Conversion Scorecard (The Rubric).pdf",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            },
+            {
+              "alt": null,
+              "cloud_doc_url": null,
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_0000000050f4720cb6107374e16701e2",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "a75fd298-52aa-47d6-b957-44c3edd6fd52",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "Pasted text.txt",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "10d75f72-28bd-47ac-9883-741ac8b1b6d2"
+        }
+      },
+      "parent": "78de5910-4cc1-4c0f-b8ac-1512073cdc89"
+    },
+    "78de5910-4cc1-4c0f-b8ac-1512073cdc89": {
+      "id": "78de5910-4cc1-4c0f-b8ac-1512073cdc89",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "diagnons this sales call and give an intro pargarphe to summarize it: "
+          ]
+        },
+        "create_time": 1782437016.143,
+        "id": "78de5910-4cc1-4c0f-b8ac-1512073cdc89",
+        "metadata": {
+          "attachments": [
+            {
+              "file_token_size": 18188,
+              "id": "file_0000000050f4720cb6107374e16701e2",
+              "is_big_paste": true,
+              "name": "Pasted text.txt",
+              "size": 68513,
+              "source": "local"
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "79e9821d-a72e-4e67-9b8a-d27800a918d4": {
+      "id": "79e9821d-a72e-4e67-9b8a-d27800a918d4",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "## Sales Call Diagnosis\n\n### Overall Assessment: **Strong Consult That Closed the Sale (72/80)** \u2705\n\nThis consultation successfully converted because Bethany established trust quickly, demonstrated deep industry expertise, and created an environment where the prospect felt comfortable exposing the real issues inside the business. Rather than needing to overcome significant resistance, the conversation became a collaborative strategy session where Casey repeatedly validated Bethany's expertise and openly acknowledged that she needed help. The sale was earned through credibility and relationship, not pressure. \ue200filecite\ue202turn0file0\ue201\n\nThe biggest opportunity wasn't increasing persuasion\u2014it was increasing leadership. The discovery phase was thorough, but it remained in analysis mode longer than necessary. Casey essentially diagnosed many of her own problems before Bethany fully stepped into the role of guiding her toward a compelling vision of the transformation Luxora could create. A stronger transition into the recommendation would likely shorten the sales cycle while increasing perceived value.\n\n---\n\n# \ud83d\udfe2 What Was Done Well\n\n### 1. Strong Authority Without Overselling\n\nBethany immediately established an agenda and reduced uncertainty.\n\n> *\"I reviewed kind of everything you shared before the call... my goal here is pretty simple. I just genuinely want to understand what's going on... If there's an opportunity to help, I'll walk you through exactly what that looks like.\"* \ue200filecite\ue202turn0file0\ue201\n\nThis positioned her as a guide rather than someone trying to earn permission.\n\n---\n\n### 2. Built Immediate Credibility Through Relevant Experience\n\nInstead of simply listing credentials, Bethany connected her background directly to Casey's situation.\n\n> *\"I've been in the industry since 2007... I've done everything... I started realizing it wasn't a marketing problem\u2014it was an internal systems problem.\"* \ue200filecite\ue202turn0file0\ue201\n\nBecause Casey was a med spa owner, this experience felt highly relevant and reinforced Bethany's authority.\n\n---\n\n### 3. Excellent Discovery\n\nCasey spoke for the majority of the conversation and voluntarily disclosed:\n\n- Revenue plateau\n- Staffing challenges\n- Marketing issues\n- Device utilization\n- CRM limitations\n- Membership performance\n- Operational inefficiencies\n\nBy the midpoint of the call, Casey had effectively convinced herself that there were multiple gaps needing attention. That level of openness is a strong indicator that trust was established.\n\n---\n\n# \ud83d\udd34 Top Coaching Opportunities\n\n## 1. Discovery Stayed Too Long in Audit Mode\n\nThe revenue leak audit produced useful information, but the conversation remained focused on collecting metrics rather than building emotional momentum.\n\nFor nearly twenty minutes, the interaction centered on:\n\n- number of providers\n- lead volume\n- response time\n- memberships\n- devices\n- CRM\n- provider tracking\n\nAll valuable information\u2014but it delayed moving into why solving these problems mattered.\n\n### Better transition:\n\n> \"I'm seeing a very clear pattern here. You're not missing opportunity because your team isn't talented\u2014you're missing opportunity because the systems aren't supporting the business you've already built. The exciting part is that these are all fixable. Let me show you what your business looks like when those leaks are closed.\"\n\nThis shifts from diagnosis into transformation much sooner. A compelling transformation is often more persuasive than additional data. \ue200filecite\ue202turn0file1\ue201\n\n---\n\n## 2. The Future Vision Needed More Emotion\n\nCasey repeatedly shared her goal:\n\n> *\"We need to scale to seven figures.\"* \ue200filecite\ue202turn0file0\ue201\n\nRather than simply explaining Luxora's playbooks, there was an opportunity to paint a vivid picture of what success would actually look like.\n\nFor example:\n\n> \"Imagine walking into your practice six months from now knowing every provider is booked, every laser is producing revenue, your follow-up is automated, and your growth is predictable instead of hoping the next month is better. That's the business we're building.\"\n\nPeople buy the future they want\u2014not just the systems that get them there. \ue200filecite\ue202turn0file1\ue201\n\n---\n\n## 3. Lead the Recommendation More Decisively\n\nBethany clearly explained the framework and playbooks, but there was an opportunity to be more directive.\n\nInstead of primarily describing the program, she could have anchored the recommendation with greater certainty:\n\n> \"Based on everything you've shared today, I don't think you have a marketing problem. You have a systems problem that's preventing your business from scaling. That's exactly what we've built Luxora to solve, and this is the path I recommend.\"\n\nOne clear recommendation increases confidence because it positions the consultant as the expert guiding the decision. \ue200filecite\ue202turn0file3\ue201\n\n---\n\n# Overall Score\n\n| Domain | Score |\n|--------|------:|\n| Authority & Presence | **18/20** |\n| Discovery & Diagnosis | **20/20** |\n| Transformation & Value Presentation | **16/20** |\n| Recommendation & Decision Leadership | **18/20** |\n\n## **Total Score: 72/80 (90%)** \u2705\n\n---\n\n# Final Assessment\n\nThis call closed because Bethany earned trust early, demonstrated genuine expertise, and allowed Casey to articulate her own need for change. By the time the recommendation arrived, the prospect had already acknowledged numerous operational gaps and viewed Bethany as someone who understood how to solve them.\n\nThe next level of performance isn't about becoming more persuasive\u2014it's about becoming more efficient. Shortening the diagnostic phase, creating a more emotionally compelling vision of the future, and delivering an even more decisive recommendation would make consultations like this feel less like an audit and more like a transformation. Those refinements won't just improve conversion rates\u2014they'll increase certainty, shorten sales cycles, and make successful consults even more repeatable."
+          ]
+        },
+        "create_time": 1782437060.069562,
+        "id": "79e9821d-a72e-4e67-9b8a-d27800a918d4",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": null,
+              "cloud_doc_url": null,
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_0000000050f4720cb6107374e16701e2",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "a75fd298-52aa-47d6-b957-44c3edd6fd52",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "Pasted text.txt",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            },
+            {
+              "alt": null,
+              "cloud_doc_url": null,
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_0000000050f4720cb6107374e16701e2",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "a75fd298-52aa-47d6-b957-44c3edd6fd52",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "Pasted text.txt",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            },
+            {
+              "alt": null,
+              "cloud_doc_url": null,
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_0000000050f4720cb6107374e16701e2",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "a75fd298-52aa-47d6-b957-44c3edd6fd52",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "Pasted text.txt",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            },
+            {
+              "alt": null,
+              "cloud_doc_url": null,
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_00000000be58720cadf1153c07832f8e",
+              "input_pointer": {
+                "file_index": 1,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "eea726c8-2ed0-4d9a-bd6c-b8c064b8701e",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "KB_04_ The Value Maximizer (Transformation & Clarity).pdf",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            },
+            {
+              "alt": null,
+              "cloud_doc_url": null,
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_0000000050f4720cb6107374e16701e2",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "a75fd298-52aa-47d6-b957-44c3edd6fd52",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "Pasted text.txt",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            },
+            {
+              "alt": null,
+              "cloud_doc_url": null,
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_00000000be58720cadf1153c07832f8e",
+              "input_pointer": {
+                "file_index": 1,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "eea726c8-2ed0-4d9a-bd6c-b8c064b8701e",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "KB_04_ The Value Maximizer (Transformation & Clarity).pdf",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            },
+            {
+              "alt": null,
+              "cloud_doc_url": null,
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_000000002614720cb18f445113b0556b",
+              "input_pointer": {
+                "file_index": 3,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "720a9c28-a3e6-49b9-a7e9-293699995761",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "KB_01_ Master Consult Conversion Scorecard (The Rubric).pdf",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "8c8bed00-0608-4147-9453-c45f56200686"
+        }
+      },
+      "parent": "8c8bed00-0608-4147-9453-c45f56200686"
+    },
+    "8c8bed00-0608-4147-9453-c45f56200686": {
+      "id": "8c8bed00-0608-4147-9453-c45f56200686",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "now diagnos"
+          ]
+        },
+        "create_time": 1782437060.733,
+        "id": "8c8bed00-0608-4147-9453-c45f56200686",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "2dc1ea29-6daa-4701-9c06-f69df9823c96"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Sales Call Diagnosis",
+  "update_time": 1782437162.937961,
+  "voice": null
+}

@@ -1,0 +1,141 @@
+{
+  "conversation_id": "6a52c684-37b0-83e8-8f3e-e4769bec7187",
+  "conversation_template_id": null,
+  "create_time": 1783809718.439804,
+  "current_node": "58447228-4e12-444b-9f1a-5c420b269710",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a52c684-37b0-83e8-8f3e-e4769bec7187",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "41358079-7ec7-4e15-9bb2-2441ac3c9e5a": {
+      "id": "41358079-7ec7-4e15-9bb2-2441ac3c9e5a",
+      "message": null,
+      "parent": null
+    },
+    "58447228-4e12-444b-9f1a-5c420b269710": {
+      "id": "58447228-4e12-444b-9f1a-5c420b269710",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "create_time": 1783809830.211383,
+        "id": "58447228-4e12-444b-9f1a-5c420b269710",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "c5001404-bae2-410a-ba09-ee14a1841d99"
+        }
+      },
+      "parent": "bbb21cda-ee48-4e2b-8ecf-779287534e9e"
+    },
+    "bbb216e5-da2f-4713-bbd7-c006ff9e2b6b": {
+      "id": "bbb216e5-da2f-4713-bbd7-c006ff9e2b6b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Make a image that says, pyramid spa owner. Read this."
+          ]
+        },
+        "create_time": 1783809784.926573,
+        "id": "bbb216e5-da2f-4713-bbd7-c006ff9e2b6b",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "ef1c3bac-9ac6-4c2c-9827-fadee11d4ad1"
+    },
+    "bbb21afa-1fda-421e-b1a9-9cfc22d93a83": {
+      "id": "bbb21afa-1fda-421e-b1a9-9cfc22d93a83",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write FB post calling out MedSpa owners in Nashville\n I need a beautiful MedSpa rondo a photo ideonshoot in where I can interview staff and owner and I'm exchange they will get video and pics they can use for their own marketing "
+          ]
+        },
+        "create_time": 1783809718.110437,
+        "id": "bbb21afa-1fda-421e-b1a9-9cfc22d93a83",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "41358079-7ec7-4e15-9bb2-2441ac3c9e5a"
+    },
+    "bbb21cda-ee48-4e2b-8ecf-779287534e9e": {
+      "id": "bbb21cda-ee48-4e2b-8ecf-779287534e9e",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Attention all medspa owners"
+          ]
+        },
+        "create_time": 1783809798.222072,
+        "id": "bbb21cda-ee48-4e2b-8ecf-779287534e9e",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "bbb216e5-da2f-4713-bbd7-c006ff9e2b6b"
+    },
+    "ef1c3bac-9ac6-4c2c-9827-fadee11d4ad1": {
+      "id": "ef1c3bac-9ac6-4c2c-9827-fadee11d4ad1",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a polished version that still sounds natural and direct:\n\n:::writing{variant=\"social_post\" id=\"58317\"}\n\ud83d\udea8 **NASHVILLE MED SPA OWNERS** \ud83d\udea8\n\nI\u2019m looking for a beautiful, high-end med spa in the Nashville area to use as the location for an upcoming **photo and video shoot**.\n\nAs part of the shoot, I\u2019d love to interview the **owner and a few team members** about the med spa industry, patient experience, and what it really takes to run a successful practice.\n\n**In exchange, your med spa will receive professional photos and video content from the shoot that you can use for your own marketing and social media.**\n\nIt\u2019s a great opportunity to get fresh content for your brand while being featured in a professional industry shoot.\n\nIf you own a med spa in the Nashville area, or know someone who would be a great fit, **comment below, tag them, or send me a DM with photos of the space!**\n:::\n\nI can also make this **more exclusive and high-end** so owners feel like they\u2019re being selected rather than simply offering you a location."
+          ]
+        },
+        "create_time": 1783809718.350475,
+        "id": "ef1c3bac-9ac6-4c2c-9827-fadee11d4ad1",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "79e327d9-e702-439c-93fb-d29895d6192d"
+        }
+      },
+      "parent": "bbb21afa-1fda-421e-b1a9-9cfc22d93a83"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Nashville MedSpa Photoshoot",
+  "update_time": 1783809832.701525,
+  "voice": null
+}

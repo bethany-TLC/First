@@ -1,0 +1,96 @@
+{
+  "conversation_id": "6a04dc6c-3bf0-83ea-8456-0bd55e28a2e1",
+  "conversation_template_id": null,
+  "create_time": 1778703506.453099,
+  "current_node": "f8b4f412-3235-4eae-a9e2-b000434bf083",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a04dc6c-3bf0-83ea-8456-0bd55e28a2e1",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "384e092d-459d-4895-aaff-09b16a73a296": {
+      "id": "384e092d-459d-4895-aaff-09b16a73a296",
+      "message": null,
+      "parent": null
+    },
+    "bbb21d9e-2226-4fa6-a7ec-117bfb17e84b": {
+      "id": "bbb21d9e-2226-4fa6-a7ec-117bfb17e84b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Me a very non-salesy pitchy Facebook post that I can put into a medspa group that talks about our new Revenue leak audit tool and how we are wanting a few owners to test it out or something like that where we don't sound new, but we just have a new toy that we want to play with"
+          ]
+        },
+        "create_time": 1778703505.960654,
+        "id": "bbb21d9e-2226-4fa6-a7ec-117bfb17e84b",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "384e092d-459d-4895-aaff-09b16a73a296"
+    },
+    "f8b4f412-3235-4eae-a9e2-b000434bf083": {
+      "id": "f8b4f412-3235-4eae-a9e2-b000434bf083",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a version that feels conversational, established, and curiosity-driven instead of salesy:\n\n:::writing{variant=\"social_post\" id=\"48271\"}\nOver the last few months, we built a really interesting internal tool for med spas called a Revenue Leak Audit.\n\nIt\u2019s been helping us spot things owners usually can\u2019t see from inside the day-to-day chaos. Not just leads\u2026 but gaps in memberships, packages, retention, consult flow, follow-up, client experience, underused services, referrals, rebooking, etc.\n\nSome of the findings have honestly been kind of wild.\n\nWe\u2019re opening it up to a handful of med spa owners right now because we want more real-world data and feedback from different types of practices before we fully roll it out.\n\nThis is not one of those \u201chere\u2019s a PDF and a sales pitch\u201d things.\n\nWe actually go through your business with you and show you:\n\u2022 where revenue is quietly leaking\n\u2022 what\u2019s likely costing you the most each month\n\u2022 quick wins you could implement almost immediately\n\u2022 and a few things you may not even realize are affecting growth\n\nNo pressure. No weird agency pitch. Just genuinely looking for a few owners who want another set of experienced eyes on their business.\n\nIf you\u2019d want to test it out, comment below or shoot me a message \ud83d\ude42\n:::"
+          ]
+        },
+        "create_time": 1778703506.300873,
+        "id": "f8b4f412-3235-4eae-a9e2-b000434bf083",
+        "metadata": {
+          "content_references": [],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Memory",
+                "citation_uuid": "4bddbbb2-47b1-4b8a-bdfb-a1c7be2bfd6f",
+                "conversation_context_type": "user_memory",
+                "end_idx": -1,
+                "index": 18,
+                "matched_text": "",
+                "memory_id": "e8395e09-6fe9-4299-90d6-63e8f6aa601d",
+                "prompt_text": null,
+                "reason": "Your Luxora positioning starts with a Revenue Leak Audit.",
+                "refs": [],
+                "snippet": "process starts with a Revenue Leak Audit",
+                "start_idx": -1,
+                "title": "Your Luxora positioning starts with a Revenue Leak Audit.",
+                "type": "conversation_context_citation",
+                "url": "#settings/Personalization"
+              },
+              "citation_uuid": "4bddbbb2-47b1-4b8a-bdfb-a1c7be2bfd6f",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "daa12004-57ce-42ef-a07c-f84b28bb8efb"
+        }
+      },
+      "parent": "bbb21d9e-2226-4fa6-a7ec-117bfb17e84b"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Revenue Leak Audit Test",
+  "update_time": 1778703515.814606,
+  "voice": null
+}

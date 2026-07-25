@@ -1,0 +1,117 @@
+{
+  "conversation_id": "6a55628d-516c-83e8-b0d7-22734442f85d",
+  "conversation_template_id": null,
+  "create_time": 1783980686.313711,
+  "current_node": "5c117f08-6eac-44ab-8290-6a4241e57182",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a55628d-516c-83e8-b0d7-22734442f85d",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "5c117f08-6eac-44ab-8290-6a4241e57182": {
+      "id": "5c117f08-6eac-44ab-8290-6a4241e57182",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Their next call is **Wednesday at 10:00 AM Eastern Time** (**9:00 AM Central/Nashville time**). It\u2019s the **Growth Strategy Call**. \ue200filecite\ue202turn0file0\ue202L1-L1\ue201"
+          ]
+        },
+        "create_time": 1783980686.208217,
+        "id": "5c117f08-6eac-44ab-8290-6a4241e57182",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": null,
+              "cloud_doc_url": "",
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_000000009428720cb2486fcbe11c6dd0",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": 1,
+                "line_range_start": 1,
+                "message_id": "17db465a-25eb-409e-bc3e-c41505987b61",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": "libfile_8a90b4f265848191b697c7293eb33af3",
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "Pasted text.txt",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "e9c87c62-e139-4179-952c-5bda19cdf807"
+        }
+      },
+      "parent": "e96e2109-cd09-4782-b2f5-80a456b032fb"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "e96e2109-cd09-4782-b2f5-80a456b032fb": {
+      "id": "e96e2109-cd09-4782-b2f5-80a456b032fb",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "what time is theri next call "
+          ]
+        },
+        "create_time": 1783980687.334,
+        "id": "e96e2109-cd09-4782-b2f5-80a456b032fb",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_000000009428720cb2486fcbe11c6dd0",
+              "is_big_paste": true,
+              "library_file_id": "libfile_8a90b4f265848191b697c7293eb33af3",
+              "mime_type": "text/plain",
+              "name": "Pasted text(70).txt",
+              "size": 13711,
+              "source": "local"
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Next Call Time",
+  "update_time": 1783980705.33978,
+  "voice": null
+}

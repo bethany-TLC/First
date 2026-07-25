@@ -1,0 +1,277 @@
+{
+  "conversation_id": "6972bce6-c220-8332-ae95-0f06fc8b77af",
+  "conversation_template_id": null,
+  "create_time": 1769127155.762814,
+  "current_node": "dbdaa008-fcd3-474c-8193-09d169c2aa76",
+  "default_model_slug": "gpt-5-2",
+  "id": "6972bce6-c220-8332-ae95-0f06fc8b77af",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "8b7a6332-1404-4854-9a03-42929ccbaf5c": {
+      "id": "8b7a6332-1404-4854-9a03-42929ccbaf5c",
+      "message": null,
+      "parent": null
+    },
+    "bbb210ea-3758-4a66-95dc-9f7d716ecfee": {
+      "id": "bbb210ea-3758-4a66-95dc-9f7d716ecfee",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "1Z1WE1712973412629 where is this tracking number package coming from?"
+          ]
+        },
+        "create_time": 1769127155.575778,
+        "id": "bbb210ea-3758-4a66-95dc-9f7d716ecfee",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "8b7a6332-1404-4854-9a03-42929ccbaf5c"
+    },
+    "dbdaa008-fcd3-474c-8193-09d169c2aa76": {
+      "id": "dbdaa008-fcd3-474c-8193-09d169c2aa76",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s what I can tell from the tracking number you provided:\n\n**Tracking Number:** `1Z1WE1712973412629`\n\n**Carrier Format:**  \n- Tracking numbers that begin with **\u201c1Z\u201d** are **UPS (United Parcel Service) tracking numbers**. \ue200cite\ue202turn0search20\ue201\n\nThat tells us which courier is handling the shipment, but it **doesn\u2019t tell us where the package is coming from** (the origin). To find the origin and current status:\n\n**What you should do next:**\n1. Go to the official UPS tracking page: https://www.ups.com/track \ue200cite\ue202turn0search11\ue201  \n2. Enter your tracking number exactly: `1Z1WE1712973412629`  \n3. UPS will show you the shipment\u2019s **origin city/country**, current location, carrier scans, and estimated delivery date.\n\nIf UPS\u2019s official tracking doesn\u2019t show origin info yet, it may be that the shipper hasn\u2019t scanned it into the UPS system yet. In that case, contacting the **seller or shipper** (the store you ordered from) is often the fastest way to confirm where it was shipped from."
+          ]
+        },
+        "create_time": 1769127157.63247,
+        "id": "dbdaa008-fcd3-474c-8193-09d169c2aa76",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "([Wikipedia](https://en.wikipedia.org/wiki/Tracking_number?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Wikipedia",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 20,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [],
+                  "title": "Tracking number",
+                  "url": "https://en.wikipedia.org/wiki/Tracking_number?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([UPS](https://www.ups.com/track?loc=en_US&utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "UPS",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 11,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Track one or multiple packages with UPS Tracking, use your tracking number to track the status of your package.",
+                  "supporting_websites": [],
+                  "title": "Tracking | UPS - United States",
+                  "url": "https://www.ups.com/track?loc=en_US&utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "Wikipedia",
+                  "title": "Tracking number",
+                  "url": "https://en.wikipedia.org/wiki/Tracking_number?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "UPS",
+                  "title": "Tracking | UPS - United States",
+                  "url": "https://www.ups.com/track?loc=en_US&utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "model_slug": "gpt-5-2",
+          "parent_id": "a6b4b1cc-a244-4d7a-a61f-71acc8e41229",
+          "search_result_groups": [
+            {
+              "domain": "parcelsapp.com",
+              "entries": [
+                {
+                  "attribution": "parcelsapp.com",
+                  "snippet": "Track any package, freight and shipment To find out where your parcel is, you need to know only tracking number of your package.Read more",
+                  "title": "Universal Parcel Tracking - Global Package Tracking",
+                  "url": "https://parcelsapp.com/en/tracking?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "parcelsapp.com",
+                  "snippet": "Parcel Tracking Worldwide. Track Parcel in USA. Global postal tracking from eBay, AliExpress, ASOS, Shein, Amazon. Tracking packages from China, UK, ...",
+                  "title": "Universal Parcel Tracking - Global Package Tracking",
+                  "url": "https://parcelsapp.com/en/tracking/LP?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "parcelsapp.com",
+                  "snippet": "Track any package, freight and shipment. Having bought in the online store always want to know where the package is now?Read more",
+                  "title": "Universal Parcel Tracking - Global Package Tracking",
+                  "url": "https://parcelsapp.com/en/tracking/M?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "packagetrackr.com",
+              "entries": [
+                {
+                  "attribution": "packagetrackr.com",
+                  "snippet": "Packagetrackr is an all-in-one package tracking tool for all your shipments. Packagetrackr will remember all of your tracking numbers and pull delivery ...",
+                  "title": "Universal Package Tracking Service @ Packagetrackr",
+                  "url": "https://www.packagetrackr.com/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "usps.com",
+              "entries": [
+                {
+                  "attribution": "usps.com",
+                  "snippet": "",
+                  "title": "USPS Tracking",
+                  "url": "https://tools.usps.com/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "parceltracker.com",
+              "entries": [
+                {
+                  "attribution": "parceltracker.com",
+                  "snippet": "Track parcels for all major carriers including USPS, Royal Mail, Australia Post, UPS, FedEx, DHL, DPD, Yodel, La Poste, Swiss Post and many more.Read more",
+                  "title": "Universal Parcel Tracking",
+                  "url": "https://www.parceltracker.com/track?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "17track.net",
+              "entries": [
+                {
+                  "attribution": "17track.net",
+                  "snippet": "Checking a courier shipment is simple: enter your tracking number on the courier's website, mobile app, or on any universal tracking platform like 17TRACK. 2.Read more",
+                  "title": "Universal parcel tracking | Tracking number search",
+                  "url": "https://www.17track.net/en/tracking?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "parcelmonitor.com",
+              "entries": [
+                {
+                  "attribution": "parcelmonitor.com",
+                  "snippet": "USA Parcel Tracking. Track all your packages in the USA and abroad - just enter your tracking number and get real-time updates.",
+                  "title": "USA PARCEL TRACKING | Parcel Monitor",
+                  "url": "https://www.parcelmonitor.com/track-united-states/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "carrierlogistics.com",
+              "entries": [
+                {
+                  "attribution": "carrierlogistics.com",
+                  "snippet": "BOL / Reference Trace. Please enter a list of BOL, pickup, or reference numbers separated by commas: Approximate Ship Date: (optional).Read more",
+                  "title": "US Special Delivery - BOL Number Trace",
+                  "url": "https://tracking.carrierlogistics.com/scripts/uppn.pol/reftrace2.htm?language=&nav=top&seskey=&utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "packtrack.com",
+              "entries": [
+                {
+                  "attribution": "packtrack.com",
+                  "snippet": "Fast, all-in-one package tracking.",
+                  "title": "PackTrack.com - all-in-one package tracking with UPS, FedEx ...",
+                  "url": "https://www.packtrack.com/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "theupsstore.com",
+              "entries": [
+                {
+                  "attribution": "theupsstore.com",
+                  "snippet": "The UPS Store helps you track your packages with multiple carriers. Stay on top of all of your important deliveries with package tracking.",
+                  "title": "Track a Package",
+                  "url": "https://www.theupsstore.com/tools/track-a-package?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "trackmage.com",
+              "entries": [
+                {
+                  "attribution": "trackmage.com",
+                  "snippet": "Our system allows you to look up your shipment information by using your tracking number from over 1620 international couriers, including China Post, Speedpak, ...Read more",
+                  "title": "Package Tracking with 1620 Carriers",
+                  "url": "https://trackmage.com/carriers/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "fedex.com",
+              "entries": [
+                {
+                  "attribution": "fedex.com",
+                  "snippet": "Where is my package? Enter your FedEx tracking number, track by reference, obtain proof of delivery, or TCN. See FedEx Express, Ground, Freight, ...",
+                  "title": "Tracking Your Shipment or Packages",
+                  "url": "https://www.fedex.com/en-us/tracking.html?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "bbb210ea-3758-4a66-95dc-9f7d716ecfee"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "UPS Tracking Origin Inquiry",
+  "update_time": 1769127160.701329,
+  "voice": null
+}

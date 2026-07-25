@@ -1,0 +1,94 @@
+{
+  "conversation_id": "69e1540b-9050-83ea-bc70-544fa5b97637",
+  "conversation_template_id": null,
+  "create_time": 1776374823.63513,
+  "current_node": "838abc30-aac8-4b09-92c5-33e2b86e282c",
+  "default_model_slug": "gpt-5-3",
+  "id": "69e1540b-9050-83ea-bc70-544fa5b97637",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "838abc30-aac8-4b09-92c5-33e2b86e282c": {
+      "id": "838abc30-aac8-4b09-92c5-33e2b86e282c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Hey Britt! Great question. Honestly, if a company is only focused on acquisition, that\u2019s usually where things start to break down.\n\nAt Luxora, we look at the entire patient journey. Yes, we help bring in qualified leads, but more importantly we make sure those leads actually turn into booked appointments, show up, convert into treatments, and come back consistently. That includes follow-up systems, no-show reduction, consult flow, packages, memberships, and retention. That\u2019s where most of the real revenue is made.\n\nA lot of practices don\u2019t have a lead problem, they have a system problem, so we focus on fixing the leaks first and then scaling what works.\n\nIf you\u2019re open to it, I\u2019d love to jump on a quick call and take a look at what you\u2019re currently doing to see if there\u2019s anywhere we could help tighten things up."
+          ]
+        },
+        "create_time": 1776374823.336116,
+        "id": "838abc30-aac8-4b09-92c5-33e2b86e282c",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "7c87d05d-365c-4872-b29d-35731fa603e2"
+        }
+      },
+      "parent": "bbb216ae-5d63-484f-92ba-b023f066ae12"
+    },
+    "9dff9cdd-00f5-4199-88ee-d50efe77d572": {
+      "id": "9dff9cdd-00f5-4199-88ee-d50efe77d572",
+      "message": null,
+      "parent": null
+    },
+    "bbb216ae-5d63-484f-92ba-b023f066ae12": {
+      "id": "bbb216ae-5d63-484f-92ba-b023f066ae12",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_000000004b3c720c8d2a85da7882b7d1",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 709,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 122090,
+              "width": 1000
+            },
+            "Respond better o her question then I did and ask if she want to jump on a quick call to see if we can help her"
+          ]
+        },
+        "create_time": 1776374823.153756,
+        "id": "bbb216ae-5d63-484f-92ba-b023f066ae12",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "9dff9cdd-00f5-4199-88ee-d50efe77d572"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Improving Lead Conversion",
+  "update_time": 1776374830.475463,
+  "voice": null
+}

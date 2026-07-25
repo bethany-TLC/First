@@ -1,0 +1,141 @@
+{
+  "conversation_id": "69d6bb47-70e4-832c-a3cf-c89cee140f37",
+  "conversation_template_id": null,
+  "create_time": 1775680378.56052,
+  "current_node": "da14463b-1b7b-4f58-9038-984ba6277ff9",
+  "default_model_slug": "gpt-5-3",
+  "id": "69d6bb47-70e4-832c-a3cf-c89cee140f37",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "308c466a-8e96-41ab-a4ca-ab977665afd2": {
+      "id": "308c466a-8e96-41ab-a4ca-ab977665afd2",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "perfect, lets add under the title: a place where we can ask questions that get solid profit producing answers"
+          ]
+        },
+        "create_time": 1775680487.009,
+        "id": "308c466a-8e96-41ab-a4ca-ab977665afd2",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "e9fc068d-acd4-492d-bab2-5968b66fe349"
+    },
+    "41a7391d-513c-422f-a11d-472938d70dfe": {
+      "id": "41a7391d-513c-422f-a11d-472938d70dfe",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "CHANGE VERNAGE UNDE TITLE TO: REAL CONVERSATIONS. REAL STRATEGIES. REAL GROWTH."
+          ]
+        },
+        "create_time": 1775680624.431,
+        "id": "41a7391d-513c-422f-a11d-472938d70dfe",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "308c466a-8e96-41ab-a4ca-ab977665afd2"
+    },
+    "5d209015-4148-440a-83b7-a2bb7fe2eea5": {
+      "id": "5d209015-4148-440a-83b7-a2bb7fe2eea5",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "OK KEEP THE SAME TITLE AND SUBTITLE BUT CHANGE THE BACKGORUND AND PEOPEL, MAYBE TWO WOMEN ON RIGHT AND ONE MAN ON LEFT AND MAKE THE CLOTHING BURGANDY, THAT SAME GREAN AND CREAM AND BLACK"
+          ]
+        },
+        "create_time": 1775681037.173,
+        "id": "5d209015-4148-440a-83b7-a2bb7fe2eea5",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "41a7391d-513c-422f-a11d-472938d70dfe"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "da14463b-1b7b-4f58-9038-984ba6277ff9": {
+      "id": "da14463b-1b7b-4f58-9038-984ba6277ff9",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "add one african american girl on the left and "
+          ]
+        },
+        "create_time": 1775681208.773,
+        "id": "da14463b-1b7b-4f58-9038-984ba6277ff9",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "5d209015-4148-440a-83b7-a2bb7fe2eea5"
+    },
+    "e9fc068d-acd4-492d-bab2-5968b66fe349": {
+      "id": "e9fc068d-acd4-492d-bab2-5968b66fe349",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "create a facebook group cover photo that has medspa owners in it on each side and a medspa iamge inthe back gorund and the title of the group is called: MedSpa Owner's Inner Circle"
+          ]
+        },
+        "create_time": 1775680378.175,
+        "id": "e9fc068d-acd4-492d-bab2-5968b66fe349",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "MedSpa Group Cover Design",
+  "update_time": 1775681249.041437,
+  "voice": null
+}

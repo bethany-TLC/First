@@ -1,0 +1,72 @@
+{
+  "conversation_id": "687fc6b1-6c78-8011-a0d3-4f162a295a3e",
+  "conversation_template_id": null,
+  "create_time": 1753204401.603199,
+  "current_node": "140df351-8e24-4f32-804b-a07bca959d55",
+  "default_model_slug": "auto",
+  "id": "687fc6b1-6c78-8011-a0d3-4f162a295a3e",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "140df351-8e24-4f32-804b-a07bca959d55": {
+      "id": "140df351-8e24-4f32-804b-a07bca959d55",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Sure! Here\u2019s a polished and professional version of your email response:\n\n---\n\n**Subject:** Apologies for the Zoom Glitch \u2013 Let\u2019s Reschedule  \n\nHi [Name],  \n\nI'm so sorry \u2014 it looks like the Zoom link didn\u2019t work correctly, and that\u2019s never happened before. It must\u2019ve been a glitch on the platform's end.  \n\nPlease forgive the technical hiccup. I\u2019d still love the opportunity to connect and chat about featuring you on the podcast. If you're not able to jump on in the next 15 minutes, just let me know a time that works for you later this week, and I\u2019ll get a fresh link over to you right away.  \n\nLooking forward to connecting!  \n\nWarmly,  \nBethany Gifford  \n\n--- \n\nLet me know if you want to include a Calendly link or propose specific times."
+          ]
+        },
+        "create_time": 1753204496.197421,
+        "id": "140df351-8e24-4f32-804b-a07bca959d55",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-4o",
+          "parent_id": "3395de99-f06d-4ff6-bea6-624ceded1c7b"
+        }
+      },
+      "parent": "b6e104b8-6a77-4c28-bd0f-30a09ac0c36b"
+    },
+    "b6e104b8-6a77-4c28-bd0f-30a09ac0c36b": {
+      "id": "b6e104b8-6a77-4c28-bd0f-30a09ac0c36b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "respond to email about zoom link not working and that thats never happend before. must have been a glitch. please forgive the technical difficulties but i would still love to meet with you and connect about feauturing you on our podcast.  please let me know if another time this week work fo ryou if you are not able to jump on in the next 15 mins\n\nPlease write in English language."
+          ]
+        },
+        "create_time": 1753204495.985,
+        "id": "b6e104b8-6a77-4c28-bd0f-30a09ac0c36b",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Email response template",
+  "update_time": 1753204516.489667,
+  "voice": null
+}

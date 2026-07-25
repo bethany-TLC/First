@@ -1,0 +1,72 @@
+{
+  "conversation_id": "68dd3fc8-1798-8327-9091-56f059453445",
+  "conversation_template_id": null,
+  "create_time": 1759330261.958538,
+  "current_node": "ed2d84fc-8c92-4151-a34c-f986bed69d45",
+  "default_model_slug": "gpt-5",
+  "id": "68dd3fc8-1798-8327-9091-56f059453445",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "21e4f697-5a3f-4035-94d5-56a782507373": {
+      "id": "21e4f697-5a3f-4035-94d5-56a782507373",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "$50,000 in monthly generated revenue, you retain $45,000\u2014a 9:1 value ratio. break donw numbers for 5%, 7% and 10%"
+          ]
+        },
+        "create_time": 1759330261.171,
+        "id": "21e4f697-5a3f-4035-94d5-56a782507373",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "ed2d84fc-8c92-4151-a34c-f986bed69d45": {
+      "id": "ed2d84fc-8c92-4151-a34c-f986bed69d45",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s the clear breakdown on $50,000 in monthly generated revenue at different revenue-share percentages:  \n\n### \ud83d\udcca Revenue Split Scenarios\n\n**Total Monthly Revenue: $50,000**\n\n- **5% Revenue Share**\n  - Revenue Share: $2,500  \n  - Retained: **$47,500**  \n  - Value Ratio: **19:1**  \n\n- **7% Revenue Share**\n  - Revenue Share: $3,500  \n  - Retained: **$46,500**  \n  - Value Ratio: **13.3:1**  \n\n- **10% Revenue Share**\n  - Revenue Share: $5,000  \n  - Retained: **$45,000**  \n  - Value Ratio: **9:1**  \n\n---\n\n\u2705 At 5%, you keep nearly all the upside.  \n\u2705 At 7%, you\u2019re still highly leveraged with over 13:1 retained value.  \n\u2705 At 10%, it\u2019s a cleaner round number but with more revenue going to the partner.  \n\nDo you want me to build this into a **visual table/graphic** you can drop directly into your pitch deck or proposal?"
+          ]
+        },
+        "create_time": 1759330262.462128,
+        "id": "ed2d84fc-8c92-4151-a34c-f986bed69d45",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "a91484e5-41a8-497f-a3bd-d5910a6016a3"
+        }
+      },
+      "parent": "21e4f697-5a3f-4035-94d5-56a782507373"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Revenue share breakdown",
+  "update_time": 1759330285.962767,
+  "voice": null
+}

@@ -1,0 +1,532 @@
+{
+  "conversation_id": "6a105566-e630-83ea-ac9b-652c70fa67ba",
+  "conversation_template_id": null,
+  "create_time": 1779455385.170887,
+  "current_node": "869af1e8-e135-42de-8755-fbccc96b59b6",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a105566-e630-83ea-ac9b-652c70fa67ba",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "55aec423-8ec1-4410-8e05-53e4560f7279": {
+      "id": "55aec423-8ec1-4410-8e05-53e4560f7279",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "there are more than this, list ALL of them"
+          ]
+        },
+        "create_time": 1779455454.88,
+        "id": "55aec423-8ec1-4410-8e05-53e4560f7279",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "aa279598-1c53-4202-999e-0f6bf92c89a0"
+    },
+    "665c3f68-bd4f-462b-9998-ca81f1afcb84": {
+      "id": "665c3f68-bd4f-462b-9998-ca81f1afcb84",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "thoughts",
+          "source_analysis_msg_id": "048df4f4-613f-4e74-b4a0-8de0c8ef9631",
+          "thoughts": [
+            {
+              "chunks": [],
+              "content": "",
+              "finished": true,
+              "summary": ""
+            }
+          ]
+        },
+        "create_time": 1779455459.613699,
+        "id": "665c3f68-bd4f-462b-9998-ca81f1afcb84",
+        "metadata": {
+          "model_slug": "gpt-5-5",
+          "parent_id": "81c51c9e-2e54-4776-b51e-f65b82df7ee6"
+        }
+      },
+      "parent": "55aec423-8ec1-4410-8e05-53e4560f7279"
+    },
+    "869af1e8-e135-42de-8755-fbccc96b59b6": {
+      "id": "869af1e8-e135-42de-8755-fbccc96b59b6",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "| Presenter Name | Alt Email | Title | Organization |\n|---|---|---|---|\n| Amy Drewry/Damon Hayes | amydrewry3@gmail.com | Dean of Instruction | Carter Lawrence Elementary School |\n| Amy Kraus | amy.kraus@att.net | Coordinator, Behavior Support Team | MNPS |\n| Ashford R. Hughes Sr. | ashford.hughes@gmail.com | Executive Officer for Student Success and Opportunity | MNPS |\n| Ashford R. Hughes Sr. | ashford.hughes@gmail.com | Executive Officer of Student Success and Opportunity | Metro Nashville Public Schools |\n| Ashmi Sinha | ashmi_sinha@yahoo.com | Learning Technology Specialist | Metro Nashville Public Schools |\n| Brian Lowenthal | BDLowenthal@gmail.com | Co-Founder/Managing Partner | Mindset 4 Success, LLC |\n| Bridget Riley | bridget_riley@facinghistory.org | Program Associate | Facing History & Ourselves |\n| Bruce Coberly | coberlybru@fssd.org | School Counselor | Moore Elementary School - FSSD |\n| Calley Crews, MA, A- LPC/MHSP | calleyc@gmail.com | Education Alliance Specialist | Caron Treatment Center |\n| David Crnobori | david.crnobori@gmail.com | Behavior Analyst | MNPS |\n| Diana Fisher | suka1223@gmail.com | Trauma-Informed Specialist | MNPS |\n| Dr. Adam Anthony | a.anthony9419@gmail.com | Founder/Consultant/Speaker | EmpowerMENt by Dr. Adam Anthony |\n| Dr. Don Parker | Dr.DonParker@DrDonParker.com | Education Speaker/Professional Development Provider | DPCP Corporation |\n| Dr. Dornedria Joseph | dornedria.joseph@gmail.com | HERO Program Outreach Specialist | MNPS |\n| Dr. Joy Guss | joyguss@gmail.com | Success Coach | MNPS |\n| Dr. Mercedes Ford-Miller | maford91@gmail.com | Extended Learning Program Manager | Metro Nashville Public Schools |\n| Dr. Simyka Carlton | drsimykacarlton@gmail.com | Personal Growth & Development Coordinator | Metro Nashville Public School |\n| Dr. Yolanda Jackson | yolanda.jackson@mnps.org | Coordinator | MNPS |\n| Eli Foster | c.eli.foster@gmail.com | Trauma-Informed Specialist | MNPS |\n| Emily Baran | emilykbaran@gmail.com | General Education Behavior Analyst | Metro Nashville Public Schools Behavior Support Team |\n| Holley Roberts | holley_roberts@yahoo.com | School Psychologist | MNPS |\n| Ian Lincoln | IanCLincoln@gmail.com | Trauma-Informed Specialist | MNPS |\n| Ian Lincoln | IanCLincoln@gmail.com | Trauma-Informed Specialist | MNPS |\n| John Doerge | jdoerge@deloitte.com | Social Impact Leader | Deloitte |\n| Johnsie Holt | johnsie.holt@mnps.org | Director of Employee Wellness | Metro Nashville Public Schools |\n| Joseph Wehby | joseph.wehby@Vanderbilt.Edu | Associate Professor | Vanderbilt University |\n| Kathryn Addison | kathryn.addison@mnps.org | Family Engagement Specialist | Metro Nashville Public Schools |\n| Kenneth Gluck | ken.gluck@tnholcom.org | State Education Coordinator | Tennessee Holocaust Commission |\n| Kenya Newby | kenya.newby@gmail.com | School Counselor | MNPS |\n| Kylan Hadley | kylan.hadley@nashville.gov | Public Health Manager of Resilient Communities and PACEs Education Program | Metro Public Health Department |\n| Latonia L. Harris | latonia.harris@mnps.org | School Counselor | Metro Nashville Public Schools |\n| Laura Bowman | laura.bowman@mnps.org | District Lead School Counselor | MNPS |\n| Lindsay McCaw | lindsay.mccaw@mnps.org | School Counselor | Metro Nashville Public Schools |\n| Maria Romero | mromero@brentwoodacademy.com | Director of Diversity, Equity, and Inclusion | Brentwood Academy |\n| Mark Green | mark.green@mnps.org | Executive Principal | Metro Nashville Public Schools |\n| Mary Beth Nevills | marybeth.nevills@mnps.org | Behavior Support Specialist | Metro Nashville Public Schools |\n| Melissa Bryant | melissa.bryant@mnps.org | Coordinator of School Counseling | MNPS |\n| Michelle Blakely | mblakely@fisk.edu | Associate Professor | Fisk University |\n| Monique Anthony | monique.anthony@gmail.com | Educational Consultant | Self-Employed |\n| Natalie Green | natalie.green@mnps.org | Restorative Practices Specialist | Metro Nashville Public Schools |\n| Nicole Cobb | nicole.cobb@mnps.org | Director of Student Supports | MNPS |\n| Rachel Davis | rachel.davis@mnps.org | MTSS Coordinator | Metro Nashville Public Schools |\n| Samantha Porter | samantha.porter@mnps.org | SEL Coach | MNPS |\n| Sarah Ham | sarah.ham@mnps.org | School Social Worker | Metro Nashville Public Schools |\n| Stephanie Coleman | stephanie.coleman@mnps.org | Principal | Metro Nashville Public Schools |\n| Tiffany Johnson | tiffany.johnson@mnps.org | Family Engagement Coordinator | MNPS |\n\nSource: \ue200filecite\ue202turn0file0\ue202L1-L443\ue201"
+          ]
+        },
+        "create_time": 1779455477.500382,
+        "id": "869af1e8-e135-42de-8755-fbccc96b59b6",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": null,
+              "cloud_doc_url": "",
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_00000000b47071f788e7b2b06a2aeb6a",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": 443,
+                "line_range_start": 1,
+                "message_id": "6e967d81-2915-45a8-92e5-904d344d9a54",
+                "message_index": 0
+              },
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "Pasted text.txt",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "ca5e9e68-44ae-43e0-b387-f9173d3eedd8"
+        }
+      },
+      "parent": "665c3f68-bd4f-462b-9998-ca81f1afcb84"
+    },
+    "aa279598-1c53-4202-999e-0f6bf92c89a0": {
+      "id": "aa279598-1c53-4202-999e-0f6bf92c89a0",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "| Presenter Name | Alt Email | Title | Organization |\n|---|---|---|---|\n| Amy Drewry / Damon Hayes | amydrewry3@gmail.com | Dean of Instruction | \ue200entity\ue202[\"organization\",\"Carter Lawrence Elementary School\",\"Nashville, TN, USA\"]\ue201 |\n| Amy Kraus | amy.kraus@att.net | Coordinator, Behavior Support Team | \ue200entity\ue202[\"organization\",\"MNPS\",\"Nashville, TN, USA\"]\ue201 |\n| Ashford R. Hughes Sr. | ashford.hughes@gmail.com | Executive Officer for Student Success and Opportunity | \ue200entity\ue202[\"organization\",\"MNPS\",\"Nashville, TN, USA\"]\ue201 |\n| Ashford R. Hughes Sr. | ashford.hughes@gmail.com | Executive Officer of Student Success and Opportunity | \ue200entity\ue202[\"organization\",\"Metro Nashville Public Schools\",\"Nashville, TN, USA\"]\ue201 |\n| Ashmi Sinha | ashmi_sinha@yahoo.com | Learning Technology Specialist | \ue200entity\ue202[\"organization\",\"Metro Nashville Public Schools\",\"Nashville, TN, USA\"]\ue201 |\n| Brian Lowenthal | BDLowenthal@gmail.com | Co-Founder/Managing Partner | \ue200entity\ue202[\"company\",\"Mindset 4 Success, LLC\",\"\"]\ue201 |\n| Bridget Riley | bridget_riley@facinghistory.org | Program Associate | \ue200entity\ue202[\"organization\",\"Facing History & Ourselves\",\"United States\"]\ue201 |\n| Bruce Coberly | coberlybru@fssd.org | School Counselor | \ue200entity\ue202[\"organization\",\"Moore Elementary School - FSSD\",\"Franklin, TN, USA\"]\ue201 |\n| Calley Crews, MA, A-LPC/MHSP | calleyc@gmail.com | Education Alliance Specialist | \ue200entity\ue202[\"organization\",\"Caron Treatment Center\",\"United States\"]\ue201 |\n| David Crnobori | david.crnobori@gmail.com | Behavior Analyst | \ue200entity\ue202[\"organization\",\"MNPS\",\"Nashville, TN, USA\"]\ue201 |\n| Diana Fisher | suka1223@gmail.com | Trauma-Informed Specialist | \ue200entity\ue202[\"organization\",\"MNPS\",\"Nashville, TN, USA\"]\ue201 |\n| Dr. Adam Anthony | a.anthony9419@gmail.com | Founder/Consultant/Speaker | \ue200entity\ue202[\"organization\",\"EmpowerMENt by Dr. Adam Anthony\",\"United States\"]\ue201 |\n| Dr. Don Parker | Dr.DonParker@DrDonParker.com | Education Speaker/Professional Development Provider | \ue200entity\ue202[\"company\",\"DPCP Corporation\",\"\"]\ue201 |\n| Dr. Dornedria Joseph | dornedria.joseph@gmail.com | HERO Program Outreach Specialist | \ue200entity\ue202[\"organization\",\"MNPS\",\"Nashville, TN, USA\"]\ue201 |\n| Dr. Joy Guss | joyguss@gmail.com | Success Coach | \ue200entity\ue202[\"organization\",\"MNPS\",\"Nashville, TN, USA\"]\ue201 |\n| Dr. Mercedes Ford-Miller | maford91@gmail.com | Extended Learning Program Manager | \ue200entity\ue202[\"organization\",\"Metro Nashville Public Schools\",\"Nashville, TN, USA\"]\ue201 |\n| Dr. Simyka Carlton | drsimykacarlton@gmail.com | Personal Growth & Development Coordinator | \ue200entity\ue202[\"organization\",\"Metro Nashville Public School\",\"Nashville, TN, USA\"]\ue201 |\n| Dr. Yolanda Jackson | yolanda.jackson@mnps.org | Coordinator | \ue200entity\ue202[\"organization\",\"MNPS\",\"Nashville, TN, USA\"]\ue201 |\n| Eli Foster | c.eli.foster@gmail.com | Trauma-Informed Specialist | \ue200entity\ue202[\"organization\",\"MNPS\",\"Nashville, TN, USA\"]\ue201 |\n| Emily Baran | emilykbaran@gmail.com | General Education Behavior Analyst | \ue200entity\ue202[\"organization\",\"Metro Nashville Public Schools Behavior Support Team\",\"Nashville, TN, USA\"]\ue201 |\n| Holley Roberts | holley_roberts@yahoo.com | School Psychologist | \ue200entity\ue202[\"organization\",\"MNPS\",\"Nashville, TN, USA\"]\ue201 |\n\nSource: \ue200filecite\ue202turn0file0\ue202L1-L200\ue201"
+          ]
+        },
+        "create_time": 1779455384.87073,
+        "id": "aa279598-1c53-4202-999e-0f6bf92c89a0",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "Carter Lawrence Elementary School",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "Nashville, TN, USA"
+              },
+              "id": "wASMD-R4qTQ_DObf",
+              "metadata": null,
+              "name": "Carter Lawrence Elementary School",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Carter Lawrence Elementary School",
+              "type": "entity"
+            },
+            {
+              "alt": "MNPS",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "Nashville, TN, USA"
+              },
+              "id": "dRkZrIAdOBOBe-1p",
+              "metadata": null,
+              "name": "MNPS",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "MNPS",
+              "type": "entity"
+            },
+            {
+              "alt": "MNPS",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "Nashville, TN, USA"
+              },
+              "id": "dRkZrIAdOBOBe-1p",
+              "metadata": null,
+              "name": "MNPS",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "MNPS",
+              "type": "entity"
+            },
+            {
+              "alt": "Metro Nashville Public Schools",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "Nashville, TN, USA"
+              },
+              "id": "kUE7VriGWlEwPPRb",
+              "metadata": null,
+              "name": "Metro Nashville Public Schools",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Metro Nashville Public Schools",
+              "type": "entity"
+            },
+            {
+              "alt": "Metro Nashville Public Schools",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "Nashville, TN, USA"
+              },
+              "id": "kUE7VriGWlEwPPRb",
+              "metadata": null,
+              "name": "Metro Nashville Public Schools",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Metro Nashville Public Schools",
+              "type": "entity"
+            },
+            {
+              "alt": "Mindset 4 Success, LLC",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": null,
+              "id": "ck67vZku5ivZIV8L",
+              "metadata": null,
+              "name": "Mindset 4 Success, LLC",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Mindset 4 Success, LLC",
+              "type": "entity"
+            },
+            {
+              "alt": "Facing History & Ourselves",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "United States"
+              },
+              "id": "hcu1PG9khNZ3D8DM",
+              "metadata": null,
+              "name": "Facing History & Ourselves",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Facing History & Ourselves",
+              "type": "entity"
+            },
+            {
+              "alt": "Moore Elementary School - FSSD",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "Franklin, TN, USA"
+              },
+              "id": "4nBz8__vNQTCD6P0",
+              "metadata": null,
+              "name": "Moore Elementary School - FSSD",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Moore Elementary School - FSSD",
+              "type": "entity"
+            },
+            {
+              "alt": "Caron Treatment Center",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "United States"
+              },
+              "id": "DI-o-bSjpob6wTFJ",
+              "metadata": null,
+              "name": "Caron Treatment Center",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Caron Treatment Center",
+              "type": "entity"
+            },
+            {
+              "alt": "MNPS",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "Nashville, TN, USA"
+              },
+              "id": "dRkZrIAdOBOBe-1p",
+              "metadata": null,
+              "name": "MNPS",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "MNPS",
+              "type": "entity"
+            },
+            {
+              "alt": "MNPS",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "Nashville, TN, USA"
+              },
+              "id": "dRkZrIAdOBOBe-1p",
+              "metadata": null,
+              "name": "MNPS",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "MNPS",
+              "type": "entity"
+            },
+            {
+              "alt": "EmpowerMENt by Dr. Adam Anthony",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "United States"
+              },
+              "id": "Ex1neUd5gGNjQxe9",
+              "metadata": null,
+              "name": "EmpowerMENt by Dr. Adam Anthony",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "EmpowerMENt by Dr. Adam Anthony",
+              "type": "entity"
+            },
+            {
+              "alt": "DPCP Corporation",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": null,
+              "id": "u0Es3QpK8nV_LTOf",
+              "metadata": null,
+              "name": "DPCP Corporation",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "DPCP Corporation",
+              "type": "entity"
+            },
+            {
+              "alt": "MNPS",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "Nashville, TN, USA"
+              },
+              "id": "dRkZrIAdOBOBe-1p",
+              "metadata": null,
+              "name": "MNPS",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "MNPS",
+              "type": "entity"
+            },
+            {
+              "alt": "MNPS",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "Nashville, TN, USA"
+              },
+              "id": "dRkZrIAdOBOBe-1p",
+              "metadata": null,
+              "name": "MNPS",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "MNPS",
+              "type": "entity"
+            },
+            {
+              "alt": "Metro Nashville Public Schools",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "Nashville, TN, USA"
+              },
+              "id": "kUE7VriGWlEwPPRb",
+              "metadata": null,
+              "name": "Metro Nashville Public Schools",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Metro Nashville Public Schools",
+              "type": "entity"
+            },
+            {
+              "alt": "Metro Nashville Public School",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "Nashville, TN, USA"
+              },
+              "id": "rc3eAD4G-z-H17Uc",
+              "metadata": null,
+              "name": "Metro Nashville Public School",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Metro Nashville Public School",
+              "type": "entity"
+            },
+            {
+              "alt": "MNPS",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "Nashville, TN, USA"
+              },
+              "id": "dRkZrIAdOBOBe-1p",
+              "metadata": null,
+              "name": "MNPS",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "MNPS",
+              "type": "entity"
+            },
+            {
+              "alt": "MNPS",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "Nashville, TN, USA"
+              },
+              "id": "dRkZrIAdOBOBe-1p",
+              "metadata": null,
+              "name": "MNPS",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "MNPS",
+              "type": "entity"
+            },
+            {
+              "alt": "Metro Nashville Public Schools Behavior Support Team",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "Nashville, TN, USA"
+              },
+              "id": "gTZLd1js4kFNNK0v",
+              "metadata": null,
+              "name": "Metro Nashville Public Schools Behavior Support Team",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Metro Nashville Public Schools Behavior Support Team",
+              "type": "entity"
+            },
+            {
+              "alt": "MNPS",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "Nashville, TN, USA"
+              },
+              "id": "dRkZrIAdOBOBe-1p",
+              "metadata": null,
+              "name": "MNPS",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "MNPS",
+              "type": "entity"
+            },
+            {
+              "alt": null,
+              "cloud_doc_url": "",
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_00000000b47071f788e7b2b06a2aeb6a",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": 200,
+                "line_range_start": 1,
+                "message_id": "6e967d81-2915-45a8-92e5-904d344d9a54",
+                "message_index": 0
+              },
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "Pasted text.txt",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "3ce8a52c-36e5-464c-9921-1f403b21d844"
+        }
+      },
+      "parent": "c12dcb3e-f645-44a4-8bb7-ed4499780735"
+    },
+    "c12dcb3e-f645-44a4-8bb7-ed4499780735": {
+      "id": "c12dcb3e-f645-44a4-8bb7-ed4499780735",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "list out the presenters name, alt email, title, orgnaization "
+          ]
+        },
+        "create_time": 1779455384.255,
+        "id": "c12dcb3e-f645-44a4-8bb7-ed4499780735",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_00000000b47071f788e7b2b06a2aeb6a",
+              "is_big_paste": true,
+              "library_file_id": "libfile_fb8b077daedc8191b5070c17c1e09bcf",
+              "mime_type": "text/plain",
+              "name": "Pasted text(40).txt",
+              "size": 180450,
+              "source": "local"
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Presenter Information List",
+  "update_time": 1779455490.077903,
+  "voice": null
+}

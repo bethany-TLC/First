@@ -1,0 +1,71 @@
+{
+  "conversation_id": "696cff46-2448-8330-86d2-601a164ab2d5",
+  "conversation_template_id": null,
+  "create_time": 1768750926.050804,
+  "current_node": "88fd05d4-d1a2-477c-b4bc-531ac8bcb5d7",
+  "default_model_slug": "gpt-5-2",
+  "id": "696cff46-2448-8330-86d2-601a164ab2d5",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "83f0ccf4-dacc-43d7-8963-3588b1d8a8a6": {
+      "id": "83f0ccf4-dacc-43d7-8963-3588b1d8a8a6",
+      "message": null,
+      "parent": null
+    },
+    "88fd05d4-d1a2-477c-b4bc-531ac8bcb5d7": {
+      "id": "88fd05d4-d1a2-477c-b4bc-531ac8bcb5d7",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ":::writing{id=\"73942\" variant=\"social_post\"}\nWent to see Beautifica and it felt like stepping completely outside of reality for a moment.\n\nIn that space, everything got quiet. My mind slowed down. My heart opened up. I was able to sort through so many internal things and what I walked away with was simple and powerful. I am deeply blessed. I am on the right path. I have the right people in my life. And most of all, God has had me this entire time.\n\nI realized I finally understand what true love actually is. It is not just a feeling or a spark. It is an all consuming sense of peace. It is safety. It is the desire to become better, grow deeper, invest more fully in life, and show up with intention. It feels grounded, calm, and expansive all at once.\n\nSometimes things have to fall apart. Sometimes God has to prune away the bullshit and the things holding you down so that true love, happiness, and purpose can actually blossom. And when it does, you can feel it in your bones.\n\nTonight was a reminder that I am held, guided, and exactly where I am meant to be.\n\ud83d\ude4f\u2728\n:::"
+          ]
+        },
+        "create_time": 1768750925.927278,
+        "id": "88fd05d4-d1a2-477c-b4bc-531ac8bcb5d7",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "377ad244-6c54-40ca-9fe3-98fca034862d"
+        }
+      },
+      "parent": "bbb212f8-9c8a-48c2-954c-b29397b23c7a"
+    },
+    "bbb212f8-9c8a-48c2-954c-b29397b23c7a": {
+      "id": "bbb212f8-9c8a-48c2-954c-b29397b23c7a",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write a post about going to see Beautifica and that it is such a break from reality that you were able to sort out so many internal things that made you realize how blessed you are, the right path I'm on, the right people in my life and most of all that God's got me and that I finally know what true love looks like. It's not just a. Feeling, it's an all consuming sense of peace and desire to be become better, grow more, invest in life and it reminds me that God's got me this whole time. Sometime and things have to happen to prune out the bullshit and what holding you down so true love and happiness and purpose can blossom\n"
+          ]
+        },
+        "create_time": 1768750925.747088,
+        "id": "bbb212f8-9c8a-48c2-954c-b29397b23c7a",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "83f0ccf4-dacc-43d7-8963-3588b1d8a8a6"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Beautifica Reflection and Growth",
+  "update_time": 1768750937.345944,
+  "voice": null
+}

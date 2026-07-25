@@ -1,0 +1,552 @@
+{
+  "conversation_id": "6a5d6093-9068-83ea-9391-4c35d53d0bc5",
+  "conversation_template_id": null,
+  "create_time": 1784504484.744153,
+  "current_node": "1702fe9d-19d5-43c5-a9ea-47a8c3cf38a8",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a5d6093-9068-83ea-9391-4c35d53d0bc5",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "049d96d3-ec65-4916-aae3-68eccebabcce": {
+      "id": "049d96d3-ec65-4916-aae3-68eccebabcce",
+      "message": null,
+      "parent": null
+    },
+    "1702fe9d-19d5-43c5-a9ea-47a8c3cf38a8": {
+      "id": "1702fe9d-19d5-43c5-a9ea-47a8c3cf38a8",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "I tried to access the link, but it's a Facebook share link that requires login, so I can't see the video itself.\n\nBased on the screenshot and the style of these posts, I have a few observations:\n\n- The headline (\"Trump's new plan could retire every 9-5er on August 23rd\") is classic engagement-bait. These videos almost always build suspense and then direct viewers toward a specific cryptocurrency or trading platform.\n- I couldn't find any credible announcement from Trump or the White House about a cryptocurrency event on August 23 that would \"retire every 9-to-5 worker.\" \ue200cite\ue202turn0search1\ue202turn0search2\ue201\n- Similar videos using Trump's image to promote crypto have frequently been identified as misleading or outright scams, sometimes using AI-generated audio or edited clips. \ue200cite\ue202turn0search0\ue201\n\nIf I had to guess based on what's trending in this niche, the video is most likely trying to funnel viewers into one of these:\n- Bitcoin (BTC)\n- XRP (Ripple)\n- $TRUMP (the Trump-themed memecoin)\n- A brand-new \"insider\" token that the creator claims will explode\n\nBut I don't want to guess when we can know for sure.\n\nIf you can:\n1. Tap the **\u22ef** on the video and choose **Copy link** (not the Facebook share link), or\n2. Send me a 20-30 second screen recording of the beginning,\n\nI'll tell you exactly:\n- what coin he's pitching,\n- whether the claims have any basis,\n- and whether it's a legitimate investment or a likely pump-and-dump."
+          ]
+        },
+        "create_time": 1784504513.325442,
+        "id": "1702fe9d-19d5-43c5-a9ea-47a8c3cf38a8",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "([The White House](https://www.whitehouse.gov/videos/make-america-safe-again-president-trump-is-taking-steps-to-end-cashless-bail-in-our-country/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "The White House",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1756080000.0,
+                  "refs": [
+                    {
+                      "ref_index": 1,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 2,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [
+                    {
+                      "attribution": "The White House",
+                      "pub_date": null,
+                      "snippet": "",
+                      "title": "President Trump Ends Cashless Bail \u2013 The White House",
+                      "url": "https://www.whitehouse.gov/videos/president-trump-ends-cashless-bail/?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "MAKE AMERICA SAFE AGAIN: President Trump is taking steps to END cashless bail in our country. \u2013 The White House",
+                  "url": "https://www.whitehouse.gov/videos/make-america-safe-again-president-trump-is-taking-steps-to-end-cashless-bail-in-our-country/?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Lead Stories](https://leadstories.com/hoax-alert/2024/08/fact-check-musk-trump-have-not-teamed-up-in-a-crypto-scam-ai-generated-scam-pitch.html?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Lead Stories",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1724284800.0,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [],
+                  "title": "Fact Check: Musk, Trump Have NOT Teamed Up On Crypto Scheme -- AI-Generated Scam Pitch | Lead Stories",
+                  "url": "https://leadstories.com/hoax-alert/2024/08/fact-check-musk-trump-have-not-teamed-up-in-a-crypto-scam-ai-generated-scam-pitch.html?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prefix": null,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "The White House",
+                  "title": "MAKE AMERICA SAFE AGAIN: President Trump is taking steps to END cashless bail in our country. \u2013 The White House",
+                  "url": "https://www.whitehouse.gov/videos/make-america-safe-again-president-trump-is-taking-steps-to-end-cashless-bail-in-our-country/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Lead Stories",
+                  "title": "Fact Check: Musk, Trump Have NOT Teamed Up On Crypto Scheme -- AI-Generated Scam Pitch | Lead Stories",
+                  "url": "https://leadstories.com/hoax-alert/2024/08/fact-check-musk-trump-have-not-teamed-up-in-a-crypto-scam-ai-generated-scam-pitch.html?utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "f5783f4c-aaf5-422c-87d3-36da3300a27b",
+          "search_result_groups": [
+            {
+              "domain": "whitehouse.gov",
+              "entries": [
+                {
+                  "attribution": "whitehouse.gov",
+                  "snippet": " Videos  PRESIDENT TRUMP ENDS CASHLESS BAIL  August 25, 2025  President Trump Ends Cashless Bail  ABOUT  * Administration * Contact * Internships * Stay Informed * Privacy Policy",
+                  "title": "President Trump Ends Cashless Bail \u2013 The White House",
+                  "url": "https://www.whitehouse.gov/videos/president-trump-ends-cashless-bail/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "fastcompany.com",
+              "entries": [
+                {
+                  "attribution": "fastcompany.com",
+                  "snippet": "06-20-20242024 ELECTION  Martin Shkreli takes credit as the founder of DJT cryptocurrency  In a Spaces interview on X, Shkreli alleged that he created the DJT meme coin with Donald Trump\u2019s teenage so...",
+                  "title": "Martin Shkreli takes credit as the founder of the DJT cryptocurrency - Fast Company",
+                  "url": "https://www.fastcompany.com/91144246/pharma-bro-martin-shkreli-claims-he-founded-djt-cryptocurrency?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "facebook.com",
+              "entries": [
+                {
+                  "attribution": "facebook.com",
+                  "snippet": "Log in  [Input: Email or phone]  [Input: Password]  Log in  THE WALL STREET JOURNAL'S POST  * * *  THE WALL STREET JOURNAL  26 August  President Trump\u2019s media business is launching a new company to bu...",
+                  "title": "President Trump\u2019s media business... - The Wall Street Journal | Facebook",
+                  "url": "https://www.facebook.com/WSJ/posts/president-trumps-media-business-is-launching-a-new-company-to-buy-and-hold-cro-a/1148132147173381/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "facebook.com",
+                  "snippet": "THE WALL STREET JOURNAL'S POST  * * *  THE WALL STREET JOURNAL  August 31  The Trump family is on both sides of a deal it engineered for its flagship crypto venture that stands to earn over half a bi...",
+                  "title": "The Trump family is on both... - The Wall Street Journal | Facebook",
+                  "url": "https://www.facebook.com/WSJ/posts/the-trump-family-is-on-both-sides-of-a-deal-it-engineered-for-its-flagship-crypt/1151682926818303/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "vimeo.com",
+              "entries": [
+                {
+                  "attribution": "vimeo.com",
+                  "snippet": "Image: 14 August 2025 - Blockchain Report  14 AUGUST 2025 - BLOCKCHAIN REPORT  Image: RoxomTV  RoxomTV  US Became a Bitcoin Whale Without Buying a Single Satoshi \ud83d\udc0b | Blockchain Report  Bitcoin just hi...",
+                  "title": "14 August 2025 - Blockchain Report | Videos & Movies on Vimeo",
+                  "url": "https://vimeo.com/1110107906?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "vimeo.com",
+                  "snippet": "Image: 07 August 2025 - The Blockchain Report  07 AUGUST 2025 - THE BLOCKCHAIN REPORT  Image: RoxomTV  RoxomTV  \ud83d\udea8 Bitcoin in 401(k)s, Saylor\u2019s $1B Play, and France\u2019s Nuclear Mining Plan | The Blockch...",
+                  "title": "07 August 2025 - The Blockchain Report | Videos & Movies on Vimeo",
+                  "url": "https://vimeo.com/1108195195?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "vimeo.com",
+                  "snippet": "Image: 06 August 2025 - The Blockchain Report  06 AUGUST 2025 - THE BLOCKCHAIN REPORT  Image: RoxomTV  RoxomTV  \ud83d\udea8 BlackRock Flips ETF Switch While Trump Rebuilds the Fed with Bitcoiners | The Blockcha...",
+                  "title": "06 August 2025 - The Blockchain Report | Videos & Movies on Vimeo",
+                  "url": "https://vimeo.com/1107859723?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "beincrypto.com",
+              "entries": [
+                {
+                  "attribution": "beincrypto.com",
+                  "snippet": "WHITE HOUSE POSTS \u2018TRUMP COIN,\u2019 BUT NOT THE CRYPTO. $TRUMP DIPS  Prefer us on Google  Image: White House Posts &#8216;TRUMP COIN,&#8217; But Not the Crypto. $TRUMP Dips  Written & Edited by  Image: s...",
+                  "title": "White House Posts &#8216;TRUMP COIN,&#8217; But Not the Crypto. $TRUMP Dips",
+                  "url": "https://beincrypto.com/trump-coin-not-crypto-trump-dips/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "foxbusiness.com",
+              "entries": [
+                {
+                  "attribution": "foxbusiness.com",
+                  "snippet": "Published August 31, 2021 12:28pm EDT  TRUMP WARNS CRYPTO 'POTENTIALLY A DISASTER WAITING TO HAPPEN'  THE FORMER PRESIDENT ARGUES 'WE SHOULD BE INVESTED IN OUR CURRENCY'  * Facebook * Twitter * Threa...",
+                  "title": "Trump warns crypto 'potentially a disaster waiting to happen' | Fox Business",
+                  "url": "https://www.foxbusiness.com/politics/crypto-potentially-a-disaster-waiting-to-happen-trump?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "benzinga.com",
+              "entries": [
+                {
+                  "attribution": "benzinga.com",
+                  "snippet": "August 29, 2024 9:36 PM 2 min read  TRUMP SAID PLAN TO MAKE US 'CRYPTO CAPITAL' OF THE PLANET WOULD COME BY AFTERNOON: CRYPTO COMMUNITY AWAITS  Republican presidential candidate Donald Trump teased a...",
+                  "title": "Trump Said Plan To Make US 'Crypto Capital' Of The Planet Would Come By Afternoon: Crypto Community Await - Benzinga",
+                  "url": "https://www.benzinga.com/markets/cryptocurrency/24/08/40643394/trump-said-plan-to-make-us-crypto-capital-of-the-planet-would-come-by-afternoon-crypto-com/?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "f5783f4c-aaf5-422c-87d3-36da3300a27b"
+    },
+    "2b1f0778-7a07-4b63-bfc1-3d7002031f8e": {
+      "id": "2b1f0778-7a07-4b63-bfc1-3d7002031f8e",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "From the screenshot alone, I can't reliably identify who \"Cash Martin\" actually is. It appears to be a Facebook account that posts cryptocurrency-related videos, but I can't confirm whether it's a real financial analyst, an influencer, or simply a content-aggregation account.\n\nAs for **which cryptocurrency** he's talking about, the screenshot doesn't say. The visible frame only shows:\n\n- \"Trump's new plan could retire every 9-5er on August 23rd\"\n- Hashtags: **#cryptotrading #insidertrading #coinbase #TrumpNews**\n\nThose hashtags are very broad and don't identify a specific coin. Posts like this often use sensational headlines to get people to watch a video or click a link. I couldn't find any credible information tying this specific \"August 23\" claim to a particular cryptocurrency. \ue200cite\ue202turn0search10\ue201\n\nIf you want to know exactly what coin he's promoting, send me one of these:\n- the **Facebook video link**,\n- the **Reel link**, or\n- a screen recording of the first 30\u201360 seconds.\n\nI can tell you:\n- which cryptocurrency he's recommending,\n- whether his claims are accurate,\n- and whether it's likely a legitimate investment or just a hype/pump-and-dump pitch."
+          ]
+        },
+        "create_time": 1784504487.422027,
+        "id": "2b1f0778-7a07-4b63-bfc1-3d7002031f8e",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "([Wikipedia](https://en.wikipedia.org/wiki/U.S._Strategic_Bitcoin_Reserve?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Wikipedia",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 10,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [],
+                  "title": "U.S. Strategic Bitcoin Reserve",
+                  "url": "https://en.wikipedia.org/wiki/U.S._Strategic_Bitcoin_Reserve?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prefix": null,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "Wikipedia",
+                  "title": "U.S. Strategic Bitcoin Reserve",
+                  "url": "https://en.wikipedia.org/wiki/U.S._Strategic_Bitcoin_Reserve?utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "7edc01cc-4ae2-4376-8f06-e988850ccd8e",
+          "search_result_groups": [
+            {
+              "domain": "cash.app",
+              "entries": [
+                {
+                  "attribution": "cash.app",
+                  "snippet": "Download Cash App to send & receive money instantly, spend with the Cash App Card, buy bitcoin, invest in stocks, & manage your finances.",
+                  "title": "Send, Receive, Invest, & Manage Your Money with Cash App",
+                  "url": "https://cash.app/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "cash.app",
+                  "snippet": "Sign in to your Cash App account. View transaction history, manage your account, and send payments. Prepaid debit cards issued by Sutton Bank, Member FDIC.",
+                  "title": "Cash App Login: Sign in to your account",
+                  "url": "https://cash.app/login?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "youtube.com",
+              "entries": [
+                {
+                  "attribution": "youtube.com",
+                  "snippet": "Cash 1.5K videos I love to play Minecraft with my friend Nico! CashBlox @cashblox 4.81M subscribers \u2026 $1 vs $1,000,000 Minecraft Hotel Build Battle!",
+                  "title": "Cash",
+                  "url": "https://www.youtube.com/%40cash?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "wikipedia.org",
+              "entries": [
+                {
+                  "attribution": "wikipedia.org",
+                  "snippet": "Cash is money in the tangible form of currency, such as banknotes and coins. cash is current assets comprising currency or currency equivalents",
+                  "title": "Cash",
+                  "url": "https://en.wikipedia.org/wiki/Cash?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "google.com",
+              "entries": [
+                {
+                  "attribution": "google.com",
+                  "snippet": "Cash App makes it easy to: - Spend, send, save, & invest - Borrow cash. Send money instantly for free. Get paid up to 2 days early. Pay, Google Pay, & digital ...",
+                  "title": "Cash App - Apps on Google Play",
+                  "url": "https://play.google.com/store/apps/details?hl=en_US&id=com.squareup.cash&utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "investopedia.com",
+              "entries": [
+                {
+                  "attribution": "investopedia.com",
+                  "snippet": "Cash refers to physical money, such as currency and coins, as well as liquid assets that are ready for immediate use or withdrawal.Read more",
+                  "title": "Understanding Cash: Definition, Types, and History",
+                  "url": "https://www.investopedia.com/terms/c/cash.asp?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "merriam-webster.com",
+              "entries": [
+                {
+                  "attribution": "merriam-webster.com",
+                  "snippet": "being a method of accounting that includes as income only what has been received and as expenses only those paid compare accrual cash \u2026 to pay or obtain cash ...",
+                  "title": "CASH Definition & Meaning",
+                  "url": "https://www.merriam-webster.com/dictionary/cash?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "7edc01cc-4ae2-4376-8f06-e988850ccd8e"
+    },
+    "43277eb5-0cc6-4ce7-9436-59a4b34e4823": {
+      "id": "43277eb5-0cc6-4ce7-9436-59a4b34e4823",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "thoughts",
+          "source_analysis_msg_id": "f1a87a60-510d-4152-8d67-68d3a906377b",
+          "thoughts": [
+            {
+              "chunks": [],
+              "content": "",
+              "finished": true,
+              "summary": "Searched the web, Cash App, and various websites"
+            }
+          ]
+        },
+        "create_time": 1784504488.387238,
+        "id": "43277eb5-0cc6-4ce7-9436-59a4b34e4823",
+        "metadata": {
+          "model_slug": "gpt-5-5",
+          "parent_id": "114b7b37-7610-45f2-923a-97b917841952",
+          "tool_icons": [
+            "globe"
+          ]
+        }
+      },
+      "parent": "bbb21680-f030-4bc0-b455-83a09aa922fc"
+    },
+    "4a390237-e330-455b-aeac-b883d2c68b2c": {
+      "id": "4a390237-e330-455b-aeac-b883d2c68b2c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "thoughts",
+          "source_analysis_msg_id": "0729bfae-48bd-4f01-b9c5-6b4375b4afd0",
+          "thoughts": [
+            {
+              "chunks": [],
+              "content": "",
+              "finished": true,
+              "summary": "Searched multiple websites for relevant information"
+            }
+          ]
+        },
+        "create_time": 1784504515.108095,
+        "id": "4a390237-e330-455b-aeac-b883d2c68b2c",
+        "metadata": {
+          "model_slug": "gpt-5-5",
+          "parent_id": "4cfc3189-1b03-4cf2-8003-a66bb8288169",
+          "tool_icons": [
+            "globe"
+          ]
+        }
+      },
+      "parent": "bbb21ef6-ee79-40e0-b630-88bf47a77751"
+    },
+    "7edc01cc-4ae2-4376-8f06-e988850ccd8e": {
+      "id": "7edc01cc-4ae2-4376-8f06-e988850ccd8e",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content": "Worked for a few seconds",
+          "content_type": "reasoning_recap"
+        },
+        "create_time": 1784504488.411423,
+        "id": "7edc01cc-4ae2-4376-8f06-e988850ccd8e",
+        "metadata": {
+          "model_slug": "gpt-5-5",
+          "parent_id": "43277eb5-0cc6-4ce7-9436-59a4b34e4823"
+        }
+      },
+      "parent": "43277eb5-0cc6-4ce7-9436-59a4b34e4823"
+    },
+    "bbb21680-f030-4bc0-b455-83a09aa922fc": {
+      "id": "bbb21680-f030-4bc0-b455-83a09aa922fc",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_00000000715881f5a6bf739a5667ca29",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 2244,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": false,
+                "watermarked_asset_pointer": null
+              },
+              "mime_type": "image/png",
+              "size_bytes": 134580,
+              "width": 1008
+            },
+            "Who is this guy and what cryptocurrency is he saying Trump is going to explode"
+          ]
+        },
+        "create_time": 1784504484.267911,
+        "id": "bbb21680-f030-4bc0-b455-83a09aa922fc",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_00000000715881f5a6bf739a5667ca29",
+              "mime_type": "image/png",
+              "name": "1000021217.png",
+              "size": 134580
+            }
+          ],
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "049d96d3-ec65-4916-aae3-68eccebabcce"
+    },
+    "bbb21ef6-ee79-40e0-b630-88bf47a77751": {
+      "id": "bbb21ef6-ee79-40e0-b630-88bf47a77751",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "https://www.facebook.com/share/1HH3Nk4DJv/"
+          ]
+        },
+        "create_time": 1784504510.648802,
+        "id": "bbb21ef6-ee79-40e0-b630-88bf47a77751",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "2b1f0778-7a07-4b63-bfc1-3d7002031f8e"
+    },
+    "f5783f4c-aaf5-422c-87d3-36da3300a27b": {
+      "id": "f5783f4c-aaf5-422c-87d3-36da3300a27b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content": "Worked for a few seconds",
+          "content_type": "reasoning_recap"
+        },
+        "create_time": 1784504515.108887,
+        "id": "f5783f4c-aaf5-422c-87d3-36da3300a27b",
+        "metadata": {
+          "model_slug": "gpt-5-5",
+          "parent_id": "4a390237-e330-455b-aeac-b883d2c68b2c"
+        }
+      },
+      "parent": "4a390237-e330-455b-aeac-b883d2c68b2c"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Cryptocurrency Trump Explosion Claim",
+  "update_time": 1784504522.318529,
+  "voice": null
+}

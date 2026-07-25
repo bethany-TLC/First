@@ -1,0 +1,81 @@
+{
+  "conversation_id": "69385f0e-68d0-8332-b205-d1c7c0469d0d",
+  "conversation_template_id": null,
+  "create_time": 1765302039.453676,
+  "current_node": "099ada83-1cbf-4bae-8ad5-fa6cb2810219",
+  "default_model_slug": "gpt-5-1",
+  "id": "69385f0e-68d0-8332-b205-d1c7c0469d0d",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "099ada83-1cbf-4bae-8ad5-fa6cb2810219": {
+      "id": "099ada83-1cbf-4bae-8ad5-fa6cb2810219",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "All set Bethany \u2014 your filtered spreadsheet with ONLY **med spas, medspa, spa, laser, dermatology, plastics, and aesthetic** related leads is ready.\n\n### \u2705 What I did\nI scanned every column in your Apollo export and pulled out any row containing keywords like:\n- med spa / medspa  \n- spa  \n- laser  \n- dermatology / dermatologist  \n- plastic (for plastic surgery)  \n- aesthetic  \n\n### \u2705 Your new cleaned file\nYou can download it here:\n\n\ud83d\udc49 **[filtered_medspas.xlsx](sandbox:/mnt/data/filtered_medspas.xlsx)**\n\nIf you want, I can also:\n\u2022 create separate tabs by category (ex: Med Spa, Dermatology, Plastics)  \n\u2022 clean the names  \n\u2022 remove duplicates  \n\u2022 pull only owners, founders, or clinical directors  \n\u2022 build a ready Apollo upload list or Instantly campaign CSV  \n\nJust tell me what version you want next."
+          ]
+        },
+        "create_time": 1765302141.094954,
+        "id": "099ada83-1cbf-4bae-8ad5-fa6cb2810219",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-1",
+          "parent_id": "27389d90-554f-4f23-b052-fa29764516d9"
+        }
+      },
+      "parent": "4a4506cf-2677-4f2e-a70f-5b54dbf0501f"
+    },
+    "4a4506cf-2677-4f2e-a70f-5b54dbf0501f": {
+      "id": "4a4506cf-2677-4f2e-a70f-5b54dbf0501f",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "can yo usort through this excel sheet and make a separate sheet with only med spas, laser, spa, dermatology and plastics"
+          ]
+        },
+        "create_time": 1765302038.397,
+        "id": "4a4506cf-2677-4f2e-a70f-5b54dbf0501f",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file-4wS1cZukd3AvMnELNWdkvM",
+              "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+              "name": "Bethany Apollo leads (1).xlsx",
+              "size": 13479739,
+              "source": "local"
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Sort excel sheet",
+  "update_time": 1765302149.628386,
+  "voice": null
+}

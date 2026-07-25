@@ -1,0 +1,71 @@
+{
+  "conversation_id": "69d12403-61bc-8329-9c57-ca228c4bb6e5",
+  "conversation_template_id": null,
+  "create_time": 1775314008.048884,
+  "current_node": "2e10e9b1-f11b-491b-a482-9b76b2cbc628",
+  "default_model_slug": "gpt-5-3",
+  "id": "69d12403-61bc-8329-9c57-ca228c4bb6e5",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "2b74047f-02c7-4c63-ac09-a8797b809fd5": {
+      "id": "2b74047f-02c7-4c63-ac09-a8797b809fd5",
+      "message": null,
+      "parent": null
+    },
+    "2e10e9b1-f11b-491b-a482-9b76b2cbc628": {
+      "id": "2e10e9b1-f11b-491b-a482-9b76b2cbc628",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "I rarely blast reviews\u2026 but these girls are way too good not to share.\n\nTrippy\u2019s Cleaning Service has been an absolute game changer for me.  \nAffordable, reliable, honest, incredibly detail-oriented, and they genuinely care about doing the job right.\n\nThey don\u2019t just clean\u2026 they go above and beyond every single time.\n\nHands down the best cleaning service I\u2019ve ever had. If you\u2019ve been looking, this is your sign."
+          ]
+        },
+        "create_time": 1775314007.837526,
+        "id": "2e10e9b1-f11b-491b-a482-9b76b2cbc628",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "4b3dd6b2-4d3a-4a1c-9b7a-f019eacdc00f"
+        }
+      },
+      "parent": "bbb2106f-7c82-46ae-8263-b489e761365c"
+    },
+    "bbb2106f-7c82-46ae-8263-b489e761365c": {
+      "id": "bbb2106f-7c82-46ae-8263-b489e761365c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Make a short but effective post to advertise Trippy's cleaning service. Talk about how I rarely blast reviews but these gals are too good not to share. Affordable, reliable, honest, hardworking (make that word better) thorough and go above and beyond. Best I've ever had "
+          ]
+        },
+        "create_time": 1775314007.662114,
+        "id": "bbb2106f-7c82-46ae-8263-b489e761365c",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "2b74047f-02c7-4c63-ac09-a8797b809fd5"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Trippy's Cleaning Service Review",
+  "update_time": 1775314012.891057,
+  "voice": null
+}

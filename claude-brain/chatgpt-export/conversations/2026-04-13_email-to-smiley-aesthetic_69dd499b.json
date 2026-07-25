@@ -1,0 +1,112 @@
+{
+  "conversation_id": "69dd499b-71ac-83ea-a2d7-35b8155246fc",
+  "conversation_template_id": null,
+  "create_time": 1776109980.946826,
+  "current_node": "8e2b76e5-b359-4e4a-be02-119733a7ccfb",
+  "default_model_slug": "gpt-5-3",
+  "id": "69dd499b-71ac-83ea-a2d7-35b8155246fc",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "8e2b76e5-b359-4e4a-be02-119733a7ccfb": {
+      "id": "8e2b76e5-b359-4e4a-be02-119733a7ccfb",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Subject: Thursday Shoot Details + What to Expect \ud83d\udcab\n\nHi ladies,\n\nI\u2019m so excited to be coming in on Thursday, truly honored to have the opportunity to film inside your space. Everything I\u2019ve seen so far looks beautiful and I know this is going to turn out amazing.\n\nI wanted to send over a quick overview so you know exactly what to expect and how to prepare.\n\nWe\u2019ll be arriving around **1:15\u20131:30 PM** and plan to be there for about **45 minutes to 1 hour** depending on flow and timing. \ue200filecite\ue202turn0file0\ue201\n\n**What we\u2019ll be doing:**\nThis will be a very natural, unscripted shoot. Think of it more as capturing real moments versus anything staged. We\u2019ll be filming:\n- Me walking through the space\n- Interacting with you and your team\n- Light conversations, tours, and behind-the-scenes moments\n- General B-roll that highlights the vibe and experience of your spa\n\nNo pressure at all, I\u2019ll guide everything in the moment so it feels easy and organic.\n\n**What you\u2019ll need to do beforehand:**\n- Have the space clean, tidy, and photo-ready\n- Make sure anyone who may be on camera is camera-ready (hair/makeup done, etc.)\n- Staff can just be present and natural, no need to \u201cperform\u201d\n- No clients need to be filmed unless previously approved with consent forms\n\n**A few notes:**\n- We\u2019ll be mic\u2019d and capturing real interactions, nothing scripted\n- I\u2019ll be the main one on camera, with you all naturally included throughout\n- This content is meant to highlight both your space and my consulting work in a really elevated, authentic way\n\nIf you have any questions at all before Thursday, feel free to text or email me anytime.\n\nReally looking forward to meeting you in person and creating something beautiful together \ud83e\udd0d\n\nBethany"
+          ]
+        },
+        "create_time": 1776109980.83235,
+        "id": "8e2b76e5-b359-4e4a-be02-119733a7ccfb",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": null,
+              "cloud_doc_url": "",
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_0000000047f471f5a97efea310dcf341",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "f54bac72-7ef8-4a5b-a7fd-33bb72bea6a2",
+                "message_index": 0
+              },
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null
+              },
+              "name": "Pasted text.txt",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            }
+          ],
+          "model_slug": "gpt-5-3",
+          "parent_id": "6cd62fad-03a6-48dc-8d55-b156047e7831"
+        }
+      },
+      "parent": "b06bf472-4952-4082-a10b-291eea1c0e5c"
+    },
+    "b06bf472-4952-4082-a10b-291eea1c0e5c": {
+      "id": "b06bf472-4952-4082-a10b-291eea1c0e5c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "write and email to the Smiley Aesthetic girls about what to expect and what they need to do and when we would arrive: "
+          ]
+        },
+        "create_time": 1776109979.235,
+        "id": "b06bf472-4952-4082-a10b-291eea1c0e5c",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_0000000047f471f5a97efea310dcf341",
+              "is_big_paste": true,
+              "library_file_id": "libfile_a518fe6c6a0481919a4173d7024949a0",
+              "mime_type": "text/plain",
+              "name": "Pasted text(3).txt",
+              "size": 7703,
+              "source": "local"
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Email to Smiley Aesthetic",
+  "update_time": 1776110090.18314,
+  "voice": null
+}

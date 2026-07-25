@@ -1,0 +1,992 @@
+{
+  "conversation_id": "69e95c63-38b0-83ea-8651-e1b9cd6443fd",
+  "conversation_template_id": null,
+  "create_time": 1776901261.7914,
+  "current_node": "a779b59a-f638-4e90-831d-e4f93964de7f",
+  "default_model_slug": "gpt-5-3",
+  "id": "69e95c63-38b0-83ea-8651-e1b9cd6443fd",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "12d37511-6f6b-40f1-9d4a-1e14c19d4d76": {
+      "id": "12d37511-6f6b-40f1-9d4a-1e14c19d4d76",
+      "message": null,
+      "parent": null
+    },
+    "18303842-d3b0-469a-942c-db1ca12b7fa8": {
+      "id": "18303842-d3b0-469a-942c-db1ca12b7fa8",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "First, nothing in what you\u2019re describing automatically means you did anything wrong or that your surgery failed.\n\nWhat you\u2019re feeling is actually something many people experience after a **\ue200entity\ue202[\"medical_procedure\",\"C6-C7 discectomy\",\"cervical spine surgery\"]\ue201**, especially around the 3\u20136 week mark.\n\n---\n\n### Why the pain can come back (even after a \u201csuccessful\u201d surgery)\n\n#### 1. **Nerve irritation takes time to calm down**\n\ue200image_group\ue202{\"aspect_ratio\":\"1:1\",\"query\":[\"cervical nerve root inflammation diagram\",\"pinched nerve neck arm pain pathway\",\"spinal nerve healing inflammation illustration\"],\"num_per_query\":1}\ue201\nThe nerve that was compressed by the disc didn\u2019t instantly heal when the pressure was removed.\n\nThink of it like this:\n- The nerve was irritated for weeks or months before surgery  \n- Even after decompression, it can stay inflamed or \u201cangry\u201d  \n- As it wakes back up, it can send **pain, tingling, or numbness down the arm again**\n\nThis is often called **nerve rebound pain** and it can fluctuate.\n\n---\n\n#### 2. **Inflammation peaks a few weeks after surgery**\nAround week 3\u20135, it\u2019s common for:\n- Swelling in the surgical area to increase temporarily  \n- Scar tissue to begin forming  \n\nThis can mildly irritate the nerve again, even if the surgery itself went perfectly.\n\n---\n\n#### 3. **Nerve regeneration can feel worse before it feels better**\nAs the nerve heals, signals can be:\n- Misfiring  \n- Hypersensitive  \n\nThat\u2019s why medications like **\ue200entity\ue202[\"medication\",\"Pregabalin\",\"neuropathic pain medication\"]\ue201** are prescribed. They specifically calm nerve pain, not structural issues.\n\n---\n\n#### 4. **Your body is still stabilizing**\nAt 4 weeks:\n- Muscles are still weak or compensating  \n- Posture changes can stress the area  \n- Even small movements can temporarily flare symptoms  \n\nThis does **not** mean you damaged anything.\n\n---\n\n### What *doesn\u2019t* this automatically mean?\nBased on what you said:\n- Your X-rays look good  \n- Your surgeon is treating it as nerve pain (pregabalin)\n\nThat usually means:\n- No obvious hardware issue  \n- No clear structural failure  \n\nSo this **does not immediately point to a failed surgery**\n\n---\n\n### When to take it more seriously\nYou should contact your surgeon promptly if you notice:\n- Rapidly worsening weakness in the arm or hand  \n- Loss of coordination or dropping things  \n- Severe, unrelenting pain that doesn\u2019t respond to meds  \n- Fever or signs of infection  \n\n---\n\n### What this phase often looks like\nA very typical pattern:\n- Week 1\u20132: relief or different pain  \n- Week 3\u20136: flare-up or return of nerve symptoms  \n- Month 2\u20133: gradual improvement again  \n\nHealing nerves are slow. Sometimes **months**, not weeks.\n\n---\n\n### The honest bottom line\nYou didn\u2019t mess this up.\n\nWhat you\u2019re describing is **very consistent with nerve healing + inflammation**, especially after cervical spine surgery.\n\nBut your worry is valid. This is scary when symptoms come back.\n\n---\n\nIf you want, tell me:\n- What exact surgery you had (fusion vs disc replacement vs discectomy)\n- What your symptoms feel like (burning, numb, sharp, constant vs waves)\n\nI can help you map out whether what you\u2019re feeling is typical for your specific procedure and what to expect next."
+          ]
+        },
+        "create_time": 1776901261.72644,
+        "id": "18303842-d3b0-469a-942c-db1ca12b7fa8",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "C6-C7 discectomy",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "cervical spine surgery"
+              },
+              "id": null,
+              "metadata": null,
+              "name": "C6-C7 discectomy",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "C6-C7 discectomy",
+              "type": "entity"
+            },
+            {
+              "alt": null,
+              "prefix": null,
+              "prompt_text": null,
+              "type": "hidden"
+            },
+            {
+              "alt": "Pregabalin",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "neuropathic pain medication"
+              },
+              "id": null,
+              "metadata": null,
+              "name": "Pregabalin",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Pregabalin",
+              "type": "entity"
+            }
+          ],
+          "model_slug": "gpt-5-3",
+          "parent_id": "7d0d2ccf-4a44-4d64-8219-ee715f0ee452"
+        }
+      },
+      "parent": "bbb218df-061b-47bc-8411-666a22d4a1db"
+    },
+    "399ee997-c48e-415c-8fd6-0d830550b122": {
+      "id": "399ee997-c48e-415c-8fd6-0d830550b122",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "I\u2019m really glad you clarified. What you\u2019re describing lines up very closely with what we see after a **\ue200entity\ue202[\"medical_procedure\",\"C6-C7 artificial disc replacement\",\"cervical disc arthroplasty\"]\ue201**, especially around week 4.\n\nLet me break this down in a way that actually matches *your exact symptom pattern*.\n\n---\n\n## Why your specific pain pattern is happening\n\n### 1. The C6\u2013C7 nerve pathway explains *everything you\u2019re feeling*\n\ue200image_group\ue202{\"aspect_ratio\":\"1:1\",\"query\":[\"C6 C7 nerve distribution arm hand dermatome diagram\",\"cervical radiculopathy C6 C7 pain pattern shoulder blade arm\",\"trapezius bicep forearm nerve pathway illustration\"],\"num_per_query\":1}\ue201\n\nThe nerve at C6\u2013C7 travels through:\n- Side of neck  \n- Shoulder blade (scapula)  \n- Trapezius  \n- Bicep  \n- Forearm  \n- Wrist and into the hand  \n\nSo your symptoms are not random. They are following the exact nerve that was compressed before surgery.\n\n---\n\n### 2. You likely have a mix of **nerve pain + muscle guarding**\n\nWhat you described actually splits into two different things:\n\n**Nerve pain (radicular):**\n- Shooting, burning, tingling  \n- Travels down the arm into the hand  \n- That\u2019s why you\u2019re on **\ue200entity\ue202[\"medication\",\"Pregabalin\",\"neuropathic pain medication\"]\ue201**\n\n**Muscle pain (protective response):**\n- Tight trapezius  \n- Shoulder blade ache  \n- Bicep soreness  \n\nYour body is basically saying:\n> \u201cSomething was wrong here for a while, I\u2019m still protecting it.\u201d\n\n---\n\n### 3. Week 3\u20135 is a VERY common flare window\nThis is the part no one prepares people for:\n\nAt this stage:\n- Inflammation peaks again  \n- Nerves \u201cwake up\u201d and become hypersensitive  \n- Muscles tighten to protect the area  \n\nSo you can feel like:\n> \u201cWhy am I worse again if the surgery worked?\u201d\n\nBut this phase is actually *classic* after disc replacement.\n\n---\n\n### 4. Disc replacement adds motion back (which can irritate healing nerves)\nUnlike a fusion, your artificial disc:\n- Allows movement right away  \n- That movement can temporarily irritate a healing nerve  \n\nSo paradoxically:\n- The surgery is working mechanically  \n- But the nerve is still reactive to movement\n\n---\n\n## What this likely means (based on your description)\n\nThis pattern strongly suggests:\n- Ongoing nerve inflammation  \n- Muscle compensation and tightness  \n- NOT necessarily a failed surgery  \n\nEspecially since:\n- Imaging looks good  \n- Your surgeon put you on nerve medication (not rushing to re-operate)\n\n---\n\n## What would NOT be normal (important)\n\nWatch for these and call your surgeon if they happen:\n- New or worsening **weakness** (not just pain)  \n- Hand losing strength or coordination  \n- Symptoms suddenly becoming constant and unbearable  \n- Loss of sensation getting progressively worse  \n\nPain alone, even intense, is **much more common than failure**\n\n---\n\n## What tends to help in this phase\n\n(Not medical advice, just what\u2019s typically used in recovery)\n\n- Stay consistent with **\ue200entity\ue202[\"medication\",\"Pregabalin\",\"neuropathic pain medication\"]\ue201 (it takes time to build effect)  \n- Gentle movement, not complete rest  \n- Heat for muscle tightness (trapezius/shoulder blade)  \n- Avoid sudden neck strain or heavy lifting  \n- Physical therapy when cleared can be a turning point  \n\n---\n\n## The most important thing to hear right now\n\nYou didn\u2019t do anything wrong.\n\nYour symptoms:\n- Match the exact nerve pathway  \n- Match the exact timeline  \n- Match a very common post-op flare pattern  \n\nIt *feels* like something went wrong because the pain came back. But in many cases like this, it\u2019s the nerve healing process, not failure.\n\n---\n\nIf you want, I can help you map:\n- What the next 2\u20138 weeks usually look like  \n- What improvements to watch for  \n- How to tell the difference between healing vs something that needs escalation  \n\nYou\u2019re in one of the hardest mental parts of recovery right now."
+          ]
+        },
+        "create_time": 1776901390.852256,
+        "id": "399ee997-c48e-415c-8fd6-0d830550b122",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "C6-C7 artificial disc replacement",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "cervical disc arthroplasty"
+              },
+              "id": null,
+              "metadata": null,
+              "name": "C6-C7 artificial disc replacement",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "C6-C7 artificial disc replacement",
+              "type": "entity"
+            },
+            {
+              "alt": "![Image](https://images.openai.com/static-rsc-4/8DWclr9-mljkjusCFg0U46EOBOsg2irfaZ4DDOEEYxlBOY-mGvCmKOAcAm9TmQQOTNDKxplmkmiR9Az8iFy7Onn94McwyBiBMh-NGk_BNrxdUIFFx4y_wuyysnSmLMxdn6hWQrW8kmPO-5kE1Hi3w-DLKJOkopp7G0oSYTHeBkyBZ2K-B0OB-JO5TEpZeM37?purpose=fullsize)\n\n![Image](https://images.openai.com/static-rsc-4/PkksPSRkBbvZQFvkPW0pDbTPomZqUblKNrpZRE3dV6ShLlAvTKQDf0XC671ERkuuPsR-AN3RyIR9uNzUpq0yfuEJbUKaMbWDZdnOcTLHscGWGDHa9xe5Ix3mQ2nlxGVPn6X-iVzZ2kLzok9yqPseh2BBghHMbEXSWoYJVB-NgpED6hM2KhDtEy8l59E-qF8G?purpose=fullsize)\n\n![Image](https://images.openai.com/static-rsc-4/_TiYrYHVuqw4r-lOQ7v8Q1OoGK_6olRM_Z7DyqwCuhIud_0Wq_weADCkwN6xbCXwHEXhnB9U-mGwWtHLoAjFQHi1rp_vHxLwUZYvwPeMnsqso2GV6ogpon8bDCK-XcNstEPQskPKuWzU-XqT1tLW_g29rCtM5qaC0nrAhbkbP3zDd34LhyPt63zvdt-11413?purpose=fullsize)\n\n![Image](https://images.openai.com/static-rsc-4/LtaPay0T060G5c-Fk1noAS1vc2stXyfVfWRSNL5jYTB92yDqE1_9BuxAXXLi5WQzqAySspJpUdlkxnhdp0iApww8ivgoJTqt-1dlsVEiq6Yqee-rDzGAQql_z3fCgBNIomcohnN0hnnTaT69N2YqxHpbQM3sO9v9WvaEaZa9SYFYxYTVPThQIsj8bhdt6dFR?purpose=fullsize)\n\n![Image](https://images.openai.com/static-rsc-4/dbahy75mzgfa8F5lJjP6FBPBGtjmPGNOWbWfs86JwtQsZDbTr37j829U7sQC6Za0o9Wgm2BupjU-IYdYoIihYVe-zdscd9ez1c793LMjhQhSJLuHvwkhwDXjG3G1Ax71UifEhOhnwb5fXZBgq9ctqMSuo7WwdKrjlJxKfoImkCXjpwow9HU08zD77uYvc3Ll?purpose=fullsize)\n\n![Image](https://images.openai.com/static-rsc-4/9hKJPRFwBocsKZcckrIeYN_FsIp9oYBTQiawQXdaOvHSYd-u0uNvgbfV5tIkQnBfZYvGmEqk56UbxeSn4-EtyUdesYORaj4C3J1jPCVZ0R7yTIqRXwfCyJHbyw-x0eSyZegoWhS905oRQWE2zQjSLjzhI2mtq95QhKUU3i3YbID2GsfefWj829vOvw7dLVah?purpose=fullsize)",
+              "images": [
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 533,
+                      "width": 800
+                    },
+                    "content_url": "https://images.openai.com/static-rsc-4/8DWclr9-mljkjusCFg0U46EOBOsg2irfaZ4DDOEEYxlBOY-mGvCmKOAcAm9TmQQOTNDKxplmkmiR9Az8iFy7Onn94McwyBiBMh-NGk_BNrxdUIFFx4y_wuyysnSmLMxdn6hWQrW8kmPO-5kE1Hi3w-DLKJOkopp7G0oSYTHeBkyBZ2K-B0OB-JO5TEpZeM37?purpose=fullsize",
+                    "original_content_url": "https://woodroofchiro.com/df_media/W1siZiIsIjIwMjYvMDEvMjAvMTgvNTMvMTEvMmVlNWZkMzYtZTI0Yy00ZTNjLTgwZTQtNTUyMGM2Y2M3MWYyL2FybS1wYWluLWZyb20tbmVjay1jZXJ2aWNhbC1yYWRpY3Vsb3BhdGh5LWRpYWdyYW0td29vZHJvb2YtY2hpcm9wcmFjdGljLmpwZyJdLFsicCIsInRodW1iIiwiMTUwMHg3ODRcdTAwM2UiXV0/arm-pain-from-neck-cervical-radiculopathy-diagram-woodroof-chiropractic.jpg?sha=0ed59e298a459df0",
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.5825,
+                      "center_y_percent": 0.150093808630394
+                    },
+                    "thumbnail_render_mode": "thumbnail_only",
+                    "thumbnail_size": {
+                      "height": 533,
+                      "width": 800
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-4/1EHSrAKv90BZXuZ47Xvh5CBkAccP4_Wvb9vBKb2TNWyYRjXLmZnjBa8wnYZr_GHKZvM0UJf0wlaqABU2IEdKTlClMZQ5XxlExclQQ3CjzXOaOxKJ6RiRDSqExmkcqKD4nhMHBTDfgkK2tkwG-cGj7gXgvIdL-sldp-2YKLNJegM?purpose=inline",
+                    "title": "Arm Pain From Your Neck Relief | Chiropractor in Olathe",
+                    "url": "https://woodroofchiro.com/blog/understanding-arm-pain-that-is-coming-from-your-neck?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "cervical radiculopathy C6 C7 pain pattern shoulder blade arm",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 388,
+                      "width": 410
+                    },
+                    "content_url": "https://images.openai.com/static-rsc-4/PkksPSRkBbvZQFvkPW0pDbTPomZqUblKNrpZRE3dV6ShLlAvTKQDf0XC671ERkuuPsR-AN3RyIR9uNzUpq0yfuEJbUKaMbWDZdnOcTLHscGWGDHa9xe5Ix3mQ2nlxGVPn6X-iVzZ2kLzok9yqPseh2BBghHMbEXSWoYJVB-NgpED6hM2KhDtEy8l59E-qF8G?purpose=fullsize",
+                    "original_content_url": "https://www.docjoints.com/wp-content/uploads/2017/09/c6-dermatome-pain.jpg",
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.1,
+                      "center_y_percent": 0.9742268041237113
+                    },
+                    "thumbnail_render_mode": "thumbnail_only",
+                    "thumbnail_size": {
+                      "height": 388,
+                      "width": 410
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-4/1sOfrd3pGwhQh1Kz8nUMFCYv9EPJ88lIvJR69C4aEyBEPian1vllxmNrEE6RFQU9LceZewFjQUcWGeKvzBd0S8GvDA7rQ3uBKIdQ-RI5a7Fs89iGhd2wHak1LBcJscw-LfXJhQheDtJ8WS8HZFNKOY3Qqnhh4tC3wdF7R59y3Rg?purpose=inline",
+                    "title": "c6 dermatome pain - Docjoints | Dr. Sujit Jos \u2013 Expert Shoulder, Knee & Hip Surgeon in Kochi, Kerala",
+                    "url": "https://www.docjoints.com/neck/c6-dermatome-pain/?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "C6 C7 nerve distribution arm hand dermatome diagram",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 550,
+                      "width": 880
+                    },
+                    "content_url": "https://images.openai.com/static-rsc-4/_TiYrYHVuqw4r-lOQ7v8Q1OoGK_6olRM_Z7DyqwCuhIud_0Wq_weADCkwN6xbCXwHEXhnB9U-mGwWtHLoAjFQHi1rp_vHxLwUZYvwPeMnsqso2GV6ogpon8bDCK-XcNstEPQskPKuWzU-XqT1tLW_g29rCtM5qaC0nrAhbkbP3zDd34LhyPt63zvdt-11413?purpose=fullsize",
+                    "original_content_url": "https://www.jaseng.org/files/imageView.do?key=bfc3ea7c-1d79-46cc-9104-feea98dcd058",
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.24886363636363637,
+                      "center_y_percent": 0.1709090909090909
+                    },
+                    "thumbnail_render_mode": "thumbnail_only",
+                    "thumbnail_size": {
+                      "height": 550,
+                      "width": 880
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-4/6H1FBD-806PqPYnUnh_IUQM_mPZuTrtWMLQb2OUjY1C69yPx_lB4FdZ3POTdeXqZ3U7H1C0wUkgYr4QRmaasAhLpxHipWqHaSLfpd1Q8j8DCVrRW4eVOPTX7wE9V8XakG1i_pBuH7V06G1YddifUT2CQZ06wKUjLZ7omhPGY9N4?purpose=inline",
+                    "title": "\ufffd\u06bb\ufffd\ufffd\u0479\u6eb4\ufffd\ufffd \ufffd\ufffd\ufffd\ufffd\ufffd\u04bd\ufffd \ufffd\u06bb\ufffd\ufffd\u04bd\ufffd \ufffd\u0233\ufffd  | \ufffd\ufffd\ufffd\ufffd\ufffd\u06bb\ufffd\ufffd\u0479\u6eb4\ufffd\ufffd",
+                    "url": "https://www.jaseng.co.kr/hospitalinfo/news/totalView.asp?Location_Branch_Code=10012&Page=1&idx=742&p=m&schB=10012&type=visual&utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "cervical radiculopathy C6 C7 pain pattern shoulder blade arm",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 325,
+                      "width": 477
+                    },
+                    "content_url": "https://images.openai.com/static-rsc-4/LtaPay0T060G5c-Fk1noAS1vc2stXyfVfWRSNL5jYTB92yDqE1_9BuxAXXLi5WQzqAySspJpUdlkxnhdp0iApww8ivgoJTqt-1dlsVEiq6Yqee-rDzGAQql_z3fCgBNIomcohnN0hnnTaT69N2YqxHpbQM3sO9v9WvaEaZa9SYFYxYTVPThQIsj8bhdt6dFR?purpose=fullsize",
+                    "original_content_url": "https://www.aafp.org/content/dam/brand/aafp/pubs/afp/issues/2000/1101/p2067-f1.jpg",
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.24109014675052412,
+                      "center_y_percent": 0.12307692307692308
+                    },
+                    "thumbnail_render_mode": "thumbnail_only",
+                    "thumbnail_size": {
+                      "height": 325,
+                      "width": 477
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-4/cmqSrwfFcfY0hHnqyizNMvoKeSr3qZrlaQyoM9m0mh4Vnisukf6PiIhWwwByWSoHpn1fxEXimdU19BbupCM0RuVE07KrQN-ymxFHIm9KTztkSectk1KgDk2EgWadcYHK4VI_Jzit2RY7IFPucpSnfbod3f9us0-Jdd4u9pYzJrc?purpose=inline",
+                    "title": "Acute Brachial Plexus Neuritis: An Uncommon Cause of Shoulder Pain | AAFP",
+                    "url": "https://www.aafp.org/pubs/afp/issues/2000/1101/p2067.html?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "trapezius bicep forearm nerve pathway illustration",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 495,
+                      "width": 828
+                    },
+                    "content_url": "https://images.openai.com/static-rsc-4/dbahy75mzgfa8F5lJjP6FBPBGtjmPGNOWbWfs86JwtQsZDbTr37j829U7sQC6Za0o9Wgm2BupjU-IYdYoIihYVe-zdscd9ez1c793LMjhQhSJLuHvwkhwDXjG3G1Ax71UifEhOhnwb5fXZBgq9ctqMSuo7WwdKrjlJxKfoImkCXjpwow9HU08zD77uYvc3Ll?purpose=fullsize",
+                    "original_content_url": "https://www.orchardhealthclinic.com/wp-content/uploads/2020/08/OHC-Truths-03-Is-Your-Arm-Pain-Actually-A-Neck-Problem-Cervical-Radiculopathy.webp",
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.4758454106280193,
+                      "center_y_percent": 0.026262626262626262
+                    },
+                    "thumbnail_render_mode": "thumbnail_only",
+                    "thumbnail_size": {
+                      "height": 495,
+                      "width": 828
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-4/MfYMyQng01zPk-qkIXRRABoqS-BazyvrA7z0rYJnMHFmCWREpBZ8zqhQKbXNnHxxSerThcvlBaArXSKf27koBWX99fzwMr5tNVLf6iL0UrM3FvPE8yTViUlz934BBlbJomP0FaBqGIVIzfLG-VCtXOgWcqVAMHxzSrjkyrYG8eM?purpose=inline",
+                    "title": "Cervical Radiculopathy | Orchard Health Clinic - Osteopathy, Physiotherapy and Chiropractic",
+                    "url": "https://www.orchardhealthclinic.com/ohc-truths-03-is-your-arm-pain-actually-a-neck-problem/?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "cervical radiculopathy C6 C7 pain pattern shoulder blade arm",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 515,
+                      "width": 387
+                    },
+                    "content_url": "https://images.openai.com/static-rsc-4/9hKJPRFwBocsKZcckrIeYN_FsIp9oYBTQiawQXdaOvHSYd-u0uNvgbfV5tIkQnBfZYvGmEqk56UbxeSn4-EtyUdesYORaj4C3J1jPCVZ0R7yTIqRXwfCyJHbyw-x0eSyZegoWhS905oRQWE2zQjSLjzhI2mtq95QhKUU3i3YbID2GsfefWj829vOvw7dLVah?purpose=fullsize",
+                    "original_content_url": "https://backcareclinic.co.uk/wp-content/uploads/2022/11/Cervical-Radiculopathy-and-Radiation-of-Pain-in-the-arm.jpg",
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.1834625322997416,
+                      "center_y_percent": 0.0912621359223301
+                    },
+                    "thumbnail_render_mode": "thumbnail_only",
+                    "thumbnail_size": {
+                      "height": 515,
+                      "width": 387
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-4/-TY9oaIwPf5ZiKY6qkwjnFRfRsgf1al2uVHWRN7vqUBKxATS7CnRXCNo1MYN9uVBBpSyeUX6EsXCIbKOnur9Kb5oLelq2CLNpHQ3UkSJeTyr-Uzke4POVFJHFqF3yrGDK9LM4_yAnLi-65TSwCJN48D0TAPynasbP_BRThUTJws?purpose=inline",
+                    "title": "Neck & Arm Pain - Back Care Clinic",
+                    "url": "https://backcareclinic.co.uk/back-pain/neck-arm/?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "cervical radiculopathy C6 C7 pain pattern shoulder blade arm",
+                  "image_search_system": null
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "image_group"
+            },
+            {
+              "alt": "Pregabalin",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "neuropathic pain medication"
+              },
+              "id": null,
+              "metadata": null,
+              "name": "Pregabalin",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Pregabalin",
+              "type": "entity"
+            },
+            {
+              "alt": "Pregabalin",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "neuropathic pain medication"
+              },
+              "id": null,
+              "metadata": null,
+              "name": "Pregabalin",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Pregabalin",
+              "type": "entity"
+            }
+          ],
+          "model_slug": "gpt-5-3",
+          "parent_id": "bbb21e2a-e311-4f56-a68e-24015244b364"
+        }
+      },
+      "parent": "bbb21e2a-e311-4f56-a68e-24015244b364"
+    },
+    "a779b59a-f638-4e90-831d-e4f93964de7f": {
+      "id": "a779b59a-f638-4e90-831d-e4f93964de7f",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "I\u2019m really sorry you\u2019re in this much pain. What you\u2019re describing feels scary, especially when it\u2019s **worse than before surgery**. I\u2019m going to be very direct with you so you know what\u2019s likely normal and what needs attention.\n\n---\n\n## First, the honest answer  \n**Severe nerve pain at 4 weeks after a** \ue200entity\ue202[\"medical_procedure\",\"C6-C7 artificial disc replacement\",\"cervical disc arthroplasty\"]\ue201 **can happen.**  \nBut the intensity you\u2019re describing, especially:\n- waking up with intense arm pain  \n- wrist and hand aching all day  \n- numbness that doesn\u2019t let up  \n\nmeans you\u2019re in a **high inflammation / nerve flare state**, not a simple mild recovery phase.\n\nThat still does **not automatically mean the surgery failed**.\n\n---\n\n## Why mornings are the WORST (this is very common)\n\n\ue200image_group\ue202{\"aspect_ratio\":\"1:1\",\"query\":[\"cervical nerve compression sleeping position arm numbness diagram\",\"sleep posture neck alignment pillow cervical spine\",\"nerve inflammation overnight swelling arm pain morning\"],\"num_per_query\":1}\ue201\n\nA few things stack up overnight:\n\n- Nerve swells slightly when you\u2019re lying down  \n- Neck position during sleep can irritate the nerve  \n- Muscles stiffen and tighten  \n- No movement for hours = nerve gets \u201cangrier\u201d  \n\nThat\u2019s why people often say:\n> \u201cMorning is unbearable, then it slightly loosens during the day\u201d\n\n---\n\n## Why it can feel worse than before surgery\n\nThis part is important:\n\nBefore surgery:\n- The nerve was compressed and \u201cquietly irritated\u201d\n\nAfter surgery:\n- The pressure is gone  \n- BUT the nerve is now **awake, inflamed, and hypersensitive**\n\nSo it can feel:\n> louder, sharper, more widespread\n\nThis is where medications like **\ue200entity\ue202[\"medication\",\"Pregabalin\",\"neuropathic pain medication\"]\ue201** come in, but\u2026\n\n---\n\n## Your medication situation matters here\n\nYou said:\n- Pregabalin makes you feel \u201cstupid\u201d and you can\u2019t drive  \n- You\u2019re weaning off **\ue200entity\ue202[\"medication\",\"Hydrocodone\",\"opioid pain medication\"]\ue201**  \n- Pain is still intense  \n\nThat combination can leave you in a gap where:\n- Nerve pain isn\u2019t fully controlled  \n- You\u2019re losing opioid support  \n- Side effects limit function  \n\n\ud83d\udc49 This is **very fixable**, but it requires your surgeon to adjust the plan.\n\n---\n\n## This is the key point  \nYou are not expected to just \u201cpush through\u201d pain like this.\n\nThere are **other options** your surgeon can consider:\n- Adjusting dose or timing of pregabalin  \n- Switching to a different nerve medication  \n- Short course of steroids (to calm inflammation)  \n- Muscle relaxers (for trapezius/shoulder tension)  \n\n---\n\n## What your current symptoms suggest\n\nBased on everything you said:\n- Strong nerve inflammation  \n- Muscle guarding  \n- Possible sleep-position aggravation  \n\nNOT immediately:\n- hardware failure  \n- surgical failure  \n\nEspecially since your imaging looked good.\n\n---\n\n## When this crosses from \u201cnormal\u201d to \u201ccall them now\u201d\n\nI would **not wait on this**. Contact your surgeon or their office and say exactly this:\n\n> \u201cMy arm pain and hand numbness are severe, worse than before surgery, and not controlled with my current medications.\u201d\n\nThat is a **reasonable and appropriate call at 4 weeks**.\n\n---\n\n## What you can try tonight (small but helpful)\n\n- Sleep on your back if possible  \n- Keep neck neutral (not tilted)  \n- Support your arm with a pillow (this is huge)  \n- Avoid letting your arm hang or pull downward  \n- Heat on shoulder blade/trap before bed  \n\n---\n\n## The most important thing to hear\n\nYou did **not** mess this up.  \nAnd this does **not automatically mean the surgery didn\u2019t work**.\n\nBut your level of pain:\n> deserves adjustment and support, not endurance.\n\n---\n\nIf you want, I can help you:\n- Write exactly what to say to your surgeon so they take this seriously  \n- Or help you figure out better sleep positioning step-by-step  \n\nYou\u2019re in a really tough part of recovery right now. You don\u2019t have to white-knuckle it like this."
+          ]
+        },
+        "create_time": 1777212003.100095,
+        "id": "a779b59a-f638-4e90-831d-e4f93964de7f",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "C6-C7 artificial disc replacement",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "cervical disc arthroplasty"
+              },
+              "id": null,
+              "metadata": null,
+              "name": "C6-C7 artificial disc replacement",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "C6-C7 artificial disc replacement",
+              "type": "entity"
+            },
+            {
+              "alt": "![Image](https://images.openai.com/static-rsc-4/PhJ4R3BAWXfzNPzMLNN52LMKozRsnGKIYkuqDSVgv8qQIe7AgODb3BC_NL_oP9EjV1zKAluwxGTxlyHgLSkMnGA1AZrFOW9LWgWRYFJu1Nf720U1_6TIS-X5Rj5hpcXyxohk96cZdassXa6GWQZBOOijAsULVsBU_7VsAMFB2x6Z0jY1olzKV7OI0Oun4QKF?purpose=fullsize)\n\n![Image](https://images.openai.com/static-rsc-4/KL56PH5eGA-Th-JgA7x8Jbu041M3qQ2RU-tFFLkF5iDuVlrD1MABHmutubuH80FG2Woxr1NmwzrdUwKTh2k2VZ1Jf-OgwMLxM3d4HV8m9N9a6GYuP5uIaNlX5on_9_MGhn7eLVCiQFhm6Lbeb1Uk6tP_Jj4kozmErcGd3sggPR2iiCnv77N-ISiV9BF5v4jh?purpose=fullsize)\n\n![Image](https://images.openai.com/static-rsc-4/Gm6ql6tJDOrzNSTyFcy1jfgONRhC-2EsJNgqT3ElvcsKapqFnz2I3C31tMS92OvzUXTDEK9Id0zSHGJZ8FEnXzfc4NOhmpKjckrRZaM5czReiewpysBb5vj6HAKYnlFLvww0akPWzjRp1gik057DHVAN6OeA23tf1vDUgZ70f9BV5-Ll3LzEeMSX9w2VEDd1?purpose=fullsize)\n\n![Image](https://images.openai.com/static-rsc-4/tAzhk-Dux5u8p6Qmbj-Ph_jthwdSl1knloROlNQWzTuTYO8oNXNokSRwL10iaDqUv5_ucfI3QT4smWT5uXBuSqR66h3sS-yp4vtOjXd0sBwSJB4wLocfSbUXhf1VdCCvbMWh1FxgOswoUpulIEuLW2z7-NsGlmJVwDlinPs23ehavjLCr3cs-Oj-d8XAw8PH?purpose=fullsize)",
+              "images": [
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 780,
+                      "width": 1170
+                    },
+                    "content_url": "https://images.openai.com/static-rsc-4/PhJ4R3BAWXfzNPzMLNN52LMKozRsnGKIYkuqDSVgv8qQIe7AgODb3BC_NL_oP9EjV1zKAluwxGTxlyHgLSkMnGA1AZrFOW9LWgWRYFJu1Nf720U1_6TIS-X5Rj5hpcXyxohk96cZdassXa6GWQZBOOijAsULVsBU_7VsAMFB2x6Z0jY1olzKV7OI0Oun4QKF?purpose=fullsize",
+                    "original_content_url": "https://www.bannerhealth.com/healthcareblog/-/media/images/project/healthcareblog/hero-images/2025/02/arm_numbness_while_sleeping.jpg",
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.6692307692307692,
+                      "center_y_percent": 0.35
+                    },
+                    "thumbnail_render_mode": "thumbnail_only",
+                    "thumbnail_size": {
+                      "height": 780,
+                      "width": 1170
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-4/VNJCQM0Hr_Jxcho4JOk5_wKk2jj5TpwIvAdKLfy-SYWVVXmB8X2hGJiPK_9qm5IQ9HAGz3aRxiRg1WBNP4yPx_iMVy3S83vZMnP4VZKVeKyS9IiXTq50qJbYlo6L6l7OR8gi9fnMATEkFN2sv_bxzyHqgtoXhSrnij0d4dIpk3U?purpose=inline",
+                    "title": "How To Prevent Your Arms From Falling Asleep at Night | Banner",
+                    "url": "https://www.bannerhealth.com/healthcareblog/teach-me/how-to-prevent-your-arms-from-falling-asleep-at-night?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "cervical nerve compression sleeping position arm numbness diagram",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 1152,
+                      "width": 2048
+                    },
+                    "content_url": "https://images.openai.com/static-rsc-4/KL56PH5eGA-Th-JgA7x8Jbu041M3qQ2RU-tFFLkF5iDuVlrD1MABHmutubuH80FG2Woxr1NmwzrdUwKTh2k2VZ1Jf-OgwMLxM3d4HV8m9N9a6GYuP5uIaNlX5on_9_MGhn7eLVCiQFhm6Lbeb1Uk6tP_Jj4kozmErcGd3sggPR2iiCnv77N-ISiV9BF5v4jh?purpose=fullsize",
+                    "original_content_url": null,
+                    "scores": null,
+                    "show_url": false,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.4921875,
+                      "center_y_percent": 0.1736111111111111
+                    },
+                    "thumbnail_render_mode": "thumbnail_only",
+                    "thumbnail_size": {
+                      "height": 860,
+                      "width": 1529
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-4/X75BTuQGbosGmXfL7pNfA3VVauXHlJZYyp5md33zcFMQv5ioA6PRYT43scO6k3h5dOP-QT_xN2YsO5bzBy-KdRUsxf42cqGDSPRS2UCN-Ii6VjwXgYxtvmhgy7HRY7VJVMMiWj4xhr46n-rKqgAS3SgoiX8_vPd3vN4bPFvXav7eInOGN9h8C2CRR-_7jdz1?purpose=inline",
+                    "title": "Cervical Nerve Leading to Radiating Neck and Arm Pain",
+                    "url": "https://media.gettyimages.com/id/2231058056/photo/cervical-nerve-leading-to-radiating-neck-and-arm-pain.jpg?b=1&c=shkAD-M0GvYcF_u2EjrFRajWbeziNQgCVTqNjVC3bNk%3D&k=20&s=612x612&w=0&utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "cervical nerve compression sleeping position arm numbness diagram",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 750,
+                      "width": 750
+                    },
+                    "content_url": "https://images.openai.com/static-rsc-4/Gm6ql6tJDOrzNSTyFcy1jfgONRhC-2EsJNgqT3ElvcsKapqFnz2I3C31tMS92OvzUXTDEK9Id0zSHGJZ8FEnXzfc4NOhmpKjckrRZaM5czReiewpysBb5vj6HAKYnlFLvww0akPWzjRp1gik057DHVAN6OeA23tf1vDUgZ70f9BV5-Ll3LzEeMSX9w2VEDd1?purpose=fullsize",
+                    "original_content_url": "https://www.juststroll.com/cdn/shop/files/juststrollcervicalpillowneckalignment.jpg?v=1721939987&width=900",
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.29733333333333334,
+                      "center_y_percent": 0.08533333333333333
+                    },
+                    "thumbnail_render_mode": "thumbnail_only",
+                    "thumbnail_size": {
+                      "height": 750,
+                      "width": 750
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-4/k-TDkxEh4hQ6xMvvpx9wwg9HFuwiewtMPiPUNkNwQwRcoSChnFk0A7UwQIXEfc3fS9iDKP5PyumhJ2n9A5nlPgSWaOMgUrb8YNaNKQAuyZzdD_PT5lfXH1HPuLR82dThgLEl7-9XAKkvTW-0tr7SkqJW0v9tyWzCVLw99pv6CAU?purpose=inline",
+                    "title": "Cervical Pillow For Neck Pain, Cervical Pillow, Cervical Neck Pillow For Sleeping, Neck Pain Relief Pillow, Memory Foam Pillow\n\u2013 JustStroll",
+                    "url": "https://www.juststroll.com/products/sootheserenity-ergonomic-cervical-pillow?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "sleep posture neck alignment pillow cervical spine",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 1500,
+                      "width": 1500
+                    },
+                    "content_url": "https://images.openai.com/static-rsc-4/tAzhk-Dux5u8p6Qmbj-Ph_jthwdSl1knloROlNQWzTuTYO8oNXNokSRwL10iaDqUv5_ucfI3QT4smWT5uXBuSqR66h3sS-yp4vtOjXd0sBwSJB4wLocfSbUXhf1VdCCvbMWh1FxgOswoUpulIEuLW2z7-NsGlmJVwDlinPs23ehavjLCr3cs-Oj-d8XAw8PH?purpose=fullsize",
+                    "original_content_url": "https://sleepingexpert.net/wp-content/uploads/2024/02/cervical-pillow-for-neck-pain-relief-neck-pillows-for-pain-relief-sleeping-pillow-for-neck-and-shoulder-pain-memory-foam-3.jpg",
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.2853333333333333,
+                      "center_y_percent": 0.07533333333333334
+                    },
+                    "thumbnail_render_mode": "thumbnail_only",
+                    "thumbnail_size": {
+                      "height": 1024,
+                      "width": 1024
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-4/8onCfDIp9cP5t3xHI18y0Hl0kTlNvHMRbGFGkR3V8kPsRD0zR-A6v-E1q8h4E55R55IweOtrLfGaNbakJHby2I6X8AvBrTBzuXTky8QQ19rUKWz3TY80GpBqeTbkqvWewcSfH6TECe4fAA-wG9y6CJkXaDTrafE2aDmXeBVylzM?purpose=inline",
+                    "title": "Tomvoc Cervical Pillow for Neck Pain Relief Review | Sleeping Expert",
+                    "url": "https://sleepingexpert.net/cervical-pillow-review/?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "sleep posture neck alignment pillow cervical spine",
+                  "image_search_system": null
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "image_group"
+            },
+            {
+              "alt": "Pregabalin",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "neuropathic pain medication"
+              },
+              "id": null,
+              "metadata": null,
+              "name": "Pregabalin",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Pregabalin",
+              "type": "entity"
+            },
+            {
+              "alt": "Hydrocodone",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "opioid pain medication"
+              },
+              "id": null,
+              "metadata": null,
+              "name": "Hydrocodone",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Hydrocodone",
+              "type": "entity"
+            }
+          ],
+          "model_slug": "gpt-5-3",
+          "parent_id": "00c44f89-4e67-489b-a4d0-cc299845c6b9"
+        }
+      },
+      "parent": "bbb215a2-b834-4403-a683-56e1fd04b1d3"
+    },
+    "bbb21058-424b-4929-85eb-fd824e9f8c91": {
+      "id": "bbb21058-424b-4929-85eb-fd824e9f8c91",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "What does the next 2 to 8 weeks usually look like"
+          ]
+        },
+        "create_time": 1776901509.279717,
+        "id": "bbb21058-424b-4929-85eb-fd824e9f8c91",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "399ee997-c48e-415c-8fd6-0d830550b122"
+    },
+    "bbb215a2-b834-4403-a683-56e1fd04b1d3": {
+      "id": "bbb215a2-b834-4403-a683-56e1fd04b1d3",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "My arm hurts so bad when I wake up. My wrist is painful hand numb and aches all day\n They gave me pregabalin but it makes me stupid and I can't drive. She has me weening of the hydrocodone but I'm still in so much pain \ud83d\ude2d is this normal. It's worse than prior to surgery "
+          ]
+        },
+        "create_time": 1777212002.76609,
+        "id": "bbb215a2-b834-4403-a683-56e1fd04b1d3",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "d7589bea-cf5c-4904-9137-101012c12d36"
+    },
+    "bbb218df-061b-47bc-8411-666a22d4a1db": {
+      "id": "bbb218df-061b-47bc-8411-666a22d4a1db",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "I am post c6c7 removal of herniated disc surgery week 4. My entire left arm is numb and in pain again. My surgeon has put me back on pregabalin and painkillers. All of the X-rays have shown that it was looks successful surgery. Why am I in so much pain all over again? What did I do wrong. Was the surgery not successful. I'm worried"
+          ]
+        },
+        "create_time": 1776901261.571939,
+        "id": "bbb218df-061b-47bc-8411-666a22d4a1db",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "12d37511-6f6b-40f1-9d4a-1e14c19d4d76"
+    },
+    "bbb21e2a-e311-4f56-a68e-24015244b364": {
+      "id": "bbb21e2a-e311-4f56-a68e-24015244b364",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Disc replacement pain in left side of neck pain in left shoulder blade. Muscle pain in left arm and nerve pain in left trapezoid bicep, wrist and hand"
+          ]
+        },
+        "create_time": 1776901390.670067,
+        "id": "bbb21e2a-e311-4f56-a68e-24015244b364",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "18303842-d3b0-469a-942c-db1ca12b7fa8"
+    },
+    "d7589bea-cf5c-4904-9137-101012c12d36": {
+      "id": "d7589bea-cf5c-4904-9137-101012c12d36",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "What you\u2019re in right now is often the **hardest and most confusing stretch** of recovery. The next 2\u20138 weeks are less about \u201cinstant relief\u201d and more about **gradual calming of the nerve + unwinding of muscle tension**.\n\nI\u2019ll walk you through what this *typically* looks like after a **\ue200entity\ue202[\"medical_procedure\",\"C6-C7 artificial disc replacement\",\"cervical disc arthroplasty\"]\ue201** so you know what\u2019s normal and what to watch for.\n\n---\n\n# Weeks 4\u20136: The \u201cflare + frustration\u201d phase\n\ue200image_group\ue202{\"aspect_ratio\":\"1:1\",\"query\":[\"cervical spine post surgery inflammation healing phase illustration\",\"neck muscle spasm trapezius tightness diagram\",\"nerve inflammation flare recovery timeline\"],\"num_per_query\":1}\ue201\n\nThis is likely where you are right now.\n\n### What you may feel:\n- Return of **nerve pain down the arm** (burning, tingling, zapping)\n- **Deep ache in shoulder blade and trapezius**\n- Muscle tightness that feels like it spreads into bicep/forearm  \n- Symptoms that **come and go**, sometimes worse than earlier weeks  \n\n### What\u2019s actually happening:\n- Nerve is still inflamed and hypersensitive  \n- Muscles are guarding and overworking  \n- Your new disc is allowing motion, which can irritate a healing nerve temporarily  \n\n### The mental trap:\nIt feels like:\n> \u201cI was better\u2026 now I\u2019m worse\u2026 something must be wrong.\u201d\n\nBut this phase is **very common** and doesn\u2019t mean failure.\n\n---\n\n# Weeks 6\u20138: The \u201cturning point\u201d phase\n\ue200image_group\ue202{\"aspect_ratio\":\"1:1\",\"query\":[\"nerve healing gradual improvement illustration cervical radiculopathy recovery\",\"neck mobility improvement physical therapy cervical spine\",\"post surgery recovery progress timeline graph nerve pain decreasing\"],\"num_per_query\":1}\ue201\n\nThis is where most people start noticing a shift.\n\n### What usually changes:\n- Pain becomes **less constant**\n- Nerve symptoms turn into **intermittent flare-ups instead of nonstop**\n- Muscle tightness is still there but **more manageable**\n- You may start having **good days mixed with bad days**\n\n### A key sign of progress:\n> The pain moves, changes, or shortens in duration\n\nThat\u2019s actually a good sign the nerve is calming down.\n\n---\n\n# Weeks 8\u201312 (just ahead of you, but important)\nThis is where:\n- Nerve irritation continues to decrease  \n- Strength and confidence start coming back  \n- Physical therapy (if not already started) really begins to help  \n\nFull nerve recovery can take **3\u20136+ months**, sometimes longer.\n\n---\n\n# What improvement actually looks like (realistically)\n\nNot this:\n\u274c \u201cPain disappears and stays gone\u201d\n\nMore like this:\n\u2714 Pain goes from constant \u2192 intermittent  \n\u2714 Intensity slowly decreases  \n\u2714 Flare-ups get shorter  \n\u2714 You have moments where you forget about it  \n\n---\n\n# What helps you get through this phase\n\n### 1. Stay consistent with nerve support\nMedications like **\ue200entity\ue202[\"medication\",\"Pregabalin\",\"neuropathic pain medication\"]\ue201**:\n- Don\u2019t work instantly  \n- Build effect over time  \n- Help calm that \u201cangry nerve\u201d feeling  \n\n---\n\n### 2. Gentle movement > total rest\n- Short walks  \n- Light daily movement  \n- Avoid staying completely still (that worsens stiffness)\n\n---\n\n### 3. Address the muscle side\nYour trapezius and shoulder blade pain is **real and secondary**:\n- Heat can help  \n- Gentle stretching (when cleared)  \n- Eventually PT will target this directly  \n\n---\n\n### 4. Expect emotional ups and downs\nThis phase often brings:\n- Anxiety (\u201cdid it fail?\u201d)  \n- Frustration  \n- Hyper-awareness of every sensation  \n\nThat\u2019s normal. You\u2019re not overreacting.\n\n---\n\n# When to call your surgeon (just to be safe)\n\nReach out if you notice:\n- **True weakness** (not just pain limiting movement)  \n- Hand losing grip strength  \n- Symptoms rapidly getting worse instead of fluctuating  \n- New areas of numbness spreading  \n\n---\n\n# The most important takeaway\n\nRight now your body is in:\n> **Inflamed nerve + protective muscle phase**\n\nOver the next 2\u20138 weeks, the goal is:\n> **Calm \u2192 stabilize \u2192 gradually improve**\n\nAnd based on everything you\u2019ve told me, your symptoms:\n- Match the nerve pathway  \n- Match the timing  \n- Match a very typical recovery curve  \n\n---\n\nIf you want, I can also tell you:\n- How to tell the difference between nerve pain vs muscle pain in real time  \n- What a \u201cgood sign\u201d vs \u201cred flag\u201d feels like day-to-day  \n- Or what PT usually looks like for this exact situation  \n\nYou\u2019re in the thick of it right now, but this phase does pass."
+          ]
+        },
+        "create_time": 1776901509.494471,
+        "id": "d7589bea-cf5c-4904-9137-101012c12d36",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "C6-C7 artificial disc replacement",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "cervical disc arthroplasty"
+              },
+              "id": null,
+              "metadata": null,
+              "name": "C6-C7 artificial disc replacement",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "C6-C7 artificial disc replacement",
+              "type": "entity"
+            },
+            {
+              "alt": "![Image](https://images.openai.com/static-rsc-4/et-15T3vVQAbAxWdFrsIsqgkFmNGCAJHBIySaUSJrzpgWMkNE5Hk6Xlm7bkxOFEqbtFY_7FpfM-HfzwhnQBHo2CARXjKD8TuNEhJ0b47IB7efC4M7LtwcwSD0QWfnbvgwbE1mdu4ru2SlgQuTkNouFrbMGuWkk6uibuf-yEoXjkkL2VQdO0iKKbRKXBxWJ4Z?purpose=fullsize)\n\n![Image](https://images.openai.com/static-rsc-4/QF0QSXM4IIzd87MmTV2YT4HIuUA5j6HB_LT9ZPn5ST77alIyNnwce-ZnRgYzcWecvi1-D3kyEY8UTdhheJ4VlFLJHR1Cz_Mpb6fnLugNjxqHZD4rXv2aGnB5YPENHVSQwLL2NhRMA8HIzb70fRtSdPkDIQrozz1PZ2vb9qxsxBGC3JQG4vBfuUAm8L3BH9ix?purpose=fullsize)\n\n![Image](https://images.openai.com/static-rsc-4/eVmfKunB5r31rVix5_7wxhhX4lKCxLAL_8pNw1DHklKI4UO_S6RQhPNRhR4bLtDZY7ltwVEn39oCB7zzP6rjd-mo6_FDwTg06mf9Oe2V2fJNKQWgiQU4DwyHl42ia1xQzWB5ealhK6CZjj-nRB-wncHk8Ju0TadplnaXA-ZVjuEvOJK1TSuY2s0d_0JQziNn?purpose=fullsize)\n\n![Image](https://images.openai.com/static-rsc-4/yQeVmZoEXrAy5BxnKIZmcugKxpriqeAsN5yL0Tgf5-A11Hni9dSD-WDfWvb8XFEmGz7XJIXtKktXwN4LsrHukxTC9CJlMdVUht1cVXwC-LFZVRkhHzE5b0Rzv6Ww24Uka5FmuAXktXRR_nl4hjh2ZGgvsupcEM-QFWZ8b9qkYuDACEt3fsWrVMWAKp1-E-5r?purpose=fullsize)\n\n![Image](https://images.openai.com/static-rsc-4/KTiFCkjk3ul0H1aXm7zPlKwFa3obau68mAf_IpMhGvLIZePEDDDf3ixMBOhKuLkhK32ftSX22jmFYQfl-P1tM3QnONSrLQ8RZcZMoYZWbqDoyWQr1L20vut-gF45Tta2i2HHqxt0NRycb33LpyuAK-NUugeWT0xFk3ERm-PcH3ACHc5ZxOmaIjQuvJmCK_WT?purpose=fullsize)",
+              "images": [
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 1024,
+                      "width": 1536
+                    },
+                    "content_url": "https://images.openai.com/static-rsc-4/et-15T3vVQAbAxWdFrsIsqgkFmNGCAJHBIySaUSJrzpgWMkNE5Hk6Xlm7bkxOFEqbtFY_7FpfM-HfzwhnQBHo2CARXjKD8TuNEhJ0b47IB7efC4M7LtwcwSD0QWfnbvgwbE1mdu4ru2SlgQuTkNouFrbMGuWkk6uibuf-yEoXjkkL2VQdO0iKKbRKXBxWJ4Z?purpose=fullsize",
+                    "original_content_url": "https://cdn.outrank.so/f5593663-1acf-42b6-86e4-1c9beebf93d0/850c8ad3-e696-4f85-95e1-f8df0a5a3069.jpg",
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.22265625,
+                      "center_y_percent": 0.5869140625
+                    },
+                    "thumbnail_render_mode": "thumbnail_only",
+                    "thumbnail_size": {
+                      "height": 860,
+                      "width": 1290
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-4/ZchbCgD09DPOONScINXinpbkEtaNaI2Usmm7k276U9fAy7oeb9E1Fgj68iRq6E3BkTX2_MFG0Gncl_6c35ZP4rmK05cFczlRBcIwt4NUpvLj7Cz2DjtxicvJB6DRk11MK5zhJ2r1bZ920_LZWO0S0FMUUiYcKmwU28VkyI7OIms?purpose=inline",
+                    "title": "Trapped Nerve Recovery: UK Tips & Timeline",
+                    "url": "https://spinebodyhealth.co.uk/how-long-can-trapped-nerve-last/?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "nerve inflammation flare recovery timeline",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 1506,
+                      "width": 1081
+                    },
+                    "content_url": "https://images.openai.com/static-rsc-4/QF0QSXM4IIzd87MmTV2YT4HIuUA5j6HB_LT9ZPn5ST77alIyNnwce-ZnRgYzcWecvi1-D3kyEY8UTdhheJ4VlFLJHR1Cz_Mpb6fnLugNjxqHZD4rXv2aGnB5YPENHVSQwLL2NhRMA8HIzb70fRtSdPkDIQrozz1PZ2vb9qxsxBGC3JQG4vBfuUAm8L3BH9ix?purpose=fullsize",
+                    "original_content_url": "https://cellaxys.com/wp-content/uploads/2020/03/Aftermath-of-Spinal-Fusion-Surgery-1.jpeg",
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.484736355226642,
+                      "center_y_percent": 0.08698539176626827
+                    },
+                    "thumbnail_render_mode": "thumbnail_only",
+                    "thumbnail_size": {
+                      "height": 1427,
+                      "width": 1024
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-4/TO58GlY_t9t_rr_BNUWEZtARjndcvsDNLrslrAQL-LgX1NHaDBrLzTSnY0aRU4f9dSxK8e4jCY4V90UkI3yuzD0VIbyVa0uUfvJBmBfNBPprNqr8WtrmMufMn51qU70UeP2rJummsiQ38_AmAQRGFOu67vD4NxNxmyISC2cO_xg?purpose=inline",
+                    "title": "Aftermath Of Spinal Fusion Surgery: Complications, Potential Side Effects, Treatments - Cellaxys",
+                    "url": "https://cellaxys.com/aftermath-of-spinal-fusion-surgery-complications-potential-side-effects-treatments/?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "cervical spine post surgery inflammation healing phase illustration",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 369,
+                      "width": 500
+                    },
+                    "content_url": "https://images.openai.com/static-rsc-4/eVmfKunB5r31rVix5_7wxhhX4lKCxLAL_8pNw1DHklKI4UO_S6RQhPNRhR4bLtDZY7ltwVEn39oCB7zzP6rjd-mo6_FDwTg06mf9Oe2V2fJNKQWgiQU4DwyHl42ia1xQzWB5ealhK6CZjj-nRB-wncHk8Ju0TadplnaXA-ZVjuEvOJK1TSuY2s0d_0JQziNn?purpose=fullsize",
+                    "original_content_url": "https://www.datocms-assets.com/25800/1642478097-upper-trapezius-trp-combined.jpeg",
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.524,
+                      "center_y_percent": 0.3143631436314363
+                    },
+                    "thumbnail_render_mode": "thumbnail_only",
+                    "thumbnail_size": {
+                      "height": 369,
+                      "width": 500
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-4/YhBHztWzL_43jVFpNCBdRJDtJ1IijUZSkydPmtdn_vbflsoreyCbiHNnUHm2t7p26wxhYjr0R1W8XuERsdy234DZBsCSLbhDUQL0aXTVeosFRFkLFILwDgIIw6EIynAFEJ-XUuLwM7wcboevozx8W96LpENAb1MZh7Hm9wbNbLA?purpose=inline",
+                    "title": "Referred Trigger Point Pain - Brookbush Institute",
+                    "url": "https://brookbushinstitute.com/glossary/referred-trigger-point-pain?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "neck muscle spasm trapezius tightness diagram",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 400,
+                      "width": 400
+                    },
+                    "content_url": "https://images.openai.com/static-rsc-4/yQeVmZoEXrAy5BxnKIZmcugKxpriqeAsN5yL0Tgf5-A11Hni9dSD-WDfWvb8XFEmGz7XJIXtKktXwN4LsrHukxTC9CJlMdVUht1cVXwC-LFZVRkhHzE5b0Rzv6Ww24Uka5FmuAXktXRR_nl4hjh2ZGgvsupcEM-QFWZ8b9qkYuDACEt3fsWrVMWAKp1-E-5r?purpose=fullsize",
+                    "original_content_url": "https://www.physio-pedia.com/images/thumb/3/38/Trapezius_-_Kenhub.png/400px-Trapezius_-_Kenhub.png",
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.5225,
+                      "center_y_percent": 0.2675
+                    },
+                    "thumbnail_render_mode": "thumbnail_only",
+                    "thumbnail_size": {
+                      "height": 400,
+                      "width": 400
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-4/Isai3jQP0-az_np9NcJaGZtXNnI1O88I_IKXKgoiR5V0SXNj0kF1W6D6O62Y1X91iaVW-sKSBMa2B4gflW93Rdn98bDUtGKKwcaK8XZ_SOEYoRemlY4VnGIeBp7k6vPLEG26fEvCctouhpplEJOBci1tSTsZkbCQIWeTL6-Kd08?purpose=inline",
+                    "title": "Trapezius Myalgia - Physiopedia",
+                    "url": "https://www.physio-pedia.com/Trapezius_Myalgia?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "neck muscle spasm trapezius tightness diagram",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 439,
+                      "width": 780
+                    },
+                    "content_url": "https://images.openai.com/static-rsc-4/KTiFCkjk3ul0H1aXm7zPlKwFa3obau68mAf_IpMhGvLIZePEDDDf3ixMBOhKuLkhK32ftSX22jmFYQfl-P1tM3QnONSrLQ8RZcZMoYZWbqDoyWQr1L20vut-gF45Tta2i2HHqxt0NRycb33LpyuAK-NUugeWT0xFk3ERm-PcH3ACHc5ZxOmaIjQuvJmCK_WT?purpose=fullsize",
+                    "original_content_url": "https://res.cloudinary.com/da1molee1/image/upload/c_fill%2Cg_center%2Ch_439%2Cw_780/q_auto%3Aeco/stages-bone-healing-lumbar-spine-fusion-131.png?_a=BAAAV6E0",
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.8564102564102564,
+                      "center_y_percent": 0.1070615034168565
+                    },
+                    "thumbnail_render_mode": "thumbnail_only",
+                    "thumbnail_size": {
+                      "height": 439,
+                      "width": 780
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-4/aRTi8HtfM6oeH3pCattjR2y3iuIItXIwWHB_7Ba8j-02VP20NVKsR8LbjluWeCTLX3tP5O3pdn_f_nh-NjMk-O81OBLH8nt1egMGgTe9EDdajJaNYiVmp6NzTrcBjn1c_wJ1YEGZmgbAuMIKmttlf5Gyq0ZpZWOKRCjrqGnlL8Y?purpose=inline",
+                    "title": "Internal Bone Growth Stimulator for Spine Fusion",
+                    "url": "https://www.spine-health.com/treatment/spinal-fusion/internal-bone-growth-stimulator-spine-fusion?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "cervical spine post surgery inflammation healing phase illustration",
+                  "image_search_system": null
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "image_group"
+            },
+            {
+              "alt": "![Image](https://images.openai.com/static-rsc-4/o3iVpMuqnLLa1v_g6NfV9uL1sq-gBxV3mNCyewdSwVRVcce6TIJHS2kuQuBnWKIUrhOczRfjSeprgOWoD9xMbbSdqD6507EjoJE3No4NxQk8Biwh_HMbdkiVpqnSPTAldxIGqXBcYWS_TlgfNGFwK4CoCNWt0go7-aAPAM2ZrWNPV1mjwZe12hdv__e0rgaL?purpose=fullsize)\n\n![Image](https://images.openai.com/static-rsc-4/z8MzgQxBeawRx4HkXlglS9QDMpkbvfn1D1q8J4R3I8tqRb5EeB4nPJAWM-DxrNfajDfxgUoXPfF-vlrC3PKT-gnwS4rZ1dZlX0fUmns9-GNWLMZkIImby6YI5Ep77oS2hM4GAjL-FSLgmSN86S54efOvf2PZhp-sP1snOVyym-IALaOJsWYXPfaPlPVmkzaT?purpose=fullsize)\n\n![Image](https://images.openai.com/static-rsc-4/NaUMBr4V3lAg-7HQA9TD53XYlxqlVxm-63wo9meFqIMLlF7vfM55Qq4Upp27sDDAR6IqY5xKz7iWi5fqWP9GPTqQUxfTmagll56H58w0ytf9NwDPpfEFlkssD5lYSWC6-rW2py3qd3mYLawEc0k_sON3RHvcEoW150o40bmFygmGTlxC-lLV6nHWad5kofdk?purpose=fullsize)\n\n![Image](https://images.openai.com/static-rsc-4/QumF85e3PSyO6iV7vBxk8kn__rcwRycJQhyZYTb5gHho_M-ZHoavJU8HeKVt-yziDb15KFEQbnQlgnHycgrwLqVtvR_9mOyKnSzny7e2fkplEuuodiT6ewKYuNGpOSJZ43AezPGOf_EJ9jL7qMIH5_6fyECqyAsS0SmAYFd1K9ymOKC9u7bdeeWLV3sfEarw?purpose=fullsize)\n\n![Image](https://images.openai.com/static-rsc-4/1g1rmO_M2oIP2XN9WK2WIqjiFJjkhZoZNwYajOZwFFsU7YOfoSlb58y5wnymCnvIwFSD7nZ0tevMpo1bvRNqV6pGNhYRpxH8UNEvXMsZLPoESsBcjiKSIAF7V_pARMVC5Ksd1LqZRdGEHOrmzNILXap2Wxsqc1KjdRb-wRsNBGUfpcuKwE-vLE5EMLgGE60k?purpose=fullsize)\n\n![Image](https://images.openai.com/static-rsc-4/VVccEDIjIEvzZWEo9qWwljdJ7K9bIpeY5LQMYX0PLkfyhbrzdhELmzXldNCpu7IZG07lid4ELdz1BfdXgOJXj2KC7TQrJw4QHQJZdtR_Tm7WTC348l1v5XCac4PGRJLXfGUeDSxSiowMo3-KmESWSQSytEy2Gf29ueOE20kZFnj7oo7cyJo0bcRNskVCbh_6?purpose=fullsize)\n\n![Image](https://images.openai.com/static-rsc-4/Q-gygz_ikLUNMw5-y1wtyPVups1Uxo_3Lsr_odyNZmn_fRKUnzkmsPErIceORx3xLQEUtlhQmW7UeqJj65imEpwQkzub9H3srSFiAg3Prm1SCrZeBgf-Wi4Q64Z33h0y98bITgxh0FSOZDF26Odf-_bh_UsW-X31dSWsz1Gku6aQmkA0PvxmWzhkaBL75tsD?purpose=fullsize)",
+              "images": [
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 1150,
+                      "width": 939
+                    },
+                    "content_url": "https://images.openai.com/static-rsc-4/o3iVpMuqnLLa1v_g6NfV9uL1sq-gBxV3mNCyewdSwVRVcce6TIJHS2kuQuBnWKIUrhOczRfjSeprgOWoD9xMbbSdqD6507EjoJE3No4NxQk8Biwh_HMbdkiVpqnSPTAldxIGqXBcYWS_TlgfNGFwK4CoCNWt0go7-aAPAM2ZrWNPV1mjwZe12hdv__e0rgaL?purpose=fullsize",
+                    "original_content_url": "https://spinesurgeon.london/wp-content/uploads/2025/05/Cervical-Radiculopathy-Recovery-Timeline.png",
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.15122470713525027,
+                      "center_y_percent": 0.82
+                    },
+                    "thumbnail_render_mode": "thumbnail_only",
+                    "thumbnail_size": {
+                      "height": 1150,
+                      "width": 939
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-4/nI556GFy5ShrhT9-G3LXMT8o19YnafZjpxxt1rI9g29CeuoH-CoWaqUduOJtR4v1f4WK9-9GgAi-sEYqUSA0sGiB6jQoYwWJjcRsdhK_QUbxIduWo4M3Z8BrIBqGC5ukRlzrPBS_mo_VLFpB9KdtTRDa8TmXOMPZn1brDAs1iWw?purpose=inline",
+                    "title": "Cervical Radiculopathy: When Pinched Nerve Affects Your Hand",
+                    "url": "https://spinesurgeon.london/cervical-radiculopathy-pinched-nerve-neck-treatment-london/?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "nerve healing gradual improvement illustration cervical radiculopathy recovery",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 798,
+                      "width": 1200
+                    },
+                    "content_url": "https://images.openai.com/static-rsc-4/z8MzgQxBeawRx4HkXlglS9QDMpkbvfn1D1q8J4R3I8tqRb5EeB4nPJAWM-DxrNfajDfxgUoXPfF-vlrC3PKT-gnwS4rZ1dZlX0fUmns9-GNWLMZkIImby6YI5Ep77oS2hM4GAjL-FSLgmSN86S54efOvf2PZhp-sP1snOVyym-IALaOJsWYXPfaPlPVmkzaT?purpose=fullsize",
+                    "original_content_url": "https://wildhawkphysicaltherapy.com/wp-content/uploads/2025/02/Physical-Therapy-Techniques-for-Cervical-Spine-Recovery.jpg",
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.2975,
+                      "center_y_percent": 0.23057644110275688
+                    },
+                    "thumbnail_render_mode": "thumbnail_only",
+                    "thumbnail_size": {
+                      "height": 798,
+                      "width": 1200
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-4/_X7tw0ExX8qWiSbLe5A8CpxEMq0gr28WhoGnKFG2Bf1itz6hv4fbl6mXpHDm8ChyGbfWnDkIKQjNDRJ5Q9j93rKbKBuKa7nfX4RcYlwZUn9rQH3odxfp5d1xR176lmhcSYEeiBs4e36BZaVgeLsudOAGkdPlggmbjoUt6vj_GHA?purpose=inline",
+                    "title": "Cervical Spine Physical Therapy: Rehab for Neck Pain Relief",
+                    "url": "https://wildhawkphysicaltherapy.com/cervical-spine-physical-therapy-guide/?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "neck mobility improvement physical therapy cervical spine",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 480,
+                      "width": 479
+                    },
+                    "content_url": "https://images.openai.com/static-rsc-4/NaUMBr4V3lAg-7HQA9TD53XYlxqlVxm-63wo9meFqIMLlF7vfM55Qq4Upp27sDDAR6IqY5xKz7iWi5fqWP9GPTqQUxfTmagll56H58w0ytf9NwDPpfEFlkssD5lYSWC6-rW2py3qd3mYLawEc0k_sON3RHvcEoW150o40bmFygmGTlxC-lLV6nHWad5kofdk?purpose=fullsize",
+                    "original_content_url": "https://cdn.shopify.com/s/files/1/0051/2645/5367/files/post-op_healing_480x480.png?v=1664461012",
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.7974947807933194,
+                      "center_y_percent": 0.175
+                    },
+                    "thumbnail_render_mode": "thumbnail_only",
+                    "thumbnail_size": {
+                      "height": 480,
+                      "width": 479
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-4/pkcW0-HKioQ-CC6nm_J6tZqTF_YRah6M0BJj7Moe7wmUoBnVXmn0s7jynPQdMjhiI3WztNOs9s7MqQ8-46x3kc5PrvCfGILX0q9aPbcuD9QMBh54aU_gADCgj1ezIwYrYF5ryDNnkdGHkA5g6w-9TDZL4k6sAiCoRcSCU8YqBuU?purpose=inline",
+                    "title": "5 Ways to Heal Faster After Any Surgery | OrthoBracing.com",
+                    "url": "https://orthobracing.com/blogs/resources/5-ways-to-heal-faster-after-any-surgery?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "post surgery recovery progress timeline graph nerve pain decreasing",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 533,
+                      "width": 800
+                    },
+                    "content_url": "https://images.openai.com/static-rsc-4/QumF85e3PSyO6iV7vBxk8kn__rcwRycJQhyZYTb5gHho_M-ZHoavJU8HeKVt-yziDb15KFEQbnQlgnHycgrwLqVtvR_9mOyKnSzny7e2fkplEuuodiT6ewKYuNGpOSJZ43AezPGOf_EJ9jL7qMIH5_6fyECqyAsS0SmAYFd1K9ymOKC9u7bdeeWLV3sfEarw?purpose=fullsize",
+                    "original_content_url": "https://woodroofchiro.com/df_media/W1siZiIsIjIwMjYvMDEvMjAvMTgvNTMvMTEvMmVlNWZkMzYtZTI0Yy00ZTNjLTgwZTQtNTUyMGM2Y2M3MWYyL2FybS1wYWluLWZyb20tbmVjay1jZXJ2aWNhbC1yYWRpY3Vsb3BhdGh5LWRpYWdyYW0td29vZHJvb2YtY2hpcm9wcmFjdGljLmpwZyJdXQ/arm-pain-from-neck-cervical-radiculopathy-diagram-woodroof-chiropractic.jpg?sha=6790134cad84d244",
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.5825,
+                      "center_y_percent": 0.150093808630394
+                    },
+                    "thumbnail_render_mode": "thumbnail_only",
+                    "thumbnail_size": {
+                      "height": 533,
+                      "width": 800
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-4/3VC9iqqd58tusTl1DqXnrjLbY1q-tLTuOSkNeZu9RsOOMydggQkQW1wJ4ZhNFppo-uL3QX8nISQCpHh02okgFK8ffENWJbT5OO4JDelOfexE6-1ycOGwYe8BcJXkjDQtd2PkYfauAb5_NmBeKe59qE1a_8ZSZnm2HSsMtagpcUI?purpose=inline",
+                    "title": "Arm Pain From Your Neck Relief | Chiropractor in Olathe",
+                    "url": "https://woodroofchiro.com/blog/understanding-arm-pain-that-is-coming-from-your-neck?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "nerve healing gradual improvement illustration cervical radiculopathy recovery",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 536,
+                      "width": 1024
+                    },
+                    "content_url": "https://images.openai.com/static-rsc-4/1g1rmO_M2oIP2XN9WK2WIqjiFJjkhZoZNwYajOZwFFsU7YOfoSlb58y5wnymCnvIwFSD7nZ0tevMpo1bvRNqV6pGNhYRpxH8UNEvXMsZLPoESsBcjiKSIAF7V_pARMVC5Ksd1LqZRdGEHOrmzNILXap2Wxsqc1KjdRb-wRsNBGUfpcuKwE-vLE5EMLgGE60k?purpose=fullsize",
+                    "original_content_url": "https://cervicalrelief.com/wp-content/uploads/href-cer.webp",
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.6787109375,
+                      "center_y_percent": 0.1865671641791045
+                    },
+                    "thumbnail_render_mode": "thumbnail_only",
+                    "thumbnail_size": {
+                      "height": 536,
+                      "width": 1024
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-4/TbrinGNH4q1zgNsWp5h7HE8Beb2YOeGOLhGS5K7UMlOtVyOAK2TaiVrW8LJbNsO61PbFD99iQaJsyWwCGI9OuJNTbkje59dLcVlMzx6c8ajfw_lCOhvz9gl22WkNnCB3jyMGTZn8yTpim-E8ErGxDtOs0X71NZ6EX6LS846c-6w?purpose=inline",
+                    "title": "Top 10 Exercises for Cervical Spondylosis Relief - Cervical Relief",
+                    "url": "https://cervicalrelief.com/top-10-exercises-for-cervical-spondylosis-relief/?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "neck mobility improvement physical therapy cervical spine",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 690,
+                      "width": 1050
+                    },
+                    "content_url": "https://images.openai.com/static-rsc-4/VVccEDIjIEvzZWEo9qWwljdJ7K9bIpeY5LQMYX0PLkfyhbrzdhELmzXldNCpu7IZG07lid4ELdz1BfdXgOJXj2KC7TQrJw4QHQJZdtR_Tm7WTC348l1v5XCac4PGRJLXfGUeDSxSiowMo3-KmESWSQSytEy2Gf29ueOE20kZFnj7oo7cyJo0bcRNskVCbh_6?purpose=fullsize",
+                    "original_content_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ffa8/3546123/6495f127369a/nihms409603f2.jpg",
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.13904761904761906,
+                      "center_y_percent": 0.021739130434782608
+                    },
+                    "thumbnail_render_mode": "thumbnail_only",
+                    "thumbnail_size": {
+                      "height": 690,
+                      "width": 1050
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-4/dbRvAqNS9RgYOBDrNS69QUHlJHDjiPFwPEaSxJzNngjxnASiL7T70SLJ1_O2OWgVcK7_KS5jGkypGtDFbvi5a3Zw0bpsyd_CZAY-fH_RZFhrYou9sMWXjzEywY1NsKATH9kFFo3_sAmPTFk_nYp5qYwA7JGu8ocq7POWfyET27w?purpose=inline",
+                    "title": "Surgically-Induced Neuropathic Pain (SNPP): Understanding the Perioperative Process - PMC",
+                    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3546123/?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "post surgery recovery progress timeline graph nerve pain decreasing",
+                  "image_search_system": null
+                },
+                {
+                  "image_ref_id": null,
+                  "image_result": {
+                    "content_size": {
+                      "height": 1033,
+                      "width": 1637
+                    },
+                    "content_url": "https://images.openai.com/static-rsc-4/Q-gygz_ikLUNMw5-y1wtyPVups1Uxo_3Lsr_odyNZmn_fRKUnzkmsPErIceORx3xLQEUtlhQmW7UeqJj65imEpwQkzub9H3srSFiAg3Prm1SCrZeBgf-Wi4Q64Z33h0y98bITgxh0FSOZDF26Odf-_bh_UsW-X31dSWsz1Gku6aQmkA0PvxmWzhkaBL75tsD?purpose=fullsize",
+                    "original_content_url": "https://spineandinjuryfl.com/wp-content/uploads/2024/01/pain-graph-cropped.png",
+                    "scores": null,
+                    "show_url": true,
+                    "thumbnail_crop_info": {
+                      "center_x_percent": 0.3518631643249847,
+                      "center_y_percent": 0.15779283639883834
+                    },
+                    "thumbnail_render_mode": "thumbnail_only",
+                    "thumbnail_size": {
+                      "height": 860,
+                      "width": 1363
+                    },
+                    "thumbnail_url": "https://images.openai.com/static-rsc-4/KJvyeaF4yBj9Hkvcz19I1K1R5_R4_zp-foVX-yJ6unT_21IzdaA2LzkvwrX7rWBmzc7EIAvxhTQ-X-mKxaNiE2TBdnhxA8a6-_D72ozuZq_oJ4UZJ30AeYtu_SZBL4YhkIJ7E2dLcCt24UInRK94elt0SgYjmbIuycmAf62fa_Y?purpose=inline",
+                    "title": "How Long Does a Herniated Disc Take to Heal?",
+                    "url": "https://spineandinjuryfl.com/how-long-does-a-herniated-disc-take-to-heal/?utm_source=chatgpt.com"
+                  },
+                  "image_search_query": "post surgery recovery progress timeline graph nerve pain decreasing",
+                  "image_search_system": null
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "image_group"
+            },
+            {
+              "alt": "Pregabalin",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "neuropathic pain medication"
+              },
+              "id": null,
+              "metadata": null,
+              "name": "Pregabalin",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Pregabalin",
+              "type": "entity"
+            }
+          ],
+          "model_slug": "gpt-5-3",
+          "parent_id": "8798ff14-bdde-4b07-b1d9-f54740a59c43"
+        }
+      },
+      "parent": "bbb21058-424b-4929-85eb-fd824e9f8c91"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Post-surgery Pain Concerns",
+  "update_time": 1777212023.574006,
+  "voice": null
+}

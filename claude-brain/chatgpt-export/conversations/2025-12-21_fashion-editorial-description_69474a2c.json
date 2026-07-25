@@ -1,0 +1,94 @@
+{
+  "conversation_id": "69474a2c-b398-8330-8199-61b2fe86cdef",
+  "conversation_template_id": null,
+  "create_time": 1766279784.7089,
+  "current_node": "ed41b1f5-e672-461e-bd5e-db63a3ff1120",
+  "default_model_slug": "gpt-5-2",
+  "id": "69474a2c-b398-8330-8199-61b2fe86cdef",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "7bda90f2-9172-4924-ab63-96a9cfd4d569": {
+      "id": "7bda90f2-9172-4924-ab63-96a9cfd4d569",
+      "message": null,
+      "parent": null
+    },
+    "bbb21487-0aa4-4c04-b324-2e72ee25a3ba": {
+      "id": "bbb21487-0aa4-4c04-b324-2e72ee25a3ba",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_000000008dec71fd991389fc7b447b2b",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 1064,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 174167,
+              "width": 720
+            },
+            "\ufffc Use facial feature of attached photo. \nA hyper-realistic, high-fashion studio editorial featuring one adult woman, styled in a bold couture holiday-inspired look with clean, minimalist luxury aesthetics.\n\nSubject:\nA single adult woman with long, flowing, wavy black hair, glossy and voluminous, styled in soft, elegant waves cascading over her shoulders and down her back. Her makeup is refined and editorial: luminous skin, softly sculpted cheekbones, defined brows, neutral-toned eyeshadow, long lashes, and a muted rose or classic red lip. Her expression is confident, poised, and effortlessly glamorous.\n\nWardrobe & Styling:\nShe wears an avant-garde red couture gown made of layered tulle and dramatic ruffles. The dress features a voluminous silhouette with sculptural sleeves and cascading tiers, revealing one leg through a high slit. The texture of the fabric is light, airy, and richly saturated in crimson red. She pairs the gown with minimalist red high-heeled sandals. Styling is elegant, fashion-forward, and editorial\u2014no costume elements.\n\nPose & Composition:\nThe woman is seated confidently atop an oversized red glittering ornament sphere, one leg bent and elevated, the other extended gracefully toward the floor. One hand rests near her face, enhancing an intimate, fashion-magazine pose. Full-body vertical composition with strong balance between subject and sculptural prop.\n\nEnvironment & Props:\nA clean, seamless white studio backdrop with no visible edges or distractions. Large red ornament props with subtle sparkle are placed beneath and beside the subject, reinforcing a refined holiday theme without excess clutter.\n\nLighting & Atmosphere:\nBright, soft studio lighting evenly illuminates the subject, preserving natural skin texture and fabric detail. Shadows are minimal and controlled, creating a crisp, modern editorial finish.\n\nColor Palette:\nVibrant red tones contrasted against pure white, with natural skin tones and subtle metallic sparkle accents.\n\nStyle Keywords:\nUltra-photorealistic, high-fashion couture editorial, luxury studio photography, modern holiday glamour, dramatic tulle design, clean background, no anime, no illustration, no CGI, no 3D render.\n\nAspect Ratio: 4:5 (Vertical)\n\nCamera: Full-frame DSLR or mirrorless\nLens: 50mm prime\nAperture: f/4\nShutter Speed: 1/160s\nISO: 100\nFocus: Sharp focus across subject and gown\nWhite Balance: Neutral studio daylight\nResolution: Ultra-high resolution with crisp fabric, hair, and skin detail"
+          ]
+        },
+        "create_time": 1766279784.149881,
+        "id": "bbb21487-0aa4-4c04-b324-2e72ee25a3ba",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "7bda90f2-9172-4924-ab63-96a9cfd4d569"
+    },
+    "ed41b1f5-e672-461e-bd5e-db63a3ff1120": {
+      "id": "ed41b1f5-e672-461e-bd5e-db63a3ff1120",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "create_time": 1766279865.193873,
+        "id": "ed41b1f5-e672-461e-bd5e-db63a3ff1120",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "ca5d43a9-c6c2-41ed-95a0-019240278b35"
+        }
+      },
+      "parent": "bbb21487-0aa4-4c04-b324-2e72ee25a3ba"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Fashion editorial description",
+  "update_time": 1766279867.562901,
+  "voice": null
+}

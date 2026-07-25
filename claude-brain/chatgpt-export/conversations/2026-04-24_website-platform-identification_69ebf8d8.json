@@ -1,0 +1,324 @@
+{
+  "conversation_id": "69ebf8d8-39f4-83ea-912e-9191daccc24e",
+  "conversation_template_id": null,
+  "create_time": 1777072356.19345,
+  "current_node": "0a9a8c39-a632-4f0d-94b2-df793ba19d55",
+  "default_model_slug": "gpt-5-3",
+  "id": "69ebf8d8-39f4-83ea-912e-9191daccc24e",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "0a9a8c39-a632-4f0d-94b2-df793ba19d55": {
+      "id": "0a9a8c39-a632-4f0d-94b2-df793ba19d55",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "I tried to trace that exact link, but that **Google share link doesn\u2019t expose the underlying site structure directly**, so I couldn\u2019t definitively fingerprint the platform (like Wix, Webflow, WordPress, etc.) from that URL alone.\n\nHowever, here\u2019s how this typically breaks down and what I can infer:\n\n### What I *can* tell you\n- The link you sent (`share.google/...`) is just a **Google preview/share wrapper**, not the actual website itself.\n- To identify the platform (CMS/builder), I need the **live domain URL** (for example: `maresolutions.com`).\n\n### Most likely scenarios (based on similar sites)\nWithout direct inspection, sites like \u201cMare Solutions\u201d are usually built on one of these:\n- **\ue200entity\ue202[\"software\",\"WordPress\",\"CMS platform\"]\ue201** (most common for service businesses)\n- **\ue200entity\ue202[\"software\",\"Webflow\",\"website builder\"]\ue201** (common for clean, modern agency-style sites)\n- **\ue200entity\ue202[\"software\",\"Wix\",\"website builder\"]\ue201** (common for smaller businesses)\n- Custom builds (less common unless it\u2019s a tech company)\n\nAnd many agencies use platforms like Shopify, WooCommerce, or custom stacks depending on needs \ue200cite\ue202turn1search0\ue201\n\n---\n\n### If you want the exact answer (fast)\nSend me **one of these**:\n- The actual website URL (not the Google share link)\n- Or a screenshot of the site\n\nI\u2019ll tell you:\n- Exactly what platform it\u2019s built on\n- Whether it\u2019s templated or custom\n- And even how it\u2019s structured (funnels, CMS, etc.)\n\nRight now we\u2019re just one layer away from being able to pinpoint it."
+          ]
+        },
+        "create_time": 1777072362.099645,
+        "id": "0a9a8c39-a632-4f0d-94b2-df793ba19d55",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "WordPress",
+              "prefix": null,
+              "prompt_text": "WordPress",
+              "render_as": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "Webflow",
+              "prefix": null,
+              "prompt_text": "Webflow",
+              "render_as": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "Wix",
+              "prefix": null,
+              "prompt_text": "Wix",
+              "render_as": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "([Marediasoft](https://marediasoft.com/services/website-development/e-commerce-website-development/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Marediasoft",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 1
+                    }
+                  ],
+                  "snippet": "At Marediasoft, we specialize in creating tailored eCommerce development solutions that engage users, drive conversions, and fuel your eCommerce business growth ...Read more",
+                  "supporting_websites": [],
+                  "title": "Ecommerce Website Development Services",
+                  "url": "https://marediasoft.com/services/website-development/e-commerce-website-development/?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prefix": null,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "Marediasoft",
+                  "title": "Ecommerce Website Development Services",
+                  "url": "https://marediasoft.com/services/website-development/e-commerce-website-development/?utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "model_slug": "gpt-5-3",
+          "parent_id": "9dd91b88-72ef-44db-8ea6-c4dc4ef76ac6",
+          "search_result_groups": [
+            {
+              "domain": "instagram.com",
+              "entries": [
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "",
+                  "title": "Instagram",
+                  "url": "https://www.instagram.com/AHISKAYAYINEVI/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "finalsite.net",
+              "entries": [
+                {
+                  "attribution": "finalsite.net",
+                  "snippet": "Feb 11, 2026 \u2014 Superintendent Search Program \u2013 One of the many services that MARE provides is a quality, yet affordable Superintendent Search Program.Read more",
+                  "title": "MARE Focus",
+                  "url": "https://resources.finalsite.net/images/v1770924141/moarecom/lgbseixmjgawj2rfbzyg/MAREFocus-February112026.pdf?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "breezy.hr",
+              "entries": [
+                {
+                  "attribution": "breezy.hr",
+                  "snippet": "Design, code and test all components of modern web applications. Contribute to the overall architecture and design of the technology created/maintained by the ...Read more",
+                  "title": "Software Developer - Operations Technology",
+                  "url": "https://marex.breezy.hr/p/1cb0174267c301-software-developer-operations-technology?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "wetu.com",
+              "entries": [
+                {
+                  "attribution": "wetu.com",
+                  "snippet": "Sharing with other Service users. When you use the Services, we share certain information about you with other Service users. For collaboration: You can ...Read more",
+                  "title": "Hotel La Salina Borgo Di Mare - Gallery",
+                  "url": "https://wetu.com/iBrochure/en/Information/233431/hotel_la_salina_borgo_di_mare/ImageLibrary?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "ibexa.co",
+              "entries": [
+                {
+                  "attribution": "ibexa.co",
+                  "snippet": "Ibexa DXP Overview. A transformative Digital Experience Platform, Ibexa DXP software gives companies the resources required to deliver world-class online ...Read more",
+                  "title": "Ibexa Summit 2025 Agenda",
+                  "url": "https://www.ibexa.co/events/ibexa-summit-2025/day-2?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "linkedin.com",
+              "entries": [
+                {
+                  "attribution": "linkedin.com",
+                  "snippet": "I am a passionate software developer with a Computer Science degree who thrives on continuous learning and creative problem-solving.Read more",
+                  "title": "Dylan Hamilton - Software Developer | Creative Problem ...",
+                  "url": "https://uk.linkedin.com/in/dylanrhamilton?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "linkedin.com",
+                  "snippet": "As a .Net software developer and designer with over 20 years of experience in the industry, I specialize in creating user-friendly interfaces using modern ...Read more",
+                  "title": "Stephen Price - Software Engineer at Caterpillar Inc.",
+                  "url": "https://au.linkedin.com/in/lyynx?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "google.com",
+              "entries": [
+                {
+                  "attribution": "google.com",
+                  "snippet": "Dec 16, 2025 \u2014 The Mindset Practice toolkit is a powerful set of tools to help you show up from Growth more often. It will support you to continue to build ...Read more",
+                  "title": "Mindset Practice - Apps on Google Play",
+                  "url": "https://play.google.com/store/apps/details?id=com.mindsetpractice.mindsetpractice&utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "ibm.com",
+              "entries": [
+                {
+                  "attribution": "ibm.com",
+                  "snippet": "Climava moved its SAP environment and internal processes to IBM Cloud to focus on improving customer service and growing the business.",
+                  "title": "Climava",
+                  "url": "https://www.ibm.com/case-studies/climava-cloud?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "riomare.gr",
+              "entries": [
+                {
+                  "attribution": "riomare.gr",
+                  "snippet": "Information about the way you use our Site, collected through cookies, may be shared with our web analytics, advertising and social media service providers, and ...Read more",
+                  "title": "cookie and privacy policy",
+                  "url": "https://www.riomare.gr/cookie-and-privacy-policy/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "bokun.io",
+              "entries": [
+                {
+                  "attribution": "bokun.io",
+                  "snippet": "Mare e Vento di Favignana is a tour operator offering boat and dinghy excursions around Favignana in the Aegadian Islands, just off the west coast of Sicily ...Read more",
+                  "title": "Mare e Vento di Favignana",
+                  "url": "https://www.bokun.io/casestudy/mare-e-vento-di-favignana?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "designstudiocardiff.co.uk",
+              "entries": [
+                {
+                  "attribution": "designstudiocardiff.co.uk",
+                  "snippet": "Classified ad submission sites are websites through which organizations and individuals can post classified ads about their products or services, events, etc.Read more",
+                  "title": "Vivastreet 17 : vivastreet weston-super-mare",
+                  "url": "https://designstudiocardiff.co.uk/report/ledug?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "facebook.com",
+              "entries": [
+                {
+                  "attribution": "facebook.com",
+                  "snippet": "PHP Web Development: Our proficiency in PHP web development allows us to deliver robust, scalable, and secure web solutions tailored to your ...Read more",
+                  "title": "We are a technology-based software house with over 2 ...",
+                  "url": "https://www.facebook.com/CivilSocietyOfSindh/posts/we-are-a-technology-based-software-house-with-over-2-years-of-online-working-exp/998141025876105/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "facebook.com",
+                  "snippet": "Built by JTech for East Africa, it's the all-in-one tool to streamline operations and manage sales, inventory, HR, and more.",
+                  "title": "\ud835\udc0c\ud835\udc1a\ud835\udc1a\ud835\udc2b\ud835\udc1e\ud835\udc1e\ud835\udc32\ud835\udc1e \ud835\udc04\ud835\udc11\ud835\udc0f! | Jamhuriya Technology Solutions - JTech",
+                  "url": "https://www.facebook.com/jtech.somalia/videos/%F0%9D%90%8C%F0%9D%90%9A%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9E%F0%9D%90%B2%F0%9D%90%9E-%F0%9D%90%84%F0%9D%90%91%F0%9D%90%8F/1260590031900732/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "governmentjobs.com",
+              "entries": [
+                {
+                  "attribution": "governmentjobs.com",
+                  "snippet": "We may use third-party web analytics services on our Services, such as those of Google Analytics, Hubspot, LinkedIn, Hotjar, Gainsight and others. These ...Read more",
+                  "title": "utility-technician-electric-mare-island-vallejo-ca | Job ...",
+                  "url": "https://www.governmentjobs.com/careers/pittsburg/jobs/5124453/utility-technician-electric-mare-island-vallejo-ca?pagetype=jobOpportunitiesJobs&utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "xylem.com",
+              "entries": [
+                {
+                  "attribution": "xylem.com",
+                  "snippet": "Satu Mare, Romania. Meet iPERL\u2122\u2014the data-driven smart water meter that ensures your networks run efficiently and accurately whilst increasing your business ...Read more",
+                  "title": "iPERL International Customer Stories",
+                  "url": "https://www.xylem.com/en-sk/resources/case-studies/iperl-international-customer-stories/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "mare.services",
+              "entries": [
+                {
+                  "attribution": "mare.services",
+                  "snippet": "Buy mare.services for 100 on GoDaddy via ExpiredDomains.com. This premium expired .services domain is ideal for Veterinary projects. Secure it today!",
+                  "title": "Buy mare.services \u2013 Premium Expired .services Domain on ...",
+                  "url": "https://www.mare.services/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "thisiscriminal.com",
+              "entries": [
+                {
+                  "attribution": "thisiscriminal.com",
+                  "snippet": "17 years after he shot a man, Trevell Coleman walked into a police station and tried to turn himself in. He'd never been a suspect in the case.Read more",
+                  "title": "The Confession, Part 2",
+                  "url": "https://thisiscriminal.com/episode-238-the-confession-part-2-10-6-23/?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "bbb219eb-81d5-4937-829f-a73c1c3eb16b"
+    },
+    "bbb219eb-81d5-4937-829f-a73c1c3eb16b": {
+      "id": "bbb219eb-81d5-4937-829f-a73c1c3eb16b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Which site was this website created on Mare Solutions \u2013 Mare Solutions https://share.google/i3nUZtKDMHpjFyTdX"
+          ]
+        },
+        "create_time": 1777072355.737544,
+        "id": "bbb219eb-81d5-4937-829f-a73c1c3eb16b",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "dff587dd-5ab4-47d7-b4f0-838773040124"
+    },
+    "dff587dd-5ab4-47d7-b4f0-838773040124": {
+      "id": "dff587dd-5ab4-47d7-b4f0-838773040124",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Website Platform Identification",
+  "update_time": 1777072368.064484,
+  "voice": null
+}

@@ -1,0 +1,72 @@
+{
+  "conversation_id": "69b03f18-dd18-832c-bbb7-82d11f3cf06e",
+  "conversation_template_id": null,
+  "create_time": 1773158184.135652,
+  "current_node": "538c14a5-cb7e-4eb7-8ea1-3cdfcb39f6b8",
+  "default_model_slug": "gpt-5-3",
+  "id": "69b03f18-dd18-832c-bbb7-82d11f3cf06e",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "4ae1836b-99d5-4fec-8b87-47c352601196": {
+      "id": "4ae1836b-99d5-4fec-8b87-47c352601196",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "create a desciption of the Postive schools confernece MNPS free ticket they are signing up for"
+          ]
+        },
+        "create_time": 1773165829.439,
+        "id": "4ae1836b-99d5-4fec-8b87-47c352601196",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "538c14a5-cb7e-4eb7-8ea1-3cdfcb39f6b8": {
+      "id": "538c14a5-cb7e-4eb7-8ea1-3cdfcb39f6b8",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "**Positive Schools Conference \u2013 MNPS Complimentary Ticket**\n\nThe **Positive Schools Conference** brings together educators, community partners, and youth advocates from across Metro Nashville Public Schools to explore innovative ways to create safe, supportive, and thriving learning environments for all students.\n\nThis **complimentary MNPS ticket** provides access to a day of engaging sessions focused on strengthening school culture, supporting student well-being, and building stronger connections between schools and the community. Attendees will hear from local leaders and practitioners who are implementing positive behavior frameworks, restorative practices, student support systems, and community partnership models that help students succeed both inside and outside the classroom.\n\nParticipants will have the opportunity to:  \n\u2022 Learn practical strategies to promote positive school climates  \n\u2022 Explore tools that support student mental health and belonging  \n\u2022 Connect with fellow educators, nonprofits, and community organizations  \n\u2022 Discover resources that strengthen collaboration between schools and community partners  \n\nThis event is designed for **MNPS educators, staff, community partners, and stakeholders** committed to creating positive, inclusive school environments where every student can thrive.\n\n**Cost:** Complimentary for MNPS participants (registration required)."
+          ]
+        },
+        "create_time": 1773158184.016098,
+        "id": "538c14a5-cb7e-4eb7-8ea1-3cdfcb39f6b8",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "da16cc0f-be34-47f0-ab65-eb2c99c09c03"
+        }
+      },
+      "parent": "4ae1836b-99d5-4fec-8b87-47c352601196"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Positive Schools Conference Description",
+  "update_time": 1773158409.533452,
+  "voice": null
+}

@@ -1,0 +1,601 @@
+{
+  "conversation_id": "6a62e0a5-a51c-83ea-8f1a-4f8d572c8c43",
+  "conversation_template_id": null,
+  "create_time": 1784864949.839585,
+  "current_node": "ee071f54-62e3-4fa6-95b3-fd792f00da7e",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a62e0a5-a51c-83ea-8f1a-4f8d572c8c43",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "197e2db7-d94a-47b2-9b42-63cc3f57b4b5": {
+      "id": "197e2db7-d94a-47b2-9b42-63cc3f57b4b5",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "thoughts",
+          "source_analysis_msg_id": "ecd98f5b-efe5-414d-90bf-ea378aad348f",
+          "thoughts": [
+            {
+              "chunks": [],
+              "content": "",
+              "finished": true,
+              "summary": "Searching arxiv.org"
+            }
+          ]
+        },
+        "create_time": 1784864951.625283,
+        "id": "197e2db7-d94a-47b2-9b42-63cc3f57b4b5",
+        "metadata": {
+          "model_slug": "gpt-5-5",
+          "parent_id": "609dc4c4-6542-47a8-9c06-d74e4e7a2f05",
+          "tool_icons": [
+            "globe"
+          ]
+        }
+      },
+      "parent": "bbb21abf-4c99-41c8-8183-0f2f0d8bf881"
+    },
+    "5a7d2071-0444-4839-b68a-3008a9eb99db": {
+      "id": "5a7d2071-0444-4839-b68a-3008a9eb99db",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content": "Worked for a couple of seconds",
+          "content_type": "reasoning_recap"
+        },
+        "create_time": 1784865020.858354,
+        "id": "5a7d2071-0444-4839-b68a-3008a9eb99db",
+        "metadata": {
+          "model_slug": "gpt-5-5",
+          "parent_id": "ec4610d2-96b1-458a-be70-34b383042894"
+        }
+      },
+      "parent": "ec4610d2-96b1-458a-be70-34b383042894"
+    },
+    "6ded1068-52a4-43dc-9430-933495a1779b": {
+      "id": "6ded1068-52a4-43dc-9430-933495a1779b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content": "Worked for a couple of seconds",
+          "content_type": "reasoning_recap"
+        },
+        "create_time": 1784864951.630682,
+        "id": "6ded1068-52a4-43dc-9430-933495a1779b",
+        "metadata": {
+          "model_slug": "gpt-5-5",
+          "parent_id": "197e2db7-d94a-47b2-9b42-63cc3f57b4b5"
+        }
+      },
+      "parent": "197e2db7-d94a-47b2-9b42-63cc3f57b4b5"
+    },
+    "77124c87-8509-4ca2-b9ef-dcbfc6f875c0": {
+      "id": "77124c87-8509-4ca2-b9ef-dcbfc6f875c0",
+      "message": null,
+      "parent": null
+    },
+    "bbb2134c-8727-4ec0-a699-1dc54b88013e": {
+      "id": "bbb2134c-8727-4ec0-a699-1dc54b88013e",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Give me the actual painpiit soft thes owners "
+          ]
+        },
+        "create_time": 1784865018.680159,
+        "id": "bbb2134c-8727-4ec0-a699-1dc54b88013e",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "ff485ef1-b1e7-4c48-bdf6-d683c3ca06f7"
+    },
+    "bbb21abf-4c99-41c8-8183-0f2f0d8bf881": {
+      "id": "bbb21abf-4c99-41c8-8183-0f2f0d8bf881",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "How many medspas owners buy courses"
+          ]
+        },
+        "create_time": 1784864949.37654,
+        "id": "bbb21abf-4c99-41c8-8183-0f2f0d8bf881",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "77124c87-8509-4ca2-b9ef-dcbfc6f875c0"
+    },
+    "ec4610d2-96b1-458a-be70-34b383042894": {
+      "id": "ec4610d2-96b1-458a-be70-34b383042894",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "thoughts",
+          "source_analysis_msg_id": "6d2eee02-49ed-42f3-810b-90f5c262b6d6",
+          "thoughts": [
+            {
+              "chunks": [],
+              "content": "",
+              "finished": true,
+              "summary": "Searching arxiv.org"
+            }
+          ]
+        },
+        "create_time": 1784865020.854443,
+        "id": "ec4610d2-96b1-458a-be70-34b383042894",
+        "metadata": {
+          "model_slug": "gpt-5-5",
+          "parent_id": "2af8d425-e9bc-4752-ac2a-1a363fc54481",
+          "tool_icons": [
+            "globe"
+          ]
+        }
+      },
+      "parent": "bbb2134c-8727-4ec0-a699-1dc54b88013e"
+    },
+    "ee071f54-62e3-4fa6-95b3-fd792f00da7e": {
+      "id": "ee071f54-62e3-4fa6-95b3-fd792f00da7e",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "If you want to sell med spa owners, you have to stop thinking about the **surface problem** and sell to the **emotional problem** they're living with every day.\n\nThese are the pain points they actually feel:\n\n### Financial fear\n- \"I made $100k this month and somehow I still don't have money.\"\n- Payroll is due.\n- Product invoices are due.\n- Ads are expensive.\n- They don't know if next month will be better.\n\n### They feel trapped\n- They own a business that owns them.\n- They can't take a vacation.\n- Every emergency lands on their desk.\n- If they stop working, revenue slows down.\n\n### They don't trust their team\n- Nobody sells like they do.\n- Front desk doesn't follow up.\n- Providers don't educate patients.\n- Everyone says they're \"too busy.\"\n\n### Marketing frustration\n- They've spent tens of thousands on agencies.\n- Leads come in...\n- Patients ghost.\n- Cheap Botox shoppers waste everyone's time.\n- They have no idea what's actually working.\n\n### Patient retention\n- They spend hundreds of dollars to acquire a patient...\n- The patient buys one treatment...\n- Then disappears forever.\n- They know they're leaving thousands on the table but don't know how to fix it. Repeat business is one of the biggest drivers of profitability in med spas. \ue200cite\ue202turn0search10\ue202turn0search6\ue201\n\n### Staffing\nThis is consistently one of the biggest concerns owners report.\n- Can't find injectors.\n- Can't keep injectors.\n- Front desk turnover.\n- Constant training.\n- Team drama.\n- Employees leave and take clients with them. \ue200cite\ue202turn0search1\ue202turn0search0\ue201\n\n### Decision fatigue\nEvery day they're deciding:\n- Which laser to buy.\n- Whether to hire.\n- Whether to fire.\n- Whether to increase ad spend.\n- Whether to lower prices.\n- Which vendor is telling the truth.\n\nThey're mentally exhausted.\n\n### Comparison\nThey open Instagram and see competitors \"crushing it.\"\n\nMeanwhile they're wondering:\n- \"Why am I working harder than everyone else?\"\n- \"Am I doing something wrong?\"\n- \"Why isn't my practice growing?\"\n\n### Fear of failure\nMany invested their savings.\nSome mortgaged their homes.\nSome left stable careers.\n\nThe thought they rarely say out loud is:\n> \"What if I fail after everyone believed in me?\"\n\n### What they actually want\nThey don't really want:\n- More leads.\n- Better ads.\n- A CRM.\n- AI.\n\nThey want:\n- Predictable revenue.\n- A team they can trust.\n- Patients who keep coming back.\n- A business that doesn't depend on them every hour.\n- The freedom to enjoy the life they built the practice to create.\n\nThat last point is the emotional outcome almost every growth-minded owner is chasing. Your messaging becomes much stronger when you sell **freedom, predictability, and confidence** rather than marketing tactics or more appointments."
+          ]
+        },
+        "create_time": 1784865020.472206,
+        "id": "ee071f54-62e3-4fa6-95b3-fd792f00da7e",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "([Zenoti](https://www.zenoti.com/thecheckin/medspa-patient-retention-mistakes?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Zenoti",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1784246400.0,
+                  "refs": [
+                    {
+                      "ref_index": 10,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 6,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [
+                    {
+                      "attribution": "American Med Spa Association",
+                      "pub_date": null,
+                      "snippet": "",
+                      "title": "The 2022 Medical Spa State of the Industry Executive Summary in Context - American Med Spa Association",
+                      "url": "https://www.americanmedspa.org/news/the-2022-medical-spa-state-of-the-industry-executive-summary-in-context/?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "10 Medspa Patient Retention Mistakes and How to Fix Them | The CheckIn by Zenoti",
+                  "url": "https://www.zenoti.com/thecheckin/medspa-patient-retention-mistakes?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([American Med Spa Association](https://www.americanmedspa.org/news/whats-holding-back-most-med-spas-hint-its-not-capital/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "American Med Spa Association",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1769644800.0,
+                  "refs": [
+                    {
+                      "ref_index": 1,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [
+                    {
+                      "attribution": "American Med Spa Association",
+                      "pub_date": null,
+                      "snippet": "",
+                      "title": "Finding and Training Quality Staff the Top Concern of Medical Spa Owners - American Med Spa Association",
+                      "url": "https://www.americanmedspa.org/news/finding-and-training-quality-staff-the-top-concern-of-medical-spa-owners/?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "What\u2019s Holding Back Most Med Spas (Hint: It\u2019s Not Capital) - American Med Spa Association",
+                  "url": "https://www.americanmedspa.org/news/whats-holding-back-most-med-spas-hint-its-not-capital/?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prefix": null,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "Zenoti",
+                  "title": "10 Medspa Patient Retention Mistakes and How to Fix Them | The CheckIn by Zenoti",
+                  "url": "https://www.zenoti.com/thecheckin/medspa-patient-retention-mistakes?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "American Med Spa Association",
+                  "title": "What\u2019s Holding Back Most Med Spas (Hint: It\u2019s Not Capital) - American Med Spa Association",
+                  "url": "https://www.americanmedspa.org/news/whats-holding-back-most-med-spas-hint-its-not-capital/?utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "5a7d2071-0444-4839-b68a-3008a9eb99db",
+          "search_result_groups": [
+            {
+              "domain": "americanmedspa.org",
+              "entries": [
+                {
+                  "attribution": "americanmedspa.org",
+                  "snippet": "FINDING AND TRAINING QUALITY STAFF THE TOP CONCERN OF MEDICAL SPA OWNERS  October 16, 2018  By Alex R. Thiersch, CEO of the American Med Spa Association  In 2017, AmSpa conducted a survey that asked...",
+                  "title": "Finding and Training Quality Staff the Top Concern of Medical Spa Owners - American Med Spa Association",
+                  "url": "https://www.americanmedspa.org/news/finding-and-training-quality-staff-the-top-concern-of-medical-spa-owners/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "americanmedspa.org",
+                  "snippet": "Industry ReportStrato Doumanis2026-04-22T10:22:20-05:00  AmSpa Research    Medical Spa State of the Industry Report  Business, operations, staffing, and legal statistics for a medical aesthetics indu...",
+                  "title": "Industry Report - American Med Spa Association",
+                  "url": "https://www.americanmedspa.org/med-spa-statistics/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "americanmedspa.org",
+                  "snippet": "THE 2022 MEDICAL SPA STATE OF THE INDUSTRY EXECUTIVE SUMMARY IN CONTEXT  January 24, 2023  Figure displays medical aesthetics industry annual revenue ($ in billions).  By Madilyn Moeller  Day-to-day...",
+                  "title": "The 2022 Medical Spa State of the Industry Executive Summary in Context - American Med Spa Association",
+                  "url": "https://www.americanmedspa.org/news/the-2022-medical-spa-state-of-the-industry-executive-summary-in-context/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "clarityrcm.com",
+              "entries": [
+                {
+                  "attribution": "clarityrcm.com",
+                  "snippet": "SURVEY: DERMATOLOGY PRACTICES OVERWHELMED BY MOUNTING OPERATIONAL DEMANDS  Image  Clarity Insights  Jun 30, 2026  New Clarity RCM research also finds patient use of AI and social media for self-diagno...",
+                  "title": "Survey: Dermatology practices overwhelmed by mounting operational demands",
+                  "url": "https://www.clarityrcm.com/articles/clarity-rcm-2026-state-of-dermatology-survey?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "clarityrcm.com",
+                  "snippet": "A Clarity RCM Original Survey \u00b7 2026  THE STATE OF INDEPENDENT DERMATOLOGY  An original survey of 156 dermatology practice owner-operators on financial visibility, private equity, workforce strain, a...",
+                  "title": "Clarity RCM \u2014 State of Independent Dermatology 2026",
+                  "url": "https://report.clarityrcm.com/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "zenoti.com",
+              "entries": [
+                {
+                  "attribution": "zenoti.com",
+                  "snippet": "2026 MEDSPA CONSUMER TRENDS - AI, COMMUNICATION, AND CLIENT LOYALTY  What defines a great medspa in 2026? A new survey of 1,100+ U.S. clients reveals the surprising answers.  Cheryl Cole|  Reviewed b...",
+                  "title": "Medspa booking habits: key survey data for 2024 and 2025 | The Check-In by Zenoti",
+                  "url": "https://www.zenoti.com/thecheckin/medspa-booking-survey-data?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "zenoti.com",
+                  "snippet": "2025 SURVEY INFOGRAPHICS: WHAT MEDSPA CLIENTS EXPECT FOR 2026 \u2014 FROM AI TO AFTER-HOURS SUPPORT  1,100 U.S. medspa clients reveals what matters most: After-hours support, AI receptionists, and the qua...",
+                  "title": "AI receptionist for medspas: survey results revealed | The Check-In by Zenoti",
+                  "url": "https://www.zenoti.com/thecheckin/ai-receptionist-medspa-survey-results?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "shefmon.com",
+              "entries": [
+                {
+                  "attribution": "shefmon.com",
+                  "snippet": "WHAT ARE THE BIGGEST CHALLENGES OF RUNNING A MED SPA?  * admin * Jul 14 2026  Image  Running a med spa is more difficult than opening a beauty salon with a few machines.  A med spa often sits between...",
+                  "title": "What Are the Biggest Challenges of Running a Med Spa? - Beauty Equipment Manufacturer & OEM Factory | SHEFMON",
+                  "url": "https://shefmon.com/what-are-the-biggest-challenges-of-running-a-med-spa/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "ascnews.com",
+              "entries": [
+                {
+                  "attribution": "ascnews.com",
+                  "snippet": "* # From Budget Bleed to Burnout: The Top ASC Challenges Defining 2025  March 25, 2025 by Robert Holly  ImageImage by Andrew Khoroshavin from Pixabay  Rising operational costs and staffing constraints...",
+                  "title": "From Budget Bleed to Burnout: The Top ASC Challenges Defining 2025 - Ambulatory Surgery Center News",
+                  "url": "https://ascnews.com/2025/03/from-budget-bleed-to-burnout-the-top-asc-challenges-defining-2025/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "mgma.com",
+              "entries": [
+                {
+                  "attribution": "mgma.com",
+                  "snippet": "5 BIG CHALLENGES FOR MEDICAL PRACTICES (AND WHY THEY ALL TIE BACK TO STAFFING)  Home\u00a0>\u00a0MGMA Stat\u00a0>\u00a0MGMA Stat  8/20/2025  [Input]  Image: Chris Harrop  Chris Harrop  This week\u2019s MGMA Stat poll points...",
+                  "title": "5 big challenges for medical practices (and why they all tie back to staffing)",
+                  "url": "https://www.mgma.com/mgma-stat/5-big-challenges-for-medical-practices?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "5a7d2071-0444-4839-b68a-3008a9eb99db"
+    },
+    "ff485ef1-b1e7-4c48-bdf6-d683c3ca06f7": {
+      "id": "ff485ef1-b1e7-4c48-bdf6-d683c3ca06f7",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "The honest answer is: **no one knows exactly.** There isn't an industry report that tracks what percentage of med spa owners buy business courses.\n\nBased on the industry, though, here's a reasonable estimate:\n\n- **80-90%** of med spa owners will **never buy** a business growth course. They rely on YouTube, Facebook groups, conferences, vendor reps, or trial and error.\n- **10-20%** will purchase at least one educational product, coaching program, mastermind, or online course during the life of their practice.\n- Of those who do buy education, only a small subset (perhaps **2-5% of all owners**) invest repeatedly in premium coaching or implementation programs. These tend to be owners doing $750K+ annually who view education as an investment rather than an expense.\n\nThe important distinction is **who** buys.\n\nMost successful course buyers are:\n- Growth-minded owners already generating revenue.\n- Frustrated because they're stuck between roughly $500K and $2M in annual revenue.\n- Looking for systems, leadership, marketing, or operations, not just injector training.\n\nBy contrast, **clinical training** (Botox, lasers, injectables, certifications) is a much larger market than **business growth courses**. Market research shows online and hybrid medical aesthetics training continues to grow rapidly, but practice management and marketing education remains a relatively small portion of overall training demand. \ue200cite\ue202turn0search7\ue202turn0search1\ue201\n\nFor your business, this is actually good news.\n\nYou're **not** selling to every med spa owner. The American Med Spa Association estimates that about **90% of med spas are independently owned**, meaning the decision maker is usually the owner sitting in front of you. \ue200cite\ue202turn0search0\ue201\n\nThat means your ideal customer is likely the owner who:\n- Already spends money to grow (ads, coaching, consultants).\n- Knows they're leaking revenue.\n- Wants implementation, accountability, and measurable ROI.\n\nThose owners are far more likely to buy a **done-with-you or done-for-you growth partnership** than a standalone course. In fact, positioning your course as a support tool inside a higher-touch program, rather than as the primary product, is likely to attract a much higher-value client."
+          ]
+        },
+        "create_time": 1784864951.198288,
+        "id": "ff485ef1-b1e7-4c48-bdf6-d683c3ca06f7",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "([P Market Research](https://pmarketresearch.com/worldwide-medical-aesthetics-online-training-market-research/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "P Market Research",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1781913600.0,
+                  "refs": [
+                    {
+                      "ref_index": 7,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 1,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [
+                    {
+                      "attribution": "Absolute Reports",
+                      "pub_date": null,
+                      "snippet": "",
+                      "title": "Medical Aesthetics Training Market Growth, Size & Trends Analysis 2035",
+                      "url": "https://www.absolutereports.com/market-reports/medical-aesthetics-training-market-2752?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Worldwide Medical Aesthetics Online Training Market 2026 - PW Consulting",
+                  "url": "https://pmarketresearch.com/worldwide-medical-aesthetics-online-training-market-research/?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([American Med Spa Association](https://www.americanmedspa.org/news/the-evolving-face-of-medical-spa-ownership/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "American Med Spa Association",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1672099200.0,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [],
+                  "title": "The Evolving Face of Medical Spa Ownership - American Med Spa Association",
+                  "url": "https://www.americanmedspa.org/news/the-evolving-face-of-medical-spa-ownership/?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prefix": null,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "P Market Research",
+                  "title": "Worldwide Medical Aesthetics Online Training Market 2026 - PW Consulting",
+                  "url": "https://pmarketresearch.com/worldwide-medical-aesthetics-online-training-market-research/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "American Med Spa Association",
+                  "title": "The Evolving Face of Medical Spa Ownership - American Med Spa Association",
+                  "url": "https://www.americanmedspa.org/news/the-evolving-face-of-medical-spa-ownership/?utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "6ded1068-52a4-43dc-9430-933495a1779b",
+          "search_result_groups": [
+            {
+              "domain": "absolutereports.com",
+              "entries": [
+                {
+                  "attribution": "absolutereports.com",
+                  "snippet": "MEDICAL AESTHETICS TRAINING MARKET SIZE, SHARE, GROWTH, AND INDUSTRY ANALYSIS, BY TYPE (LIVE HANDS-ON TRAINING, ONLINE TRAINING), BY APPLICATION (PHYSICIANS, DENTISTS, NURSES, OTHERS), REGIONAL INSIG...",
+                  "title": "Medical Aesthetics Training Market Growth, Size & Trends Analysis 2035",
+                  "url": "https://www.absolutereports.com/market-reports/medical-aesthetics-training-market-2752?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "thethrivewellness.com",
+              "entries": [
+                {
+                  "attribution": "thethrivewellness.com",
+                  "snippet": "GROW YOUR MEDSPA.  The playbook, tools, and strategies to scale the practice you've already built \u2014 taught by a real MedSpa owner and national trainer.  Enroll Now  $497  one-time \u00b7 lifetime access...",
+                  "title": "Academy | Elevate Your Practice Today \u2014 Thrive Wellness",
+                  "url": "https://www.thethrivewellness.com/academy?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "allure.com",
+              "entries": [
+                {
+                  "attribution": "allure.com",
+                  "snippet": "A study published in 2019 in Dermatologic Surgery found that of nearly 250 med spas reviewed, only 72% advertised a medical director on their website. Of that group, less than half were trained in eit...",
+                  "title": "Why America\u2019s Med Spa Boom Is Raising Big Safety and Oversight Questions | Allure",
+                  "url": "https://www.allure.com/story/med-spa-nation-rise-of-medical-spas?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "americanmedspa.org",
+              "entries": [
+                {
+                  "attribution": "americanmedspa.org",
+                  "snippet": "84% OF MEDICAL SPA OWNERS EXPECT REVENUES TO INCREASE IN 2024  This suggests that medical spa owners believe in the continued strength of demand for medical aesthetics treatments. Furthermore, 54% of...",
+                  "title": "2024 Medical Spa State of the Industry Executive Report Recap - American Med Spa Association",
+                  "url": "https://www.americanmedspa.org/news/2024-medical-spa-state-of-the-industry-executive-report-recap/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "americanmedspa.org",
+                  "snippet": "Medical spas see an average of 283 non-surgical aesthetic patient visits per month. Patients spend $536 per visit in 2022, on average. This is up from 2019 reports of $459 per patient in single-locat...",
+                  "title": "The 2022 Medical Spa State of the Industry Executive Summary in Context - American Med Spa Association",
+                  "url": "https://www.americanmedspa.org/news/the-2022-medical-spa-state-of-the-industry-executive-summary-in-context/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "americanmedspa.org",
+                  "snippet": "SELLING ONLINE: IS E-COMMERCE RIGHT FOR MY BUSINESS?  October 14, 2021  By DermPRO  You might have noticed the hype about the explosive growth of e-commerce that has been triggered by COVID-19. Forbe...",
+                  "title": "Selling Online: Is E-commerce Right for My Business? - American Med Spa Association",
+                  "url": "https://www.americanmedspa.org/news/selling-online-is-e-commerce-right-for-my-business/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "globalgrowthinsights.com",
+              "entries": [
+                {
+                  "attribution": "globalgrowthinsights.com",
+                  "snippet": "MEDICAL AESTHETICS TRAINING MARKET SIZE, SHARE, GROWTH, AND INDUSTRY ANALYSIS, BY TYPES (LIVE HANDS ON TRAINING, ONLINE TRAINING), BY APPLICATIONS (PHYSICIANS, DENTISTS, NURSES, OTHERS)\u00a0, AND REGIONA...",
+                  "title": "Medical Aesthetics Training Market Size & Demand Analysis by 2035",
+                  "url": "https://www.globalgrowthinsights.com/market-reports/medical-aesthetics-training-market-125120?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "dataintelo.com",
+              "entries": [
+                {
+                  "attribution": "dataintelo.com",
+                  "snippet": "HOW IS ONLINE MEDICAL AESTHETICS TRAINING IMPACTING MARKET GROWTH IN 2026?  Online aesthetic training platforms have experienced 22.4% growth in 2026, with virtual learning now representing 34.6% of t...",
+                  "title": "Medical Aesthetics Training Market Research Report 2033",
+                  "url": "https://dataintelo.com/report/medical-aesthetics-training-market?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "ruzuku.com",
+              "entries": [
+                {
+                  "attribution": "ruzuku.com",
+                  "snippet": "THE STATE OF ONLINE COURSES IN 2026: WHAT THE DATA SHOWS  The definitive data-driven analysis of online courses in 2026. Market size, creator revenue benchmarks, completion rates, AI adoption, and pr...",
+                  "title": "State of Online Courses 2026: Market Data, Trends & Creator Revenue",
+                  "url": "https://www.ruzuku.com/learn/articles/state-of-online-courses-2026?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "aicoursify.com",
+              "entries": [
+                {
+                  "attribution": "aicoursify.com",
+                  "snippet": "WHO BUYS ONLINE COURSES? MARKET INSIGHTS FOR 2026  By Stefan\u2022January 9, 2026  Updated on June 2, 2026  Back to all posts  \u26a1 TL;DR \u2013 KEY TAKEAWAYS  * \u2713The global e-learning market is projected to hit...",
+                  "title": "Who Buys Online Courses? Market Insights for 2026",
+                  "url": "https://www.aicoursify.com/blog/who-buys-online-courses?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "6ded1068-52a4-43dc-9430-933495a1779b"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Medspa Owners Course Purchases",
+  "update_time": 1784865027.29788,
+  "voice": null
+}

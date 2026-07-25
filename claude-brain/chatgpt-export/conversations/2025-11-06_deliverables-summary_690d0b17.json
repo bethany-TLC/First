@@ -1,0 +1,72 @@
+{
+  "conversation_id": "690d0b17-9490-832d-b741-81fb816e33ca",
+  "conversation_template_id": null,
+  "create_time": 1762462495.806933,
+  "current_node": "53ed8d0d-41b3-4986-9659-fb36547656e7",
+  "default_model_slug": "gpt-5",
+  "id": "690d0b17-9490-832d-b741-81fb816e33ca",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "1d9a59e7-af99-4b71-9cd4-5877837e298d": {
+      "id": "1d9a59e7-af99-4b71-9cd4-5877837e298d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "summarize these deliverables Strategic positioning and messaging development\n\nB2B collateral creation (partnership deck, case studies, ROI calculator)\n\nProspect database build (300-600 qualified contacts)\n\nCRM setup and pipeline design\n\nEmail and LinkedIn sequence creation\n\nSales enablement materials\n\nMonthly Management: $4,500\n\nIncludes:\n\nOngoing outreach campaign management (LinkedIn + Email)\n\nDaily response monitoring and engagement\n\nLead qualification and routing\n\nCRM maintenance and pipeline reporting\n\nMonthly strategy call and optimization\n\nCreative refresh for sequences and messaging\n\nPerformance analytics and forecasting"
+          ]
+        },
+        "create_time": 1762462494.818,
+        "id": "1d9a59e7-af99-4b71-9cd4-5877837e298d",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "53ed8d0d-41b3-4986-9659-fb36547656e7": {
+      "id": "53ed8d0d-41b3-4986-9659-fb36547656e7",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a concise summary of your deliverables:  \n\n---\n\n### **Project Deliverables Overview**\n\n**Phase 1: Build + Launch**\n- **Strategic Positioning & Messaging:** Develop core brand narrative and value proposition.  \n- **B2B Collateral Creation:** Design partnership deck, case studies, and ROI calculator.  \n- **Prospect Database Build:** Curate 300\u2013600 qualified target contacts.  \n- **CRM Setup & Pipeline Design:** Configure system for lead tracking and automation.  \n- **Email & LinkedIn Sequences:** Write and deploy outreach campaigns.  \n- **Sales Enablement Assets:** Create scripts, objection-handling guides, and follow-up templates.  \n\n---\n\n### **Phase 2: Monthly Management ($4,500/month)**\n- **Outreach Campaign Management:** Ongoing execution across LinkedIn and email.  \n- **Lead Monitoring & Qualification:** Daily response handling, engagement, and routing to sales.  \n- **CRM Maintenance:** Data hygiene, pipeline updates, and performance tracking.  \n- **Optimization & Strategy:** Monthly review calls, message refresh, and campaign refinement.  \n- **Reporting:** Regular analytics and forecasting on lead flow and ROI performance.  \n\n---\n\nWould you like me to format this as a one-page proposal summary or slide content?"
+          ]
+        },
+        "create_time": 1762462495.68369,
+        "id": "53ed8d0d-41b3-4986-9659-fb36547656e7",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "b1836392-839e-4d52-ae1f-2891a63ee4fe"
+        }
+      },
+      "parent": "1d9a59e7-af99-4b71-9cd4-5877837e298d"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Deliverables summary",
+  "update_time": 1762462519.696338,
+  "voice": null
+}

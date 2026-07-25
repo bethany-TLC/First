@@ -1,0 +1,95 @@
+{
+  "conversation_id": "6a56e934-7244-83e8-be32-e84b49b0d149",
+  "conversation_template_id": null,
+  "create_time": 1784080753.617529,
+  "current_node": "a5e39571-bf71-4ed3-a6f1-ce0946cc910d",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a56e934-7244-83e8-be32-e84b49b0d149",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "9fd4ce14-d477-4355-bb99-2f0913d2f82b": {
+      "id": "9fd4ce14-d477-4355-bb99-2f0913d2f82b",
+      "message": null,
+      "parent": null
+    },
+    "a5e39571-bf71-4ed3-a6f1-ce0946cc910d": {
+      "id": "a5e39571-bf71-4ed3-a6f1-ce0946cc910d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a version that feels powerful, personal, and unapologetically you:\n\n:::writing{variant=\"social_post\" id=\"58321\"}\nLife has tried me in ways I don\u2019t even talk about.\n\nI\u2019ve been knocked down. Betrayed. Hurt. Misunderstood. Used. Underestimated. I\u2019ve lost people, lost money, lost time, and lost versions of myself I thought I\u2019d never get back.\n\nAnd yet\u2026 here the fuck I am.\n\nStill standing.  \nStill building.  \nStill loving.  \nStill dreaming bigger.  \nStill believing that everything I\u2019ve walked through has been preparing me for where I\u2019m going.\n\nI know who the fuck I am now.\n\nI am resourceful.  \nI am resilient.  \nI am relentless when it comes to the life I know I\u2019m meant to live.\n\nMy track record speaks louder than my fear.\n\nI have survived 100% of the shit I thought would destroy me. Every single time life tried to break me, I figured it out. I rebuilt. I learned. I got stronger. And I kept fucking going.\n\nSo no, I\u2019m not letting anyone detour me from my mission, my path, or my destiny.\n\nNot the people who doubted me.  \nNot the people who betrayed me.  \nNot the people who misunderstood me.  \nNot the people who wanted me smaller, quieter, easier to control, or easier to break.\n\nFuck everyone who tried to stand in the way of the woman I was becoming.\n\nYou didn\u2019t stop me.\n\nYou helped build her.\n\nI know where I\u2019m going. I know what I\u2019m capable of. And I know that the same God who carried me through every chapter I thought would destroy me didn\u2019t bring me this far to leave me here.\n\nThis next chapter?\n\nI\u2019m walking into it with scars, wisdom, fire, faith, and absolutely no intention of asking for permission.\n\nI have done hard things before.\n\nI\u2019ll fucking do them again. \u2728\n:::"
+          ]
+        },
+        "create_time": 1784080876.234773,
+        "id": "a5e39571-bf71-4ed3-a6f1-ce0946cc910d",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "9f0efe8f-db05-4093-a7fa-c578563b6e6f"
+        }
+      },
+      "parent": "bbb2109a-f2b8-4954-b911-7d067e30ae51"
+    },
+    "bbb2109a-f2b8-4954-b911-7d067e30ae51": {
+      "id": "bbb2109a-f2b8-4954-b911-7d067e30ae51",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Now write a post about how life has been and who the fuck I am and how nothing is going to detour me from my mission, my path and my destiny. Fk everyone who tried to get in the way"
+          ]
+        },
+        "create_time": 1784080875.976034,
+        "id": "bbb2109a-f2b8-4954-b911-7d067e30ae51",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "bbb21e70-ab82-40a5-adeb-2ab259b724b7"
+    },
+    "bbb21e70-ab82-40a5-adeb-2ab259b724b7": {
+      "id": "bbb21e70-ab82-40a5-adeb-2ab259b724b7",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "REPEAT AFTER ME \u2728I have survived 100% of the shit I thought would destroy me.My track record speaks louder than my fear.I am resourceful.I am resilient.I have done hard things before.I\u2019ll do them again.\n\nMake this prettier for a Instagram worthy "
+          ]
+        },
+        "create_time": 1784080741.528664,
+        "id": "bbb21e70-ab82-40a5-adeb-2ab259b724b7",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "9fd4ce14-d477-4355-bb99-2f0913d2f82b"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Instagram Graphic Design",
+  "update_time": 1784081022.624898,
+  "voice": null
+}

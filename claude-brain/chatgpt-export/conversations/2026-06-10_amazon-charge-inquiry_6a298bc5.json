@@ -1,0 +1,108 @@
+{
+  "conversation_id": "6a298bc5-e87c-83e8-97e3-959c27607303",
+  "conversation_template_id": null,
+  "create_time": 1781107659.867059,
+  "current_node": "15992ebb-9551-4e91-b291-222473fd5f7a",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a298bc5-e87c-83e8-97e3-959c27607303",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "15992ebb-9551-4e91-b291-222473fd5f7a": {
+      "id": "15992ebb-9551-4e91-b291-222473fd5f7a",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Those appear to be **Amazon purchases**, but the bank statement only shows the merchant descriptors, not the exact items:\n\n- **AMAZON MARK* HX5A631I3 SEATTLE WA**\n  - \"AMAZON MARK*\" usually indicates an Amazon Marketplace purchase from a third-party seller on Amazon.\n\n- **AMAZON RETA* PE3U01VX3 SEATTLE WA**\n  - \"AMAZON RETA*\" often refers to a retail purchase through Amazon (sometimes a regular Amazon order, digital item, or other Amazon transaction).\n\nTo find exactly what they were:\n\n1. Log in to your Amazon account.\n2. Go to **Your Orders**.\n3. Check orders placed around **May 30, 2026**.\n4. Match the order totals to the amounts on your bank statement.\n\nIf you don't recognize them:\n- Check **Archived Orders**.\n- Check other household members' Amazon accounts.\n- Look under **Memberships & Subscriptions**.\n- Review **Amazon Pay** transactions.\n\nIf you share the **amounts** of the charges (you can crop out any sensitive information), I can help narrow down what type of Amazon transactions they likely were."
+          ]
+        },
+        "create_time": 1781107659.751953,
+        "id": "15992ebb-9551-4e91-b291-222473fd5f7a",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "a4dfc2b1-b32e-4cef-ae46-b19f2b1d1b21"
+        }
+      },
+      "parent": "8a8c0eae-3317-4c3b-be0d-7f6c727ace04"
+    },
+    "8a8c0eae-3317-4c3b-be0d-7f6c727ace04": {
+      "id": "8a8c0eae-3317-4c3b-be0d-7f6c727ace04",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_00000000e108722f9b37f20b1698c1fa",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 52,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 5760,
+              "width": 482
+            },
+            "what are tehse charges "
+          ]
+        },
+        "create_time": 1781107660.26,
+        "id": "8a8c0eae-3317-4c3b-be0d-7f6c727ace04",
+        "metadata": {
+          "attachments": [
+            {
+              "height": 52,
+              "id": "file_00000000e108722f9b37f20b1698c1fa",
+              "is_big_paste": false,
+              "library_file_id": "libfile_a4a7c94471848191902140da79118a88",
+              "mime_type": "image/png",
+              "name": "3eb93882-8793-40f0-9f47-7d8a84804566.png",
+              "size": 5760,
+              "source": "local",
+              "width": 482
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Amazon Charge Inquiry",
+  "update_time": 1781107669.889769,
+  "voice": null
+}

@@ -1,0 +1,94 @@
+{
+  "conversation_id": "69a420b8-243c-8326-9d5c-809857fe6fa3",
+  "conversation_template_id": null,
+  "create_time": 1772364005.697767,
+  "current_node": "9d16f828-ca4f-4e6e-a7da-a53cdd7811b4",
+  "default_model_slug": "gpt-5-2",
+  "id": "69a420b8-243c-8326-9d5c-809857fe6fa3",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "645cd2da-8e31-4bce-bd77-6eb934a51045": {
+      "id": "645cd2da-8e31-4bce-bd77-6eb934a51045",
+      "message": null,
+      "parent": null
+    },
+    "9d16f828-ca4f-4e6e-a7da-a53cdd7811b4": {
+      "id": "9d16f828-ca4f-4e6e-a7da-a53cdd7811b4",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "create_time": 1772364089.471552,
+        "id": "9d16f828-ca4f-4e6e-a7da-a53cdd7811b4",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "ea2b9ce5-3883-4f6c-97ee-ccb145a45d2d"
+        }
+      },
+      "parent": "bbb21d48-9621-45f4-9b0f-5a7277f368c9"
+    },
+    "bbb21d48-9621-45f4-9b0f-5a7277f368c9": {
+      "id": "bbb21d48-9621-45f4-9b0f-5a7277f368c9",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_000000006ba871f5886aaa84788601f4",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 2048,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 423605,
+              "width": 1536
+            },
+            "Can you take this photo and remove the orange shirt logo that she is wearing underneath her dress and maybe lighten the photo a little."
+          ]
+        },
+        "create_time": 1772364005.313141,
+        "id": "bbb21d48-9621-45f4-9b0f-5a7277f368c9",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "645cd2da-8e31-4bce-bd77-6eb934a51045"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Photo Editing Request",
+  "update_time": 1772364092.810699,
+  "voice": null
+}

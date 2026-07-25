@@ -1,0 +1,71 @@
+{
+  "conversation_id": "69b7467e-3ee0-832c-9c9f-7e2be36ea5ca",
+  "conversation_template_id": null,
+  "create_time": 1773618827.115732,
+  "current_node": "e7584aa7-7865-4338-ac5f-0c4917cf0906",
+  "default_model_slug": "gpt-5-3",
+  "id": "69b7467e-3ee0-832c-9c9f-7e2be36ea5ca",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "bbb21791-65d9-4bd1-87ca-8b1c9caf5312": {
+      "id": "bbb21791-65d9-4bd1-87ca-8b1c9caf5312",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Rewrite this my ex husband : Grant,\nPer our agreement there is a 10 day window for us to get everything settled. But I am being rushed into surgery Tuesday and will not be around for several weeks due to long recovery times to finalize any accounts being transfer or a check give to me.\u00a0\nWhat is the status of getting my money to me?\u00a0\nIf I went to bank of America tomorrow to sign off on accounts, you'd need to go in after me to do the same."
+          ]
+        },
+        "create_time": 1773618826.888135,
+        "id": "bbb21791-65d9-4bd1-87ca-8b1c9caf5312",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "caaa4586-9fb0-4e27-843c-06ffc6102cff"
+    },
+    "caaa4586-9fb0-4e27-843c-06ffc6102cff": {
+      "id": "caaa4586-9fb0-4e27-843c-06ffc6102cff",
+      "message": null,
+      "parent": null
+    },
+    "e7584aa7-7865-4338-ac5f-0c4917cf0906": {
+      "id": "e7584aa7-7865-4338-ac5f-0c4917cf0906",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Grant,\n\nPer our agreement, there is a 10-day window for us to finalize the remaining financial matters. However, I am being rushed into surgery on Tuesday and will be unavailable for several weeks during recovery, which makes it difficult to complete any account transfers or receive a check in person during that time.\n\nPlease let me know the current status of getting my funds to me so we can ensure this is handled within the agreed timeline.\n\nIf I go to Bank of America tomorrow to sign off on the accounts, you would need to go in afterward to complete your portion of the process.\n\nPlease advise on how you would like to proceed so this can be resolved promptly."
+          ]
+        },
+        "create_time": 1773618827.013015,
+        "id": "e7584aa7-7865-4338-ac5f-0c4917cf0906",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "9d476e50-dc7a-4552-9ead-0761e90cf4b3"
+        }
+      },
+      "parent": "bbb21791-65d9-4bd1-87ca-8b1c9caf5312"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Ex-Husband Financial Request",
+  "update_time": 1773618831.975823,
+  "voice": null
+}

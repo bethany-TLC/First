@@ -1,0 +1,415 @@
+{
+  "conversation_id": "68a39c6b-c374-8331-ba5d-2838d533b5fb",
+  "conversation_template_id": null,
+  "create_time": 1755552889.19151,
+  "current_node": "f9cb02be-5551-4f95-898a-5561127310f7",
+  "default_model_slug": "auto",
+  "id": "68a39c6b-c374-8331-ba5d-2838d533b5fb",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "1377fb90-ce00-4b53-b565-004b17463af4": {
+      "id": "1377fb90-ce00-4b53-b565-004b17463af4",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "create an actionable item email that explains these are the things we will be going over tomorrow on the call: Overview\r\nJamie currently controls Andrea's Facebook business page, posing a risk of losing access; Ivan advises against creating a new page and suggests adding agencies as partners instead.\r\nFacebook campaign approval is still pending, expected to take 2-3 weeks before launch; the SMS reactivation campaign is 95% complete, awaiting final treatment timeline input.\r\nLaser treatments identified as the priority campaign due to their high ROI, while hormone therapy will require more education and development before launch.\r\nLaser treatment pricing set at $1,500 per session, discounted from $3,000, with a maximum of three sessions annually.\r\nA 5% revenue share agreement will govern all new revenue from the marketing efforts, but revenue tracking issues exist due to multiple payment systems.\r\nProposed solution for revenue tracking includes migrating transactions through a single Stripe terminal, enabling automation and easier cross-referencing.\r\nAndrea confirmed payment processing for her services by Wednesday morning, facilitating movement on other issues.\r\nA comprehensive treatment timelines spreadsheet and a knowledge database covering all services are needed for efficient client management and documentation.\r\nIvan's team will have limited availability between August 27th and September 2nd due to a wedding, although partial support will remain available during that time.\r\nBethany is coordinating an intensive work session to address all documentation requirements before the end of the month.\r\n\r\nNotes\r\nFacebook Page Ownership Issue (08:08 - 12:25)\r\nJamie (current social media manager) controls Andrea's business page, creating a critical ownership problem that could result in losing the page if the relationship ends.\r\nIvan strongly advised against creating a second page, proposing instead to add agencies as partners to work on the same page using separate ad accounts.\r\nBethany plans to have her lawyer draft a demand letter if necessary to transfer page ownership, emphasizing that social media profiles belong to the client.\r\nRecommended approach: politely request page ownership transfer while adding Jamie as a partner for continued collaboration.\r\nCampaign Status & Technical Setup (14:22 - 52:22)\r\nFacebook campaign approval still pending review, expected to take 2-3 weeks before launch.\r\nSMS reactivation campaign system is 95% complete, waiting on treatment timeline information to reach 100%.\r\nAI training and knowledge base setup planned as primary deliverable for this meeting.\r\nGHL platform ready with lead connector app for Andrea's use in managing services and payments.\r\nService Strategy & Prioritization (16:44 - 29:10)\r\nLaser treatments identified as priority launch campaign due to high ROI, existing processes, and renewable income potential.\r\nHormone therapy campaign requires educational approach, longer timeline, website rebranding, and package development - positioned as secondary priority.\r\nAiden (consultant/team member) researching ad performance data for both laser and hormone campaigns to determine optimal launch strategy.\r\nLaser pricing strategy: $1,500 per session (discounted from $3,000) for CO2 treatments, maximum 3 sessions annually.\r\nRevenue Tracking & Partnership Structure (37:38 - 01:05:56)\r\n5% revenue share agreement covers all new revenue generated from their marketing efforts.\r\nRevenue tracking challenges discussed due to multiple payment systems (Stripe, Square, in-person payments) requiring manual cross-referencing.\r\nProposed solution: migrate all transactions through Stripe terminal and Lead Connector app for automated tracking.\r\nPartnership represents first white-label arrangement for Ivan's agency, creating learning opportunity for both parties.\r\n\ufe0f Client Payment & Timeline (01:03:33 - 01:05:56)\r\nAndrea confirmed payment processing by Wednesday AM after meeting with SBA loan officer Friday.\r\nBethany planning afternoon meeting with Andrea to finalize retainer payment and move forward.\r\nCurrent Jamie contract expires end of month, providing deadline for Facebook page resolution.\r\nDeliverables & Documentation Needed (27:03 - 55:45)\r\nTreatment timelines spreadsheet required showing follow-up schedules for different services (laser, TRT, etc.).\r\nComprehensive knowledge database needed covering all treatments, FAQs, pricing, Andrea's background, and company information in organized folder structure.\r\nComplete service catalog with pricing to be created in CRM system for streamlined client charging.\r\nAvailability & Project Management (36:28 - 01:09:01)\r\nIvan's team will have limited availability August 27th - September 2nd for Miami wedding, though partial support will remain available.\r\nBethany scheduling intensive work session Tuesday afternoon to complete all documentation requirements.\r\n\r\nAction items\r\nBethany Gifford\r\nCreate treatment timelines spreadsheet showing follow-up schedules for all services (27:03)\r\nDevelop comprehensive knowledge database in Word document format covering treatments, FAQs, pricing, and company information (32:30)\r\nPrepare complete service catalog with pricing for CRM integration (55:45)\r\nMeet with Andrea Tuesday afternoon to finalize payment and retainer (13:50)\r\nDraft email response to Jamie regarding Facebook page ownership transfer for Andrea's approval (12:25)\r\nPropose migrating all client payments through Stripe terminal and Lead Connector app (53:37)\r\nIvan Guzman\r\nComplete SMS reactivation campaign setup once treatment timelines are received (14:53)\r\nSet up all of Andrea's services and pricing in the CRM platform (55:45)\r\nTrain AI knowledge base once documentation is provided (56:43)\r\nSend invoice to Bethany once Andrea confirms payment (01:04:42)\r\nCoordinate with Aiden on laser vs hormone campaign performance research (16:44)\r\nAndrea\r\nTransfer Facebook page ownership from Jamie (08:08)\r\nFinalize SBA loan and retainer payment by Wednesday AM (01:03:33)\r\nProvide input on treatment timeline preferences with Bethany (27:03)\r\n\nPlease write in English language."
+          ]
+        },
+        "create_time": 1755553808.627,
+        "id": "1377fb90-ce00-4b53-b565-004b17463af4",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "932a1370-dc2b-42ec-a6fd-0c9be31c1b09"
+    },
+    "5ae64e12-a4ab-4d08-a5bf-79fee61c0043": {
+      "id": "5ae64e12-a4ab-4d08-a5bf-79fee61c0043",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content": "Thought for 43s",
+          "content_type": "reasoning_recap"
+        },
+        "create_time": 1755552966.508446,
+        "id": "5ae64e12-a4ab-4d08-a5bf-79fee61c0043",
+        "metadata": {
+          "model_slug": "gpt-5-thinking",
+          "parent_id": "7f9d5cfe-6797-46a0-bf1c-10586e7bb5bc"
+        }
+      },
+      "parent": "7f9d5cfe-6797-46a0-bf1c-10586e7bb5bc"
+    },
+    "6e90028a-d0f9-4805-9fc4-8eeb8b487294": {
+      "id": "6e90028a-d0f9-4805-9fc4-8eeb8b487294",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a polished podcast script draft you can use for Jena Rangow\u2019s episode of *The Aesthetic Edge*:  \n\n---\n\n# \ud83c\udf99 Podcast Script \u2013 *The Aesthetic Edge*  \n**Guest:** Jena Rangow, Founder of Beam Wellness  \n**Host:** Bethany Gifford  \n\n---\n\n### INTRO  \n**Bethany:**  \nHi everyone, and welcome back to *The Aesthetic Edge* \u2014 the podcast where we pull back the curtain on what\u2019s really working across the aesthetic industry. I\u2019m your host, Bethany Gifford, founder of New Era Intel, and I\u2019m here to bring you the strategies, insights, and stories that help med spa owners, dermatologists, plastic surgeons, operators, and estheticians grow smarter, not just bigger.  \n\nToday, I\u2019m thrilled to sit down with **Jena Rangow, the founder of Beam Wellness**, a brand that has carved out a powerful space in the wellness market with innovative products like the *Beam Blanket*. Jena\u2019s journey is one of founder-led marketing, smart pivots, and scaling without losing authenticity \u2014 all topics we love unpacking here.  \n\n---\n\n### INTERVIEW  \n\n**Bethany:** Jena, welcome to the show! To kick things off, can you share the origin story of the Beam Blanket and how it went from a prototype to one of your best-selling products?  \n\n**Bethany:** Once you had the Beam Blanket established, how did you decide which products to add next to your wellness portfolio? What\u2019s your framework for saying *yes* to a new idea?  \n\n**Bethany:** Your company has done a great job blending tech and wellness. How has AI played a role in helping Beam Wellness expand its market reach?  \n\n**Bethany:** One of the things I find fascinating about your business is how you balance audiences. How do you manage direct-to-consumer marketing while also targeting professional spaces like med spas and treatment rooms?  \n\n**Bethany:** You\u2019ve also had some amazing exposure on CBS television. What was the impact of that feature on your brand\u2019s visibility and sales?  \n\n**Bethany:** Scaling a wellness product line comes with its own unique challenges. What have been some of the hardest lessons or roadblocks you\u2019ve faced as you\u2019ve grown Beam Wellness?  \n\n**Bethany:** A lot of founders struggle with how much of themselves to put into their marketing. Why do you believe founder-led marketing resonates so strongly with customers today?  \n\n**Bethany:** Finally, looking ahead \u2014 where do you see Beam Wellness in the next 3 to 5 years? What\u2019s on the horizon?  \n\n---\n\n### CLOSING  \n**Bethany:**  \nJena, thank you so much for sharing your journey and insights with us. Your story is such a powerful example of how authenticity and innovation can go hand-in-hand when scaling a wellness brand.  \n\nFor our listeners, if you\u2019d like to learn more about Beam Wellness or explore their products, we\u2019ll include all of Jena\u2019s links in the show notes.  \n\nAnd as always, if you\u2019re enjoying *The Aesthetic Edge*, make sure to subscribe and leave us a review \u2014 it helps us bring more inspiring voices from across the aesthetic and wellness industries straight to you.  \n\nUntil next time, I\u2019m Bethany Gifford, and this has been *The Aesthetic Edge*.  \n\n---  \n\n\ud83d\udc49 Do you want me to also **weave in the affiliate program + AI/database tools mention** into the outro, so it doubles as both value-add and partnership promotion?"
+          ]
+        },
+        "create_time": 1755560123.156687,
+        "id": "6e90028a-d0f9-4805-9fc4-8eeb8b487294",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "b33454b5-f659-4961-8ea2-e7ea966b17b0"
+        }
+      },
+      "parent": "b33454b5-f659-4961-8ea2-e7ea966b17b0"
+    },
+    "6edb347d-0759-48cc-be1f-06278f58ad55": {
+      "id": "6edb347d-0759-48cc-be1f-06278f58ad55",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "the new name of my podcast is The Aesthetic & Wellness Edge\n\nPlease write in English language."
+          ]
+        },
+        "create_time": 1756397495.648,
+        "id": "6edb347d-0759-48cc-be1f-06278f58ad55",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "6e90028a-d0f9-4805-9fc4-8eeb8b487294"
+    },
+    "7f9d5cfe-6797-46a0-bf1c-10586e7bb5bc": {
+      "id": "7f9d5cfe-6797-46a0-bf1c-10586e7bb5bc",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "thoughts",
+          "source_analysis_msg_id": "1696fa89-ffe0-4fdf-9f38-0ab7c154e18a",
+          "thoughts": [
+            {
+              "chunks": [],
+              "content": "Alright, Jamie wants step-by-step guidance on setting things up securely. The goal here is to ensure Andrea remains the owner and Ivan can be added as a partner without risking a shutdown. I\u2019ll lay out the instructions for securely managing their Facebook Business Manager setup, including verifying Andrea\u2019s ownership and proper access for Ivan.",
+              "finished": true,
+              "summary": "Providing step-by-step instructions"
+            },
+            {
+              "chunks": [],
+              "content": "I need to clarify the roles and steps for Jamie. Andrea stays as the business owner, retaining page ownership. If needed, new ad accounts should be created under Andrea's Business Manager. Jamie can add Ivan as an admin or employee within their own Business Manager but with limited access. For the pages, it\u2019s important to select the authoritative one, and if there are duplicates, they should be merged or unpublished. At minimal risk, using Meta\u2019s partner access method is recommended.",
+              "finished": true,
+              "summary": "Clarifying steps for Jamie and Andrea"
+            },
+            {
+              "chunks": [],
+              "content": "For Option B, Jamie should create a new ad account under Andrea's Business Manager without creating a new Page. It's best to avoid logging into Andrea's personal account from multiple locations\u2014stay within the Business Manager. I'll provide a concise, thorough set of steps, including security measures like 2FA, verified domains, and spending limits to ensure safe setup.",
+              "finished": true,
+              "summary": "Creating the ad account and security checklist"
+            },
+            {
+              "chunks": [],
+              "content": "I\u2019ll craft instructions for Jamie that include tasks for Andrea too. I should start by asking Jamie to confirm the official assets and choose the correct page out of potential duplicates. If necessary, they should request a merge in Meta Business Manager under Business Assets > Pages. I\u2019ll keep this concise and to the point.",
+              "finished": true,
+              "summary": "Creating step-by-step instructions"
+            }
+          ]
+        },
+        "create_time": 1755552923.371643,
+        "id": "7f9d5cfe-6797-46a0-bf1c-10586e7bb5bc",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-thinking",
+          "parent_id": "3b17dd26-a208-4c13-8c3f-5274410832ec"
+        }
+      },
+      "parent": "8afa3bd9-46dc-44d9-b60b-233b917f4e41"
+    },
+    "830ff81a-7662-4555-a956-c1d542bd9621": {
+      "id": "830ff81a-7662-4555-a956-c1d542bd9621",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "only put in what i need to go over with andrea tomorrwo\n\nPlease write in English language."
+          ]
+        },
+        "create_time": 1755553883.04,
+        "id": "830ff81a-7662-4555-a956-c1d542bd9621",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "956ddb08-6bdd-497f-9dfa-125a20b879d3"
+    },
+    "8afa3bd9-46dc-44d9-b60b-233b917f4e41": {
+      "id": "8afa3bd9-46dc-44d9-b60b-233b917f4e41",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "give me a step by step instructions to give Jamie\n\nPlease write in English language."
+          ]
+        },
+        "create_time": 1755552922.014,
+        "id": "8afa3bd9-46dc-44d9-b60b-233b917f4e41",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "bfaab376-2e63-4c89-887a-18a628854b4c"
+    },
+    "932a1370-dc2b-42ec-a6fd-0c9be31c1b09": {
+      "id": "932a1370-dc2b-42ec-a6fd-0c9be31c1b09",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Absolutely\u2014here\u2019s a clean, \u201cdo-this-then-that\u201d set of instructions you can paste to Jamie.\n\n---\n\n# Meta (Facebook) Ads Access \u2014 Zero-Risk Setup\n\nHi Jamie,  \nTo avoid any chance of account shutdowns and keep all assets under Andrea\u2019s ownership, here\u2019s the exact flow we\u2019ll use. It\u2019s the standard \u201cpartner access\u201d method recommended by Meta.\n\n## Part A \u2014 Decide the Official Page (5 minutes)\n1. **Confirm the authoritative Page** (of the two that exist). Use the one with the correct name, most reviews/followers, and current info.  \n2. If the second Page is a duplicate, **do not use it**. Either:\n   - **Merge** it into the official Page (only if names/addresses match and you\u2019re admin on both), or  \n   - **Unpublish** it so no one accidentally runs ads from it.\n\n> Goal: One official Page only.\n\n## Part B \u2014 Andrea\u2019s side (ownership + security)  \n*(Andrea will do these steps in Meta Business Settings; you won\u2019t need her personal login.)*\n1. **Turn on 2FA for the business**  \n   Business Settings \u2192 Security Center \u2192 Require Two-Factor Authentication (Admins or Everyone).\n2. **Verify the business** (if not already)  \n   Business Settings \u2192 Security Center \u2192 Business Verification \u2192 Start verification.\n3. **Claim/confirm assets under Andrea\u2019s Business Manager**  \n   - Pages \u2192 Add \u2192 *Claim a Page* \u2192 select the official Page.  \n   - Ad Accounts \u2192 Add \u2192 *Create a new ad account* (Billing country: US, Time zone: Central).  \n   - Data Sources \u2192 Pixels \u2192 Add \u2192 create a Pixel.  \n   - Brand Safety \u2192 Domains \u2192 Add \u2192 verify the website domain.\n4. **Add a valid payment method** to Andrea\u2019s ad account.  \n5. **Grant partner access to your agency**  \n   Business Settings \u2192 Users \u2192 Partners \u2192 **Add** \u2192 *Give a partner access to your assets* \u2192 enter **your Business Manager ID**.  \n   Assign these permissions:\n   - **Page**: Create ads, View Page performance (and Manage if needed).  \n   - **Ad Account**: Manage campaigns, View performance (Admin if you need billing & settings).  \n   - **Pixel**: Manage and view.  \n   - **Catalog** (if used): Manage.\n\n> Andrea will need your **Business Manager ID**. Please send it to her.\n\n## Part C \u2014 Your side (agency)  \n1. **Accept partner invitation**  \n   Business Settings \u2192 Partners \u2192 Requests/Received \u2192 Accept.  \n2. **Assign your team members (e.g., Ivan)**  \n   Business Settings \u2192 Partners \u2192 (Andrea\u2019s business) \u2192 People \u2192 Add People \u2192 grant access to the shared Page, Ad Account, Pixel, and Catalog as above.  \n3. **Set up tracking & compliance**  \n   - Events Manager \u2192 Select Andrea\u2019s **Pixel** \u2192 connect to site (via Meta Pixel/Conversions API if available).  \n   - Configure **Aggregated Event Measurement** for the verified domain (prioritize Purchase/Lead, etc.).  \n   - Test events (Events Manager \u2192 Test Events) to verify firing.  \n4. **Create campaigns in Andrea\u2019s ad account** (not yours)  \n   - Start with moderate daily budgets; avoid sudden spend spikes.  \n   - Use the **official Page** for all ads.  \n   - Check ad policy compliance (no restricted content or wording).  \n5. **Quality checks**  \n   - Confirm billing charges appear on Andrea\u2019s payment method.  \n   - Set an **account spend limit** temporarily if you want an extra safety brake.  \n   - Review Page identity, business info, and disclaimers (if running any special categories).\n\n## Hard Rules (to prevent shutdowns)\n- **Never** log into Andrea\u2019s personal profile. Use Business Manager partner access only.  \n- **Do not** create another Page. Use the one official Page selected in Part A.  \n- **Avoid rapid, large budget jumps** and suspicious location/IP changes.  \n- Keep 2FA on and business verification in good standing.\n\n## If Something Blocks Progress\n- If partner access is blocked because verification is pending, **pause** until verification completes (safest), or  \n- Have Andrea **create a fresh ad account in her Business Manager**, add payment, then re-share to your BM as partner. (Do **not** create an ad account under your agency for this client.)\n\n---\n\nIf you need anything else (BM ID exchange, screenshots of the exact menus, or a quick checklist for Ivan\u2019s permissions), say the word and I\u2019ll add it."
+          ]
+        },
+        "create_time": 1755552923.057406,
+        "id": "932a1370-dc2b-42ec-a6fd-0c9be31c1b09",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-thinking",
+          "parent_id": "5ae64e12-a4ab-4d08-a5bf-79fee61c0043"
+        }
+      },
+      "parent": "5ae64e12-a4ab-4d08-a5bf-79fee61c0043"
+    },
+    "956ddb08-6bdd-497f-9dfa-125a20b879d3": {
+      "id": "956ddb08-6bdd-497f-9dfa-125a20b879d3",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a polished, clear, and actionable email you can send out to set expectations for tomorrow\u2019s call:  \n\n---\n\n**Subject:** Agenda & Action Items for Tomorrow\u2019s Call  \n\nHi Andrea and Team,  \n\nAhead of our call tomorrow, I wanted to outline the key items we\u2019ll be reviewing so we can stay focused and productive.  \n\n### Discussion Topics  \n- **Facebook Page Ownership**: Current access controlled by Jamie; recommended solution is transferring ownership to Andrea and adding agencies as partners (avoiding duplicate pages).  \n- **Campaign Status**:  \n  - Facebook campaign approval still pending (2\u20133 weeks before launch).  \n  - SMS reactivation campaign at 95% completion, pending final treatment timeline input.  \n- **Service Strategy**:  \n  - Laser treatments prioritized as first launch campaign (high ROI, existing demand).  \n  - Hormone therapy campaign requires additional educational material and development before launch.  \n- **Pricing Strategy**: Laser treatments set at **$1,500 per session** (discounted from $3,000), with a maximum of three annually.  \n- **Revenue Share & Tracking**: 5% rev-share in place; current tracking issues due to multiple payment systems. Proposed solution is migrating all transactions through Stripe for automation.  \n- **Documentation Needs**: Treatment timelines spreadsheet, full service catalog with pricing, and a knowledge database for AI training.  \n- **Availability**: Ivan\u2019s team will have limited availability August 27\u2013September 2, so we\u2019ll front-load key tasks before then.  \n\n### Action Items  \n**Bethany**  \n- Draft email to Jamie requesting Facebook page ownership transfer.  \n- Create treatment timelines spreadsheet.  \n- Develop knowledge database (treatments, FAQs, pricing, company info).  \n- Prepare service catalog for CRM integration.  \n- Meet with Andrea Tuesday afternoon to finalize payment/retainer.  \n- Propose Stripe + Lead Connector setup for streamlined revenue tracking.  \n\n**Ivan**  \n- Complete SMS campaign setup once timelines are provided.  \n- Set up services and pricing in CRM.  \n- Train AI knowledge base once documentation is ready.  \n- Coordinate with Aiden on campaign research (laser vs hormone).  \n- Send invoice once Andrea confirms payment.  \n\n**Andrea**  \n- Finalize SBA loan and retainer payment by Wednesday AM.  \n- Provide input on treatment timelines with Bethany.  \n- Begin process of transferring Facebook page ownership from Jamie.  \n\n---  \n\nPlease review these ahead of tomorrow, and feel free to add anything else you\u2019d like to cover. Looking forward to pushing these pieces forward together.  \n\nBest,  \nBethany  \n\n---  \n\nWould you like me to make **two versions** of this\u2014one **internal (with full detail)** and one **client-facing (simplified, higher-level)** so Andrea doesn\u2019t get overwhelmed by all the backend process notes?"
+          ]
+        },
+        "create_time": 1755553808.869961,
+        "id": "956ddb08-6bdd-497f-9dfa-125a20b879d3",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "6eb624b7-b2d2-45ac-b24f-45e2c8c1130c"
+        }
+      },
+      "parent": "1377fb90-ce00-4b53-b565-004b17463af4"
+    },
+    "a865927f-953f-4637-aa4e-ae47b35deefb": {
+      "id": "a865927f-953f-4637-aa4e-ae47b35deefb",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "take the payment stuff out and only mention the things i need from her to enter in the spreadsheet and google doc\n\nPlease write in English language."
+          ]
+        },
+        "create_time": 1755553931.726,
+        "id": "a865927f-953f-4637-aa4e-ae47b35deefb",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "ca1e2ae5-0710-4ba2-a976-0f531ba9846f"
+    },
+    "b33454b5-f659-4961-8ea2-e7ea966b17b0": {
+      "id": "b33454b5-f659-4961-8ea2-e7ea966b17b0",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "create a new podcast script for Jena Rangow of Beam Wellness: Bethany Gifford hosts The Aesthetic Edge, a podcast for decision-makers across the aesthetic industry including med spa owners, dermatologists, plastic surgeons, operators, and estheticians. With 20 episodes recorded and 8-10 slated for launch, the podcast will soon engage a New York advertising team to promote episodes once 10-12 are released.\r\n\r\n\ud83c\udf99 Interview Format:\r\n\r\n\u23f1 One-hour recording via Riverside platform\r\n\r\n\u2702 Edited down to 20-30 minutes\r\n\r\n\u2705 Full editing rights and final approval granted to Jena before publication\r\n\r\n\u274c Option to cancel if unsatisfied\r\n\r\nMarketing & Partnership Opportunities\r\n\ud83e\udd1d Affiliate Program: 10% commission for podcast promotion with customers receiving a 10% discount incentive.\r\n\r\n\ud83d\udca1 AI & Database Tools: Access to New Era Intel\u2019s AI-powered growth tools and extensive database to reach med spa owners and aesthetic professionals.\r\n\r\n\ud83d\ude80 Founder-Led Marketing Focus: Highlighting Jena\u2019s journey and strategies for founder-driven growth.\r\n\r\nInterview Questions\r\n\ud83d\udcac Can you share the origin story of the Beam Blanket and how it evolved from prototype to best-seller?\r\n\r\n\ud83d\udcac How do you decide which products to add to your wellness portfolio?\r\n\r\n\ud83d\udcac What role has AI played in expanding Beam Wellness\u2019 market reach?\r\n\r\n\ud83d\udcac How do you balance direct-to-consumer marketing with targeting med spa treatment rooms?\r\n\r\n\ud83d\udcac What was the impact of your CBS television features on your brand?\r\n\r\n\ud83d\udcac What are the top challenges you\u2019ve faced in scaling a wellness product line?\r\n\r\n\ud83d\udcac Why do you believe founder-led marketing resonates so strongly with customers?\r\n\r\n\ud83d\udcac Where do you see Beam Wellness in the next 3\u20135 years?\n\nPlease write in English language."
+          ]
+        },
+        "create_time": 1755560122.724,
+        "id": "b33454b5-f659-4961-8ea2-e7ea966b17b0",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "fbf9cf02-27d5-4141-abcb-ae4bfdb92a58"
+    },
+    "bfaab376-2e63-4c89-887a-18a628854b4c": {
+      "id": "bfaab376-2e63-4c89-887a-18a628854b4c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a professional but warm draft you could send back to Andrea:  \n\n---\n\n**Subject:** Re: Facebook Page Access  \n\nHi Andrea,  \n\nThank you for clarifying \u2014 that makes complete sense, and I can understand why you\u2019d want to avoid going through that experience again. The best way to move forward without risk of another shutdown is to keep everything under your direct ownership. That way, your business page stays secure and in your control, while still allowing our team to manage the advertising side without disruption.  \n\nHere\u2019s what I recommend:  \n1. You remain the owner of the business page.  \n2. We add Ivan (and anyone else needed) as a partner through Business Manager so we can handle the ads on your behalf.  \n\nThis avoids creating duplicate pages, keeps your accounts safe, and ensures continuity in your advertising. If you\u2019d like, I can walk you through the exact steps to make sure it\u2019s seamless.  \n\nWould you like me to put together a quick step-by-step guide for the transfer and partner access?  \n\nBest,  \nBethany  \n\n---  \n\nWould you like me to also draft the **step-by-step guide** you can send her right after, so she has clear instructions ready?"
+          ]
+        },
+        "create_time": 1755552888.808782,
+        "id": "bfaab376-2e63-4c89-887a-18a628854b4c",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "2c8a13a6-1e63-4b68-a825-9a8e3a05b193"
+        }
+      },
+      "parent": "dd87cb06-e6b2-40c9-83cd-f23d55543036"
+    },
+    "ca1e2ae5-0710-4ba2-a976-0f531ba9846f": {
+      "id": "ca1e2ae5-0710-4ba2-a976-0f531ba9846f",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Got it \ud83d\udc4d Here\u2019s a simplified, Andrea-focused version of the agenda email with only what you need to go over with her tomorrow:  \n\n---\n\n**Subject:** Agenda for Tomorrow\u2019s Call  \n\nHi Andrea,  \n\nHere\u2019s a quick overview of the key items we\u2019ll go over together tomorrow:  \n\n- **Facebook Page Ownership** \u2013 Next steps for transferring ownership from Jamie while still keeping him as a partner so there\u2019s no disruption.  \n- **Campaign Status** \u2013  \n  - Facebook ads approval is still pending (expected 2\u20133 weeks).  \n  - SMS reactivation campaign is 95% ready, just waiting on treatment timeline input from you.  \n- **Service Priorities** \u2013 Laser treatments as the first campaign launch (high ROI, straightforward to market), with hormone therapy positioned as a secondary campaign requiring more education and development.  \n- **Laser Pricing** \u2013 Confirming $1,500 per session (discounted from $3,000), max of three sessions annually.  \n- **Revenue Tracking** \u2013 Discussing how to streamline payments (proposed Stripe setup) to simplify tracking for the 5% revenue share.  \n- **Documentation Needed** \u2013 Treatment timelines spreadsheet and knowledge database (treatments, FAQs, pricing, company info) to support campaigns and client management.  \n- **Payment & Next Steps** \u2013 Confirming your payment processing update by Wednesday morning so we can move forward on all other deliverables.  \n\nLooking forward to our call and moving each of these pieces forward.  \n\nBest,  \nBethany  \n\n---  \n\nDo you want me to also create a **bulleted \u201cdecisions needed from Andrea\u201d list** (like a checklist) so she comes prepared to give you answers right away?"
+          ]
+        },
+        "create_time": 1755553883.392733,
+        "id": "ca1e2ae5-0710-4ba2-a976-0f531ba9846f",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "830ff81a-7662-4555-a956-c1d542bd9621"
+        }
+      },
+      "parent": "830ff81a-7662-4555-a956-c1d542bd9621"
+    },
+    "dd87cb06-e6b2-40c9-83cd-f23d55543036": {
+      "id": "dd87cb06-e6b2-40c9-83cd-f23d55543036",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "answer this email with the best way to go about this: Hey Bethany,\r\n\r\nThe issue is that Jamie's company was unable to run ads on my Facebook account when we initially tried to set them up. After that attempt, both my personal and business Facebook pages were completely shut down for weeks, and it was a real struggle to get them restored. I definitely don't want to go through that again.\r\n\r\nGiven that there are already two business pages created, if this situation is going to cause a delay, we have a couple of options: either Jamie can add Ivan to the existing page, or we can create another new account.\r\n\r\nLet me know what you think is best.\r\n\r\nThanks,\r\nAndrea\n\nPlease write in English language."
+          ]
+        },
+        "create_time": 1755552888.635,
+        "id": "dd87cb06-e6b2-40c9-83cd-f23d55543036",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "placeholder-request-WEB:a8cffd16-90a6-4690-997a-074fa52edc6b-10"
+    },
+    "f9cb02be-5551-4f95-898a-5561127310f7": {
+      "id": "f9cb02be-5551-4f95-898a-5561127310f7",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Got it! Here\u2019s the updated podcast script for Jena Rangow with your new podcast name included everywhere:  \n\n---\n\n# \ud83c\udf99 Podcast Script \u2013 *The Aesthetic & Wellness Edge*  \n**Guest:** Jena Rangow, Founder of Beam Wellness  \n**Host:** Bethany Gifford  \n\n---\n\n### INTRO  \n**Bethany:**  \nHi everyone, and welcome back to *The Aesthetic & Wellness Edge* \u2014 the podcast where we pull back the curtain on what\u2019s really working across aesthetics and wellness. I\u2019m your host, Bethany Gifford, founder of New Era Intel, and I\u2019m here to bring you the strategies, insights, and stories that help med spa owners, dermatologists, plastic surgeons, operators, estheticians, and wellness providers grow smarter, not just bigger.  \n\nToday, I\u2019m thrilled to sit down with **Jena Rangow, the founder of Beam Wellness**, a brand that has carved out a powerful space in the wellness market with innovative products like the *Beam Blanket*. Jena\u2019s journey is one of founder-led marketing, smart pivots, and scaling without losing authenticity \u2014 all topics we love unpacking here.  \n\n---\n\n### INTERVIEW  \n\n**Bethany:** Jena, welcome to the show! To kick things off, can you share the origin story of the Beam Blanket and how it went from a prototype to one of your best-selling products?  \n\n**Bethany:** Once you had the Beam Blanket established, how did you decide which products to add next to your wellness portfolio? What\u2019s your framework for saying *yes* to a new idea?  \n\n**Bethany:** Your company has done a great job blending tech and wellness. How has AI played a role in helping Beam Wellness expand its market reach?  \n\n**Bethany:** One of the things I find fascinating about your business is how you balance audiences. How do you manage direct-to-consumer marketing while also targeting professional spaces like med spas and treatment rooms?  \n\n**Bethany:** You\u2019ve also had some amazing exposure on CBS television. What was the impact of that feature on your brand\u2019s visibility and sales?  \n\n**Bethany:** Scaling a wellness product line comes with its own unique challenges. What have been some of the hardest lessons or roadblocks you\u2019ve faced as you\u2019ve grown Beam Wellness?  \n\n**Bethany:** A lot of founders struggle with how much of themselves to put into their marketing. Why do you believe founder-led marketing resonates so strongly with customers today?  \n\n**Bethany:** Finally, looking ahead \u2014 where do you see Beam Wellness in the next 3 to 5 years? What\u2019s on the horizon?  \n\n---\n\n### CLOSING  \n**Bethany:**  \nJena, thank you so much for sharing your journey and insights with us. Your story is such a powerful example of how authenticity and innovation can go hand-in-hand when scaling a wellness brand.  \n\nFor our listeners, if you\u2019d like to learn more about Beam Wellness or explore their products, we\u2019ll include all of Jena\u2019s links in the show notes.  \n\nAnd as always, if you\u2019re enjoying *The Aesthetic & Wellness Edge*, make sure to subscribe and leave us a review \u2014 it helps us bring more inspiring voices from across the aesthetic and wellness industries straight to you.  \n\nUntil next time, I\u2019m Bethany Gifford, and this has been *The Aesthetic & Wellness Edge*.  \n\n---  \n\nDo you want me to also **work in your affiliate program and AI/database tools** into the outro so each episode softly promotes partnership opportunities?"
+          ]
+        },
+        "create_time": 1756397496.328911,
+        "id": "f9cb02be-5551-4f95-898a-5561127310f7",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "2eb6fdf6-18b9-4498-9299-a0edc303a7b2"
+        }
+      },
+      "parent": "6edb347d-0759-48cc-be1f-06278f58ad55"
+    },
+    "fbf9cf02-27d5-4141-abcb-ae4bfdb92a58": {
+      "id": "fbf9cf02-27d5-4141-abcb-ae4bfdb92a58",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Perfect \u2014 here\u2019s a super-focused version just on what you need from Andrea for the spreadsheet and Google Doc:  \n\n---\n\n**Subject:** Agenda for Tomorrow\u2019s Call  \n\nHi Andrea,  \n\nHere\u2019s what we\u2019ll go over together on tomorrow\u2019s call:  \n\n- **Facebook Page Ownership** \u2013 Next steps for transferring ownership from Jamie while still keeping him as a partner so there\u2019s no disruption.  \n- **Campaign Status** \u2013  \n  - Facebook ads approval is still pending (expected 2\u20133 weeks).  \n  - SMS reactivation campaign is 95% ready, just waiting on treatment timeline input from you.  \n- **Service Priorities** \u2013 Laser treatments as the first campaign launch (high ROI), with hormone therapy positioned as a secondary campaign needing more education and development.  \n- **Documentation Needed** \u2013 Your input on:  \n  - Treatment timelines (how you\u2019d like follow-ups scheduled for services such as laser, hormone therapy, etc.)  \n  - Service details for the knowledge database (pricing, FAQs, and key information you want clients to know for each treatment).  \n\nThat way, we can get everything entered into the spreadsheet and Google Doc for the campaigns and client management.  \n\nBest,  \nBethany  \n\n---  \n\nWant me to also **draft the exact questions** you should ask Andrea on the call so she can give you the details you need without going off track?"
+          ]
+        },
+        "create_time": 1755553932.030524,
+        "id": "fbf9cf02-27d5-4141-abcb-ae4bfdb92a58",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "a865927f-953f-4637-aa4e-ae47b35deefb"
+        }
+      },
+      "parent": "a865927f-953f-4637-aa4e-ae47b35deefb"
+    },
+    "placeholder-request-WEB:a8cffd16-90a6-4690-997a-074fa52edc6b-10": {
+      "id": "placeholder-request-WEB:a8cffd16-90a6-4690-997a-074fa52edc6b-10",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Jena podcast script",
+  "update_time": 1757093589.75751,
+  "voice": null
+}

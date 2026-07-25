@@ -1,0 +1,72 @@
+{
+  "conversation_id": "69d5b09a-c3b4-8332-b0ec-707254852279",
+  "conversation_template_id": null,
+  "create_time": 1775612066.403661,
+  "current_node": "43402f27-546c-41ea-9c12-bbf34589919a",
+  "default_model_slug": "gpt-5-3",
+  "id": "69d5b09a-c3b4-8332-b0ec-707254852279",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "43402f27-546c-41ea-9c12-bbf34589919a": {
+      "id": "43402f27-546c-41ea-9c12-bbf34589919a",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "At The Luxora Collective, we start with a free audit and build a customized Market Blueprint so you know exactly where to focus before investing in any marketing.  \n\nToo often, practices jump into ads or agencies without clarity, and that is where money gets wasted. In many cases, it is not a marketing problem at all. It is a systems issue.  \n\nBefore you pour more into the bucket, you have to fix the leaks. That is where real, sustainable growth begins."
+          ]
+        },
+        "create_time": 1775612066.124167,
+        "id": "43402f27-546c-41ea-9c12-bbf34589919a",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "f12b4125-eecb-4e46-9b25-e1bc40f8a238"
+        }
+      },
+      "parent": "ddd19d8d-819b-4579-a1a2-5c17b042f903"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "ddd19d8d-819b-4579-a1a2-5c17b042f903": {
+      "id": "ddd19d8d-819b-4579-a1a2-5c17b042f903",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "word this coment on a post better: At the Luxora Collective we can run a free audit and provide you with a market blueprint on the exact type of marketing and direction you need to go prior to paying anyone a dime for  their marketing promises. It is vital to know what needs to be done or not done prior to executing any marketing plan. We often find that its not a marketing problem, its a system issues. You want to fill the leaking holes in your practice before ever filling that bucket. "
+          ]
+        },
+        "create_time": 1775612062.953,
+        "id": "ddd19d8d-819b-4579-a1a2-5c17b042f903",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Improving Marketing Comments",
+  "update_time": 1775612073.131669,
+  "voice": null
+}

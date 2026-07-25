@@ -1,0 +1,354 @@
+{
+  "conversation_id": "6a067cd0-df14-83ea-a89b-49e47e872028",
+  "conversation_template_id": null,
+  "create_time": 1778810073.671973,
+  "current_node": "aee421a9-efeb-4727-8a9c-72f299575b65",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a067cd0-df14-83ea-a89b-49e47e872028",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "1cc19e8b-1868-4e0d-a289-a26a0f3f5f09": {
+      "id": "1cc19e8b-1868-4e0d-a289-a26a0f3f5f09",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Are you trying to remember the name of a show? If so, the most famous yellow animated comedy series with a lot of cartoon violence is probably \ue200entity\ue202[\"tv_show\",\"The Simpsons\",\"animated sitcom\"]\ue201.\n\nOther possibilities could be:\n- \ue200entity\ue202[\"tv_show\",\"South Park\",\"animated comedy series\"]\ue201\n- \ue200entity\ue202[\"tv_show\",\"Family Guy\",\"animated comedy series\"]\ue201\n- \ue200entity\ue202[\"tv_show\",\"Rick and Morty\",\"animated sci-fi comedy\"]\ue201\n\nGive me another clue and I\u2019ll narrow it down."
+          ]
+        },
+        "create_time": 1778810073.58468,
+        "id": "1cc19e8b-1868-4e0d-a289-a26a0f3f5f09",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "The Simpsons",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "animated sitcom"
+              },
+              "id": "1q_hftC5PJzc14If",
+              "metadata": null,
+              "name": "The Simpsons",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "The Simpsons",
+              "type": "entity"
+            },
+            {
+              "alt": "South Park",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "animated comedy series"
+              },
+              "id": "ix9vtJJePBoonD7I",
+              "metadata": null,
+              "name": "South Park",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "South Park",
+              "type": "entity"
+            },
+            {
+              "alt": "Family Guy",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "animated comedy series"
+              },
+              "id": "72CFeMJou_bagVQr",
+              "metadata": null,
+              "name": "Family Guy",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Family Guy",
+              "type": "entity"
+            },
+            {
+              "alt": "Rick and Morty",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "animated sci\u2011fi comedy"
+              },
+              "id": "qg1gjb16OqcfU7Zi",
+              "metadata": null,
+              "name": "Rick and Morty",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Rick and Morty",
+              "type": "entity"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "c5c57d05-f494-4ab3-8453-8a7fe5c2777b"
+        }
+      },
+      "parent": "bbb21fee-1b3a-45e7-b032-a0d3f69eb98f"
+    },
+    "95e95989-57d3-4e21-ac59-e652ef4b0bce": {
+      "id": "95e95989-57d3-4e21-ac59-e652ef4b0bce",
+      "message": null,
+      "parent": null
+    },
+    "aee421a9-efeb-4727-8a9c-72f299575b65": {
+      "id": "aee421a9-efeb-4727-8a9c-72f299575b65",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "I think you might be talking about \ue200entity\ue202[\"movie\",\"Crank\",\"2006 action film\"]\ue201 or \ue200entity\ue202[\"movie\",\"Hardcore Henry\",\"2015 action film\"]\ue201 mixed with the vibe of \ue200entity\ue202[\"movie\",\"Nobody\",\"2021 action film\"]\ue201.\n\nBut the \u201cyellow animation that makes him beat people up\u201d part sounds a lot like \ue200entity\ue202[\"movie\",\"Fight Club\",\"1999 film\"]\ue201 style hallucination imagery, or possibly \ue200entity\ue202[\"tv_show\",\"Happy!\",\"live-action dark comedy series\"]\ue201 where an animated character influences violent behavior.\n\nAnother possibility is \ue200entity\ue202[\"movie\",\"Monkey Man\",\"2024 action film\"]\ue201 because it has surreal animated/vision sequences triggering rage and violence similar to Nobody. \ue200cite\ue202turn0search9\ue202turn0search12\ue201\n\nIf you remember:\n- whether it was a movie or series\n- if the animation was a mascot/cartoon friend/hallucination\n- what the main actor looked like\n\n\u2026I can probably pinpoint it exactly."
+          ]
+        },
+        "create_time": 1778810120.418552,
+        "id": "aee421a9-efeb-4727-8a9c-72f299575b65",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "Crank",
+              "prefix": null,
+              "prompt_text": "Crank",
+              "render_as": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "Hardcore Henry",
+              "prefix": null,
+              "prompt_text": "Hardcore Henry",
+              "render_as": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "Nobody",
+              "prefix": null,
+              "prompt_text": "Nobody",
+              "render_as": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "Fight Club",
+              "prefix": null,
+              "prompt_text": "Fight Club",
+              "render_as": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "Happy!",
+              "prefix": null,
+              "prompt_text": "Happy!",
+              "render_as": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "Monkey Man",
+              "prefix": null,
+              "prompt_text": "Monkey Man",
+              "render_as": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "([Wikipedia](https://en.wikipedia.org/wiki/Nobody_%282025_film%29?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Wikipedia",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 9,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 12,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [
+                    {
+                      "attribution": "Wikipedia",
+                      "pub_date": null,
+                      "snippet": "",
+                      "title": "Mr. Nobody (film)",
+                      "url": "https://en.wikipedia.org/wiki/Mr._Nobody_%28film%29?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Nobody (2025 film)",
+                  "url": "https://en.wikipedia.org/wiki/Nobody_%282025_film%29?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prefix": null,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "Wikipedia",
+                  "title": "Nobody (2025 film)",
+                  "url": "https://en.wikipedia.org/wiki/Nobody_%282025_film%29?utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "e75af40b-2fc8-463b-af19-740484bb67e8",
+          "search_result_groups": [
+            {
+              "domain": "netflix.com",
+              "entries": [
+                {
+                  "attribution": "netflix.com",
+                  "snippet": "Sep 6, 2022 \u2014 Henry Selick's new stop-motion joint Wendell & Wild tells the story of demonic brothers who escape from a hellish prison and into the real world with Kat's ...Read more",
+                  "title": "'Wendell & Wild' Creep Into Our World in This New Trailer",
+                  "url": "https://www.netflix.com/tudum/articles/wendell-and-wild-trailer-watch?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "youtube.com",
+              "entries": [
+                {
+                  "attribution": "youtube.com",
+                  "snippet": "A dark treat! This is my spoiler free review and reaction of the new Netflix movie, Wendell & Wild. Let me know if you're planning on seeing ...",
+                  "title": "A Dark TREAT! | Wendell & Wild (2022) Netflix Movie Review",
+                  "url": "https://www.youtube.com/watch?v=xV0AXslagts&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "youtube.com",
+                  "snippet": "A little anti, a little hero. NIMONA, only on Netflix June 30. Watch Nimona, only on Netflix: https://www.netflix.co.",
+                  "title": "Nimona | Official Trailer | Netflix",
+                  "url": "https://www.youtube.com/watch?v=f_fuHRyQbOc&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "youtube.com",
+                  "snippet": "Bad amazon movies: Ivan the Incredible (a surprisingly dark animated movie). 38K views \u00b7 5 years ago ...more ...",
+                  "title": "Bad amazon movies: Ivan the Incredible (a surprisingly dark ...",
+                  "url": "https://www.youtube.com/watch?v=tXFXwtKbk8c&utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "reddit.com",
+              "entries": [
+                {
+                  "attribution": "reddit.com",
+                  "snippet": "I remember a character from a gif i saw 4 years ago. The gif was this character staring at a burning city through a window with a vinyl ...",
+                  "title": "[TOMT][Character] Yellow animated character which does ...",
+                  "url": "https://www.reddit.com/r/tipofmytongue/comments/iopjcc/tomtcharacter_yellow_animated_character_which/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "cinemablend.com",
+              "entries": [
+                {
+                  "attribution": "cinemablend.com",
+                  "snippet": "Nov 6, 2022 \u2014 What really makes Wendell & Wild stand out from other stop-motion films are its lead characters. Kat, a young Black teenager, is voiced by This ...Read more",
+                  "title": "Wendell & Wild: Why This Netflix Stop-Motion Movie Is One ...",
+                  "url": "https://www.cinemablend.com/streaming-news/wendell-and-wild-why-this-netflix-stop-motion-movie-is-one-of-the-best-animated-films-of-the-year?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "imdb.com",
+              "entries": [
+                {
+                  "attribution": "imdb.com",
+                  "snippet": "Even some of the less violent oriented moments could have used some more time, but this is relatively minor to the other two elements I wanted in this movie.Read more",
+                  "title": "The Bad Guys (2022)",
+                  "url": "https://www.imdb.com/title/tt8115900/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "facebook.com",
+              "entries": [
+                {
+                  "attribution": "facebook.com",
+                  "snippet": "Tom Cruise plays a non- custodial father who really hates his children, and tries to kill his son several times during the most violent game of ...Read more",
+                  "title": "Movie with silent main character and cartoon violence",
+                  "url": "https://www.facebook.com/groups/266202587102686/posts/3007396069649977/?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "bbb219a7-ea96-415d-b0f2-840edeb3ca10"
+    },
+    "bbb219a7-ea96-415d-b0f2-840edeb3ca10": {
+      "id": "bbb219a7-ea96-415d-b0f2-840edeb3ca10",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "There's a guy on Netflix that looks like nobody too, and it reminds somebody of another movie like this where he sees a yellow animation and it makes him beat people up."
+          ]
+        },
+        "create_time": 1778810118.05487,
+        "id": "bbb219a7-ea96-415d-b0f2-840edeb3ca10",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "1cc19e8b-1868-4e0d-a289-a26a0f3f5f09"
+    },
+    "bbb21fee-1b3a-45e7-b032-a0d3f69eb98f": {
+      "id": "bbb21fee-1b3a-45e7-b032-a0d3f69eb98f",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Yellow animation comedy series violence."
+          ]
+        },
+        "create_time": 1778810073.360415,
+        "id": "bbb21fee-1b3a-45e7-b032-a0d3f69eb98f",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "95e95989-57d3-4e21-ac59-e652ef4b0bce"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Yellow animated series",
+  "update_time": 1778810125.602755,
+  "voice": null
+}

@@ -1,0 +1,94 @@
+{
+  "conversation_id": "69df8b96-eb94-83ea-b8e6-01353bf4b03b",
+  "conversation_template_id": null,
+  "create_time": 1776257964.033403,
+  "current_node": "9b0c7217-6c22-4e60-8733-89ab89fa95eb",
+  "default_model_slug": "gpt-5-3",
+  "id": "69df8b96-eb94-83ea-b8e6-01353bf4b03b",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "996d6810-a6cb-42cd-8478-60605343bdff": {
+      "id": "996d6810-a6cb-42cd-8478-60605343bdff",
+      "message": null,
+      "parent": null
+    },
+    "9b0c7217-6c22-4e60-8733-89ab89fa95eb": {
+      "id": "9b0c7217-6c22-4e60-8733-89ab89fa95eb",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "You\u2019ve got a full **Dr. Melaxin routine here**, which is great, but the key is layering it correctly so your skin actually benefits (and doesn\u2019t get irritated).\n\nBased on what I can see in your photo, here\u2019s the **correct order + how to use each**:\n\n---\n\n## \ud83e\uddf4 Step-by-Step Order (AM or PM Base Routine)\n\n### 1. **Cleanser**\n\ud83d\udc49 *Melting Cleanser (pink box)*  \n- Use first on dry or slightly damp skin  \n- Massage, then rinse  \n- This removes makeup, oil, and prep skin\n\n---\n\n### 2. **Exfoliation (ONLY 2\u20133x per week)**\n\ud83d\udc49 *Peel Shot (black rice or turmeric one)*  \n- Use **after cleansing**\n- Do **NOT use daily**  \n- Apply, leave on as directed, then rinse (if required by instructions)\n\n\u26a0\ufe0f Skip this step on sensitive days or if using strong actives\n\n---\n\n### 3. **Toner / First Treatment Layer**\n\ud83d\udc49 *Pictonic Shot (grey box)*  \n- Apply right after cleansing (or after peel on peel days)\n- Helps prep skin + lightly treat pigmentation\n\n---\n\n### 4. **Serum**\n\ud83d\udc49 *Pink Spicule Serum (teal box)*  \n- This is your **active treatment**\n- Apply a small amount  \n- Slight tingling is normal (spicules)\n\n---\n\n### 5. **Target Treatment / Glow Stick**\n\ud83d\udc49 *EX Volume Glow Stick (purple box)*  \n- Use on specific areas (under eyes, smile lines, etc.)\n- Think of this as a **booster**, not full-face\n\n---\n\n### 6. **Moisturizer**\n\ud83d\udc49 *Calcium Cream (round jar)*  \n- Locks everything in  \n- Use a good layer, especially at night\n\n---\n\n## \ud83c\udf1e Morning Add-On (VERY important)\n\ud83d\udc49 **SPF (not shown in pic)**\n- MUST use sunscreen if using these products  \n- Especially with peel + spicules\n\n---\n\n## \ud83d\udd01 Simple Routine Version (If you want it easy)\n\n**Morning:**\n1. Cleanser  \n2. Pictonic Shot  \n3. Serum  \n4. Moisturizer  \n5. SPF  \n\n**Night:**\n1. Cleanser  \n2. (Peel 2\u20133x/week only)  \n3. Pictonic Shot  \n4. Serum  \n5. Glow Stick (target areas)  \n6. Moisturizer  \n\n---\n\n## \u26a0\ufe0f Important Notes (this matters with these products)\n- Don\u2019t combine **peel + spicule serum aggressively at first** \u2192 start slow  \n- If skin feels irritated \u2192 skip peel and just hydrate  \n- These are **active Korean-style treatments**, not basic skincare\n\n---\n\nIf you want, I can customize this into a **luxury-level routine (like what we\u2019d build for a high-end medspa client)** based on your skin type and goals."
+          ]
+        },
+        "create_time": 1776257963.666404,
+        "id": "9b0c7217-6c22-4e60-8733-89ab89fa95eb",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "631d6f6e-4fa3-48d9-9629-d90710ee0e18"
+        }
+      },
+      "parent": "bbb21e1b-3172-4fa9-ac38-59e58a19c2ef"
+    },
+    "bbb21e1b-3172-4fa9-ac38-59e58a19c2ef": {
+      "id": "bbb21e1b-3172-4fa9-ac38-59e58a19c2ef",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_00000000e87c71f59e2ed703ac138bfb",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 4080,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 483362,
+              "width": 3072
+            },
+            "Who h product do I use first and what order do I use them in"
+          ]
+        },
+        "create_time": 1776257963.448803,
+        "id": "bbb21e1b-3172-4fa9-ac38-59e58a19c2ef",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "996d6810-a6cb-42cd-8478-60605343bdff"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Skincare Routine Order",
+  "update_time": 1776257985.077529,
+  "voice": null
+}

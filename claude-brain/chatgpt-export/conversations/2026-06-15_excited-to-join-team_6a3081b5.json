@@ -1,0 +1,72 @@
+{
+  "conversation_id": "6a3081b5-2108-83e8-ad75-4d36a8d50d76",
+  "conversation_template_id": null,
+  "create_time": 1781563842.389282,
+  "current_node": "8657a987-bbf7-4195-9e4f-4b9052f7586f",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a3081b5-2108-83e8-ad75-4d36a8d50d76",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "40f68b28-d657-4083-8948-0ca36f3bf008": {
+      "id": "40f68b28-d657-4083-8948-0ca36f3bf008",
+      "message": null,
+      "parent": null
+    },
+    "8657a987-bbf7-4195-9e4f-4b9052f7586f": {
+      "id": "8657a987-bbf7-4195-9e4f-4b9052f7586f",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "I'd make it a little warmer and more definitive since it sounds like you've already decided she's a great fit:\n\n:::writing{variant=\"email\" id=\"58214\" subject=\"Excited to Have You Join Us\"}\nHi Jenna,\n\nThank you for such a thoughtful note. After our conversations, I can honestly say the excitement is mutual.\n\nWe're incredibly excited about the possibility of having you join The Luxora Collective. Your experience in aesthetics, sales, and business ownership is a rare combination, and it's clear that you understand both the challenges our clients face and the level of guidance they need to grow. More importantly, your values, energy, and genuine desire to serve align so well with the culture we're building.\n\nOne of the things that stood out most to us is your ability to connect with people. As we continue to grow, having someone who can confidently lead conversations, build trust with owners, and help guide them toward the right solutions is exactly the type of support we need. I can already see the impact you'll have by helping take sales calls off my plate so I can spend more time focused on strategy, partnerships, and supporting our clients at a higher level.\n\nAanchal will be sending over the contract and call recordings shortly for your review. We'd also love to have you shadow additional calls as opportunities come up this week so you can continue getting familiar with our process, messaging, and client journey.\n\nEric was equally excited to hear how well our conversations have gone and is looking forward to meeting you soon once he's feeling better. We all have a strong feeling that you'll fit right in with the team and what we're building.\n\nThank you again for your time, enthusiasm, and belief in our vision. We are genuinely excited about what's ahead and look forward to taking these next steps together.\n\nWarmly,\n\nBethany & Aanchal\n\nThe Luxora Collective\n:::\n\nThis version feels less like a candidate follow-up and more like a future team member being welcomed into the company."
+          ]
+        },
+        "create_time": 1781563842.299369,
+        "id": "8657a987-bbf7-4195-9e4f-4b9052f7586f",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "b2dd7108-c683-4e6e-b914-0d36654000f2"
+        }
+      },
+      "parent": "bbb21436-a5f6-4759-8cc3-1723b00d6e53"
+    },
+    "bbb21436-a5f6-4759-8cc3-1723b00d6e53": {
+      "id": "bbb21436-a5f6-4759-8cc3-1723b00d6e53",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Respond to Jenna about how excited we are to have her come aboard: Bethany and Aanchal,\n\nI wanted to send a quick thank you for taking the time to meet with me again this morning.\n\nI'm even more excited about the opportunity to be a part of what you're building. It's rare to come across a company where the vision, values, and growth potential feel so aligned, and I can genuinely see myself contributing in a meaningful way.\n\nI love the idea of stepping in to help take sales calls off Bethany's plate so she can focus on growing the business and serving clients at a higher level. I truly believe my background in aesthetics, sales, and business ownership allows me to connect with the clients you serve while helping move the company forward.\n\nI'm looking forward to reviewing last week's client call recording and contract once you have sent them over.  I'd also be grateful for the opportunity to shadow any other upcoming calls that land on your calendar this week, to continue learning more about your internal process and how you support your clients.\n\nThank you again for the opportunity, I'm genuinely excited about what's ahead and look forward to hearing from you soon.\n\nWarmly,\n\nJenna Cadwell\n\nShow quoted text\nHi Jenna,\n\nThank you so much for your thoughtful email and for taking the time to meet with Bethany and I again this morning.\n\nIt was a pleasure connecting with you, and we're thrilled to hear that you're excited about the opportunity. The enthusiasm, experience, and insight you've brought to our conversations have only reinforced our excitement about the potential of working together. We can absolutely see the value you would bring to our clients and team, particularly given your background in aesthetics, sales, and business ownership. Your understanding of the industry and ability to connect with business owners is something we greatly appreciate.\n\nI'll be sending over the contract and call recording's as soon as possible for your review. As for shadowing additional calls, we would be happy to include you on any relevant opportunities that come up this week so you can continue getting a feel for our process and client experience.\n\nEric was also excited to hear how well our conversations have gone and can't wait to meet you once he is feeling better and available to join us. We know he'll enjoy getting to know you and discussing the vision for The Luxora Collective together.\n\nThank you again for your time, energy, and genuine interest in what we're building. We're excited about the possibility of having you join us and look forward to the next steps.\n\nBest,\n\nAanchal"
+          ]
+        },
+        "create_time": 1781563842.089954,
+        "id": "bbb21436-a5f6-4759-8cc3-1723b00d6e53",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "40f68b28-d657-4083-8948-0ca36f3bf008"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Excited to Join Team",
+  "update_time": 1781564217.950236,
+  "voice": null
+}

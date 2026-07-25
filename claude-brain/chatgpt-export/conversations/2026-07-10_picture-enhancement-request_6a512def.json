@@ -1,0 +1,81 @@
+{
+  "conversation_id": "6a512def-4d30-83e8-9c1f-c60cb1601544",
+  "conversation_template_id": null,
+  "create_time": 1783705085.012618,
+  "current_node": "bbb21421-8f96-4f2c-815b-f493e6f95ae7",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a512def-4d30-83e8-9c1f-c60cb1601544",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "4c42dff1-d8f5-4c27-8b5e-2e23be765110": {
+      "id": "4c42dff1-d8f5-4c27-8b5e-2e23be765110",
+      "message": null,
+      "parent": null
+    },
+    "bbb21421-8f96-4f2c-815b-f493e6f95ae7": {
+      "id": "bbb21421-8f96-4f2c-815b-f493e6f95ae7",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_00000000ec2c720cad04187a36afab58",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 4080,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "mime_type": "image/jpeg",
+              "size_bytes": 312012,
+              "width": 3072
+            },
+            "Enhance this picture"
+          ]
+        },
+        "create_time": 1783705084.680649,
+        "id": "bbb21421-8f96-4f2c-815b-f493e6f95ae7",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_00000000ec2c720cad04187a36afab58",
+              "mime_type": "image/jpeg",
+              "name": "1000020826.jpg",
+              "size": 312012
+            }
+          ],
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "4c42dff1-d8f5-4c27-8b5e-2e23be765110"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Picture Enhancement Request",
+  "update_time": 1783705151.985017,
+  "voice": null
+}

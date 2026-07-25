@@ -1,0 +1,71 @@
+{
+  "conversation_id": "69b6bd4a-bbd4-8326-a505-c4c47f4cc081",
+  "conversation_template_id": null,
+  "create_time": 1773583745.876448,
+  "current_node": "57f1b5ba-0493-4324-a51a-6e0c04e33d5a",
+  "default_model_slug": "gpt-5-3",
+  "id": "69b6bd4a-bbd4-8326-a505-c4c47f4cc081",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "0835a011-7ab1-4562-8add-e17f82334db3": {
+      "id": "0835a011-7ab1-4562-8add-e17f82334db3",
+      "message": null,
+      "parent": null
+    },
+    "57f1b5ba-0493-4324-a51a-6e0c04e33d5a": {
+      "id": "57f1b5ba-0493-4324-a51a-6e0c04e33d5a",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Last night was one for the books. \u2618\ufe0f  \n\nWe headed out to **The Caverns in Pelham, TN** to see **Boxing Banjo** play, and it was absolutely incredible. The music, the energy, the people\u2026 it felt like the perfect way to get our *Irish on* before my surgery on **St. Patrick\u2019s Day** so we didn\u2019t have to miss out on the fun festivities.  \n\nThere\u2019s just something magical about live Irish music underground in a cave. Fiddles, banjos, and a whole lot of Irish jigging echoing through the cavern walls. It felt like everyone there was part of the same celebration.  \n\nAnd honestly, every adventure together just keeps getting better. The kind that ends up etched into your memory forever. These are the moments that remind me how special it is to have someone who will dance, laugh, and explore right alongside you.  \n\nA huge thank you to our sweet friend for **gifting us these tickets** and making this whole weekend possible. Because of you, we got to spend a fantastic weekend tucked away in the woods, enjoying our tiny house among the trees, great music, and time together that I\u2019ll never forget.  \n\nGood music.  \nGood company.  \nA little Irish spirit.  \n\nAnd a weekend adventure I\u2019ll always be grateful for. \u2618\ufe0f\ud83d\udc9a"
+          ]
+        },
+        "create_time": 1773583745.676061,
+        "id": "57f1b5ba-0493-4324-a51a-6e0c04e33d5a",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "b9d6f1dd-ce36-419c-8e23-9790794d7640"
+        }
+      },
+      "parent": "bbb21141-f064-4d75-ab82-63d76069ef16"
+    },
+    "bbb21141-f064-4d75-ab82-63d76069ef16": {
+      "id": "bbb21141-f064-4d75-ab82-63d76069ef16",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write a post about going to see the Boxing Banjos play last night at the Caverns in Pelham, TN. talk about getting our irish in before my surgery on St Patty's day so we didn't miss this fun festivities. And how every adventure together is amazing and unforgettable. Thank my friend for giftingus these tickets and making it so we could have a fantastic weekend in the woods enjoying each other, our tiny house amongst the trees and some good old Irish jigging"
+          ]
+        },
+        "create_time": 1773583745.445682,
+        "id": "bbb21141-f064-4d75-ab82-63d76069ef16",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "0835a011-7ab1-4562-8add-e17f82334db3"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Boxing Banjos Adventure",
+  "update_time": 1773583755.252029,
+  "voice": null
+}

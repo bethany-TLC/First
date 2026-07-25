@@ -1,0 +1,92 @@
+{
+  "conversation_id": "6a6121ea-aa68-83ea-81f8-7679c322412f",
+  "conversation_template_id": null,
+  "create_time": 1784750659.949928,
+  "current_node": "4f9f3380-3156-4354-b8d2-e277fee3529e",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a6121ea-aa68-83ea-81f8-7679c322412f",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "43a62a4a-1731-453c-9764-3aa444c868cc": {
+      "id": "43a62a4a-1731-453c-9764-3aa444c868cc",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content": "Worked for a couple of seconds",
+          "content_type": "reasoning_recap"
+        },
+        "create_time": 1784750660.883316,
+        "id": "43a62a4a-1731-453c-9764-3aa444c868cc",
+        "metadata": {
+          "model_slug": "gpt-5-5",
+          "parent_id": "c4a9e3fd-7666-4543-8548-299c3c109b63"
+        }
+      },
+      "parent": "bbb217bc-d35a-4491-91db-548d995797ad"
+    },
+    "4f9f3380-3156-4354-b8d2-e277fee3529e": {
+      "id": "4f9f3380-3156-4354-b8d2-e277fee3529e",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here's a polished version that keeps your voice while making it flow a bit more naturally.\n\n:::writing{variant=\"social_post\" id=\"48172\"}\nThis weekend was one for the books. \ud83c\udf0a\u2764\ufe0f\n\nWe escaped to Santa Rosa Beach to celebrate my man's birthday, and somehow every moment turned into a memory we'll never forget.\n\nWe soaked in the gorgeous scenery, storm watched from the beach, acted like complete goofballs, and ate our way through some incredible restaurants.\n\n\ud83c\udfc6 Surfing Deer absolutely delivered for a birthday celebration, but those street corn chipotle nachos... they officially stole the show. I don't know how anything could possibly top them.\n\nBut the best meal of the weekend wasn't at a restaurant.\n\nIt was the one we made ourselves.\n\nWe found a little waterside park, fired up the grill in the middle of a tropical depression, cooked steak and veggies in the rain, and spent hours dreaming about the future... including planning our someday home together.\n\nThose are the moments that matter.\n\nWe stayed up watching the high tide roll in, stared at the stars, talked about life, laughed until our stomachs hurt, and made memories I'll carry with me forever.\n\nHappy Birthday, Tommy. \u2764\ufe0f You are truly one of a kind, and I'm so grateful I get to do life with you. Here's to many more adventures together.\n\n#SantaRosaBeach #Florida #BirthdayWeekend #BeachLife #StormWatching #SurfingDeer #30A #MakingMemories #LifeIsBetterTogether #Grateful #AdventureAwaits\n:::\n\nIf you'd like, I can also make it a little more romantic, a little funnier, or more \"Instagram influencer\" style."
+          ]
+        },
+        "create_time": 1784750659.831029,
+        "id": "4f9f3380-3156-4354-b8d2-e277fee3529e",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "43a62a4a-1731-453c-9764-3aa444c868cc"
+        }
+      },
+      "parent": "43a62a4a-1731-453c-9764-3aa444c868cc"
+    },
+    "62306c67-675f-4ebc-9d74-a36702c14b8b": {
+      "id": "62306c67-675f-4ebc-9d74-a36702c14b8b",
+      "message": null,
+      "parent": null
+    },
+    "bbb217bc-d35a-4491-91db-548d995797ad": {
+      "id": "bbb217bc-d35a-4491-91db-548d995797ad",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write a post about spending the weekend in Santa Rosa Beach Florida for my mans birthday! We spent time enjoying the gorgeous scenery, storm watching, being goofy and enjoying the best food on the beach! Surfing Deer was on point and quite the celebratory event, but the street corn chipotle nachos took home the prize for the best eats imaginable! But as far as the best meal: we found a waterside park where we cooked our own meat and veggies in the rain and tropical depression storm planning out our future home together. . . Memories for life! We spent many nights watching the high tide roll in and gazing at the stars talking about life. Deep connections and endless laughs. Happy birthday Tommy, you are truly one of kind! "
+          ]
+        },
+        "create_time": 1784750659.423673,
+        "id": "bbb217bc-d35a-4491-91db-548d995797ad",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "62306c67-675f-4ebc-9d74-a36702c14b8b"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Santa Rosa Beach Birthday",
+  "update_time": 1784750782.274234,
+  "voice": null
+}

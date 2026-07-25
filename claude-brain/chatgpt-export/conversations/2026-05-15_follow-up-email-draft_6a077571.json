@@ -1,0 +1,83 @@
+{
+  "conversation_id": "6a077571-77bc-83ea-9f53-ea8bf335f38c",
+  "conversation_template_id": null,
+  "create_time": 1778873767.059675,
+  "current_node": "59ec23d6-b50b-48a7-94d3-4a299d2259ef",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a077571-77bc-83ea-9f53-ea8bf335f38c",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "59ec23d6-b50b-48a7-94d3-4a299d2259ef": {
+      "id": "59ec23d6-b50b-48a7-94d3-4a299d2259ef",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a shorter, polished follow-up email you can send Rudy:\n\n:::writing{variant=\"email\" id=\"48271\" subject=\"Agreement & Next Steps\"}\nHi Rudy,  \n\nIt was great chatting with you again today. We\u2019re really excited about the opportunity to work with you and Carrie when the timing feels right for you and the practice. We truly feel like this is going to be a great fit.  \n\nI\u2019ve attached the agreement for you to review whenever you have a chance. If you\u2019d like to go ahead and sign it ahead of payment, you\u2019re more than welcome to do that as well. Of course, nothing officially begins and we would never hold you accountable to timelines, deliverables, or onboarding milestones until payment is completed and you\u2019re fully ready to move forward. We just wanted to make the process as easy and seamless as possible on your end.  \n\nReally looking forward to what we can build together and excited to reconnect next week.  \n\nHappy Aloha Friday \ud83c\udf3a  \n\nBethany\n:::\n\n"
+          ]
+        },
+        "create_time": 1778873766.547465,
+        "id": "59ec23d6-b50b-48a7-94d3-4a299d2259ef",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "5a4bad48-baea-404c-919e-0736b78cd6f7"
+        }
+      },
+      "parent": "87c6cbc9-1f57-4722-b008-7a02001744f2"
+    },
+    "87c6cbc9-1f57-4722-b008-7a02001744f2": {
+      "id": "87c6cbc9-1f57-4722-b008-7a02001744f2",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "write a follow up email to Rudy giving him the agreement, lettig him know we are excited to hav him on , when the time is right fo rhm nad his practice. alsolet him know if he want to sign the agreement ahad of payment he can, we obviosuly wont holdanyone to a time line accoutnable for anything til paymnet is made. but say it way better. make email a bit on shorter side"
+          ]
+        },
+        "create_time": 1778873763.243,
+        "id": "87c6cbc9-1f57-4722-b008-7a02001744f2",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_00000000dcd871f6b8b05910bb638db5",
+              "is_big_paste": true,
+              "library_file_id": "libfile_e3655ec7580c81918b7483ed65c4f3d8",
+              "mime_type": "text/plain",
+              "name": "Pasted text(33).txt",
+              "size": 23124,
+              "source": "local"
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Follow-up Email Draft",
+  "update_time": 1778873802.363611,
+  "voice": null
+}

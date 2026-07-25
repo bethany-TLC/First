@@ -1,0 +1,72 @@
+{
+  "conversation_id": "69d6678d-7bc4-8329-b486-e03e2a95edba",
+  "conversation_template_id": null,
+  "create_time": 1775658896.429708,
+  "current_node": "027f13e9-4576-4384-9d61-3afd5a995e83",
+  "default_model_slug": "gpt-5-3",
+  "id": "69d6678d-7bc4-8329-b486-e03e2a95edba",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "027f13e9-4576-4384-9d61-3afd5a995e83": {
+      "id": "027f13e9-4576-4384-9d61-3afd5a995e83",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Hey everyone,  \n\nJust wanted to check back in and let you know I\u2019m still here, just in full recovery mode right now. My doctor has cleared me to work remotely for a bit until I\u2019m fully mobile again.  \n\nI\u2019ll be catching up throughout the rest of the week, so if there\u2019s anything important I should be looped in on, feel free to send it my way via email.  \n\nHappy to be at least somewhat back \ud83d\ude0a"
+          ]
+        },
+        "create_time": 1775658896.321803,
+        "id": "027f13e9-4576-4384-9d61-3afd5a995e83",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "233e0aea-9424-4c40-a873-c5ca7f5efd39"
+        }
+      },
+      "parent": "2c036383-d561-4487-a233-b3ee5b3c06bd"
+    },
+    "2c036383-d561-4487-a233-b3ee5b3c06bd": {
+      "id": "2c036383-d561-4487-a233-b3ee5b3c06bd",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "rewrite : Hey Everyone,\nJust wanted to pop back in and say I'm alive, but in major healing mode still. I've been given the okay from my dr to work\u00a0remotely for a bit until I'm mobile again.\u00a0\nI'll be playing catch up for the rest of this week so if there is anything you would like to bring me up to speed on, please shoot me an email.\nGlad to be semi back at least!"
+          ]
+        },
+        "create_time": 1775658896.133,
+        "id": "2c036383-d561-4487-a233-b3ee5b3c06bd",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Recovery Update Rewrite",
+  "update_time": 1775658909.994283,
+  "voice": null
+}

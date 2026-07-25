@@ -1,0 +1,83 @@
+{
+  "conversation_id": "69ebd4b7-a62c-83ea-8970-e94d3b854209",
+  "conversation_template_id": null,
+  "create_time": 1777063096.710548,
+  "current_node": "56ed5bdd-adc3-404e-812b-f74abb05b6d4",
+  "default_model_slug": "gpt-5-3",
+  "id": "69ebd4b7-a62c-83ea-8970-e94d3b854209",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "56ed5bdd-adc3-404e-812b-f74abb05b6d4": {
+      "id": "56ed5bdd-adc3-404e-812b-f74abb05b6d4",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Subject: You\u2019re officially on the books \ud83d\udc9b\n\nHi Casey,\n\nI just wanted to follow up and say how much I genuinely enjoyed our conversation. You have something really special, and I can feel how much heart, effort, and intention you\u2019ve poured into this business over the last year. You\u2019re doing a lot right, and I want you to know I\u2019ve got you from here \ud83e\udd0d\n\nYou are officially on the books for Tuesday, and I\u2019m really looking forward to diving in together. Between now and then, I\u2019ve gone ahead and added a down payment option for you so you can secure your spot today without added pressure. From there, I\u2019ll make sure we get you set up with the 3-month payment plan exactly how we discussed, so it feels manageable and supportive, not stressful.\n\nI know you shared how things feel right now financially, and I want you to hear this clearly. You are not behind. You are in a build phase, and you\u2019re a lot closer than it feels. Our job is to come in, tighten what\u2019s already working, and turn what you\u2019ve built into something that actually starts paying you back.\n\nWe\u2019re really excited to work with you, Casey. Your energy, your leadership, and the way you care about your clients and your team\u2026 that\u2019s exactly the kind of foundation we love building on. This is going to be a really fun transformation to watch.\n\nBetween now and Tuesday, if anything comes up or you need anything at all, just reach out. I\u2019m here.\n\nWe\u2019ve got you \ud83e\udd0d\n\nTalk soon,  \nBethany"
+          ]
+        },
+        "create_time": 1777063096.493033,
+        "id": "56ed5bdd-adc3-404e-812b-f74abb05b6d4",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "fa7304a2-86c1-4f4e-90da-a7a1ec4b4e12"
+        }
+      },
+      "parent": "c9090369-b6fc-420f-88e4-82c381dc648c"
+    },
+    "c9090369-b6fc-420f-88e4-82c381dc648c": {
+      "id": "c9090369-b6fc-420f-88e4-82c381dc648c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "writ Casey and email and make it sound super friendlly and caring. touch points that we talked about and let her know I've got her! let her know she is onthe books fo rtuesdady and ive added a downpaymetn option fo rher to do a down payment and holdher spot today. then i will also make sure she can do the 3 month payment plan per our convo. let her know how escited we are to help her grow!"
+          ]
+        },
+        "create_time": 1777063095.513,
+        "id": "c9090369-b6fc-420f-88e4-82c381dc648c",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_00000000c9c4722f98568c6bb01a608d",
+              "is_big_paste": true,
+              "library_file_id": "libfile_c1d98d8f2f088191bd4927293d866003",
+              "mime_type": "text/plain",
+              "name": "Pasted text(25).txt",
+              "size": 58893,
+              "source": "local"
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Friendly Follow-up Email",
+  "update_time": 1777063271.139278,
+  "voice": null
+}

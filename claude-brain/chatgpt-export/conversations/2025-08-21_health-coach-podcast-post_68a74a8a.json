@@ -1,0 +1,72 @@
+{
+  "conversation_id": "68a74a8a-2a84-8324-9177-aed7b11f463b",
+  "conversation_template_id": null,
+  "create_time": 1755794076.891791,
+  "current_node": "62b8f4f3-219e-4ef8-9283-74b646d4e904",
+  "default_model_slug": "auto",
+  "id": "68a74a8a-2a84-8324-9177-aed7b11f463b",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "62b8f4f3-219e-4ef8-9283-74b646d4e904": {
+      "id": "62b8f4f3-219e-4ef8-9283-74b646d4e904",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a version tailored for **health and wellness coaches** while keeping the same inviting and professional tone:  \n\n---\n\n**Calling All Health & Wellness Coaches!**  \n\nI\u2019m launching a brand-new research podcast called **The Aesthetic Edge**\u2014and I\u2019m expanding the conversation to include the incredible voices of health and wellness leaders. This platform dives into the stories, challenges, and wins of professionals shaping the future of wellness and transformation.  \n\nI\u2019m looking for coaches who\u2019d love to share their journey, expertise, and insights with other leaders and decision-makers in the industry. This is a chance to:  \n- Showcase your coaching philosophy and approach  \n- Share your unique perspective on client transformation, growth, and innovation  \n- Connect with a wider audience of like-minded professionals  \n- Be part of a podcast that highlights the real people behind the success  \n\nIf you\u2019re interested in being a guest, drop a comment below or DM me directly. I\u2019d love to feature your story on **The Aesthetic Edge**.  \n\nLet\u2019s elevate the conversation in health and wellness together.  \n\n---\n\nDo you want me to also make a **shorter, more casual version** for a Facebook group post or keep this one professional like LinkedIn?"
+          ]
+        },
+        "create_time": 1755794075.461843,
+        "id": "62b8f4f3-219e-4ef8-9283-74b646d4e904",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "f96bdabb-28c6-43de-8374-709809be58f2"
+        }
+      },
+      "parent": "6e392182-6010-4e6a-ad87-80ac6512381f"
+    },
+    "6e392182-6010-4e6a-ad87-80ac6512381f": {
+      "id": "6e392182-6010-4e6a-ad87-80ac6512381f",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "create a similar post for health and wellness coaches: Calling All Med Spa, Dermatology, and Aesthetic Practice Owners!\r\nI\u2019m launching a brand-new research podcast called The Aesthetic Edge. This platform dives into the stories, challenges, and wins of leaders shaping the future of aesthetics.\r\nI\u2019m looking for practice owners and operators who\u2019d love to share their journey, expertise, and insights with other decision-makers in the industry. This is a chance to:\r\nShowcase your business and philosophy\r\nShare your unique perspective on growth, challenges, and innovation\r\nConnect with a wider audience of like-minded leaders\r\nBe part of a podcast that highlights the real operators behind the success\r\nIf you\u2019re interested in being a guest, drop a comment below or DM me directly. I\u2019d love to feature your story on The Aesthetic Edge.\r\nLet\u2019s elevate the conversation in aesthetics together.\n\nPlease write in English language."
+          ]
+        },
+        "create_time": 1755794075.434,
+        "id": "6e392182-6010-4e6a-ad87-80ac6512381f",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Health coach podcast post",
+  "update_time": 1755794856.764716,
+  "voice": null
+}

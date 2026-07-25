@@ -1,0 +1,72 @@
+{
+  "conversation_id": "69dd4efb-a028-83ea-a691-81be66ed18e7",
+  "conversation_template_id": null,
+  "create_time": 1776111412.182779,
+  "current_node": "b04e8a50-3b48-4ba8-8730-e79a976b1f75",
+  "default_model_slug": "gpt-5-3",
+  "id": "69dd4efb-a028-83ea-a691-81be66ed18e7",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "810d81ff-3cec-49c2-8557-83ab271cb90b": {
+      "id": "810d81ff-3cec-49c2-8557-83ab271cb90b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "resopnd to this email and say how exciting amspa wouldve been (i could fly this close to surgery or i wouldve ben there too) and yes eric and i still would love to meet up to have you all as a refereal partner: \r\nTianne Hall\r\n3:14\u202fPM (0 minutes ago)\r\nto me\r\n\r\nHi Bethany!\r\n\r\nPlease excuse my late reply as I just landed from AmSpa this past week. I thoroughly enjoyed our conversation and felt we aligned on many important aspects of the industry. I spoke with my husband about your proposal and he let me know that he had just set up a direct partnership with another consulting company in exchange for some equity.\r\n\r\nWe would however love to be considered as a buyer you send your clients to and we are happy to discuss a referral fee that has value.\r\n\r\nLet me know your thoughts."
+          ]
+        },
+        "create_time": 1776111411.723,
+        "id": "810d81ff-3cec-49c2-8557-83ab271cb90b",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "b04e8a50-3b48-4ba8-8730-e79a976b1f75": {
+      "id": "b04e8a50-3b48-4ba8-8730-e79a976b1f75",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Subject: Re: Great Connecting + Next Steps\n\nHi Tianne,\n\nWelcome back, I can only imagine how exciting AmSpa was this year. I was so bummed to miss it, I definitely would have been there if I wasn\u2019t this close to surgery.\n\nI really enjoyed our conversation as well and completely agree, it felt like we were very aligned in how we both approach this space. I appreciate you sharing the update on the partnership, that makes total sense.\n\nEric and I would still absolutely love to connect and explore how we can work together as a referral partner. We are always looking to place our clients with the right buyers, especially groups that care about maintaining the integrity of the practice, so I think there is a really strong opportunity here.\n\nWould love to set up a time for the four of us to connect and talk through what that could look like and how we can make it valuable on both sides.\n\nLooking forward to it,\nBethany"
+          ]
+        },
+        "create_time": 1776111412.081992,
+        "id": "b04e8a50-3b48-4ba8-8730-e79a976b1f75",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "15e0a721-d8f2-4bac-aa79-490094a34eb5"
+        }
+      },
+      "parent": "810d81ff-3cec-49c2-8557-83ab271cb90b"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "AmSpa and Referral Partnership",
+  "update_time": 1776111437.419158,
+  "voice": null
+}

@@ -1,0 +1,72 @@
+{
+  "conversation_id": "6a4e90e4-65a8-83e8-84b8-2c628213ca04",
+  "conversation_template_id": null,
+  "create_time": 1783533802.064974,
+  "current_node": "2bab46e5-6cba-4784-adb2-2b0b114230f3",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a4e90e4-65a8-83e8-84b8-2c628213ca04",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "2bab46e5-6cba-4784-adb2-2b0b114230f3": {
+      "id": "2bab46e5-6cba-4784-adb2-2b0b114230f3",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Overall, it reads well. I only found a few minor edits I'd recommend:\n\n1. **Headline**\n- \"September 21-22, 2026\" \u2192 **September 21\u201322, 2026**\n  - Use an en dash (\u2013) instead of a hyphen for date ranges if your email platform supports it.\n\n2. **Opening paragraph**\nCurrent:\n> \"...with tracks for novice and experienced participants.\"\n\nSuggested:\n> \"...with tracks for **both** novice and experienced participants.\"\n\nThis reads a little smoother.\n\n3. **Body copy**\nCurrent:\n> \"...developing an understanding and appreciation of all critical roles inside and outside their schools.\"\n\nSuggested:\n> \"...developing an understanding and appreciation **for** all critical roles inside and outside their schools.\"\n\n\"Appreciation for\" is the more natural phrasing.\n\n4. **Bullet list consistency**\nCurrent:\n- Interface with Nashville academy coaches, school leaders, and community leaders\n\nSuggested:\n- **Connect with** Nashville academy coaches, school leaders, and community leaders\n\n\"Connect with\" is more conversational and matches the tone of the other bullets. \"Interface with\" sounds a bit corporate.\n\n5. **Call to action**\nCurrent:\n> Questions? Email info@nashvillehub.org!\n\nSuggested:\n> **Questions? Email us at** info@nashvillehub.org!\n\nA little friendlier.\n\n### I did **not** find any spelling errors or obvious typos.\n\nThe rest\u2014including punctuation, capitalization, and grammar\u2014looks clean. I'd be comfortable sending it after making those small stylistic improvements."
+          ]
+        },
+        "create_time": 1783533801.967763,
+        "id": "2bab46e5-6cba-4784-adb2-2b0b114230f3",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "c4c841b0-b94f-4694-b6a6-5a49f6f14672"
+        }
+      },
+      "parent": "bbb21ac8-006e-450b-b771-bab85c75ee94"
+    },
+    "44d84c00-1437-4378-9e0c-3e0376991f54": {
+      "id": "44d84c00-1437-4378-9e0c-3e0376991f54",
+      "message": null,
+      "parent": null
+    },
+    "bbb21ac8-006e-450b-b771-bab85c75ee94": {
+      "id": "bbb21ac8-006e-450b-b771-bab85c75ee94",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Any typos: \n\"Please review, test links, look for typos. THANKS!\" \u2014 Heather Chalos\nTo send feedback about this test campaign, reply with a message above this bar.\nView this email in your browser\n\n\nJoin us in Nashville!\nSeptember 21-22, 2026\n\nWe're excited to host another Academy Coach Institute in September, with tracks for novice and experienced participants. If you are an academy coach or play a similar role in supporting career academies, pathways, or partnerships, the Academy Coach Institute is for you. If you joined us last year, we hope to see you again at this year's gathering for updated sessions, a new school visit, and networking time with other academy coaches.\n\n\nView and download the detailed agenda\nThe Academy Coach Institute is a two-day learning experience for coaches at all levels, providing opportunities for both differentiated and collaborative learning. Novice academy coaches will learn how to serve as liaisons between district, school, business, and civic leaders by developing an understanding and appreciation of all critical roles inside and outside their schools. Advanced academy coaches will hone their skills in maintaining successful relationships and partnerships, navigating leadership and program change, and facilitating effective school and community teams. Participants will interact with Nashville Hub practitioners and Academies of Nashville academy coaches through learning sessions, interactive work, and a school visit.\nDifferentiated learning experiences for novice and experienced coaches\nDive into planning, day-to-day logistics, and school-level relationships\nExplore topics such as pathway selection and finding business partners\nSpend time in an Academies of Nashville school\nInterface with Nashville academy coaches, school leaders, and community leaders\n\nQuestions? Email info@nashvillehub.org!\n \nREGISTER TODAY!\n\nTwitter\nFacebook\nWebsite\nwww.nashvillehub.org\n\nOur mailing address is:\nP.O. Box 41089, Nashville, TN 37204\n\nWant to change how you receive these emails?\nYou can update your preferences or unsubscribe from this list.\n\n \n"
+          ]
+        },
+        "create_time": 1783533801.682933,
+        "id": "bbb21ac8-006e-450b-b771-bab85c75ee94",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "44d84c00-1437-4378-9e0c-3e0376991f54"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Typos and Text Review",
+  "update_time": 1783533805.535228,
+  "voice": null
+}

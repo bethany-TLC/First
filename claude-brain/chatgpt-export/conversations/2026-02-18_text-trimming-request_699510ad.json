@@ -1,0 +1,118 @@
+{
+  "conversation_id": "699510ad-59a4-8326-97eb-3237f8f06af8",
+  "conversation_template_id": null,
+  "create_time": 1771376821.225059,
+  "current_node": "50bfd9dc-1907-4b2f-b330-ec793972fef6",
+  "default_model_slug": "gpt-5-2",
+  "id": "699510ad-59a4-8326-97eb-3237f8f06af8",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "498a7583-ff43-4f63-b684-66826ce45376": {
+      "id": "498a7583-ff43-4f63-b684-66826ce45376",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            " From middle school career exploration to employer partnerships and cross-sector collaboration, see how Alignment Nashville is helping students connect their interests to college, career, and life opportunities."
+          ]
+        },
+        "create_time": 1771384451.538,
+        "id": "498a7583-ff43-4f63-b684-66826ce45376",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "a66d6886-fd33-430a-b559-1fc900d42723"
+    },
+    "50bfd9dc-1907-4b2f-b330-ec793972fef6": {
+      "id": "50bfd9dc-1907-4b2f-b330-ec793972fef6",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a polished version under 150 characters (138 characters):\n\nFrom middle school exploration to employer partnerships, Alignment Nashville helps students connect interests to college, career, and life paths."
+          ]
+        },
+        "create_time": 1771376826.330833,
+        "id": "50bfd9dc-1907-4b2f-b330-ec793972fef6",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "4df40ef0-f810-4a9a-af3d-9c5acddb755b"
+        }
+      },
+      "parent": "498a7583-ff43-4f63-b684-66826ce45376"
+    },
+    "a66d6886-fd33-430a-b559-1fc900d42723": {
+      "id": "a66d6886-fd33-430a-b559-1fc900d42723",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Sure. Please paste the text you want trimmed to 150 characters."
+          ]
+        },
+        "create_time": 1771376821.119779,
+        "id": "a66d6886-fd33-430a-b559-1fc900d42723",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "c7138654-38e6-46ea-b8e9-db274d66db70"
+        }
+      },
+      "parent": "d0053dc1-035c-40da-9ffa-3f7106c55358"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "d0053dc1-035c-40da-9ffa-3f7106c55358": {
+      "id": "d0053dc1-035c-40da-9ffa-3f7106c55358",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "make this 150 charatcters"
+          ]
+        },
+        "create_time": 1771384446.572,
+        "id": "d0053dc1-035c-40da-9ffa-3f7106c55358",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Text trimming request",
+  "update_time": 1771376832.895512,
+  "voice": null
+}

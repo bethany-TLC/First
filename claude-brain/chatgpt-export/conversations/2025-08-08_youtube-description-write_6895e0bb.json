@@ -1,0 +1,206 @@
+{
+  "conversation_id": "6895e0bb-8300-832f-9745-5a84a2230066",
+  "conversation_template_id": null,
+  "create_time": 1754652881.834099,
+  "current_node": "7b21180c-5135-496a-aa9c-4ba553a45284",
+  "default_model_slug": "auto",
+  "id": "6895e0bb-8300-832f-9745-5a84a2230066",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "09418c27-27f7-44b5-be81-9ab8f1bc84f4": {
+      "id": "09418c27-27f7-44b5-be81-9ab8f1bc84f4",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Sure! Here\u2019s a short, inviting YouTube description you can use:  \n\n---\n\n\u2728 Love what you see? Don\u2019t miss out! Hit that **Subscribe** button and join our community for fresh content, tips, and behind-the-scenes fun every week. Let\u2019s grow together! \ud83d\ude80  \n\n---\n\nDo you want me to make you a few punchier, more casual options too?"
+          ]
+        },
+        "create_time": 1754652881.649467,
+        "id": "09418c27-27f7-44b5-be81-9ab8f1bc84f4",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "9537ba24-6f8b-4c34-8683-cecb0caff855"
+        }
+      },
+      "parent": "bbb21871-2ad1-4a69-9d2e-6c1542d9172b"
+    },
+    "61d201ee-83ab-4089-a59e-a6250982247b": {
+      "id": "61d201ee-83ab-4089-a59e-a6250982247b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a casual, \u201cyou talking to your audience\u201d version:  \n\n---\n\nHey friends! \ud83d\udc89\u2728 If you\u2019re into med spas, aesthetics, and all the behind-the-scenes biz tips, you\u2019re in the right place. Hit **subscribe** and hang out with me here on *The Aesthetic Edge* \u2014 we\u2019ve got some amazing interviews and insider secrets coming your way! \ud83d\ude80  \n\n---  \n\nI can also make you a **super short hype version** for quick YouTube posts if you want."
+          ]
+        },
+        "create_time": 1754652943.519857,
+        "id": "61d201ee-83ab-4089-a59e-a6250982247b",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "bbb2166e-b831-4d51-b37f-920763001236"
+        }
+      },
+      "parent": "bbb2166e-b831-4d51-b37f-920763001236"
+    },
+    "7b21180c-5135-496a-aa9c-4ba553a45284": {
+      "id": "7b21180c-5135-496a-aa9c-4ba553a45284",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a warmer, more inviting \u201ccome join us\u201d style:  \n\n---\n\nCome join me over on *The Aesthetic Edge*! \ud83d\udc89\u2728 I\u2019m sitting down with amazing med spa, dermatology, and plastic surgery pros to share their stories, business tips, and insider secrets. Hit **subscribe** and be part of our growing community \u2014 you\u2019re not gonna want to miss this! \ud83d\ude80  \n\n---  \n\nWant me to also give you a **fun, 1\u20132 sentence hook** you can drop under each video?"
+          ]
+        },
+        "create_time": 1754652963.316518,
+        "id": "7b21180c-5135-496a-aa9c-4ba553a45284",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "bbb2120f-bb8c-49d5-9424-cd0a5420a88e"
+        }
+      },
+      "parent": "bbb2120f-bb8c-49d5-9424-cd0a5420a88e"
+    },
+    "bbb2120f-bb8c-49d5-9424-cd0a5420a88e": {
+      "id": "bbb2120f-bb8c-49d5-9424-cd0a5420a88e",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Make it more like I'm asking people to join"
+          ]
+        },
+        "create_time": 1754652963.117623,
+        "id": "bbb2120f-bb8c-49d5-9424-cd0a5420a88e",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "61d201ee-83ab-4089-a59e-a6250982247b"
+    },
+    "bbb2166e-b831-4d51-b37f-920763001236": {
+      "id": "bbb2166e-b831-4d51-b37f-920763001236",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Make it like I'm posting it and casual "
+          ]
+        },
+        "create_time": 1754652943.354061,
+        "id": "bbb2166e-b831-4d51-b37f-920763001236",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "fd8b3948-b3aa-4ba7-ac13-771bc29c0d02"
+    },
+    "bbb21871-2ad1-4a69-9d2e-6c1542d9172b": {
+      "id": "bbb21871-2ad1-4a69-9d2e-6c1542d9172b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write a short YouTube description asking people to come subscribe"
+          ]
+        },
+        "create_time": 1754652881.505171,
+        "id": "bbb21871-2ad1-4a69-9d2e-6c1542d9172b",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "d68e9f2d-4ab4-481d-8175-1494781c88b1"
+    },
+    "bbb21d49-3801-40cb-ba43-bbceb8d5605d": {
+      "id": "bbb21d49-3801-40cb-ba43-bbceb8d5605d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write to be specific to my YouTube channel : The Aesthetic Edge"
+          ]
+        },
+        "create_time": 1754652913.339584,
+        "id": "bbb21d49-3801-40cb-ba43-bbceb8d5605d",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "09418c27-27f7-44b5-be81-9ab8f1bc84f4"
+    },
+    "d68e9f2d-4ab4-481d-8175-1494781c88b1": {
+      "id": "d68e9f2d-4ab4-481d-8175-1494781c88b1",
+      "message": null,
+      "parent": null
+    },
+    "fd8b3948-b3aa-4ba7-ac13-771bc29c0d02": {
+      "id": "fd8b3948-b3aa-4ba7-ac13-771bc29c0d02",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Got it \u2014 here\u2019s a short, channel-specific YouTube description for **The Aesthetic Edge**:  \n\n---\n\n\ud83d\udc89\u2728 Welcome to **The Aesthetic Edge** \u2014 your inside look at the business, beauty, and behind-the-scenes of the aesthetics industry! Subscribe now for expert interviews, growth tips, and inspiring stories from med spa, dermatology, and plastic surgery leaders. Stay ahead, stay inspired. \ud83d\ude80  \n\n---  \n\nWant me to also make a **shorter, more click-worthy version** for the channel banner and video outros?"
+          ]
+        },
+        "create_time": 1754652913.435516,
+        "id": "fd8b3948-b3aa-4ba7-ac13-771bc29c0d02",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "bbb21d49-3801-40cb-ba43-bbceb8d5605d"
+        }
+      },
+      "parent": "bbb21d49-3801-40cb-ba43-bbceb8d5605d"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "YouTube description write",
+  "update_time": 1754652965.784298,
+  "voice": null
+}

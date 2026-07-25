@@ -1,0 +1,194 @@
+{
+  "conversation_id": "6a4a8274-0b8c-83e8-b53f-7982ebc1852c",
+  "conversation_template_id": null,
+  "create_time": 1783267968.599461,
+  "current_node": "08dd4208-614c-43e3-9fe1-61aa015922fd",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a4a8274-0b8c-83e8-b53f-7982ebc1852c",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "08dd4208-614c-43e3-9fe1-61aa015922fd": {
+      "id": "08dd4208-614c-43e3-9fe1-61aa015922fd",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "create_time": 1783268078.026951,
+        "id": "08dd4208-614c-43e3-9fe1-61aa015922fd",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "59050dd6-6e0f-41cc-bd71-87bd0b0f63f6"
+        }
+      },
+      "parent": "bbb216bf-5334-4e1e-90af-9d5a64de9f1d"
+    },
+    "2c25b29e-59b7-4ac1-b26f-13b29347bbd0": {
+      "id": "2c25b29e-59b7-4ac1-b26f-13b29347bbd0",
+      "message": null,
+      "parent": null
+    },
+    "2c289456-4a97-4d0a-839c-d7c43c759fdd": {
+      "id": "2c289456-4a97-4d0a-839c-d7c43c759fdd",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Absolutely \ud83d\ude02. I can make it into a meme, but I'll need a photo of you **in this conversation** first.\n\nUpload a selfie (or the photo you want me to use), and I'll turn it into a meme with something like:\n\n> **\"I WANT THE HOTPOT.\"**\n\nI'll make it over-the-top and dramatic\u2014perfect reaction meme energy with bold captions and expressive facial emphasis. Once you upload the photo, I'll generate it."
+          ]
+        },
+        "create_time": 1783267988.626714,
+        "id": "2c289456-4a97-4d0a-839c-d7c43c759fdd",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "1c88c55d-57dd-4ca7-82fc-ab3f2d82953e"
+        }
+      },
+      "parent": "bbb2125d-acfb-4180-a0c3-8629d5e588e8"
+    },
+    "4a8d1da3-f791-4a7c-bf2c-a64852955a28": {
+      "id": "4a8d1da3-f791-4a7c-bf2c-a64852955a28",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "I'd be happy to! To make it actually look like you, please upload a photo of yourself in this chat.\n\nOnce you do, I'll generate an image of you with a fun expression or speech bubble saying:\n\n**\"I want the hotpot!\"**\n\nIf you have a particular vibe in mind (dramatic, funny, meme-style, anime, realistic, etc.), let me know and I'll match it."
+          ]
+        },
+        "create_time": 1783267969.474603,
+        "id": "4a8d1da3-f791-4a7c-bf2c-a64852955a28",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "910f6fee-33b5-401f-bfa8-12afe7a36a87"
+        }
+      },
+      "parent": "bbb21367-fad0-4fed-b7e8-d108abc26236"
+    },
+    "bbb2125d-acfb-4180-a0c3-8629d5e588e8": {
+      "id": "bbb2125d-acfb-4180-a0c3-8629d5e588e8",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Memestyle"
+          ]
+        },
+        "create_time": 1783267988.425666,
+        "id": "bbb2125d-acfb-4180-a0c3-8629d5e588e8",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "4a8d1da3-f791-4a7c-bf2c-a64852955a28"
+    },
+    "bbb21367-fad0-4fed-b7e8-d108abc26236": {
+      "id": "bbb21367-fad0-4fed-b7e8-d108abc26236",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Makee a picture of me saying I want the hotpot"
+          ]
+        },
+        "create_time": 1783267968.306336,
+        "id": "bbb21367-fad0-4fed-b7e8-d108abc26236",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "2c25b29e-59b7-4ac1-b26f-13b29347bbd0"
+    },
+    "bbb216bf-5334-4e1e-90af-9d5a64de9f1d": {
+      "id": "bbb216bf-5334-4e1e-90af-9d5a64de9f1d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_00000000c42071f7903f4d438f7c97c1",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 2448,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 184086,
+              "width": 3264
+            }
+          ]
+        },
+        "create_time": 1783268039.079781,
+        "id": "bbb216bf-5334-4e1e-90af-9d5a64de9f1d",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_00000000c42071f7903f4d438f7c97c1",
+              "mime_type": "image/jpeg",
+              "name": "1000019987.jpg",
+              "size": 184086
+            }
+          ],
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "2c289456-4a97-4d0a-839c-d7c43c759fdd"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Hotpot Image Request",
+  "update_time": 1783268080.984042,
+  "voice": null
+}

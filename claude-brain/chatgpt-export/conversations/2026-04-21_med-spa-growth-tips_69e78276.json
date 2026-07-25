@@ -1,0 +1,102 @@
+{
+  "conversation_id": "69e78276-7250-83ea-aefd-525e6acad5df",
+  "conversation_template_id": null,
+  "create_time": 1776779945.912239,
+  "current_node": "b9983b41-106c-4b13-a8d9-882d85666684",
+  "default_model_slug": "gpt-5-3",
+  "id": "69e78276-7250-83ea-aefd-525e6acad5df",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "2fc805e7-6ca6-4927-af0f-8d3c2223acbc": {
+      "id": "2fc805e7-6ca6-4927-af0f-8d3c2223acbc",
+      "message": null,
+      "parent": null
+    },
+    "b9983b41-106c-4b13-a8d9-882d85666684": {
+      "id": "b9983b41-106c-4b13-a8d9-882d85666684",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "There comes a moment in every med spa where you realize\u2026 it\u2019s not about working harder.\n\nIt\u2019s about shifting.\n\nYour dreams don\u2019t grow because you wait for the \u201cright time.\u201d  \nThey grow the moment you decide to pivot, to look at your business differently, and to fix what\u2019s actually holding you back.\n\nMost owners think they need more leads.  \nBut what they really need is clarity on what\u2019s happening in between.\n\nThe missed follow-ups.  \nThe consults that don\u2019t convert.  \nThe clients who never come back.\n\nThat\u2019s where your growth is hiding.\n\nDon\u2019t wait for the perfect moment.  \nCreate it.\n\nAnd if something in your business feels \u201coff\u201d\u2026 trust that feeling. It\u2019s usually pointing you exactly where you need to shift.\n\n#MedSpaGrowth #AestheticBusiness #MedSpaOwners #WomenInBusiness #ScaleWithIntention #LuxuryBranding #BusinessGrowth #EntrepreneurMindset #MedSpaLife #TheLuxoraCollective"
+          ]
+        },
+        "create_time": 1776779945.571179,
+        "id": "b9983b41-106c-4b13-a8d9-882d85666684",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "dfcc2d50-5797-4ce2-bdd8-efeb07c5cb47"
+        }
+      },
+      "parent": "bbb2157b-03f9-4ad7-bf76-72d7a3b0d4ce"
+    },
+    "bbb2157b-03f9-4ad7-bf76-72d7a3b0d4ce": {
+      "id": "bbb2157b-03f9-4ad7-bf76-72d7a3b0d4ce",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_0000000052d071f5ad1c235370ed6630",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 1427,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 138713,
+              "width": 767
+            },
+            "Write an Instagram post"
+          ]
+        },
+        "create_time": 1776779945.314783,
+        "id": "bbb2157b-03f9-4ad7-bf76-72d7a3b0d4ce",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_0000000052d071f5ad1c235370ed6630",
+              "mime_type": "image/png",
+              "name": "file_0000000052d071f5ad1c235370ed6630",
+              "size": 138713
+            }
+          ],
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "2fc805e7-6ca6-4927-af0f-8d3c2223acbc"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Med Spa Growth Tips",
+  "update_time": 1776779954.378696,
+  "voice": null
+}

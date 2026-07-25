@@ -1,0 +1,71 @@
+{
+  "conversation_id": "696ce5f7-d264-832c-91dc-27acf887b072",
+  "conversation_template_id": null,
+  "create_time": 1768744737.950633,
+  "current_node": "e13fa868-9a01-4067-98ff-d88350959a18",
+  "default_model_slug": "gpt-5-2",
+  "id": "696ce5f7-d264-832c-91dc-27acf887b072",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "53b08ed9-aba2-4d84-9023-5a9a62b648e9": {
+      "id": "53b08ed9-aba2-4d84-9023-5a9a62b648e9",
+      "message": null,
+      "parent": null
+    },
+    "bbb215ec-3af1-4c1e-b49f-719dd47aaf8f": {
+      "id": "bbb215ec-3af1-4c1e-b49f-719dd47aaf8f",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Please write and email to Sam and Tracy Olson about your newly branded company the Luxora Collective. Let them know that you'd love the opportunity to bid on doing their meta ads and so much more. Tell them due to them already being clients and them being the beta testers for new outline you'd like to offer them a 40% discount on the 90 day program. Original cost 9k. Make sure they know just because they are the first for this program doesn't make the delivery or expertise of this offer any less effective or amazing, just a new format.  Let them know that you'd love the opportunity to work with them and offer a time this Monday to jump on a call and discuss this program in full. Also mention that there are two other options: one on one exclusive consulting for monthly fee And an in person secret shopper offer that some spas opt to choose prior to signing up with us. "
+          ]
+        },
+        "create_time": 1768744737.656444,
+        "id": "bbb215ec-3af1-4c1e-b49f-719dd47aaf8f",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "53b08ed9-aba2-4d84-9023-5a9a62b648e9"
+    },
+    "e13fa868-9a01-4067-98ff-d88350959a18": {
+      "id": "e13fa868-9a01-4067-98ff-d88350959a18",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ":::writing{id=\"73942\" variant=\"email\" subject=\"Introducing The Luxora Collective + Special 90-Day Beta Opportunity\"}\nHi Sam and Tracy,\n\nI wanted to officially share something exciting with you. I have recently rebranded my company as **The Luxora Collective**, which is an elevated evolution of the work we have already been doing together. Luxora is designed to support med spas and aesthetic brands at a deeper, more strategic level across paid ads, growth strategy, conversion systems, and operational optimization.\n\nBecause you already know my work and because you have been incredible partners and trusted collaborators, I would truly love the opportunity to **bid on managing your Meta ads and expanding into additional growth initiatives** under this new Luxora framework.\n\nI am rolling out a new **90-day program** that packages strategy, execution, and performance oversight into a more streamlined and results-focused format. The original investment for this program is **$9,000**, but since you are existing clients and would be **beta testers for this new outline**, I would love to extend a **40% discount** exclusively to you.\n\nI want to be very clear that just because you would be first in this program does not mean the delivery, expertise, or results are any less effective or exceptional. This is not an experiment. It is simply a new format that allows me to deliver what I already do in a more powerful and intentional way, and I value your insight as leaders I trust.\n\nIn addition to the 90-day program, I also offer two other options that some practices prefer depending on their stage and goals:\n- **One-on-one exclusive consulting**, structured as a monthly engagement  \n- **An in-person Secret Shopper experience**, which some spas choose before committing to a longer-term program\n\nI would absolutely love the opportunity to walk you through all three options, answer questions, and see what feels like the best fit for where you are right now. If you are open to it, I am available **this Monday** and would be happy to jump on a call at a time that works best for you.\n\nThank you both for the trust you have already placed in me. I genuinely love working with you, and I would be honored to continue building alongside you through The Luxora Collective.\n\nLooking forward to connecting.\n\nWarmly,  \nBethany Gifford"
+          ]
+        },
+        "create_time": 1768744737.835613,
+        "id": "e13fa868-9a01-4067-98ff-d88350959a18",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "4262db2a-78ec-496b-bf01-ebcbfca262d7"
+        }
+      },
+      "parent": "bbb215ec-3af1-4c1e-b49f-719dd47aaf8f"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Luxora Collective Proposal",
+  "update_time": 1768744751.34755,
+  "voice": null
+}

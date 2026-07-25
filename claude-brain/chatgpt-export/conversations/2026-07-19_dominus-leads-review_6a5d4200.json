@@ -1,0 +1,596 @@
+{
+  "conversation_id": "6a5d4200-fd4c-83ea-8209-ebc636f70b86",
+  "conversation_template_id": null,
+  "create_time": 1784496641.829464,
+  "current_node": "e31dea73-ff2e-4a26-bcee-441338341d0c",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a5d4200-fd4c-83ea-8209-ebc636f70b86",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "016a8808-92c6-4d7a-a937-1086791b9afc": {
+      "id": "016a8808-92c6-4d7a-a937-1086791b9afc",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "If you're referring to **Dominus** as a lead generation/marketing company, I couldn't find a large body of verified client reviews specifically about the quality of their leads. That's a yellow flag, not necessarily a red flag. Established lead generation companies usually have a meaningful volume of independent customer feedback.\n\nHere's what I found:\n\n* Their website positions them as a premium growth partner using AI, market research, funnels, and sales optimization rather than simply selling leads. \ue200cite\ue202turn0search4\ue201\n* There are very few independent customer reviews. Most of what exists is either employee reviews or generic testimonials that are difficult to verify. \ue200cite\ue202turn0search0\ue202turn0search3\ue201\n* I did not find widespread complaints about scams or fraudulent practices, but I also didn't find enough verified client success stories to confidently validate their performance. \ue200cite\ue202turn0search3\ue202turn0search4\ue201\n\nIf you're considering hiring them, I'd ask for:\n\n1. Three current clients you can call directly.\n2. Actual ad account screenshots showing cost per lead, cost per booked appointment, and ROI.\n3. Ownership of your CRM, landing pages, pixel, and lead data.\n4. Month-to-month terms or a clear performance guarantee.\n5. Case studies from businesses similar to yours (med spas if that's your focus).\n\nGiven what I know about your business, I would be especially skeptical of any company that promises \"lots of leads\" without demonstrating how they improve booking rates, show rates, memberships, retention, and lifetime value. The quality of the system behind the leads matters more than lead volume alone.\n\nIf this is the **Dominus run by a specific founder (or the company you were referred to by someone like Dave or Gil)**, send me their website or the salesperson's name and I'll do a much deeper investigation into their reputation, case studies, and whether their claims hold up."
+          ]
+        },
+        "create_time": 1784496643.031045,
+        "id": "016a8808-92c6-4d7a-a937-1086791b9afc",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "([Dominus](https://www.dominus.limited/about?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Dominus",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 4,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [],
+                  "title": "About Dominus",
+                  "url": "https://www.dominus.limited/about?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Glassdoor](https://www.glassdoor.com/Reviews/Dominus-Reviews-E5333506.htm?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Glassdoor",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": 1732579200.0,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 3,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [
+                    {
+                      "attribution": "Trustburn",
+                      "pub_date": null,
+                      "snippet": "",
+                      "title": "DOMINUS LLC Reviews/Feedback. DOMINUS LLC Testimonials. Is DOMINUS LLC legit?",
+                      "url": "https://trustburn.com/reviews/dominus-llc?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Dominus Reviews (2): Pros & Cons of Working At Dominus | Glassdoor",
+                  "url": "https://www.glassdoor.com/Reviews/Dominus-Reviews-E5333506.htm?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Trustburn](https://trustburn.com/reviews/dominus-llc?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Trustburn",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 3,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 4,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [
+                    {
+                      "attribution": "Dominus",
+                      "pub_date": null,
+                      "snippet": "",
+                      "title": "About Dominus",
+                      "url": "https://www.dominus.limited/about?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "DOMINUS LLC Reviews/Feedback. DOMINUS LLC Testimonials. Is DOMINUS LLC legit?",
+                  "url": "https://trustburn.com/reviews/dominus-llc?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prefix": null,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "Dominus",
+                  "title": "About Dominus",
+                  "url": "https://www.dominus.limited/about?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Glassdoor",
+                  "title": "Dominus Reviews (2): Pros & Cons of Working At Dominus | Glassdoor",
+                  "url": "https://www.glassdoor.com/Reviews/Dominus-Reviews-E5333506.htm?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Trustburn",
+                  "title": "DOMINUS LLC Reviews/Feedback. DOMINUS LLC Testimonials. Is DOMINUS LLC legit?",
+                  "url": "https://trustburn.com/reviews/dominus-llc?utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "65d8b73d-5a6b-432b-bb9e-da78b882426d",
+          "search_result_groups": [
+            {
+              "domain": "trustpilot.com",
+              "entries": [
+                {
+                  "attribution": "trustpilot.com",
+                  "snippet": "Summary About Reviews  Visit websiteWrite a review  Visit website  Claimed profile\u00a0\u2022\u00a0May 2024  WELLNESSLEADS\u00a0REVIEWS  15  \u2022  Image: TrustScore 4.5 out of 5  4.5  Write a reviewVisit website  Write a...",
+                  "title": "WellnessLeads Reviews | Read Customer Service Reviews of wellnessleads.co",
+                  "url": "https://www.trustpilot.com/review/wellnessleads.co?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "trustpilot.com",
+                  "snippet": "Claimed profile\u00a0\u2022\u00a0November 2025  BIG DADDY LEADS\u00a0REVIEWS  12  \u2022  Image: TrustScore 4 out of 5  4.1  Write a reviewVisit website  Write a review    COMPANY DETAILS  1. Marketing Agency 2. Advertising...",
+                  "title": "Big Daddy Leads Reviews | Read Customer Service Reviews of bigdaddyleads.com",
+                  "url": "https://www.trustpilot.com/review/bigdaddyleads.com?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "trustpilot.com",
+                  "snippet": "Summary About Reviews  Visit websiteWrite a review  Visit website  Claimed profile\u00a0\u2022\u00a0May 2024  MEDICOLEADS\u00a0REVIEWS  7  \u2022  Image: TrustScore 3.5 out of 5  3.5  Write a reviewVisit website  Write a rev...",
+                  "title": "MedicoLeads Reviews | Read Customer Service Reviews of medicoleads.com",
+                  "url": "https://www.trustpilot.com/review/medicoleads.com?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "trustpilot.com",
+                  "snippet": "Claimed profile  AI MED SPA GROWTH\u00a0REVIEWS\u00a03  \u2022  Image: TrustScore 4 out of 5  4.0  Write a reviewVisit website   COMPANY DETAILS  1. Internet Marketing Service 2. Marketing Consultant 3. ### Written...",
+                  "title": "AI MED SPA GROWTH Reviews | Read Customer Service Reviews of aimedspagrowth.com",
+                  "url": "https://au.trustpilot.com/review/aimedspagrowth.com?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "glassdoor.co.in",
+              "entries": [
+                {
+                  "attribution": "glassdoor.co.in",
+                  "snippet": "* Image: employer cover photo  DOMINUS  Add a review  Is this your company?  About  Reviews  Pay and benefits  Jobs  Interviews  DOMINUS REVIEWS  4.0  75% would recommend to a friend  (2 total review...",
+                  "title": "Dominus Reviews | Glassdoor",
+                  "url": "https://www.glassdoor.co.in/Reviews/Dominus-Reviews-E5333506.htm?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "reclameaqui.com.br",
+              "entries": [
+                {
+                  "attribution": "reclameaqui.com.br",
+                  "snippet": "SOBRE DOMINUS  CONHE\u00c7A DOMINUS  A empresa ainda n\u00e3o adicionou sua descri\u00e7\u00e3o.  H\u00e1 mais de 16 anos no Reclame aqui.  Image: Selo RA Verificada  N\u00e3o verificada  Image: Selo RA Verificada  Empresa n\u00e3o ve...",
+                  "title": "Sobre Dominus: tudo o que voc\u00ea precisa saber | Reclame AQUI",
+                  "url": "https://www.reclameaqui.com.br/empresa/dominus/sobre/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "trustburn.com",
+              "entries": [
+                {
+                  "attribution": "trustburn.com",
+                  "snippet": "DOMINUS COMPANY LIMITED REVIEWS  Reviews 10  3.9  Verify this business  Most recent  A  Alex Vasin  Reviews 1  2 years ago  I had a great experience with this company. The pr...  I had a great experi...",
+                  "title": "Truth About Dominus company limited. Is Dominus company limited the Right Choice?",
+                  "url": "https://trustburn.com/reviews/dominus-company-limited?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "g2.com",
+              "entries": [
+                {
+                  "attribution": "g2.com",
+                  "snippet": "LevelUp Leads  By LevelUp Leads  4.8/5  (48)  4.8 OUT OF 5 STARS  5 star 95%  4 star 2%  3 star  0%  2 star  0%  1 star 2%  How would you rate your experience with LevelUp Leads?  See all 48 LevelUp...",
+                  "title": "LevelUp Leads Reviews 2026: Details, Pricing, & Features | G2",
+                  "url": "https://www.g2.com/products/levelup-leads/reviews?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "dominus.limited",
+              "entries": [
+                {
+                  "attribution": "dominus.limited",
+                  "snippet": "WHO\u00a0WE\u00a0SERVE  If you have a high ticket business that needs qualified pre-sold calls booked on you calendar, this is for you. We tailor sophisticated scaling strategies and install them in your busin...",
+                  "title": "Dominus",
+                  "url": "https://www.dominus.limited/?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "65d8b73d-5a6b-432b-bb9e-da78b882426d"
+    },
+    "0ffbbc49-53ab-4a54-b6e1-a6afb4100142": {
+      "id": "0ffbbc49-53ab-4a54-b6e1-a6afb4100142",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "thoughts",
+          "source_analysis_msg_id": "b659ae32-0524-46b8-93d9-6f6ae8532908",
+          "thoughts": [
+            {
+              "chunks": [],
+              "content": "",
+              "finished": true,
+              "summary": "Searched multiple websites for information"
+            }
+          ]
+        },
+        "create_time": 1784496678.031547,
+        "id": "0ffbbc49-53ab-4a54-b6e1-a6afb4100142",
+        "metadata": {
+          "model_slug": "gpt-5-5",
+          "parent_id": "a7e9566f-899e-403a-a3de-1b7e27362ef1",
+          "tool_icons": [
+            "globe"
+          ]
+        }
+      },
+      "parent": "bbb213be-b8b1-4d83-92a8-a73ba44b9b8a"
+    },
+    "310b4f4c-de68-40fb-a376-2971297ec8ca": {
+      "id": "310b4f4c-de68-40fb-a376-2971297ec8ca",
+      "message": null,
+      "parent": null
+    },
+    "48273595-98c4-4bca-b634-2165bd671b37": {
+      "id": "48273595-98c4-4bca-b634-2165bd671b37",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content": "Worked for a couple of seconds",
+          "content_type": "reasoning_recap"
+        },
+        "create_time": 1784496678.034765,
+        "id": "48273595-98c4-4bca-b634-2165bd671b37",
+        "metadata": {
+          "model_slug": "gpt-5-5",
+          "parent_id": "0ffbbc49-53ab-4a54-b6e1-a6afb4100142"
+        }
+      },
+      "parent": "0ffbbc49-53ab-4a54-b6e1-a6afb4100142"
+    },
+    "65d8b73d-5a6b-432b-bb9e-da78b882426d": {
+      "id": "65d8b73d-5a6b-432b-bb9e-da78b882426d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content": "Worked for a couple of seconds",
+          "content_type": "reasoning_recap"
+        },
+        "create_time": 1784496643.816357,
+        "id": "65d8b73d-5a6b-432b-bb9e-da78b882426d",
+        "metadata": {
+          "model_slug": "gpt-5-5",
+          "parent_id": "d32f8818-074d-4588-80c8-99b47aac25d8"
+        }
+      },
+      "parent": "d32f8818-074d-4588-80c8-99b47aac25d8"
+    },
+    "bbb213be-b8b1-4d83-92a8-a73ba44b9b8a": {
+      "id": "bbb213be-b8b1-4d83-92a8-a73ba44b9b8a",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "It says 300 leads in 7 days"
+          ]
+        },
+        "create_time": 1784496675.73154,
+        "id": "bbb213be-b8b1-4d83-92a8-a73ba44b9b8a",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "016a8808-92c6-4d7a-a937-1086791b9afc"
+    },
+    "bbb21c62-bd25-4e9b-adc5-0006bc4e6e2a": {
+      "id": "bbb21c62-bd25-4e9b-adc5-0006bc4e6e2a",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Dominus reviews for leads"
+          ]
+        },
+        "create_time": 1784496641.537436,
+        "id": "bbb21c62-bd25-4e9b-adc5-0006bc4e6e2a",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "310b4f4c-de68-40fb-a376-2971297ec8ca"
+    },
+    "d32f8818-074d-4588-80c8-99b47aac25d8": {
+      "id": "d32f8818-074d-4588-80c8-99b47aac25d8",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "thoughts",
+          "source_analysis_msg_id": "26c6111b-6844-40e8-a321-dc100b924be4",
+          "thoughts": [
+            {
+              "chunks": [],
+              "content": "",
+              "finished": true,
+              "summary": "Searched multiple websites for information"
+            }
+          ]
+        },
+        "create_time": 1784496643.813382,
+        "id": "d32f8818-074d-4588-80c8-99b47aac25d8",
+        "metadata": {
+          "model_slug": "gpt-5-5",
+          "parent_id": "88e370be-9599-4a9c-97fc-fb2dc3b6be3a",
+          "tool_icons": [
+            "globe"
+          ]
+        }
+      },
+      "parent": "bbb21c62-bd25-4e9b-adc5-0006bc4e6e2a"
+    },
+    "e31dea73-ff2e-4a26-bcee-441338341d0c": {
+      "id": "e31dea73-ff2e-4a26-bcee-441338341d0c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "A claim like **\"300 leads in 7 days\"** should make you ask *how* those leads are generated before getting excited.\n\nHere are the questions I'd want answered:\n\n- Are they **exclusive leads**, or are they sold to multiple companies?\n- Are they **actual booked appointments**, or just people who filled out a form?\n- What's the **cost per lead** and the **cost per acquisition**?\n- How many of those 300 typically show up?\n- How many become paying customers?\n- Can they prove it with **real client dashboards and ad account data**, not just screenshots?\n\nFor a med spa, **300 leads in a week can actually be a problem** if you don't have the staff and follow-up systems to contact them immediately. If the leads aren't nurtured, most of that ad spend gets wasted.\n\nI also wasn't able to find a substantial number of independent, verified reviews confirming that they consistently deliver on this specific claim. They have only a small number of public reviews and limited third-party validation. \ue200cite\ue202turn0search2\ue202turn0search0\ue201\n\nIf you send me:\n- the **landing page** advertising \"300 leads in 7 days,\" or\n- the **company website**,\n\nI'll break down exactly whether the claim is realistic, what they're likely doing behind the scenes, and whether it's worth considering for your business."
+          ]
+        },
+        "create_time": 1784496677.446005,
+        "id": "e31dea73-ff2e-4a26-bcee-441338341d0c",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "([Trustburn](https://trustburn.com/reviews/dominus-llc?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Trustburn",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 2,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "",
+                  "supporting_websites": [
+                    {
+                      "attribution": "scamadviser.com",
+                      "pub_date": null,
+                      "snippet": "",
+                      "title": "dominus.live Reviews | check if site is scam or legit | Scamadviser",
+                      "url": "https://www.scamadviser.com/check-website/dominus.live?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "DOMINUS LLC Reviews/Feedback. DOMINUS LLC Testimonials. Is DOMINUS LLC legit?",
+                  "url": "https://trustburn.com/reviews/dominus-llc?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prefix": null,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "Trustburn",
+                  "title": "DOMINUS LLC Reviews/Feedback. DOMINUS LLC Testimonials. Is DOMINUS LLC legit?",
+                  "url": "https://trustburn.com/reviews/dominus-llc?utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "48273595-98c4-4bca-b634-2165bd671b37",
+          "search_result_groups": [
+            {
+              "domain": "scamadviser.com",
+              "entries": [
+                {
+                  "attribution": "scamadviser.com",
+                  "snippet": "VERY LIKELY SAFE  Copied  DOMINUS.LIVE  VISITREPORT  Why does dominus.live have an average to good trust score?  ScamAdviser  Trust Score 0  Last Update: 8 months ago  Expert Analysis  Business Verif...",
+                  "title": "dominus.live Reviews | check if site is scam or legit | Scamadviser",
+                  "url": "https://www.scamadviser.com/check-website/dominus.live?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "scamadviser.com",
+                  "snippet": "VERY LIKELY UNSAFE  Copied  DOMINUSLIMITED.COM  VISITREPORT  dominuslimited.com has a very low trust score. Why?  ScamAdviser  Trust Score 0  Last Update: 22 hours ago  Expert Analysis  Business Veri...",
+                  "title": "dominuslimited.com Reviews | scam, legit or safe check | Scamadviser",
+                  "url": "https://www.scamadviser.com/check-website/dominuslimited.com?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "scamadviser.com",
+                  "snippet": "VERY LIKELY SAFE  Copied  DOMINUS-FIXED-MATCHES.COM  VISITREPORT  dominus-fixed-matches.com has an average to good trust score. Why?  ScamAdviser  Trust Score 0  Last Update: 4 months ago  Expert Ana...",
+                  "title": "dominus-fixed-matches.com Reviews | scam or legit check",
+                  "url": "https://www.scamadviser.com/check-website/dominus-fixed-matches.com?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "scamadviser.com",
+                  "snippet": "CAUTION RECOMMENDED  Copied  DOMINUS-WEB.ONLINE  VISITREPORT  dominus-web.online has a slightly low trust score. Why?  ScamAdviser  Trust Score 0  Last Update: 8 months ago  Expert Analysis  Business...",
+                  "title": "dominus-web.online Reviews | scam, legit or safe check | Scamadviser",
+                  "url": "https://www.scamadviser.com/check-website/dominus-web.online?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "warriorforum.com",
+              "entries": [
+                {
+                  "attribution": "warriorforum.com",
+                  "snippet": "* * *  Thanks for the great solo Domas. I purchased 200 clicks and had just over a 40% conversion. No complaints here. Cheers my friend. -Barrett Wainscott Image: TheThird31 is offline \u00a0  |  The Follo...",
+                  "title": "(2022 Traffic Deals) Top Quality DomasG Solo Ads (362+ Positive Reviews), US only traffic available!",
+                  "url": "https://www.warriorforum.com/warrior-special-offers/1366980-2022-traffic-deals-top-quality-domasg-solo-ads-362-positive-reviews-us-only-traffic-available.html?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "reclameaqui.com.br",
+              "entries": [
+                {
+                  "attribution": "reclameaqui.com.br",
+                  "snippet": "SOBRE DOMINUS  CONHE\u00c7A DOMINUS  A empresa ainda n\u00e3o adicionou sua descri\u00e7\u00e3o.  H\u00e1 mais de 16 anos no Reclame aqui.  Image: Selo RA Verificada  N\u00e3o verificada  Image: Selo RA Verificada  Empresa n\u00e3o ve...",
+                  "title": "Sobre Dominus: tudo o que voc\u00ea precisa saber | Reclame AQUI",
+                  "url": "https://www.reclameaqui.com.br/empresa/dominus/sobre/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "insuranceleaddistributers.com",
+              "entries": [
+                {
+                  "attribution": "insuranceleaddistributers.com",
+                  "snippet": "CABOOM LEADS  3.5  Visit Website \u2192  Price Range  | $35\u2013$60/lead  | Lead Types  | Exclusive  | Delivery  | 1-7 days Contracts  | No Contract  | Guarantee  | No  | Free CRM  | No  EDITORIAL REVIEW  * *...",
+                  "title": "CABoom Leads Review \u2014 Insurance Lead Distributors",
+                  "url": "https://insuranceleaddistributers.com/vendors/caboom-leads?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "firstory.io",
+              "entries": [
+                {
+                  "attribution": "firstory.io",
+                  "snippet": "OUR BOLO GROUP REVIEW: 6 THINGS I LOVED, 2 I DIDN'T  \u767c\u5e03\u65e5\u671f\uff5c2026.07.10  I'd been sourcing for Amazon FBA for about a year when I started getting frustrated with my own lead-finding process. Hours of ma...",
+                  "title": "Our Bolo Group Review: 6 Things I Loved, 2 I Didn't | Whop Review - Podcast on Firstory",
+                  "url": "https://whop-review.firstory.io/posts/our-bolo-group-review-6-things-i-loved-2-i-didn-t-ta3bkh2z3kta?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "whop.com",
+              "entries": [
+                {
+                  "attribution": "whop.com",
+                  "snippet": "OVERALL RATING  4.99  196 reviews  All5 stars4 stars3 stars2 stars1 star  * Image: Profile picture  TH  Great community, great leads, great resources. Happy to be apart of the group :D  Written April...",
+                  "title": "Whop: Start a Business, Learn a New Skill, & Build a Network | Whop",
+                  "url": "https://whop.com/deal-dad-network/reviews/p/17//?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "whop.com",
+                  "snippet": "4.2 (5)  LOOT GOBLINS LEAD LIST  $300 / month  [Button: Purchase]  Image: Profile pictureBy Dyson Allen  DAILY PROFITABLE OA LEADS FOR AMAZON SELLERS  Amazon FBA Leads to Help You Scale Fast  Online...",
+                  "title": "Loot Goblins Lead List",
+                  "url": "https://whop.com/discover/prime-profits-community/exclusive-prime-profits-leads//?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "drews-review.com",
+              "entries": [
+                {
+                  "attribution": "drews-review.com",
+                  "snippet": "* # 301K Challenge Review: Is Igor Kheifets Course Legit?  April 29, 2026 by Drew Mann  Image: 301k-challenge-review-igor-kheifets  \ud83d\udcc5 LAST UPDATED: April 2026 \u2014 Course price confirmed at $197, refund...",
+                  "title": "301K Challenge Review: Is Igor Kheifets Course Legit?",
+                  "url": "https://drews-review.com/301k-challenge/?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "48273595-98c4-4bca-b634-2165bd671b37"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Dominus leads review",
+  "update_time": 1784496681.303886,
+  "voice": null
+}

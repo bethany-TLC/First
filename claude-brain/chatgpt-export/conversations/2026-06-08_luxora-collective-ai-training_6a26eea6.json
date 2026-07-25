@@ -1,0 +1,214 @@
+{
+  "conversation_id": "6a26eea6-8894-83e8-a946-1009f3452829",
+  "conversation_template_id": null,
+  "create_time": 1780936383.121468,
+  "current_node": "ce20b59c-9ba5-408b-84f5-f33e9aab4e47",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a26eea6-8894-83e8-a946-1009f3452829",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "4cf87c8d-1cab-4507-a9e8-730285c0688d": {
+      "id": "4cf87c8d-1cab-4507-a9e8-730285c0688d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "What tone should your AI assistant use when reaching out to them?"
+          ]
+        },
+        "create_time": 1780936497.667,
+        "id": "4cf87c8d-1cab-4507-a9e8-730285c0688d",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "ea68eee5-040e-4e1e-9b41-f31d294bb696"
+    },
+    "66ab701d-8d74-4e9a-ac9c-da1d9e472103": {
+      "id": "66ab701d-8d74-4e9a-ac9c-da1d9e472103",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "For The Luxora Collective, I would answer it like this:\n\n**The Main Problem We Solve:**\n\nMost med spa owners don't have a lead problem\u2014they have a revenue leak problem.\n\nThey're losing tens of thousands (sometimes hundreds of thousands) of dollars every year through broken systems, missed follow-up, low consult conversion, poor retention, weak memberships, underutilized providers, and inconsistent patient acquisition.\n\nMany are working harder, spending more on marketing, and still feeling stuck because nobody is looking at the entire business from acquisition through retention.\n\n**The Specific Result They Get:**\n\nWe identify and eliminate those revenue leaks, then build predictable growth systems that increase revenue without requiring the owner to work more hours.\n\nOur clients typically gain:\n\n- More qualified consults and booked appointments\n- Higher patient conversion rates\n- Increased retention and repeat visits\n- Stronger memberships and recurring revenue\n- Better utilization of providers and treatment rooms\n- Automated follow-up and reactivation systems\n- Clear visibility into their KPIs and growth opportunities\n\n**In one sentence:**\n\nWe help med spas uncover and recover $50,000\u2013$500,000+ in hidden annual revenue within the next 90 days by fixing the leaks in their acquisition, conversion, retention, and operational systems.\n\n**LinkedIn AI Outreach Version (Short):**\n\n\"The Luxora Collective helps med spa owners uncover hidden revenue leaks that are costing them $50K\u2013$500K+ annually. Through our Revenue Leak Audit and growth systems, we help practices increase consults, improve conversions, strengthen retention, and create predictable revenue growth without increasing ad spend or adding unnecessary overhead.\""
+          ]
+        },
+        "create_time": 1780936382.791307,
+        "id": "66ab701d-8d74-4e9a-ac9c-da1d9e472103",
+        "metadata": {
+          "content_references": [],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Past chat",
+                "citation_uuid": "0ac43077-c37d-4985-be64-2225902ad3be",
+                "conversation_context_type": "past_conversation",
+                "conversation_title": "Ad Strategy Recommendations",
+                "end_idx": -1,
+                "index": 11,
+                "matched_text": "",
+                "prompt_text": null,
+                "pub_date": 1780421258.188923,
+                "reason": null,
+                "refs": [],
+                "snippet": "find your next 50 to $500,000 extra a year within 90 days",
+                "start_idx": -1,
+                "title": "Ad Strategy Recommendations",
+                "type": "conversation_context_citation",
+                "url": "/c/6a1f127d-6f60-83e8-aa46-665e6fd5b522"
+              },
+              "citation_uuid": "0ac43077-c37d-4985-be64-2225902ad3be",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "5e5f6bc8-c2b8-4d88-8946-7e8d1f241713"
+        }
+      },
+      "parent": "bb86f5c9-1190-463e-91f1-1225a25f28df"
+    },
+    "72878e93-5c73-40d6-9771-d65c3641231d": {
+      "id": "72878e93-5c73-40d6-9771-d65c3641231d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "What makes your approach different from other agencies, and why do owners choose you over the competition?"
+          ]
+        },
+        "create_time": 1780936464.778,
+        "id": "72878e93-5c73-40d6-9771-d65c3641231d",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "66ab701d-8d74-4e9a-ac9c-da1d9e472103"
+    },
+    "bb86f5c9-1190-463e-91f1-1225a25f28df": {
+      "id": "bb86f5c9-1190-463e-91f1-1225a25f28df",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "based off what  you know about me and the luxora collective pleae answer these questions for training our ai outraech tool for linkeedin: What is the main problem you solve, and what specific result do they get?"
+          ]
+        },
+        "create_time": 1780936386.142,
+        "id": "bb86f5c9-1190-463e-91f1-1225a25f28df",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "ce20b59c-9ba5-408b-84f5-f33e9aab4e47": {
+      "id": "ce20b59c-9ba5-408b-84f5-f33e9aab4e47",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Based on your brand, your personality, and the types of med spa owners you attract, I'd train the AI to use this tone:\n\n### Primary Tone\n**Professional, consultative, confident, and genuinely curious.**\n\nThe goal is to sound like an experienced growth advisor who understands the aesthetic industry\u2014not a salesperson trying to book a meeting.\n\n### How It Should Feel\n\n\u2705 Industry insider\n\n\u2705 Peer-to-peer conversation\n\n\u2705 Strategic and intelligent\n\n\u2705 Friendly but not overly casual\n\n\u2705 Confident without being arrogant\n\n\u2705 Helpful before promotional\n\n\u2705 Curious and diagnostic\n\n### Avoid\n\n\u274c \"Hey girl!\" energy\n\n\u274c Bro-marketing language\n\n\u274c Fake urgency\n\n\u274c Aggressive sales tactics\n\n\u274c Generic agency speak\n\n\u274c Overhyped claims\n\n\u274c Long-winded pitches\n\n### The Luxora Voice\n\nThink:\n\n> \"I've spent years inside aesthetic practices and noticed something interesting...\"\n\nNot:\n\n> \"We're the #1 agency helping med spas explode their revenue! \ud83d\ude80\"\n\nThink:\n\n> \"I noticed a few areas where practices your size often leave revenue on the table.\"\n\nNot:\n\n> \"Are you struggling to get leads?\"\n\nThink:\n\n> \"Would you be open to comparing notes?\"\n\nNot:\n\n> \"Can I get 15 minutes on your calendar?\"\n\n### Personality Traits To Train\n\n- Curious\n- Observant\n- Insightful\n- Strategic\n- Knowledgeable\n- Respectful of their time\n- Solution-oriented\n- Educational\n\n### LinkedIn Outreach Style\n\nThe best-performing outreach for Luxora should feel like:\n\n> \"I was reviewing your practice and noticed you're doing some interesting things with wellness and aesthetics. One thing we've been seeing across the industry is that many practices are unknowingly losing revenue through follow-up, memberships, and patient retention rather than lead generation itself.\n>\n> Curious if that's something you've looked at recently?\"\n\nThat creates conversation.\n\nThis is especially important because your strongest differentiator isn't ads\u2014it's that you help owners uncover revenue they already have access to.\n\n### AI Training Prompt\n\n**Tone:** Professional, consultative, industry-expert, and curious. Speak like a trusted growth advisor to med spa owners, not a salesperson. Prioritize asking thoughtful questions, sharing observations, and creating conversations around growth opportunities. Focus on uncovering revenue leaks, improving patient acquisition and retention, and helping owners think differently about growth. Avoid hype, pressure, exaggerated claims, emojis, or generic agency language. Every message should feel personalized, intelligent, and rooted in genuine curiosity about their business."
+          ]
+        },
+        "create_time": 1780936494.469886,
+        "id": "ce20b59c-9ba5-408b-84f5-f33e9aab4e47",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "4cf87c8d-1cab-4507-a9e8-730285c0688d"
+        }
+      },
+      "parent": "4cf87c8d-1cab-4507-a9e8-730285c0688d"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "ea68eee5-040e-4e1e-9b41-f31d294bb696": {
+      "id": "ea68eee5-040e-4e1e-9b41-f31d294bb696",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "### What Makes The Luxora Collective Different?\n\nMost agencies focus on one thing: generating leads.\n\nWe focus on the entire revenue ecosystem of the practice.\n\nA lead is only valuable if it becomes a consultation, a treatment plan, a repeat patient, a member, and ultimately a long-term advocate for the practice. Most agencies stop at the lead. We help optimize everything that happens before and after the lead enters the business.\n\n### Why Owners Choose Us Over Other Agencies\n\n**1. We're Growth Partners, Not Marketers**\nWe don't just run ads. We analyze acquisition, conversion, retention, memberships, patient experience, provider utilization, pricing, packaging, and operational efficiency to uncover hidden revenue opportunities.\n\n**2. We Come From The Industry**\nOur founder spent over a decade working inside dermatology and aesthetic practices, from front desk to practice management, overseeing teams, providers, operations, sales, billing, and patient experience. We understand how med spas actually operate\u2014not just how to market them.\n\n**3. We Start With Revenue Leaks**\nInstead of immediately selling marketing services, we begin with a Revenue Leak Audit to identify where the practice is already losing money. Often the fastest growth comes from fixing what's already broken before spending more on advertising.\n\n**4. We Blend Human Strategy With AI Automation**\nOur approach combines proven growth strategies with AI-powered systems that improve follow-up, reduce no-shows, reactivate dormant patients, nurture leads, and create consistency without overwhelming the staff.\n\n**5. We Focus On Profit, Not Vanity Metrics**\nWe care far more about revenue, booked consults, retention, membership growth, and profitability than clicks, impressions, or likes. Every recommendation ties back to measurable business outcomes.\n\n**6. We Provide Playbooks, Not Dependence**\nMost agencies want clients dependent on them forever. We provide proven playbooks, systems, KPIs, scripts, automations, and operational frameworks that strengthen the business long-term.\n\n### One-Sentence Version\n\n\"The Luxora Collective is different because we don't just generate leads\u2014we identify and eliminate the revenue leaks preventing med spas from reaching their full potential, combining industry expertise, AI-powered systems, and proven growth strategies to create predictable, profitable growth.\"\n\n### AI Outreach Version\n\n\"Unlike traditional marketing agencies that focus solely on lead generation, The Luxora Collective helps med spa owners uncover hidden revenue leaks across acquisition, conversion, retention, memberships, and operations. Our clients choose us because we combine real-world aesthetic industry experience, AI-powered growth systems, and a Revenue Leak Audit methodology that often uncovers $50K\u2013$500K+ in recoverable annual revenue before increasing ad spend.\""
+          ]
+        },
+        "create_time": 1780936461.904154,
+        "id": "ea68eee5-040e-4e1e-9b41-f31d294bb696",
+        "metadata": {
+          "content_references": [],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Memory",
+                "citation_uuid": "967b71ef-e693-4317-aeb8-7f481b57e6ad",
+                "conversation_context_type": "general_memory",
+                "end_idx": -1,
+                "index": 4,
+                "matched_text": "",
+                "prompt_text": null,
+                "reason": "You have 10 years of dermatology and aesthetics experience.",
+                "refs": [],
+                "snippet": "Dermatology & Aesthetics (10 years): Advanced Dermatology (2009).",
+                "start_idx": -1,
+                "title": "You have 10 years of dermatology and aesthetics experience.",
+                "type": "conversation_context_citation",
+                "url": "#settings/Personalization"
+              },
+              "citation_uuid": "967b71ef-e693-4317-aeb8-7f481b57e6ad",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "72878e93-5c73-40d6-9771-d65c3641231d"
+        }
+      },
+      "parent": "72878e93-5c73-40d6-9771-d65c3641231d"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Luxora Collective AI Training",
+  "update_time": 1780936514.99982,
+  "voice": null
+}

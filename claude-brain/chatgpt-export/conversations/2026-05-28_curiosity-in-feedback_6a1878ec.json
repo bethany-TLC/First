@@ -1,0 +1,102 @@
+{
+  "conversation_id": "6a1878ec-60e8-83e8-8385-b5c5ec6d5f55",
+  "conversation_template_id": null,
+  "create_time": 1779988730.214578,
+  "current_node": "7ed11278-6125-4547-945d-e7b8ac50a27a",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a1878ec-60e8-83e8-8385-b5c5ec6d5f55",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "32c7e136-04e6-41a2-80f0-00259f5b4130": {
+      "id": "32c7e136-04e6-41a2-80f0-00259f5b4130",
+      "message": null,
+      "parent": null
+    },
+    "7ed11278-6125-4547-945d-e7b8ac50a27a": {
+      "id": "7ed11278-6125-4547-945d-e7b8ac50a27a",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Hey Kasey, thank you so much for letting me know and for being so thoughtful in your decision. I completely respect it. \n\nOut of pure curiosity more than anything, was there anything specific that made you feel like it wasn\u2019t the right fit right now? We\u2019re growing and refining things quickly, so I always appreciate honest feedback when people are open to sharing it. \ud83d\ude0a\n\nEither way, truly wishing you nothing but success moving forward and I\u2019m really glad we got the chance to connect."
+          ]
+        },
+        "create_time": 1779988730.013089,
+        "id": "7ed11278-6125-4547-945d-e7b8ac50a27a",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "23276eef-d27c-4a74-923b-2e3bc825f779"
+        }
+      },
+      "parent": "bbb21c5f-a1da-4eea-b92e-3a33d1450880"
+    },
+    "bbb21c5f-a1da-4eea-b92e-3a33d1450880": {
+      "id": "bbb21c5f-a1da-4eea-b92e-3a33d1450880",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_0000000086f071fd8235de09891f408d",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 2244,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 134747,
+              "width": 1008
+            },
+            "Respond with curiosity "
+          ]
+        },
+        "create_time": 1779988729.810012,
+        "id": "bbb21c5f-a1da-4eea-b92e-3a33d1450880",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_0000000086f071fd8235de09891f408d",
+              "mime_type": "image/png",
+              "name": "1000018994.png",
+              "size": 134747
+            }
+          ],
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "32c7e136-04e6-41a2-80f0-00259f5b4130"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Curiosity in Feedback",
+  "update_time": 1779988734.636222,
+  "voice": null
+}

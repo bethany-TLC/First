@@ -1,0 +1,71 @@
+{
+  "conversation_id": "69bd75c5-4bb4-8333-9cf1-6a785d37d150",
+  "conversation_template_id": null,
+  "create_time": 1774024161.931706,
+  "current_node": "1f7ee443-0d42-4c05-9c2c-05fb4559073e",
+  "default_model_slug": "gpt-5-3",
+  "id": "69bd75c5-4bb4-8333-9cf1-6a785d37d150",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "1f7ee443-0d42-4c05-9c2c-05fb4559073e": {
+      "id": "1f7ee443-0d42-4c05-9c2c-05fb4559073e",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Hey ladies, I just wanted to reach out and say how sorry I am for the loss of your uncle. I\u2019m keeping you and your whole family in my thoughts and prayers during this time. Sending you all so much love \ud83e\udd0d"
+          ]
+        },
+        "create_time": 1774024161.835042,
+        "id": "1f7ee443-0d42-4c05-9c2c-05fb4559073e",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "76610f0a-7d51-40bb-bce1-9d6522f64ecd"
+        }
+      },
+      "parent": "bbb21ed9-f34c-45f1-9f87-64c685383171"
+    },
+    "bbb21ed9-f34c-45f1-9f87-64c685383171": {
+      "id": "bbb21ed9-f34c-45f1-9f87-64c685383171",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Rewrite this message to the Norris on the loss of their uncle: Hey ladies! Just reaching out to give my condolences to you and your family regarding your uncle \ud83d\ude18 You all are in our prayers. I hope you gals are abl"
+          ]
+        },
+        "create_time": 1774024161.690896,
+        "id": "bbb21ed9-f34c-45f1-9f87-64c685383171",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "c158b3df-fd96-4f85-a29b-8219174adb51"
+    },
+    "c158b3df-fd96-4f85-a29b-8219174adb51": {
+      "id": "c158b3df-fd96-4f85-a29b-8219174adb51",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Condolence Message Rewrite",
+  "update_time": 1774024164.18789,
+  "voice": null
+}

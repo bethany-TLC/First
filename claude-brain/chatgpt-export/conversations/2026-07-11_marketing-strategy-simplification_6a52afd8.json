@@ -1,0 +1,525 @@
+{
+  "conversation_id": "6a52afd8-0ad4-83e8-b2bf-b0883eac5f36",
+  "conversation_template_id": null,
+  "create_time": 1783803947.450587,
+  "current_node": "458b0d72-69af-4bba-84e6-625bab9cbdca",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a52afd8-0ad4-83e8-b2bf-b0883eac5f36",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "04326794-a2bd-4b69-8f9c-42822c0156b4": {
+      "id": "04326794-a2bd-4b69-8f9c-42822c0156b4",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "put two ad copies and the two hooks in a copy and paste section here so i can send it to  my ads guy"
+          ]
+        },
+        "create_time": 1783804408.501,
+        "id": "04326794-a2bd-4b69-8f9c-42822c0156b4",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "94c93231-24d2-4f30-a5da-d2a361eaa474"
+    },
+    "0ff1eaeb-845d-4a43-a11c-e0b26d4fd8d3": {
+      "id": "0ff1eaeb-845d-4a43-a11c-e0b26d4fd8d3",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "now give me an example ad we can run tight away"
+          ]
+        },
+        "create_time": 1783804179.58,
+        "id": "0ff1eaeb-845d-4a43-a11c-e0b26d4fd8d3",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "6e18919e-8131-4823-88bb-64f52da54813"
+    },
+    "18d12848-c708-4a48-9eec-65e1cdb2a549": {
+      "id": "18d12848-c708-4a48-9eec-65e1cdb2a549",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "I\u2019d run something this simple immediately, especially since the **membership/lifetime-value angle was already showing signs of working**:\n\n### Static image hook\n**YOU DON\u2019T NEED MORE CHEAP LEADS.**  \n**YOU NEED MORE PATIENTS WHO COME BACK.**\n\n### Primary ad copy\n\n:::writing{variant=\"social_post\" id=\"73164\"}\nYour med spa doesn\u2019t have a lead problem if you\u2019re constantly paying to replace patients who never come back.\n\nThat\u2019s a hamster wheel.\n\nMost marketing agencies generate a lead and call their job done.\n\nWe don\u2019t.\n\nThe Luxora Collective builds an end-to-end patient growth system designed to help you attract better leads, get them booked, improve conversion, and turn more new patients into long-term, higher-value clients.\n\nBecause the goal isn\u2019t more names in your CRM.\n\nIt\u2019s more paying patients who keep coming back.\n\nIf your med spa is ready to get off the lead-generation hamster wheel, apply below.\n:::\n\n**Headline:** Stop Chasing Cheap Leads  \n**CTA:** Learn More\n\nI would run this **without a VSL at first**, directly to a short, highly qualified application page that repeats the exact same message."
+          ]
+        },
+        "create_time": 1783804179.994603,
+        "id": "18d12848-c708-4a48-9eec-65e1cdb2a549",
+        "metadata": {
+          "content_references": [],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Past chat",
+                "citation_uuid": "41ebef0c-fd62-4d5d-8f4e-e1e036e46a7a",
+                "conversation_context_type": "past_conversation",
+                "conversation_title": "Ad Image Request Med Spa",
+                "end_idx": -1,
+                "index": 0,
+                "matched_text": "",
+                "prompt_text": null,
+                "pub_date": 1783799562.433231,
+                "reason": null,
+                "refs": [],
+                "snippet": "now create one that said you need an End to End marketing system not pointless cheap leads that never get followed up",
+                "start_idx": -1,
+                "title": "Ad Image Request Med Spa",
+                "type": "conversation_context_citation",
+                "url": "/c/6a529ef7-869c-83e8-8ffd-0893fb4727df"
+              },
+              "citation_uuid": "41ebef0c-fd62-4d5d-8f4e-e1e036e46a7a",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "c9317fce-9b1d-41f0-a635-4127917f1bd0"
+        }
+      },
+      "parent": "0ff1eaeb-845d-4a43-a11c-e0b26d4fd8d3"
+    },
+    "2b57c430-ae22-4eb7-9a37-59813b360868": {
+      "id": "2b57c430-ae22-4eb7-9a37-59813b360868",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a clean copy-and-paste version for your ads guy:\n\n:::writing{variant=\"standard\" id=\"48317\"}\nAD 1\n\nIMAGE HOOK:\nSTILL PAYING FOR LEADS WHO NEVER COME BACK?\n\nPRIMARY COPY:\nYour med spa doesn\u2019t have a lead problem if you\u2019re constantly paying to replace patients who never come back.\n\nThat\u2019s a hamster wheel.\n\nMost marketing agencies generate a lead and call their job done.\n\nWe don\u2019t.\n\nThe Luxora Collective builds an end-to-end patient growth system designed to help you attract better leads, get them booked, improve conversion, and turn more new patients into long-term, higher-value clients.\n\nBecause the goal isn\u2019t more names sitting in your CRM.\n\nIt\u2019s more paying patients who keep coming back.\n\nIf your med spa is ready to get off the lead-generation hamster wheel, apply below.\n\nHEADLINE:\nStop Chasing Cheap Leads\n\nCTA:\nLearn More\n\n\nAD 2\n\nIMAGE HOOK:\nYOUR AGENCY GOT YOU THE LEAD.\nWHO\u2019S MAKING SURE THEY BECOME A PATIENT?\n\nPRIMARY COPY:\nGetting the lead is only the beginning.\n\nIf nobody follows up properly, gets them booked, converts the consultation, and gives them a reason to come back, you\u2019re paying for leads that never become real revenue.\n\nThat\u2019s where most marketing agencies stop.\n\nThe Luxora Collective doesn\u2019t.\n\nWe build an end-to-end patient growth system that connects your marketing to what happens after the lead comes in.\n\nBetter leads. Better follow-up. Better conversion. Better retention.\n\nBecause you don\u2019t need another agency sending you a spreadsheet full of leads.\n\nYou need a system designed to turn more of those leads into paying patients who come back again and again.\n\nApply below to see if Luxora is the right fit for your med spa.\n\nHEADLINE:\nWhat Happens After the Lead?\n\nCTA:\nLearn More\n:::"
+          ]
+        },
+        "create_time": 1783804409.258955,
+        "id": "2b57c430-ae22-4eb7-9a37-59813b360868",
+        "metadata": {
+          "content_references": [],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Past chat",
+                "citation_uuid": "dc745c68-54cf-4a58-9a95-eafa6bcc2e09",
+                "conversation_context_type": "past_conversation",
+                "conversation_title": "Ad Image Request Med Spa",
+                "end_idx": -1,
+                "index": 0,
+                "matched_text": "",
+                "prompt_text": null,
+                "pub_date": 1783799562.433231,
+                "reason": null,
+                "refs": [],
+                "snippet": "now create one that said you need an End to End marketing system not pointless cheap leads that never get followed up",
+                "start_idx": -1,
+                "title": "Ad Image Request Med Spa",
+                "type": "conversation_context_citation",
+                "url": "/c/6a529ef7-869c-83e8-8ffd-0893fb4727df"
+              },
+              "citation_uuid": "dc745c68-54cf-4a58-9a95-eafa6bcc2e09",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "04326794-a2bd-4b69-8f9c-42822c0156b4"
+        }
+      },
+      "parent": "04326794-a2bd-4b69-8f9c-42822c0156b4"
+    },
+    "458b0d72-69af-4bba-84e6-625bab9cbdca": {
+      "id": "458b0d72-69af-4bba-84e6-625bab9cbdca",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "take out the bottom section and say Still on the marketing hamster wheel"
+          ]
+        },
+        "create_time": 1783804798.443,
+        "id": "458b0d72-69af-4bba-84e6-625bab9cbdca",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "9ca1a904-29e9-41e2-b8f2-0b044d7108d7"
+    },
+    "5d818556-27cc-4ebc-8a8c-7def56ced98e": {
+      "id": "5d818556-27cc-4ebc-8a8c-7def56ced98e",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "what type of image should i run with then"
+          ]
+        },
+        "create_time": 1783804211.122,
+        "id": "5d818556-27cc-4ebc-8a8c-7def56ced98e",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "18d12848-c708-4a48-9eec-65e1cdb2a549"
+    },
+    "63f5a6fb-86c8-41a8-b7f8-c083d657c48e": {
+      "id": "63f5a6fb-86c8-41a8-b7f8-c083d657c48e",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "make me anotherimage we can tes tthat looks differnt than the one above"
+          ]
+        },
+        "create_time": 1783804472.693,
+        "id": "63f5a6fb-86c8-41a8-b7f8-c083d657c48e",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "2b57c430-ae22-4eb7-9a37-59813b360868"
+    },
+    "6e18919e-8131-4823-88bb-64f52da54813": {
+      "id": "6e18919e-8131-4823-88bb-64f52da54813",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a clear version you can send to Jacques and the team:\n\n:::writing{variant=\"chat_message\" id=\"68421\"}\nTeam, after reviewing our ads, calls, and outside feedback, we need to simplify our marketing immediately.\n\nThe biggest issue is not that we have nothing valuable to sell. It is that we have made what we do sound too complicated. People are booking calls and showing up confused about what they are actually buying. We are talking about revenue recovery, audits, blueprints, consulting, marketing, memberships, and multiple different outcomes at once.\n\nWe need ONE clear front-end message:\n\n**Luxora builds and implements an end-to-end marketing and patient growth system for med spas.**\n\nWe do not just generate cheap leads and hand them over.\n\nWe help med spas:\n\n1. Attract better-quality leads.\n2. Follow up and get those leads booked.\n3. Improve how the team converts consultations.\n4. Increase the value of each patient through better offers, memberships, upsells, and retention.\n5. Turn more new patients into long-term, repeat patients.\n\n**Our differentiator is what happens AFTER the lead comes in.**\n\nMost agencies stop at leads or appointments. We help fix the entire path from stranger \u2192 lead \u2192 booked consultation \u2192 paying patient \u2192 returning, higher-value patient.\n\nThe marketing needs to speak to the actual situations med spa owners are experiencing:\n\n- \u201cYou keep paying for new leads, but they never become long-term patients.\u201d\n- \u201cYour agency sends leads, but your team struggles to follow up and convert them.\u201d\n- \u201cYou are constantly chasing the next new patient because the last one never came back.\u201d\n- \u201cYou do not need more cheap leads. You need a system that turns leads into paying, returning patients.\u201d\n- \u201cIf your marketing feels like a hamster wheel, the problem may not be the number of leads. It is what happens after they come in.\u201d\n\nThese can be different ad angles and entry points, but they all lead to the SAME core offer. We are not creating a new offer every time we test a new pain point.\n\nWe also need to stop leading with **\u201crecover $50K\u2013$500K in lost revenue.\u201d** It is confusing and does not clearly tell someone what they are buying. The Revenue Leak Audit and Market Blueprint can still be part of our process, but they should not make the front-end offer harder to understand.\n\nThe ads should be written at a fifth-grade reading level. Specific problem. Clear outcome. Clear solution.\n\nWe should also go back through our existing creatives and identify what has actually performed. The membership video was specifically called out because it spoke to a tangible problem and outcome. We should not constantly turn winning ads on and off or launch completely different messages without a clear testing strategy.\n\n**Going forward, our marketing needs to follow this structure:**\n\n**PROBLEM:** You are paying for leads, but too many never become valuable, repeat patients.\n\n**WHY:** Most marketing agencies stop at generating the lead. They do not fix follow-up, conversion, sales, upsells, memberships, or retention.\n\n**SOLUTION:** Luxora gives med spas an end-to-end system designed to attract better leads and turn more of them into paying, returning patients.\n\n**DIFFERENTIATOR:** We understand the entire patient journey, not just Meta ads. We combine acquisition with the systems, training, and playbooks needed to increase the value of every patient.\n\nThe goal now is consistency. One offer. One core message. Multiple pain-point angles to test.\n\n**We are not selling \u201ceverything.\u201d We are selling one complete system that solves the problem of leads coming in but not turning into enough long-term revenue.**\n\nEverything else we do supports that outcome.\n:::\n\nThis captures the core feedback from both transcripts: simplify the offer, sell the end-to-end system, lead with specific situations the owner recognizes, and make the post-lead system the key differentiator. \ue200filecite\ue202turn0file0\ue201 \ue200filecite\ue202turn0file1\ue201"
+          ]
+        },
+        "create_time": 1783803947.271816,
+        "id": "6e18919e-8131-4823-88bb-64f52da54813",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": null,
+              "cloud_doc_url": "",
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_000000003d38720cbc2286763f412259",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "dccafcfa-ce75-4fa9-9cb1-20b3be7dd05a",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": "libfile_fccdc5907e1c8191ba8efceda704e8a5",
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "Pasted text.txt",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            },
+            {
+              "alt": null,
+              "cloud_doc_url": "",
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_00000000dd94720ca0915abd395db7ab",
+              "input_pointer": {
+                "file_index": 1,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "3e827dc3-ce30-4278-8916-311d92b86985",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": "libfile_66a9adcaeedc8191a6db256abf511f37",
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "Pasted text (2).txt",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            }
+          ],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Memory",
+                "citation_uuid": "475fe6fa-c466-45eb-88f2-7b5d20e54549",
+                "conversation_context_type": "general_memory",
+                "end_idx": -1,
+                "index": 1,
+                "matched_text": "",
+                "prompt_text": null,
+                "reason": "You previously defined Luxora\u2019s end-to-end med spa marketing system as a three-part offer (Revenue Leak Audit, acquisition lead generation, and Playbooks), and you also used the $50K\u2013$500K lost revenue framing in your claims.",
+                "refs": [],
+                "snippet": "Core shift (June 2026): Offer clarified to three pillars: (1) Revenue Leak Audit (front-end entry), (2) Run acquisition lead generation (Meta + reactivation + qualification + show-up), (3) Access to Playbooks (Growth Course).",
+                "start_idx": -1,
+                "title": "You previously defined Luxora\u2019s end-to-end med spa marketing system as a three-part offer (Revenue Leak Audit, acquisition lead generation, and Playbooks), and you also used the $50K\u2013$500K lost revenue framing in your claims.",
+                "type": "conversation_context_citation",
+                "url": "#settings/Personalization"
+              },
+              "citation_uuid": "475fe6fa-c466-45eb-88f2-7b5d20e54549",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "f72da241-7d16-4640-9971-5efd4afaf96b"
+        }
+      },
+      "parent": "f72da241-7d16-4640-9971-5efd4afaf96b"
+    },
+    "94c93231-24d2-4f30-a5da-d2a361eaa474": {
+      "id": "94c93231-24d2-4f30-a5da-d2a361eaa474",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content": "Worked for a couple of seconds",
+          "content_type": "reasoning_recap"
+        },
+        "create_time": 1783804239.497426,
+        "id": "94c93231-24d2-4f30-a5da-d2a361eaa474",
+        "metadata": {
+          "model_slug": "gpt-5-5",
+          "parent_id": "a34e3401-4da8-4d17-a510-5c4fd89b81a2"
+        }
+      },
+      "parent": "c8dcef66-7276-430e-a1f0-eef94fe13592"
+    },
+    "99f9cb78-6aac-4d6d-94bf-b8c778981db7": {
+      "id": "99f9cb78-6aac-4d6d-94bf-b8c778981db7",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "summarize to jaques and team what we need to do with our marketing: "
+          ]
+        },
+        "create_time": 1783803946.568,
+        "id": "99f9cb78-6aac-4d6d-94bf-b8c778981db7",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_000000003d38720cbc2286763f412259",
+              "is_big_paste": true,
+              "library_file_id": "libfile_fccdc5907e1c8191ba8efceda704e8a5",
+              "mime_type": "text/plain",
+              "name": "Pasted text(64).txt",
+              "size": 39399,
+              "source": "local"
+            },
+            {
+              "id": "file_00000000dd94720ca0915abd395db7ab",
+              "is_big_paste": true,
+              "library_file_id": "libfile_66a9adcaeedc8191a6db256abf511f37",
+              "mime_type": "text/plain",
+              "name": "Pasted text (2)(3).txt",
+              "size": 19820,
+              "source": "local"
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "9ca1a904-29e9-41e2-b8f2-0b044d7108d7": {
+      "id": "9ca1a904-29e9-41e2-b8f2-0b044d7108d7",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "maybe make one that isnt TOO TOO AI but talks about hamster wheel and shows one that woudl be shocking for a medspa ownr to see"
+          ]
+        },
+        "create_time": 1783804668.282,
+        "id": "9ca1a904-29e9-41e2-b8f2-0b044d7108d7",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "fcfb9006-12ef-4a28-af92-940b29cd23b5"
+    },
+    "c8dcef66-7276-430e-a1f0-eef94fe13592": {
+      "id": "c8dcef66-7276-430e-a1f0-eef94fe13592",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "make me that image"
+          ]
+        },
+        "create_time": 1783804237.189,
+        "id": "c8dcef66-7276-430e-a1f0-eef94fe13592",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "fbfe6e9e-4b38-4428-adeb-61ea6b49138a"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "f72da241-7d16-4640-9971-5efd4afaf96b": {
+      "id": "f72da241-7d16-4640-9971-5efd4afaf96b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content": "Worked for a couple of seconds",
+          "content_type": "reasoning_recap"
+        },
+        "create_time": 1783803949.111819,
+        "id": "f72da241-7d16-4640-9971-5efd4afaf96b",
+        "metadata": {
+          "model_slug": "gpt-5-5",
+          "parent_id": "824f6e15-51ee-42c9-bc4d-a0623845aec1"
+        }
+      },
+      "parent": "99f9cb78-6aac-4d6d-94bf-b8c778981db7"
+    },
+    "fbfe6e9e-4b38-4428-adeb-61ea6b49138a": {
+      "id": "fbfe6e9e-4b38-4428-adeb-61ea6b49138a",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "For **this specific ad**, I would **not** use a polished med spa stock photo or a complicated graphic.\n\nI\u2019d run a **simple, disruptive static image** showing a frustrated med spa owner/provider looking at a laptop or phone, with ONE bold hook:\n\n> **STILL PAYING FOR LEADS  \n> WHO NEVER COME BACK?**\n\nVisually:\n- Realistic female med spa owner, 35\u201350\n- Sitting in a beautiful but quiet med spa\n- Looking frustrated at a laptop/CRM\n- Luxora burgundy/cream branding\n- Large bold text taking up roughly 40\u201350% of the image\n- **No logo at the top**\n- No paragraphs, icons, arrows, funnels, or explanation\n- Small Luxora branding at the bottom only, if anything\n\nThe **image stops the scroll by identifying the pain**. The ad copy underneath explains the end-to-end solution.\n\nTwo other hooks I\u2019d test with the **same visual format**:\n\n**YOU DON\u2019T NEED MORE LEADS.  \nYOU NEED MORE PATIENTS WHO COME BACK.**\n\nand\n\n**YOUR AGENCY GOT YOU THE LEAD.  \nWHO\u2019S MAKING SURE THEY BECOME A PATIENT?**\n\nThe third one may be the strongest for positioning Luxora\u2019s actual differentiator."
+          ]
+        },
+        "create_time": 1783804211.467806,
+        "id": "fbfe6e9e-4b38-4428-adeb-61ea6b49138a",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "5d818556-27cc-4ebc-8a8c-7def56ced98e"
+        }
+      },
+      "parent": "5d818556-27cc-4ebc-8a8c-7def56ced98e"
+    },
+    "fcfb9006-12ef-4a28-af92-940b29cd23b5": {
+      "id": "fcfb9006-12ef-4a28-af92-940b29cd23b5",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content": "Worked for a couple of seconds",
+          "content_type": "reasoning_recap"
+        },
+        "create_time": 1783804475.738583,
+        "id": "fcfb9006-12ef-4a28-af92-940b29cd23b5",
+        "metadata": {
+          "model_slug": "gpt-5-5",
+          "parent_id": "1ce0a093-c7da-4b88-9471-5bb2fe05bc70"
+        }
+      },
+      "parent": "63f5a6fb-86c8-41a8-b7f8-c083d657c48e"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Marketing Strategy Simplification",
+  "update_time": 1783804864.422975,
+  "voice": null
+}

@@ -1,0 +1,348 @@
+{
+  "conversation_id": "691259e0-2cc8-832c-8d88-51645fa09edc",
+  "conversation_template_id": null,
+  "create_time": 1762810361.455949,
+  "current_node": "d793eb38-4839-415c-8b00-0087b3a49a11",
+  "default_model_slug": "gpt-5",
+  "id": "691259e0-2cc8-832c-8d88-51645fa09edc",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "1ab87161-b11c-49fb-b1bf-6b1379cb7a3a": {
+      "id": "1ab87161-b11c-49fb-b1bf-6b1379cb7a3a",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "add in linkein set up and access"
+          ]
+        },
+        "create_time": 1762885423.082,
+        "id": "1ab87161-b11c-49fb-b1bf-6b1379cb7a3a",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "5a39a2ea-f00c-4c6c-837b-c05d958afed5"
+    },
+    "37a475ec-4f43-4775-90a8-bc48a1696519": {
+      "id": "37a475ec-4f43-4775-90a8-bc48a1696519",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "add it to above qeurionsaire not ths list"
+          ]
+        },
+        "create_time": 1762885394.763,
+        "id": "37a475ec-4f43-4775-90a8-bc48a1696519",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "7e9f1765-3c22-4c06-9daf-f21d71af0612"
+    },
+    "4ead5ef0-7f10-421a-8462-9e0460960be7": {
+      "id": "4ead5ef0-7f10-421a-8462-9e0460960be7",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Perfect \u2014 here\u2019s your **full HTML form** updated with the revised \u201cApprovals Before Launch\u201d section written as **statements** (not questions) and now including the **LinkedIn access** field.  \n\nYou can copy and paste this directly into your CRM, website, or Google Form import tool \u2014 it\u2019s fully formatted and matches your style.\n\n---\n\n```html\n<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>FullyBooked CRM Setup Form</title>\n  <style>\n    body {\n      font-family: Arial, sans-serif;\n      background-color: #fafafa;\n      color: #333;\n      max-width: 800px;\n      margin: 40px auto;\n      padding: 20px;\n      border-radius: 12px;\n      box-shadow: 0 0 10px rgba(0,0,0,0.1);\n    }\n    h1, h2 {\n      color: #4A7C6F;\n    }\n    label {\n      font-weight: bold;\n      display: block;\n      margin-top: 18px;\n    }\n    input[type=\"text\"],\n    input[type=\"email\"],\n    input[type=\"url\"],\n    input[type=\"file\"],\n    textarea {\n      width: 100%;\n      padding: 10px;\n      margin-top: 6px;\n      border: 1px solid #ccc;\n      border-radius: 6px;\n      font-size: 15px;\n    }\n    textarea { resize: vertical; }\n    .section {\n      margin-top: 40px;\n      padding-top: 10px;\n      border-top: 2px solid #e0e0e0;\n    }\n    .submit-btn {\n      margin-top: 30px;\n      padding: 12px 24px;\n      background-color: #4A7C6F;\n      color: white;\n      border: none;\n      border-radius: 8px;\n      font-size: 16px;\n      cursor: pointer;\n    }\n    .submit-btn:hover {\n      background-color: #3a6158;\n    }\n  </style>\n</head>\n<body>\n\n  <h1>FullyBooked CRM Setup Form</h1>\n  <p>Hi there! Please fill this out so I can set up your CRM, outreach systems, and automations correctly. \u2014 Bethany \ud83d\udcbb\u2728</p>\n\n  <form action=\"#\" method=\"post\" enctype=\"multipart/form-data\">\n\n    <!-- CRM / FullyBooked Setup -->\n    <div class=\"section\">\n      <h2>CRM / FullyBooked Setup</h2>\n\n      <label>Business name:</label>\n      <input type=\"text\" name=\"business_name\" required>\n\n      <label>Upload your logo:</label>\n      <input type=\"file\" name=\"logo\">\n\n      <label>Main contact email:</label>\n      <input type=\"email\" name=\"main_email\" required>\n\n      <label>Main contact phone number:</label>\n      <input type=\"text\" name=\"main_phone\">\n\n      <label>List of staff who should have CRM access (name + email):</label>\n      <textarea name=\"staff_access\" rows=\"3\"></textarea>\n\n      <label>Preferred booking link (Calendly, Acuity, Zoom, or other):</label>\n      <input type=\"url\" name=\"booking_link\">\n\n      <label>Are you okay with me setting this up in my FullyBooked CRM system for this phase?</label>\n      <input type=\"text\" name=\"crm_approval\">\n    </div>\n\n    <!-- Domain + Email Warm-up -->\n    <div class=\"section\">\n      <h2>Domain + Email Warm-up</h2>\n\n      <label>Do you already have a domain to use for outreach?</label>\n      <input type=\"text\" name=\"existing_domain\">\n\n      <label>If not, are you okay with me purchasing one and handling setup?</label>\n      <input type=\"text\" name=\"domain_purchase_approval\">\n\n      <label>Login details or DNS access (SPF, DKIM, DMARC):</label>\n      <textarea name=\"dns_access\" rows=\"3\"></textarea>\n\n      <label>Preferred sender name (e.g., \u201cAesthetic Injector Academy Partnerships\u201d):</label>\n      <input type=\"text\" name=\"sender_name\">\n    </div>\n\n    <!-- Outreach & Target List -->\n    <div class=\"section\">\n      <h2>Outreach & Target List</h2>\n\n      <label>Who do you want to target (clinics, trainers, distributors, etc.)?</label>\n      <textarea name=\"target_audience\" rows=\"3\"></textarea>\n\n      <label>Sample of 5\u201310 ideal partners (so tone can match real people):</label>\n      <textarea name=\"sample_partners\" rows=\"3\"></textarea>\n\n      <label>Any existing lists (Apollo, events, CRM, etc.):</label>\n      <textarea name=\"existing_lists\" rows=\"3\"></textarea>\n\n      <label>Do I have your approval to pull a fresh Apollo list if needed?</label>\n      <input type=\"text\" name=\"apollo_approval\">\n    </div>\n\n    <!-- Messaging & Offer -->\n    <div class=\"section\">\n      <h2>Messaging & Offer</h2>\n\n      <label>One-line course or offer summary:</label>\n      <textarea name=\"offer_summary\" rows=\"2\"></textarea>\n\n      <label>Main benefit or unique value you want mentioned:</label>\n      <textarea name=\"key_benefit\" rows=\"2\"></textarea>\n\n      <label>Price point or partnership structure (rev-share, wholesale, etc.):</label>\n      <input type=\"text\" name=\"price_structure\">\n\n      <label>Link to existing sales page or info deck:</label>\n      <input type=\"url\" name=\"sales_link\">\n    </div>\n\n    <!-- Approvals Before Launch -->\n    <div class=\"section\">\n      <h2>Approvals Before Launch</h2>\n\n      <p>Before we go live, please review and confirm the following:</p>\n\n      <label>Once I draft them, you\u2019ll confirm that your outreach domain and sender emails look good.</label>\n      <input type=\"text\" name=\"domain_approval\">\n\n      <label>You\u2019ll review and approve the AI SDR intro and follow-up templates before launch.</label>\n      <input type=\"text\" name=\"ai_sdr_approval\">\n\n      <label>You\u2019ll approve the LinkedIn message copy once it\u2019s ready.</label>\n      <input type=\"text\" name=\"linkedin_copy_approval\">\n\n      <label>You\u2019ll review and approve the CRM stages and automation triggers so I can finalize setup.</label>\n      <input type=\"text\" name=\"crm_triggers_approval\">\n\n      <label>You\u2019ll provide LinkedIn profile access (or admin/manager permissions) so I can connect and automate outreach campaigns through your account.</label>\n      <input type=\"text\" name=\"linkedin_access\">\n    </div>\n\n    <!-- Nice-to-Haves -->\n    <div class=\"section\">\n      <h2>Nice-to-Haves</h2>\n\n      <label>Upload your headshot for personalization:</label>\n      <input type=\"file\" name=\"headshot\">\n\n      <label>Short bio for outreach personalization:</label>\n      <textarea name=\"bio\" rows=\"3\"></textarea>\n\n      <label>Testimonials or proof pieces (quotes, screenshots, etc.):</label>\n      <textarea name=\"testimonials\" rows=\"3\"></textarea>\n\n      <label>Social proof links (press, podcast, awards, etc.):</label>\n      <textarea name=\"social_links\" rows=\"3\"></textarea>\n    </div>\n\n    <button class=\"submit-btn\" type=\"submit\">"
+          ]
+        },
+        "create_time": 1762885394.993356,
+        "id": "4ead5ef0-7f10-421a-8462-9e0460960be7",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "37a475ec-4f43-4775-90a8-bc48a1696519"
+        }
+      },
+      "parent": "37a475ec-4f43-4775-90a8-bc48a1696519"
+    },
+    "5a39a2ea-f00c-4c6c-837b-c05d958afed5": {
+      "id": "5a39a2ea-f00c-4c6c-837b-c05d958afed5",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Got it \u2014 here\u2019s the **plain text questionnaire** version (no HTML) with the updated **\u201cApprovals Before Launch\u201d** section rewritten as statements and including **LinkedIn access**:  \n\n---\n\n### **CRM / FullyBooked Setup**\n\n- Business name and logo (for branding inside CRM)  \n- Main contact email and phone number  \n- List of staff who should get access (name + email)  \n- Preferred booking link (Calendly, Acuity, or Zoom)  \n- Confirmation that you\u2019re okay with me setting this up in my FullyBooked CRM system for this phase  \n\n---\n\n### **Domain + Email Warm-Up**\n\n- Confirm if you already have a domain to use for outreach  \n- If not \u2014 approval for me to purchase one and handle setup  \n- Login details or DNS access for SPF, DKIM, and DMARC  \n- Preferred sender name (e.g., \u201cAesthetic Injector Academy Partnerships\u201d)  \n\n---\n\n### **Outreach & Target List**\n\n- Who you want to target (clinics, trainers, distributors, etc.)  \n- Sample of 5\u201310 ideal partners (so tone can match real people)  \n- Any lists you already have (from Apollo, events, or CRM)  \n- Confirmation that I have your approval to pull a fresh Apollo list if needed  \n\n---\n\n### **Messaging & Offer**\n\n- One-line course or offer summary (\u201cWe help injectors\u2026\u201d etc.)  \n- Key benefit or USP you want mentioned in outreach  \n- Price point or partnership structure (rev-share, wholesale, etc.)  \n- Link to existing sales page or info deck if available  \n\n---\n\n### **Approvals Before Launch**\n\n- Once I draft them, you\u2019ll confirm that your outreach domain and sender emails look good.  \n- You\u2019ll review and approve the AI SDR intro and follow-up templates before launch.  \n- You\u2019ll approve the LinkedIn message copy once it\u2019s ready.  \n- You\u2019ll review and approve the CRM stages and automation triggers so I can finalize setup.  \n- You\u2019ll provide LinkedIn profile access (or admin/manager permissions) so I can connect and automate outreach campaigns through your account.  \n\n---\n\n### **Nice-to-Haves**\n\n- Headshot and short bio for LinkedIn outreach personalization  \n- Testimonials or proof pieces for credibility inserts  \n- Social proof links (press, podcast, awards, etc.)  \n\n---\n\nWould you like me to format this into a **Google Form import template (question + type list)** next so you can paste it directly into a new form?"
+          ]
+        },
+        "create_time": 1762885407.143843,
+        "id": "5a39a2ea-f00c-4c6c-837b-c05d958afed5",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "a9c14c77-4de6-4eac-b9fb-73263b76072f"
+        }
+      },
+      "parent": "a9c14c77-4de6-4eac-b9fb-73263b76072f"
+    },
+    "762db3e5-a16f-4862-a291-c97718225edd": {
+      "id": "762db3e5-a16f-4862-a291-c97718225edd",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "creat html"
+          ]
+        },
+        "create_time": 1762811081.33,
+        "id": "762db3e5-a16f-4862-a291-c97718225edd",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "ab7eedcb-1542-4757-984f-f7f2d5493a98"
+    },
+    "7cbf9a57-bd76-4e07-91ac-8dec15995836": {
+      "id": "7cbf9a57-bd76-4e07-91ac-8dec15995836",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "take this and change to statements: Once I draft them, will you please confirm that your outreach domain + sender emails look good?\r\n\r\nWill you review and approve the AI SDR intro and follow-up templates before launch?\r\n\r\nWill you approve the LinkedIn message copy once it\u2019s ready?\r\n\r\nWill you review and approve CRM stages and automation triggers so I can finalize setup?"
+          ]
+        },
+        "create_time": 1762885108.374,
+        "id": "7cbf9a57-bd76-4e07-91ac-8dec15995836",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "f36e5547-a62e-4e95-8e99-768b33ac5780"
+    },
+    "7e9f1765-3c22-4c06-9daf-f21d71af0612": {
+      "id": "7e9f1765-3c22-4c06-9daf-f21d71af0612",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s the revised section \u2014 rewritten in **statement form** (not questions) and now including **LinkedIn access approval** \u2014 ready to drop right into your form or HTML version:\n\n---\n\n### **Approvals Before Launch**\n\n- Once I draft them, **you\u2019ll confirm that your outreach domain and sender emails look good.**  \n- You\u2019ll **review and approve the AI SDR intro and follow-up templates before launch.**  \n- You\u2019ll **approve the LinkedIn message copy once it\u2019s ready.**  \n- You\u2019ll **review and approve the CRM stages and automation triggers** so I can finalize setup.  \n- You\u2019ll **provide LinkedIn profile access** (or admin/manager permissions) so I can connect and automate outreach campaigns through your account.  \n\n---\n\nWould you like me to update the **HTML form version** with this section fully swapped in (so it\u2019s all formatted and ready to upload)?"
+          ]
+        },
+        "create_time": 1762885380.816895,
+        "id": "7e9f1765-3c22-4c06-9daf-f21d71af0612",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "89afcc04-bade-47a4-ab74-460a2ef36fc9"
+        }
+      },
+      "parent": "89afcc04-bade-47a4-ab74-460a2ef36fc9"
+    },
+    "89afcc04-bade-47a4-ab74-460a2ef36fc9": {
+      "id": "89afcc04-bade-47a4-ab74-460a2ef36fc9",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "add linkeeind access to this"
+          ]
+        },
+        "create_time": 1762885380.383,
+        "id": "89afcc04-bade-47a4-ab74-460a2ef36fc9",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "b51404fe-4b87-46ac-b465-9d6628010b74"
+    },
+    "9ccd0528-0953-4206-b49d-8c3827edb812": {
+      "id": "9ccd0528-0953-4206-b49d-8c3827edb812",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "make this into a google form but use first person as if I (bethany) is asking her for this iformation: CRM / FullyBooked Setup\r\n\r\n[ ] Business name and logo (for branding inside CRM)\r\n\r\n[ ] Main contact email and phone number\r\n\r\n[ ] List of staff who should get access (name + email)\r\n\r\n[ ] Her preferred booking link (Calendly, Acuity, or Zoom)\r\n\r\n[ ] Confirmation she\u2019s okay using Bethany\u2019s CRM (FullyBooked) for this phase\r\n\r\n\r\nDomain + Email Warm-up\r\n\r\n[ ] Confirm if she already has a domain to use for outreach\r\n\r\n[ ] If not \u2014 give approval for Bethany to purchase one (you\u2019ll handle setup)\r\n\r\n[ ] Login details or DNS access for SPF, DKIM, DMARC\r\n\r\n[ ] Preferred sender name (e.g. \u201cAesthetic Injector Academy Partnerships\u201d)\r\n\r\n\r\nOutreach & Target List\r\n\r\n[ ] Who she wants to target (clinics, trainers, distributors, etc.)\r\n\r\n[ ] Sample of 5\u201310 ideal partners (so tone can match real people)\r\n\r\n[ ] Any lists she already has (from Apollo, events, or CRM)\r\n\r\n[ ] Confirmation she approves Bethany to pull a fresh Apollo list if needed\r\n\r\n\r\nMessaging & Offer\r\n\r\n[ ] One-line course offer summary (\u201cWe help injectors\u2026\u201d etc.)\r\n\r\n[ ] Key benefit or USP she wants mentioned in outreach\r\n\r\n[ ] Price point or partnership structure (rev-share, wholesale, etc.)\r\n\r\n[ ] Link to existing sales page or info deck if available\r\n\r\n\r\nApprovals Before Launch\r\n\r\n[ ] Confirm outreach domain + sender emails look good\r\n\r\n[ ] Approve AI SDR intro and follow-up templates\r\n\r\n[ ] Approve LinkedIn message copy\r\n\r\n[ ] Approve CRM stages and automation triggers\r\n\r\n\r\nNice-to-Haves\r\n\r\n[ ] Headshot and short bio for LinkedIn outreach personalization\r\n\r\n[ ] Testimonials or proof pieces for credibility inserts\r\n\r\n[ ] Social proof links (press, podcast, awards, etc.)"
+          ]
+        },
+        "create_time": 1762810360.395,
+        "id": "9ccd0528-0953-4206-b49d-8c3827edb812",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "a9c14c77-4de6-4eac-b9fb-73263b76072f": {
+      "id": "a9c14c77-4de6-4eac-b9fb-73263b76072f",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "no html "
+          ]
+        },
+        "create_time": 1762885405.718,
+        "id": "a9c14c77-4de6-4eac-b9fb-73263b76072f",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "4ead5ef0-7f10-421a-8462-9e0460960be7"
+    },
+    "ab7eedcb-1542-4757-984f-f7f2d5493a98": {
+      "id": "ab7eedcb-1542-4757-984f-f7f2d5493a98",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s your version rewritten in first person as if **you, Bethany**, are personally asking for the information inside a Google Form. You can paste this directly into Google Forms \u2014 each [ ] becomes a separate question block.  \n\n---\n\n### **CRM / FullyBooked Setup**\n\n1. What is your **business name** and please upload your **logo** so I can brand everything correctly inside your CRM?  \n*(File upload for logo)*\n\n2. What\u2019s your **main contact email and phone number** that should appear on communications?\n\n3. Please list the **staff members who should have CRM access** (name + email for each).\n\n4. What\u2019s your **preferred booking link** (Calendly, Acuity, Zoom, or other)?\n\n5. Can you please confirm you\u2019re okay with me setting this up in my **FullyBooked CRM system** for this phase?\n\n---\n\n### **Domain + Email Warm-Up**\n\n6. Do you already have a **domain you\u2019d like to use for outreach**?\n\n7. If not, are you okay with me purchasing one on your behalf and handling all the setup?\n\n8. Please share **login details or DNS access** (SPF, DKIM, DMARC setup).  \n*(You can leave a note here or I\u2019ll send you secure access instructions separately.)*\n\n9. What\u2019s your **preferred sender name** for outreach emails (e.g., \u201cAesthetic Injector Academy Partnerships\u201d)?\n\n---\n\n### **Outreach & Target List**\n\n10. Who do you most want to **target** through outreach? (clinics, trainers, distributors, etc.)\n\n11. Can you share a **sample of 5\u201310 ideal partners** so I can match the tone and messaging to real people?\n\n12. Do you already have any **existing lists** (from Apollo, events, or your CRM) that I should use?\n\n13. Do I have your **approval to pull a fresh Apollo list** if needed to expand the outreach pool?\n\n---\n\n### **Messaging & Offer**\n\n14. What\u2019s your **one-line course or offer summary**? (e.g., \u201cWe help injectors earn CE credits through accredited online training.\u201d)\n\n15. What\u2019s the **main benefit or unique value** you want highlighted in your outreach?\n\n16. What\u2019s your **price point or partnership structure**? (rev-share, wholesale, affiliate, etc.)\n\n17. If you already have one, please share the **link to your sales page or info deck**.\n\n---\n\n### **Approvals Before Launch**\n\n18. Once I draft them, will you please confirm that your **outreach domain + sender emails** look good?\n\n19. Will you review and **approve the AI SDR intro and follow-up templates** before launch?\n\n20. Will you **approve the LinkedIn message copy** once it\u2019s ready?\n\n21. Will you review and **approve CRM stages and automation triggers** so I can finalize setup?\n\n---\n\n### **Nice-to-Haves**\n\n22. Please upload a **headshot and short bio** I can use for LinkedIn personalization.  \n*(File upload for headshot)*\n\n23. Do you have any **testimonials or proof pieces** (quotes, screenshots, feedback) that I can use in messaging?\n\n24. Please share any **social proof links** (press features, podcasts, awards, or mentions) to strengthen your credibility.\n\n---\n\nWould you like me to create the **Google Form link text** (ready to paste into your account with field types like short answer, paragraph, file upload, multiple choice, etc.) so you can import it directly into Google Forms?"
+          ]
+        },
+        "create_time": 1762810361.294936,
+        "id": "ab7eedcb-1542-4757-984f-f7f2d5493a98",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "742e7826-2279-4cfc-803d-dd2f7260e90f"
+        }
+      },
+      "parent": "9ccd0528-0953-4206-b49d-8c3827edb812"
+    },
+    "b51404fe-4b87-46ac-b465-9d6628010b74": {
+      "id": "b51404fe-4b87-46ac-b465-9d6628010b74",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s that section rewritten as **clear statements** instead of questions, keeping your professional and friendly tone consistent with the rest of your form:  \n\n---\n\n- Once I draft them, **you\u2019ll confirm that your outreach domain and sender emails look good.**  \n- You\u2019ll **review and approve the AI SDR intro and follow-up templates before launch.**  \n- You\u2019ll **approve the LinkedIn message copy once it\u2019s ready.**  \n- You\u2019ll **review and approve the CRM stages and automation triggers** so I can finalize setup.  \n\n---\n\nWould you like me to update the HTML form with these new statement versions in place of the original approval questions?"
+          ]
+        },
+        "create_time": 1762885109.283014,
+        "id": "b51404fe-4b87-46ac-b465-9d6628010b74",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "7cbf9a57-bd76-4e07-91ac-8dec15995836"
+        }
+      },
+      "parent": "7cbf9a57-bd76-4e07-91ac-8dec15995836"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "d793eb38-4839-415c-8b00-0087b3a49a11": {
+      "id": "d793eb38-4839-415c-8b00-0087b3a49a11",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s your updated version with **LinkedIn setup and access** added clearly throughout, so it flows naturally with the rest of your onboarding questions:  \n\n---\n\n### **CRM / FullyBooked Setup**\n\n- Business name and logo (for branding inside CRM)  \n- Main contact email and phone number  \n- List of staff who should get access (name + email)  \n- Preferred booking link (Calendly, Acuity, or Zoom)  \n- Confirmation that you\u2019re okay with me setting this up in my FullyBooked CRM system for this phase  \n\n---\n\n### **Domain + Email Warm-Up**\n\n- Confirm if you already have a domain to use for outreach  \n- If not \u2014 approval for me to purchase one and handle setup  \n- Login details or DNS access for SPF, DKIM, and DMARC  \n- Preferred sender name (e.g., \u201cAesthetic Injector Academy Partnerships\u201d)  \n\n---\n\n### **Outreach & Target List**\n\n- Who you want to target (clinics, trainers, distributors, etc.)  \n- Sample of 5\u201310 ideal partners (so tone can match real people)  \n- Any lists you already have (from Apollo, events, or CRM)  \n- Confirmation that I have your approval to pull a fresh Apollo list if needed  \n\n---\n\n### **Messaging & Offer**\n\n- One-line course or offer summary (\u201cWe help injectors\u2026\u201d etc.)  \n- Key benefit or USP you want mentioned in outreach  \n- Price point or partnership structure (rev-share, wholesale, etc.)  \n- Link to existing sales page or info deck if available  \n\n---\n\n### **LinkedIn Setup & Access**\n\n- Link to your **LinkedIn profile**  \n- Confirm if you\u2019d like me to **set up or optimize your LinkedIn profile** for outreach (banner, bio, call-to-action updates)  \n- Confirm if you\u2019d like me to **connect your LinkedIn account** to the outreach system (AI SDR / automation tools)  \n- Provide **LinkedIn login details** or confirm that you\u2019ll add me as a **trusted user / manager**  \n- Share any **specific industries, titles, or keywords** you want to prioritize for LinkedIn outreach  \n\n---\n\n### **Approvals Before Launch**\n\n- Once I draft them, you\u2019ll confirm that your outreach domain and sender emails look good.  \n- You\u2019ll review and approve the AI SDR intro and follow-up templates before launch.  \n- You\u2019ll approve the LinkedIn message copy once it\u2019s ready.  \n- You\u2019ll review and approve the CRM stages and automation triggers so I can finalize setup.  \n- You\u2019ll provide LinkedIn profile access (or admin/manager permissions) so I can connect and automate outreach campaigns through your account.  \n\n---\n\n### **Nice-to-Haves**\n\n- Headshot and short bio for LinkedIn outreach personalization  \n- Testimonials or proof pieces for credibility inserts  \n- Social proof links (press, podcast, awards, etc.)  \n\n---\n\nWould you like me to include a short **intro paragraph** at the top (like: \u201cHi! I\u2019m gathering everything I\u2019ll need to set up your CRM, email, and LinkedIn systems seamlessly\u201d) so it feels more personal when you send it?"
+          ]
+        },
+        "create_time": 1762885423.371848,
+        "id": "d793eb38-4839-415c-8b00-0087b3a49a11",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "1ab87161-b11c-49fb-b1bf-6b1379cb7a3a"
+        }
+      },
+      "parent": "1ab87161-b11c-49fb-b1bf-6b1379cb7a3a"
+    },
+    "f36e5547-a62e-4e95-8e99-768b33ac5780": {
+      "id": "f36e5547-a62e-4e95-8e99-768b33ac5780",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a clean **HTML version** of your Google-Form-style intake survey \u2014 written fully in **first person** (as if from you, Bethany) and ready to paste into any website or form builder.  \n\nYou can copy this into a file named `fullybooked_setup.html` and host it or import it into platforms like GoHighLevel, Typeform, or Google Forms with a form-import add-on.\n\n---\n\n```html\n<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>FullyBooked CRM Setup Form</title>\n  <style>\n    body {\n      font-family: Arial, sans-serif;\n      background-color: #fafafa;\n      color: #333;\n      max-width: 800px;\n      margin: 40px auto;\n      padding: 20px;\n      border-radius: 12px;\n      box-shadow: 0 0 10px rgba(0,0,0,0.1);\n    }\n    h1, h2 {\n      color: #4A7C6F;\n    }\n    label {\n      font-weight: bold;\n      display: block;\n      margin-top: 18px;\n    }\n    input[type=\"text\"],\n    input[type=\"email\"],\n    input[type=\"url\"],\n    input[type=\"file\"],\n    textarea {\n      width: 100%;\n      padding: 10px;\n      margin-top: 6px;\n      border: 1px solid #ccc;\n      border-radius: 6px;\n      font-size: 15px;\n    }\n    textarea { resize: vertical; }\n    .section {\n      margin-top: 40px;\n      padding-top: 10px;\n      border-top: 2px solid #e0e0e0;\n    }\n    .submit-btn {\n      margin-top: 30px;\n      padding: 12px 24px;\n      background-color: #4A7C6F;\n      color: white;\n      border: none;\n      border-radius: 8px;\n      font-size: 16px;\n      cursor: pointer;\n    }\n    .submit-btn:hover {\n      background-color: #3a6158;\n    }\n  </style>\n</head>\n<body>\n\n  <h1>FullyBooked CRM Setup Form</h1>\n  <p>Hi there! Please fill this out so I can set up your CRM, outreach systems, and automations correctly. \u2014 Bethany \ud83d\udcbb\u2728</p>\n\n  <form action=\"#\" method=\"post\" enctype=\"multipart/form-data\">\n\n    <!-- CRM / FullyBooked Setup -->\n    <div class=\"section\">\n      <h2>CRM / FullyBooked Setup</h2>\n\n      <label>Business name:</label>\n      <input type=\"text\" name=\"business_name\" required>\n\n      <label>Upload your logo:</label>\n      <input type=\"file\" name=\"logo\">\n\n      <label>Main contact email:</label>\n      <input type=\"email\" name=\"main_email\" required>\n\n      <label>Main contact phone number:</label>\n      <input type=\"text\" name=\"main_phone\">\n\n      <label>List of staff who should have CRM access (name + email):</label>\n      <textarea name=\"staff_access\" rows=\"3\"></textarea>\n\n      <label>Preferred booking link (Calendly, Acuity, Zoom, or other):</label>\n      <input type=\"url\" name=\"booking_link\">\n\n      <label>Are you okay with me setting this up in my FullyBooked CRM system for this phase?</label>\n      <input type=\"text\" name=\"crm_approval\">\n    </div>\n\n    <!-- Domain + Email Warm-up -->\n    <div class=\"section\">\n      <h2>Domain + Email Warm-up</h2>\n\n      <label>Do you already have a domain to use for outreach?</label>\n      <input type=\"text\" name=\"existing_domain\">\n\n      <label>If not, are you okay with me purchasing one and handling setup?</label>\n      <input type=\"text\" name=\"domain_purchase_approval\">\n\n      <label>Login details or DNS access (SPF, DKIM, DMARC):</label>\n      <textarea name=\"dns_access\" rows=\"3\"></textarea>\n\n      <label>Preferred sender name (e.g., \u201cAesthetic Injector Academy Partnerships\u201d):</label>\n      <input type=\"text\" name=\"sender_name\">\n    </div>\n\n    <!-- Outreach & Target List -->\n    <div class=\"section\">\n      <h2>Outreach & Target List</h2>\n\n      <label>Who do you want to target (clinics, trainers, distributors, etc.)?</label>\n      <textarea name=\"target_audience\" rows=\"3\"></textarea>\n\n      <label>Sample of 5\u201310 ideal partners (so tone can match real people):</label>\n      <textarea name=\"sample_partners\" rows=\"3\"></textarea>\n\n      <label>Any existing lists (Apollo, events, CRM, etc.):</label>\n      <textarea name=\"existing_lists\" rows=\"3\"></textarea>\n\n      <label>Do I have your approval to pull a fresh Apollo list if needed?</label>\n      <input type=\"text\" name=\"apollo_approval\">\n    </div>\n\n    <!-- Messaging & Offer -->\n    <div class=\"section\">\n      <h2>Messaging & Offer</h2>\n\n      <label>One-line course or offer summary:</label>\n      <textarea name=\"offer_summary\" rows=\"2\"></textarea>\n\n      <label>Main benefit or unique value you want mentioned:</label>\n      <textarea name=\"key_benefit\" rows=\"2\"></textarea>\n\n      <label>Price point or partnership structure (rev-share, wholesale, etc.):</label>\n      <input type=\"text\" name=\"price_structure\">\n\n      <label>Link to existing sales page or info deck:</label>\n      <input type=\"url\" name=\"sales_link\">\n    </div>\n\n    <!-- Approvals Before Launch -->\n    <div class=\"section\">\n      <h2>Approvals Before Launch</h2>\n\n      <label>Confirm outreach domain + sender emails look good:</label>\n      <input type=\"text\" name=\"domain_approval\">\n\n      <label>Approve AI SDR intro and follow-up templates:</label>\n      <input type=\"text\" name=\"ai_sdr_approval\">\n\n      <label>Approve LinkedIn message copy:</label>\n      <input type=\"text\" name=\"linkedin_approval\">\n\n      <label>Approve CRM stages and automation triggers:</label>\n      <input type=\"text\" name=\"crm_triggers_approval\">\n    </div>\n\n    <!-- Nice-to-Haves -->\n    <div class=\"section\">\n      <h2>Nice-to-Haves</h2>\n\n      <label>Upload your headshot for personalization:</label>\n      <input type=\"file\" name=\"headshot\">\n\n      <label>Short bio for outreach personalization:</label>\n      <textarea name=\"bio\" rows=\"3\"></textarea>\n\n      <label>Testimonials or proof pieces (quotes, screenshots, etc.):</label>\n      <textarea name=\"testimonials\" rows=\"3\"></textarea>\n\n      <label>Social proof links (press, podcast, awards, etc.):</label>\n      <textarea name=\"social_links\" rows=\"3\"></textarea>\n    </div>\n\n    <button class=\"submit-btn\" type=\"submit\">Submit Form</button>\n\n  </form>\n\n</body>\n</html>\n```\n\n---\n\nWould you like me to make it **Google-Form import-ready JSON** or **embed code** for your **GoHighLevel form builder** next (so you can just drop it into your CRM without coding)?"
+          ]
+        },
+        "create_time": 1762811082.447809,
+        "id": "f36e5547-a62e-4e95-8e99-768b33ac5780",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "762db3e5-a16f-4862-a291-c97718225edd"
+        }
+      },
+      "parent": "762db3e5-a16f-4862-a291-c97718225edd"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Google form setup request",
+  "update_time": 1762890865.022705,
+  "voice": null
+}

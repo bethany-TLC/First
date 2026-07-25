@@ -1,0 +1,71 @@
+{
+  "conversation_id": "69f92cd4-d154-83ea-835e-95895c68204f",
+  "conversation_template_id": null,
+  "create_time": 1777937641.793024,
+  "current_node": "4d4bb337-2dca-4c64-b9f4-4db32b21cfbf",
+  "default_model_slug": "gpt-5-3",
+  "id": "69f92cd4-d154-83ea-835e-95895c68204f",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "4d4bb337-2dca-4c64-b9f4-4db32b21cfbf": {
+      "id": "4d4bb337-2dca-4c64-b9f4-4db32b21cfbf",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Mini Lobster Rolls, Seafood Summer Rolls, Smoked Salmon Deviled Eggs, Salmon or Crab Cakes, Shrimp Cocktail, Smoked Salmon or Gravlax, Smoked Trout or Salmon Dip, Ceviche or Aguachile, Poached Salmon Salad, Cooked Mussel Salad, Tuna Poke, Crab Claws"
+          ]
+        },
+        "create_time": 1777937641.631904,
+        "id": "4d4bb337-2dca-4c64-b9f4-4db32b21cfbf",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "33ef5730-bed1-440b-be6e-5775ccd34933"
+        }
+      },
+      "parent": "bbb2199f-c34d-4d38-b072-dd79d0d70160"
+    },
+    "bbb2199f-c34d-4d38-b072-dd79d0d70160": {
+      "id": "bbb2199f-c34d-4d38-b072-dd79d0d70160",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Mini Lobster Rolls: Served on toasted buns, these are luxurious and easy to eat.Seafood Summer Rolls: Rice paper rolls filled with shrimp, herbs, and vermicelli noodles (similar to Vietnamese g\u1ecfi cu\u1ed1n).Smoked Salmon Deviled Eggs: A great way to elevate a picnic classic.Salmon or Crab Cakes: Mini, hand-held cakes that can be served with a lemon-caper dip.Shrimp Cocktail: A must-have, classic, and easily handled item. You can make a traditional cocktail sauce or a tangy remoulade.Smoked Salmon or Gravlax: Arrange thin-sliced smoked salmon or homemade gravlax on a board with capers, red onion, dill, and pumpernickel bread.Smoked Trout or Salmon Dip: A creamy dip made with smoked fish, cream cheese, lemon juice, and horseradish, served with crackers or celery sticks.Ceviche or Aguachile: Refreshing citrus-cured seafood. Shrimp ceviche with lime, avocado, and cucumber or scallops in jalape\u00f1o lime juice are perfect.Poached Salmon Salad: Poach a fatty salmon, then mix with herbs, shallots, and mayo for a \"rillettes\" style spread to go with crackers.Cooked Mussel Salad: Mussels cooked ahead of time, served cold or at room temperature, perhaps with a slight vinaigrette or diced peppers.Tuna Poke: Cubed raw tuna marinated with soy sauce, sesame oil, and ginger.Crab Claws: Stone crab claws or king crab legs, pre-cooked and served on ice.\n\nMake these just the titles with commas so I can send in text"
+          ]
+        },
+        "create_time": 1777937641.409321,
+        "id": "bbb2199f-c34d-4d38-b072-dd79d0d70160",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "d52a589f-a2fe-4c13-b811-5b0eceae29eb"
+    },
+    "d52a589f-a2fe-4c13-b811-5b0eceae29eb": {
+      "id": "d52a589f-a2fe-4c13-b811-5b0eceae29eb",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Seafood Dish List",
+  "update_time": 1777937644.990751,
+  "voice": null
+}

@@ -1,0 +1,72 @@
+{
+  "conversation_id": "6a3d648c-2394-83e8-86a4-3972e23ba16b",
+  "conversation_template_id": null,
+  "create_time": 1782408344.228036,
+  "current_node": "4835b304-3ed9-482b-9851-592e8c533ff9",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a3d648c-2394-83e8-86a4-3972e23ba16b",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "04310463-aef8-480d-be73-0e7560820a15": {
+      "id": "04310463-aef8-480d-be73-0e7560820a15",
+      "message": null,
+      "parent": null
+    },
+    "4835b304-3ed9-482b-9851-592e8c533ff9": {
+      "id": "4835b304-3ed9-482b-9851-592e8c533ff9",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "I would keep it professional, supportive, and firmly within your lane. You don't want to accidentally become responsible for regulatory guidance.\n\nYou could send something like this:\n\n> Hi [Name],\n>\n> I definitely understand why you're looking into this, and it's an important issue to address. Unfortunately, ADA compliance, zoning, and building code requirements are outside our area of expertise, so I don't want to give you guidance that could be inaccurate.\n>\n> My recommendation would be to speak with a local attorney who specializes in healthcare or commercial real estate, your municipality's building/zoning department, or a licensed ADA/accessibility consultant. They can review your specific location and determine exactly what is required for your practice.\n>\n> Once you have that guidance, we're happy to support you with any operational, marketing, or growth strategies that may be needed as a result of those recommendations.\n\nIf she asks you what the issue actually is, you can simply explain:\n\n> \"If your med spa is located on a second floor, the question is typically whether patients with disabilities have an accessible route to receive services, such as an elevator or other ADA-compliant access. The exact requirements depend on the building, when it was constructed, local building codes, whether alterations have been made, and other factors. That's why it's something that really needs to be evaluated by an ADA/building compliance professional rather than us.\"\n\nThis keeps you helpful without taking on legal or compliance liability."
+          ]
+        },
+        "create_time": 1782408344.165374,
+        "id": "4835b304-3ed9-482b-9851-592e8c533ff9",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "0a664ac5-e1b7-4259-9273-82a148f8589a"
+        }
+      },
+      "parent": "bbb212eb-0194-4851-833a-34583079d8a1"
+    },
+    "bbb212eb-0194-4851-833a-34583079d8a1": {
+      "id": "bbb212eb-0194-4851-833a-34583079d8a1",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "One of my clients is asking me to help them with ADA compliant zoning issues for their Mets because they're on the second floor. What on Earth should I tell her? That's totally outside my scope"
+          ]
+        },
+        "create_time": 1782408343.931412,
+        "id": "bbb212eb-0194-4851-833a-34583079d8a1",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "04310463-aef8-480d-be73-0e7560820a15"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "ADA Compliance Guidance",
+  "update_time": 1782408348.22623,
+  "voice": null
+}

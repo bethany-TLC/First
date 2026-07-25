@@ -1,0 +1,943 @@
+{
+  "conversation_id": "6913a4a9-e3ec-8326-8406-c17d81a36c1e",
+  "conversation_template_id": null,
+  "create_time": 1762895026.798513,
+  "current_node": "08d7ab0d-ee70-4119-a135-f2bb69e7bf11",
+  "default_model_slug": "gpt-5",
+  "id": "6913a4a9-e3ec-8326-8406-c17d81a36c1e",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "061862e9-d81c-4b36-be8c-b776384993b0": {
+      "id": "061862e9-d81c-4b36-be8c-b776384993b0",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Sure \u2014 please share the sentence you\u2019d like me to correct."
+          ]
+        },
+        "create_time": 1762895124.134846,
+        "id": "061862e9-d81c-4b36-be8c-b776384993b0",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "d0ebca4d-9b7c-44e7-a546-a2647eb82d6d"
+        }
+      },
+      "parent": "d0ebca4d-9b7c-44e7-a546-a2647eb82d6d"
+    },
+    "08d7ab0d-ee70-4119-a135-f2bb69e7bf11": {
+      "id": "08d7ab0d-ee70-4119-a135-f2bb69e7bf11",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s your cleaned-up list in **regular capitalization**, each item with a link where available:\n\n- Teri Ross Consulting \u2014 https://terrirossconsulting.com/ \ue200cite\ue202turn0search6\ue202turn0search21\ue202turn0search12\ue201  \n- Aesthetic Extender Symposium \u2014 https://www.facebook.com/AestheticExtenderSymposium/posts/calling-all-sponsors-already-planning-for-the-new-year-mark-your-calendars-a/1407128191316590/ \ue200cite\ue202turn0search0\ue202turn0search3\ue201  \n- Erin Corrales (AES) \u2014 [no direct link found]  \n- Canadian Association of Medical Aesthetics \u2014 https://camaesthetics.ca/ \ue200cite\ue202turn1search0\ue202turn1search8\ue201  \n- ENP Network \u2014 https://www.enpnetwork.com/ \ue200cite\ue202turn0search2\ue202turn0search8\ue201  \n- EPA and RN Network \u2014 [no specific link found]  \n- Franchises:  \n  - OVME \u2014 https://ovme.com/ \ue200cite\ue202turn0search1\ue202turn0search7\ue201  \n  - VIO Med Spa \u2014 https://www.franchisesidekick.com/brands/vio-med-spa?hsLang=en \ue200cite\ue202turn0search13\ue201  \n- Smiley Aesthetics \u2014 https://smileyaesthetics.com/ \ue200cite\ue202turn1search1\ue202turn1search3\ue201  \n- Trainers That Don\u2019t Have Any Precursor Training For Their People \u2014 [no specific link found]  \n- Olivia Solomon \u2014 [no specific link found]  \n\nIf you like, I can dig up links for the items where I couldn\u2019t find one (Erin Corrales, EPA & RN Network, Trainers\u2026 and Olivia Solomon) and send a full list with clickable URLs."
+          ]
+        },
+        "create_time": 1762898240.553599,
+        "id": "08d7ab0d-ee70-4119-a135-f2bb69e7bf11",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "([Terri Ross Consulting LLC](https://terrirossconsulting.com/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Terri Ross Consulting LLC",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 6,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 21,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 12,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Terri has 20 years of experience in the medical aesthetic space, in addition to working with Fortune 500 medical device companies.",
+                  "supporting_websites": [
+                    {
+                      "attribution": "Terri Ross Consulting LLC",
+                      "pub_date": null,
+                      "snippet": "Terri Ross is available to speak at medical and aesthetic industry conferences, business summits, and corporate sales and leadership meetings.",
+                      "title": "Aesthetics Industry Speaking Engagements",
+                      "url": "https://terrirossconsulting.com/medical-consultant/speaking-engagements/?utm_source=chatgpt.com"
+                    },
+                    {
+                      "attribution": "4ssummit.com",
+                      "pub_date": null,
+                      "snippet": "Terri Ross is a prominent figure in the business and aesthetic industry, known for her expertise as a practice growth consultant and a highly sought-after ...",
+                      "title": "Terri Ross: Boosting Aesthetic Practices",
+                      "url": "https://4ssummit.com/terri-ross/?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Terri Ross Consulting: Aesthetic, MedSpa & Plastic Surgery ...",
+                  "url": "https://terrirossconsulting.com/?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([facebook.com](https://www.facebook.com/AestheticExtenderSymposium/posts/calling-all-sponsors-already-planning-for-the-new-year-mark-your-calendars-for-a/1407128191316590/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "facebook.com",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 3,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Mark your calendars for AES 2026 on Aug. 6-9, 2026! As a sponsor, you'll have the opportunity to showcase your brand to an engaged audience of ...",
+                  "supporting_websites": [
+                    {
+                      "attribution": "facebook.com",
+                      "pub_date": null,
+                      "snippet": "Aesthetic Extender Symposium is at The Boca Raton. Aug 10 ... Terri Ross Consulting. \udb85\ude76. Follow.",
+                      "title": "That's a wrap on AES 2025! \ud83c\udf89Same place ...",
+                      "url": "https://www.facebook.com/AestheticExtenderSymposium/posts/thats-a-wrap-on-aes-2025-same-place-same-energy-aes-2026-is-coming-back-to-thebo/1324445192918224/?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Aesthetic Extender Symposium",
+                  "url": "https://www.facebook.com/AestheticExtenderSymposium/posts/calling-all-sponsors-already-planning-for-the-new-year-mark-your-calendars-for-a/1407128191316590/?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([camaesthetics.ca](https://camaesthetics.ca/?srsltid=AfmBOoryISGJkUgnpZLWZYEbvNv4U4d3NUtPPbg-ryV40YcIoYSQUHcV&utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "camaesthetics.ca",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 1
+                    },
+                    {
+                      "ref_index": 8,
+                      "ref_type": "search",
+                      "turn_index": 1
+                    }
+                  ],
+                  "snippet": "CAMA is Canada's leader in hands-on, physician- and nurse-focused medical aesthetics training. From foundational techniques to advanced procedures,",
+                  "supporting_websites": [
+                    {
+                      "attribution": "camaesthetics.ca",
+                      "pub_date": null,
+                      "snippet": "CAMA is a premier educational institution advancing non-surgical aesthetics in Canada, the first to establish a standardized formal foundation.",
+                      "title": "About the Canadian Association of Medical Aesthetics",
+                      "url": "https://camaesthetics.ca/about/?srsltid=AfmBOor5e_x4dsvjJhZlNQ3xzu8cEt6xgYxLNf8vahW5srWFhuyqN4uQ&utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "The Canadian Association of Medical Aesthetics",
+                  "url": "https://camaesthetics.ca/?srsltid=AfmBOoryISGJkUgnpZLWZYEbvNv4U4d3NUtPPbg-ryV40YcIoYSQUHcV&utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([enpnetwork.com](https://www.enpnetwork.com/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "enpnetwork.com",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 2,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 8,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "ENP Network is the professional network connecting nurse practitioners with the groups they belong to, colleagues they support, and resources they need.",
+                  "supporting_websites": [
+                    {
+                      "attribution": "enpnetwork.com",
+                      "pub_date": null,
+                      "snippet": "ENP Network connects nurse practitioners with the latest industry news, announcements, upcoming events and exciting career opportunities.",
+                      "title": "About ENP Network",
+                      "url": "https://www.enpnetwork.com/about?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "ENP Network",
+                  "url": "https://www.enpnetwork.com/?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([OVME, LLC](https://ovme.com/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "OVME, LLC",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 1,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    },
+                    {
+                      "ref_index": 7,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "OVME offers Injectables, Skin Treatments, and Health & Wellness services, with complimentary consultations available.",
+                  "supporting_websites": [
+                    {
+                      "attribution": "OVME, LLC",
+                      "pub_date": null,
+                      "snippet": "Learn more about OVME and our commitment to providing top-tier medical aesthetics. Discover our story and what makes us unique.",
+                      "title": "About Us | OVME Medical Aesthetic Studios",
+                      "url": "https://ovme.com/pages/about-us?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "OVME | Medical Aesthetic Studios\u2013 OVME, LLC",
+                  "url": "https://ovme.com/?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Franchise Sidekick](https://www.franchisesidekick.com/brands/vio-med-spa?hsLang=en&utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Franchise Sidekick",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 13,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "VIO Med Spa specializes in cutting-edge aesthetic medicine and wellness. Our medical spa provides elevated and innovative aesthetic services for both men and ...",
+                  "supporting_websites": [],
+                  "title": "VIO Med Spa",
+                  "url": "https://www.franchisesidekick.com/brands/vio-med-spa?hsLang=en&utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Smiley Aesthetics](https://smileyaesthetics.com/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Smiley Aesthetics",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 1,
+                      "ref_type": "search",
+                      "turn_index": 1
+                    },
+                    {
+                      "ref_index": 3,
+                      "ref_type": "search",
+                      "turn_index": 1
+                    }
+                  ],
+                  "snippet": "Smiley Aesthetics offers injectables, weight loss solutions, holistic health, medical tourism, wellness products, and training for medical professionals.",
+                  "supporting_websites": [
+                    {
+                      "attribution": "Smiley Aesthetics",
+                      "pub_date": null,
+                      "snippet": "Smiley Aesthetics offers hands-on training in Basic Botox/Dermal Fillers, Advanced Aesthetic, and Microneedling, with pre-class lectures and Q&A sessions.",
+                      "title": "Get the training you need to begin your injecting journey!",
+                      "url": "https://smileyaesthetics.com/training/?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "title": "Smiley Aesthetics | Premier Aesthetic and Wellness Services",
+                  "url": "https://smileyaesthetics.com/?utm_source=chatgpt.com"
+                }
+              ],
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "Terri Ross Consulting LLC",
+                  "title": "Terri Ross Consulting: Aesthetic, MedSpa & Plastic Surgery ...",
+                  "url": "https://terrirossconsulting.com/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "facebook.com",
+                  "title": "Aesthetic Extender Symposium",
+                  "url": "https://www.facebook.com/AestheticExtenderSymposium/posts/calling-all-sponsors-already-planning-for-the-new-year-mark-your-calendars-for-a/1407128191316590/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "camaesthetics.ca",
+                  "title": "The Canadian Association of Medical Aesthetics",
+                  "url": "https://camaesthetics.ca/?srsltid=AfmBOoryISGJkUgnpZLWZYEbvNv4U4d3NUtPPbg-ryV40YcIoYSQUHcV&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "enpnetwork.com",
+                  "title": "ENP Network",
+                  "url": "https://www.enpnetwork.com/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "OVME, LLC",
+                  "title": "OVME | Medical Aesthetic Studios\u2013 OVME, LLC",
+                  "url": "https://ovme.com/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Franchise Sidekick",
+                  "title": "VIO Med Spa",
+                  "url": "https://www.franchisesidekick.com/brands/vio-med-spa?hsLang=en&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Smiley Aesthetics",
+                  "title": "Smiley Aesthetics | Premier Aesthetic and Wellness Services",
+                  "url": "https://smileyaesthetics.com/?utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "model_slug": "gpt-5",
+          "parent_id": "ef2c2789-1d1b-4349-b6cb-61a82a7c7c44",
+          "search_result_groups": [
+            {
+              "domain": "facebook.com",
+              "entries": [
+                {
+                  "attribution": "facebook.com",
+                  "snippet": "Aesthetic Extender Symposium is at The Boca Raton. Aug 10 ... Terri Ross Consulting. \udb85\ude76. Follow.",
+                  "title": "That's a wrap on AES 2025! \ud83c\udf89Same place ...",
+                  "url": "https://www.facebook.com/AestheticExtenderSymposium/posts/thats-a-wrap-on-aes-2025-same-place-same-energy-aes-2026-is-coming-back-to-thebo/1324445192918224/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "facebook.com",
+                  "snippet": "Sep 11, 2025 \u2014 Live on stage @gorgeous_bygeorge demonstrated advanced injectable techniques designed to deliver results as unique as each patient.",
+                  "title": "Aesthetic Extender Symposium",
+                  "url": "https://www.facebook.com/100060582683756/photos/1352865463409530/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "facebook.com",
+                  "snippet": "In the meantime, I invite you to join my FREE Facebook Group -- Aesthetic Insights with Terri Ross -- and watch the role playing training video ...",
+                  "title": "Are you converting 70% of your consultations into booked ...",
+                  "url": "https://www.facebook.com/terrirossconsulting/videos/role-playing-sales-training-in-aesthetic-medical-practices/769527464010399/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "facebook.com",
+                  "snippet": "In this episode, I'm breaking down: \u2714\ufe0f The truth behind the 17% drop in patient spending\u2014and how to pivot \u2714\ufe0f Why treatment plans are essential for ...",
+                  "title": "The aesthetic industry is down 17%, the economy is shifting ...",
+                  "url": "https://www.facebook.com/terrirossconsulting/videos/the-aesthetic-industry-is-down-17-the-economy-is-shifting-and-patients-are-pulli/1311428676801683/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "facebook.com",
+                  "snippet": "To assist NPs in the practice of Medical Aesthetics to access important practice information and network with other nurse practitioners in the field.",
+                  "title": "NPs in Medical Aesthetics | Kleinburg ON",
+                  "url": "https://www.facebook.com/NPmedicalaesthetics/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "facebook.com",
+                  "snippet": "Welcome to Smiley Aesthetics Training! We are a premier training facility where we specialize in teaching the next generation of aesthetic professionals.",
+                  "title": "Smiley Aesthetics Training Facility | Nashville TN",
+                  "url": "https://www.facebook.com/smileyaestheticstraining/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "facebook.com",
+                  "snippet": "Canadian Association of Medical Aesthetics. CAMA is the only Aesthetic Academy with courses certified by the Canadian Nurses Association (CNA).",
+                  "title": "Canadian Association of Medical Aesthetics",
+                  "url": "https://www.facebook.com/CAMedAesthetics/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "facebook.com",
+                  "snippet": "Join \ud835\udc12\ud835\udc26\ud835\udc22\ud835\udc25\ud835\udc1e\ud835\udc32 \ud835\udc00\ud835\udc1e\ud835\udc2c\ud835\udc2d\ud835\udc21\ud835\udc1e\ud835\udc2d\ud835\udc22\ud835\udc1c\ud835\udc2c' \ud835\udc01\ud835\udc28\ud835\udc2d\ud835\udc28\ud835\udc31 & \ud835\udc05\ud835\udc22\ud835\udc25\ud835\udc25\ud835\udc1e\ud835\udc2b \ud835\udc13\ud835\udc2b\ud835\udc1a\ud835\udc22\ud835\udc27\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc1a\ud835\udc27\ud835\udc1d \ud835\udc2c\ud835\udc2d\ud835\udc1a\ud835\udc2b\ud835\udc2d \ud835\udc1b\ud835\udc2e\ud835\udc22\ud835\udc25\ud835\udc1d\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc2c\ud835\udc24\ud835\udc22\ud835\udc25\ud835\udc25\ud835\udc2c, \ud835\udc1c\ud835\udc28\ud835\udc27\ud835\udc1f\ud835\udc22\ud835\udc1d\ud835\udc1e\ud835\udc27\ud835\udc1c\ud835\udc1e, \ud835\udc1a\ud835\udc27\ud835\udc1d \ud835\udc1a \ud835\udc29\ud835\udc2b\ud835\udc28\ud835\udc1f\ud835\udc22\ud835\udc2d\ud835\udc1a\ud835\udc1b\ud835\udc25\ud835\udc1e \ud835\udc27\ud835\udc1e\ud835\udc30 \ud835\udc2c\ud835\udc29\ud835\udc1e\ud835\udc1c\ud835\udc22\ud835\udc1a\ud835\udc25\ud835\udc2d\ud835\udc32 \ud83d\udccd Nashville, TN \u2022 ...",
+                  "title": "\ud835\udc01\ud835\udc2e\ud835\udc2b\ud835\udc27\ud835\udc1e\ud835\udc1d \ud835\udc28\ud835\udc2e\ud835\udc2d \ud835\udc28\ud835\udc27 \ud835\udc21\ud835\udc28\ud835\udc2c\ud835\udc29\ud835\udc22\ud835\udc2d\ud835\udc1a\ud835\udc25 \ud835\udc2c\ud835\udc21\ud835\udc22\ud835\udc1f\ud835\udc2d\ud835\udc2c ...",
+                  "url": "https://www.facebook.com/smileyaestheticstraining/videos/reserve-your-spot/820219007322032/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "smileyaesthetics.com",
+              "entries": [
+                {
+                  "attribution": "smileyaesthetics.com",
+                  "snippet": "Smiley Aesthetics offers hands-on training in Basic Botox/Dermal Fillers, Advanced Aesthetic, and Microneedling, with pre-class lectures and Q&A sessions.",
+                  "title": "Get the training you need to begin your injecting journey!",
+                  "url": "https://smileyaesthetics.com/training/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "smileyaesthetics.com",
+                  "snippet": "Smiley Aesthetics offers training in Botox, dermal fillers, microneedling, advanced techniques, and basic training for medical professionals.",
+                  "title": "Elevate Your Aesthetic Career with ...",
+                  "url": "https://smileyaesthetics.com/blog/elevate-your-aesthetic-career-with-smiley-aesthetics-comprehensive-training-programs/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "caam.ca",
+              "entries": [
+                {
+                  "attribution": "caam.ca",
+                  "snippet": "The CAAM Board of Directors has made the difficult decision to cease operations and dissolve the Association, effective immediately.",
+                  "title": "Canadian Association of Aesthetic Medicine \u2013 CAAM",
+                  "url": "https://caam.ca/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "seamlesshealth.ca",
+              "entries": [
+                {
+                  "attribution": "seamlesshealth.ca",
+                  "snippet": "Sep 5, 2025 \u2014 To become a medical aesthetics nurse in Canada, you need to be a licensed nurse, pass the NCLEX-RN, and complete accredited aesthetic training.",
+                  "title": "How to Become a Medical Aesthetics Nurse in Canada",
+                  "url": "https://www.seamlesshealth.ca/post/how-to-become-a-medical-aesthetics-nurse-in-canada-a-step-by-step-guide?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "ovme.com",
+              "entries": [
+                {
+                  "attribution": "ovme.com",
+                  "snippet": "Learn more about OVME and our commitment to providing top-tier medical aesthetics. Discover our story and what makes us unique.",
+                  "title": "About Us | OVME Medical Aesthetic Studios",
+                  "url": "https://ovme.com/pages/about-us?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "ovme.com",
+                  "snippet": "Membership includes up to 20% off, rollover credits, weekly B12 shots, birthday credits, personalized treatments, and costs $99/month.",
+                  "title": "Membership | OVME Medical Aesthetic Studios",
+                  "url": "https://ovme.com/pages/membership?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "ovme.com",
+                  "snippet": "1. Create an account using this link and book your first appointment. Your friend will automatically be tagged as the person that referred you. 2. After you ...",
+                  "title": "ovme - Online Booking - Referral",
+                  "url": "https://studios.ovme.com/webstoreNew/referral?share_id=Dana0853&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "ovme.com",
+                  "snippet": "A copy of the Official Rules are also available at giveaway rules link. All such requests must be received within four (4) weeks after the end of the Giveaway.",
+                  "title": "OVME - OFFICIAL GIVEAWAY RULES",
+                  "url": "https://ovme.com/pages/ovme-official-giveaway-rules?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "ovme.com",
+                  "snippet": "Dec 2, 2024 \u2014 Review OVME's Privacy Policy. Learn how we protect your personal information and ensure your privacy while you enjoy our services.",
+                  "title": "Privacy Policy | OVME Medical Aesthetic Studios",
+                  "url": "https://ovme.com/pages/privacy-policy?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "instagram.com",
+              "entries": [
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "... Event for Aesthetic Professionals. \ud83c\udf9f\ufe0f Tickets are going fast secure yours via link in bio. #AestheticConference #MedicalAesthetics #PracticeGrowth ...",
+                  "title": "Terri Ross Consulting (@terrirossconsulting)",
+                  "url": "https://www.instagram.com/terrirossconsulting/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "Upcoming Training Dates are here!\u2060 Whether you're ready to refine your injecting skills or get hands-on with microneedling, our trainings are designed to ...",
+                  "title": "Training (@smileyaesthetics_training)",
+                  "url": "https://www.instagram.com/smileyaesthetics_training/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "December aesthetics training is open for registration!\u2060 \u2060 Whether you're just getting started or levelling up advanced techniques, our hands-on courses go ...",
+                  "title": "Canadian Association of Medical Aesthetics \ud83c\udde8\ud83c\udde6\ud83c\uddfa\ud83c\uddf8 ...",
+                  "url": "https://www.instagram.com/camedaesthetics/?hl=en&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "instagram.com",
+                  "snippet": "Atlanta nurses interested in aesthetics! We're coming for you! Our next accredited training is Friday April 5th. But don't worry - we'll be ...",
+                  "title": "SMILEY AESTHETICS - Training | Atlanta nurses interested in ...",
+                  "url": "https://www.instagram.com/reel/C5WKNhmrJE4/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "enpnetwork.com",
+              "entries": [
+                {
+                  "attribution": "enpnetwork.com",
+                  "snippet": "ENP Network connects nurse practitioners with the latest industry news, announcements, upcoming events and exciting career opportunities.",
+                  "title": "About ENP Network",
+                  "url": "https://www.enpnetwork.com/about?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "enpnetwork.com",
+                  "snippet": "Contact Us. We Would Love to Hear From You. We will respond as quickly as possible, and almost always in less than 24 hours.",
+                  "title": "Contact Us",
+                  "url": "https://www.enpnetwork.com/contact?contact%5Bmessage%5D=I+need+help+with+finding+or+validating+my+NPI+number+on+https%3A%2F%2Fwww.enpnetwork.com%2Fnurse-practitioner-jobs%2F826442-nurse-practitioner-aesthetics-75-hr-145-hr-%2Fapply&utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "camaesthetics.ca",
+              "entries": [
+                {
+                  "attribution": "camaesthetics.ca",
+                  "snippet": "CAMA is Canada's leader in hands-on, physician- and nurse-focused medical aesthetics training. From foundational techniques to advanced procedures,",
+                  "title": "Canada's Leading Medical Aesthetics Training - CAMA",
+                  "url": "https://camaesthetics.ca/?srsltid=AfmBOoqrNKL22TE6qULyTdIZkv-mvgD24QX2rBn9jM1bWRrmB9whLGim&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "camaesthetics.ca",
+                  "snippet": "CAMA is a premier educational institution advancing non-surgical aesthetics in Canada, the first to establish a standardized formal foundation.",
+                  "title": "About the Canadian Association of Medical Aesthetics",
+                  "url": "https://camaesthetics.ca/about/?srsltid=AfmBOor5e_x4dsvjJhZlNQ3xzu8cEt6xgYxLNf8vahW5srWFhuyqN4uQ&utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "camaesthetics.ca",
+                  "snippet": "CAMA offers industry-leading medical aesthetics courses designed for licensed physicians, nurses, and healthcare professionals across Canada.",
+                  "title": "Medical Aesthetics Courses | CAMA",
+                  "url": "https://camaesthetics.ca/courses/?srsltid=AfmBOorcacro7OSH8oNeM8MtEqHYeX7HaDq0XuqMCy-GyehtjFTghk5f&utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "gcaesthetics.ca",
+              "entries": [
+                {
+                  "attribution": "gcaesthetics.ca",
+                  "snippet": "To become a cosmetic nurse in Canada, you need a BSN, pass the NCLEX, get RN license, specialized cosmetic certifications, and gain hands-on experience.",
+                  "title": "How To Become a Cosmetic Nurse in Canada: Step-by-Step",
+                  "url": "https://gcaesthetics.ca/how-to-become-cosmetic-nurse/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "4ssummit.com",
+              "entries": [
+                {
+                  "attribution": "4ssummit.com",
+                  "snippet": "Terri Ross is a prominent figure in the business and aesthetic industry, known for her expertise as a practice growth consultant and a highly sought-after ...",
+                  "title": "Terri Ross: Boosting Aesthetic Practices",
+                  "url": "https://4ssummit.com/terri-ross/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "camacs.ca",
+              "entries": [
+                {
+                  "attribution": "camacs.ca",
+                  "snippet": "CAMACS is a not-for-profit organization promoting safety and quality in aesthetic medicine, also known as Canadian Association of Medical Aesthetic Clinics and ...",
+                  "title": "About Us",
+                  "url": "https://www.camacs.ca/about-us?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "camacs.ca",
+                  "snippet": "Canadian Association of Medical Spas & Aesthetic Surgeons promotes safety and quality standards in the field of professional skincare throughout Canada.",
+                  "title": "Canadian Association of Medical Spas & Aesthetic Surgeons",
+                  "url": "https://www.camacs.ca/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "americanmedspa.org",
+              "entries": [
+                {
+                  "attribution": "americanmedspa.org",
+                  "snippet": "AmSpa members have a variety of ways to get in touch with like-minded medical spa professionals. Find your people. Build your network.",
+                  "title": "American Med Spa Association: Home",
+                  "url": "https://connect.americanmedspa.org/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "cannn.ca",
+              "entries": [
+                {
+                  "attribution": "cannn.ca",
+                  "snippet": "Dec 2, 2024 \u2014 Medical aesthetic services are the provision of specialized elective non-surgical clinical procedures for the purpose of cosmetic treatment.",
+                  "title": "Medical Aesthetics",
+                  "url": "https://cannn.ca/wp-content/uploads/2024/12/Medical-Aesthetics-CANNN.pdf?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "wheree.com",
+              "entries": [
+                {
+                  "attribution": "wheree.com",
+                  "snippet": "Smiley Aesthetics Training Facility and Med Spa is a reputable center located in Nashville, TN, specializing in aesthetics training and med spa services.",
+                  "title": "Smiley Aesthetics Training Facility and Med Spa - Reviews ...",
+                  "url": "https://smiley-aesthetics-training-facility-and-med-spa.wheree.com/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "bbb.org",
+              "entries": [
+                {
+                  "attribution": "bbb.org",
+                  "snippet": "Own this business? Canadian Association Of Medical Aesthetics. 350 - 1550 South Gateway Rd. Mississauga, ON L4W 5G6. Get Directions ...",
+                  "title": "Canadian Association Of Medical Aesthetics",
+                  "url": "https://www.bbb.org/ca/on/mississauga/profile/medical-supplies/canadian-association-of-medical-aesthetics-0107-1393739?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "indeed.com",
+              "entries": [
+                {
+                  "attribution": "indeed.com",
+                  "snippet": "Mar 28, 2025 \u2014 Aesthetic nursing roles require you to be a registered nurse (RN), nurse practitioner (NP), or registered practical nurse (RPN), depending on ...",
+                  "title": "How to Become an Aesthetic Nurse (With Skills and FAQs)",
+                  "url": "https://ca.indeed.com/career-advice/finding-a-job/how-to-become-aesthetic-nurse?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "terrirossconsulting.com",
+              "entries": [
+                {
+                  "attribution": "terrirossconsulting.com",
+                  "snippet": "Terri Ross is available to speak at medical and aesthetic industry conferences, business summits, and corporate sales and leadership meetings.",
+                  "title": "Aesthetics Industry Speaking Engagements",
+                  "url": "https://terrirossconsulting.com/medical-consultant/speaking-engagements/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "nursingcenter.com",
+              "entries": [
+                {
+                  "attribution": "nursingcenter.com",
+                  "snippet": "The CSASN is formally recognized as a specialty network group by the Canadian Nurses Association (CNA). The CNA accepted the guidelines and standards in 2018.",
+                  "title": "Evidence-Based Education Is Essential in Medical ...",
+                  "url": "https://www.nursingcenter.com/journalarticle?Article_ID=5636554&Issue_ID=5636527&Journal_ID=496448&utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "apple.com",
+              "entries": [
+                {
+                  "attribution": "apple.com",
+                  "snippet": "Welcome to OVME, where we're on a mission to partner with our clients along the joyous journey of life, and make the beauty industry take notice.",
+                  "title": "OVME on the App Store",
+                  "url": "https://apps.apple.com/us/app/ovme/id1554488713?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "42410c38-9f31-4d3c-8944-626d138c13fc"
+    },
+    "0ac184bb-74a2-467e-b547-8815e1a4995c": {
+      "id": "0ac184bb-74a2-467e-b547-8815e1a4995c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Secure today\u2019s discounted AIA pricing before the 2026 increase and enjoy guaranteed savings for 24 months \n\nlocked in exclusively for VIO Med Spa through 2027."
+          ]
+        },
+        "create_time": 1762895126.321,
+        "id": "0ac184bb-74a2-467e-b547-8815e1a4995c",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "061862e9-d81c-4b36-be8c-b776384993b0"
+    },
+    "42410c38-9f31-4d3c-8944-626d138c13fc": {
+      "id": "42410c38-9f31-4d3c-8944-626d138c13fc",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "TERI ROSS CONSULTANT, aesthetic Extender Symposium: Erin Corrales, (AES), Canadian Association of Medical Aesthetics, ENP Network, epa AND RN NETWORK, FRANCHICES. OVME, SMILEY, TRAINERS THAT DONT HAVE ANY PRECURSER TRAINING FOR THEIR PEOPLE, Olivia Solomon  take this list and make it all reuglar caped and list the links to the companies"
+          ]
+        },
+        "create_time": 1762898234.403,
+        "id": "42410c38-9f31-4d3c-8944-626d138c13fc",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "ccf644da-16e6-4e94-ae4f-cc9c06c4dc9d"
+    },
+    "55a3eb79-4fec-432d-8f94-58c664ae48b1": {
+      "id": "55a3eb79-4fec-432d-8f94-58c664ae48b1",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "**Disclaimer:** AIA pricing is scheduled to increase in 2026. However, with a signed agreement, your discounted rate will be locked in exclusively for VIO Med Spa for 24 months (through 2027)."
+          ]
+        },
+        "create_time": 1762895026.625992,
+        "id": "55a3eb79-4fec-432d-8f94-58c664ae48b1",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "56be2fcb-c72d-4e2a-b6eb-2e69f8aea415"
+        }
+      },
+      "parent": "d3a0fec5-8241-4fb9-a547-eefd6b75d2b2"
+    },
+    "9cfd79de-f24c-4784-b76e-31a01e6d3126": {
+      "id": "9cfd79de-f24c-4784-b76e-31a01e6d3126",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Secure today\u2019s discounted AIA pricing before the 2026 increase, and enjoy guaranteed savings for 24 months\u2014locked in exclusively for VIO Med Spa through 2027."
+          ]
+        },
+        "create_time": 1762895127.092936,
+        "id": "9cfd79de-f24c-4784-b76e-31a01e6d3126",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "0ac184bb-74a2-467e-b547-8815e1a4995c"
+        }
+      },
+      "parent": "0ac184bb-74a2-467e-b547-8815e1a4995c"
+    },
+    "ccf644da-16e6-4e94-ae4f-cc9c06c4dc9d": {
+      "id": "ccf644da-16e6-4e94-ae4f-cc9c06c4dc9d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Secure today\u2019s discounted AIA pricing before the 2026 increase, and enjoy guaranteed savings for 24 months, locked in exclusively for VIO Med Spa through 2027."
+          ]
+        },
+        "create_time": 1762895135.577262,
+        "id": "ccf644da-16e6-4e94-ae4f-cc9c06c4dc9d",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "fb619521-e704-4deb-8ef0-855e0705c2e0"
+        }
+      },
+      "parent": "fb619521-e704-4deb-8ef0-855e0705c2e0"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "d0ebca4d-9b7c-44e7-a546-a2647eb82d6d": {
+      "id": "d0ebca4d-9b7c-44e7-a546-a2647eb82d6d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "turn this into proper grammer not a runon senance : "
+          ]
+        },
+        "create_time": 1762895123.845,
+        "id": "d0ebca4d-9b7c-44e7-a546-a2647eb82d6d",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "d5d193ba-e4bb-480b-bf80-cf24ed79459b"
+    },
+    "d3a0fec5-8241-4fb9-a547-eefd6b75d2b2": {
+      "id": "d3a0fec5-8241-4fb9-a547-eefd6b75d2b2",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Tracy Olson, Owner Youthtopia Med Spa / AIA\r\n15:02:54\r\nBut I think it should be clear\r\nTracy Olson, Owner Youthtopia Med Spa / AIA\r\n15:02:57\r\nlike, maybe make a disclaimer. AIA's pricing will be going up in 2026.\r\nTracy Olson, Owner Youthtopia Med Spa / AIA\r\n15:03:03\r\nBut with the signed agreement,\r\nTracy Olson, Owner Youthtopia Med Spa / AIA\r\n15:03:06\r\nWe will guarantee these discounted pricing\r\nTracy Olson, Owner Youthtopia Med Spa / AIA\r\n15:03:10\r\nFor\u2026 for 24 months, or for 2 years. You know, I just wanted to be like, hey, we're going up in price.\r\nTracy Olson, Owner Youthtopia Med Spa / AIA\r\n15:03:16\r\nBut I will honor this pricing for you only.\r\nTracy Olson, Owner Youthtopia Med Spa / AIA\r\n15:03:19\r\nThis exclusive offer for BIO.\r\nTracy Olson, Owner Youthtopia Med Spa / AIA\r\n15:03:22\r\nThis unique opportunity for VIO\r\nTracy Olson, Owner Youthtopia Med Spa / AIA\r\n15:03:25\r\nto continue the savings.\r\nthrough 2027.       make this a disclaimer shorter"
+          ]
+        },
+        "create_time": 1762895025.17,
+        "id": "d3a0fec5-8241-4fb9-a547-eefd6b75d2b2",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "d5d193ba-e4bb-480b-bf80-cf24ed79459b": {
+      "id": "d5d193ba-e4bb-480b-bf80-cf24ed79459b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "**Exclusive Benefit:** Secure today\u2019s discounted AIA pricing before the 2026 increase and enjoy guaranteed savings for 24 months\u2014locked in exclusively for VIO Med Spa through 2027."
+          ]
+        },
+        "create_time": 1762895039.312792,
+        "id": "d5d193ba-e4bb-480b-bf80-cf24ed79459b",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "f0c36fe8-b7bc-4fbb-913b-edaec17073ba"
+        }
+      },
+      "parent": "e6c43c28-1882-4855-b7db-d9b49a0664cc"
+    },
+    "e6c43c28-1882-4855-b7db-d9b49a0664cc": {
+      "id": "e6c43c28-1882-4855-b7db-d9b49a0664cc",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "make it more of abeneift"
+          ]
+        },
+        "create_time": 1762895038.888,
+        "id": "e6c43c28-1882-4855-b7db-d9b49a0664cc",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "55a3eb79-4fec-432d-8f94-58c664ae48b1"
+    },
+    "fb619521-e704-4deb-8ef0-855e0705c2e0": {
+      "id": "fb619521-e704-4deb-8ef0-855e0705c2e0",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "no emdashes"
+          ]
+        },
+        "create_time": 1762895135.196,
+        "id": "fb619521-e704-4deb-8ef0-855e0705c2e0",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "9cfd79de-f24c-4784-b76e-31a01e6d3126"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Disclaimer revision",
+  "update_time": 1762898598.528829,
+  "voice": null
+}

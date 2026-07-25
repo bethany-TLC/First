@@ -1,0 +1,118 @@
+{
+  "conversation_id": "68d9782a-fa4c-832f-99d4-7c5b26eb34f5",
+  "conversation_template_id": null,
+  "create_time": 1759082599.194014,
+  "current_node": "37a77a1a-04f0-417e-8387-a222fe6bf89c",
+  "default_model_slug": "gpt-5",
+  "id": "68d9782a-fa4c-832f-99d4-7c5b26eb34f5",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "2b6f4eae-56e6-42b2-bc9b-493d56c076d7": {
+      "id": "2b6f4eae-56e6-42b2-bc9b-493d56c076d7",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a Facebook post draft you can use (or tweak) to share your business and podcast with friends and family:  \n\n---\n\n\u2728 Hey friends & fam \u2728  \n\nYou all know I usually keep business and personal life pretty separate\u2026 but today I\u2019d love your support with something that means a lot to me.  \n\nOver the past year, I\u2019ve been building **my business and podcast, The Aesthetic & Wellness Edge**, where I get to sit down with leaders in aesthetics, health, and wellness to share real stories, strategies, and inspiration for growth. \ud83c\udf99\ufe0f\ud83d\udca1  \n\nThis project has been a huge passion of mine, and one of the best ways you can help me grow it is simple:  \n\ud83d\udc49 Subscribe to the channel  \n\ud83d\udc49 Share it with someone you know who\u2019d enjoy it  \n\ud83d\udc49 Engage with a post or two so it reaches more people  \n\nYour support not only helps me, but it also opens doors for new conversations, collaborations, and opportunities within my circle. Networking through friends and family means the world. \ud83d\udc9b  \n\nHere\u2019s the link: [insert your podcast/YouTube link]  \n\nThank you for cheering me on \u2014 I couldn\u2019t do this without my people. \ud83d\ude4f  \n\n---\n\nDo you want me to also create a shorter, more casual version that feels \u201cscroll-friendly\u201d for Facebook?"
+          ]
+        },
+        "create_time": 1759082599.060241,
+        "id": "2b6f4eae-56e6-42b2-bc9b-493d56c076d7",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "fb11f67c-ffb6-4429-a03a-7b206527d2f2"
+        }
+      },
+      "parent": "b50d8d89-e356-45dd-89e8-c4373c35bac7"
+    },
+    "37a77a1a-04f0-417e-8387-a222fe6bf89c": {
+      "id": "37a77a1a-04f0-417e-8387-a222fe6bf89c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Got it! Here\u2019s a polished Facebook post that weaves in **New Era Intel** and explains what you\u2019re building alongside your podcast:  \n\n---\n\n\u2728 Hey friends & fam \u2728  \n\nYou all know I usually keep business and personal life pretty separate\u2026 but today I\u2019d love your support with something that means a lot to me.  \n\nOver the past year, I\u2019ve been building **New Era Intel** ([www.neweraintel.com](http://www.neweraintel.com)) \u2014 my growth consultancy that helps medical spas, dermatology clinics, and wellness practices scale smarter, not harder. I focus on AI-powered lead generation, retention systems, and operational strategies to help these businesses thrive and even prepare for eventual exit opportunities. \ud83d\ude80  \n\nAt the same time, I launched **my podcast, The Aesthetic & Wellness Edge**, where I sit down with industry leaders to share real stories, strategies, and insights that are shaping the future of aesthetics and wellness. \ud83c\udf99\ufe0f  \n\nThis project has been such a passion for me, and one of the best ways you can help me grow it is simple:  \n\ud83d\udc49 Subscribe to the channel  \n\ud83d\udc49 Share it with someone you know who\u2019d enjoy it  \n\ud83d\udc49 Engage with a post or two so it reaches more people  \n\nYour support not only helps me, but it also opens doors for new conversations, collaborations, and opportunities within my circle. Networking through friends and family means the world. \ud83d\udc9b  \n\nHere\u2019s the link: [insert your podcast/YouTube link]  \n\nThanks for cheering me on \u2014 I couldn\u2019t do this without my people. \ud83d\ude4f  \n\n---  \n\nDo you want me to make this sound more **professional/LinkedIn-style** or keep it **personal/friendly for Facebook**?"
+          ]
+        },
+        "create_time": 1759082640.58327,
+        "id": "37a77a1a-04f0-417e-8387-a222fe6bf89c",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "991a4a7a-8021-49c3-a717-d4004c1fa2ac"
+        }
+      },
+      "parent": "991a4a7a-8021-49c3-a717-d4004c1fa2ac"
+    },
+    "991a4a7a-8021-49c3-a717-d4004c1fa2ac": {
+      "id": "991a4a7a-8021-49c3-a717-d4004c1fa2ac",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "add in my businessL New Era Intel www.newearintel.com and explain what im doing wit that"
+          ]
+        },
+        "create_time": 1759082639.737,
+        "id": "991a4a7a-8021-49c3-a717-d4004c1fa2ac",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "2b6f4eae-56e6-42b2-bc9b-493d56c076d7"
+    },
+    "b50d8d89-e356-45dd-89e8-c4373c35bac7": {
+      "id": "b50d8d89-e356-45dd-89e8-c4373c35bac7",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "wrtie  fb post about sharing my business and pdcast. asking my friedns and famity to help me spread the word and subscibe to channel. let them know i usualy dont mix bsuiness with persaonal but  id lovet he support and abiity to network within my circle"
+          ]
+        },
+        "create_time": 1759082598.061,
+        "id": "b50d8d89-e356-45dd-89e8-c4373c35bac7",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Fb post draft creation",
+  "update_time": 1759082674.280979,
+  "voice": null
+}

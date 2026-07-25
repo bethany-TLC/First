@@ -1,0 +1,72 @@
+{
+  "conversation_id": "68c378fc-9cb8-832a-9021-5eef8a4af4b3",
+  "conversation_template_id": "g-nA8tYUnMP",
+  "create_time": 1757640958.028384,
+  "current_node": "d7b6a467-1414-43b3-915d-5662c174b7b4",
+  "default_model_slug": "gpt-4o",
+  "id": "68c378fc-9cb8-832a-9021-5eef8a4af4b3",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "436d7540-c88b-427e-9a49-0aee2d0249d8": {
+      "id": "436d7540-c88b-427e-9a49-0aee2d0249d8",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "what does this mean: Capital Efficiency at $158 daily"
+          ]
+        },
+        "create_time": 1757640956.216,
+        "id": "436d7540-c88b-427e-9a49-0aee2d0249d8",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "d7b6a467-1414-43b3-915d-5662c174b7b4": {
+      "id": "d7b6a467-1414-43b3-915d-5662c174b7b4",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "\u201c**Capital Efficiency at $158 daily**\u201d means that your business is generating a certain **return per day** in relation to **capital spent** (e.g., on ads or operations), and in this case, that efficiency number is **$158 per day**.\n\nLet's break this down in **Alex Hormozi / $100M Offers / $100M Leads** terms:\n\n---\n\n### \ud83d\udca1 In context of Hormozi's teachings:\nHormozi often talks about **how much you can afford to spend to acquire a customer** (CAC) and how quickly you can get your **cash collected upfront** to recoup ad spend.\n\n\u201cCapital efficiency\u201d is another way of saying:\n\n> **How effectively are you turning your investment (capital) into revenue/profit \u2014 and how fast?**\n\nSo, if you're saying your **capital efficiency is $158/day**, that could mean:\n\n- You\u2019re generating **$158/day in profit** for each unit of capital deployed (e.g., ad budget or operational spend).\n- Or your customer acquisition system (ads, funnels, sales) is bringing in that much **net positive cash flow per day** after spend.\n- Alternatively, it could represent how **quickly** you're recovering capital and stacking profit \u2014 a key concept in Hormozi\u2019s **\"Get paid to acquire customers\"** strategy.\n\n---\n\n### \ud83e\udde0 How Hormozi would think about improving that number:\nHormozi would ask:\n\n1. **How fast are you getting cash in?**\n   - The faster the cash collected vs. the ad spend, the better your capital efficiency.\n   - If it takes $1,000 in ad spend to collect $1,500 in upfront payments in 10 days, that\u2019s **$50/day capital efficiency** ($500 gain \u00f7 10 days).\n\n2. **What\u2019s your LTV:CAC ratio?**\n   - If your average customer is worth $1,200 and it costs $300 to acquire one, that\u2019s 4:1 \u2014 healthy.\n   - The higher this ratio, the more \u201cefficient\u201d your capital is.\n\n3. **Can you increase cash collected on day one?**\n   - Add upsells\n   - Charge more\n   - Improve the offer so more people say yes\n   - Offer cash incentives for faster decision-making (e.g., same-day signup bonuses)\n\n4. **Can you decrease CAC while keeping LTV the same (or increasing it)?**\n   - That\u2019s where ad optimization and offer creation (from *$100M Leads*) come in.\n\n---\n\n### \ud83e\uddee Possible Interpretation as a KPI:\nIf you were using **capital efficiency** as a daily KPI, it might look like this:\n\n| Day       | Spend | Revenue | Profit | Capital Efficiency |\n|-----------|-------|---------|--------|--------------------|\n| Sept 10   | $500  | $658    | $158   | $158/day           |\n\nIn this case, you are **profit positive** by $158 on that day \u2014 and that\u2019s your capital efficiency for the day.\n\n---\n\n### \u2699\ufe0f TL;DR \u2013 What it means for you:\n**\u201cCapital Efficiency at $158 daily\u201d** = You're netting **$158 per day** from your deployed capital (ads, team, operations, etc.) \u2014 and in Hormozi's world, this is a **key metric** to monitor whether you\u2019re building a **cash-rich offer engine**.\n\n---\n\nIf you're tracking this for ad performance, funnel optimization, or offer validation, I can help you improve that number using Hormozi's frameworks. Let me know the offer, ad copy, or numbers you're working with."
+          ]
+        },
+        "create_time": 1757640957.982977,
+        "id": "d7b6a467-1414-43b3-915d-5662c174b7b4",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-4o",
+          "parent_id": "e70b3f64-726d-4ddb-977d-fc53dc34015d"
+        }
+      },
+      "parent": "436d7540-c88b-427e-9a49-0aee2d0249d8"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Capital efficiency meaning",
+  "update_time": 1757640996.525393,
+  "voice": null
+}

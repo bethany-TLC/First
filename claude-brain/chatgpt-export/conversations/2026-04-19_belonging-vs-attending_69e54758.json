@@ -1,0 +1,116 @@
+{
+  "conversation_id": "69e54758-fd6c-83ea-8333-b48c27c76a54",
+  "conversation_template_id": null,
+  "create_time": 1776633696.247977,
+  "current_node": "bad83997-5607-432e-9959-1c58eeb5722f",
+  "default_model_slug": "gpt-5-3",
+  "id": "69e54758-fd6c-83ea-8333-b48c27c76a54",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "5e4e1229-7966-401d-bef2-fd1757e8c7d5": {
+      "id": "5e4e1229-7966-401d-bef2-fd1757e8c7d5",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "\u201cThat\u2019s when everything shifts. That\u2019s when you go from just being there\u2026 to actually belonging.\u201d"
+          ]
+        },
+        "create_time": 1776633696.087156,
+        "id": "5e4e1229-7966-401d-bef2-fd1757e8c7d5",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "00b2c19e-633b-436b-bab1-645c65dd6851"
+        }
+      },
+      "parent": "bbb21c13-56f5-4ad7-89c4-6717ac334b9d"
+    },
+    "bad83997-5607-432e-9959-1c58eeb5722f": {
+      "id": "bad83997-5607-432e-9959-1c58eeb5722f",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "\u201cIf you\u2019re passively being an attendee, you are not going to feel connected. Learn to host or be actively involved. That\u2019s when everything shifts. That\u2019s when you go from just being there to actually belonging.\u201d"
+          ]
+        },
+        "create_time": 1776633721.641662,
+        "id": "bad83997-5607-432e-9959-1c58eeb5722f",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "bbb21e2e-159b-47f6-908c-e636e4eb3fff"
+        }
+      },
+      "parent": "bbb21e2e-159b-47f6-908c-e636e4eb3fff"
+    },
+    "bbb21c13-56f5-4ad7-89c4-6717ac334b9d": {
+      "id": "bbb21c13-56f5-4ad7-89c4-6717ac334b9d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Finish the what\" \u201cIf you\u2019re passively being an attendee, you are not going to feel connected\u201d \"Learn to host or be actively involved\" \"That's when ... What"
+          ]
+        },
+        "create_time": 1776633695.885782,
+        "id": "bbb21c13-56f5-4ad7-89c4-6717ac334b9d",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "d4431bf3-ab8a-40f5-bb21-362bfc6a85b2"
+    },
+    "bbb21e2e-159b-47f6-908c-e636e4eb3fff": {
+      "id": "bbb21e2e-159b-47f6-908c-e636e4eb3fff",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Put the whole thing together now"
+          ]
+        },
+        "create_time": 1776633721.341714,
+        "id": "bbb21e2e-159b-47f6-908c-e636e4eb3fff",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "5e4e1229-7966-401d-bef2-fd1757e8c7d5"
+    },
+    "d4431bf3-ab8a-40f5-bb21-362bfc6a85b2": {
+      "id": "d4431bf3-ab8a-40f5-bb21-362bfc6a85b2",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Belonging vs Attending",
+  "update_time": 1776633723.949228,
+  "voice": null
+}

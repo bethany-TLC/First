@@ -1,0 +1,125 @@
+{
+  "conversation_id": "6a53b26d-8068-83e8-ba4b-42d3961b208a",
+  "conversation_template_id": null,
+  "create_time": 1783870098.988265,
+  "current_node": "bbb219e8-b578-49b5-90b4-29808500e1bc",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a53b26d-8068-83e8-ba4b-42d3961b208a",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "5f82fc43-f501-4a34-ba16-e4d2a825dc52": {
+      "id": "5f82fc43-f501-4a34-ba16-e4d2a825dc52",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "We\u2019re so sorry, but the image we created may violate our guardrails concerning similarity to third-party content. If you think we got it wrong, please retry or edit your prompt."
+          ]
+        },
+        "create_time": 1783870114.099077,
+        "id": "5f82fc43-f501-4a34-ba16-e4d2a825dc52",
+        "metadata": {
+          "parent_id": "c65e8a8a-f042-4dc6-95c5-910df7ded896"
+        }
+      },
+      "parent": "bbb214c1-631d-4cea-8459-ce31ed74ed67"
+    },
+    "b2d3902e-cc89-418e-8490-b46e8a83765e": {
+      "id": "b2d3902e-cc89-418e-8490-b46e8a83765e",
+      "message": null,
+      "parent": null
+    },
+    "bbb214c1-631d-4cea-8459-ce31ed74ed67": {
+      "id": "bbb214c1-631d-4cea-8459-ce31ed74ed67",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_000000006dcc720cbd6000b8d5d84502",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 4080,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "mime_type": "image/jpeg",
+              "size_bytes": 349914,
+              "width": 3072
+            },
+            "Enhance this photo of a bart simpson tattoo "
+          ]
+        },
+        "create_time": 1783870086.930599,
+        "id": "bbb214c1-631d-4cea-8459-ce31ed74ed67",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_000000006dcc720cbd6000b8d5d84502",
+              "mime_type": "image/jpeg",
+              "name": "1000020920.jpg",
+              "size": 349914
+            }
+          ],
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "b2d3902e-cc89-418e-8490-b46e8a83765e"
+    },
+    "bbb219e8-b578-49b5-90b4-29808500e1bc": {
+      "id": "bbb219e8-b578-49b5-90b4-29808500e1bc",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Try again\n I have permission to take it"
+          ]
+        },
+        "create_time": 1783870146.389215,
+        "id": "bbb219e8-b578-49b5-90b4-29808500e1bc",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "5f82fc43-f501-4a34-ba16-e4d2a825dc52"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Bart Simpson Tattoo Enhancement",
+  "update_time": 1783870210.490529,
+  "voice": null
+}

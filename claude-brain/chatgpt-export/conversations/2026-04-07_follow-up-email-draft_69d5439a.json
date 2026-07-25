@@ -1,0 +1,129 @@
+{
+  "conversation_id": "69d5439a-539c-8326-99dc-55c10ae30741",
+  "conversation_template_id": null,
+  "create_time": 1775584158.611824,
+  "current_node": "fed1d4b0-4b4d-40a0-adaf-b4af86a5104d",
+  "default_model_slug": "gpt-5-3",
+  "id": "69d5439a-539c-8326-99dc-55c10ae30741",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "27a65228-9865-41ac-8306-3b50eeb34bee": {
+      "id": "27a65228-9865-41ac-8306-3b50eeb34bee",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "talk about how we aligned we seem to be with not just business but ethics. Add in that we would love to use them as our go to buyer and intergrrate it into our deliverables. and also be Ezer Health's go to grwoth partners fo these medspas that need to grow more in order to be considered and also we can help grow their already aquired spas"
+          ]
+        },
+        "create_time": 1775584261.339,
+        "id": "27a65228-9865-41ac-8306-3b50eeb34bee",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "af126073-cd48-41dc-93f5-ce1d99df766e"
+    },
+    "43e53b1c-97d1-40e8-b5b0-58472fb5178b": {
+      "id": "43e53b1c-97d1-40e8-b5b0-58472fb5178b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "please write a follow emai lto Tianna and let her know we would love to set up another call with her hubby and my partner Eric Hern. : "
+          ]
+        },
+        "create_time": 1775584158.116,
+        "id": "43e53b1c-97d1-40e8-b5b0-58472fb5178b",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_00000000afdc71fb9198ba7a073f43f7",
+              "is_big_paste": true,
+              "library_file_id": "libfile_847b6f2c5f188191b1ccb272b90528b0",
+              "mime_type": "text/plain",
+              "name": "Pasted text.txt",
+              "size": 45713,
+              "source": "local"
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "af126073-cd48-41dc-93f5-ce1d99df766e": {
+      "id": "af126073-cd48-41dc-93f5-ce1d99df766e",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Subject: Let\u2019s Get Another Call Scheduled\n\nHi Tianna,\n\nIt was so great connecting with you. I really enjoyed our conversation and would love to keep the momentum going.\n\nI\u2019d love to set up another call with you, this time including your husband as well as my partner, Eric Hern. I think it would be really valuable for all of us to connect together, align on everything, and explore what this could look like moving forward.\n\nLet me know what your availability looks like over the next few days, and we\u2019ll coordinate a time that works best for everyone.\n\nLooking forward to it,\nBethany"
+          ]
+        },
+        "create_time": 1775584158.536883,
+        "id": "af126073-cd48-41dc-93f5-ce1d99df766e",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "2e127814-9226-4451-9656-1b82d3c21bdb"
+        }
+      },
+      "parent": "43e53b1c-97d1-40e8-b5b0-58472fb5178b"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "fed1d4b0-4b4d-40a0-adaf-b4af86a5104d": {
+      "id": "fed1d4b0-4b4d-40a0-adaf-b4af86a5104d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Subject: Excited About What We\u2019re Building Together\n\nHi Tianna,\n\nI\u2019ve been thinking about our conversation, and I just wanted to say how aligned it felt, not just from a business standpoint, but from an ethics and values perspective as well. That\u2019s something we don\u2019t take lightly, and it really stood out to me.\n\nWe would love to continue this conversation and bring your husband into the mix, along with my partner, Eric Hern, so we can all get on the same page and explore how we can build something meaningful together.\n\nFrom our side, we see a really strong opportunity to integrate you and your team as our go-to buyer within our ecosystem. As we work with med spas through our growth programs, having a trusted partner to guide acquisitions or next steps creates a ton of value for everyone involved.\n\nAt the same time, we would love to position ourselves as Ezer Health\u2019s go-to growth partner. Not only for med spas that need to scale and become viable acquisition opportunities, but also to help strengthen and grow the locations you\u2019ve already acquired. That combination of growth plus acquisition feels like a very powerful lane to build in together.\n\nLet me know what your availability looks like, and we\u2019ll coordinate a time that works for everyone.\n\nLooking forward to continuing this,\nBethany"
+          ]
+        },
+        "create_time": 1775584261.865767,
+        "id": "fed1d4b0-4b4d-40a0-adaf-b4af86a5104d",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "27a65228-9865-41ac-8306-3b50eeb34bee"
+        }
+      },
+      "parent": "27a65228-9865-41ac-8306-3b50eeb34bee"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Follow-up Email Draft",
+  "update_time": 1775584621.286669,
+  "voice": null
+}

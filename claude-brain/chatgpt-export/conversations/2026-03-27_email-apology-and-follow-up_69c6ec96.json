@@ -1,0 +1,72 @@
+{
+  "conversation_id": "69c6ec96-cae0-8333-9be8-a09be384aa76",
+  "conversation_template_id": null,
+  "create_time": 1774644425.091114,
+  "current_node": "3b97ab85-02eb-4dc0-967f-c664cc7889e8",
+  "default_model_slug": "gpt-5-3",
+  "id": "69c6ec96-cae0-8333-9be8-a09be384aa76",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "2c738396-cf5c-4bed-9110-1d4b05508224": {
+      "id": "2c738396-cf5c-4bed-9110-1d4b05508224",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "write an email saying so sorry for the late reply i had to go in for surgery that took me out for several weeks. and let her know yes i see those packages that she sent over and woudl love to jump on a follow up call from the secret shopper and go over anything she had questions about: \r\nBethany Gifford <bethany@theluxoracollective.co>\r\nAttachments\r\nSat, Mar 7, 10:02\u202fAM\r\nto Jennifer, Keisha\r\n\r\nHi Jen,\r\n\r\nFirst, thank you so much for welcoming us in and letting us film - it meant a lot and your space photographed beautifully.\r\n\r\nI wanted to send over a quick note alongside the Confidential Experience Assessment I put together for you. The report is an honest look at the full client experience at Allyn Aesthetics, from the first phone call to the in-clinic visit. It highlights what you are doing exceptionally well (and there is a lot), identifies a few gaps that are leaving real revenue on the table, and lays out exactly how The Luxora Collective could work alongside you to close them.\r\n\r\nThe big picture: you have an incredible foundation. The space, the team, the level of care - it is all there. What we see is an opportunity to build the business systems around it that match the quality of your services.\r\n\r\nI would love 20-30 minutes to walk you through it together. You can reply directly to this email or grab a time that works for you here: [BOOKING LINK]\r\n\r\nLooking forward to connecting, Jen.\r\n\r\nWarmly,\r\n\r\nimage.png\t\t\tBethany Anne\r\nCo-Founder | The Luxora Collective\r\nGrowth Partners for Med Spa Owners Ready to Scale\r\n\ud83d\udce7 bethany@theluxoracollective.co\r\n\ud83c\udf10 www.theluxoracollective.co\r\n\r\nimage.png  image.png  image.png\r\nWhen your med spa operates at its highest level,\r\n you create an impact that ripples through\r\n your entire community.\r\n One attachment\r\n  \u2022  Scanned by Gmail\r\n\r\nJennifer Allyn\r\nSun, Mar 8, 6:11\u202fPM\r\nto me, Keisha\r\n\r\nHi Bethany, \r\n\r\nI appreciate your time and assessment, though it is not entirely accurate. I encourage you to review our Targeted Treatment Plans and Treatment Multi-Packs to see that we are not actually operating on a one-off model. \r\n\r\nThanks, \r\n\r\nJen"
+          ]
+        },
+        "create_time": 1774644424.787,
+        "id": "2c738396-cf5c-4bed-9110-1d4b05508224",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "3b97ab85-02eb-4dc0-967f-c664cc7889e8": {
+      "id": "3b97ab85-02eb-4dc0-967f-c664cc7889e8",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ":::writing{variant=\"email\" id=\"48219\" subject=\"Re: Follow-Up & Next Steps\"}\nHi Jen,\n\nFirst, I am so sorry for the delayed response. I had to undergo surgery that unexpectedly took me out for a few weeks, but I am now back and getting caught up.\n\nThank you for your note, and I did take a look at the Targeted Treatment Plans and Treatment Multi-Packs you shared. I appreciate you pointing those out and would love to revisit everything with that additional context in mind.\n\nIf you are open to it, I would really value hopping on a quick follow-up call to walk through the Secret Shopper assessment together, answer any questions you have, and make sure we are aligned on what you are already doing well versus where we see opportunities to strengthen the system around it.\n\nLet me know what your schedule looks like, or feel free to grab a time that works best for you.\n\nLooking forward to reconnecting.\n\nWarmly,  \nBethany\n:::"
+          ]
+        },
+        "create_time": 1774644424.986014,
+        "id": "3b97ab85-02eb-4dc0-967f-c664cc7889e8",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "af4c63f9-9af4-424e-8173-e238f2126139"
+        }
+      },
+      "parent": "2c738396-cf5c-4bed-9110-1d4b05508224"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Email Apology and Follow-up",
+  "update_time": 1774644503.316978,
+  "voice": null
+}

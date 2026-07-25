@@ -1,0 +1,72 @@
+{
+  "conversation_id": "68a74d8e-b168-832c-9f26-039fa5f4dd92",
+  "conversation_template_id": null,
+  "create_time": 1755794854.280641,
+  "current_node": "d34043bb-a6ff-48ce-8429-c626ee2b2e0c",
+  "default_model_slug": "auto",
+  "id": "68a74d8e-b168-832c-9f26-039fa5f4dd92",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "d1d823b2-92a8-4d82-aba9-6e32508a6bde": {
+      "id": "d1d823b2-92a8-4d82-aba9-6e32508a6bde",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "write a post for my new business fb page that is showcaseing a video of a very happy customers reveiw\n\nPlease write in English language."
+          ]
+        },
+        "create_time": 1755794853.065,
+        "id": "d1d823b2-92a8-4d82-aba9-6e32508a6bde",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "d34043bb-a6ff-48ce-8429-c626ee2b2e0c": {
+      "id": "d34043bb-a6ff-48ce-8429-c626ee2b2e0c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a polished Facebook post you can use to showcase your happy customer\u2019s review video:  \n\n---\n\n\u2728 Nothing makes us happier than seeing our clients leave with a big smile! \u2728  \n\nWe\u2019re so grateful for [Customer\u2019s First Name] for sharing their amazing experience with us. \ud83d\udc99 Hearing how much they loved their results reminds us why we do what we do every single day.  \n\n\ud83c\udfa5 Check out this short video to hear their story in their own words \u2013 we couldn\u2019t be prouder!  \n\nThank you to all of our wonderful clients for trusting us with your care and confidence. \ud83d\udcab  \n\n\ud83d\udc49 Have you been thinking about [insert service/product]? Come see why our clients are raving about their experience!  \n\n---\n\nDo you want me to make it more **professional and polished** (like a med spa or clinic vibe) or more **fun and friendly** (like a lifestyle/wellness vibe)?"
+          ]
+        },
+        "create_time": 1755794853.464309,
+        "id": "d34043bb-a6ff-48ce-8429-c626ee2b2e0c",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "62868371-1946-476f-aeee-895bd217d4c2"
+        }
+      },
+      "parent": "d1d823b2-92a8-4d82-aba9-6e32508a6bde"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Post for customer review",
+  "update_time": 1755795181.04645,
+  "voice": null
+}

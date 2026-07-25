@@ -1,0 +1,72 @@
+{
+  "conversation_id": "6a29671b-d160-83e8-a4a5-3d538f93c579",
+  "conversation_template_id": null,
+  "create_time": 1781098269.916291,
+  "current_node": "75f47396-c792-47cc-8ff5-a24a3d750297",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a29671b-d160-83e8-a4a5-3d538f93c579",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "75f47396-c792-47cc-8ff5-a24a3d750297": {
+      "id": "75f47396-c792-47cc-8ff5-a24a3d750297",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "**The Luxora Collective** is an Aesthetic Growth Partner for med spa owners generating approximately $500K\u2013$2M+ annually who know they have untapped revenue but aren't sure where it's hiding.\n\nOur core offer starts with a **Revenue Leak Audit**, where we identify hidden opportunities inside the business that can often uncover **$50,000\u2013$500,000+ in additional annual revenue**. From there, we help implement the growth strategy through:\n\n- Patient acquisition and lead generation\n- Reactivation campaigns for past patients\n- Conversion and sales process optimization\n- Membership and retention strategies\n- Operational and revenue growth playbooks\n- AI and automation systems that improve follow-up and patient experience\n\nUnlike traditional marketing agencies, we focus on the entire revenue ecosystem\u2014not just generating leads. We help owners maximize the revenue they're already sitting on while creating sustainable growth systems.\n\n**Price Point:**  \nOur flagship implementation program is currently **$9,000 for a 90-day engagement**, with plans to increase pricing as we continue expanding our offer and results.\n\n**Ideal Client:**  \nEstablished med spa owners who want predictable growth, stronger profitability, better patient retention, and a clear path to scaling without simply increasing ad spend or adding more staff."
+          ]
+        },
+        "create_time": 1781098269.704078,
+        "id": "75f47396-c792-47cc-8ff5-a24a3d750297",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "e33239b4-283e-429d-bc33-34b21255fe8a"
+        }
+      },
+      "parent": "bbb2167b-3999-44a4-845b-a347b2a0040e"
+    },
+    "bbb2167b-3999-44a4-845b-a347b2a0040e": {
+      "id": "bbb2167b-3999-44a4-845b-a347b2a0040e",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Please briefly describe what your current offer is, who you serve, how you help them, your price point, etc *"
+          ]
+        },
+        "create_time": 1781098269.348729,
+        "id": "bbb2167b-3999-44a4-845b-a347b2a0040e",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "cf3b2922-ebf9-4ba4-ad6f-8b469118bbc9"
+    },
+    "cf3b2922-ebf9-4ba4-ad6f-8b469118bbc9": {
+      "id": "cf3b2922-ebf9-4ba4-ad6f-8b469118bbc9",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Med Spa Growth Strategy",
+  "update_time": 1781098289.039143,
+  "voice": null
+}

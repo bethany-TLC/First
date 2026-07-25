@@ -1,0 +1,72 @@
+{
+  "conversation_id": "6a1df948-e340-83e8-baa5-6b4c9c6719fe",
+  "conversation_template_id": null,
+  "create_time": 1780349265.293006,
+  "current_node": "992c2034-a28b-44bb-8f49-f608cd9e8d51",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a1df948-e340-83e8-baa5-6b4c9c6719fe",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "992c2034-a28b-44bb-8f49-f608cd9e8d51": {
+      "id": "992c2034-a28b-44bb-8f49-f608cd9e8d51",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Did you mean **circumvention**?\n\n**Circumvention** means finding a way around a rule, restriction, obstacle, or process rather than following it directly.\n\nExamples:\n- \"The company implemented safeguards to prevent the **circumvention** of security policies.\"\n- \"Using a proxy server was an attempt at **circumvention** of the network restrictions.\"\n\nIf you meant a different word (such as \"circumvention,\" \"circumstance,\" or something else), let me know and I'll help."
+          ]
+        },
+        "create_time": 1780349266.066359,
+        "id": "992c2034-a28b-44bb-8f49-f608cd9e8d51",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "2422704c-413d-4781-9866-6b69f0096319"
+        }
+      },
+      "parent": "e922a904-28d3-4ee5-af0a-75a70244ad10"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "e922a904-28d3-4ee5-af0a-75a70244ad10": {
+      "id": "e922a904-28d3-4ee5-af0a-75a70244ad10",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "circumvenson"
+          ]
+        },
+        "create_time": 1780349264.647,
+        "id": "e922a904-28d3-4ee5-af0a-75a70244ad10",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Circumvention clarification",
+  "update_time": 1780349270.203822,
+  "voice": null
+}

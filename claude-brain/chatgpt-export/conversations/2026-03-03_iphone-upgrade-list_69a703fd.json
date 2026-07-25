@@ -1,0 +1,356 @@
+{
+  "conversation_id": "69a703fd-96a0-8331-a5a1-50956689e079",
+  "conversation_template_id": null,
+  "create_time": 1772553308.841801,
+  "current_node": "5b4f0f28-3476-44b8-95f2-cce3f562bdb2",
+  "default_model_slug": "gpt-5-2",
+  "id": "69a703fd-96a0-8331-a5a1-50956689e079",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "089abb64-2a9b-47f5-8992-5c289ac1cd5c": {
+      "id": "089abb64-2a9b-47f5-8992-5c289ac1cd5c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_00000000856471f58f0a828e38f3f4a1",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 721,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 83839,
+              "width": 1129
+            },
+            "take the computer section and make it so the older laptops are at the bottom and the newer once that have been purchased since 2023 are at top: Employee\tYear of Purchase\tDevice Type\tBudget To Replace\tLast Replaced\tUpgrade Notes\r\nFloyd\t2017\tDell\t2020\t2020\t\r\nM Powell\t2016\tMac\t2019\t\t19/20\r\nR. Robinson\t2016\tMac\t2019\t2022\t19/20 | Applecare\r\nA. Johnson\t2014\tMac\t18/19\t\t\r\nR. Russo\t2018\tDell\t2021\t\t\r\nA. Duffel\t2014\tDell\t18/19\t2020\t\r\nLP\t2016\tMac\t2019\t\tBudget for 19/20\r\nL. Tecleab\t2015\tMac\t18/19\t\t\r\nM. Jaggers\t2017\tMac\t2027\t2024\tTook Maggie's | Applecare\r\nH. Chalos\t2014\tMac\t2025\t2022\tApplecare\r\nG. Biggs\t2014\tMac\t18/19\t\t\r\nJ. Sweatman-Weaver\t2015\tMac\t18/19\t\t\r\nNathan\t\tMac\t2024\t2020\t\r\nM. Tubbs\t\tMac\t2025\t2022\tApplecare\r\nR. Gill\t\tMac\t2026\t2023\tApplecare\r\nBethany Gifford\t2023\tPC\t2026\t2023\t2 year protection\r\nBackup - Robert MacBook\t2020\tMac\t\t\tNot turned back in yet - RR still has\r\nBackup - Office1\t2023\t\t\t\tOld connector | JSW old laptop\r\nBackup - Office2\t\t\t\t\tOld connector | Needs to order connector\r\nBackup - Office3\t2023\t\t\t\tNew connector | JSW laptop has Adobe\r\nBackup - Office4\t\t\t\t\tNew connector | GB old laptop - no MS Office\r\nLT Laptop\t\t\t\t\tWorks but must stay plugged in | E & R keys not working\r\nHC Laptop\t\t\t\t\tMust stay plugged in\r\nRachel - Ready to Upgrade\t2023\tPC\t\t\tDell 16in Inspiron w/ 3yr support - $818.99\r\nRobert - Ready to Upgrade\t2022\tMac\t\t\t15in MacBook Air w/ 3yr support - $1,786.73\r\nNathan - Ready to Upgrade\t2024\tMac\t\t\t15in MacBook Air w/ 3yr support - $1,786.73\r\nHeather - Ready to Upgrade\t2025\tMac\t\t\t15in MacBook Air w/ 3yr support - $1,786.73\r\n\t\t\t\t\t\r"
+          ]
+        },
+        "create_time": 1772561481.125,
+        "id": "089abb64-2a9b-47f5-8992-5c289ac1cd5c",
+        "metadata": {
+          "attachments": [
+            {
+              "height": 721,
+              "id": "file_00000000856471f58f0a828e38f3f4a1",
+              "is_big_paste": false,
+              "mime_type": "image/png",
+              "name": "41649bc7-aa2e-4314-aaca-c855c2c77539.png",
+              "size": 83839,
+              "source": "local",
+              "width": 1129
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "e3e4ab3e-4f24-4ee2-9ff0-a30600e520e6"
+    },
+    "0f8855d1-8bd7-4678-a8ef-622aafef7ccb": {
+      "id": "0f8855d1-8bd7-4678-a8ef-622aafef7ccb",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "create_time": 1772553312.732374,
+        "id": "0f8855d1-8bd7-4678-a8ef-622aafef7ccb",
+        "metadata": {
+          "parent_id": "4b586532-6792-474d-8a3c-4b65697124b4"
+        }
+      },
+      "parent": "4b586532-6792-474d-8a3c-4b65697124b4"
+    },
+    "21919058-cc7b-454b-b54f-704d3d666ba2": {
+      "id": "21919058-cc7b-454b-b54f-704d3d666ba2",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "please compile all this data from an old spreadsheet and make it into two tabs, one for computres and one for phones: EMPLOYEE\tYEAR OF PURCHASE\t\tMAC OR DELL\t\tBUDGET TO REPLACE\t\tNOTES\tAN\tAUSA\tHUB\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\nFloyd\t2017\t\tDell\t\t2020\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\nM Powell\t2016\t\tMac\t\t2019\t\t 19/20\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\nR. Robinson\t2016\t\tMac\t\t2019\t\t19/20\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\nA. Johnson\t2014\t\tMac\t\t18/19\t\t$1,375 \t\t1,375.00\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\nR. Russo\t2018\t\tDell\t\t2021\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\nA. Duffel\t2014\t\tDell\t\t18/19\t\t700\t490.00\t70.00\t140.00\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\nLP\t2016\t\tMAC\t\t2019\t\tBudget for 19/20\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\nL. Tecleab\t2015\t\tMAC\t\t18/19\t\t$1,375 \t\t1,375.00\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\nM. Jaggers\t2017\t\tMAC\t\t2020\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\nH. Chalos\t2014\t\tMAC\t\t18/19\t\t$1,375 \t\t687.50\t687.50\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\nG. Biggs\t2014\t\tMAC\t\t18/19\t\t$1,375 \t1,375.00\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\nJ. Sweatman-Weaver\t2015\t\tMAC\t\t18/19\t\t$1,375 \t1,237.50\t137.50\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\nNote:  Split follows payroll split percentages\t\t\t\t\t\t\tTOTALS\t3,102.50\t3,645.00\t827.50\t7,575.00\r\n\t\t\t\t\t\t\t\t\t\t\t2800\r\n.\t\t\t\t\t\t\t\tMATH CK\t0.00\t\t4,775.00\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\tEMPLOYEE\t\tMAC OR DELL\t\tBUDGET TO REPLACE\tLast replaced\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\r\nFloyd\t\tDell\t\t23\t20\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\r\nR. Robinson\t\tMAC\t\t22\t22\t\tApplecare\t\t\r\n\t\t\t\t\t\t\t\t\t\r\nB Gifford\t\tDell\t\t26\t23\t\t\t\t\r\nA. Duffel\t\tDell\t\t23\t20\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\r\nNathan\t\tMAC\t\t24\t20\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\r\nM. Jaggers\t\tMac\t\t27\t24\ttook maggies\tApplecare\t\t\r\n\t\t\t\t\t\t\t\t\t\r\nH. Chalos\t\tMAC\t\t25\t22\t\tApplecare\t\t\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\r\nM. Tubbs\t\tMAC\t\t25\t22\t\tApplecare\t\t\r\nR. Gill\t\tMAC\t\t26\t23\t\tApplecare\t\t\r\n\t\t\t\t\t\t\t\t\t\r\nBackups \t\tRobert\t2020\t\t\t\tnot turned back in yet - RR still has\t\t\r\n\t\tMacbook\t2020\t\t\t\tCheck deposits - Andrew uses\t\t\r\n\t\tOffice1\t\t2023\t\t\told connector\tjsw old laptop\t\r\n\t\tOffice2\t\t\t\t\told connector\tneeds to order connector\t\r\n\t\toffice 3\t\t2023\t\t\tnew connector\tjsw laptop has adobe on it\t\r\n\t\toffice 4\t\t\t\t\tnew connector\tgb old laptop - no MS office\t\r\n\t\t\t\t\t\t\t\t\t\r\nBethany Gifford\t\t\t2023\t2026\tPC\t\t2 year protection\t\t\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\r\nNot working correctly:\t\t\t\t\t\t\t\t\t\r\nLT laptop - works ok has to stay plugged in E &R keys not working right\t\t\t\t\t\t\t\t\t\r\nHC - has to stay plugged in\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\r\n\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\tRachel (2023 was ready to upgrade)\tPC\tDell 16 inch Inspiron Laptop with Nvidia MX Discrete | Dell USA\t\t\t\t\t\t$818.99 \t(laptop with 3yr support)\r\nRobert (2022 was ready to upgrade)\tApple\t15-inch MacBook Air - Silver - Apple\t\t\t\t\t\t$1,786.73 \t(laptop with 3yr support)\r\nNathan (2024 was ready to upgrade)\tApple\t15-inch MacBook Air - Silver - Apple\t\t\t\t\t\t$1,786.73 \t(laptop with 3yr support)\r\nHeather (2025 is ready to upgrade)\tApple\t15-inch MacBook Air - Silver - Apple\t\t\t\t\t\t$1,786.73 \t(laptop with 3yr support)\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\r\nPhones:\t\t\t\t\t\t\t\t\t\r\nRachel (ready for upgrade)\tApple\tAT&T | Upgrade\t\t\t\t\t\t$18 a month\tmust trade in old phone\r\nRobert (ready for upgrade)\tApple\tAT&T | Upgrade\t\t\t\t\t\t$18 a month\tmust trade in old phone\r\nBethany (ready for upgrade)\tApple\tAT&T | Upgrade\t\t\t\t\t\t$18 a month\tmust trade in old phone\r\n\r\n\t\t\t\r\nNathan Shulman\t\t\tEligible for upgrade 2026 \r\nApple iPhone 12 mini\t\t\t\r\n615.585.8731\t\t\t\r\n\t\t\t\r\nHeather Chalos\t\t\t\r\nApple iPhone 16\t\t\t\r\n615.717.7233\t\t\t\r\n\t\t\t\r\nOffice Athand\t\t\tEligible for upgrade 2026 \r\n615.856.5850\t\t\t\r\n\t\t\t\r\nMorgan Tubbs\t\t\tEligible for upgrade 2026 \r\nApple iPhone 13\t\t\t\r\n615.627.8183\t\t\t\r\n\t\t\t\r\nRachel Floyd\t\t\tEligible for upgrade 2026 \r\nApple iPhone 11\t\t\t\r\n615.974.7076\t\t\t\r\n\t\t\t\r\nRobert Robinson\t\t\tEligible for upgrade 2026 \r\nApple iPhone XR\t\t\t\r\n615.495.2748\t\t\t\r\n\t\t\t\r\nMelissa Jaggers\t\t\t\r\nApple iPhone 15 Pro Max\t\t\t\r\n615.585.8634\t\t\t\r\n\t\t\t\r\nElizabeth Gifford\t\t\t\r\nApple iPhone 17 Pro\t\t\t\r\n629.285.4127\t\t"
+          ]
+        },
+        "create_time": 1772560976.646,
+        "id": "21919058-cc7b-454b-b54f-704d3d666ba2",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "252123be-01df-4174-ae89-07077e10d97b"
+    },
+    "252123be-01df-4174-ae89-07077e10d97b": {
+      "id": "252123be-01df-4174-ae89-07077e10d97b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_000000004178722f9e685a061f1c6778",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 809,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 55122,
+              "width": 561
+            },
+            "\t\t\t\r\nNathan Shulman\t\t\tEligible for upgrade 2026 \r\nApple iPhone 12 mini\t\t\t\r\n615.585.8731\t\t\t\r\n\t\t\t\r\nHeather Chalos\t\t\t\r\nApple iPhone 16\t\t\t\r\n615.717.7233\t\t\t\r\n\t\t\t\r\nOffice Athand\t\t\tEligible for upgrade 2026 \r\n615.856.5850\t\t\t\r\n\t\t\t\r\nMorgan Tubbs\t\t\tEligible for upgrade 2026 \r\nApple iPhone 13\t\t\t\r\n615.627.8183\t\t\t\r\n\t\t\t\r\nRachel Floyd\t\t\tEligible for upgrade 2026 \r\nApple iPhone 11\t\t\t\r\n615.974.7076\t\t\t\r\n\t\t\t\r\nRobert Robinson\t\t\tEligible for upgrade 2026 \r\nApple iPhone XR\t\t\t\r\n615.495.2748\t\t\t\r\n\t\t\t\r\nMelissa Jaggers\t\t\t\r\nApple iPhone 15 Pro Max\t\t\t\r\n615.585.8634\t\t\t\r\n\t\t\t\r\nElizabeth Gifford\t\t\t\r\nApple iPhone 17 Pro\t\t\t\r\n629.285.4127\t\t\t\r"
+          ]
+        },
+        "create_time": 1772560947.66,
+        "id": "252123be-01df-4174-ae89-07077e10d97b",
+        "metadata": {
+          "attachments": [
+            {
+              "height": 809,
+              "id": "file_000000004178722f9e685a061f1c6778",
+              "is_big_paste": false,
+              "mime_type": "image/png",
+              "name": "3925ecac-d3b2-4b77-96dc-3ebba2560577.png",
+              "size": 55122,
+              "source": "local",
+              "width": 561
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "4b586532-6792-474d-8a3c-4b65697124b4"
+    },
+    "4b586532-6792-474d-8a3c-4b65697124b4": {
+      "id": "4b586532-6792-474d-8a3c-4b65697124b4",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_0000000091ec71f5bdc0a2f760f370c2",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 841,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 61108,
+              "width": 1292
+            },
+            {
+              "asset_pointer": "sediment://file_00000000d94c71f5ad6f5bce0075a191",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 912,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 69404,
+              "width": 1537
+            },
+            {
+              "asset_pointer": "sediment://file_00000000669871f595bb599e2783f227",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 574,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 64978,
+              "width": 1334
+            },
+            "please compile all this data from an old spreadsheet and make it into two tabs, one for computres and one for phones: EMPLOYEE\tYEAR OF PURCHASE\t\tMAC OR DELL\t\tBUDGET TO REPLACE\t\tNOTES\tAN\tAUSA\tHUB\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\nFloyd\t2017\t\tDell\t\t2020\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\nM Powell\t2016\t\tMac\t\t2019\t\t 19/20\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\nR. Robinson\t2016\t\tMac\t\t2019\t\t19/20\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\nA. Johnson\t2014\t\tMac\t\t18/19\t\t$1,375 \t\t1,375.00\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\nR. Russo\t2018\t\tDell\t\t2021\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\nA. Duffel\t2014\t\tDell\t\t18/19\t\t700\t490.00\t70.00\t140.00\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\nLP\t2016\t\tMAC\t\t2019\t\tBudget for 19/20\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\nL. Tecleab\t2015\t\tMAC\t\t18/19\t\t$1,375 \t\t1,375.00\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\nM. Jaggers\t2017\t\tMAC\t\t2020\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\nH. Chalos\t2014\t\tMAC\t\t18/19\t\t$1,375 \t\t687.50\t687.50\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\nG. Biggs\t2014\t\tMAC\t\t18/19\t\t$1,375 \t1,375.00\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\nJ. Sweatman-Weaver\t2015\t\tMAC\t\t18/19\t\t$1,375 \t1,237.50\t137.50\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\nNote:  Split follows payroll split percentages\t\t\t\t\t\t\tTOTALS\t3,102.50\t3,645.00\t827.50\t7,575.00\r\n\t\t\t\t\t\t\t\t\t\t\t2800\r\n.\t\t\t\t\t\t\t\tMATH CK\t0.00\t\t4,775.00\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\tEMPLOYEE\t\tMAC OR DELL\t\tBUDGET TO REPLACE\tLast replaced\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\r\nFloyd\t\tDell\t\t23\t20\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\r\nR. Robinson\t\tMAC\t\t22\t22\t\tApplecare\t\t\r\n\t\t\t\t\t\t\t\t\t\r\nB Gifford\t\tDell\t\t26\t23\t\t\t\t\r\nA. Duffel\t\tDell\t\t23\t20\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\r\nNathan\t\tMAC\t\t24\t20\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\r\nM. Jaggers\t\tMac\t\t27\t24\ttook maggies\tApplecare\t\t\r\n\t\t\t\t\t\t\t\t\t\r\nH. Chalos\t\tMAC\t\t25\t22\t\tApplecare\t\t\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\r\nM. Tubbs\t\tMAC\t\t25\t22\t\tApplecare\t\t\r\nR. Gill\t\tMAC\t\t26\t23\t\tApplecare\t\t\r\n\t\t\t\t\t\t\t\t\t\r\nBackups \t\tRobert\t2020\t\t\t\tnot turned back in yet - RR still has\t\t\r\n\t\tMacbook\t2020\t\t\t\tCheck deposits - Andrew uses\t\t\r\n\t\tOffice1\t\t2023\t\t\told connector\tjsw old laptop\t\r\n\t\tOffice2\t\t\t\t\told connector\tneeds to order connector\t\r\n\t\toffice 3\t\t2023\t\t\tnew connector\tjsw laptop has adobe on it\t\r\n\t\toffice 4\t\t\t\t\tnew connector\tgb old laptop - no MS office\t\r\n\t\t\t\t\t\t\t\t\t\r\nBethany Gifford\t\t\t2023\t2026\tPC\t\t2 year protection\t\t\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\r\nNot working correctly:\t\t\t\t\t\t\t\t\t\r\nLT laptop - works ok has to stay plugged in E &R keys not working right\t\t\t\t\t\t\t\t\t\r\nHC - has to stay plugged in\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\r\n\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\tRachel (2023 was ready to upgrade)\tPC\tDell 16 inch Inspiron Laptop with Nvidia MX Discrete | Dell USA\t\t\t\t\t\t$818.99 \t(laptop with 3yr support)\r\nRobert (2022 was ready to upgrade)\tApple\t15-inch MacBook\u00a0Air - Silver - Apple\t\t\t\t\t\t$1,786.73 \t(laptop with 3yr support)\r\nNathan (2024 was ready to upgrade)\tApple\t15-inch MacBook\u00a0Air - Silver - Apple\t\t\t\t\t\t$1,786.73 \t(laptop with 3yr support)\r\nHeather (2025 is ready to upgrade)\tApple\t15-inch MacBook\u00a0Air - Silver - Apple\t\t\t\t\t\t$1,786.73 \t(laptop with 3yr support)\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\r\nPhones:\t\t\t\t\t\t\t\t\t\r\nRachel (ready for upgrade)\tApple\tAT&T | Upgrade\t\t\t\t\t\t$18 a month\tmust trade in old phone\r\nRobert (ready for upgrade)\tApple\tAT&T | Upgrade\t\t\t\t\t\t$18 a month\tmust trade in old phone\r\nBethany (ready for upgrade)\tApple\tAT&T | Upgrade\t\t\t\t\t\t$18 a month\tmust trade in old phone\r\n\r"
+          ]
+        },
+        "create_time": 1772560939.257,
+        "id": "4b586532-6792-474d-8a3c-4b65697124b4",
+        "metadata": {
+          "attachments": [
+            {
+              "height": 841,
+              "id": "file_0000000091ec71f5bdc0a2f760f370c2",
+              "is_big_paste": false,
+              "mime_type": "image/png",
+              "name": "0a17dc2d-364f-4f40-92e6-d37355b66e8d.png",
+              "size": 61108,
+              "source": "local",
+              "width": 1292
+            },
+            {
+              "height": 912,
+              "id": "file_00000000d94c71f5ad6f5bce0075a191",
+              "is_big_paste": false,
+              "mime_type": "image/png",
+              "name": "b40310b3-4743-4fcd-b87a-4c0e7b91f821.png",
+              "size": 69404,
+              "source": "local",
+              "width": 1537
+            },
+            {
+              "height": 574,
+              "id": "file_00000000669871f595bb599e2783f227",
+              "is_big_paste": false,
+              "mime_type": "image/png",
+              "name": "2cb4909c-09ff-4701-8fff-83b333b2cb6e.png",
+              "size": 64978,
+              "source": "local",
+              "width": 1334
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "5b4f0f28-3476-44b8-95f2-cce3f562bdb2": {
+      "id": "5b4f0f28-3476-44b8-95f2-cce3f562bdb2",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here it is reorganized with **newest (2023 and newer) at the top** and progressively older devices toward the bottom.\n\n---\n\n### **Computers (Newest \u2192 Oldest)**\n\nEmployee | Year of Purchase | Device Type | Budget To Replace | Last Replaced | Upgrade Notes\n---|---|---|---|---|---\nHeather - Ready to Upgrade | 2025 | Mac |  |  | 15in MacBook Air w/ 3yr support - $1,786.73\nNathan - Ready to Upgrade | 2024 | Mac |  |  | 15in MacBook Air w/ 3yr support - $1,786.73\nBethany Gifford | 2023 | PC | 2026 | 2023 | 2 year protection\nBackup - Office1 | 2023 |  |  |  | Old connector \\| JSW old laptop\nBackup - Office3 | 2023 |  |  |  | New connector \\| JSW laptop has Adobe\nRachel - Ready to Upgrade | 2023 | PC |  |  | Dell 16in Inspiron w/ 3yr support - $818.99\nRobert - Ready to Upgrade | 2022 | Mac |  |  | 15in MacBook Air w/ 3yr support - $1,786.73\nBackup - Robert MacBook | 2020 | Mac |  |  | Not turned back in yet - RR still has\nR. Russo | 2018 | Dell | 2021 |  | \nM. Jaggers | 2017 | Mac | 2027 | 2024 | Took Maggie's \\| Applecare\nFloyd | 2017 | Dell | 2020 | 2020 | \nM Powell | 2016 | Mac | 2019 |  | 19/20\nR. Robinson | 2016 | Mac | 2019 | 2022 | 19/20 \\| Applecare\nLP | 2016 | Mac | 2019 |  | Budget for 19/20\nJ. Sweatman-Weaver | 2015 | Mac | 18/19 |  | \nL. Tecleab | 2015 | Mac | 18/19 |  | \nA. Johnson | 2014 | Mac | 18/19 |  | \nA. Duffel | 2014 | Dell | 18/19 | 2020 | \nH. Chalos | 2014 | Mac | 2025 | 2022 | Applecare\nG. Biggs | 2014 | Mac | 18/19 |  | \nNathan |  | Mac | 2024 | 2020 | \nM. Tubbs |  | Mac | 2025 | 2022 | Applecare\nR. Gill |  | Mac | 2026 | 2023 | Applecare\nBackup - Office2 |  |  |  |  | Old connector \\| Needs to order connector\nBackup - Office4 |  |  |  |  | New connector \\| GB old laptop - no MS Office\nLT Laptop |  |  |  |  | Works but must stay plugged in \\| E & R keys not working\nHC Laptop |  |  |  |  | Must stay plugged in\n\n---\n\nIf you'd like, I can also:\n\u2022 Separate **active employee devices vs backups**\n\u2022 Add a **color-coded priority column**\n\u2022 Create a **2026\u20132028 replacement forecast**\n\u2022 Clean up blanks and standardize naming**\n\nJust tell me how you want this optimized for decision making."
+          ]
+        },
+        "create_time": 1772553848.649692,
+        "id": "5b4f0f28-3476-44b8-95f2-cce3f562bdb2",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "e9912d59-3a5e-4417-8df3-1115c2539861"
+        }
+      },
+      "parent": "089abb64-2a9b-47f5-8992-5c289ac1cd5c"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "e3e4ab3e-4f24-4ee2-9ff0-a30600e520e6": {
+      "id": "e3e4ab3e-4f24-4ee2-9ff0-a30600e520e6",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Your compiled file is ready:\n\n**Download here:**  \n[Download the Updated Equipment Inventory](sandbox:/mnt/data/Updated_Equipment_Inventory.xlsx)\n\nIt includes:\n\u2022 Tab 1: **Computers** (all historical data, backups, upgrade notes, protection details, issues)  \n\u2022 Tab 2: **Phones** (devices, numbers, eligibility, upgrade costs, notes)\n\nIf you'd like, I can also:\n- Clean up naming consistency\n- Add conditional formatting for upgrade years\n- Create a 3-year replacement forecast\n- Add a summary dashboard tab"
+          ]
+        },
+        "create_time": 1772553419.285247,
+        "id": "e3e4ab3e-4f24-4ee2-9ff0-a30600e520e6",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "73f610a3-a1fc-4efe-b588-2ed026c2ef8b"
+        }
+      },
+      "parent": "21919058-cc7b-454b-b54f-704d3d666ba2"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "iPhone Upgrade List",
+  "update_time": 1772553882.973048,
+  "voice": null
+}

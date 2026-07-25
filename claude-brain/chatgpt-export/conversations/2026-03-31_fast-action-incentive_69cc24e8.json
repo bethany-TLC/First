@@ -1,0 +1,71 @@
+{
+  "conversation_id": "69cc24e8-b23c-8333-b3cf-235f4345cf86",
+  "conversation_template_id": null,
+  "create_time": 1774986485.706179,
+  "current_node": "1e4951fc-9a0c-470e-b56e-d7d19590c9de",
+  "default_model_slug": "gpt-5-3",
+  "id": "69cc24e8-b23c-8333-b3cf-235f4345cf86",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "1e4951fc-9a0c-470e-b56e-d7d19590c9de": {
+      "id": "1e4951fc-9a0c-470e-b56e-d7d19590c9de",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "You\u2019re super close on the wording. It\u2019s not called a \u201cfax action.\u201d\n\nWhat you\u2019re thinking of is typically called:\n\n### \ud83d\udc49 **\u201cFast Action Bonus\u201d** or **\u201cFast Action Incentive\u201d**\n\nIn sales, this means:\n- The customer gets a **special deal, discount, or bonus**\n- **Only if they commit right now (or same day)**\n\n### Other similar terms you might hear:\n- **Urgency close**\n- **Same-day close incentive**\n- **Limited-time offer**\n- **Today-only pricing**\n\n### Example:\n> \u201cIf you move forward today, we\u2019ll include $500 off and a bonus package.\u201d\n\nThat\u2019s a **fast action incentive** designed to create urgency and push the decision.\n\nIf you want, I can help you build a Luxora-style version of this that feels premium and not salesy."
+          ]
+        },
+        "create_time": 1774986485.562456,
+        "id": "1e4951fc-9a0c-470e-b56e-d7d19590c9de",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "9ecc88ce-df5a-4826-a615-4a3edace7a42"
+        }
+      },
+      "parent": "bbb21fa5-110c-4ac1-be86-6f7f4abf2d49"
+    },
+    "253aace1-b749-46af-a39e-dbbd7400a5a5": {
+      "id": "253aace1-b749-46af-a39e-dbbd7400a5a5",
+      "message": null,
+      "parent": null
+    },
+    "bbb21fa5-110c-4ac1-be86-6f7f4abf2d49": {
+      "id": "bbb21fa5-110c-4ac1-be86-6f7f4abf2d49",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Toyota Toyota What is the action called when a salesperson is pitching them and they're going to pitch a discounted price if they sign up today it's called a fax action what"
+          ]
+        },
+        "create_time": 1774986485.31349,
+        "id": "bbb21fa5-110c-4ac1-be86-6f7f4abf2d49",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "253aace1-b749-46af-a39e-dbbd7400a5a5"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Fast Action Incentive",
+  "update_time": 1774986493.804313,
+  "voice": null
+}

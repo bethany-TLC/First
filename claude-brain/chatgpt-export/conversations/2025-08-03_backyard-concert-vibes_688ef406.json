@@ -1,0 +1,71 @@
+{
+  "conversation_id": "688ef406-aafc-8011-a9f9-ab7a14dc7e91",
+  "conversation_template_id": null,
+  "create_time": 1754199046.890288,
+  "current_node": "99416226-d475-425a-a9a6-f3948fb520a8",
+  "default_model_slug": "auto",
+  "id": "688ef406-aafc-8011-a9f9-ab7a14dc7e91",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "99416226-d475-425a-a9a6-f3948fb520a8": {
+      "id": "99416226-d475-425a-a9a6-f3948fb520a8",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "\ud83c\udfb6 **Just a Backyard Hang\u2026 or so we thought.**  \n\nWhat started as a chill night with the boys turned into a full-blown concert under the stars. Guitars came out, voices warmed up, and before we knew it, the whole yard was alive with sound.  \n\n**Typical Tennessee night.**  \nWhere the air is thick with stories, the drinks are cold, and talent spills off every porch and street corner.  \n\nNothing like music, laughter, and good company to remind you how lucky we are to call this place home.  \n\n#TennesseeNights #BackyardSessions #SouthernSoul #GoodVibesOnly #LiveMusicMoments #GratefulTimes"
+          ]
+        },
+        "create_time": 1754199101.298416,
+        "id": "99416226-d475-425a-a9a6-f3948fb520a8",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-4o",
+          "parent_id": "6c5aadcc-4fb9-4670-90c9-e522d351f887"
+        }
+      },
+      "parent": "bbb21ce0-ad2c-4134-b45a-8d5f137d7c76"
+    },
+    "bbb21ce0-ad2c-4134-b45a-8d5f137d7c76": {
+      "id": "bbb21ce0-ad2c-4134-b45a-8d5f137d7c76",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write a post about hanging with the boys. When a Backyard hangout turns into a full blown concert ... Typical TN night. Where music flows and talent is on every corner. "
+          ]
+        },
+        "create_time": 1754199101.232777,
+        "id": "bbb21ce0-ad2c-4134-b45a-8d5f137d7c76",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "c6b00705-56fa-45c2-8b43-2f24b53055df"
+    },
+    "c6b00705-56fa-45c2-8b43-2f24b53055df": {
+      "id": "c6b00705-56fa-45c2-8b43-2f24b53055df",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Backyard concert vibes",
+  "update_time": 1754199105.521276,
+  "voice": null
+}

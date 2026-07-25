@@ -1,0 +1,358 @@
+{
+  "conversation_id": "69ca8f11-7e0c-8326-8f3a-af45d662b865",
+  "conversation_template_id": null,
+  "create_time": 1774882588.464024,
+  "current_node": "fd943150-f87c-4283-b751-7e40f9f24b43",
+  "default_model_slug": "gpt-5-3",
+  "id": "69ca8f11-7e0c-8326-8f3a-af45d662b865",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "bbb21db9-7e52-422c-a6c0-bd9591b07798": {
+      "id": "bbb21db9-7e52-422c-a6c0-bd9591b07798",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Bright and incredible alignable.com recommendation for Jennifer Rushing\nBanyan & Bamboo Day Spa / Med Spa\nAustin, TX"
+          ]
+        },
+        "create_time": 1774882588.044055,
+        "id": "bbb21db9-7e52-422c-a6c0-bd9591b07798",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "e17c543b-a9c0-4ccd-8b0e-17a6b277d645"
+    },
+    "e17c543b-a9c0-4ccd-8b0e-17a6b277d645": {
+      "id": "e17c543b-a9c0-4ccd-8b0e-17a6b277d645",
+      "message": null,
+      "parent": null
+    },
+    "fd943150-f87c-4283-b751-7e40f9f24b43": {
+      "id": "fd943150-f87c-4283-b751-7e40f9f24b43",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a **bright, elevated Alignable-style recommendation** that positions Jennifer as both a visionary founder *and* someone people genuinely want to work with:\n\n---\n\nI cannot say enough incredible things about \ue200entity\ue202[\"local_business\",\"Banyan & Bamboo Day Spa + Med Spa\",\"Austin, TX, USA | 3005 S Lamar Blvd #D-112\"]\ue201 and the visionary behind it, \ue200entity\ue202[\"people\",\"Jennifer Rushing\",\"Founder of Banyan & Bamboo Day Spa + Med Spa\"]\ue201.\n\nJennifer has created something truly rare in this industry. She didn\u2019t just open a med spa. She built a *sanctuary* where clinical excellence and genuine care coexist beautifully. Every detail of her brand reflects intention, integrity, and a deep understanding that beauty and wellness are inseparable. \ue200cite\ue202turn0search0\ue201  \n\nWhat stands out most about Jennifer is her commitment to **personalized, relationship-driven care**. In an industry often driven by transactions, she leads with connection, trust, and long-term results. Her approach to creating customized, year-long beauty and wellness plans is next-level and speaks to her ability to think beyond quick fixes and focus on true transformation. \ue200cite\ue202turn0search0\ue201  \n\nHer leadership has not only built an exceptional team but also earned her spa recognition as one of the top destinations in Austin, which is no small feat in such a competitive market. \ue200cite\ue202turn0search9\ue201  \n\nBeyond her expertise, Jennifer is simply the kind of person you *want* in your corner. She is warm, intentional, forward-thinking, and deeply passionate about empowering women to feel confident in their own skin.\n\nIf you are looking for someone who is redefining what excellence looks like in the med spa and wellness space, Jennifer Rushing is absolutely someone to know and connect with.\n\n--- \n\nIf you want, I can also make a slightly more **casual / punchy version** or one that leans more into **referral energy** for Alignable feeds."
+          ]
+        },
+        "create_time": 1774882592.050243,
+        "id": "fd943150-f87c-4283-b751-7e40f9f24b43",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "Banyan & Bamboo Day Spa + Med Spa",
+              "entity_data": {
+                "address": "3005 S Lamar Blvd #D-112, Austin, TX 78704, United States",
+                "categories": [
+                  "Medical spa",
+                  "Day spa",
+                  "Facial spa",
+                  "Health spa",
+                  "Massage spa"
+                ],
+                "city": null,
+                "country_code": "US",
+                "country_name": "United States",
+                "description": null,
+                "description_cite": null,
+                "distance_meters": null,
+                "enriched_description": null,
+                "hours": [
+                  {
+                    "day": 5,
+                    "end": "1900",
+                    "start": "0900"
+                  },
+                  {
+                    "day": 1,
+                    "end": "1600",
+                    "start": "1100"
+                  },
+                  {
+                    "day": 6,
+                    "end": "1800",
+                    "start": "0900"
+                  },
+                  {
+                    "day": 0,
+                    "end": "1800",
+                    "start": "0900"
+                  },
+                  {
+                    "day": 4,
+                    "end": "1900",
+                    "start": "0900"
+                  },
+                  {
+                    "day": 2,
+                    "end": "1600",
+                    "start": "1100"
+                  },
+                  {
+                    "day": 3,
+                    "end": "1900",
+                    "start": "0900"
+                  }
+                ],
+                "id": "ChIJ93IhJUG1RIYR7S-FNgqqsiE",
+                "image_url": "https://images.openai.com/static-rsc-1/Moj9NwqjOalCsbEBHrfr6PJTuO03MarARHsnTYEtZSHfqvTHS7S_YokBAhaGiA7DW7x8mKAUzFScwb9roUOQKxsVRIcuQvdOzX9UfSFNFAg-EzAtnrf7uIH-6PdQGa2y7uKoZDfBjC1OUeW3mHYM5Kiwq60aI-nnhvgQLXJrvr33TUR9FN2AKi2ua7m5il6ZPwf40uFrkhVD7wrtjj-O-I2A7z2iEOU8sXWMAYeWF9WfUY-Vlp3UNPjRLHbP2MXU",
+                "image_urls": [
+                  "https://images.openai.com/static-rsc-1/RZ0L7NB5cV_NNgx5zrN8uBcLgLpkQc2llGZYOhXkuIJQFT2--hPpUz0KyGuCRSCFoqnyYRTvvzhmjvgFLpRiETJzExG0xe7BKOwIoxeNxNWbbVYv_ec_dKHHEXRxwStNIiaGPu5JP5QcIaWrZcpIBLnzezbEGtNCE0Wvte9YQFiWNysmiDRZQjSdTQRliPhsG7ptOCXHxyNrIBZl4OmTGl7FcF0gIsshIdylKBi7orZAYR_Uj_TlZRTqeEjx5my23xqWB5EJ5u_9QBR2yCNzkJmHcMMml5izJRi879IKmnI",
+                  "https://images.openai.com/static-rsc-1/jyRCyDTQ9y9GyS-_KP6BA9vJwzZKKAT5vPk0J0hverQ2LKi8ObzThQ0vlEbuIpKR3HBf9tDMT9GaccCwMR8kzznmQe3uE1sbm5EoTazpBaWp3qWssC8DcW6K5XUuuchf7qmXozF_u878EsuxJvZTwCcOdCNqz3IzlPXzmjt7zer9kc0vBdLvIS7z1ULPuVWygaqPqJdhdgz-7LJyGyz9FdCauKI2ziK-3MP5Kjcwvgx7I48WatcwYE2o3HRpGZU8DxV9ak-b02B5OmjdM0R0L33LXMgs0_deIGbBx9TZtZA",
+                  "https://images.openai.com/static-rsc-1/lP98SplmaeFDdN3Ypxdh9Tyf5s_kPV67_76AlgJgKM883QLEiuQLWdcCjDSnYRqGxJB0my9EFCqwHs_IdU9f_JnZc9LTsNxuipXzZkSRkjQNkyyyaaoqtn5NskKjizw2LJm2X-zlrlz0j5Pu4e5uvFXntd0TrJ9fHEovJeD4l2EnVB4p5cnuFaHfIxR_-KXVDab1CE_WO3huTqpbavPzur93X38y_6zAYz4-TY0vou744fiCt0IAMBxmlyhcgZFqshspO-7fuWWtFoKZSbqe9FuwYJrJ_OcDM5GdIzCseKs",
+                  "https://images.openai.com/static-rsc-1/oTWAkdRDvs1K6RFhIlrg3DkYK93Hokc7W9vWDSrz1POpAFNPeNAW-AJm1ZkY7S8OxRzZpvkFsNBm0gT64v3OY3t-yVRP6n8qwdl_X8JotKXasHT_3g2T59viHbpRbZxa8o59nnX05SD7QZB0qzOXAHJ4phmo0t2xLg9wT7lCHEGvI0dlJf6IfBV9aNh_BKYsKeln2Ln7QYqxWfmTXqDpjyIcTAUYOMmP16aCk69l2jsjMrh7SHoBGy826EHZSZ4g8rgSs568RtImuwjHqJYl6QnTvf4GVdLLNixISg1Pncc",
+                  "https://images.openai.com/static-rsc-1/vM4_af8qf8_Yyrmn4wH_AXXbj-6zCtBUmVHE3tTua9nDA0FTm1CtE5Zq3UAIFQRp41ue1CnTpo4AZ_Hmi53j9I_ab_CL6Q7e47tR_jY1V4-nBXlse82dmDYJs8lfNtZHKuqbxr8YcUzym-nj5Dz7QPUHyIihtY4l5bXa-KlZNfSwmvqpCndrCWgVxYC3JTFRtSVwVLayS_WWBJs9MvNwfrJJfmC-Ph7huedALaGowlbOGNATUxNMTqLUlbN-R0yc"
+                ],
+                "is_closed_permanently": false,
+                "is_closed_temporarily": false,
+                "latitude": 30.2414417,
+                "location": "Austin, TX, USA",
+                "longitude": -97.7839602,
+                "name": "Banyan & Bamboo Day Spa / Med Spa",
+                "phone": "+1 512-890-1130",
+                "price": null,
+                "price_str": null,
+                "provider_images": null,
+                "provider_logo_dark_url": null,
+                "provider_logo_url": null,
+                "review_count": 305,
+                "special_hours": null,
+                "state": null,
+                "website_url": "https://banyanandbamboo.com/?utm_medium=organic&utm_source=chatgpt.com",
+                "yelp_menu_url": null,
+                "zipcode": null
+              },
+              "entity_index": null,
+              "extra_params": {
+                "address": "3005 S Lamar Blvd #D-112, Austin, TX 78704, United States",
+                "business_id": "ChIJ93IhJUG1RIYR7S-FNgqqsiE",
+                "entity_lookup_request": {
+                  "query_args": {
+                    "business_lookup_data": {
+                      "business_id": "ChIJ93IhJUG1RIYR7S-FNgqqsiE",
+                      "latitude": 30.2414417,
+                      "longitude": -97.7839602,
+                      "name": "Banyan & Bamboo Day Spa / Med Spa",
+                      "provider": "b3"
+                    }
+                  },
+                  "query_type": "entity_lookup"
+                },
+                "location": "Austin, TX, USA",
+                "provider": "b3"
+              },
+              "id": "wIeRqPYMyY1UiK2L",
+              "metadata": null,
+              "name": "Banyan & Bamboo Day Spa + Med Spa",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Banyan & Bamboo Day Spa + Med Spa",
+              "type": "entity"
+            },
+            {
+              "alt": "Jennifer Rushing",
+              "prefix": null,
+              "prompt_text": "Jennifer Rushing",
+              "render_as": null,
+              "type": "alt_text"
+            },
+            {
+              "alt": "([Banyan & Bamboo | Day Spa & Med Spa](https://banyanandbamboo.com/best-day-med-spa-austin/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Banyan & Bamboo | Day Spa & Med Spa",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Jennifer Rushing founded Banyan & Bamboo with a clear and challenging vision: to create a sanctuary where heart, personality, and science could coexist, and ...Read more",
+                  "supporting_websites": [],
+                  "title": "About Our Team | Banyan & Bamboo Day Spa + Med ...",
+                  "url": "https://banyanandbamboo.com/best-day-med-spa-austin/?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Banyan & Bamboo | Day Spa & Med Spa](https://banyanandbamboo.com/best-day-med-spa-austin/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Banyan & Bamboo | Day Spa & Med Spa",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Jennifer Rushing founded Banyan & Bamboo with a clear and challenging vision: to create a sanctuary where heart, personality, and science could coexist, and ...Read more",
+                  "supporting_websites": [],
+                  "title": "About Our Team | Banyan & Bamboo Day Spa + Med ...",
+                  "url": "https://banyanandbamboo.com/best-day-med-spa-austin/?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "([Evergreen Awards](https://evergreenawards.com/awards/banyan-bamboo-day-spa-med-spa-best-day-spa-med-spa-in-austin-of-2025?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Evergreen Awards",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 9,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Under the leadership of Owner & Founder Jennifer Rushing, Banyan & Bamboo is redefining self-care in Austin. Their all-women team of credentialed providers ...Read more",
+                  "supporting_websites": [],
+                  "title": "Banyan & Bamboo Day Spa | Med Spa",
+                  "url": "https://evergreenawards.com/awards/banyan-bamboo-day-spa-med-spa-best-day-spa-med-spa-in-austin-of-2025?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prefix": null,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "Banyan & Bamboo | Day Spa & Med Spa",
+                  "title": "About Our Team | Banyan & Bamboo Day Spa + Med ...",
+                  "url": "https://banyanandbamboo.com/best-day-med-spa-austin/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "Evergreen Awards",
+                  "title": "Banyan & Bamboo Day Spa | Med Spa",
+                  "url": "https://evergreenawards.com/awards/banyan-bamboo-day-spa-med-spa-best-day-spa-med-spa-in-austin-of-2025?utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "model_slug": "gpt-5-3",
+          "parent_id": "cedc1582-e0c6-4f44-81b6-7c0c25c0fa31",
+          "search_result_groups": [
+            {
+              "domain": "linkedin.com",
+              "entries": [
+                {
+                  "attribution": "linkedin.com",
+                  "snippet": "Jennifer Rushing Founder, Banyan & Bamboo | Award-Winning Entrepreneur & Brand\u2026 \u00b7 Experience: Banyan & Bamboo Day Spa | Med Spa \u00b7 Education: University of ...",
+                  "title": "Jennifer Rushing - Banyan & Bamboo Day Spa | Med Spa",
+                  "url": "https://www.linkedin.com/in/jennifer-rushing-a70871342?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "facebook.com",
+              "entries": [
+                {
+                  "attribution": "facebook.com",
+                  "snippet": "Jennifer Rushing. What's yours? \u2764\ufe0f. 10mo. Recent Posts. Banyan ... Take a quiet break in South Austin and reset at Banyan & Bamboo Day Spa ...Read more",
+                  "title": "Banyan - Why I do what I do. I've been an entrepreneur ...",
+                  "url": "https://m.facebook.com/banyanandbamboo/photos/why-i-do-what-i-do-ive-been-an-entrepreneur-for-as-long-as-i-can-remember-buildi/122155073024497982/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "facebook.com",
+                  "snippet": "Banyan & Bamboo Day Spa / Med Spa, Austin. 290 likes \u00b7 19 talking about this \u00b7 46 were here. Austin's Award-Winning Day + Med Spa \u2022 Luxe, Serious Self-Care.",
+                  "title": "Banyan & Bamboo Day Spa / Med Spa | Austin TX",
+                  "url": "https://www.facebook.com/396991960164876/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "youtube.com",
+              "entries": [
+                {
+                  "attribution": "youtube.com",
+                  "snippet": "At 54, she's taking on her biggest project yet \u2014 reinventing a struggling day spa into Banyan & Bamboo Med Spa, a holistic wellness destination in South Austin, ...",
+                  "title": "Banyan & Bamboo Med Spa - Jennifer Rushing",
+                  "url": "https://www.youtube.com/watch?v=UZXr2vZkKbg&utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "banyanandbamboo.com",
+              "entries": [
+                {
+                  "attribution": "banyanandbamboo.com",
+                  "snippet": "Visit Us. Banyan & Bamboo Day Spa + Med Spa 3005 S Lamar Blvd, #D-112. Austin, TX 78704 \u00b7 512-890-1130 \u00b7 Text: 737-321-8182 \u00b7 Evergreen Awards Winner (2025).Read more",
+                  "title": "Expert Austin Med Spa Blog | Skincare & Beauty Tips",
+                  "url": "https://banyanandbamboo.com/blog/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "banyanandbamboo.com",
+                  "snippet": "Jennifer Rushing Bio, Founder & Owner of Banyan & Bamboo Day Spa + Med Spa.Read more",
+                  "title": "AI Skin Analysis for Pigmentation: Treating What You Can't ...",
+                  "url": "https://banyanandbamboo.com/ai-skin-analysis-for-pigmentation/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "communityimpact.com",
+              "entries": [
+                {
+                  "attribution": "communityimpact.com",
+                  "snippet": "Apr 10, 2025 \u2014 \u201cI just want to be a place where you're already beautiful the day you walk in the door,\u201d owner Jennifer Rushing said. \u201c... I just want every ...Read more",
+                  "title": "Banyan & Bamboo day and med spa now open in South ...",
+                  "url": "https://communityimpact.com/austin/south-central-austin/business/2025/04/09/banyan-bamboo-day-and-med-spa-now-open-in-south-austin/?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "bbb21db9-7e52-422c-a6c0-bd9591b07798"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Alignable Recommendation for Jennifer",
+  "update_time": 1774882600.817645,
+  "voice": null
+}

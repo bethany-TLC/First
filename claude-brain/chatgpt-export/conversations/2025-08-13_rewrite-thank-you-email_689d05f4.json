@@ -1,0 +1,72 @@
+{
+  "conversation_id": "689d05f4-3748-8320-9566-fe3d71b81771",
+  "conversation_template_id": null,
+  "create_time": 1755121158.460085,
+  "current_node": "c9f02d3d-5d5f-429d-b8d3-8053da99e875",
+  "default_model_slug": "auto",
+  "id": "689d05f4-3748-8320-9566-fe3d71b81771",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "c9f02d3d-5d5f-429d-b8d3-8053da99e875": {
+      "id": "c9f02d3d-5d5f-429d-b8d3-8053da99e875",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a polished and friendly rewrite of your email:  \n\n---\n\n**Subject:** Thank You & A Little Gift for You  \n\nHi [Name],  \n\nI truly enjoyed our conversation on the podcast \u2014 thank you again for joining me and sharing your insights!  \n\nAs a small thank-you, I\u2019d love to create a personalized game plan (or \u201cplaybook\u201d) for you. I\u2019ve shared this with other guests in the past, and it\u2019s been incredibly valuable for them. I\u2019ll use our AI acquisition system to put it together, but I\u2019d like to tailor it specifically to your business.  \n\nWould you be open to a quick 20\u201330 minute call so I can ask a few questions and customize it for you?  \n\nLooking forward to hearing your thoughts!  \n\nWarmly,  \nBethany  \n\n---  \n\nDo you want me to also make you a **shorter, snappier version** that feels even more casual? That could boost response rates."
+          ]
+        },
+        "create_time": 1755121158.029029,
+        "id": "c9f02d3d-5d5f-429d-b8d3-8053da99e875",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5",
+          "parent_id": "9e896fc0-df72-4607-96ee-4b2822d2bea7"
+        }
+      },
+      "parent": "e4a8b3d8-4001-4969-9d9e-3ee8ad994207"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "e4a8b3d8-4001-4969-9d9e-3ee8ad994207": {
+      "id": "e4a8b3d8-4001-4969-9d9e-3ee8ad994207",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "REWRITE EMAIL THAT SAYS I ENJOYED OUR PODCAST TOGETHER AND A A THANKYOU WOULD LOVE TO aditi jhaveri: 30:35 \r\n So I want to create like a game plan for you or a playbook, just as a thank you for joining the podcast. I think that's. It's. Every time I've shared this with others, it's been really valuable for them. And we use our AI acquisition system to do this. So I'd love to do that for you, but obviously I want to tailor it in a way that it best fits you. So would you be open to jumping on another call for just 20 to 30 minutes so I can just ask you a few questions about the business so I can tailor it for you? Again, not 100% sure if it would make sense, like if.\r\n\r\n\r\n\nPlease write in English language."
+          ]
+        },
+        "create_time": 1755121157.535,
+        "id": "e4a8b3d8-4001-4969-9d9e-3ee8ad994207",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Rewrite thank you email",
+  "update_time": 1755121582.16722,
+  "voice": null
+}

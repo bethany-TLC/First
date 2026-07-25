@@ -1,0 +1,72 @@
+{
+  "conversation_id": "699c8dfd-92b4-8330-bfc8-b1353d3e6303",
+  "conversation_template_id": null,
+  "create_time": 1771867716.011211,
+  "current_node": "b756ccf6-225f-4562-b630-5202ee30aeb1",
+  "default_model_slug": "gpt-5-2",
+  "id": "699c8dfd-92b4-8330-bfc8-b1353d3e6303",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "2537c827-9592-4edf-a354-ecebdb6adf5b": {
+      "id": "2537c827-9592-4edf-a354-ecebdb6adf5b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "create an email to Tracy letting her know our chackout page is ready to use. Her 50% coupon coode can be used to during check out. After that we can jump on a call to get her Deliverables to her and walk through the 90 day program timeline. at that point we will schedule her biweeky check ins. this is the link to check out: https://go.theluxoracollective.co/the-luxora-growth-engine tell her to obvisouly ignore the onboarding request seeing how we have already done that part and the part where is says book tech call. coupond code: TRACY50"
+          ]
+        },
+        "create_time": 1771867715.329,
+        "id": "2537c827-9592-4edf-a354-ecebdb6adf5b",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "b756ccf6-225f-4562-b630-5202ee30aeb1": {
+      "id": "b756ccf6-225f-4562-b630-5202ee30aeb1",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a clean, professional email you can send to Tracy. It is clear, warm, and action-oriented, without being overly formal.\n\n:::writing{id=\"84217\" variant=\"email\" subject=\"Checkout Page Is Ready + Next Steps\"}\nHi Tracy,\n\nJust a quick note to let you know that the checkout page for The Luxora Growth Engine is officially ready to use.\n\nYou can complete checkout here:\nhttps://go.theluxoracollective.co/the-luxora-growth-engine\n\nYour 50% coupon code is active and can be applied at checkout:\nTRACY50\n\nOnce checkout is complete, we will schedule a call to:\n\u2022 Deliver your assets and deliverables  \n\u2022 Walk through the full 90-day program timeline  \n\u2022 Align on priorities for Phase One  \n\nAt that point, we will also get your biweekly check-ins on the calendar.\n\nOne quick note. Please ignore the onboarding request and the \u201cbook tech call\u201d prompt during checkout since we have already completed that portion together.\n\nLet me know once you are through checkout and we will take it from there.\n\nExcited to get this fully rolling with you.\n\nBethany Gifford"
+          ]
+        },
+        "create_time": 1771867715.774527,
+        "id": "b756ccf6-225f-4562-b630-5202ee30aeb1",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "663bc714-f271-4b25-9d1c-0fe82110a4dd"
+        }
+      },
+      "parent": "2537c827-9592-4edf-a354-ecebdb6adf5b"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Checkout Page Email Draft",
+  "update_time": 1771867743.504493,
+  "voice": null
+}

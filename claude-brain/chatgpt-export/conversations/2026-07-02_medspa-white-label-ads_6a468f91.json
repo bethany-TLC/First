@@ -1,0 +1,481 @@
+{
+  "conversation_id": "6a468f91-ce70-83e8-a258-4331ba1e5623",
+  "conversation_template_id": null,
+  "create_time": 1783009240.047375,
+  "current_node": "e9a87efa-7378-4a55-9944-a99fd941d350",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a468f91-ce70-83e8-a258-4331ba1e5623",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "bbb212bd-a935-40d8-af1d-dae512aa0572": {
+      "id": "bbb212bd-a935-40d8-af1d-dae512aa0572",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Give me some actually companies to talk to that rlo ide allthsi"
+          ]
+        },
+        "create_time": 1783009275.355393,
+        "id": "bbb212bd-a935-40d8-af1d-dae512aa0572",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "cb397591-e1b0-4e08-afab-c9b6f7699af9"
+    },
+    "bbb213ca-bfb4-47cf-bd39-5e56a025b734": {
+      "id": "bbb213ca-bfb4-47cf-bd39-5e56a025b734",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "I need a cheap but experience MedSpa white label meadi buyer who can run lots of good ads, creatives, and handle the visin behind the ads"
+          ]
+        },
+        "create_time": 1783009239.59626,
+        "id": "bbb213ca-bfb4-47cf-bd39-5e56a025b734",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "d8178d0c-20f1-4b4b-8a35-e89e27dc6e85"
+    },
+    "cb397591-e1b0-4e08-afab-c9b6f7699af9": {
+      "id": "cb397591-e1b0-4e08-afab-c9b6f7699af9",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "If you're planning to white label media buying under The Luxora Collective, I would avoid the typical \"$500/month\" overseas media buyers. You need someone who understands the **med spa patient journey**, not just how to click buttons in Meta.\n\nHere are the types of partners I'd look at, in order:\n\n1. **Experienced freelance Meta media buyer (my top recommendation)**\n   * Cost: $2,000 to $3,500/month\n   * Can usually handle 10 to 20 clients.\n   * Look for someone with at least **$2M+ in Meta ad spend** and multiple med spa case studies.\n   * Have them work under your brand while you own the client relationship and strategy.\n\n2. **White label performance agency**\n   * Cost: Typically $1,000 to $2,500 per client depending on services.\n   * Best if you expect to scale quickly and don't want to hire employees.\n   * Make sure they provide:\n      * Meta media buying\n      * Creative testing\n      * Copywriting\n      * Weekly reporting\n      * Slack communication\n\n3. **Fractional media buying team**\n   * Cost: Around $3,000 to $6,000/month.\n   * More expensive, but they usually include a creative strategist and media buyer together.\n\nFor your business, I would specifically require they can:\n- Run Meta lead generation campaigns for med spas.\n- Produce 10 to 20 new creative variations every month.\n- Understand offers like Botox, fillers, weight loss, lasers, memberships, and Hydrafacials.\n- Build retargeting and nurture campaigns.\n- Read metrics beyond CPL, including booked appointments, show rates, consultation rates, and ROI.\n- Follow **your** vision rather than using cookie-cutter ads.\n\nBased on everything we've built for Luxora, I actually wouldn't hire someone to \"own\" strategy. I'd keep that in-house. Your competitive advantage is your understanding of the med spa industry and revenue systems. I'd hire someone to execute your vision while you direct:\n- Offer positioning\n- Messaging\n- Creative concepts\n- Testing priorities\n- Scaling decisions\n\nThen let them handle:\n- Campaign builds\n- Budget management\n- Daily optimization\n- Creative production\n- Reporting\n\nI can also help you put together a hiring funnel and interview process. I have a technical interview scorecard with about 40 questions that will quickly expose whether someone is a true senior media buyer or just another person who knows how to boost Facebook posts. It will save you from making an expensive hiring mistake."
+          ]
+        },
+        "create_time": 1783009242.577228,
+        "id": "cb397591-e1b0-4e08-afab-c9b6f7699af9",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "",
+              "has_images": false,
+              "prefix": null,
+              "prompt_text": null,
+              "sources": [],
+              "type": "sources_footnote"
+            }
+          ],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Memory",
+                "citation_uuid": "39a3f2c9-ec3c-48cf-ac5b-26f25c9200f0",
+                "conversation_context_type": "general_memory",
+                "end_idx": -1,
+                "index": 1,
+                "matched_text": "",
+                "prompt_text": null,
+                "reason": "You run The Luxora Collective as a med-spa growth partner.",
+                "refs": [],
+                "snippet": "Aesthetic Growth Partner for Med Spas",
+                "start_idx": -1,
+                "title": "You run The Luxora Collective as a med-spa growth partner.",
+                "type": "conversation_context_citation",
+                "url": "#settings/Personalization"
+              },
+              "citation_uuid": "39a3f2c9-ec3c-48cf-ac5b-26f25c9200f0",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "17152a35-1af9-43fe-9ff0-4177c3afee55",
+          "search_result_groups": [
+            {
+              "domain": "wikipedia.org",
+              "entries": [
+                {
+                  "attribution": "wikipedia.org",
+                  "snippet": "White is the lightest color [2] and is achromatic (having no chroma). It is the color of objects such as snow, chalk, and milk, and is the opposite of black.Read more",
+                  "title": "White",
+                  "url": "https://en.wikipedia.org/wiki/White?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "merriam-webster.com",
+              "entries": [
+                {
+                  "attribution": "merriam-webster.com",
+                  "snippet": "4 days ago \u2014 The meaning of WHITE is having the color of new snow or milk; specifically : of the color white. How to use white in a sentence.",
+                  "title": "WHITE Definition & Meaning",
+                  "url": "https://www.merriam-webster.com/dictionary/white?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "sherwin-williams.com",
+              "entries": [
+                {
+                  "attribution": "sherwin-williams.com",
+                  "snippet": "Discover our whitest and coolest whites available. Find the right shade for your next home DIY project with Sherwin-Williams white paint colors.",
+                  "title": "White Paint Colors | Sherwin-Williams",
+                  "url": "https://www.sherwin-williams.com/en-us/color/color-family/white-paint-colors/tab/all-whites?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "spotify.com",
+              "entries": [
+                {
+                  "attribution": "spotify.com",
+                  "snippet": "Listen to White on Spotify. Song \u00b7 Frank Ocean, John Mayer \u00b7 2012.",
+                  "title": "White - song and lyrics by Frank Ocean, John Mayer",
+                  "url": "https://open.spotify.com/track/1VMdwVq0yaTc4DeqSCi7DO?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "verywellmind.com",
+              "entries": [
+                {
+                  "attribution": "verywellmind.com",
+                  "snippet": "Jun 4, 2026 \u2014 The color white traditionally symbolizes purity, innocence, and cleanliness. Across different cultures, it can evoke varied meanings, from peace ...Read more",
+                  "title": "What Does the Color White Symbolize? - Psychology",
+                  "url": "https://www.verywellmind.com/color-psychology-white-2795822?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "cambridge.org",
+              "entries": [
+                {
+                  "attribution": "cambridge.org",
+                  "snippet": "WHITE meaning: 1. of a colour like that of snow, milk, or bone: 2. having a pale face because you are not well\u2026. Learn more.",
+                  "title": "WHITE | definition in the Cambridge English Dictionary",
+                  "url": "https://dictionary.cambridge.org/us/dictionary/english/white?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "dunnedwards.com",
+              "entries": [
+                {
+                  "attribution": "dunnedwards.com",
+                  "snippet": "Discover the Whites Collection by Dunn-Edwards\u2014timeless white paint colors for walls and cabinets, from crisp to soft shades, perfect for any space.",
+                  "title": "White Paint Colors: Whites Collection",
+                  "url": "https://www.dunnedwards.com/colors/collections/perfect-palette/whites/?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "bbb213ca-bfb4-47cf-bd39-5e56a025b734"
+    },
+    "d8178d0c-20f1-4b4b-8a35-e89e27dc6e85": {
+      "id": "d8178d0c-20f1-4b4b-8a35-e89e27dc6e85",
+      "message": null,
+      "parent": null
+    },
+    "e9a87efa-7378-4a55-9944-a99fd941d350": {
+      "id": "e9a87efa-7378-4a55-9944-a99fd941d350",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "If I were building **The Luxora Collective** to 100+ med spa clients, these are the companies I'd actually get on Zoom with. I'd focus on agencies that can act as your invisible fulfillment team while you own the client relationship.\n\n### 1. \ue200url\ue202Brill Media\ue202https://brillmedia.co\ue201 \u2b50 My top recommendation\n**Best for:** High-end agencies wanting an experienced media buying partner.\n\nPros:\n- Senior U.S.-based media buyers.\n- White label fulfillment.\n- Meta, Google, creative strategy, landing pages, and reporting.\n- Flexible pricing models.\n- Strong communication and dashboards. \ue200cite\ue202turn0search8\ue201\n\nThis is probably the closest fit to what you're describing.\n\n### 2. \ue200url\ue202Agency Elevation\ue202https://www.agencyelevation.com\ue201\n**Best for:** Scaling an agency without hiring.\n\nPros:\n- White label Facebook Ads.\n- Dedicated account managers.\n- Slack communication.\n- U.S.-based fulfillment.\n- Can also handle SEO and PPC if you expand later. \ue200cite\ue202turn0search7\ue201\n\n### 3. \ue200url\ue202North American Advertising\ue202https://northamericanadvertising.com/service/white-label-meta-ads/\ue201\n**Best for:** Meta ads specifically.\n\nPros:\n- Completely white label.\n- They build, optimize, and manage Meta campaigns.\n- Designed specifically for agencies reselling Meta advertising. \ue200cite\ue202turn0search2\ue201\n\n### 4. \ue200url\ue202White Label Agency\ue202https://www.whitelabelagency.co\ue201\n**Best for:** Affordable, broad marketing fulfillment.\n\nPros:\n- Facebook and Instagram ads.\n- Google Ads.\n- Web development.\n- SEO.\n- Can become an extension of your team. \ue200cite\ue202turn0search0\ue201\n\n---\n\n## If I were you...\n\nI actually wouldn't hire a generic white label company.\n\nI'd look for a **boutique 2 to 10 person media buying team** that already manages multiple med spas. You'd likely pay around **$2,000 to $5,000 per month** and they'd handle:\n- Meta media buying\n- Creative testing\n- Video editing\n- Static creatives\n- Copywriting\n- Weekly reporting\n- Scaling winners\n\nThat gives you much more control and usually much better performance than a large fulfillment company.\n\nKnowing your vision for Luxora, I'd also insist they:\n- Work inside your Meta Business Manager.\n- Let **you** own every ad account.\n- Follow **your** messaging and positioning.\n- Produce new creative every week, not just optimize existing ads.\n- Join Slack with your team.\n- Attend weekly strategy calls.\n\nI can also build you a shortlist of **5 to 10 boutique media buying teams that already specialize in med spas and aesthetics**, which I think would be a better fit than the larger white label agencies."
+          ]
+        },
+        "create_time": 1783009277.358334,
+        "id": "e9a87efa-7378-4a55-9944-a99fd941d350",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "[Brill Media](https://brillmedia.co?utm_source=chatgpt.com)",
+              "logo": null,
+              "prefix": null,
+              "prompt_text": null,
+              "title": "Brill Media",
+              "type": "url"
+            },
+            {
+              "alt": "([Brill Media](https://brillmedia.co/resources/white-label-media-buying-agency/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "Brill Media",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 8,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Brill Media is a top white label media buying agency, running advertising campaigns across search, social, display, and CTV campaigns.",
+                  "supporting_websites": [],
+                  "title": "White Label Media Buying",
+                  "url": "https://brillmedia.co/resources/white-label-media-buying-agency/?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "[Agency Elevation](https://www.agencyelevation.com?utm_source=chatgpt.com)",
+              "logo": null,
+              "prefix": null,
+              "prompt_text": null,
+              "title": "Agency Elevation",
+              "type": "url"
+            },
+            {
+              "alt": "([agencyelevation.com](https://www.agencyelevation.com/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "agencyelevation.com",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 7,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "Here at Agency Elevation, we're a trusted white label SEO agency offering scalable, done-for-you digital marketing services that help your agency grow.",
+                  "supporting_websites": [],
+                  "title": "Agency Elevation: White Label SEO Agency | Marketing ...",
+                  "url": "https://www.agencyelevation.com/?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "[North American Advertising](https://northamericanadvertising.com/service/white-label-meta-ads/?utm_source=chatgpt.com)",
+              "logo": null,
+              "prefix": null,
+              "prompt_text": null,
+              "title": "North American Advertising",
+              "type": "url"
+            },
+            {
+              "alt": "([North American Advertising](https://northamericanadvertising.com/service/white-label-meta-ads/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "North American Advertising",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 2,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "We provide fully managed white-label Meta ads services, allowing your agency to offer Facebook and Instagram advertising without hiring an in-house media buying ...Read more",
+                  "supporting_websites": [],
+                  "title": "White-Label Meta Ads",
+                  "url": "https://northamericanadvertising.com/service/white-label-meta-ads/?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "[White Label Agency](https://www.whitelabelagency.co?utm_source=chatgpt.com)",
+              "logo": null,
+              "prefix": null,
+              "prompt_text": null,
+              "title": "White Label Agency",
+              "type": "url"
+            },
+            {
+              "alt": "([whitelabelagency.co](https://www.whitelabelagency.co/?utm_source=chatgpt.com))",
+              "fallback_items": null,
+              "items": [
+                {
+                  "attribution": "whitelabelagency.co",
+                  "attribution_segments": null,
+                  "attributions": null,
+                  "hue": null,
+                  "pub_date": null,
+                  "refs": [
+                    {
+                      "ref_index": 0,
+                      "ref_type": "search",
+                      "turn_index": 0
+                    }
+                  ],
+                  "snippet": "White Label Agency is an award-winning all-in-one white label agency for startups & agencies. Click here to learn more about our workflow and services.",
+                  "supporting_websites": [],
+                  "title": "White Label Agency",
+                  "url": "https://www.whitelabelagency.co/?utm_source=chatgpt.com"
+                }
+              ],
+              "prefix": null,
+              "prompt_text": null,
+              "type": "grouped_webpages"
+            },
+            {
+              "alt": "",
+              "has_images": false,
+              "prefix": null,
+              "prompt_text": null,
+              "sources": [
+                {
+                  "attribution": "Brill Media",
+                  "title": "White Label Media Buying",
+                  "url": "https://brillmedia.co/resources/white-label-media-buying-agency/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "agencyelevation.com",
+                  "title": "Agency Elevation: White Label SEO Agency | Marketing ...",
+                  "url": "https://www.agencyelevation.com/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "North American Advertising",
+                  "title": "White-Label Meta Ads",
+                  "url": "https://northamericanadvertising.com/service/white-label-meta-ads/?utm_source=chatgpt.com"
+                },
+                {
+                  "attribution": "whitelabelagency.co",
+                  "title": "White Label Agency",
+                  "url": "https://www.whitelabelagency.co/?utm_source=chatgpt.com"
+                }
+              ],
+              "type": "sources_footnote"
+            }
+          ],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Memory",
+                "citation_uuid": "dee90a4a-2018-43c8-8af5-98946c1703b7",
+                "conversation_context_type": "general_memory",
+                "end_idx": -1,
+                "index": 1,
+                "matched_text": "",
+                "prompt_text": null,
+                "reason": "You position Luxora as an aesthetic growth partner for med spas.",
+                "refs": [],
+                "snippet": "Aesthetic Growth Partner agency.",
+                "start_idx": -1,
+                "title": "You position Luxora as an aesthetic growth partner for med spas.",
+                "type": "conversation_context_citation",
+                "url": "#settings/Personalization"
+              },
+              "citation_uuid": "dee90a4a-2018-43c8-8af5-98946c1703b7",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "9e86d949-d804-4860-9cd1-934666132620",
+          "search_result_groups": [
+            {
+              "domain": "facebook.com",
+              "entries": [
+                {
+                  "attribution": "facebook.com",
+                  "snippet": "Looking for a white label agency DM me if you can help my Gym/Spa clients. Let's connect and discuss how we can work together. Let's form a solid offer. ...",
+                  "title": "Looking for a white label agency",
+                  "url": "https://www.facebook.com/groups/836557968038332/posts/1322405749453549/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "clicksgeek.com",
+              "entries": [
+                {
+                  "attribution": "clicksgeek.com",
+                  "snippet": "Mar 20, 2026 \u2014 White Label IQ is a full-service white label fulfillment company offering PPC alongside SEO, social media management, and web design services.Read more",
+                  "title": "9 Best White Label PPC Companies to Partner With in 2026",
+                  "url": "https://clicksgeek.com/white-label-ppc-company/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "reddit.com",
+              "entries": [
+                {
+                  "attribution": "reddit.com",
+                  "snippet": "I'm Ankita. I've been running white-label Facebook Ads for digital agencies for the past 5+ years. My clients are agency owners \u2014 they sell ads ...Read more",
+                  "title": "I run white label Facebook Ads for 30+ agencies and ...",
+                  "url": "https://www.reddit.com/r/FacebookAds/comments/1rqmvte/i_run_white_label_facebook_ads_for_30_agencies/?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "madgicx.com",
+              "entries": [
+                {
+                  "attribution": "madgicx.com",
+                  "snippet": "Dec 12, 2025 \u2014 A white-label Meta ad platform is a tool or service that an agency can rebrand and sell to its clients as its own solution for managing and ...Read more",
+                  "title": "10 Best White-Label Meta Ad Platforms to Scale Your Agency",
+                  "url": "https://madgicx.com/blog/white-label-meta-ad-platforms?utm_source=chatgpt.com"
+                }
+              ]
+            },
+            {
+              "domain": "endymed.com",
+              "entries": [
+                {
+                  "attribution": "endymed.com",
+                  "snippet": "Nov 21, 2024 \u2014 The term \u201cwhite label\u201d implies a service that comes with a blank label so that the seller may fill it with his own logo and branding and sell it ...Read more",
+                  "title": "How to Hire a MedSpa Marketing Agency",
+                  "url": "https://endymed.com/2024/11/21/how-to-hire-a-medspa-marketing-agency/?utm_source=chatgpt.com"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parent": "bbb212bd-a935-40d8-af1d-dae512aa0572"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "MedSpa White Label Ads",
+  "update_time": 1783009285.872008,
+  "voice": null
+}

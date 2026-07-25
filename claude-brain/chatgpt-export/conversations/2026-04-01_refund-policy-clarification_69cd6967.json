@@ -1,0 +1,94 @@
+{
+  "conversation_id": "69cd6967-29e4-8326-9c67-4b43de76ffa8",
+  "conversation_template_id": null,
+  "create_time": 1775069558.341641,
+  "current_node": "3591c833-98ed-4f03-bf4c-8cf0d46c6d61",
+  "default_model_slug": "gpt-5-3",
+  "id": "69cd6967-29e4-8326-9c67-4b43de76ffa8",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "3591c833-98ed-4f03-bf4c-8cf0d46c6d61": {
+      "id": "3591c833-98ed-4f03-bf4c-8cf0d46c6d61",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Got it, this is the clean, accurate way to explain it on a call:\n\n\u201cWe don\u2019t do refunds. The way our guarantee works is we stay in it with you until the result is achieved. Our goal is to generate at least 2x your investment in lifetime value, and if we don\u2019t hit that within the initial window, we continue working with you at no additional cost until we do. The only condition is that you follow the program and implement what we build. That way, the risk is completely on us and the outcome is aligned on both sides.\u201d"
+          ]
+        },
+        "create_time": 1775075055.605968,
+        "id": "3591c833-98ed-4f03-bf4c-8cf0d46c6d61",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "9ef35190-fcfe-4f55-b78e-35e7ee0281e0"
+        }
+      },
+      "parent": "bbb2112d-1425-455d-91f7-d74efbdd2b5b"
+    },
+    "bbb2112d-1425-455d-91f7-d74efbdd2b5b": {
+      "id": "bbb2112d-1425-455d-91f7-d74efbdd2b5b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "No give a brief paragraph that I can use if someone asks me to explain it on a sales call"
+          ]
+        },
+        "create_time": 1775075055.41527,
+        "id": "bbb2112d-1425-455d-91f7-d74efbdd2b5b",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "e6bb0de5-d9e4-4b62-b215-d261736def29"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "e6bb0de5-d9e4-4b62-b215-d261736def29": {
+      "id": "e6bb0de5-d9e4-4b62-b215-d261736def29",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "this has nothing to do with the math that was shown... and we dont refudn we work for free until we meet that number as long as they follow the program"
+          ]
+        },
+        "create_time": 1775069557.094,
+        "id": "e6bb0de5-d9e4-4b62-b215-d261736def29",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Refund Policy Clarification",
+  "update_time": 1775075064.47032,
+  "voice": null
+}

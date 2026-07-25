@@ -1,0 +1,164 @@
+{
+  "conversation_id": "6993935e-957c-8328-bd53-31d929b5f7a2",
+  "conversation_template_id": null,
+  "create_time": 1771279205.890257,
+  "current_node": "08ba23fe-20a5-4f3c-9f3e-8a33dfa5d7eb",
+  "default_model_slug": "gpt-5-2",
+  "id": "6993935e-957c-8328-bd53-31d929b5f7a2",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "08ba23fe-20a5-4f3c-9f3e-8a33dfa5d7eb": {
+      "id": "08ba23fe-20a5-4f3c-9f3e-8a33dfa5d7eb",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "\u26d4 Businesses generating under $1M annually (we recommend building the foundation first, then returning when ready to scale)\n\n\u26d4 Owners seeking low-cost lead generation without systems investment\n\n\u26d4 Practices looking to outsource growth entirely rather than partner in building sustainable infrastructure\n\n\u26d4 Teams unable to respond to inquiries promptly or implement sales training\n\n\u26d4 Decision-makers requiring extended evaluation periods beyond two weeks"
+          ]
+        },
+        "create_time": 1771279231.228529,
+        "id": "08ba23fe-20a5-4f3c-9f3e-8a33dfa5d7eb",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "1c2a75b0-e058-4d7a-8422-40168a91e241"
+        }
+      },
+      "parent": "1c2a75b0-e058-4d7a-8422-40168a91e241"
+    },
+    "1c2a75b0-e058-4d7a-8422-40168a91e241": {
+      "id": "1c2a75b0-e058-4d7a-8422-40168a91e241",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "\u26d4"
+          ]
+        },
+        "create_time": 1771279230.942,
+        "id": "1c2a75b0-e058-4d7a-8422-40168a91e241",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "7d4aaffc-0271-466f-9a6e-ef286ff03157"
+    },
+    "20d02116-262b-4e9a-b8a5-92dd6b99f776": {
+      "id": "20d02116-262b-4e9a-b8a5-92dd6b99f776",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "put bullet point on these: Businesses generating under $1M annually (we recommend building foundation first, then returning when ready to scale)\n\nOwners seeking low-cost lead generation without systems investment\n\nPractices looking to outsource growth entirely rather than partner in building sustainable infrastructure\n\nTeams unable to respond to inquiries promptly or implement sales training\n\nDecision-makers requiring extended evaluation periods beyond two weeks"
+          ]
+        },
+        "create_time": 1771279205.488,
+        "id": "20d02116-262b-4e9a-b8a5-92dd6b99f776",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "7d4aaffc-0271-466f-9a6e-ef286ff03157": {
+      "id": "7d4aaffc-0271-466f-9a6e-ef286ff03157",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here you go using a **circled X** style for each line:\n\n\u24cd Businesses generating under $1M annually (we recommend building the foundation first, then returning when ready to scale)\n\n\u24cd Owners seeking low-cost lead generation without systems investment\n\n\u24cd Practices looking to outsource growth entirely rather than partner in building sustainable infrastructure\n\n\u24cd Teams unable to respond to inquiries promptly or implement sales training\n\n\u24cd Decision-makers requiring extended evaluation periods beyond two weeks\n\nIf you want a heavier or more dramatic symbol (like \u26d4 or \u2297) for brand tone, I can swap it."
+          ]
+        },
+        "create_time": 1771279217.903816,
+        "id": "7d4aaffc-0271-466f-9a6e-ef286ff03157",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "84983028-b4e2-42c0-8cd6-7414d651697c"
+        }
+      },
+      "parent": "eed58ac6-df80-4696-aec2-8ef2bd02688f"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "e633a937-bef9-4521-8f10-dc51ce9801ed": {
+      "id": "e633a937-bef9-4521-8f10-dc51ce9801ed",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here you go, clean and clear with bullet points:\n\n- Businesses generating under $1M annually (we recommend building the foundation first, then returning when ready to scale)\n\n- Owners seeking low-cost lead generation without systems investment\n\n- Practices looking to outsource growth entirely rather than partner in building sustainable infrastructure\n\n- Teams unable to respond to inquiries promptly or implement sales training\n\n- Decision-makers requiring extended evaluation periods beyond two weeks"
+          ]
+        },
+        "create_time": 1771279205.779427,
+        "id": "e633a937-bef9-4521-8f10-dc51ce9801ed",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "8c97651d-8799-4fb0-9e71-f002108c9824"
+        }
+      },
+      "parent": "20d02116-262b-4e9a-b8a5-92dd6b99f776"
+    },
+    "eed58ac6-df80-4696-aec2-8ef2bd02688f": {
+      "id": "eed58ac6-df80-4696-aec2-8ef2bd02688f",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "make them an x with circle around it"
+          ]
+        },
+        "create_time": 1771279217.638,
+        "id": "eed58ac6-df80-4696-aec2-8ef2bd02688f",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "e633a937-bef9-4521-8f10-dc51ce9801ed"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Bullet Point Formatting",
+  "update_time": 1771279237.325336,
+  "voice": null
+}

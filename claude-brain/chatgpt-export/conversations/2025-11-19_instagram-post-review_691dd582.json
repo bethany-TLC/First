@@ -1,0 +1,71 @@
+{
+  "conversation_id": "691dd582-0b1c-8330-99b7-7f603a57a9e3",
+  "conversation_template_id": null,
+  "create_time": 1763562908.632637,
+  "current_node": "4beaa969-acce-41be-823d-80aa8ffff7d6",
+  "default_model_slug": "gpt-5-1",
+  "id": "691dd582-0b1c-8330-99b7-7f603a57a9e3",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "4beaa969-acce-41be-823d-80aa8ffff7d6": {
+      "id": "4beaa969-acce-41be-823d-80aa8ffff7d6",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here is a polished Instagram post with *no em dashes* and written from the perspective of an industry insider:\n\n---\n\nSpent the day with the brilliant Jennifer Rushing at Banyan & Bamboo MedSpa in Austin, and I am still smiling from how impressive her space is. This spa is the perfect example of what happens when strong clinical skills meet thoughtful business vision.\n\nJennifer has curated a modern, welcoming, and versatile studio that feels like it was designed to grow with her. Every inch is intentional. The treatment rooms are set up for efficiency and expansion. The product selection is top tier, and she carries the newest regenerative and aesthetic tools that clients are looking for right now. You can feel the potential for future service lines and add ons simply by walking the space.\n\nWhat I love most is the way she runs a fully functional med spa with solid systems while still keeping the atmosphere relaxed, personalized, and luxury focused. As someone who works closely with practices across the country, it is rare to see a leader balance quality care, cutting edge offerings, and scalable business planning the way she does.\n\nBanyan & Bamboo is not just a cute studio in Austin. It is a growing brand with strong roots and real potential. Jennifer is doing big things, and I cannot wait to watch what she builds next.\n\n\ud83c\udf3f Austin, you are lucky to have her.  \n\u2728 Keep your eye on Banyan & Bamboo MedSpa."
+          ]
+        },
+        "create_time": 1763562909.674924,
+        "id": "4beaa969-acce-41be-823d-80aa8ffff7d6",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-1",
+          "parent_id": "7c7aa45b-a1c2-4f45-8c09-f4d2005e2ec5"
+        }
+      },
+      "parent": "bbb2120d-c292-4bfc-9e19-6667c9dfdc85"
+    },
+    "4ee58266-2cff-4706-9891-7b6b56258e44": {
+      "id": "4ee58266-2cff-4706-9891-7b6b56258e44",
+      "message": null,
+      "parent": null
+    },
+    "bbb2120d-c292-4bfc-9e19-6667c9dfdc85": {
+      "id": "bbb2120d-c292-4bfc-9e19-6667c9dfdc85",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Wrote an Instagram post about visiting Jennifer Rushing at Banyan & Bamboo MedSpa in Austin, Tx and visiting her super cute and versatile spa. Talk about her having all the latest procedures and products and room to grow. Talk about her amazing ability to run a fullt functional spa and make it seem like a great review with insider thoughts from an expert "
+          ]
+        },
+        "create_time": 1763562908.155427,
+        "id": "bbb2120d-c292-4bfc-9e19-6667c9dfdc85",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "4ee58266-2cff-4706-9891-7b6b56258e44"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Instagram post review",
+  "update_time": 1763562918.243752,
+  "voice": null
+}

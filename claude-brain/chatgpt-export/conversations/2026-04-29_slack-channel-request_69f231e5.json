@@ -1,0 +1,116 @@
+{
+  "conversation_id": "69f231e5-d7c0-83ea-9986-7048e500da06",
+  "conversation_template_id": null,
+  "create_time": 1777480200.273129,
+  "current_node": "429374ef-6999-45ea-884b-26037723cd6f",
+  "default_model_slug": "gpt-5-3",
+  "id": "69f231e5-d7c0-83ea-9986-7048e500da06",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "429374ef-6999-45ea-884b-26037723cd6f": {
+      "id": "429374ef-6999-45ea-884b-26037723cd6f",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Hi Dr. Carl, it\u2019s Aanchal.\n\nSorry we missed your call, we were on another Zoom with a client.\n\nCould you check your email for the Slack invite and join when you can? That\u2019ll be the best place for us to stay aligned day to day.\n\nLet me know if you need help getting set up."
+          ]
+        },
+        "create_time": 1777480226.177081,
+        "id": "429374ef-6999-45ea-884b-26037723cd6f",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "bbb213d7-ba90-4dff-950b-62d267ab84b3"
+        }
+      },
+      "parent": "bbb213d7-ba90-4dff-950b-62d267ab84b3"
+    },
+    "64010b20-99a9-483d-9c99-fd800d27c080": {
+      "id": "64010b20-99a9-483d-9c99-fd800d27c080",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Hi Dr. Carl, it\u2019s Aanchal.\n\nSorry we missed your call, we were on another Zoom with a client.\n\nQuick note to ask if you could join your Slack channel with us for ongoing communication. It\u2019s the best way for us to stay aligned and support you day to day.\n\nI\u2019m happy to help you get set up, or we can coordinate with Ashley if that\u2019s easier since we have her details on file.\n\nOnce you\u2019re in, it would be great to keep communication within Slack so we can manage everything smoothly.\n\nLet me know what works best for you."
+          ]
+        },
+        "create_time": 1777480200.086916,
+        "id": "64010b20-99a9-483d-9c99-fd800d27c080",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "2653681b-c7b9-4883-87e5-eb5e673e1ce0"
+        }
+      },
+      "parent": "bbb21137-89ea-4a7c-ac7f-d4137bdbc691"
+    },
+    "bbb21137-89ea-4a7c-ac7f-d4137bdbc691": {
+      "id": "bbb21137-89ea-4a7c-ac7f-d4137bdbc691",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Add sorry we missed your call, but we were on another zoom with a clients... The go into this: Hi Dr. Carl, it\u2019s Aanchal.\n\nJust a quick note to ask if you could please join your Slack channel with us for ongoing communication. It\u2019ll be the best way for us to stay aligned and support you efficiently day to day.\n\nI\u2019m happy to help you get set up, or if it\u2019s easier, we can coordinate this with Ashley as well. I believe we have her details on file.\n\nAlso, if possible, it would be great to keep communication within Slack once you\u2019re set up, as it helps us manage everything more smoothly.\n\nPlease let me know what works best for you.\n\n\n\nAlso shortened this "
+          ]
+        },
+        "create_time": 1777480199.841773,
+        "id": "bbb21137-89ea-4a7c-ac7f-d4137bdbc691",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "f6b44139-4b80-453c-b92a-8f131c607ac1"
+    },
+    "bbb213d7-ba90-4dff-950b-62d267ab84b3": {
+      "id": "bbb213d7-ba90-4dff-950b-62d267ab84b3",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Shorter and ask him to check email for slack in ite"
+          ]
+        },
+        "create_time": 1777480225.98845,
+        "id": "bbb213d7-ba90-4dff-950b-62d267ab84b3",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "64010b20-99a9-483d-9c99-fd800d27c080"
+    },
+    "f6b44139-4b80-453c-b92a-8f131c607ac1": {
+      "id": "f6b44139-4b80-453c-b92a-8f131c607ac1",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Slack Channel Request",
+  "update_time": 1777480231.797769,
+  "voice": null
+}

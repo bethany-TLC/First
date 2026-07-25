@@ -1,0 +1,232 @@
+{
+  "conversation_id": "6a3d6618-5dd0-83e8-bc30-8def5bdc4c61",
+  "conversation_template_id": null,
+  "create_time": 1782408738.755273,
+  "current_node": "06ea910a-f3c4-4770-a7fd-ed15406694d6",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a3d6618-5dd0-83e8-bc30-8def5bdc4c61",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "06ea910a-f3c4-4770-a7fd-ed15406694d6": {
+      "id": "06ea910a-f3c4-4770-a7fd-ed15406694d6",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "If you're looking for a **free alternative to Doodle** for scheduling meetings, here are the best options:\n\n1. **\ue200entity\ue202[\"software\",\"Calendly\",\"meeting scheduling software\"]\ue201**\n   * Best for: One-on-one meetings\n   * Free plan includes:\n     * 1 event type\n     * Google, Outlook, Office 365, and iCloud calendar integration\n     * Automatic time zone detection\n   * Great if you mostly book discovery calls or client meetings.\n\n2. **\ue200entity\ue202[\"software\",\"When2meet\",\"group scheduling tool\"]\ue201**\n   * Best for: Finding a time that works for groups\n   * Completely free\n   * No account required\n   * Participants simply mark when they're available.\n   * Very similar to Doodle's original polling concept.\n\n3. **\ue200entity\ue202[\"software\",\"Zcal\",\"calendar scheduling software\"]\ue201**\n   * Best for: Beautiful booking pages\n   * Free plan includes unlimited booking links\n   * Modern interface\n   * Works well for agencies and consultants.\n\n4. **\ue200entity\ue202[\"software\",\"Zeeg\",\"appointment scheduling software\"]\ue201**\n   * Best for: Privacy-focused scheduling\n   * Generous free plan\n   * Calendar integrations\n   * Booking links and reminders\n\n5. **\ue200entity\ue202[\"software\",\"Cal.com\",\"open-source scheduling software\"]\ue201**\n   * Best for: Flexibility and customization\n   * Free individual plan\n   * Google and Outlook integration\n   * Open source, so it's highly customizable.\n\n6. **\ue200entity\ue202[\"software\",\"Google Forms\",\"online forms software\"]\ue201**\n   * Best for: Simple availability polls\n   * Create a form with several date/time options\n   * Free with a Google account\n   * Not automated, but very effective for coordinating groups.\n\n### My recommendation based on your use case\n\nSince you're running **The Luxora Collective** and scheduling sales calls, interviews, and podcasts:\n\n- **For booking sales calls:** Use **\ue200entity\ue202[\"software\",\"Calendly\",\"meeting scheduling software\"]\ue201** or **\ue200entity\ue202[\"software\",\"Zcal\",\"calendar scheduling software\"]\ue201**.\n- **For interviewing multiple candidates or finding a time that works for several people:** Use **\ue200entity\ue202[\"software\",\"When2meet\",\"group scheduling tool\"]\ue201**.\n- **If you specifically like Doodle's polling feature:** **When2meet** is probably the closest free alternative."
+          ]
+        },
+        "create_time": 1782408738.662147,
+        "id": "06ea910a-f3c4-4770-a7fd-ed15406694d6",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "Calendly",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "meeting scheduling software"
+              },
+              "id": "NbSFcz4qeUgg84Xb",
+              "metadata": null,
+              "name": "Calendly",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Calendly",
+              "type": "entity"
+            },
+            {
+              "alt": "When2meet",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "group scheduling tool"
+              },
+              "id": "b09gzloPlzsoR8kh",
+              "metadata": null,
+              "name": "When2meet",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "When2meet",
+              "type": "entity"
+            },
+            {
+              "alt": "Zcal",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "calendar scheduling software"
+              },
+              "id": "gdeMg__ka0axoFwj",
+              "metadata": null,
+              "name": "Zcal",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Zcal",
+              "type": "entity"
+            },
+            {
+              "alt": "Zeeg",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "appointment scheduling software"
+              },
+              "id": "ZYnvLywPZV459O6h",
+              "metadata": null,
+              "name": "Zeeg",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Zeeg",
+              "type": "entity"
+            },
+            {
+              "alt": "Cal.com",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "open-source scheduling software"
+              },
+              "id": "brOY4R7kZ8hSHfwW",
+              "metadata": null,
+              "name": "Cal.com",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Cal.com",
+              "type": "entity"
+            },
+            {
+              "alt": "Google Forms",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "online forms software"
+              },
+              "id": "pOiBCvRRb2nzCVF7",
+              "metadata": null,
+              "name": "Google Forms",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Google Forms",
+              "type": "entity"
+            },
+            {
+              "alt": "Calendly",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "meeting scheduling software"
+              },
+              "id": "NbSFcz4qeUgg84Xb",
+              "metadata": null,
+              "name": "Calendly",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Calendly",
+              "type": "entity"
+            },
+            {
+              "alt": "Zcal",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "calendar scheduling software"
+              },
+              "id": "gdeMg__ka0axoFwj",
+              "metadata": null,
+              "name": "Zcal",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Zcal",
+              "type": "entity"
+            },
+            {
+              "alt": "When2meet",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "group scheduling tool"
+              },
+              "id": "b09gzloPlzsoR8kh",
+              "metadata": null,
+              "name": "When2meet",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "When2meet",
+              "type": "entity"
+            }
+          ],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Memory",
+                "citation_uuid": "3ca8ab53-32ee-4446-83af-25b644e90617",
+                "conversation_context_type": "general_memory",
+                "end_idx": -1,
+                "index": 1,
+                "matched_text": "",
+                "prompt_text": null,
+                "reason": "You run The Luxora Collective as its Founder & CEO.",
+                "refs": [],
+                "snippet": "Role/Title: Founder & CEO (also signed \u201cCo-Founder & CEO\u201d earlier).",
+                "start_idx": -1,
+                "title": "You run The Luxora Collective as its Founder & CEO.",
+                "type": "conversation_context_citation",
+                "url": "#settings/Personalization"
+              },
+              "citation_uuid": "3ca8ab53-32ee-4446-83af-25b644e90617",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "ed6e1b21-f649-4f81-8668-e6c758fce974"
+        }
+      },
+      "parent": "bbb21e45-98b7-4b8e-924f-6549a317ada9"
+    },
+    "5a091e9c-0085-4396-817d-1606cdd7797c": {
+      "id": "5a091e9c-0085-4396-817d-1606cdd7797c",
+      "message": null,
+      "parent": null
+    },
+    "bbb21e45-98b7-4b8e-924f-6549a317ada9": {
+      "id": "bbb21e45-98b7-4b8e-924f-6549a317ada9",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "What is another free service that is like doodle scheduler"
+          ]
+        },
+        "create_time": 1782408738.316082,
+        "id": "bbb21e45-98b7-4b8e-924f-6549a317ada9",
+        "metadata": {
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "5a091e9c-0085-4396-817d-1606cdd7797c"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Free Doodle Alternatives",
+  "update_time": 1782408750.362041,
+  "voice": null
+}

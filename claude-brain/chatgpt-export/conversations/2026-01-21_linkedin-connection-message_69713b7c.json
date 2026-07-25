@@ -1,0 +1,146 @@
+{
+  "conversation_id": "69713b7c-eef0-8330-96d3-49e02a1b1910",
+  "conversation_template_id": null,
+  "create_time": 1769028498.737922,
+  "current_node": "2b887c09-d5dd-42e5-9f16-b3b52f9904cd",
+  "default_model_slug": "gpt-5-2",
+  "id": "69713b7c-eef0-8330-96d3-49e02a1b1910",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "2b887c09-d5dd-42e5-9f16-b3b52f9904cd": {
+      "id": "2b887c09-d5dd-42e5-9f16-b3b52f9904cd",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Perfect. Here\u2019s the **short version**, tweaked to clearly signal **selling** without sounding pushy:\n\n> **Hi [Name],** I work with manufacturers that want to sell surplus CNC equipment when upgrading or consolidating, and we handle the full purchase and removal process. Connecting to stay in touch if it\u2019s ever useful.\n\nIf you want it **even more casual**, here\u2019s a slightly softer option:\n\n> **Hi [Name],** I work with manufacturers looking to sell surplus CNC equipment and handle the full removal process. Thought it made sense to connect in case it\u2019s ever useful.\n\nWant me to tailor this by **role** (plant manager vs owner vs ops) or by **region-based buying** language (e.g., \u201cactively buying in your area\u201d)?"
+          ]
+        },
+        "create_time": 1769028532.704682,
+        "id": "2b887c09-d5dd-42e5-9f16-b3b52f9904cd",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "44a8d2a5-547c-4965-9681-5defe5624af6"
+        }
+      },
+      "parent": "44a8d2a5-547c-4965-9681-5defe5624af6"
+    },
+    "44a8d2a5-547c-4965-9681-5defe5624af6": {
+      "id": "44a8d2a5-547c-4965-9681-5defe5624af6",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "i like the shorter one, but it needs to mention that they want to sell"
+          ]
+        },
+        "create_time": 1769028532.302,
+        "id": "44a8d2a5-547c-4965-9681-5defe5624af6",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "d4daaab9-855b-4751-8c85-13e66169b278"
+    },
+    "83dd6884-d16e-456e-825d-b386ccf42cce": {
+      "id": "83dd6884-d16e-456e-825d-b386ccf42cce",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "thoughts",
+          "source_analysis_msg_id": "8f4e96ba-1f4a-439c-9d24-dbd31981bd4e",
+          "thoughts": [
+            {
+              "chunks": [],
+              "content": "",
+              "finished": true,
+              "summary": ""
+            }
+          ]
+        },
+        "create_time": 1769028500.324316,
+        "id": "83dd6884-d16e-456e-825d-b386ccf42cce",
+        "metadata": {
+          "model_slug": "gpt-5-2",
+          "parent_id": "d780b61c-487c-40b2-b11a-e1d49600908e"
+        }
+      },
+      "parent": "92cdc0ae-cf32-4154-aa69-304ba1074c63"
+    },
+    "92cdc0ae-cf32-4154-aa69-304ba1074c63": {
+      "id": "92cdc0ae-cf32-4154-aa69-304ba1074c63",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "can you take these and make one linkedin connection message that kinda fits these all: Hey [Name], I work with manufacturers to help remove surplus CNC equipment and free up floor space. I thought it made sense to connect here.\r\nHi [Name], I help facilities turn idle or depreciated CNC equipment into working capital. Connecting in case it is useful for future projects.\r\nHey [Name], my team buys surplus CNC equipment and handles full decommissioning and removal. Connecting to stay in touch for upcoming projects.\r\nHi [Name], I work with manufacturers that are consolidating or rightsizing and need to sell surplus CNC equipment. Would be great to connect.\r\nHi [Name], I help shops sell older CNC machines when they upgrade to new equipment. Connecting in case you have upcoming upgrades.\r\nHi [Name], I help facilities remove idle or problem equipment and reclaim space. Thought it would be useful to connect.\r\nHey [Name], I buy used CNC equipment and manage full removal for manufacturers. Would like to connect here.\r\n\r\n\r\nHey [Name], I connect with leaders in manufacturing to support future surplus equipment needs. Would be glad to stay connected.\r\nHi [Name], I work with manufacturers operating below capacity and help them liquidate surplus equipment. Let\u2019s connect.\r\nHey [Name], we are actively buying CNC equipment in your region over the next 60 days. Connecting in case you have machines you may consider selling.\r\n\r"
+          ]
+        },
+        "create_time": 1769028498.345,
+        "id": "92cdc0ae-cf32-4154-aa69-304ba1074c63",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "d4daaab9-855b-4751-8c85-13e66169b278": {
+      "id": "d4daaab9-855b-4751-8c85-13e66169b278",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a clean, natural **single LinkedIn connection message** that blends all of those angles without sounding salesy or repetitive:\n\n> **Hi [Name],** I work with manufacturers to help remove surplus or underutilized CNC equipment, freeing up floor space and turning idle assets into working capital. We handle purchase, decommissioning, and full removal when shops upgrade, consolidate, or right-size. Thought it made sense to connect and stay in touch for future projects.\n\nIf you want a **shorter / softer** version for tighter character limits, here\u2019s an alternate option:\n\n> **Hi [Name],** I work with manufacturers to buy surplus CNC equipment and handle full removal when shops upgrade or consolidate. Connecting to stay in touch if it\u2019s ever useful.\n\nIf you\u2019d like, I can also:\n- Create **3 tone variations** (very soft, neutral, slightly direct)\n- Optimize it for **plant managers vs. ops vs. owners**\n- Write a **follow-up message** after they accept the connection"
+          ]
+        },
+        "create_time": 1769028498.611855,
+        "id": "d4daaab9-855b-4751-8c85-13e66169b278",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "83dd6884-d16e-456e-825d-b386ccf42cce"
+        }
+      },
+      "parent": "83dd6884-d16e-456e-825d-b386ccf42cce"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "LinkedIn Connection Message",
+  "update_time": 1769028559.94505,
+  "voice": null
+}

@@ -1,0 +1,161 @@
+{
+  "conversation_id": "69ea695d-ea3c-83ea-99a7-bb2c6db21896",
+  "conversation_template_id": null,
+  "create_time": 1776970102.977362,
+  "current_node": "eab2d32a-ff76-42bc-9748-d138de596ed0",
+  "default_model_slug": "gpt-5-3",
+  "id": "69ea695d-ea3c-83ea-99a7-bb2c6db21896",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "6c963a5b-23b0-4fe5-8fcb-616fcc712b39": {
+      "id": "6c963a5b-23b0-4fe5-8fcb-616fcc712b39",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "You\u2019re spot on\u2026 but I\u2019d push this one step further.\n\nIt\u2019s not just a *differentiation problem* right now, it\u2019s a **systems problem**.\n\nMost med spas aren\u2019t losing because they look the same\u2026 they\u2019re losing because everything *after* the lead looks the same too.\n\nSame slow follow-up  \nSame weak consult structure  \nSame lack of clear next step  \nSame \u201ccome back when you\u2019re ready\u201d energy  \n\nSo even when they *do* stand out and get attention\u2026 they still convert like everyone else.\n\nThe ones pulling ahead right now aren\u2019t just saying something different, they\u2019re:\n\u2022 Engineering a better client journey  \n\u2022 Controlling the experience from first click to membership  \n\u2022 And turning each patient into higher LTV instead of chasing more volume  \n\nPrice wars happen when there\u2019s no perceived difference.  \nBut they also happen when the backend can\u2019t support real growth.\n\nMost people don\u2019t need more leads right now\u2026 they need to fix what\u2019s happening in between.\n\nCurious if you\u2019ve looked at your numbers from lead \u2192 booking \u2192 show \u2192 plan \u2192 retention\u2026 that\u2019s where it usually gets interesting."
+          ]
+        },
+        "create_time": 1776970102.873456,
+        "id": "6c963a5b-23b0-4fe5-8fcb-616fcc712b39",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "a1a6909e-9c35-4610-9160-bc00fe4ce4fb"
+        }
+      },
+      "parent": "bbb21628-a813-43b7-ba42-e77bd9d4120f"
+    },
+    "9b59e0bc-874a-4c9c-b24d-5b791854e847": {
+      "id": "9b59e0bc-874a-4c9c-b24d-5b791854e847",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "You\u2019re spot on\u2026 but I\u2019d take it one step further.\n\nIt\u2019s not just a differentiation problem, it\u2019s a systems problem.\n\nMost med spas aren\u2019t losing because they look the same\u2026 they\u2019re losing because everything after the lead looks the same too.\n\nSame slow follow-up  \nSame weak consult structure  \nSame lack of clear next step  \nSame \u201ccome back when you\u2019re ready\u201d energy  \n\nSo even when they do stand out and get attention, they still convert like everyone else.\n\nThe ones pulling ahead right now aren\u2019t just saying something different. They\u2019re building a better client journey, controlling the experience from first click to membership, and increasing lifetime value instead of chasing more volume.\n\nPrice wars happen when there\u2019s no perceived difference. But they also happen when the backend can\u2019t support real growth.\n\nMost don\u2019t need more leads right now. They need to fix what\u2019s happening in between.\n\nHave you looked at your numbers from lead \u2192 booking \u2192 show \u2192 plan \u2192 retention? That\u2019s usually where it gets interesting."
+          ]
+        },
+        "create_time": 1776970124.76013,
+        "id": "9b59e0bc-874a-4c9c-b24d-5b791854e847",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "f9e83c85-c6a4-432e-852e-8b902d64d726"
+        }
+      },
+      "parent": "bbb2195d-aa9a-415f-a063-d36860efaea1"
+    },
+    "aef2126b-8626-4688-ac06-1674befdb766": {
+      "id": "aef2126b-8626-4688-ac06-1674befdb766",
+      "message": null,
+      "parent": null
+    },
+    "bbb21205-32f4-4d20-a309-79902e27272a": {
+      "id": "bbb21205-32f4-4d20-a309-79902e27272a",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Not so many paragraphs "
+          ]
+        },
+        "create_time": 1776970137.1407,
+        "id": "bbb21205-32f4-4d20-a309-79902e27272a",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "9b59e0bc-874a-4c9c-b24d-5b791854e847"
+    },
+    "bbb21628-a813-43b7-ba42-e77bd9d4120f": {
+      "id": "bbb21628-a813-43b7-ba42-e77bd9d4120f",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Comment on this guys post\n Make it to the point: Anyone else feel like it's getting harder to stand out right now?\nEvery market I talk to, it's the same story. New spa opened up down the street. The one that's been there for 5 years just dropped their Botox price. Everybody's running the same promos, using the same before/afters, saying the same things on their website. And the patients you used to get easily are suddenly shopping around and you're getting a smaller slice of the pie as more competition enters the market.\n\nI hit this wall in my own business recently and had to figure my way out of it, so I wanted to share what I've been working through in case it helps.\n\n18 months ago my calendar was packed. 6-7 week waitlist, couldn't take new clients if I wanted to. Fast forward to this year and it got HARDER to bring people in, even though objectively we'd gotten better at the work.\n\nAs I reflected on it, I realized I sounded like every other business out there. Prospects had a hard time picking me over anyone else because it looked like a very similar apples-to-apples comparison. I was trying to win on the margins, hoping people could just tell I was better. News flash....most of them can't and won't. \n\nI think this is the same trap a lot of med spas are in right now. You might genuinely be better than the place down the street. Your consults are longer. Your technique is different. Your results look more natural. But your website says \"Botox & Filler,\" your ads say \"$12/unit,\" and now you're stuck competing against every other med spa in town on the margins.\n\nA couple things that have helped me start digging out:\nWriting out every single thing I do for clients that the competition doesn't. Most of it I was doing for free, in my head, without ever telling anyone it was happening. If it's not said out loud, it doesn't exist to the patient.\nGetting specific about WHO I'm for and what outcome I own. \"We do Botox and filler\" is what everyone says. We need to think bigger on how to differentiate our businesses.\nMaking sure my proof matches my pitch. If I claim to specialize in something, my reviews, photos, and content better all point to it. Otherwise it's just words.\nIs this something you're feeling too? Curious what's working for people right now, or what you've tried that flopped. \n\nRecorded a full episode on this one if you want to go deeper: https://www.youtube.com/watch?v=7dX37jOFsbY&t=37s\n"
+          ]
+        },
+        "create_time": 1776970102.684582,
+        "id": "bbb21628-a813-43b7-ba42-e77bd9d4120f",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "aef2126b-8626-4688-ac06-1674befdb766"
+    },
+    "bbb2195d-aa9a-415f-a063-d36860efaea1": {
+      "id": "bbb2195d-aa9a-415f-a063-d36860efaea1",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ok put this in comment format "
+          ]
+        },
+        "create_time": 1776970124.512055,
+        "id": "bbb2195d-aa9a-415f-a063-d36860efaea1",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "6c963a5b-23b0-4fe5-8fcb-616fcc712b39"
+    },
+    "eab2d32a-ff76-42bc-9748-d138de596ed0": {
+      "id": "eab2d32a-ff76-42bc-9748-d138de596ed0",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "You\u2019re spot on, but I\u2019d take it one step further. It\u2019s not just a differentiation problem, it\u2019s a systems problem. Most med spas lose in what happens after the lead\u2026 slow follow-up, weak consults, no clear next step, no retention strategy.\n\nSo even when they stand out, they still convert like everyone else.\n\nThe ones winning are controlling the full client journey and increasing LTV, not chasing more volume.\n\nMost don\u2019t need more leads. They need to fix what\u2019s happening in between."
+          ]
+        },
+        "create_time": 1776970137.385446,
+        "id": "eab2d32a-ff76-42bc-9748-d138de596ed0",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "bbb21205-32f4-4d20-a309-79902e27272a"
+        }
+      },
+      "parent": "bbb21205-32f4-4d20-a309-79902e27272a"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Differentiation vs Systems",
+  "update_time": 1776970140.318176,
+  "voice": null
+}

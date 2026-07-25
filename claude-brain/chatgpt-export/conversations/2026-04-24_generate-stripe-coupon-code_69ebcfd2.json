@@ -1,0 +1,88 @@
+{
+  "conversation_id": "69ebcfd2-a428-83ea-9b6c-bb092a5e2e2a",
+  "conversation_template_id": null,
+  "create_time": 1777061850.9829,
+  "current_node": "0e210b77-13c5-4df7-bcfe-8bab44c2a239",
+  "default_model_slug": "gpt-5-3",
+  "id": "69ebcfd2-a428-83ea-9b6c-bb092a5e2e2a",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "0e210b77-13c5-4df7-bcfe-8bab44c2a239": {
+      "id": "0e210b77-13c5-4df7-bcfe-8bab44c2a239",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s exactly how to generate a coupon code in \ue200entity\ue202[\"software\",\"Stripe\",\"payments platform\"]\ue201 step-by-step:\n\n---\n\n## \ud83d\udd39 Step 1: Go to Coupons\n- Log into your Stripe dashboard  \n- Click **\u201cProducts\u201d** in the left sidebar  \n- Then click **\u201cCoupons\u201d**\n\n---\n\n## \ud83d\udd39 Step 2: Create the Coupon\nClick **\u201c+ Create coupon\u201d** and fill in:\n\n- **Name**: Internal (example: Luxora50)\n- **Type**:\n  - Percentage (ex: 25% off)\n  - Fixed amount (ex: $500 off)\n- **Duration**:\n  - One-time  \n  - Forever (for subscriptions)  \n  - Limited (ex: 3 months)\n\n---\n\n## \ud83d\udd39 Step 3: Create the Promo Code (this is what clients use)\nAfter saving the coupon:\n\n- Click **\u201cAdd promotion code\u201d**\n- Enter the actual code customers will type  \n  (example: `TRACY50`, `LUXORA90`, `VIPCLIENT`)\n\nYou can also:\n- Limit number of uses  \n- Set an expiration date  \n- Restrict to specific customers  \n\n---\n\n## \ud83d\udd39 Step 4: Apply It to Your Checkout\nIf you're using:\n- **Stripe Payment Links** \u2192 toggle \u201cAllow promotion codes\u201d\n- **Checkout / API** \u2192 pass the coupon or promo code in the backend\n\n---\n\n## \ud83d\udca1 Pro Tips (for how you sell)\n- Use **deadline-driven codes** to create urgency  \n  Example: \u201cSecure your spot before Wednesday with code LUXORA500\u201d\n- Use **name-based codes** for personalization  \n  Example: `RUDY500` (feels exclusive, increases conversion)\n- Stack this with your **guarantee messaging** (no risk + incentive = faster close)\n\n---\n\nIf you want, I can help you create a few high-converting coupon names specifically for your Luxora Growth Engine offer or build it directly into your checkout flow."
+          ]
+        },
+        "create_time": 1777061850.851193,
+        "id": "0e210b77-13c5-4df7-bcfe-8bab44c2a239",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": "Stripe",
+              "entity_data": null,
+              "entity_index": null,
+              "extra_params": {
+                "disambiguation": "payments platform"
+              },
+              "id": null,
+              "metadata": null,
+              "name": "Stripe",
+              "notes": null,
+              "prefix": null,
+              "prompt_text": "Stripe",
+              "type": "entity"
+            }
+          ],
+          "model_slug": "gpt-5-3",
+          "parent_id": "193d8b85-0f18-4c11-a4ee-31db2ffc47e9"
+        }
+      },
+      "parent": "38508f44-91b3-4ba9-8546-b62a476febe2"
+    },
+    "38508f44-91b3-4ba9-8546-b62a476febe2": {
+      "id": "38508f44-91b3-4ba9-8546-b62a476febe2",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "how do i generte coupon code for stripe an"
+          ]
+        },
+        "create_time": 1777061850.574,
+        "id": "38508f44-91b3-4ba9-8546-b62a476febe2",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Generate Stripe Coupon Code",
+  "update_time": 1777061861.785179,
+  "voice": null
+}

@@ -1,0 +1,71 @@
+{
+  "conversation_id": "69ff4d45-0388-83ea-aed1-1117320d2ddb",
+  "conversation_template_id": null,
+  "create_time": 1778339217.99374,
+  "current_node": "95d38a94-dc53-4b02-b66d-a9409cebf60d",
+  "default_model_slug": "gpt-5-5",
+  "id": "69ff4d45-0388-83ea-aed1-1117320d2ddb",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "68e9a3d9-452f-43a4-8007-3fc229f7801c": {
+      "id": "68e9a3d9-452f-43a4-8007-3fc229f7801c",
+      "message": null,
+      "parent": null
+    },
+    "95d38a94-dc53-4b02-b66d-a9409cebf60d": {
+      "id": "95d38a94-dc53-4b02-b66d-a9409cebf60d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ":::writing{variant=\"social_post\" id=\"58241\"}\nTonight was one of those moments I know I\u2019ll hold onto forever. Watching Donivan be honored at his junior/senior banquet was such a beautiful reminder that we are nearing the end of an incredibly special chapter. One of the last big high school events and this senior mama is feeling ALL the emotions. \ud83e\udd79\n\nI truly cannot say enough about how much this small school and community have meant to him and to our family. We have been so unbelievably blessed to be surrounded by loving, intentional people who have poured countless hours, prayers, encouragement, wisdom, and years into helping shape the young man he is becoming. The teachers, mentors, coaches, parents, friends\u2026 every single person has played a part in his growth and journey.\n\nAs a mom, there is something so bittersweet about watching your baby step into adulthood while desperately wanting to freeze time all at once. I am soaking in every last second. Every event. Every late night conversation. Every car ride. Every hug. Every \u201cMom, look at this.\u201d Because I know these moments are fleeting.\n\nAnd through it all, I\u2019m so grateful for the love and support of family who continues to show up for him and cheer him on every step of the way.\n\nSo proud of you, Donivan. Watching the man you are becoming has been one of the greatest honors of my life. \u2764\ufe0f\n:::"
+          ]
+        },
+        "create_time": 1778339217.903182,
+        "id": "95d38a94-dc53-4b02-b66d-a9409cebf60d",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "6364021d-f21c-4c54-bc64-dc6fbea29965"
+        }
+      },
+      "parent": "bbb21f20-904b-45ba-911f-f7cb557f1ba7"
+    },
+    "bbb21f20-904b-45ba-911f-f7cb557f1ba7": {
+      "id": "bbb21f20-904b-45ba-911f-f7cb557f1ba7",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write a post about Donivan being honored at his junior senior banquet, one of his last events for high school. Talk about how amazing this small school has been for him and his life and how blessed we are to be surrounded by such loving, intentional people who have poured unless amount of hours and years into his growth. Talk about being supported by family and enjoying every last minute of my time with him. Soaking in every ounce of being a senior mom"
+          ]
+        },
+        "create_time": 1778339217.625094,
+        "id": "bbb21f20-904b-45ba-911f-f7cb557f1ba7",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "68e9a3d9-452f-43a4-8007-3fc229f7801c"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Senior Banquet Reflections",
+  "update_time": 1778339223.661505,
+  "voice": null
+}

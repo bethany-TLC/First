@@ -1,0 +1,129 @@
+{
+  "conversation_id": "69d3f9c3-9c2c-8328-b6a8-a862cfa04db1",
+  "conversation_template_id": null,
+  "create_time": 1775499752.456672,
+  "current_node": "cce43fbd-1429-4aca-8a44-29ce1d8a0215",
+  "default_model_slug": "gpt-5-3",
+  "id": "69d3f9c3-9c2c-8328-b6a8-a862cfa04db1",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "5051cae6-595b-41d4-8237-2bcb1178e4a6": {
+      "id": "5051cae6-595b-41d4-8237-2bcb1178e4a6",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "shorter"
+          ]
+        },
+        "create_time": 1775499885.672,
+        "id": "5051cae6-595b-41d4-8237-2bcb1178e4a6",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "c82da60c-fa90-4be0-a677-ca8dff25208d"
+    },
+    "5d624266-dea1-42d6-b962-9a7e65e5b7d7": {
+      "id": "5d624266-dea1-42d6-b962-9a7e65e5b7d7",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "taket his trassctip and come up with a paragraph or two about what to say to Keisha to kindly approach us not workign with her anymore, keep in mind we are in a contract but wed like to make a deal that she can be our go to person for our medspas and not our agency soclias perosn: "
+          ]
+        },
+        "create_time": 1775499751.38,
+        "id": "5d624266-dea1-42d6-b962-9a7e65e5b7d7",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_0000000014c471f5baf89b56913c9696",
+              "is_big_paste": true,
+              "library_file_id": "libfile_0e557fe701ec8191accc3f2d8612aab4",
+              "mime_type": "text/plain",
+              "name": "Pasted text.txt",
+              "size": 50759,
+              "source": "local"
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "c82da60c-fa90-4be0-a677-ca8dff25208d": {
+      "id": "c82da60c-fa90-4be0-a677-ca8dff25208d",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a clean, professional way to approach Keisha based on the tone and strategy from your transcript, keeping it calm, non-blaming, and solution-oriented:\n\n---\n\nKeisha, I want to start by saying how much we genuinely appreciate the work you\u2019ve put in and the relationship we\u2019ve built so far. We know how talented you are, especially in the med spa space, and that\u2019s something we really value. As we\u2019ve taken a step back and looked at where we\u2019re headed as a company, we\u2019ve realized that the direction we need to go with our internal brand and agency presence requires a different level of structure, bandwidth, and strategy than what we initially set out to build together. This isn\u2019t about anything being \u201cwrong\u201d on either side, but more about alignment and how we operate day-to-day as we scale.\n\nWith that said, we\u2019d love to find a way to restructure our relationship rather than fully sever it. We see a lot of value in keeping you as a go-to creative partner specifically for our med spa clients, where your strengths really shine and where we can collaborate in a more focused, effective way. For our internal agency content, we\u2019re going to be moving in a different direction. Given that we do have a contract in place, our goal here is to have an open conversation about how we can transition this in a way that feels fair and positive for both sides. We want to make sure you feel respected in this process, while also allowing us to move forward in the way we need to as a business.\n\n---\n\nIf you want, I can also give you a **shorter, more direct version for the actual call** or a **text message heads-up version** before the call."
+          ]
+        },
+        "create_time": 1775499752.306736,
+        "id": "c82da60c-fa90-4be0-a677-ca8dff25208d",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "26641769-e76f-48eb-9eea-e0c1107d3aaa"
+        }
+      },
+      "parent": "5d624266-dea1-42d6-b962-9a7e65e5b7d7"
+    },
+    "cce43fbd-1429-4aca-8a44-29ce1d8a0215": {
+      "id": "cce43fbd-1429-4aca-8a44-29ce1d8a0215",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Keisha, I really appreciate the work you\u2019ve put in and the effort you\u2019ve made with us. As we\u2019ve taken a step back and looked at where we\u2019re going as a company, we\u2019ve realized we need to move in a different direction for our internal brand and agency content. This is more about alignment and bandwidth than anything else.\n\nThat said, we\u2019d love to keep working with you in a more focused way by having you as our go-to for med spa clients, where your strengths really shine. Since we do have a contract in place, we want to have an open conversation about how we can transition this in a way that feels fair for both of us."
+          ]
+        },
+        "create_time": 1775499893.769154,
+        "id": "cce43fbd-1429-4aca-8a44-29ce1d8a0215",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "0ff63468-f3e6-4b25-8c42-5154ab24b915"
+        }
+      },
+      "parent": "5051cae6-595b-41d4-8237-2bcb1178e4a6"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Ending Agency Collaboration",
+  "update_time": 1775499912.804577,
+  "voice": null
+}

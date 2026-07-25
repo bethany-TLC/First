@@ -1,0 +1,210 @@
+{
+  "conversation_id": "6942eacc-b8d8-832c-b011-4edc03f013d9",
+  "conversation_template_id": null,
+  "create_time": 1765993205.913124,
+  "current_node": "7e71ef1a-c374-40ee-adb3-660dcf87aff8",
+  "default_model_slug": "gpt-5-2",
+  "id": "6942eacc-b8d8-832c-b011-4edc03f013d9",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "118297c7-71b3-468c-b6fb-28322497a8f1": {
+      "id": "118297c7-71b3-468c-b6fb-28322497a8f1",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here are clean, Apollo-ready **industry keywords**, formatted so you can copy and paste or mix and match:\n\nHigher Education, Education, Continuing Education, Professional Education, Workforce Development, Vocational Training, Career Education, Allied Health Education, Nursing Education, Healthcare Education, Medical Education, Clinical Education, Aesthetic Education, Cosmetology Education, Esthetics Education, Medical Aesthetics Training, Injector Training, Aesthetic Medicine Training, Dermatology Education, Plastic Surgery Education, Certificate Programs, Specialty Training Programs"
+          ]
+        },
+        "create_time": 1765993540.497724,
+        "id": "118297c7-71b3-468c-b6fb-28322497a8f1",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "848b47d8-c125-41da-be61-b86ab2276449"
+        }
+      },
+      "parent": "848b47d8-c125-41da-be61-b86ab2276449"
+    },
+    "17468238-5f25-4345-b92e-98fc7546cf4e": {
+      "id": "17468238-5f25-4345-b92e-98fc7546cf4e",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Director, Dean, Coordinator, Instructor, Manager, Lead, Head, Faculty"
+          ]
+        },
+        "create_time": 1765993343.226954,
+        "id": "17468238-5f25-4345-b92e-98fc7546cf4e",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "63de6e4a-5ea6-45d4-b681-dd7f9dbdc40c"
+        }
+      },
+      "parent": "63de6e4a-5ea6-45d4-b681-dd7f9dbdc40c"
+    },
+    "27df898a-1fd4-4926-b30e-b97b9d1ac8e1": {
+      "id": "27df898a-1fd4-4926-b30e-b97b9d1ac8e1",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "only use ones that will lead to aesthetic training"
+          ]
+        },
+        "create_time": 1765993566.15,
+        "id": "27df898a-1fd4-4926-b30e-b97b9d1ac8e1",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "118297c7-71b3-468c-b6fb-28322497a8f1"
+    },
+    "63de6e4a-5ea6-45d4-b681-dd7f9dbdc40c": {
+      "id": "63de6e4a-5ea6-45d4-b681-dd7f9dbdc40c",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Director\r\nDean\r\nCoordinator\r\nInstructor\r\nManager\r\nLead\r\nHead\r\nFaculty make these with commas"
+          ]
+        },
+        "create_time": 1765993342.911,
+        "id": "63de6e4a-5ea6-45d4-b681-dd7f9dbdc40c",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "f01ba72d-2859-43c0-bd7b-1203fbeb84bd"
+    },
+    "7e71ef1a-c374-40ee-adb3-660dcf87aff8": {
+      "id": "7e71ef1a-c374-40ee-adb3-660dcf87aff8",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here are **tight, high-intent industry keywords** that will specifically lead you to **aesthetic / injector training programs**, not general education noise:\n\nAesthetic Education, Medical Aesthetics Training, Injector Training, Aesthetic Medicine Training, Nursing Aesthetics Education, Clinical Aesthetic Education, Cosmetic Injection Training, Botox and Filler Training, Dermatology Education, Plastic Surgery Education, Esthetics Education, Advanced Aesthetic Training, Allied Health Aesthetics, Clinical Injector Education, Aesthetic Certification Programs"
+          ]
+        },
+        "create_time": 1765993566.485307,
+        "id": "7e71ef1a-c374-40ee-adb3-660dcf87aff8",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "27df898a-1fd4-4926-b30e-b97b9d1ac8e1"
+        }
+      },
+      "parent": "27df898a-1fd4-4926-b30e-b97b9d1ac8e1"
+    },
+    "848b47d8-c125-41da-be61-b86ab2276449": {
+      "id": "848b47d8-c125-41da-be61-b86ab2276449",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "industry key words"
+          ]
+        },
+        "create_time": 1765993540.126,
+        "id": "848b47d8-c125-41da-be61-b86ab2276449",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "17468238-5f25-4345-b92e-98fc7546cf4e"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "d3b653a6-1ce6-4ee2-a994-4ca3578083be": {
+      "id": "d3b653a6-1ce6-4ee2-a994-4ca3578083be",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "if i want to target universities that offer aesthetic injector courses who/what should i search up on apollo ai"
+          ]
+        },
+        "create_time": 1765993204.969,
+        "id": "d3b653a6-1ce6-4ee2-a994-4ca3578083be",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "f01ba72d-2859-43c0-bd7b-1203fbeb84bd": {
+      "id": "f01ba72d-2859-43c0-bd7b-1203fbeb84bd",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "If you want to **target universities or educational programs that offer aesthetic injector courses** using Apollo AI (for outbound lists and outreach), you\u2019ll want to craft **search criteria that find the right institutions and decision-makers**. Here\u2019s how to structure it:\n\n---\n\n## \ud83c\udfaf **Who to Target (Titles / Roles)**\nThese are the people most likely involved with or connected to aesthetic injector courses:\n\n### 1. Academic Leadership & Program Owners\n- **Director of Nursing**\n- **Director of Allied Health Programs**\n- **Dean of Health Sciences**\n- **Dean of Continuing Education / Professional Studies**\n- **Head of Aesthetics / Cosmetology Department**\n- **Program Coordinator \u2013 Aesthetic Medicine / Injector Training**\n- **Clinical Education Director**\n- **Director of Workforce Development**\n\n### 2. Instructors / Educators\n- **Aesthetic Injector Instructor**\n- **Injection Skills Instructor**\n- **Nurse Injector Trainer**\n- **Clinical Teaching Faculty**\n- **Adjunct Faculty \u2013 Aesthetics**\n\n### 3. Administrators Who Influence Partnerships\n- **Director of Industry Partnerships**\n- **Corporate Learning & Development Lead**\n- **Continuing Education Partnerships Manager**\n- **Corporate Training Partnerships Director**\n- **Business Development \u2013 Education Division**\n\n---\n\n## \ud83d\udd0e **What to Search for in Apollo AI**\nApollo\u2019s filters let you find organizations and contacts by keywords, industries, and education level. Here\u2019s how to set those up:\n\n### \u2705 **Company / Organization Search Keywords**\nUse these to find universities or education providers:\n```\n\u201caesthetic injector\u201d\n\u201caesthetic medicine courses\u201d\n\u201cadvanced injector training\u201d\n\u201ccosmetology injector\u201d\n\u201cdermatology training\u201d\n\u201cnurse injector training\u201d\n\u201cesthetician injection training\u201d\nesthetic academy\u201d\n\u201caesthetic education\u201d\n```\n\nPair those with broad organizational words:\n```\n\u201cUniversity\u201d\n\u201cCollege\u201d\n\u201cInstitute\u201d\n\u201cSchool\u201d\n\u201cAcademy\u201d\n\u201cContinuing Education\u201d\n```\n\nExample Company Boolean:\n```\n(University OR College OR Institute OR Academy)\nAND (\u201caesthetic injector\u201d OR \u201cinjector training\u201d OR \u201caesthetic medicine course\u201d)\n```\n\n### \u2705 **Title / Role Search Keywords**\nUse for contact selection:\n```\nDirector\nDean\nCoordinator\nInstructor\nManager\nLead\nHead\nFaculty\n```\n\n---\n\n## \ud83c\udfeb **Industry / Company Filters**\n- **Industry:** Education, Higher Education, eLearning Providers\n- **Company Type:** Public University, Private University, College, Vocational School, Training Academy\n- **Employee Count:** 10\u20132,500 (depends on what programs you want)\n- **Location:** U.S. \u2014 can narrow to states with high med-spa growth (CA, FL, TX, etc.)\n\n---\n\n## \ud83d\udd17 **Example Search Setups in Apollo**\n### **1. University Aesthetic Training Programs**\n**Company Keyword:**\n```\n(University OR College) AND (\u201caesthetic injector\u201d OR \u201caesthetic medicine\u201d OR \u201cesthetician injection\u201d)\n```\n**Contact Title:**\n```\nDirector OR Dean OR Coordinator OR Instructor\n```\n**Industry:** Education\n\n---\n\n### **2. Nurse Injector / Medical Aesthetic Programs**\n**Company Keyword:**\n```\n(\u201caesthetic medicine\u201d OR \u201ccosmetology\u201d OR \u201cdermatology training\u201d)\n```\n**Contact Title:**\n```\nClinical Education Director OR Instructor OR Dean\n```\n**Industry:** Healthcare Education\n\n---\n\n### **3. Continuing Education / Professional Schools**\nThese aren\u2019t universities but teach injector courses.\n**Company Keyword:**\n```\n(academy OR institute) AND (\u201cinjector training\u201d OR \u201cadvanced aesthetic course\u201d)\n```\n**Contact Title:**\n```\nProgram Director OR Manager OR Head of Partnerships\n```\n**Industry:** Training Services / Education\n\n---\n\n## \ud83d\udca1 **Pro Tip: Salesforce-Style Boolean Enhancements**\nTo catch variations:\n```\n(\u201caesthetic injector\u201d OR \u201cinjector certification\u201d OR \u201cbotox + training\u201d OR \u201cdermal filler + course\u201d)\n```\n\n---\n\n## \ud83d\udce9 **Ideal Outreach Angles**\nOnce you have the list:\n- **Partnership/Guest Speaker Opportunities**\n- **Curriculum Support / Sponsored Modules**\n- **Clinical Placement / Industry Collaboration**\n- **Student Career Placement Programs**\n- **Tools, Products, Resources for Students**\n\n---\n\n## \ud83d\udccc Quick Checklist Before You Build the List\n\u2705 Do you want *universities only* or *any certified injector training program*?  \n\u2705 Are you targeting *decision-makers* or *instructors* too?  \n\u2705 Are you focusing on *online educators* or *campus-based programs*?  \n\n---\n\nIf you want, I can help you **write exact Boolean strings to paste into Apollo AI** tailored to your outreach goal (e.g., partnerships vs recruitment vs content collaborations). Let me know which direction you\u2019re going!"
+          ]
+        },
+        "create_time": 1765993206.001699,
+        "id": "f01ba72d-2859-43c0-bd7b-1203fbeb84bd",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "cc97d739-dc30-41ea-b2b4-2e9f1b4a8d1c"
+        }
+      },
+      "parent": "d3b653a6-1ce6-4ee2-a994-4ca3578083be"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Targeting universities on Apollo AI",
+  "update_time": 1765993573.152623,
+  "voice": null
+}

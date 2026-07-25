@@ -1,0 +1,71 @@
+{
+  "conversation_id": "696cfa29-b01c-8329-a62a-9a1de48586ed",
+  "conversation_template_id": null,
+  "create_time": 1768749627.331239,
+  "current_node": "e28b736b-f649-4218-acf4-12ac4b5ea5a6",
+  "default_model_slug": "gpt-5-2",
+  "id": "696cfa29-b01c-8329-a62a-9a1de48586ed",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "b956e43c-56a2-4446-b378-0f7a42aa733f": {
+      "id": "b956e43c-56a2-4446-b378-0f7a42aa733f",
+      "message": null,
+      "parent": null
+    },
+    "bbb213ff-0c39-4742-88c2-a644eff3f719": {
+      "id": "bbb213ff-0c39-4742-88c2-a644eff3f719",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Write a post about getting the text from your 18 yr old: mom do you want to go to the movie with. Let me tell you what: you drop everything your doing, don't worry about the crazy amount of pain your in or todo list and you get up and go to that movie! It's time alike this that I know everything is going to turn out already"
+          ]
+        },
+        "create_time": 1768749627.020928,
+        "id": "bbb213ff-0c39-4742-88c2-a644eff3f719",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "b956e43c-56a2-4446-b378-0f7a42aa733f"
+    },
+    "e28b736b-f649-4218-acf4-12ac4b5ea5a6": {
+      "id": "e28b736b-f649-4218-acf4-12ac4b5ea5a6",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here\u2019s a polished, heartfelt version in your voice, ready to post:\n\n---\n\nI got a text today that said,  \n\u201cMom, do you want to go to the movie with me?\u201d\n\nLet me tell you something.  \nYou drop *everything*.\n\nYou do not worry about the crazy amount of pain you\u2019re in.  \nYou do not look at the to do list.  \nYou do not say maybe later.\n\nYou get up. You go. You sit next to your 18 year old who still wants to spend time with you.\n\nBecause these moments are sacred.  \nBecause this season is fleeting.  \nBecause no accomplishment, no email, no task will ever matter more than being chosen by your child.\n\nIt\u2019s in moments like this that I feel it deep in my soul.  \nEverything is going to turn out exactly how it\u2019s supposed to.\n\nGod\u2019s got us. \ud83d\udc9b"
+          ]
+        },
+        "create_time": 1768749627.210221,
+        "id": "e28b736b-f649-4218-acf4-12ac4b5ea5a6",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-2",
+          "parent_id": "2b51e271-d4dc-48e1-a23b-fe2ba508f64d"
+        }
+      },
+      "parent": "bbb213ff-0c39-4742-88c2-a644eff3f719"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Movie Invitation Reflection",
+  "update_time": 1768749636.046346,
+  "voice": null
+}

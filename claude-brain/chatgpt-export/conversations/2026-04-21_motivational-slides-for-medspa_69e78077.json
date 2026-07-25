@@ -1,0 +1,191 @@
+{
+  "conversation_id": "69e78077-ffbc-83ea-9756-3b79341b5760",
+  "conversation_template_id": null,
+  "create_time": 1776779397.021194,
+  "current_node": "0d65b15a-7a29-4c80-84a0-8a79e1995a83",
+  "default_model_slug": "gpt-5-3",
+  "id": "69e78077-ffbc-83ea-9756-3b79341b5760",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "0d65b15a-7a29-4c80-84a0-8a79e1995a83": {
+      "id": "0d65b15a-7a29-4c80-84a0-8a79e1995a83",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "create_time": 1776779814.558255,
+        "id": "0d65b15a-7a29-4c80-84a0-8a79e1995a83",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "695ef37f-4af8-4b54-8e49-11cd7d22fa7d"
+        }
+      },
+      "parent": "bbb21e55-48dd-4707-8cae-de9dff3f4467"
+    },
+    "12613f89-fdea-498a-b0d9-85df50e2004c": {
+      "id": "12613f89-fdea-498a-b0d9-85df50e2004c",
+      "message": null,
+      "parent": null
+    },
+    "8234ddc8-9bf1-454f-9108-212b980162ff": {
+      "id": "8234ddc8-9bf1-454f-9108-212b980162ff",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "create_time": 1776779565.121463,
+        "id": "8234ddc8-9bf1-454f-9108-212b980162ff",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "b37a41b8-78dd-4ffd-be20-598629ead46f"
+        }
+      },
+      "parent": "bbb218af-bea9-47db-937b-3aaa26fdb2ae"
+    },
+    "bbb2148c-b994-459a-b123-38cff6fa4256": {
+      "id": "bbb2148c-b994-459a-b123-38cff6fa4256",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "No separates images "
+          ]
+        },
+        "create_time": 1776779605.280012,
+        "id": "bbb2148c-b994-459a-b123-38cff6fa4256",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "8234ddc8-9bf1-454f-9108-212b980162ff"
+    },
+    "bbb218af-bea9-47db-937b-3aaa26fdb2ae": {
+      "id": "bbb218af-bea9-47db-937b-3aaa26fdb2ae",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Make these individual downloads with no white borders "
+          ]
+        },
+        "create_time": 1776779507.559771,
+        "id": "bbb218af-bea9-47db-937b-3aaa26fdb2ae",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "bbb21efc-e27a-4903-b29b-f1157a2cfef0"
+    },
+    "bbb21e55-48dd-4707-8cae-de9dff3f4467": {
+      "id": "bbb21e55-48dd-4707-8cae-de9dff3f4467",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Create me six separate. Downloadabl images not One image with six in it"
+          ]
+        },
+        "create_time": 1776779637.234336,
+        "id": "bbb21e55-48dd-4707-8cae-de9dff3f4467",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "bbb2148c-b994-459a-b123-38cff6fa4256"
+    },
+    "bbb21efc-e27a-4903-b29b-f1157a2cfef0": {
+      "id": "bbb21efc-e27a-4903-b29b-f1157a2cfef0",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_000000005d4c722f8aa4d28a74bc1069",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 1536,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 0,
+              "width": 1024
+            },
+            "Create me 6 more separate slides that can be used Ina carsoul that say clever things to medspa ownerrs like: it's ok to feel.o erhwelmes but not ok to suffer in silence with inaction , or your practice needs you to make a shift, you're drema counton your ability to pivot, etc but make them heartfelt and eye catching "
+          ]
+        },
+        "create_time": 1776779384.978198,
+        "id": "bbb21efc-e27a-4903-b29b-f1157a2cfef0",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_000000005d4c722f8aa4d28a74bc1069",
+              "name": "file_000000005d4c722f8aa4d28a74bc1069",
+              "size": 0
+            }
+          ],
+          "content_references": [],
+          "image_results": [],
+          "image_send_uuid": "7fa285a9-2f95-47e0-81b6-692d77f2ed87"
+        }
+      },
+      "parent": "12613f89-fdea-498a-b0d9-85df50e2004c"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Motivational Slides for Medspa",
+  "update_time": 1776779818.951667,
+  "voice": null
+}

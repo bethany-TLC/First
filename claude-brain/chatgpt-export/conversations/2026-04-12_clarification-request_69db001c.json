@@ -1,0 +1,139 @@
+{
+  "conversation_id": "69db001c-5368-832b-8251-d2daa1323f5c",
+  "conversation_template_id": null,
+  "create_time": 1775960114.331754,
+  "current_node": "ec710921-95fc-4c5f-9dc1-245eb754c345",
+  "default_model_slug": "gpt-5-3",
+  "id": "69db001c-5368-832b-8251-d2daa1323f5c",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "043cf93c-2a7e-46d8-bd65-467ab930798b": {
+      "id": "043cf93c-2a7e-46d8-bd65-467ab930798b",
+      "message": null,
+      "parent": null
+    },
+    "0da780b1-73e0-4fe6-8dc6-0079d51389ac": {
+      "id": "0da780b1-73e0-4fe6-8dc6-0079d51389ac",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "create_time": 1775960140.296433,
+        "id": "0da780b1-73e0-4fe6-8dc6-0079d51389ac",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "d5ebc659-30f1-4809-a8c4-4e8942a9edb6"
+        }
+      },
+      "parent": "bbb21715-c874-489e-b561-bc5cb756a4b7"
+    },
+    "bbb21715-c874-489e-b561-bc5cb756a4b7": {
+      "id": "bbb21715-c874-489e-b561-bc5cb756a4b7",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_000000003b3c71f69bcde4bd43bf6c25",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 3603,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 265817,
+              "width": 2736
+            },
+            "Make this more clear"
+          ]
+        },
+        "create_time": 1775960114.075056,
+        "id": "bbb21715-c874-489e-b561-bc5cb756a4b7",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "043cf93c-2a7e-46d8-bd65-467ab930798b"
+    },
+    "bbb21fb4-1cba-4b2b-b06e-9b8f0146a2a0": {
+      "id": "bbb21fb4-1cba-4b2b-b06e-9b8f0146a2a0",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Make his ear longer"
+          ]
+        },
+        "create_time": 1775960179.437009,
+        "id": "bbb21fb4-1cba-4b2b-b06e-9b8f0146a2a0",
+        "metadata": {
+          "content_references": [],
+          "image_results": []
+        }
+      },
+      "parent": "0da780b1-73e0-4fe6-8dc6-0079d51389ac"
+    },
+    "ec710921-95fc-4c5f-9dc1-245eb754c345": {
+      "id": "ec710921-95fc-4c5f-9dc1-245eb754c345",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "create_time": 1775960203.980144,
+        "id": "ec710921-95fc-4c5f-9dc1-245eb754c345",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-3",
+          "parent_id": "029552a0-3885-4e6f-a901-84b1316caed3"
+        }
+      },
+      "parent": "bbb21fb4-1cba-4b2b-b06e-9b8f0146a2a0"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Clarification Request",
+  "update_time": 1775960206.691094,
+  "voice": null
+}

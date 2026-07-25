@@ -1,0 +1,589 @@
+{
+  "conversation_id": "6a3af9a3-e9bc-83e8-8ab7-2184d396efa9",
+  "conversation_template_id": null,
+  "create_time": 1782249898.670401,
+  "current_node": "7cad91c7-d073-4ae8-a81c-ac5fd0c4e964",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a3af9a3-e9bc-83e8-8ab7-2184d396efa9",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "020931f7-5ad4-4db6-8050-44c273346acc": {
+      "id": "020931f7-5ad4-4db6-8050-44c273346acc",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ":::writing{variant=\"document\" id=\"39482\"}\n# TRANSITION INTO DISCOVERY\n\n\"Got it.\n\nThat gives me a better understanding of what's frustrating you right now.\n\nLet me ask a few questions about the business itself so I can understand where things stand today.\"\n\n---\n\n# DISCOVERY\n\n## BIGGEST BOTTLENECK\n\n\"If you had to point to one thing that's holding the practice back right now, what would it be?\"\n\n(Pause)\n\n\"What's that costing you in revenue, time, or stress?\"\n\n---\n\n## TRANSITION TO REVENUE\n\n\"That makes sense.\n\nLet's put some numbers around it so I can better understand the impact.\"\n\n---\n\n## CURRENT REVENUE\n\n\"What did the practice generate last month?\"\n\n\"What would you say your average monthly revenue is?\"\n\n\"What was your best month ever?\"\n\n---\n\n## TRANSITION TO GOALS\n\n\"Perfect.\n\nNow that I understand where the business is today, let's talk about where you're trying to take it.\"\n\n---\n\n## GOAL REVENUE\n\n\"Where would you like the practice to be in the next 12 months?\"\n\n(Pause)\n\n\"Why is that number important to you?\"\n\n(Pause)\n\n\"What happens if you don't get there?\"\n\n---\n\n## TRANSITION TO ACQUISITION\n\n\"That helps me understand the target.\n\nNow let's talk about how patients are currently finding you.\"\n\n---\n\n## ACQUISITION\n\n\"Where are most of your new patients currently coming from?\"\n\n\"What's working?\"\n\n\"What's not working?\"\n\n---\n\n## TRANSITION TO RETENTION\n\n\"Most owners focus heavily on acquisition, but some of the biggest opportunities are often inside the patients you already have.\"\n\n---\n\n## RETENTION & MEMBERSHIPS\n\n\"What percentage of your patients come back after their first treatment?\"\n\n(Pause)\n\n\"Do you currently offer memberships, packages, wellness programs, or recurring revenue services?\"\n\n(Pause)\n\n\"If I looked at your business today, where do you think more growth exists:\n\nGetting more patients?\n\nOr getting more value from the patients you already have?\"\n\n---\n\n## TRANSITION TO PREVIOUS ATTEMPTS\n\n\"That gives me a good picture of where the opportunities are.\n\nNow let me ask\u2014what have you already tried to improve these areas?\"\n\n---\n\n## PREVIOUS ATTEMPTS\n\n\"Have you worked with agencies?\"\n\n\"Consultants?\"\n\n\"Coaches?\"\n\n(Pause)\n\n\"What worked?\"\n\n\"What didn't?\"\n\n(Pause)\n\n\"What do you wish they had done differently?\"\n\n---\n\n## TRANSITION TO DECISION MAKING\n\n\"One final area I want to understand is how decisions like this typically get made.\"\n\n---\n\n## DECISION MAKER\n\n\"Do you own the practice outright?\"\n\n(Pause)\n\n\"Is there anyone else who would need to be involved in a decision today?\"\n\n---\n\n## TRANSITION TO PITCH\n\n\"Perfect.\n\nBased on everything you've shared, I have a pretty good understanding of where the opportunities are.\n\nWould it be okay if I shared what I'm seeing?\"\n:::\n\nThis keeps the call feeling conversational and consultative instead of like a checklist. Each section naturally earns the right to ask the next question, which will make prospects stay engaged and feel understood rather than interrogated."
+          ]
+        },
+        "create_time": 1782250159.75053,
+        "id": "020931f7-5ad4-4db6-8050-44c273346acc",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "a83a689b-2a65-413b-bfd5-e41732239e3b"
+        }
+      },
+      "parent": "5a95009a-6ed3-4133-93c9-5bab86072df1"
+    },
+    "0cd5dcc4-75dd-4ff2-b99b-bb7e3f70e51f": {
+      "id": "0cd5dcc4-75dd-4ff2-b99b-bb7e3f70e51f",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "no just add teh words 90 day program in the dfy and dwy section and then make a sentace or two about partnershp afte that"
+          ]
+        },
+        "create_time": 1782251111.271,
+        "id": "0cd5dcc4-75dd-4ff2-b99b-bb7e3f70e51f",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "70f346aa-69cf-45d0-8ae9-adf134e9a57f"
+    },
+    "0e002949-2bec-446e-8f05-6de605447f54": {
+      "id": "0e002949-2bec-446e-8f05-6de605447f54",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "take this script and make these change and add inobjuectiosn at bottomL  # FIX #1 \u2014 REMOVE EARLY TRIAL CLOSE\r\n\r\n## CURRENT\r\n\r\n\"It sounds like fixing that is pretty important. Do you feel like today is the day you finally make a change?\"\r\n\r\n## REPLACE WITH\r\n\r\n\"It sounds like this has been impacting the business for a while.\r\n\r\nHow important is it for you to solve this?\"\r\n\r\n(Pause)\r\n\r\n\"What happens if nothing changes over the next 6 to 12 months?\"\r\n\r\n(Pause)\r\n\r\n\"How much do you think that's costing you in revenue, time, or stress?\"\r\n\r\n---\r\n\r\n# FIX #2 \u2014 DISCOVERY TRANSITIONS\r\n\r\n## AFTER PAIN SECTION\r\n\r\n\"Got it.\r\n\r\nThat gives me a better understanding of what's frustrating you right now.\r\n\r\nLet me ask a few questions about the business itself so I can understand where things stand today.\"\r\n\r\n---\r\n\r\n## BEFORE GOALS\r\n\r\n\"Perfect.\r\n\r\nNow that I understand where the business is today, let's talk about where you're trying to take it.\"\r\n\r\n---\r\n\r\n## BEFORE PAST ATTEMPTS\r\n\r\n\"That helps me understand the target.\r\n\r\nNow let me ask\u2014what have you already tried to get there?\"\r\n\r\n---\r\n\r\n## BEFORE DECISION MAKER\r\n\r\n\"One final area I want to understand is how decisions like this typically get made.\"\r\n\r\n---\r\n\r\n# FIX #3 \u2014 PERSONALIZED BRIDGE BEFORE PITCH\r\n\r\n## REPLACE THE FIRST PART OF THE PITCH WITH\r\n\r\n\"Based on everything you've shared, here's what I see.\r\n\r\nIt sounds like the biggest challenge isn't [LEADS].\r\n\r\nIt's actually [INSERT THEIR PAIN].\r\n\r\nAnd that's important because until that problem gets solved, it's going to continue limiting growth no matter how much effort gets put into the business.\r\n\r\nNow, that doesn't mean you don't need more patients.\r\n\r\nIn most cases, our clients absolutely want more consultations, more patients, and more revenue.\r\n\r\nAnd we help them do exactly that.\r\n\r\nBut what we've found after working inside aesthetic practices for nearly two decades is that growth becomes much easier when we first identify where opportunities are being missed and then build the right systems to support growth.\r\n\r\nAfter nearly 20 years inside aesthetic practices, I've found growth almost always comes down to three things:\r\n\r\nClarity.\r\n\r\nAcquisition.\r\n\r\nExpansion.\"\r\n\r\n---\r\n\r\n# FIX #4 \u2014 MICRO CREDIBILITY BEFORE PILLARS\r\n\r\n## ADD RIGHT BEFORE THE THREE PILLARS\r\n\r\n\"After nearly 20 years inside aesthetic practices, I've found growth almost always comes down to three things.\"\r\n\r\n---\r\n\r\n# NEW CLOSE\r\n\r\n## REPLACE PRICE DROP SECTION\r\n\r\n\"The investment for our Done-With-You Med Spa Growth Accelerator is $9,000.\r\n\r\nThe investment for our Done-For-You Med Spa Growth Accelerator is $15,000.\"\r\n\r\n(Pause)\r\n\r\n\"Based on everything we've discussed today, do you feel like this is the right solution for helping you achieve the goals we talked about?\"\r\n\r\n(Pause)\r\n\r\nIF YES:\r\n\r\n\"Great.\r\n\r\nWould you prefer the Done-With-You option or the Done-For-You option?\"\r\n\r\n(Pause)\r\n\r\n---\r\n\r\n# OBJECTION HANDLING\r\n\r\n## I NEED TO THINK ABOUT IT\r\n\r\n\"Absolutely.\r\n\r\nHelp me understand what specifically you'd like to think about.\"\r\n\r\n(Pause)\r\n\r\n\"Is there something you're unsure about?\r\n\r\nSomething we haven't covered?\r\n\r\nOr is there another concern on your mind?\"\r\n\r\n(Sheila Bella style)\r\n\r\n\"Usually when someone tells me they need to think about it, they're actually trying to process one of three things:\r\n\r\nThe investment.\r\n\r\nThe timing.\r\n\r\nOr whether they believe this will work.\r\n\r\nWhich one is it for you?\"\r\n\r\n---\r\n\r\n## I NEED TO TALK TO MY PARTNER\r\n\r\n\"Of course.\r\n\r\nIs your partner typically involved in decisions like this?\"\r\n\r\n(Pause)\r\n\r\n\"What concerns do you think they'll have?\"\r\n\r\n(Pause)\r\n\r\n\"If they were sitting here with us right now, what questions do you think they'd ask?\"\r\n\r\n(Sheila Bella style)\r\n\r\n\"Let's make sure we answer those now so you're both working with the same information.\"\r\n\r\n---\r\n\r\n## WE TRIED AN AGENCY BEFORE\r\n\r\n\"I hear that quite often.\r\n\r\nWhat happened?\"\r\n\r\n(Listen)\r\n\r\n\"That's exactly why we've structured Luxora differently.\r\n\r\nMost agencies focus on leads.\r\n\r\nWe focus on the entire patient journey.\r\n\r\nAcquisition.\r\n\r\nConversion.\r\n\r\nRetention.\r\n\r\nPatient value.\r\n\r\nAnd systems.\r\n\r\nBecause leads alone don't create growth.\"\r\n\r\n---\r\n\r\n## IT'S TOO EXPENSIVE\r\n\r\n\"I completely understand.\r\n\r\nCompared to what?\"\r\n\r\n(Pause)\r\n\r\n\"Is it the investment itself?\r\n\r\nOr are you unsure the return justifies the investment?\"\r\n\r\n(Pause)\r\n\r\n\"Because if we can help you recover $50,000 to $500,000 in missed opportunities, the question isn't whether there's a cost.\r\n\r\nThe question is whether waiting costs more.\"\r\n\r\n---\r\n\r\n## WE'RE NOT READY\r\n\r\n\"That's fair.\r\n\r\nWhat needs to happen before you feel ready?\"\r\n\r\n(Pause)\r\n\r\n\"What specifically are you waiting for?\"\r\n\r\n(Sheila Bella style)\r\n\r\n\"Sometimes waiting feels safer.\r\n\r\nBut often the problems we're discussing today are still there six months from now\u2014only more expensive.\"\r\n\r\n---\r\n\r\n## SEND ME INFORMATION\r\n\r\n\"Happy to.\r\n\r\nWhat specifically are you hoping to see in the information?\"\r\n\r\n(Pause)\r\n\r\n\"Because I'd rather answer the real question than send a generic PDF.\"\r\n\r\n---\r\n\r\n## FINAL CLOSE\r\n\r\n\"Based on everything we've discussed today...\r\n\r\nWhat do you feel is the best next step?\"\r"
+          ]
+        },
+        "create_time": 1782249898.303,
+        "id": "0e002949-2bec-446e-8f05-6de605447f54",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_000000007c20722f811de1277982141b",
+              "is_big_paste": false,
+              "library_file_id": "libfile_e2846a6124048191b8effa80ed88e7b6",
+              "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "name": "Luxora Collective Sales Script.docx",
+              "size": 22126,
+              "source": "local"
+            }
+          ],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "client-created-root"
+    },
+    "0f63e5c6-ba09-4244-ae94-5298378e627f": {
+      "id": "0f63e5c6-ba09-4244-ae94-5298378e627f",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "This is strong. The only major changes I'd make before finalizing are:\n\n1. Move **TRUST** before the pitch (not after the transition to pitch).\n2. Remove **\"Do you feel like today is the day you finally make a change?\"** from Timing because it feels like an early close and conflicts with the consultative style.\n3. Add a **Revenue Leak Summary** right before the Personalized Bridge.\n4. Add a full objection section after Investment and before Final Close.\n\nHere's the missing section I'd insert:\n\n:::writing{variant=\"document\" id=\"68417\"}\n# REVENUE LEAK SUMMARY\n\n\"Before I walk you through what I'd recommend, let me summarize what I've heard.\n\nIt sounds like you're currently at approximately [$X] per month.\n\nYou'd like to get to [$GOAL].\n\nThe biggest challenge right now is [PAIN].\n\nMost of your new patients are coming from [SOURCE].\n\nAnd the biggest opportunities I see are in [ACQUISITION / CONVERSION / RETENTION / MEMBERSHIPS / SYSTEMS].\n\nWould you agree that's a fair summary?\"\n\n(Pause)\n\n\"Perfect.\"\n\n---\n\n# TRUST\n\n\"Before I jump into strategy, how familiar are you with us?\"\n\n\"What have you seen so far?\"\n\n\"What made you book the call?\"\n\n---\n\n# TRANSITION TO PITCH\n\n\"Perfect.\n\nBased on everything you've shared, I have a pretty good understanding of where the opportunities are.\n\nWould it be okay if I shared what I'm seeing?\"\n\n---\n\n# OBJECTION HANDLING\n\n## I NEED TO THINK ABOUT IT\n\n\"Absolutely.\n\nHelp me understand what specifically you'd like to think about.\"\n\n(Pause)\n\n\"Usually when someone tells me they need to think about it, they're actually trying to process one of three things:\n\nThe investment.\n\nThe timing.\n\nOr whether they believe this will work.\n\nWhich one is it for you?\"\n\n---\n\n## I NEED TO TALK TO MY PARTNER\n\n\"Of course.\n\nIs your partner typically involved in decisions like this?\"\n\n(Pause)\n\n\"What concerns do you think they'll have?\"\n\n(Pause)\n\n\"If they were sitting here with us right now, what questions do you think they'd ask?\"\n\n\"Let's answer those now so you're both working with the same information.\"\n\n---\n\n## WE TRIED AN AGENCY BEFORE\n\n\"I hear that quite often.\n\nWhat happened?\"\n\n(Listen)\n\n\"That's exactly why we've structured Luxora differently.\n\nMost agencies focus on leads.\n\nWe focus on the entire patient journey.\n\nAcquisition.\n\nConversion.\n\nRetention.\n\nPatient value.\n\nAnd systems.\"\n\n---\n\n## IT'S TOO EXPENSIVE\n\n\"I completely understand.\n\nCompared to what?\"\n\n(Pause)\n\n\"Is it the investment itself?\n\nOr are you unsure the return justifies the investment?\"\n\n(Pause)\n\n\"If we can help identify and recover $50,000 to $500,000 in missed opportunities, the question isn't whether there's a cost.\n\nThe question is whether waiting costs more.\"\n\n---\n\n## WE'RE NOT READY\n\n\"That's fair.\n\nWhat specifically needs to happen before you feel ready?\"\n\n(Pause)\n\n\"Sometimes waiting feels safer.\n\nBut often the problems we're discussing today are still there six months from now\u2014only more expensive.\"\n\n---\n\n## SEND ME INFORMATION\n\n\"Happy to.\n\nWhat specifically are you hoping to see in the information?\"\n\n(Pause)\n\n\"Because I'd rather answer the real question than send a generic PDF.\"\n\n---\n\n## WE DON'T HAVE THE TIME\n\n\"How much time are these problems already costing you every week?\"\n\n(Pause)\n\n\"Most owners don't have a growth problem.\n\nThey have a capacity problem.\"\n\n---\n\n## WE NEED MORE LEADS FIRST\n\n\"If I doubled your leads tomorrow, what percentage would actually become paying patients?\"\n\n(Pause)\n\n\"And how many would come back?\"\n\n\"That's why we focus on the entire revenue ecosystem, not just lead generation.\"\n\n---\n\n## WE CAN DO THIS OURSELVES\n\n\"You're probably right.\n\nThe question isn't whether you can.\n\nThe question is whether it will actually get implemented.\"\n\n---\n\n## WE ALREADY HAVE A MARKETING COMPANY\n\n\"That's completely fine.\n\nMany of our clients do.\n\nWhat we often find is that marketing isn't the primary problem.\n\nIt's what happens before and after the lead.\"\n\n---\n\n## WE NEED MORE CASH FIRST\n\n\"How do you plan to generate more cash if the current systems aren't producing the result you're looking for?\"\n\n(Pause)\n\n\"Sometimes the thing we're delaying is the very thing preventing growth.\"\n\n---\n\n## CAN YOU GUARANTEE RESULTS?\n\n\"No one can ethically guarantee a specific revenue number.\n\nWhat we can guarantee is a proven process for identifying revenue leaks, optimizing systems, and creating opportunities for growth.\"\n\n---\n\n## FINAL CLOSE\n\n\"Based on everything we've discussed today...\n\nWhat do you feel is the best next step?\"\n\n(Pause)\n\n\"Let me ask you this...\n\nWhat do you believe is the real cost of doing nothing?\"\n\n(Pause)\n\n\"And knowing that, what would you like to do next?\"\n:::\n\nThis structure gives you:\n- Discovery\n- Revenue Leak Diagnosis\n- Trust Building\n- Prescription\n- Recommendation\n- Investment\n- Objection Handling\n- Close\n\nThat's very close to how Sheila Bella, Hormozi, and high-ticket consultative sales frameworks are structured, while still sounding like Bethany and staying true to Luxora's Revenue Leak Audit positioning."
+          ]
+        },
+        "create_time": 1782250569.683221,
+        "id": "0f63e5c6-ba09-4244-ae94-5298378e627f",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "e7543494-64ea-4eff-9a62-056fb7690b02"
+        }
+      },
+      "parent": "8992cb9e-36e3-4cfd-aa4c-e0345faac4f4"
+    },
+    "1b1eb199-5ac1-4ef3-8287-63ff45388411": {
+      "id": "1b1eb199-5ac1-4ef3-8287-63ff45388411",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "\"How important is it for you to solve this now versus later?\" and include both"
+          ]
+        },
+        "create_time": 1782250673.025,
+        "id": "1b1eb199-5ac1-4ef3-8287-63ff45388411",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "571229a3-95e2-4e2f-9300-9823ba5f010f"
+    },
+    "2fb72cf7-683a-4435-93d2-c6152f2efc1b": {
+      "id": "2fb72cf7-683a-4435-93d2-c6152f2efc1b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Here is the complete updated Luxora sales script outline with all revisions incorporated:\n\n:::writing{variant=\"document\" id=\"41852\"}\n# THE LUXORA COLLECTIVE SALES SCRIPT\n\n# RAPPORT\n\n\"Hey [Name], how's your week going so far?\"\n\n\"Awesome.\"\n\n\"And where are you located?\"\n\n\"Perfect.\"\n\n---\n\n# FRAME\n\n\"So [Name], here's what I'd like to do.\n\nI have the information you submitted in front of me, but I definitely have some additional questions and I want to understand exactly where the practice is today, where you're looking to go, and what's currently getting in the way.\n\nUltimately, I just want to see if we're a good fit to help.\n\nIf everything looks good, I'm happy to build out some higher-level strategy for you, show you where I believe the biggest opportunities are inside the practice, and we can talk through what it would look like to partner together.\n\nAnd if for whatever reason I don't think we're the right fit, I'll point you in the right direction and make sure you leave with clarity either way.\n\nSound fair?\"\n\n---\n\n# PAIN\n\n\"So [Name], I'd love to hear it directly from you.\n\nWhat's going on inside the practice right now that's got you reaching out for help?\"\n\n### Follow Ups\n\n\"What specifically isn't working?\"\n\n\"How long has that been an issue?\"\n\n\"If it's been an issue for that long, why are you looking to solve it now?\"\n\n\"It sounds like this has been impacting the business for a while.\n\nHow important is it for you to solve this?\"\n\n(Pause)\n\n\"What happens if nothing changes over the next 6 to 12 months?\"\n\n(Pause)\n\n\"How much do you think that's costing you in revenue, time, or stress?\"\n\n---\n\n# TRANSITION\n\n\"Got it.\n\nThat gives me a better understanding of what's frustrating you right now.\n\nLet me ask a few questions about the business itself so I can understand where things stand today.\"\n\n---\n\n# DISCOVERY\n\n## BIGGEST BOTTLENECK\n\n\"What would you say is the biggest bottleneck in the business right now?\"\n\n\"Is it patient acquisition, conversion, retention, team performance, profitability, systems, or something else?\"\n\n\"What impact is that having on the business financially?\"\n\n\"If nothing changes over the next 12 months, what does that cost you?\"\n\n---\n\n## CURRENT SITUATION\n\n\"Walk me through the practice today.\"\n\n\"How many providers?\"\n\n\"How many locations?\"\n\n\"What did the practice generate last month?\"\n\n\"What was your best month ever?\"\n\n\"What services generate most of your revenue?\"\n\n\"Do you currently offer memberships?\"\n\n\"What percentage of patients return after their first treatment?\"\n\n\"How are you currently generating new patients?\"\n\n\"What marketing channels are working?\"\n\n\"What marketing channels aren't?\"\n\n---\n\n## TIMING\n\n\"If you could solve this problem, when would you want it fixed?\"\n\n\"Why now?\"\n\n\"What changed?\"\n\n\"Was there a specific moment where you realized something had to change?\"\n\n\"If we partnered together, would you realistically have time to focus on implementation over the next 90 days?\"\n\n---\n\n# TRANSITION TO GOALS\n\n\"Perfect.\n\nNow that I understand where the business is today, let's talk about where you're trying to take it.\"\n\n---\n\n# GOALS\n\n\"Where is the practice today?\"\n\n\"Where do you want it to be in the next 90 days?\"\n\n\"Where do you want it to be by this time next year?\"\n\n\"Why is that goal important to you personally?\"\n\n\"What happens if you don't get there?\"\n\n---\n\n# TRANSITION TO PAST ATTEMPTS\n\n\"That helps me understand the target.\n\nNow let me ask\u2014what have you already tried to get there?\"\n\n---\n\n# PAST ATTEMPTS\n\n\"What have you tried already?\"\n\n\"Have you worked with agencies?\"\n\n\"Consultants?\"\n\n\"Coaches?\"\n\n\"What worked?\"\n\n\"What didn't work?\"\n\n\"What do you wish those companies had done differently?\"\n\n---\n\n# DOUBT\n\n\"You clearly know your business.\n\nWhy haven't you been able to solve this already?\"\n\n\"What's preventing you from fixing it internally?\"\n\n\"If you continue doing what you're doing today, do you believe you'll hit your goals?\"\n\n\"How long would that realistically take?\"\n\n---\n\n# COMPARISON\n\n\"Are you looking at any other solutions right now?\"\n\n\"Any agencies?\"\n\n\"Consultants?\"\n\n\"Internal hires?\"\n\n\"What do you like about those options?\"\n\n\"What concerns do you have?\"\n\n---\n\n# SUPPORT\n\n\"In an ideal world, what type of support are you looking for?\"\n\n\"Strategy?\"\n\n\"Implementation?\"\n\n\"Accountability?\"\n\n\"A true growth partner?\"\n\n---\n\n# FINANCES\n\n\"What are you currently investing into growth every month?\"\n\n\"Marketing?\"\n\n\"Software?\"\n\n\"Team?\"\n\n\"Do you have a budget allocated for solving this problem?\"\n\n\"If we found a solution that produced a measurable return, would investment be an issue?\"\n\n---\n\n# DECISION MAKER TRANSITION\n\n\"One final area I want to understand is how decisions like this typically get made.\"\n\n---\n\n# DECISION MAKER\n\n\"Do you own the practice outright?\"\n\n\"Is there anyone else who would need to be involved in a decision today?\"\n\n---\n\n# TRUST\n\n\"Before we jump into strategy, how familiar are you with us?\"\n\n\"What have you seen so far?\"\n\n\"What made you book the call?\"\n\n---\n\n# PERSONALIZED BRIDGE\n\n\"Based on everything you've shared, here's what I see.\n\nIt sounds like the biggest challenge isn't [LEADS].\n\nIt's actually [INSERT THEIR PAIN].\n\nAnd that's important because until that problem gets solved, it's going to continue limiting growth no matter how much effort gets put into the business.\n\nNow, that doesn't mean you don't need more patients.\n\nIn most cases, our clients absolutely want more consultations, more patients, and more revenue.\n\nAnd we help them do exactly that.\n\nBut what we've found after working inside aesthetic practices for nearly two decades is that growth becomes much easier when we first identify where opportunities are being missed and then build the right systems to support growth.\"\n\n---\n\n# MICRO CREDIBILITY\n\n\"After nearly 20 years inside aesthetic practices, I've found growth almost always comes down to three things:\n\nClarity.\n\nAcquisition.\n\nExpansion.\"\n\n---\n\n# PILLAR 1 \u2014 CLARITY\n\n\"First, we create Clarity.\n\nMost med spa owners know they should be growing faster, but they don't know exactly what's holding them back.\n\nThat's why we start with a comprehensive Revenue Leak Audit.\n\nWe uncover hidden opportunities by evaluating patient acquisition, consultation conversion, retention, memberships, packages, follow-up systems, team performance, and operational workflows.\n\nThe goal is simple:\n\nIdentify exactly where revenue is being lost and where the biggest growth opportunities exist.\"\n\n---\n\n# PILLAR 2 \u2014 ACQUISITION\n\n\"Once we have clarity, we focus on Acquisition.\n\nWe build systems that consistently attract qualified patients and create predictable consultation volume.\n\nThis includes Meta advertising, reactivation campaigns, referral systems, conversion-focused funnels, and patient acquisition strategies specifically designed for aesthetic and wellness practices.\n\nThe goal is simple:\n\nMore qualified consultations and more predictable revenue.\"\n\n---\n\n# PILLAR 3 \u2014 EXPANSION\n\n\"Once acquisition is working, we focus on Expansion.\n\nThis is where most of the hidden growth exists.\n\nWe increase patient lifetime value through memberships, packages, treatment plans, wellness services, peptides, longevity programs, and retention systems.\n\nWe also implement automation, AI tools, follow-up systems, and operational processes that allow the practice to scale without creating additional chaos.\n\nThe goal is simple:\n\nMore revenue from the patients you already have while building a business that can scale.\"\n\n---\n\n# TEMPERATURE CHECK\n\n\"So before I explain what partnering together would actually look like...\n\nDoes that strategy make sense?\n\nDo you feel like those are the areas that need to be addressed inside your business?\"\n\n(Pause)\n\n\"On a scale of 1\u201310, how confident are you that solving those problems would move the practice significantly closer to your goals?\"\n\n---\n\n# DELIVERY\n\n\"We have two ways we help clients.\"\n\n### DONE-WITH-YOU \u2014 $9,000\n\n\"This is for owners who want the roadmap and are willing to execute.\n\nWe identify the opportunities.\n\nWe build the blueprint.\n\nWe show you exactly what to do.\n\nThen you and your team implement with our guidance over 90 days.\"\n\n---\n\n### DONE-FOR-YOU \u2014 $15,000\n\n\"This is for owners who want help implementing the plan.\n\nInstead of simply showing you what to do, we help build and implement the strategy with you.\n\nWe become an extension of your team and help execute the growth plan.\"\n\n---\n\n# RECOMMENDATION\n\n\"Based on everything you've shared with me today, I believe the best fit would be our [DWY / DFY] Med Spa Growth Accelerator.\n\nThe reason is because your goal is [GOAL].\n\nAnd the biggest bottlenecks I identified are [PAIN POINTS].\n\nI believe this is the fastest path to helping you achieve that outcome.\"\n\n---\n\n# INVESTMENT\n\n\"The investment for our Done-With-You Med Spa Growth Accelerator is $9,000.\n\nThe investment for our Done-For-You Med Spa Growth Accelerator is $15,000.\"\n\n(Pause)\n\n\"Based on everything we've discussed today, do you feel like this is the right solution for helping you achieve the goals we talked about?\"\n\n(Pause)\n\nIF YES:\n\n\"Great.\n\nWould you prefer the Done-With-You option or the Done-For-You option?\"\n\n(Pause)\n\n---\n\n# FINAL CLOSE\n\n\"Let me ask you this...\n\nBased on everything we've uncovered today, what do you believe is the real cost of doing nothing?\"\n\n(Pause)\n\n\"And knowing that, what would you like to do next?\"\n:::\n\nMy recommendation is to add a **\"Revenue Leak Score\" section** immediately before the pitch where you summarize their findings:\n\n- Acquisition Score: X/10\n- Conversion Score: X/10\n- Retention Score: X/10\n- Expansion Score: X/10\n\nThat would make the Revenue Leak Audit feel even more proprietary and dramatically increase close rates because you're diagnosing before prescribing."
+          ]
+        },
+        "create_time": 1782249976.867681,
+        "id": "2fb72cf7-683a-4435-93d2-c6152f2efc1b",
+        "metadata": {
+          "content_references": [],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Past chat",
+                "citation_uuid": "91507f0d-a09c-4fd9-aba6-ca412d8a144d",
+                "conversation_context_type": "past_conversation",
+                "conversation_title": "Revenue Growth Strategy",
+                "end_idx": -1,
+                "index": 1,
+                "matched_text": "",
+                "prompt_text": null,
+                "pub_date": 1782244026.734839,
+                "reason": null,
+                "refs": [],
+                "snippet": "First, we perform a comprehensive Revenue Leak Audit. We evaluate patient acquisition, retention, memberships, package sales, consultation conversion, follow-up systems, operati...",
+                "start_idx": -1,
+                "title": "Revenue Growth Strategy",
+                "type": "conversation_context_citation",
+                "url": "/c/6a3ae29b-0240-83e8-9386-eb3dad4a698e"
+              },
+              "citation_uuid": "91507f0d-a09c-4fd9-aba6-ca412d8a144d",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "5e877fe7-b5e8-4e88-a565-9655d6e4a08a"
+        }
+      },
+      "parent": "3905f9cb-c8fe-41da-9f2a-3c8689c29994"
+    },
+    "3905f9cb-c8fe-41da-9f2a-3c8689c29994": {
+      "id": "3905f9cb-c8fe-41da-9f2a-3c8689c29994",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "outline my entire script here so i can copy]"
+          ]
+        },
+        "create_time": 1782249976.773,
+        "id": "3905f9cb-c8fe-41da-9f2a-3c8689c29994",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "a2bbd654-5c47-4d9d-bb65-49a8493ea6b0"
+    },
+    "4229e094-f1c7-4ff2-99c2-78ffb3d3be68": {
+      "id": "4229e094-f1c7-4ff2-99c2-78ffb3d3be68",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "ourprogram is 90days and a parntership after that to run ads, optimize campaigns, include them in our ongoing community support and get the use of our special Ai tool specifical for medspa grwoth. "
+          ]
+        },
+        "create_time": 1782251051.859,
+        "id": "4229e094-f1c7-4ff2-99c2-78ffb3d3be68",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "87f54917-c36c-42ca-8f4d-4cb70b4096a0"
+    },
+    "571229a3-95e2-4e2f-9300-9823ba5f010f": {
+      "id": "571229a3-95e2-4e2f-9300-9823ba5f010f",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "I think the reason you're feeling lost is because the script is now fragmented into 10 different revisions. If I were building this for Luxora today, I'd simplify it into one clean flow:\n\n**Rapport \u2192 Frame \u2192 Pain \u2192 Discovery \u2192 Revenue Leak Summary \u2192 Trust \u2192 Pitch \u2192 Temperature Check \u2192 Recommendation \u2192 Investment \u2192 Objections \u2192 Close**\n\nThe only thing I would still change from your latest version is removing:\n\n> \"Do you feel like today is the day you finally make a change and move toward those goals?\"\n\nThat feels like a trial close and doesn't fit the consultative positioning.\n\nInstead, replace it with:\n\n> \"How important is it for you to solve this now versus later?\"\n\nThen continue.\n\nI can absolutely give you the full final script from hello to close, but it's going to be a very long document (roughly 8\u201312 pages) because it includes the entire pitch, both offer explanations, every objection, and all transitions.\n\nBefore I generate it, I need one clarification:\n\n**Do you want the final script to include BOTH the $9,000 DWY and $15,000 DFY offer presentations, or do you want me to build it primarily around the DFY offer and only mention DWY as an alternative if budget becomes an issue?**\n\nThat choice changes the close and recommendation section significantly."
+          ]
+        },
+        "create_time": 1782250639.005378,
+        "id": "571229a3-95e2-4e2f-9300-9823ba5f010f",
+        "metadata": {
+          "content_references": [],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Past chat",
+                "citation_uuid": "9bdf9a76-36c4-42ae-9661-2881de721193",
+                "conversation_context_type": "past_conversation",
+                "conversation_title": "Sales Script Creation",
+                "end_idx": -1,
+                "index": 14,
+                "matched_text": "",
+                "prompt_text": null,
+                "pub_date": 1781625730.023592,
+                "reason": null,
+                "refs": [],
+                "snippet": "Done-With-You (DWY) Growth Partnership \u2014 $9,000",
+                "start_idx": -1,
+                "title": "Sales Script Creation",
+                "type": "conversation_context_citation",
+                "url": "/c/6a31737f-a550-83e8-8111-1e25fb6b38ca"
+              },
+              "citation_uuid": "9bdf9a76-36c4-42ae-9661-2881de721193",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "d0f2baa0-9f58-44be-be65-1826b1564af0"
+        }
+      },
+      "parent": "d0f2baa0-9f58-44be-be65-1826b1564af0"
+    },
+    "5a95009a-6ed3-4133-93c9-5bab86072df1": {
+      "id": "5a95009a-6ed3-4133-93c9-5bab86072df1",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "keep the trasitions into discovery segways"
+          ]
+        },
+        "create_time": 1782250159.604,
+        "id": "5a95009a-6ed3-4133-93c9-5bab86072df1",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "91b5d178-bb9b-4af2-9db9-9f2faa0cdb01"
+    },
+    "70f346aa-69cf-45d0-8ae9-adf134e9a57f": {
+      "id": "70f346aa-69cf-45d0-8ae9-adf134e9a57f",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "You're right. The current delivery section sounds like a 90-day consulting engagement, but that's not actually your model anymore.\n\nThe Luxora model is:\n\n**Phase 1 = 90-Day Growth Accelerator**\n- Revenue Leak Audit\n- Growth Blueprint\n- Acquisition Systems\n- Optimization\n- Implementation\n- AI Tools\n- Training\n- Systems\n\n**Phase 2 = Ongoing Growth Partnership**\n- Ad Management\n- Campaign Optimization\n- Community Access\n- TLC AI Access\n- Continued Strategy\n- Growth Support\n- Quarterly Reviews\n- Long-Term Scaling\n\nI would replace the entire DELIVERY section with this:\n\n:::writing{variant=\"document\" id=\"49281\"}\n# DELIVERY\n\n\"One thing that's important to understand is that we don't look at this as a one-time project.\n\nWe look at it as building a growth foundation first, then creating a long-term growth partnership.\"\n\n---\n\n## PHASE 1 \u2014 THE 90-DAY GROWTH ACCELERATOR\n\n\"The first phase is our 90-Day Growth Accelerator.\n\nThis is where we identify the opportunities, uncover revenue leaks, build the strategy, and implement the systems that create growth.\n\nDuring these 90 days we focus on:\n\n\u2022 Revenue Leak Audit\n\u2022 Growth Blueprint\n\u2022 Patient Acquisition Strategy\n\u2022 Consultation Optimization\n\u2022 Membership & Retention Systems\n\u2022 Reactivation Campaigns\n\u2022 Follow-Up Systems\n\u2022 Growth Playbooks\n\u2022 TLC AI Access\n\u2022 Slack Support\n\u2022 Direct Access To Our Team\n\nThe goal is simple:\n\nCreate a growth engine that is predictable, measurable, and scalable.\"\n\n---\n\n## PHASE 2 \u2014 ONGOING GROWTH PARTNERSHIP\n\n\"Once the Growth Accelerator is complete, most clients choose to continue working with us through our Growth Partnership.\n\nThis is where we help continue scaling what we've built.\n\nThat includes:\n\n\u2022 Meta Ad Management\n\u2022 Campaign Optimization\n\u2022 Lead Quality Improvements\n\u2022 Ongoing Revenue Leak Reviews\n\u2022 Strategy Sessions\n\u2022 New Growth Opportunities\n\u2022 Community Access\n\u2022 Continued TLC AI Access\n\u2022 Ongoing Support From Our Team\n\nBecause growth isn't something you fix once.\n\nIt's something you continually optimize.\"\n\n---\n\n## DONE-WITH-YOU \u2014 $9,000\n\n\"Our Done-With-You option includes the full 90-Day Growth Accelerator.\n\nWe build the blueprint, identify the opportunities, provide the systems, training, playbooks, and support.\n\nYour team executes with our guidance.\"\n\n---\n\n## DONE-FOR-YOU \u2014 $15,000\n\n\"Our Done-For-You option includes everything in the Growth Accelerator, but we become much more involved in implementation.\n\nInstead of simply advising, we help build and execute the systems with you.\n\nThis is typically the best fit for owners who want speed, accountability, and support with implementation.\"\n\n---\n\n## RECOMMENDATION TRANSITION\n\n\"Based on everything you've shared with me today, here's what I would recommend...\"\n:::\n\nI would also change your guarantee language because it's currently buried inside an objection.\n\nAdd it immediately after the investment:\n\n**\"And to remove as much risk as possible, we back that with our Growth Guarantee. If we don't help you generate at least 2X your investment in new or recovered revenue during our engagement, we'll continue working with you at no additional cost until we do.\"**\n\nThat makes the guarantee a value-builder rather than a defensive response to an objection."
+          ]
+        },
+        "create_time": 1782251052.154794,
+        "id": "70f346aa-69cf-45d0-8ae9-adf134e9a57f",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "33a6cafe-80f5-4952-af8a-e8aab4abd893"
+        }
+      },
+      "parent": "4229e094-f1c7-4ff2-99c2-78ffb3d3be68"
+    },
+    "7cad91c7-d073-4ae8-a81c-ac5fd0c4e964": {
+      "id": "7cad91c7-d073-4ae8-a81c-ac5fd0c4e964",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Replace your current DWY and DFY sections with this:\n\n:::writing{variant=\"document\" id=\"31874\"}\n### DONE-WITH-YOU \u2014 $9,000\n\n\"This is our 90-Day Done-With-You Growth Accelerator.\n\nWe identify the opportunities.\n\nWe build the blueprint.\n\nWe show you exactly what to do.\n\nYou receive our Revenue Leak Audit, Growth Blueprint, Growth Course, playbooks, AI tools, Slack support, and direct access to our team for 90 days.\n\nThink of it as having an experienced growth partner guiding your implementation while your team executes.\"\n\n### DONE-FOR-YOU \u2014 $15,000\n\n\"This is our 90-Day Done-For-You Growth Accelerator.\n\nInstead of simply showing you what to do, we help build and implement the strategy with you.\n\nWe become an extension of your team.\n\nWe help run acquisition campaigns, optimize systems, improve patient journeys, and support execution so things actually get done.\n\nThis is typically the fastest path to implementing change and creating measurable growth.\"\n\n### ONGOING GROWTH PARTNERSHIP\n\n\"At the end of the 90 days, many of our clients choose to continue working with us through our ongoing Growth Partnership.\n\nThis allows us to continue managing and optimizing campaigns, identifying new growth opportunities, providing ongoing strategic support, maintaining access to our Med Spa Growth AI, and giving your team access to our private community of growth-focused aesthetic practice owners.\n\nBecause growth isn't a one-time event.\n\nThe practices that scale the fastest are the ones that continue optimizing long after the initial strategy is implemented.\"\n:::\n\nThis keeps it simple, explains the 90-day engagement clearly, and naturally introduces the recurring partnership without making the sales call feel more complicated."
+          ]
+        },
+        "create_time": 1782251111.672957,
+        "id": "7cad91c7-d073-4ae8-a81c-ac5fd0c4e964",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "0cd5dcc4-75dd-4ff2-b99b-bb7e3f70e51f"
+        }
+      },
+      "parent": "0cd5dcc4-75dd-4ff2-b99b-bb7e3f70e51f"
+    },
+    "87f54917-c36c-42ca-8f4d-4cb70b4096a0": {
+      "id": "87f54917-c36c-42ca-8f4d-4cb70b4096a0",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ":::writing{variant=\"document\" id=\"85741\"}\n# THE LUXORA COLLECTIVE SALES SCRIPT\n\n# RAPPORT\n\n\"Hey [Name], how's your week going so far?\"\n\n\"Awesome.\"\n\n\"And where are you located?\"\n\n\"Perfect.\"\n\n---\n\n# FRAME\n\n\"So [Name], here's what I'd like to do.\n\nI have the information you submitted in front of me, but I definitely have some additional questions and I want to understand exactly where the practice is today, where you're looking to go, and what's currently getting in the way.\n\nUltimately, I just want to see if we're a good fit to help.\n\nIf everything looks good, I'm happy to build out some higher-level strategy for you, show you where I believe the biggest opportunities are inside the practice, and we can talk through what it would look like to partner together.\n\nAnd if for whatever reason I don't think we're the right fit, I'll point you in the right direction and make sure you leave with clarity either way.\n\nSound fair?\"\n\n---\n\n# PAIN\n\n\"So [Name], I'd love to hear it directly from you.\n\nWhat's going on inside the practice right now that's got you reaching out for help?\"\n\n### FOLLOW UPS\n\n\"What specifically isn't working?\"\n\n\"How long has that been an issue?\"\n\n\"If it's been an issue for that long, why are you looking to solve it now?\"\n\n\"It sounds like this has been impacting the business for a while.\n\nHow important is it for you to solve this?\"\n\n(Pause)\n\n\"What happens if nothing changes over the next 6 to 12 months?\"\n\n(Pause)\n\n\"How much do you think that's costing you in revenue, time, or stress?\"\n\n---\n\n# TRANSITION INTO DISCOVERY\n\n\"Got it.\n\nThat gives me a better understanding of what's frustrating you right now.\n\nLet me ask a few questions about the business itself so I can understand where things stand today.\"\n\n---\n\n# BIGGEST BOTTLENECK\n\n\"If you had to point to one thing that's holding the practice back right now, what would it be?\"\n\n(Pause)\n\n\"What's that costing you in revenue, time, or stress?\"\n\n---\n\n# TRANSITION TO REVENUE\n\n\"That makes sense.\n\nLet's put some numbers around it so I can better understand the impact.\"\n\n---\n\n# CURRENT REVENUE\n\n\"What did the practice generate last month?\"\n\n\"What would you say your average monthly revenue is?\"\n\n\"What was your best month ever?\"\n\n---\n\n# TRANSITION TO GOALS\n\n\"Perfect.\n\nNow that I understand where the business is today, let's talk about where you're trying to take it.\"\n\n---\n\n# GOAL REVENUE\n\n\"Where would you like the practice to be in the next 12 months?\"\n\n(Pause)\n\n\"Why is that number important to you?\"\n\n(Pause)\n\n\"What happens if you don't get there?\"\n\n---\n\n# TIMING\n\n\"If you could solve these challenges and start moving toward that goal, when would you want that to happen?\"\n\n(Pause)\n\n\"Why now?\"\n\n(Pause)\n\n\"Was there something that happened recently that made this become more urgent?\"\n\n(Pause)\n\n\"How important is it for you to solve this now versus later?\"\n\n---\n\n# TRANSITION TO ACQUISITION\n\n\"That helps me understand the target.\n\nNow let's talk about how patients are currently finding you.\"\n\n---\n\n# ACQUISITION\n\n\"Where are most of your new patients currently coming from?\"\n\n\"What's working?\"\n\n\"What's not working?\"\n\n---\n\n# TRANSITION TO RETENTION\n\n\"Most owners focus heavily on acquisition, but some of the biggest opportunities are often inside the patients you already have.\"\n\n---\n\n# RETENTION & MEMBERSHIPS\n\n\"What percentage of your patients come back after their first treatment?\"\n\n(Pause)\n\n\"Do you currently offer memberships, packages, wellness programs, or recurring revenue services?\"\n\n(Pause)\n\n\"If I looked at your business today, where do you think more growth exists:\n\nGetting more patients?\n\nOr getting more value from the patients you already have?\"\n\n---\n\n# TRANSITION TO PREVIOUS ATTEMPTS\n\n\"That gives me a good picture of where the opportunities are.\n\nNow let me ask\u2014what have you already tried to improve these areas?\"\n\n---\n\n# PREVIOUS ATTEMPTS\n\n\"Have you worked with agencies?\"\n\n\"Consultants?\"\n\n\"Coaches?\"\n\n(Pause)\n\n\"What worked?\"\n\n\"What didn't?\"\n\n(Pause)\n\n\"What do you wish they had done differently?\"\n\n---\n\n# DOUBT\n\n\"Based on everything you've told me, why do you think this hasn't been solved already?\"\n\n(Pause)\n\n\"What do you think is missing right now?\"\n\n(Pause)\n\n\"What makes you feel like doing more of the same won't get you where you want to go?\"\n\n---\n\n# COMPARISON\n\n\"Are you currently looking at any other agencies, consultants, or options to solve these problems?\"\n\n(Pause)\n\n\"What are you comparing this against?\"\n\n---\n\n# SUPPORT\n\n\"In an ideal world, what kind of support would be most valuable to you?\"\n\n(Pause)\n\n\"Are you looking for someone to simply generate leads?\n\nOr are you looking for a partner that helps improve the entire patient journey and growth strategy?\"\n\n---\n\n# FINANCES\n\n\"How much are you currently investing each month into marketing, advertising, agencies, consultants, or growth initiatives?\"\n\n(Pause)\n\n\"Do you feel like that's producing the return you'd expect?\"\n\n(Pause)\n\n\"If you found a solution that genuinely helped you hit your goals, would you have the resources available to invest in fixing this?\"\n\n---\n\n# DECISION MAKER\n\n\"Do you own the practice outright?\"\n\n(Pause)\n\n\"Is there anyone else who would need to be involved in a decision today?\"\n\n---\n\n# REVENUE LEAK SUMMARY\n\n\"Before I walk you through what I'd recommend, let me summarize what I've heard.\n\nIt sounds like you're currently at approximately [$X] per month.\n\nYou'd like to get to [$GOAL].\n\nThe biggest challenge right now is [PAIN].\n\nMost of your new patients are coming from [SOURCE].\n\nAnd the biggest opportunities I see are in [ACQUISITION / CONVERSION / RETENTION / MEMBERSHIPS / SYSTEMS].\n\nWould you agree that's a fair summary?\"\n\n(Pause)\n\n\"Perfect.\"\n\n---\n\n# TRUST\n\n\"Before I jump into strategy, how familiar are you with us?\"\n\n\"What have you seen so far?\"\n\n\"What made you book the call?\"\n\n---\n\n# TRANSITION TO PITCH\n\n\"Perfect.\n\nBased on everything you've shared, I have a pretty good understanding of where the opportunities are.\n\nWould it be okay if I shared what I'm seeing?\"\n\n---\n\n# PERSONALIZED BRIDGE\n\n\"Based on everything you've shared, here's what I see.\n\nIt sounds like the biggest challenge isn't simply getting more leads.\n\nIt's actually [INSERT THEIR PAIN].\n\nAnd that's important because until that problem gets solved, it's going to continue limiting growth no matter how much effort gets put into the business.\n\nNow, that doesn't mean you don't need more patients.\n\nMost practices absolutely want more consultations, more patients, and more revenue.\n\nAnd we help them do exactly that.\n\nBut what we've found after working inside aesthetic practices for nearly two decades is that growth becomes much easier when we first identify where opportunities are being missed and then build the right systems to support growth.\"\n\n---\n\n# MICRO CREDIBILITY\n\n\"After nearly 20 years inside aesthetic practices, I've found growth almost always comes down to three things:\n\nClarity.\n\nAcquisition.\n\nExpansion.\"\n\n---\n\n# PILLAR 1 \u2014 CLARITY\n\n\"First, we create Clarity.\n\nMost med spa owners know they should be growing faster, but they don't know exactly where revenue is leaking, where opportunities are being missed, or what numbers actually matter.\n\nThat's why we begin with a comprehensive Revenue Leak Audit.\n\nWe evaluate acquisition, conversion, retention, memberships, packages, follow-up systems, patient experience, team performance, and operational workflows.\n\nThe goal is simple:\n\nIdentify exactly where growth is being lost and where the biggest opportunities exist.\"\n\n---\n\n# PILLAR 2 \u2014 ACQUISITION\n\n\"Once we have clarity, we focus on Acquisition.\n\nWe help practices generate more consultations and attract more qualified patients through Meta advertising, reactivation campaigns, referral systems, conversion-focused funnels, and lead generation strategies specifically designed for aesthetic practices.\"\n\n---\n\n# PILLAR 3 \u2014 EXPANSION\n\n\"Third, we focus on Expansion.\n\nBecause sustainable growth doesn't just come from getting more patients.\n\nIt comes from increasing retention, memberships, recurring revenue, patient lifetime value, referrals, wellness services, peptides, longevity programs, and maximizing every patient relationship.\"\n\n---\n\n# TEMPERATURE CHECK\n\n\"Based on everything we've discussed so far, does that feel like the type of support you've been looking for?\"\n\n(Pause)\n\n\"What stands out most to you?\"\n\n---\n\n# DELIVERY\n\n\"We have two ways we help clients.\"\n\n### DONE-WITH-YOU \u2014 $9,000\n\n\"This is for owners who want the roadmap and are willing to execute.\n\nWe identify the opportunities.\n\nWe build the blueprint.\n\nWe show you exactly what to do.\n\nYou receive our Revenue Leak Audit, Growth Blueprint, Growth Course, playbooks, AI tools, Slack support, and direct access to our team for 90 days.\n\nThink of it as having an experienced growth partner guiding your implementation.\"\n\n### DONE-FOR-YOU \u2014 $15,000\n\n\"This is for owners who want help implementing the plan.\n\nInstead of simply showing you what to do, we help build and implement the strategy with you.\n\nWe become an extension of your team.\n\nWe help run acquisition campaigns, optimize systems, improve patient journeys, and support execution so things actually get done.\"\n\n---\n\n# RECOMMENDATION\n\n\"Based on everything you've shared with me today, I believe the best fit would be our [DWY / DFY] Med Spa Growth Accelerator.\n\nThe reason is because your goal is [GOAL].\n\nAnd the biggest bottlenecks I identified are [PAIN POINTS].\n\nI believe this is the fastest path to helping you achieve that outcome.\"\n\n---\n\n# INVESTMENT\n\n\"The investment for our Done-With-You Med Spa Growth Accelerator is $9,000.\n\nThe investment for our Done-For-You Med Spa Growth Accelerator is $15,000.\"\n\n(Pause)\n\n\"Based on everything we've discussed today, do you feel like this is the right solution for helping you achieve the goals we talked about?\"\n\n(Pause)\n\nIF YES:\n\n\"Great.\n\nWould you prefer the Done-With-You option or the Done-For-You option?\"\n\n(Pause)\n\n---\n\n# OBJECTIONS\n\n## I NEED TO THINK ABOUT IT\n\n\"Absolutely.\n\nHelp me understand what specifically you'd like to think about.\"\n\n(Pause)\n\n\"Usually when someone tells me they need to think about it, they're actually trying to process one of three things:\n\nThe investment.\n\nThe timing.\n\nOr whether they believe this will work.\n\nWhich one is it for you?\"\n\n---\n\n## I NEED TO TALK TO MY PARTNER\n\n\"Of course.\n\nIs your partner typically involved in decisions like this?\"\n\n(Pause)\n\n\"What concerns do you think they'll have?\"\n\n(Pause)\n\n\"If they were sitting here with us right now, what questions do you think they'd ask?\"\n\n\"Let's answer those now so you're both working with the same information.\"\n\n---\n\n## WE TRIED AN AGENCY BEFORE\n\n\"I hear that quite often.\n\nWhat happened?\"\n\n(Listen)\n\n\"That's exactly why we've structured Luxora differently.\n\nMost agencies focus on leads.\n\nWe focus on acquisition, conversion, retention, patient value, and systems.\"\n\n---\n\n## IT'S TOO EXPENSIVE\n\n\"I completely understand.\n\nCompared to what?\"\n\n(Pause)\n\n\"Is it the investment itself?\n\nOr are you unsure the return justifies the investment?\"\n\n(Pause)\n\n\"If we can help identify and recover $50,000 to $500,000 in missed opportunities, the question isn't whether there's a cost.\n\nThe question is whether waiting costs more.\"\n\n---\n\n## WE'RE NOT READY\n\n\"That's fair.\n\nWhat specifically needs to happen before you feel ready?\"\n\n(Pause)\n\n\"Sometimes waiting feels safer.\n\nBut often the problems we're discussing today are still there six months from now\u2014only more expensive.\"\n\n---\n\n## SEND ME INFORMATION\n\n\"Happy to.\n\nWhat specifically are you hoping to see?\"\n\n(Pause)\n\n\"Because I'd rather answer the real question than send a generic PDF.\"\n\n---\n\n## WE DON'T HAVE THE TIME\n\n\"How much time are these problems already costing you every week?\"\n\n(Pause)\n\n\"Most owners don't have a growth problem.\n\nThey have a capacity problem.\"\n\n---\n\n## WE NEED MORE LEADS FIRST\n\n\"If I doubled your leads tomorrow, what percentage would actually become paying patients?\"\n\n(Pause)\n\n\"And how many would come back?\"\n\n\"That's why we focus on the entire revenue ecosystem, not just lead generation.\"\n\n---\n\n## WE CAN DO THIS OURSELVES\n\n\"You're probably right.\n\nThe question isn't whether you can.\n\nThe question is whether it will actually get implemented.\"\n\n---\n\n## WE ALREADY HAVE A MARKETING COMPANY\n\n\"That's completely fine.\n\nMany of our clients do.\n\nWhat we often find is that marketing isn't the primary problem.\n\nIt's what happens before and after the lead.\"\n\n---\n\n## WE NEED MORE CASH FIRST\n\n\"How do you plan to generate more cash if the current systems aren't producing the result you're looking for?\"\n\n(Pause)\n\n\"Sometimes the thing we're delaying is the very thing preventing growth.\"\n\n---\n\n## CAN YOU GUARANTEE RESULTS?\n\n\"No one can ethically guarantee a specific revenue number.\n\nWhat we can guarantee is a proven process for identifying revenue leaks, optimizing systems, and creating opportunities for growth.\"\n\n---\n\n# FINAL CLOSE\n\n\"Based on everything we've discussed today...\n\nWhat do you feel is the best next step?\"\n\n(Pause)\n\n\"Let me ask you this...\n\nWhat do you believe is the real cost of doing nothing?\"\n\n(Pause)\n\n\"And knowing that, what would you like to do next?\"\n:::\n\nThis is the version I'd actually put into production for Luxora. It's consultative, revenue-focused, positions you as an operator rather than a marketer, and naturally leads prospects from pain \u2192 diagnosis \u2192 prescription \u2192 investment without feeling pushy."
+          ]
+        },
+        "create_time": 1782250673.205442,
+        "id": "87f54917-c36c-42ca-8f4d-4cb70b4096a0",
+        "metadata": {
+          "content_references": [],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Past chat",
+                "citation_uuid": "f70acfe7-05d5-4f0a-91e5-41b596abe259",
+                "conversation_context_type": "past_conversation",
+                "conversation_title": "Revenue Growth Strategy",
+                "end_idx": -1,
+                "index": 1,
+                "matched_text": "",
+                "prompt_text": null,
+                "pub_date": 1782244026.734839,
+                "reason": null,
+                "refs": [],
+                "snippet": "First, we perform a comprehensive Revenue Leak Audit.",
+                "start_idx": -1,
+                "title": "Revenue Growth Strategy",
+                "type": "conversation_context_citation",
+                "url": "/c/6a3ae29b-0240-83e8-9386-eb3dad4a698e"
+              },
+              "citation_uuid": "f70acfe7-05d5-4f0a-91e5-41b596abe259",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "a140c8d4-8215-4a27-8787-af253c76caeb"
+        }
+      },
+      "parent": "1b1eb199-5ac1-4ef3-8287-63ff45388411"
+    },
+    "8992cb9e-36e3-4cfd-aa4c-e0345faac4f4": {
+      "id": "8992cb9e-36e3-4cfd-aa4c-e0345faac4f4",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "give me my entire script with these edits add tall the objections you cretaed fo rme from sheila dn your added thoughts: THE LUXORA COLLECTIVE SALES SCRIPT\nRAPPORT\n\n\"Hey [Name], how's your week going so far?\"\n\n\"Awesome.\"\n\n\"And where are you located?\"\n\n\"Perfect.\"\n\nFRAME\n\n\"So [Name], here's what I'd like to do.\n\nI have the information you submitted in front of me, but I definitely have some additional questions and I want to understand exactly where the practice is today, where you're looking to go, and what's currently getting in the way.\n\nUltimately, I just want to see if we're a good fit to help.\n\nIf everything looks good, I'm happy to build out some higher-level strategy for you, show you where I believe the biggest opportunities are inside the practice, and we can talk through what it would look like to partner together.\n\nAnd if for whatever reason I don't think we're the right fit, I'll point you in the right direction and make sure you leave with clarity either way.\n\nSound fair?\"\n\nPAIN\n\n\"So [Name], I'd love to hear it directly from you.\n\nWhat's going on inside the practice right now that's got you reaching out for help?\"\n\nFollow Ups\n\n\"What specifically isn't working?\"\n\n\"How long has that been an issue?\"\n\n\"If it's been an issue for that long, why are you looking to solve it now?\"\n\n\"It sounds like this has been impacting the business for a while.\n\nHow important is it for you to solve this?\"\n\n(Pause)\n\n\"What happens if nothing changes over the next 6 to 12 months?\"\n\n(Pause)\n\n\"How much do you think that's costing you in revenue, time, or stress?\"\n\nTRANSITION INTO DISCOVERY\n\n\"Got it.\n\nThat gives me a better understanding of what's frustrating you right now.\n\nLet me ask a few questions about the business itself so I can understand where things stand today.\"\n\nDISCOVERY\nBIGGEST BOTTLENECK\n\n\"If you had to point to one thing that's holding the practice back right now, what would it be?\"\n\n(Pause)\n\n\"What's that costing you in revenue, time, or stress?\"\n\nTRANSITION TO REVENUE\n\n\"That makes sense.\n\nLet's put some numbers around it so I can better understand the impact.\"\n\nCURRENT REVENUE\n\n\"What did the practice generate last month?\"\n\n\"What would you say your average monthly revenue is?\"\n\n\"What was your best month ever?\"\n\nTRANSITION TO GOALS\n\n\"Perfect.\n\nNow that I understand where the business is today, let's talk about where you're trying to take it.\"\n\nGOAL REVENUE\n\n\"Where would you like the practice to be in the next 12 months?\"\n\n(Pause)\n\n\"Why is that number important to you?\"\n\n(Pause)\n\n\"What happens if you don't get there?\"\n\nTIMING\n\n\"If you could solve these challenges and start moving toward that goal, when would you want that to happen?\"\n\n(Pause)\n\n\"Why now?\"\n\n(Pause)\n\n\"Was there something that happened recently that made this become more urgent?\"\n\n(Pause)\n\n\"Do you feel like today is the day you finally make a change and move toward those goals?\"\n\nTRANSITION TO ACQUISITION\n\n\"That helps me understand the target.\n\nNow let's talk about how patients are currently finding you.\"\n\nACQUISITION\n\n\"Where are most of your new patients currently coming from?\"\n\n\"What's working?\"\n\n\"What's not working?\"\n\nTRANSITION TO RETENTION\n\n\"Most owners focus heavily on acquisition, but some of the biggest opportunities are often inside the patients you already have.\"\n\nRETENTION & MEMBERSHIPS\n\n\"What percentage of your patients come back after their first treatment?\"\n\n(Pause)\n\n\"Do you currently offer memberships, packages, wellness programs, or recurring revenue services?\"\n\n(Pause)\n\n\"If I looked at your business today, where do you think more growth exists:\n\nGetting more patients?\n\nOr getting more value from the patients you already have?\"\n\nTRANSITION TO PREVIOUS ATTEMPTS\n\n\"That gives me a good picture of where the opportunities are.\n\nNow let me ask\u2014what have you already tried to improve these areas?\"\n\nPREVIOUS ATTEMPTS\n\n\"Have you worked with agencies?\"\n\n\"Consultants?\"\n\n\"Coaches?\"\n\n(Pause)\n\n\"What worked?\"\n\n\"What didn't?\"\n\n(Pause)\n\n\"What do you wish they had done differently?\"\n\nDOUBT\n\n\"Based on everything you've told me, why do you think this hasn't been solved already?\"\n\n(Pause)\n\n\"What do you think is missing right now?\"\n\n(Pause)\n\n\"What makes you feel like doing more of the same won't get you where you want to go?\"\n\nCOMPARISON\n\n\"Are you currently looking at any other agencies, consultants, or options to solve these problems?\"\n\n(Pause)\n\n\"What are you comparing this against?\"\n\nSUPPORT\n\n\"In an ideal world, what kind of support would be most valuable to you?\"\n\n(Pause)\n\n\"Are you looking for someone to simply generate leads?\n\nOr are you looking for a partner that helps improve the entire patient journey and growth strategy?\"\n\nFINANCES\n\n\"How much are you currently investing each month into marketing, advertising, agencies, consultants, or growth initiatives?\"\n\n(Pause)\n\n\"Do you feel like that's producing the return you'd expect?\"\n\n(Pause)\n\n\"If you found a solution that genuinely helped you hit your goals, would you have the resources available to invest in fixing this?\"\n\nDECISION MAKER\n\n\"Do you own the practice outright?\"\n\n(Pause)\n\n\"Is there anyone else who would need to be involved in a decision today?\"\n\nTRUST\n\n\"Before we jump into strategy, how familiar are you with us?\"\n\n\"What have you seen so far?\"\n\n\"What made you book the call?\"\n\nTRANSITION TO PITCH\n\n\"Perfect.\n\nBased on everything you've shared, I have a pretty good understanding of where the opportunities are.\n\nWould it be okay if I shared what I'm seeing?\"\n\nPITCH\nPERSONALIZED BRIDGE\n\n\"Based on everything you've shared, here's what I see.\n\nIt sounds like the biggest challenge isn't [LEADS].\n\nIt's actually [INSERT THEIR PAIN].\n\nAnd that's important because until that problem gets solved, it's going to continue limiting growth no matter how much effort gets put into the business.\n\nNow, that doesn't mean you don't need more patients.\n\nIn most cases, our clients absolutely want more consultations, more patients, and more revenue.\n\nAnd we help them do exactly that.\n\nBut what we've found after working inside aesthetic practices for nearly two decades is that growth becomes much easier when we first identify where opportunities are being missed and then build the right systems to support growth.\"\n\nMICRO CREDIBILITY\n\n\"After nearly 20 years inside aesthetic practices, I've found growth almost always comes down to three things:\n\nClarity.\n\nAcquisition.\n\nExpansion.\"\n\nPILLAR 1 \u2014 CLARITY\n\n\"First, we create Clarity.\n\nMost med spa owners know they should be growing faster, but they don't know exactly where revenue is leaking, where opportunities are being missed, or what numbers actually matter.\n\nSo before we ever talk about scaling, we identify where growth is being blocked and what needs to be fixed first.\"\n\nPILLAR 2 \u2014 ACQUISITION\n\n\"Second, we improve Acquisition.\n\nWe help practices generate more consultations and attract more qualified patients through proven marketing systems designed specifically for aesthetic practices.\"\n\nPILLAR 3 \u2014 EXPANSION\n\n\"Third, we focus on Expansion.\n\nBecause sustainable growth doesn't just come from getting more patients.\n\nIt comes from increasing retention, memberships, recurring revenue, patient lifetime value, referrals, and maximizing every patient relationship.\"\n\nTEMPERATURE CHECK\n\n\"Based on everything we've discussed so far, does that feel like the type of support you've been looking for?\"\n\n(Pause)\n\n\"What stands out most to you?\""
+          ]
+        },
+        "create_time": 1782250569.492,
+        "id": "8992cb9e-36e3-4cfd-aa4c-e0345faac4f4",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "020931f7-5ad4-4db6-8050-44c273346acc"
+    },
+    "91b5d178-bb9b-4af2-9db9-9f2faa0cdb01": {
+      "id": "91b5d178-bb9b-4af2-9db9-9f2faa0cdb01",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "If you want shorter calls that still uncover everything you need to prescribe the right solution, I'd condense Discovery into this:\n\n:::writing{variant=\"document\" id=\"27641\"}\n# DISCOVERY\n\n## BIGGEST BOTTLENECK\n\n\"If you had to point to one thing that's holding the practice back right now, what would it be?\"\n\n(Pause)\n\n\"What's that costing you in revenue, time, or stress?\"\n\n---\n\n## CURRENT REVENUE\n\n\"Help me understand the business today.\n\nWhat did the practice generate last month?\"\n\n\"What would you say your average monthly revenue is?\"\n\n\"What was your best month ever?\"\n\n---\n\n## GOAL REVENUE\n\n\"Where would you like the practice to be in the next 12 months?\"\n\n(Pause)\n\n\"Why is that number important to you?\"\n\n(Pause)\n\n\"What happens if you don't get there?\"\n\n---\n\n## ACQUISITION\n\n\"Where are most of your new patients currently coming from?\"\n\n\"What's working?\"\n\n\"What's not working?\"\n\n---\n\n## RETENTION & MEMBERSHIPS\n\n\"What percentage of your patients come back after their first treatment?\"\n\n(Pause)\n\n\"Do you currently offer memberships, packages, wellness programs, or recurring revenue services?\"\n\n(Pause)\n\n\"If I looked at your business today, where do you think more growth exists:\n\nGetting more patients?\n\nOr getting more value from the patients you already have?\"\n\n---\n\n## PREVIOUS ATTEMPTS\n\n\"What have you tried so far to solve these challenges?\"\n\n(Pause)\n\n\"Have you worked with any agencies, consultants, or coaches?\"\n\n(Pause)\n\n\"What worked?\"\n\n\"What didn't?\"\n\n---\n\n## DECISION MAKER\n\n\"One final question.\n\nHow do decisions like this typically get made?\"\n\n(Pause)\n\n\"Is there anyone besides yourself who would need to be involved in a decision?\"\n\n---\n\n# TRANSITION TO PITCH\n\n\"Perfect.\n\nBased on everything you've shared, I have a pretty good understanding of where the opportunities are.\n\nWould it be okay if I shared what I see?\"\n:::\n\nThis version is much tighter and aligns better with the Luxora Revenue Leak Audit. It gets you everything you actually need:\n\n1. Problem\n2. Revenue\n3. Goal\n4. Lead Source\n5. Retention/Memberships\n6. Previous Attempts\n7. Decision Process\n\nYou can usually get through this in 10-15 minutes while still having enough information to make a highly personalized recommendation. This is probably the version I'd use for a 30-minute sales call."
+          ]
+        },
+        "create_time": 1782250058.352972,
+        "id": "91b5d178-bb9b-4af2-9db9-9f2faa0cdb01",
+        "metadata": {
+          "content_references": [],
+          "model_slug": "gpt-5-5",
+          "parent_id": "b685c904-c41f-48f1-a5c8-09e2ff7a98dd"
+        }
+      },
+      "parent": "b94f612f-9a6f-494b-9afa-8a6e3524f529"
+    },
+    "a2bbd654-5c47-4d9d-bb65-49a8493ea6b0": {
+      "id": "a2bbd654-5c47-4d9d-bb65-49a8493ea6b0",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "assistant"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "I've reviewed your current script and the requested changes. The biggest improvement is that you're moving away from an early \"trial close\" and into a deeper consequence-based discovery, which fits the Luxora positioning much better. The conversation becomes consultative instead of salesy, and it creates stronger emotional ownership of the problem before the pitch. \ue200filecite\ue202turn0file0\ue201\n\nHere are the additional objections I would add to the bottom of the script:\n\n:::writing{variant=\"document\" id=\"58271\"}\n# ADDITIONAL LUXORA OBJECTION HANDLING\n\n## WE DON'T HAVE THE TIME\n\n\"I completely understand.\n\nLet me ask you this...\n\nHow much time are you currently spending dealing with the problems we discussed today?\"\n\n(Pause)\n\n\"Because most owners don't have a growth problem.\n\nThey have a capacity problem.\n\nThey're wearing too many hats.\"\n\n(Pause)\n\n\"If we could help create systems that save time while increasing revenue, would that make this a priority?\"\n\n---\n\n## WE NEED MORE LEADS FIRST\n\n\"I hear that a lot.\n\nCan I ask you something?\n\nIf I doubled your leads tomorrow, what percentage would actually turn into paying patients?\"\n\n(Pause)\n\n\"And what percentage would come back for additional treatments?\"\n\n(Pause)\n\n\"That's exactly why we start with the Revenue Leak Audit.\n\nMore leads don't fix conversion problems.\n\nMore leads don't fix retention problems.\n\nMore leads simply expose the weaknesses that already exist.\"\n\n---\n\n## WE CAN DO THIS OURSELVES\n\n\"You're probably right.\n\nMost of the strategies we implement aren't magic.\n\nThe real question is...\n\nWill they actually get implemented?\"\n\n(Pause)\n\n\"Because knowing what to do and consistently executing are two very different things.\"\n\n(Pause)\n\n\"How long have some of these challenges existed already?\"\n\n---\n\n## WE'RE TOO SMALL\n\n\"That's actually one of the best times to fix these issues.\n\nIt's much easier to build the right systems at $30,000 to $50,000 per month than it is at $300,000 per month.\"\n\n(Pause)\n\n\"Because the bigger you get, the more expensive the mistakes become.\"\n\n---\n\n## WE'RE TOO BIG FOR THIS\n\n\"I appreciate that perspective.\n\nMost larger practices don't struggle because they need another marketing agency.\n\nThey struggle because complexity creates revenue leaks.\"\n\n(Pause)\n\n\"More providers.\n\nMore locations.\n\nMore staff.\n\nMore patient journeys.\n\nThat's usually where we identify the biggest opportunities.\"\n\n---\n\n## I WANT TO WAIT UNTIL THINGS SLOW DOWN\n\n\"That's interesting.\n\nWhen do things usually slow down?\"\n\n(Pause)\n\n\"Because what I typically hear from owners is that next month turns into next quarter...\n\nand next quarter turns into next year.\"\n\n(Pause)\n\n\"If we were having this same conversation six months from now, what would need to happen for you to be glad you started today?\"\n\n---\n\n## THE ECONOMY IS UNCERTAIN\n\n\"You're right.\n\nThe economy is uncertain.\n\nThat's true for every business owner.\"\n\n(Pause)\n\n\"The question becomes:\n\nDo you want to navigate uncertainty with stronger systems, better retention, and more predictable revenue...\n\nor without them?\"\n\n---\n\n## WE ALREADY HAVE A MARKETING COMPANY\n\n\"That's completely fine.\n\nWe're not necessarily replacing them.\"\n\n(Pause)\n\n\"In fact, many of our clients already have agencies.\n\nWhat we often find is that marketing isn't the primary problem.\n\nIt's what happens before and after the lead comes in.\"\n\n(Pause)\n\n\"How are consultation conversion rates?\n\nShow rates?\n\nRetention?\n\nMembership penetration?\n\nPatient lifetime value?\"\n\n\"That's where we typically create the biggest wins.\"\n\n---\n\n## WE NEED TO GENERATE MORE CASH FIRST\n\n\"I understand.\n\nBut help me understand something.\n\nHow do you plan to generate more cash if the current systems aren't producing the results you're looking for?\"\n\n(Pause)\n\n\"Sometimes the very thing that's preventing growth is the thing we're delaying solving.\"\n\n---\n\n## CAN YOU GUARANTEE RESULTS?\n\n\"That's a great question.\n\nThe reality is that nobody can ethically guarantee a specific revenue number because every practice is different.\"\n\n(Pause)\n\n\"What I can tell you is that we've spent nearly 20 years inside aesthetic practices identifying the same patterns over and over again.\"\n\n\"We know where revenue leaks happen.\n\nWe know how to find them.\n\nAnd we know how to build systems that create predictable growth.\"\n\n\"The real question is whether you're committed to implementing the solutions once they're identified.\"\n\n---\n\n## I'M JUST SHOPPING AROUND\n\n\"Totally fair.\n\nMost smart business owners explore multiple options before making a decision.\"\n\n(Pause)\n\n\"What specifically are you comparing?\"\n\n(Pause)\n\n\"What would you need to see today to feel confident moving forward with the right solution?\"\n\n---\n\n## WE TRIED THIS BEFORE AND IT DIDN'T WORK\n\n\"I appreciate your honesty.\n\nWhat specifically didn't work?\"\n\n(Listen)\n\n\"That makes sense.\"\n\n(Pause)\n\n\"Would it be fair to say the issue wasn't that growth systems don't work...\n\nbut that the previous solution wasn't implemented correctly or wasn't the right fit?\"\n\n(Pause)\n\n\"Because those are two very different things.\"\n\n---\n\n## IF YOU WERE ME, WHAT WOULD YOU DO?\n\n\"If I were in your position...\n\nand I truly believed the problems we discussed were costing me revenue every month...\n\nI'd solve them as quickly as possible.\"\n\n(Pause)\n\n\"Whether that's with us or someone else.\"\n\n\"Because unresolved problems compound.\"\n\n\"The longer they exist, the more expensive they become.\"\n:::\n\nOne more close I would add after objections, because it fits your personality and Luxora's consultative style:\n\n**\"Let me ask you this...**\n\n**Based on everything we've uncovered today, what do you believe is the real cost of doing nothing?\"**\n\n(Pause)\n\n**\"And knowing that, what would you like to do next?\"**\n\nThat close tends to outperform hard closes with med spa owners because it keeps them in ownership of the decision rather than feeling sold."
+          ]
+        },
+        "create_time": 1782249898.581111,
+        "id": "a2bbd654-5c47-4d9d-bb65-49a8493ea6b0",
+        "metadata": {
+          "content_references": [
+            {
+              "alt": null,
+              "cloud_doc_url": "",
+              "connector_id": null,
+              "drug_file_reference": null,
+              "fff_metadata": null,
+              "id": "file_000000007c20722f811de1277982141b",
+              "input_pointer": {
+                "file_index": 0,
+                "line_range_end": null,
+                "line_range_start": null,
+                "message_id": "5265aa5e-b900-465e-9297-82e3fee18f08",
+                "message_index": 0
+              },
+              "library_artifact_type": null,
+              "library_file_id": null,
+              "medical_file_reference": {
+                "authors_display": null,
+                "doi": null,
+                "journal_homepage_url": null,
+                "journal_name": null,
+                "publication_year": null,
+                "source_icon_url": null,
+                "source_label": null,
+                "source_url": null
+              },
+              "name": "Luxora Collective Sales Script.docx",
+              "page_range_end": null,
+              "page_range_start": null,
+              "snippet": null,
+              "source": "my_files",
+              "type": "file"
+            }
+          ],
+          "conversation_context_citation_metadata": [
+            {
+              "citation": {
+                "alt": null,
+                "attribution": "Past chat",
+                "citation_uuid": "58f90593-f5b8-43d6-9769-9dd04fcb0312",
+                "conversation_context_type": "past_conversation",
+                "conversation_title": "Revenue Growth Strategy",
+                "end_idx": -1,
+                "index": 1,
+                "matched_text": "",
+                "prompt_text": null,
+                "pub_date": 1782244026.734839,
+                "reason": null,
+                "refs": [],
+                "snippet": "PILLAR 1 \u2014 REVENUE LEAK AUDIT",
+                "start_idx": -1,
+                "title": "Revenue Growth Strategy",
+                "type": "conversation_context_citation",
+                "url": "/c/6a3ae29b-0240-83e8-9386-eb3dad4a698e"
+              },
+              "citation_uuid": "58f90593-f5b8-43d6-9769-9dd04fcb0312",
+              "deleted": false,
+              "feedback": null
+            }
+          ],
+          "model_slug": "gpt-5-5",
+          "parent_id": "f02366cd-2f63-44c7-84fa-dae738bad67e"
+        }
+      },
+      "parent": "0e002949-2bec-446e-8f05-6de605447f54"
+    },
+    "b94f612f-9a6f-494b-9afa-8a6e3524f529": {
+      "id": "b94f612f-9a6f-494b-9afa-8a6e3524f529",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "make the disocver section incldude these and make it shorter Biggest Bottleneck\nCurrent Revenue\nGoal Revenue\nAcquisition Source\nRetention/Memberships\nPrevious Attempts\nDecision Maker"
+          ]
+        },
+        "create_time": 1782250058.179,
+        "id": "b94f612f-9a6f-494b-9afa-8a6e3524f529",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "2fb72cf7-683a-4435-93d2-c6152f2efc1b"
+    },
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null
+    },
+    "d0f2baa0-9f58-44be-be65-1826b1564af0": {
+      "id": "d0f2baa0-9f58-44be-be65-1826b1564af0",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "you have gievn me too mnay little pieces, im lost now. pelase give me the full final script with all text from hello to the end"
+          ]
+        },
+        "create_time": 1782250638.856,
+        "id": "d0f2baa0-9f58-44be-be65-1826b1564af0",
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          }
+        }
+      },
+      "parent": "0f63e5c6-ba09-4244-ae94-5298378e627f"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Script Changes and Objections",
+  "update_time": 1782251223.814668,
+  "voice": null
+}

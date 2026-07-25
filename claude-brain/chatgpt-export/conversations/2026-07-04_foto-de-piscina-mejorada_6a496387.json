@@ -1,0 +1,80 @@
+{
+  "conversation_id": "6a496387-9d48-83e8-b7ce-55c480f8c509",
+  "conversation_template_id": null,
+  "create_time": 1783194512.75057,
+  "current_node": "bbb21e46-756f-4c1f-ade2-2673dc5a839b",
+  "default_model_slug": "gpt-5-5",
+  "id": "6a496387-9d48-83e8-b7ce-55c480f8c509",
+  "is_archived": false,
+  "is_do_not_remember": false,
+  "is_read_only": null,
+  "is_starred": null,
+  "is_study_mode": false,
+  "mapping": {
+    "7a524214-211a-432f-9ec7-7fe420a57e80": {
+      "id": "7a524214-211a-432f-9ec7-7fe420a57e80",
+      "message": null,
+      "parent": null
+    },
+    "bbb21e46-756f-4c1f-ade2-2673dc5a839b": {
+      "id": "bbb21e46-756f-4c1f-ade2-2673dc5a839b",
+      "message": {
+        "author": {
+          "name": null,
+          "role": "user"
+        },
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "asset_pointer": "sediment://file_00000000e458720c9829c205757bda5d",
+              "content_type": "image_asset_pointer",
+              "fovea": null,
+              "height": 4032,
+              "metadata": {
+                "asset_pointer_link": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "dalle": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "generation": null,
+                "gizmo": null,
+                "is_no_auth_placeholder": null,
+                "lpe_delta_encoding_channel": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "watermarked_asset_pointer": null
+              },
+              "size_bytes": 493911,
+              "width": 3024
+            },
+            "Enhance this picture "
+          ]
+        },
+        "create_time": 1783194512.494413,
+        "id": "bbb21e46-756f-4c1f-ade2-2673dc5a839b",
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file_00000000e458720c9829c205757bda5d",
+              "mime_type": "image/jpeg",
+              "name": "1000020614.jpg",
+              "size": 493911
+            }
+          ],
+          "content_references": [],
+          "image_results": [],
+          "model_slug": "gpt-5-5"
+        }
+      },
+      "parent": "7a524214-211a-432f-9ec7-7fe420a57e80"
+    }
+  },
+  "memory_scope": "global_enabled",
+  "pinned_time": null,
+  "plugin_ids": null,
+  "title": "Foto de piscina mejorada",
+  "update_time": 1783194567.309902,
+  "voice": null
+}
